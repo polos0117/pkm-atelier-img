@@ -21,7 +21,7 @@ img/thumb/<같은 이름>   목록용. 긴 변 512
 파일 이름이 곧 등록 정보다. 차례는 뒤에서부터 벗긴다.
 
 ```
-<카드>_<폼>_<화풍>_<성별>.webp          폼 초상    피카츄_light_semi_real_f.webp
+<카드>_<폼>_<화풍>_<성별>.webp          폼 초상    피카츄_light_cinematic_semi_real_f.webp
 <카드>_<폼>_<화풍>_<성별>_actionN.webp  연출컷     폼마다 있어도 되고 없어도 된다
 <카드>_<화풍>_<성별>_casualN.webp       일상컷     일상컷은 폼을 안 탄다
 ```
@@ -43,3 +43,6 @@ python3 tools/make-thumbs.py         # img/thumb/ 를 만든다
 
 Pages 를 켜 두어야 `https://polos0117.github.io/pkm-atelier-img/img/…` 로 읽힌다.
 `.nojekyll` 은 Pages 가 파일을 있는 그대로 내보내게 한다.
+
+화풍 key는 코드 저장소의 `lib/prompt-spec.js` (`ART_STYLES`)를 따른다.
+도감과 등록 도구가 읽는 `data/style.json`도 그 목록에서 생성한다.
