@@ -1,0 +1,97 @@
+{
+  "card": "리자드",
+  "style": "mecha_cinematic_keyart",
+  "gender": "f",
+  "anchor_approved": true,
+  "images": [
+    {
+      "slot": "sheet",
+      "path": "sheets/리자드_mecha_cinematic_keyart_f_sheet.webp",
+      "source": "exec-0c7b8ea0-14ef-4521-b559-02638b31c141.png",
+      "size": [
+        1086,
+        1448
+      ],
+      "source_sha256": "418b181671206f722abdf64899eaf55e01c8cd9fe7e64b67639010ba35bdc11c",
+      "sha256": "dcac75af59b250484abb74d4067276be5e9650a363e3d7e23adf50ab5fde14be"
+    },
+    {
+      "slot": "light",
+      "path": "img/리자드_light_mecha_cinematic_keyart_f.webp",
+      "source": "exec-8d34b7b4-1beb-4400-a7d0-471bb6add710.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "a1d73c4149e7bd158caa5790bb126934a35fb67d44a48976a5ce253a9bb68806",
+      "sha256": "8f74dbad330c25331505e2fb98a5f9bfe388328f3b7da92626e48189623584df"
+    },
+    {
+      "slot": "heavy",
+      "path": "img/리자드_heavy_mecha_cinematic_keyart_f.webp",
+      "source": "exec-d1c6c22a-8c0c-428d-b567-98cb6c0e6087.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "ef36f07472975e8d884a2f515681f392f92d89b81301a315adae489e42e8aec8",
+      "sha256": "ee3a16b5f86e278524b730a04eea5e57f7932efaef73206aacf5c562db9ab44f"
+    },
+    {
+      "slot": "mobility",
+      "path": "img/리자드_mobility_mecha_cinematic_keyart_f.webp",
+      "source": "exec-b496d80d-76ea-4103-96da-55dc0ee19602.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "61c93765ace420519b584480d313fe004a72dd1c3eff2506dbe7e78bee077b9d",
+      "sha256": "fbe92c87b1216b3e1ff51ecc04068f7bfecb97bf731139b2050506919c2a58d8"
+    },
+    {
+      "slot": "light_overdrive",
+      "path": "img/리자드_light_overdrive_mecha_cinematic_keyart_f.webp",
+      "source": "exec-68f5062a-4210-456b-b5ef-5d1bd5fe3c83.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "d8163aa4682a90e3b24e589d24edb6cd490b945fd105ae8edfa5ff16a0e4c34b",
+      "sha256": "f2d13ceb4ad47692c032547801d6921cd7486dd48ae5073c1dcdcda57873792f"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "path": "img/리자드_heavy_overdrive_mecha_cinematic_keyart_f.webp",
+      "source": "exec-47f604c0-2044-45cd-91c7-f9cdc36f52f0.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "9732cb4b5fd18a677a9edb1c8b09b4b3ea2f0a460a556324ff5e484bf9aaf4a4",
+      "sha256": "02614bbacc77c3f905ed756939f8b190c83c51fd4740704920f5bbde59a90eb7"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "path": "img/리자드_mobility_overdrive_mecha_cinematic_keyart_f.webp",
+      "source": "exec-345d5d9d-5847-4257-9568-8ba4d87e7aa9.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "fd49b0a22d388ef779a2b6fe41108d3df1d9d894ff8adaefec0c673729050518",
+      "sha256": "2e9ab2556a97819d481fdef9a8e111008153240ca7b2ed81df9da307bbe197c1"
+    },
+    {
+      "slot": "casual",
+      "path": "img/리자드_mecha_cinematic_keyart_f_casual1.webp",
+      "source": "exec-51b355e8-9dc0-4b05-85fa-fd38403a990d.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "96786e0f09a7fdd460fc9dc4a4dd6673a7bfbdeea458b1c4d5e487aed47c17a0",
+      "sha256": "c0368ee23f1393608026973e4e634dd0a8363ba844acdd8d3d1765ec0db8d001"
+    }
+  ],
+  "note": "Final heavy and heavy overdrive use approved broad-coverage solid-plate revision."
+}
