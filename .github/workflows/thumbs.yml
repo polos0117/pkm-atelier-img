@@ -4,6 +4,8 @@ name: 썸네일
 # 만드는 도구는 코드 저장소(pkm-atelier)의 tools/make-thumbs.py 다 — 여기 복사해 두지
 # 않고 그때그때 받아 온다. 등록(data/img.json)은 코드 저장소의 워크플로가 한다.
 # 되커밋에는 [skip actions] 를 붙여 이 워크플로가 다시 돌지 않게 한다.
+# 끝나면 코드 저장소의 "그림 등록" 을 깨운다 — 저장소 비밀 CODE_REPO_TOKEN 이 있을 때만.
+# 토큰이 없으면 코드 저장소는 시간표(자주 빠진다)나 Run workflow 로 등록한다.
 on:
   push:
     branches: [main]
@@ -60,3 +62,23 @@ jobs:
             git pull --rebase origin main || exit 1
           done
           exit 1
+
+      # 코드 저장소는 여기 푸시를 볼 수 없다. 토큰으로 직접 두드린다.
+      # 토큰: github.com → Settings → Developer settings → Fine-grained tokens,
+      #   저장소 pkm-atelier 하나, Contents: Read and write. 그것을 이 저장소의
+      #   Settings → Secrets and variables → Actions 에 CODE_REPO_TOKEN 으로 넣는다.
+      - name: 코드 저장소 깨우기
+        if: ${{ !cancelled() }}
+        env:
+          TOKEN: ${{ secrets.CODE_REPO_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "CODE_REPO_TOKEN 이 없다 — 코드 저장소는 시간표나 Run workflow 로 등록한다"
+            exit 0
+          fi
+          curl -sS --fail -X POST \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/polos0117/pkm-atelier/dispatches \
+            -d '{"event_type":"images-updated"}'
+          echo "깨웠다 — pkm-atelier 의 그림 등록 이 곧 돈다"

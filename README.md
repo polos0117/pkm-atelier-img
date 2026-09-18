@@ -34,8 +34,24 @@ img/thumb/<같은 이름>   목록용. 긴 변 512
 없다 — 워크플로가 한다.
 
 - 여기 `썸네일` 워크플로가 `img/*.webp` 푸시를 보고 `img/thumb/` 를 만들어 되커밋한다.
-- `pkm-atelier` 의 `그림 등록` 워크플로가 한 시간마다 여기를 읽어 `data/img.json` 에 적는다.
-  기다리기 싫으면 그쪽 Actions 에서 "Run workflow" 를 누른다.
+- 썸네일 워크플로가 끝나면서 `pkm-atelier` 의 `그림 등록` 워크플로를 깨우고, 그쪽이 여기를
+  읽어 `data/img.json` 에 적는다. 깨우려면 이 저장소의 Actions 비밀에 `CODE_REPO_TOKEN`
+  이 있어야 한다(아래). 없으면 그쪽 시간표(매시 17분, 자주 빠진다)를 기다리거나 그쪽
+  Actions 에서 "Run workflow" 를 누른다.
+
+### CODE_REPO_TOKEN
+
+그림 저장소의 워크플로는 코드 저장소를 건드릴 권한이 없다. 토큰 하나로 그 길을 튼다.
+
+1. github.com → Settings → Developer settings → Personal access tokens → Fine-grained tokens
+   → Generate new token.
+2. Repository access: Only select repositories → `pkm-atelier` 하나.
+   Permissions → Repository permissions → Contents: **Read and write**. 나머지는 손대지 않는다.
+3. 이 저장소(`pkm-atelier-img`) → Settings → Secrets and variables → Actions → New repository
+   secret. 이름 `CODE_REPO_TOKEN`, 값은 그 토큰.
+
+만료되면 등록만 다시 시간표로 떨어지고 썸네일은 그대로 된다. 워크플로 로그의
+"코드 저장소 깨우기" 단계에 토큰이 없다고 찍히면 그때다.
 
 여기 파일이 있다고 화면에 뜨지는 않는다. `data/img.json` 에 적힌 것만 뜬다. 이름이 틀린
 파일이 하나라도 있으면 등록이 전부 멈추니, 올리기 전에 `pkm-atelier` 의
