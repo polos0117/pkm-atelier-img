@@ -1,0 +1,110 @@
+{
+  "card": "파이리",
+  "style": "mecha_cinematic_keyart",
+  "gender": "f",
+  "approved": true,
+  "files": [
+    {
+      "slot": "sheet",
+      "path": "sheets/파이리_mecha_cinematic_keyart_f_sheet.webp",
+      "size": [
+        1086,
+        1448
+      ],
+      "sha256": "2512b8cea9ecedcc3b08116d38398e9cfdb5d35df777fb7bb7f780e537ff80f7",
+      "source_sha256": "eb4881ca25d7f2e424629cc14300099c169533259a44c8aee75694e1fcffb393",
+      "bytes": 663816,
+      "source_file": "exec-21ca88fe-6807-415e-b823-74cdeb9ef0ca.png"
+    },
+    {
+      "slot": "light",
+      "path": "img/파이리_light_mecha_cinematic_keyart_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "f4f674bdd9415e6eecf51602f73fbd878185fc083ab932724d020cfa0693d1cc",
+      "source_sha256": "a9e47db5f437cdb0529590143ba461941909455eb60b2225e2f56fbaaee47343",
+      "bytes": 328592,
+      "source_file": "exec-b7c63a34-cf12-4d3c-afd9-1435ec8cccd6.png"
+    },
+    {
+      "slot": "heavy",
+      "path": "img/파이리_heavy_mecha_cinematic_keyart_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "cd1a708c9f8188d0b08c185bbad30ddeb0048a0a7286e766ff26598e035428df",
+      "source_sha256": "29e331258e01fcbcba05c8d986027696f586d393ee13c5b75678e5677739c51f",
+      "bytes": 305068,
+      "source_file": "exec-bfac268a-22d2-4a5e-9cf1-8a1445cea374.png"
+    },
+    {
+      "slot": "mobility",
+      "path": "img/파이리_mobility_mecha_cinematic_keyart_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "73c4c6aededa8b4c6c10b209db9fc1a2c106dd1a5620ad6a4cf6b49b815b85f4",
+      "source_sha256": "26e58c9d234f9823026fb99f0b601f43a8d88b04aa646a40a013874c26c96ed1",
+      "bytes": 352060,
+      "source_file": "exec-143d01f9-eb9c-479f-a14c-9c54ee7f7205.png"
+    },
+    {
+      "slot": "light_overdrive",
+      "path": "img/파이리_light_overdrive_mecha_cinematic_keyart_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "fa574ee2101a5e12f43c119f2de4e12688840746aeaad783d51c93b749119887",
+      "source_sha256": "5142a4de61200f4886e028b82dfbffc1819ef198fd65b1eda6acfc51b92329cf",
+      "bytes": 402278,
+      "source_file": "exec-2230ccc2-2103-44d1-a5ad-8dfade17de63.png"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "path": "img/파이리_heavy_overdrive_mecha_cinematic_keyart_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "50cdf467b07c6c666a64b6cb57c432ba1080d2b914922a26cd6d6eab4780272b",
+      "source_sha256": "e1235e0fd8ddd528871930b6c5ab7b3cc84ced3dd7154668abf38acb4c0b2069",
+      "bytes": 420108,
+      "source_file": "exec-97cf6bf8-3130-45bf-9d79-625cfd37d572.png"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "path": "img/파이리_mobility_overdrive_mecha_cinematic_keyart_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "d143adef43e50fc4c989f0a6a77882bf8d50b0eaee2092ac33d36106c3171079",
+      "source_sha256": "bb6f64f5e040359fafb4ff8f3efcf4165aca7af8a4e401dc9163ab03a3f102a0",
+      "bytes": 404846,
+      "source_file": "exec-ee0d1b24-463e-42d1-8e86-7e4c0c6e34d2.png"
+    },
+    {
+      "slot": "casual1",
+      "path": "img/파이리_mecha_cinematic_keyart_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "cf291834b61aa851d47150d140e1ca723bf402cf38ad53ed4e6164b62a73999e",
+      "source_sha256": "c30ac3411c6dea037878d061affaf36489b002ec29616e3ee77dc3e91c9ad652",
+      "bytes": 303442,
+      "source_file": "exec-7809f855-f53f-4e57-a8c0-3039b30162b8.png"
+    }
+  ],
+  "identity_anchor": "sheets/파이리_mecha_cinematic_keyart_f_sheet.webp",
+  "notes": [
+    "All eight final images approved in the conversation.",
+    "Heavy and heavy overdrive use the final body/panel corrections; light overdrive retained as approved.",
+    "Source PNG SHA-256 hashes identify generated originals; repository assets are WebP quality 92 with unchanged dimensions."
+  ]
+}
