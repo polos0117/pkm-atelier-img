@@ -1,0 +1,62 @@
+name: 썸네일
+
+# img/ 에 webp 를 올리면 img/thumb/ 에 목록용 축소본을 만들어 되커밋한다.
+# 만드는 도구는 코드 저장소(pkm-atelier)의 tools/make-thumbs.py 다 — 여기 복사해 두지
+# 않고 그때그때 받아 온다. 등록(data/img.json)은 코드 저장소의 워크플로가 한다.
+# 되커밋에는 [skip actions] 를 붙여 이 워크플로가 다시 돌지 않게 한다.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'img/*.webp'
+  workflow_dispatch:
+
+# 연달아 올리면 차례로 돈다. 두 실행이 같은 파일을 밀면 푸시가 깨진다
+concurrency:
+  group: thumbs
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  thumbs:
+    runs-on: ubuntu-latest
+    steps:
+      # 되커밋이 밀렸을 때 rebase 를 하므로 온전한 이력이 필요하다
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/checkout@v4
+        with:
+          repository: polos0117/pkm-atelier
+          path: code
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Pillow 설치
+        run: pip install --quiet Pillow
+
+      - name: 썸네일
+        # img/ 를 읽고 img/thumb/ 에 쓴다. 이미 있고 원본보다 새 것이면 건너뛴다
+        run: python3 code/tools/make-thumbs.py
+
+      - name: 되커밋
+        run: |
+          if [ -z "$(git status --porcelain -- img/thumb)" ]; then
+            echo "달라진 것 없음 — 커밋하지 않는다"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add img/thumb
+          git commit -m "자동 썸네일 [skip actions]"
+          # 사이에 다른 커밋이 들어왔으면 얹어서 다시 민다
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase origin main || exit 1
+          done
+          exit 1

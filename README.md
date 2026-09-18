@@ -31,12 +31,16 @@ img/thumb/<같은 이름>   목록용. 긴 변 512
 
 ## 올린 뒤에 할 일
 
-여기 파일이 있다고 화면에 뜨지는 않는다. `pkm-atelier` 에서 등록을 거쳐야 한다.
+없다 — 워크플로가 한다.
 
-```bash
-python3 tools/register-images.py     # data/img.json 에 적는다
-python3 tools/make-thumbs.py         # img/thumb/ 를 만든다
-```
+- 여기 `썸네일` 워크플로가 `img/*.webp` 푸시를 보고 `img/thumb/` 를 만들어 되커밋한다.
+- `pkm-atelier` 의 `그림 등록` 워크플로가 한 시간마다 여기를 읽어 `data/img.json` 에 적는다.
+  기다리기 싫으면 그쪽 Actions 에서 "Run workflow" 를 누른다.
+
+여기 파일이 있다고 화면에 뜨지는 않는다. `data/img.json` 에 적힌 것만 뜬다. 이름이 틀린
+파일이 하나라도 있으면 등록이 전부 멈추니, 올리기 전에 `pkm-atelier` 의
+[IMAGE_RULES.md](https://github.com/polos0117/pkm-atelier/blob/main/IMAGE_RULES.md) 대로
+이름을 검사한다. 기준 시트는 `img/` 가 아니라 `sheets/` 에 둔다.
 
 썸네일은 없어도 화면이 원본으로 되돌아가 뜨기는 한다. 다만 목록이 원본을 그대로
 받아 무거워진다.
