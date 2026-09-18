@@ -1,0 +1,159 @@
+{
+  "card": "리자몽",
+  "style": "mecha_cinematic_keyart",
+  "gender": "f",
+  "anchor_approved": true,
+  "generator": "https://polos0117.github.io/pkm-atelier/prompt.html",
+  "generator_source_commit": "bc36e48d2cb77e318efc2b37e3f29fa37893f147",
+  "image_repository_parent_commit": "b6f4cd339bb5c632e50eeae15a91e1fecaeab327",
+  "images": [
+    {
+      "slot": "sheet",
+      "path": "sheets/리자몽_mecha_cinematic_keyart_f_sheet.webp",
+      "source": "exec-0a0b731e-b26f-4655-b0ae-36172628059c.png",
+      "size": [
+        1086,
+        1448
+      ],
+      "source_sha256": "ba0ea158686253f75a75244e9cf7e55f8f0dcb9a5b6b79d61beef42883a7d313",
+      "sha256": "0c7fbe2009f9932b20b73f50e6804f673bd2333e76cd0cd74ac6f17ac31facae",
+      "references": []
+    },
+    {
+      "slot": "light",
+      "path": "img/리자몽_light_mecha_cinematic_keyart_f.webp",
+      "source": "exec-b90b8677-af31-459f-9b10-e71126e767da.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "3c52befead6c751dd4e30be94a8000e9e7f85f8ee92de63afa02dad71ac1714b",
+      "sha256": "a08aac5ce8dbeefe3d8763ae4d383509c1c28e3360b2d0702b29e31a73843b16",
+      "references": [
+        "sheets/리자몽_mecha_cinematic_keyart_f_sheet.webp"
+      ]
+    },
+    {
+      "slot": "heavy",
+      "path": "img/리자몽_heavy_mecha_cinematic_keyart_f.webp",
+      "source": "exec-4590e398-06f6-47a3-9b13-d0beac129213.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "3fdf7f3eb07fc9145a1d1de293e4e6e4ed5d3658f51456c2c35064b455b4bb35",
+      "sha256": "daa8d9fecd27b9a7eb81d5725788497f5665b9a43e0cd79381fdad60e3ea8c0e",
+      "references": [
+        "sheets/리자몽_mecha_cinematic_keyart_f_sheet.webp"
+      ]
+    },
+    {
+      "slot": "mobility",
+      "path": "img/리자몽_mobility_mecha_cinematic_keyart_f.webp",
+      "source": "exec-037b5f5d-9c1d-495b-b162-de0031b40566.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "b947845f0d7a338002f453dea9b6fc12492a9bb4947654fc9c775a7ce6377961",
+      "sha256": "a89f42dc3e2ba7b485cb86d16363c71dded168e9f46818acb5d88e0f3360615e",
+      "references": [
+        "sheets/리자몽_mecha_cinematic_keyart_f_sheet.webp"
+      ]
+    },
+    {
+      "slot": "light_overdrive",
+      "path": "img/리자몽_light_overdrive_mecha_cinematic_keyart_f.webp",
+      "source": "exec-aa74fa99-1fcf-4711-b020-33cd33a7033c.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "0ec8d809d929fec5eed81fa4caaa4049d607af8e6f011e99c9ce180f28a32fb8",
+      "sha256": "3b92c375cf9dc187b1c4d06a512da35a454a4f7520ec5f2bd72284bd7bf22639",
+      "references": [
+        "sheets/리자몽_mecha_cinematic_keyart_f_sheet.webp",
+        "img/리자몽_light_mecha_cinematic_keyart_f.webp"
+      ]
+    },
+    {
+      "slot": "heavy_overdrive",
+      "path": "img/리자몽_heavy_overdrive_mecha_cinematic_keyart_f.webp",
+      "source": "exec-a8831577-4b43-4d85-9739-7cf9e66f61fd.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "87ead26df9eb78008091d538d6e517e056508536dee34fe535e5cd9248b7a9e9",
+      "sha256": "693216e69d17435f28ba8186a02e89f85385cb96523c59d85762bbfa8acebd2d",
+      "references": [
+        "sheets/리자몽_mecha_cinematic_keyart_f_sheet.webp",
+        "img/리자몽_heavy_mecha_cinematic_keyart_f.webp"
+      ]
+    },
+    {
+      "slot": "mobility_overdrive",
+      "path": "img/리자몽_mobility_overdrive_mecha_cinematic_keyart_f.webp",
+      "source": "exec-a7a8de86-2046-456c-9fb8-629edd1acdeb.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "1093f580cc68898a296236cf6e9465f421b74591b8c88352c6ddc532014f15d3",
+      "sha256": "94282c507589af852da962ff7e02d4277b2bcf44ef33cd2fa1a9697008177a7d",
+      "references": [
+        "sheets/리자몽_mecha_cinematic_keyart_f_sheet.webp",
+        "img/리자몽_mobility_mecha_cinematic_keyart_f.webp"
+      ]
+    },
+    {
+      "slot": "casual",
+      "path": "img/리자몽_mecha_cinematic_keyart_f_casual1.webp",
+      "source": "exec-c986db63-0bb5-4058-9ae0-988eb98011e4.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "435c91696b0ca38cb98ffa4790d24a5bf8a376ec5898764ad817594605099c44",
+      "sha256": "089f4ddc2ad27357a797f487b28c9b59d6cbc2fdf05d83528c674fcf1bd57538",
+      "references": [
+        "sheets/리자몽_mecha_cinematic_keyart_f_sheet.webp"
+      ]
+    }
+  ],
+  "prompt_record_status": "Exact submitted prompt files were not persisted in the generation turn; not reconstructed or represented as original exports.",
+  "settings": {
+    "sheet": {
+      "outputMode": "portrait",
+      "identityMode": "create",
+      "form": "light",
+      "apparent_age": "20s"
+    },
+    "portraits": {
+      "outputMode": "portrait",
+      "identityMode": "reference",
+      "forms": [
+        "light",
+        "heavy",
+        "mobility"
+      ]
+    },
+    "overdrive": {
+      "outputMode": "portrait",
+      "identityMode": "reference",
+      "form": "overdrive",
+      "baseForms": [
+        "light",
+        "heavy",
+        "mobility"
+      ]
+    },
+    "casual": {
+      "outputMode": "casual",
+      "category": "everyday_basic",
+      "scene": "Sunset cafe terrace, holding coffee and tucking hair behind ear",
+      "outfit": "Burnt-orange ribbed knit, charcoal wide-leg trousers, cream jacket and black ankle boots"
+    }
+  },
+  "note": "Final heavy is the revised output. Excluded initial non-generator single illustration and superseded heavy draft. All outputs retain original pixel dimensions; WebP quality 95. Upload commit is the git commit introducing this record."
+}
