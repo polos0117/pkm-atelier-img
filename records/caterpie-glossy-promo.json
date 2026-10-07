@@ -1,0 +1,898 @@
+{
+  "card": "캐터피",
+  "style": "glossy_promo",
+  "gender": "f",
+  "date": "2026-10-07",
+  "requested": 9,
+  "anchor_approved": true,
+  "anchor_reviewed_by": "gpt",
+  "identity_anchor": "img/캐터피_light_glossy_promo_f.webp",
+  "generator": "pkm-atelier/prompt.html (local checkout; actual UI selections)",
+  "generator_source_commit": "ae227559b358ef0e1870d1f9b4ffd5914d7ce884",
+  "image_repository_parent_commit": "3f2f5f88b98bad2c2bccdaf30a2a57075c77b278",
+  "prompt_record_status": "Exact generator output and selected UI values preserved per image; submitted unchanged to image_gen.",
+  "images": [
+    {
+      "slot": "light",
+      "path": "img/캐터피_light_glossy_promo_f.webp",
+      "source": "exec-54fc6649-dfec-43ce-9fce-86e334a87078.png",
+      "source_sha256": "72a91f499c88788f830073fe21eac0b5aa9096d4ee8db7b651e5e60cd74ff0af",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "ca0debd9e533814f01b85586fd0be63ee68db3d24daed1cc5cdabe00c1eadeb3",
+      "bytes": 513806,
+      "references": [],
+      "selection_basis": "generator UI and user-specified style",
+      "settings": {
+        "key": "light",
+        "mode": "action",
+        "form": "light",
+        "identity": "create",
+        "pose": "combat_ready",
+        "scene": "A lush woodland clearing with soft morning daylight and a restrained, softly blurred background.",
+        "params": {
+          "apparent age": "20s",
+          "body type": "slender",
+          "hairstyle": "bob",
+          "hair color": "green",
+          "eye color": "amber",
+          "facial character": "friendly"
+        }
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "캐터피",
+          "label": "0010 · 캐터피"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "identity-mode": {
+          "value": "create",
+          "label": "새 인물 만들기"
+        },
+        "form": {
+          "value": "light",
+          "label": "경장"
+        },
+        "head-feature": {
+          "value": "",
+          "label": "자동 — 원본 머리 특징에 맞춰"
+        },
+        "param-apparent-age": {
+          "value": "20s",
+          "label": "20s — 20대 성인"
+        },
+        "param-facial-ethnicity": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-body-type": {
+          "value": "slender",
+          "label": "Slender — 가늘고 슬림한 체형"
+        },
+        "param-height-impression": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-shoulder-build": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-torso---chest-build": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-torso-length": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-waist---hip-silhouette": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-leg-proportion": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-lower-body-build": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-body-measurements--B-W-H-": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-facial-character": {
+          "value": "friendly",
+          "label": "Friendly — 다가가기 쉬운 인상"
+        },
+        "param-skin-tone": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-face-shape": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-eye-shape": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-eye-color": {
+          "value": "amber",
+          "label": "Amber — 호박색"
+        },
+        "param-second-eye-color": {
+          "value": "",
+          "label": "양쪽 같은 색"
+        },
+        "param-face-length": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-face-width": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-jaw---chin": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-eye-size": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-eye-tilt": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-nose-character": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-lips": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-hair-color": {
+          "value": "green",
+          "label": "Green — 녹색"
+        },
+        "param-hairstyle": {
+          "value": "bob",
+          "label": "Bob — 단정한 보브컷"
+        },
+        "param-hair-length": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-bangs": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-hair-accent": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-hair-texture": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-hair-volume": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-parting": {
+          "value": "",
+          "label": "자동"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "action-category": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-example": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-timing": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-equipment": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-power": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-effects": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-speed": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-environment": {
+          "value": "",
+          "label": "자동"
+        },
+        "pose": {
+          "value": "combat_ready",
+          "label": "기본 전투 자세"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        }
+      },
+      "submitted_prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Caterpie (캐터피), bug type.\n\nPALETTE: yellow, bright red, green.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Caterpie as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the yellow underside and teardrop-shaped tail becomes a long sash hanging from the back of her belt, in the same shape and colors; the bright red antenna becomes slim antenna-like hair ornaments; its markings (yellow ring-shaped markings) become painted lines and patterns on her plates and undersuit.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nPose: Use a balanced combat-ready stance with one foot forward and hands prepared for the chosen action.\nScene: A lush woodland clearing with soft morning daylight and a restrained, softly blurred background.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nbody type: slender — narrow frame and slim limbs, low soft-tissue volume\nhairstyle: bob — bob outline ending between below-ear and neck level\nhair color: green\neye color: amber\nfacial character: friendly — approachable, welcoming demeanor\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\ndemeanor scope: Facial character affects demeanor only; preserve age and geometry. Explicit scene expression takes priority.\neye color consistency: both eyes are amber\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "prompt_sha256": "a85010c448438a75f554b1283429188bbeaf8bec6839623a2609313c23e180ee",
+      "review": "single adult woman; full body and face visible; green bob and amber eyes; red antenna ornaments; yellow ring markings; one armor layer"
+    },
+    {
+      "slot": "heavy",
+      "path": "img/캐터피_heavy_glossy_promo_f.webp",
+      "source": "exec-8203e835-d15c-434d-80a9-2668b46ab19d.png",
+      "source_sha256": "763e42c0577377ac4493d8bbfcb196f70121da83501d45c16178a03b96ee2e4e",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "f97521c908637b19829a48810fd466aa863452a1c878a409ea7635aaf91512d0",
+      "bytes": 515702,
+      "references": [
+        "img/캐터피_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "generator UI and user-specified style",
+      "settings": {
+        "key": "heavy",
+        "mode": "action",
+        "form": "heavy",
+        "identity": "reference",
+        "pose": "braced_stance",
+        "scene": "The same woodland world, soft daylight; a clear, grounded full-body card composition."
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "캐터피",
+          "label": "0010 · 캐터피"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "identity-mode": {
+          "value": "reference",
+          "label": "확정한 이미지 이어가기"
+        },
+        "form": {
+          "value": "heavy",
+          "label": "중장"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "action-category": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-example": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-timing": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-equipment": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-power": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-effects": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-speed": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-environment": {
+          "value": "",
+          "label": "자동"
+        },
+        "pose": {
+          "value": "braced_stance",
+          "label": "묵직하게 버티기"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        }
+      },
+      "submitted_prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Caterpie (캐터피), bug type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nPose: Plant both feet firmly in a grounded bracing stance, using posture rather than a larger body to convey weight.\nScene: The same woodland world, soft daylight; a clear, grounded full-body card composition.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "prompt_sha256": "2438f59592849c17bd48722977ec6d806c8096f01bfff468b9869db1a8ac2bd3",
+      "review": "face/hair/eyes/body preserved; full-body card; differentiated armor form"
+    },
+    {
+      "slot": "mobility",
+      "path": "img/캐터피_mobility_glossy_promo_f.webp",
+      "source": "exec-415aa34d-e83f-4042-a9bb-e78d81f5ee29.png",
+      "source_sha256": "4723937b0aa0f174c046997b74f3fe92700439a842b2ded589b842d2a47c0c0d",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "af0f39ace72e776c0b31d235d985f9c156d525e5e2b7994cb525f15696df27a9",
+      "bytes": 592294,
+      "references": [
+        "img/캐터피_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "generator UI and user-specified style",
+      "settings": {
+        "key": "mobility",
+        "mode": "action",
+        "form": "mobility",
+        "identity": "reference",
+        "pose": "side_dodge",
+        "scene": "A woodland clearing with soft daylight; a readable lateral movement, with both feet and the entire body inside the frame."
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "캐터피",
+          "label": "0010 · 캐터피"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "identity-mode": {
+          "value": "reference",
+          "label": "확정한 이미지 이어가기"
+        },
+        "form": {
+          "value": "mobility",
+          "label": "고기동"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "action-category": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-example": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-timing": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-equipment": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-power": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-effects": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-speed": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-environment": {
+          "value": "",
+          "label": "자동"
+        },
+        "pose": {
+          "value": "side_dodge",
+          "label": "옆으로 피하기"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        }
+      },
+      "submitted_prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Caterpie (캐터피), bug type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nPose: Push laterally from one planted foot into a clear sidestep dodge.\nScene: A woodland clearing with soft daylight; a readable lateral movement, with both feet and the entire body inside the frame.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "prompt_sha256": "bdcd4292ddd300fa23e958a78291d7f71fbe0ae20f8b253b946738fbc9abf365",
+      "review": "face/hair/eyes/body preserved; full-body card; differentiated armor form"
+    },
+    {
+      "slot": "light_overdrive",
+      "path": "img/캐터피_light_overdrive_glossy_promo_f.webp",
+      "source": "exec-b43fcb49-3659-4c91-96c4-12d6199a538e.png",
+      "source_sha256": "92d2c54f5c06b2c0a9a8949ca9d02bc2b85be9f7236d21573bb20cc761e65fe6",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "33cbcf21cb90938db39e7abf1ae1a9a1147ca7edaf9214169ee59a92fd88de12",
+      "bytes": 572808,
+      "references": [
+        "img/캐터피_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "generator UI and user-specified style",
+      "settings": {
+        "key": "light_overdrive",
+        "mode": "action",
+        "form": "overdrive",
+        "base": "light"
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "캐터피",
+          "label": "0010 · 캐터피"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "form": {
+          "value": "overdrive",
+          "label": "폭주"
+        },
+        "base-form": {
+          "value": "light",
+          "label": "경장"
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Caterpie (캐터피), bug type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a lime-green glow with shimmering wing-like light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "prompt_sha256": "cced003c413b63295c918b07292b56081217b13330dcc68a598a44e73197e930",
+      "review": "paired camera/pose/scale/identity preserved; existing panels opened with lime-green bug energy"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "path": "img/캐터피_heavy_overdrive_glossy_promo_f.webp",
+      "source": "exec-b2bbe352-28cd-4970-8fba-2e81a22fdb6d.png",
+      "source_sha256": "0841bc494c5828afc3a34aab7453b48716c38bc66a81ff6df9782db08a752a41",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "559a8cb90a8be2a98051759be17438ab192ef774976642bb4ba538837c5d36c0",
+      "bytes": 584822,
+      "references": [
+        "img/캐터피_heavy_glossy_promo_f.webp",
+        "img/캐터피_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "generator UI and user-specified style",
+      "settings": {
+        "key": "heavy_overdrive",
+        "mode": "action",
+        "form": "overdrive",
+        "base": "heavy"
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "캐터피",
+          "label": "0010 · 캐터피"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "form": {
+          "value": "overdrive",
+          "label": "폭주"
+        },
+        "base-form": {
+          "value": "heavy",
+          "label": "중장"
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Caterpie (캐터피), bug type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a lime-green glow with shimmering wing-like light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "prompt_sha256": "4e2f419366741c3409e98dd858089e79fbd1e53899e8593f8bd393c6c9d689a9",
+      "review": "paired camera/pose/scale/identity preserved; existing panels opened with lime-green bug energy"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "path": "img/캐터피_mobility_overdrive_glossy_promo_f.webp",
+      "source": "exec-2e1f08f9-1fcc-4fdb-8076-86f3d994c3b5.png",
+      "source_sha256": "106e1d0431c37788aa1869d99568e75f590ffee451d9efa68f5220e07cf5e654",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "727775f0573ebec9e28d616f0c90ecc7d9e1fa55f49be5a41fe5d6b118a1db61",
+      "bytes": 614680,
+      "references": [
+        "img/캐터피_mobility_glossy_promo_f.webp",
+        "img/캐터피_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "generator UI and user-specified style",
+      "settings": {
+        "key": "mobility_overdrive",
+        "mode": "action",
+        "form": "overdrive",
+        "base": "mobility"
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "캐터피",
+          "label": "0010 · 캐터피"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "form": {
+          "value": "overdrive",
+          "label": "폭주"
+        },
+        "base-form": {
+          "value": "mobility",
+          "label": "고기동"
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Caterpie (캐터피), bug type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a lime-green glow with shimmering wing-like light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "prompt_sha256": "46610fbb35e2b5360a7541cf9ffa9b8900feaa32b5992ea5a451aaec7ee6ab81",
+      "review": "paired camera/pose/scale/identity preserved; existing panels opened with lime-green bug energy"
+    },
+    {
+      "slot": "casual1",
+      "path": "img/캐터피_glossy_promo_f_casual1.webp",
+      "source": "exec-2ff18e4a-d4da-4da2-bc65-573ed3a48e2e.png",
+      "source_sha256": "1220f0d0c593965ef1f6cc3f58c02442d807338b2ef1d614b6d8271554e9c5d2",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "8af4a70f06c07b650ee28e2fb04d2c7ca891d49a3195ee448c30f56815a00876",
+      "bytes": 444750,
+      "references": [
+        "img/캐터피_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "generator UI and user-specified style",
+      "settings": {
+        "key": "casual1",
+        "mode": "casual",
+        "category": "everyday_basic",
+        "pose": "holding_cup",
+        "scene": "A quiet outdoor garden cafe in the morning. She is taking a break with a ceramic cup; greenery and warm daylight, no other people.",
+        "outfit": "A cream cotton blouse, olive-green high-waisted trousers and comfortable tan loafers. Only a small red hair ornament echoes Caterpie. Everyday contemporary clothing."
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "캐터피",
+          "label": "0010 · 캐터피"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "category": {
+          "value": "everyday_basic",
+          "label": "일상컷 — 기본"
+        },
+        "example": {
+          "value": "",
+          "label": "자동"
+        },
+        "pose": {
+          "value": "holding_cup",
+          "label": "컵 들고 쉬기"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        },
+        "axis-overall_intensity": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-skin_exposure": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-action_level": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-source_influence": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-separates_preference": {
+          "value": "AUTO",
+          "label": "자동"
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Caterpie (캐터피) personified, bug type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nPose: Hold a cup comfortably in one or both hands during a quiet break.\nScene: A quiet outdoor garden cafe in the morning. She is taking a break with a ceramic cup; greenery and warm daylight, no other people.\nOutfit and props: A cream cotton blouse, olive-green high-waisted trousers and comfortable tan loafers. Only a small red hair ornament echoes Caterpie. Everyday contemporary clothing.\nCategory: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "prompt_sha256": "9a56ffdaf91e150a0052995445daa2c6126aa9f79974c6eea62e37724f4070c4",
+      "review": "same face/hair/amber eyes; distinct everyday scene; no armor or creature costume"
+    },
+    {
+      "slot": "casual2",
+      "path": "img/캐터피_glossy_promo_f_casual2.webp",
+      "source": "exec-45970cb8-7a11-43b0-ae34-479cbb65a875.png",
+      "source_sha256": "055dac0ae2a0cfdde1e854eb7bd8254dc1731c976b649b72df8f9c4f52a46ea6",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "067834ed2397c04f240f1df73490de930518e2f5d88cfcd6154b7fe4e694b5d2",
+      "bytes": 491338,
+      "references": [
+        "img/캐터피_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "generator UI and user-specified style",
+      "settings": {
+        "key": "casual2",
+        "mode": "casual",
+        "category": "food_berries",
+        "pose": "carrying_something",
+        "scene": "A sunlit berry orchard. She has just picked berries and carries a small woven basket at her waist with relaxed, clearly readable hands; no other people.",
+        "outfit": "An olive-green linen shirt with sleeves rolled to the forearms, beige shorts and practical canvas shoes. A small red hair ornament and subtle green colors, ordinary clothing."
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "캐터피",
+          "label": "0010 · 캐터피"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "category": {
+          "value": "food_berries",
+          "label": "요리·나무열매"
+        },
+        "example": {
+          "value": "",
+          "label": "자동 — 이 갈래에 맞는 장면"
+        },
+        "pose": {
+          "value": "carrying_something",
+          "label": "물건 들기"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        },
+        "axis-overall_intensity": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-skin_exposure": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-action_level": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-source_influence": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-separates_preference": {
+          "value": "AUTO",
+          "label": "자동"
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Caterpie (캐터피) personified, bug type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nPose: Carry the scene's bag, basket or box with believable hand contact and weight.\nScene: A sunlit berry orchard. She has just picked berries and carries a small woven basket at her waist with relaxed, clearly readable hands; no other people.\nOutfit and props: An olive-green linen shirt with sleeves rolled to the forearms, beige shorts and practical canvas shoes. A small red hair ornament and subtle green colors, ordinary clothing.\nCategory: Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "prompt_sha256": "37a4a1db58aa77e7b38ee33abb8d18701c2a13e977a289bd4b1c51ed6a7e1895",
+      "review": "same face/hair/amber eyes; distinct everyday scene; no armor or creature costume"
+    },
+    {
+      "slot": "casual3",
+      "path": "img/캐터피_glossy_promo_f_casual3.webp",
+      "source": "exec-d31f2241-a0e3-4b83-b8e1-a433a39fc59a.png",
+      "source_sha256": "1c4c24fd5b025b723b38827cecae50eb50620992773047a072ac0e34c6392013",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "9df3bb4882413b908a2c61a6eb92f3b214d21a81e9c95bf7dff61bb3349e25d2",
+      "bytes": 429940,
+      "references": [
+        "img/캐터피_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "generator UI and user-specified style",
+      "settings": {
+        "key": "casual3",
+        "mode": "casual",
+        "category": "hobbies_leisure",
+        "pose": "reading_book",
+        "scene": "A calm window-side reading nook with houseplants and late-afternoon daylight. She sits comfortably in a chair reading a book; no other people, no readable writing.",
+        "outfit": "A soft pale-yellow knit cardigan over a white top, a forest-green midi skirt and simple flats. A small red hair ornament, ordinary clothing."
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "캐터피",
+          "label": "0010 · 캐터피"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "category": {
+          "value": "hobbies_leisure",
+          "label": "취미·느긋한 휴식"
+        },
+        "example": {
+          "value": "",
+          "label": "자동 — 이 갈래에 맞는 장면"
+        },
+        "pose": {
+          "value": "reading_book",
+          "label": "책 읽기"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        },
+        "axis-overall_intensity": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-skin_exposure": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-action_level": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-source_influence": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-separates_preference": {
+          "value": "AUTO",
+          "label": "자동"
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Caterpie (캐터피) personified, bug type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nPose: Hold an open book with readable finger placement and look toward its pages.\nScene: A calm window-side reading nook with houseplants and late-afternoon daylight. She sits comfortably in a chair reading a book; no other people, no readable writing.\nOutfit and props: A soft pale-yellow knit cardigan over a white top, a forest-green midi skirt and simple flats. A small red hair ornament, ordinary clothing.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "prompt_sha256": "40475ab9243ef6023d6d395714a736cf97608a3cd682f75ec36d5a2d20dc88d3",
+      "review": "same face/hair/amber eyes; distinct everyday scene; no armor or creature costume"
+    }
+  ],
+  "notes": [
+    "One approved light-form image is the permanent identity anchor.",
+    "Heavy and mobility use only that light anchor; each overdrive uses its own closed form, with light additionally for the face where applicable.",
+    "All PNG originals remain in the generated image artifacts and the local recovery archive; published WebP assets retain 1024 x 1536 dimensions with no cropping or resizing.",
+    "WebP quality 95, method 6. The commit containing this record is the upload commit."
+  ],
+  "rules_commit": "711d964e4b092060ae109aa88d83f2b5507b0d4a"
+}
