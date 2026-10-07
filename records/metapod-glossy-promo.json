@@ -1,0 +1,898 @@
+{
+  "card": "단데기",
+  "style": "glossy_promo",
+  "gender": "f",
+  "date": "2026-10-07",
+  "requested": 9,
+  "anchor_approved": true,
+  "anchor_reviewed_by": "gpt",
+  "identity_anchor": "img/단데기_light_glossy_promo_f.webp",
+  "generator": "pkm-atelier/prompt.html (local checkout; actual UI selections)",
+  "generator_source_commit": "908cc6bcfcec895fe543f9421a46ee655cfce79e",
+  "image_repository_parent_commit": "0b12fd7d411de436803c8c524bfc193f080ff334",
+  "prompt_record_status": "Exact generator output and selected UI values preserved per image; submitted unchanged to image_gen.",
+  "images": [
+    {
+      "slot": "light",
+      "path": "img/단데기_light_glossy_promo_f.webp",
+      "source": "exec-66280302-68a9-46b2-98d9-0c21ae81331a.png",
+      "source_sha256": "9a692220a264ba19995b3f5cf4ceb4d980411d7d91a8eaabfc7a7d1db5bc9f44",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "9a9de9b7c7e494d695c7cc2d9fa9c6ffed37043fa498e47eaea9488a44ae0b05",
+      "bytes": 520162,
+      "references": [],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "light",
+        "mode": "action",
+        "form": "light",
+        "identity": "create",
+        "pose": "braced_stance",
+        "scene": "A tranquil forest clearing under soft overcast daylight, with a restrained, softly blurred woodland background.",
+        "motifs": "Metapod’s angular green cocoon becomes faceted crescent-cut chest and hip plates with three small pointed panel corners and dark-green seam lines; the shape is worn as her armor, never a separate cocoon or backpack.",
+        "params": {
+          "apparent age": "20s",
+          "body type": "slender",
+          "hairstyle": "straight",
+          "hair color": "green",
+          "eye color": "gray",
+          "facial character": "refined"
+        }
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "단데기",
+          "label": "0011 · 단데기"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "identity-mode": {
+          "value": "create",
+          "label": "새 인물 만들기"
+        },
+        "form": {
+          "value": "light",
+          "label": "경장"
+        },
+        "head-feature": {
+          "value": "",
+          "label": "자동 — 원본 머리 특징에 맞춰"
+        },
+        "param-apparent-age": {
+          "value": "20s",
+          "label": "20s — 20대 성인"
+        },
+        "param-facial-ethnicity": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-body-type": {
+          "value": "slender",
+          "label": "Slender — 가늘고 슬림한 체형"
+        },
+        "param-height-impression": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-shoulder-build": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-torso---chest-build": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-torso-length": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-waist---hip-silhouette": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-leg-proportion": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-lower-body-build": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-body-measurements--B-W-H-": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-facial-character": {
+          "value": "refined",
+          "label": "Refined — 단정하고 세련된 인상"
+        },
+        "param-skin-tone": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-face-shape": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-eye-shape": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-eye-color": {
+          "value": "gray",
+          "label": "Gray — 회색"
+        },
+        "param-second-eye-color": {
+          "value": "",
+          "label": "양쪽 같은 색"
+        },
+        "param-face-length": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-face-width": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-jaw---chin": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-eye-size": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-eye-tilt": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-nose-character": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-lips": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-hair-color": {
+          "value": "green",
+          "label": "Green — 녹색"
+        },
+        "param-hairstyle": {
+          "value": "straight",
+          "label": "Straight — 곧은 생머리"
+        },
+        "param-hair-length": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-bangs": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-hair-accent": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-hair-texture": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-hair-volume": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-parting": {
+          "value": "",
+          "label": "자동"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "action-category": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-example": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-timing": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-equipment": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-power": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-effects": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-speed": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-environment": {
+          "value": "",
+          "label": "자동"
+        },
+        "pose": {
+          "value": "braced_stance",
+          "label": "묵직하게 버티기"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        }
+      },
+      "submitted_prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Metapod (단데기), bug type.\n\nPALETTE: green.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Metapod as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): Metapod’s angular green cocoon becomes faceted crescent-cut chest and hip plates with three small pointed panel corners and dark-green seam lines; the shape is worn as her armor, never a separate cocoon or backpack..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nPose: Plant both feet firmly in a grounded bracing stance, using posture rather than a larger body to convey weight.\nScene: A tranquil forest clearing under soft overcast daylight, with a restrained, softly blurred woodland background.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nbody type: slender — narrow frame and slim limbs, low soft-tissue volume\nhairstyle: straight — straight strands without waves\nhair color: green\neye color: gray\nfacial character: refined — neat, understated grooming and demeanor\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\ndemeanor scope: Facial character affects demeanor only; preserve age and geometry. Explicit scene expression takes priority.\neye color consistency: both eyes are gray\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "prompt_sha256": "29ca9459baf25335bb1a6e6494c715fda951cc334ff308c722183b0a5a741752",
+      "review": "single adult woman; full body with head and feet inside frame; gray eyes, long straight green hair; thin faceted green armor; relaxed coherent hands"
+    },
+    {
+      "slot": "heavy",
+      "path": "img/단데기_heavy_glossy_promo_f.webp",
+      "source": "exec-14d160fe-bedb-43ce-9877-d9340c239011.png",
+      "source_sha256": "0dc7ad799736cc55676845bae983136d9150fefb4204d8307954e077e395bfe9",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "3577164ac4207dc8abd609a91cf7a5625eaf37f43fbac29cfab6aa0569555bca",
+      "bytes": 523106,
+      "references": [
+        "img/단데기_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "heavy",
+        "mode": "action",
+        "form": "heavy",
+        "identity": "reference",
+        "pose": "braced_stance",
+        "scene": "The same tranquil forest world under soft daylight; a grounded, readable full-body card composition."
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "단데기",
+          "label": "0011 · 단데기"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "identity-mode": {
+          "value": "reference",
+          "label": "확정한 이미지 이어가기"
+        },
+        "form": {
+          "value": "heavy",
+          "label": "중장"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "action-category": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-example": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-timing": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-equipment": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-power": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-effects": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-speed": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-environment": {
+          "value": "",
+          "label": "자동"
+        },
+        "pose": {
+          "value": "braced_stance",
+          "label": "묵직하게 버티기"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        }
+      },
+      "submitted_prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Metapod (단데기), bug type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nPose: Plant both feet firmly in a grounded bracing stance, using posture rather than a larger body to convey weight.\nScene: The same tranquil forest world under soft daylight; a grounded, readable full-body card composition.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "prompt_sha256": "de7301adf02db9b933d11b8b2debcee23adbef51b9d3bdc1fb68e1cc78dd5782",
+      "review": "anchor face/hair/eyes/body preserved; full-body card; distinct armor form"
+    },
+    {
+      "slot": "mobility",
+      "path": "img/단데기_mobility_glossy_promo_f.webp",
+      "source": "exec-7d008cc2-544b-4dd0-bb05-e2d5db721bc8.png",
+      "source_sha256": "c4565a3d1f562fc149ce0f85617e662f4f7d0ceca400089c73c619a69f727498",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "a21d5d21e53bf5029edc8b5e44ada05c83d7232ff7a2e1ce67241b7f7032b341",
+      "bytes": 641380,
+      "references": [
+        "img/단데기_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "mobility",
+        "mode": "action",
+        "form": "mobility",
+        "identity": "reference",
+        "pose": "cross_step",
+        "scene": "A forest path with soft daylight; a controlled crossing step with the complete body and both feet inside the frame."
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "단데기",
+          "label": "0011 · 단데기"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "identity-mode": {
+          "value": "reference",
+          "label": "확정한 이미지 이어가기"
+        },
+        "form": {
+          "value": "mobility",
+          "label": "고기동"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "action-category": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-example": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-timing": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-equipment": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-power": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-effects": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-speed": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-environment": {
+          "value": "",
+          "label": "자동"
+        },
+        "pose": {
+          "value": "cross_step",
+          "label": "교차 스텝"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        }
+      },
+      "submitted_prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Metapod (단데기), bug type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nPose: Use a brief crossing step to redirect travel with clearly separated legs and stable balance.\nScene: A forest path with soft daylight; a controlled crossing step with the complete body and both feet inside the frame.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "prompt_sha256": "8e7161467bd4ab5dbff403ad5a7412d14651f419d1c62833358b6b995500246a",
+      "review": "anchor face/hair/eyes/body preserved; full-body card; distinct armor form"
+    },
+    {
+      "slot": "light_overdrive",
+      "path": "img/단데기_light_overdrive_glossy_promo_f.webp",
+      "source": "exec-6e9b493c-c2b5-4797-acfa-106ce00b1e0f.png",
+      "source_sha256": "2aae91bf7795a8a4e4349bf2639e0d8eb7dde79ffb433c89a69d31b118448b9c",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "e0bc4ebbee464e7a7718889c824bb2aa2ffb9e68ed642d90c2791d3be537e3ee",
+      "bytes": 604650,
+      "references": [
+        "img/단데기_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "light_overdrive",
+        "mode": "action",
+        "form": "overdrive",
+        "base": "light"
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "단데기",
+          "label": "0011 · 단데기"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "form": {
+          "value": "overdrive",
+          "label": "폭주"
+        },
+        "base-form": {
+          "value": "light",
+          "label": "경장"
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Metapod (단데기), bug type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a lime-green glow with shimmering wing-like light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "prompt_sha256": "1d40356aabc53cbb26672e4670734503f16d498b5404f4c4828d812f8b03ab0d",
+      "review": "matched camera/pose/scale and identity; existing panels opened with lime-green bug energy"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "path": "img/단데기_heavy_overdrive_glossy_promo_f.webp",
+      "source": "exec-fd681815-20be-4f89-be41-8bde88866bfe.png",
+      "source_sha256": "f69f82dc3ca9afecaf22822c3a5e9a8874546650379a431f1ff65119906a9913",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "f81a4398cd0496d85defdf2584e7a7edb56bcf0293f983857370105221775698",
+      "bytes": 588658,
+      "references": [
+        "img/단데기_heavy_glossy_promo_f.webp",
+        "img/단데기_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "heavy_overdrive",
+        "mode": "action",
+        "form": "overdrive",
+        "base": "heavy"
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "단데기",
+          "label": "0011 · 단데기"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "form": {
+          "value": "overdrive",
+          "label": "폭주"
+        },
+        "base-form": {
+          "value": "heavy",
+          "label": "중장"
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Metapod (단데기), bug type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a lime-green glow with shimmering wing-like light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "prompt_sha256": "d4e1f0057a296d11afc5b9743148982ac303439fcc43511d5ebc4bd6a7274ac5",
+      "review": "matched camera/pose/scale and identity; existing panels opened with lime-green bug energy"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "path": "img/단데기_mobility_overdrive_glossy_promo_f.webp",
+      "source": "exec-d66fbfe0-457d-4de7-b4c9-43a5a689c053.png",
+      "source_sha256": "768de6c5446e56a1d71ef38fe00b44bf30d7eb50d411a821a5bdc8cd6d7163ff",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "b1dabac6a089366bda8b41d0cf0e078cbd27a54cede65991c7084844349977e3",
+      "bytes": 664466,
+      "references": [
+        "img/단데기_mobility_glossy_promo_f.webp",
+        "img/단데기_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "mobility_overdrive",
+        "mode": "action",
+        "form": "overdrive",
+        "base": "mobility"
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "단데기",
+          "label": "0011 · 단데기"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "form": {
+          "value": "overdrive",
+          "label": "폭주"
+        },
+        "base-form": {
+          "value": "mobility",
+          "label": "고기동"
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Metapod (단데기), bug type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a lime-green glow with shimmering wing-like light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "prompt_sha256": "be9666d7de3f758d70076702def951d03af9c9780ddefd56005288e822357ddb",
+      "review": "matched camera/pose/scale and identity; existing panels opened with lime-green bug energy"
+    },
+    {
+      "slot": "casual1",
+      "path": "img/단데기_glossy_promo_f_casual1.webp",
+      "source": "exec-f74c5fb7-f70d-4ead-9da5-0a1af3670062.png",
+      "source_sha256": "99e9ab5afb4f3e71d9b1aab636b9cff699a5f275df40916fc5af083a4f59be16",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "d75e823f5f2b896e9e1cf88f262f9262dc7add67497c81f09df1cb537dee2896",
+      "bytes": 464126,
+      "references": [
+        "img/단데기_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "casual1",
+        "mode": "casual",
+        "category": "everyday_basic",
+        "pose": "watering",
+        "scene": "A bright apartment balcony full of potted herbs. She waters a small leafy plant with a simple watering can; peaceful morning light, no other people.",
+        "outfit": "A soft sage-green knit top, ivory wide-leg cotton trousers and simple indoor sandals. Only a small angular green hair clip echoes Metapod; normal contemporary clothing."
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "단데기",
+          "label": "0011 · 단데기"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "category": {
+          "value": "everyday_basic",
+          "label": "일상컷 — 기본"
+        },
+        "example": {
+          "value": "",
+          "label": "자동"
+        },
+        "pose": {
+          "value": "watering",
+          "label": "물 주기"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        },
+        "axis-overall_intensity": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-skin_exposure": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-action_level": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-source_influence": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-separates_preference": {
+          "value": "AUTO",
+          "label": "자동"
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Metapod (단데기) personified, bug type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nPose: Tilt a small watering can toward plants with a clear grip and believable balance.\nScene: A bright apartment balcony full of potted herbs. She waters a small leafy plant with a simple watering can; peaceful morning light, no other people.\nOutfit and props: A soft sage-green knit top, ivory wide-leg cotton trousers and simple indoor sandals. Only a small angular green hair clip echoes Metapod; normal contemporary clothing.\nCategory: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "prompt_sha256": "7ac9efbfb58a480133e9ea07e037af3042115e6255a92a13010a76f22456039d",
+      "review": "anchor face/hair/eyes preserved; distinct ordinary scene and clothing; no armor"
+    },
+    {
+      "slot": "casual2",
+      "path": "img/단데기_glossy_promo_f_casual2.webp",
+      "source": "exec-6cbea342-9c39-4a52-8163-68ef938629e9.png",
+      "source_sha256": "5b6157fe64a0e6b4b2640cdedf7badb7367edd0021b75622755c1212ddf9cc25",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "699d5389d6007d34aa10be009d4e2fe3086897dccae9c87e43cb8a458f02facd",
+      "bytes": 609272,
+      "references": [
+        "img/단데기_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "casual2",
+        "mode": "casual",
+        "category": "travel_exploration",
+        "pose": "walking",
+        "scene": "A quiet tree-lined town street after light rain. She walks under a clear umbrella past wet paving and green foliage, no other people; the whole figure is visible.",
+        "outfit": "A cream trench coat over a dark-green knee-length dress, ankle boots and a small shoulder bag. A tiny angular green hair clip, ordinary travel clothing."
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "단데기",
+          "label": "0011 · 단데기"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "category": {
+          "value": "travel_exploration",
+          "label": "여행·필드 탐험"
+        },
+        "example": {
+          "value": "",
+          "label": "자동 — 이 갈래에 맞는 장면"
+        },
+        "pose": {
+          "value": "walking",
+          "label": "걷기"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        },
+        "axis-overall_intensity": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-skin_exposure": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-action_level": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-source_influence": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-separates_preference": {
+          "value": "AUTO",
+          "label": "자동"
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Metapod (단데기) personified, bug type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nPose: Walk at a comfortable pace with a natural step and arm swing.\nScene: A quiet tree-lined town street after light rain. She walks under a clear umbrella past wet paving and green foliage, no other people; the whole figure is visible.\nOutfit and props: A cream trench coat over a dark-green knee-length dress, ankle boots and a small shoulder bag. A tiny angular green hair clip, ordinary travel clothing.\nCategory: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "prompt_sha256": "cbb4ecaa73f763a3939a0fb038251eb03cf4064ee31cc98d77d7af89b3f119b8",
+      "review": "anchor face/hair/eyes preserved; distinct ordinary scene and clothing; no armor"
+    },
+    {
+      "slot": "casual3",
+      "path": "img/단데기_glossy_promo_f_casual3.webp",
+      "source": "exec-e23719ac-fcce-42f9-a5b3-e0b0974b423c.png",
+      "source_sha256": "55e3c58c7fefc4feabf5faabcc3e74be0a8abc02a593ec8201dc697410257c48",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "38e66feffc890d393a35f519e31b50ced40e3272f646650ef64b7ccff44b302a",
+      "bytes": 407272,
+      "references": [
+        "img/단데기_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "casual3",
+        "mode": "casual",
+        "category": "food_berries",
+        "pose": "preparing_food",
+        "scene": "A cozy sunlit home kitchen. She stirs berry batter in a ceramic mixing bowl on the counter, holding the bowl with one hand and a wooden spoon with the other; no other people.",
+        "outfit": "An ivory rolled-sleeve blouse, a moss-green waist apron and comfortable dark trousers. Only a tiny angular green hair clip echoes Metapod; practical everyday cooking clothes."
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "단데기",
+          "label": "0011 · 단데기"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "category": {
+          "value": "food_berries",
+          "label": "요리·나무열매"
+        },
+        "example": {
+          "value": "",
+          "label": "자동 — 이 갈래에 맞는 장면"
+        },
+        "pose": {
+          "value": "preparing_food",
+          "label": "음식 준비하기"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        },
+        "axis-overall_intensity": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-skin_exposure": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-action_level": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-source_influence": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-separates_preference": {
+          "value": "AUTO",
+          "label": "자동"
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Metapod (단데기) personified, bug type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nPose: Work at a kitchen counter, stirring a bowl or arranging ingredients with clearly separated hands and utensils.\nScene: A cozy sunlit home kitchen. She stirs berry batter in a ceramic mixing bowl on the counter, holding the bowl with one hand and a wooden spoon with the other; no other people.\nOutfit and props: An ivory rolled-sleeve blouse, a moss-green waist apron and comfortable dark trousers. Only a tiny angular green hair clip echoes Metapod; practical everyday cooking clothes.\nCategory: Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "prompt_sha256": "1dc58256699ca5a5daf755048af8a77646447ca5bfae58aff541b35db38abd23",
+      "review": "anchor face/hair/eyes preserved; distinct ordinary scene and clothing; no armor"
+    }
+  ],
+  "notes": [
+    "The reviewed light-form image remains the identity anchor for this character.",
+    "Each overdrive references its own closed form first; heavy and mobility additionally reference light for the face.",
+    "Published WebP images retain original 1024 x 1536 pixels without cropping or resizing; quality 95, method 6.",
+    "Source PNGs are retained in the generated image artifacts and the local recovery ZIP; no cross-session GitHub storage of PNGs is claimed. The commit containing this record is the upload commit."
+  ]
+}
