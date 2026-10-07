@@ -1,0 +1,898 @@
+{
+  "card": "뿔충이",
+  "style": "glossy_promo",
+  "gender": "f",
+  "date": "2026-10-07",
+  "requested": 9,
+  "anchor_approved": true,
+  "anchor_reviewed_by": "gpt",
+  "identity_anchor": "img/뿔충이_light_glossy_promo_f.webp",
+  "generator": "pkm-atelier/prompt.html (local checkout; actual UI selections)",
+  "generator_source_commit": "82c65f0cbe1ea0ef8cb0d76726adcc2c4f09100c",
+  "image_repository_parent_commit": "6418661dfaecbfafa3dd1c89382c7ef5575d8322",
+  "prompt_record_status": "Exact generator output and selected UI values preserved per image; submitted unchanged to image_gen.",
+  "images": [
+    {
+      "slot": "light",
+      "path": "img/뿔충이_light_glossy_promo_f.webp",
+      "source": "exec-363057cf-5ae7-45c6-b277-acce31966e04.png",
+      "source_sha256": "cd403adfa47514be2f616abaaf9530e6f6087d2970fef7b323863efbf14de013",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "7322de8cb0af8245dbf233b36b9cbbfd421fe9042ba6e6afd14a06c9a4305bf3",
+      "bytes": 547352,
+      "references": [],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "light",
+        "mode": "action",
+        "form": "light",
+        "identity": "create",
+        "pose": "braced_stance",
+        "scene": "A bright leafy woodland path with low ferns, warm filtered sunlight and a softly blurred green background.",
+        "motifs": "Weedle’s tan segmented body becomes rounded honey-brown chest and waist armor sections with cream rims. Its white conical stinger becomes one short ivory cone on a slim hair ornament, never a weapon; its round pink-red nose and feet become small rose-pink circular gems on the collar, wrists and boots. All features are worn as her clothing and armor.",
+        "params": {
+          "apparent age": "20s",
+          "body type": "slender",
+          "hairstyle": "high ponytail",
+          "hair color": "brown",
+          "eye color": "amber",
+          "facial character": "cheerful"
+        }
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "뿔충이",
+          "label": "0013 · 뿔충이"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "identity-mode": {
+          "value": "create",
+          "label": "새 인물 만들기"
+        },
+        "form": {
+          "value": "light",
+          "label": "경장"
+        },
+        "head-feature": {
+          "value": "",
+          "label": "자동 — 원본 머리 특징에 맞춰"
+        },
+        "param-apparent-age": {
+          "value": "20s",
+          "label": "20s — 20대 성인"
+        },
+        "param-facial-ethnicity": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-body-type": {
+          "value": "slender",
+          "label": "Slender — 가늘고 슬림한 체형"
+        },
+        "param-height-impression": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-shoulder-build": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-torso---chest-build": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-torso-length": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-waist---hip-silhouette": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-leg-proportion": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-lower-body-build": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-body-measurements--B-W-H-": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-facial-character": {
+          "value": "cheerful",
+          "label": "Cheerful — 밝고 명랑한 인상"
+        },
+        "param-skin-tone": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-face-shape": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-eye-shape": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-eye-color": {
+          "value": "amber",
+          "label": "Amber — 호박색"
+        },
+        "param-second-eye-color": {
+          "value": "",
+          "label": "양쪽 같은 색"
+        },
+        "param-face-length": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-face-width": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-jaw---chin": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-eye-size": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-eye-tilt": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-nose-character": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-lips": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-hair-color": {
+          "value": "brown",
+          "label": "Brown — 갈색"
+        },
+        "param-hairstyle": {
+          "value": "high ponytail",
+          "label": "High Ponytail — 높이 묶은 포니테일"
+        },
+        "param-hair-length": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-bangs": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-hair-accent": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-hair-texture": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-hair-volume": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-parting": {
+          "value": "",
+          "label": "자동"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "action-category": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-example": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-timing": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-equipment": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-power": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-effects": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-speed": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-environment": {
+          "value": "",
+          "label": "자동"
+        },
+        "pose": {
+          "value": "braced_stance",
+          "label": "묵직하게 버티기"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        }
+      },
+      "submitted_prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Weedle (뿔충이), bug / poison type.\n\nPALETTE: red, brown.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Weedle as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): Weedle’s tan segmented body becomes rounded honey-brown chest and waist armor sections with cream rims. Its white conical stinger becomes one short ivory cone on a slim hair ornament, never a weapon; its round pink-red nose and feet become small rose-pink circular gems on the collar, wrists and boots. All features are worn as her clothing and armor..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nPose: Plant both feet firmly in a grounded bracing stance, using posture rather than a larger body to convey weight.\nScene: A bright leafy woodland path with low ferns, warm filtered sunlight and a softly blurred green background.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3. Leave a clear background margin above the entire hair ornament and below both boots.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nbody type: slender — narrow frame and slim limbs, low soft-tissue volume\nhairstyle: high ponytail — single ponytail tied high on the head\nhair color: brown\neye color: amber\nfacial character: cheerful — lively, upbeat demeanor\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\ndemeanor scope: Facial character affects demeanor only; preserve age and geometry. Explicit scene expression takes priority.\neye color consistency: both eyes are amber\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "prompt_sha256": "0fb678e29601dc66bc6098bee9bc779e721309ed08256a22e06f17b262889a60",
+      "review": "single adult woman; full body with head and feet inside frame; amber eyes, brown high ponytail; thin rounded honey-brown segmented armor and pink gems; coherent gloved fists"
+    },
+    {
+      "slot": "heavy",
+      "path": "img/뿔충이_heavy_glossy_promo_f.webp",
+      "source": "exec-1b7d206e-b64a-4b42-b6d7-4ebe4c333e1f.png",
+      "source_sha256": "bbd291e663792f50a371bd8289c9534ec355c76f681e35443c570eac3faab56c",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "0ca6eccc68f979f8fa646b1161f33938f49109a591306373e2cb80fb7c7d9906",
+      "bytes": 552874,
+      "references": [
+        "img/뿔충이_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "heavy",
+        "mode": "action",
+        "form": "heavy",
+        "identity": "reference",
+        "pose": "braced_stance",
+        "scene": "The same leafy woodland path under warm filtered sunlight; a grounded, readable full-body card composition."
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "뿔충이",
+          "label": "0013 · 뿔충이"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "identity-mode": {
+          "value": "reference",
+          "label": "확정한 이미지 이어가기"
+        },
+        "form": {
+          "value": "heavy",
+          "label": "중장"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "action-category": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-example": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-timing": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-equipment": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-power": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-effects": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-speed": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-environment": {
+          "value": "",
+          "label": "자동"
+        },
+        "pose": {
+          "value": "braced_stance",
+          "label": "묵직하게 버티기"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        }
+      },
+      "submitted_prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Weedle (뿔충이), bug / poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nPose: Plant both feet firmly in a grounded bracing stance, using posture rather than a larger body to convey weight.\nScene: The same leafy woodland path under warm filtered sunlight; a grounded, readable full-body card composition.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "prompt_sha256": "0c118c5558364245003c776d6614269e8579db4b4597634f1352eb280e91dd1e",
+      "review": "anchor face/hair/eyes/body preserved; full-body card; distinct armor form"
+    },
+    {
+      "slot": "mobility",
+      "path": "img/뿔충이_mobility_glossy_promo_f.webp",
+      "source": "exec-132e1776-42a5-465c-b5e3-6d6df88ce955.png",
+      "source_sha256": "664232046448212677a235f7d7c85e35d8d07a72e0bdf45ce292b3101bfdba1e",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "16f7c3e41c18cc3633daeaaaa9a9b9e5ffb4ea9c63c80e3ab10ef2dc679e2452",
+      "bytes": 611176,
+      "references": [
+        "img/뿔충이_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "mobility",
+        "mode": "action",
+        "form": "mobility",
+        "identity": "reference",
+        "pose": "cross_step",
+        "scene": "A sunlit woodland path with ferns; a controlled crossing step with the complete body and both feet inside the frame."
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "뿔충이",
+          "label": "0013 · 뿔충이"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "identity-mode": {
+          "value": "reference",
+          "label": "확정한 이미지 이어가기"
+        },
+        "form": {
+          "value": "mobility",
+          "label": "고기동"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "action-category": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-example": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-timing": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-equipment": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-power": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-effects": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-speed": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-environment": {
+          "value": "",
+          "label": "자동"
+        },
+        "pose": {
+          "value": "cross_step",
+          "label": "교차 스텝"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        }
+      },
+      "submitted_prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Weedle (뿔충이), bug / poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nPose: Use a brief crossing step to redirect travel with clearly separated legs and stable balance.\nScene: A sunlit woodland path with ferns; a controlled crossing step with the complete body and both feet inside the frame.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "prompt_sha256": "2ffe0d83d31f4a9e478e160a3553fdb30603471d755bb19937cafbaaca096407",
+      "review": "anchor face/hair/eyes/body preserved; full-body card; distinct armor form"
+    },
+    {
+      "slot": "light_overdrive",
+      "path": "img/뿔충이_light_overdrive_glossy_promo_f.webp",
+      "source": "exec-7d27676b-277a-4539-a096-91f1b9cfac3e.png",
+      "source_sha256": "a62a9bf62707fc613d1bb65fb5a1997be38267b7cde009245c893aa97c7a8b48",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "b8f5091dadf946eb9945f4384c8f5e32eb7be7cf911e01c1499d34a07e749d0f",
+      "bytes": 603932,
+      "references": [
+        "img/뿔충이_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "light_overdrive",
+        "mode": "action",
+        "form": "overdrive",
+        "base": "light"
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "뿔충이",
+          "label": "0013 · 뿔충이"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "form": {
+          "value": "overdrive",
+          "label": "폭주"
+        },
+        "base-form": {
+          "value": "light",
+          "label": "경장"
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Weedle (뿔충이), bug / poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a lime-green glow with shimmering wing-like light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "prompt_sha256": "202972f7b5c89ddcd1d3dacfb44e973fcc7355289b158e53eeccdaa6afe17639",
+      "review": "matched camera/pose/scale and identity; existing panels opened with lime-green bug energy"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "path": "img/뿔충이_heavy_overdrive_glossy_promo_f.webp",
+      "source": "exec-61390172-164f-4119-823c-c4dc3f555258.png",
+      "source_sha256": "7cdc61ff5feaaa355c146963cb92f669af4b2691b237c5d274ecd8b70dc10694",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "2af4a2713234a5fa6e3c72b79626e4e7e443584534b3676b3b1b68019e1ee18e",
+      "bytes": 629290,
+      "references": [
+        "img/뿔충이_heavy_glossy_promo_f.webp",
+        "img/뿔충이_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "heavy_overdrive",
+        "mode": "action",
+        "form": "overdrive",
+        "base": "heavy"
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "뿔충이",
+          "label": "0013 · 뿔충이"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "form": {
+          "value": "overdrive",
+          "label": "폭주"
+        },
+        "base-form": {
+          "value": "heavy",
+          "label": "중장"
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Weedle (뿔충이), bug / poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a lime-green glow with shimmering wing-like light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "prompt_sha256": "959b105e5c3f6b6772c15642cbdb14755634de9a315f11ca9617461d1802348d",
+      "review": "matched camera/pose/scale and identity; existing panels opened with lime-green bug energy"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "path": "img/뿔충이_mobility_overdrive_glossy_promo_f.webp",
+      "source": "exec-1cb379e8-f949-448a-81ed-ef1dbcbea609.png",
+      "source_sha256": "a2b154630e85e56300cdb3f30418dcb4857621ed0daaaa792b93363933b72942",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "ecb9bbbf0de131f230643687a8cdc2404c401818f8cb3ce88ffc92065e1da93b",
+      "bytes": 657808,
+      "references": [
+        "img/뿔충이_mobility_glossy_promo_f.webp",
+        "img/뿔충이_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "mobility_overdrive",
+        "mode": "action",
+        "form": "overdrive",
+        "base": "mobility"
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "뿔충이",
+          "label": "0013 · 뿔충이"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "form": {
+          "value": "overdrive",
+          "label": "폭주"
+        },
+        "base-form": {
+          "value": "mobility",
+          "label": "고기동"
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Weedle (뿔충이), bug / poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a lime-green glow with shimmering wing-like light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "prompt_sha256": "8041092e5c2f56d82ea1f200e875593d7b1251e5d83da787d8427b36886873c7",
+      "review": "matched camera/pose/scale and identity; existing panels opened with lime-green bug energy"
+    },
+    {
+      "slot": "casual1",
+      "path": "img/뿔충이_glossy_promo_f_casual1.webp",
+      "source": "exec-68b28c53-8b88-4090-accb-205846ea1785.png",
+      "source_sha256": "07ceb31be4810c6f385cca0fda2627cd724742dcad0d831dba14f357802c6124",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "eee6646df3f50cfc337e5bc940b3297f985f59a465fb2ceb8f862b1a2cfd2671",
+      "bytes": 531606,
+      "references": [
+        "img/뿔충이_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "casual1",
+        "mode": "casual",
+        "category": "everyday_basic",
+        "pose": "reading_book",
+        "scene": "A cozy home reading nook beside a sunny window. She sits in an armchair with an open book supported naturally in her hands, reading quietly; a mug rests on a nearby table, no other people. The book pages have no readable writing.",
+        "outfit": "A soft oatmeal cardigan over a rose-pink cotton top, brown relaxed trousers and cream house slippers. Only a tiny ivory conical hair pin echoes Weedle; ordinary home clothing."
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "뿔충이",
+          "label": "0013 · 뿔충이"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "category": {
+          "value": "everyday_basic",
+          "label": "일상컷 — 기본"
+        },
+        "example": {
+          "value": "",
+          "label": "자동"
+        },
+        "pose": {
+          "value": "reading_book",
+          "label": "책 읽기"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        },
+        "axis-overall_intensity": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-skin_exposure": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-action_level": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-source_influence": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-separates_preference": {
+          "value": "AUTO",
+          "label": "자동"
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Weedle (뿔충이) personified, bug / poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nPose: Hold an open book with readable finger placement and look toward its pages.\nScene: A cozy home reading nook beside a sunny window. She sits in an armchair with an open book supported naturally in her hands, reading quietly; a mug rests on a nearby table, no other people. The book pages have no readable writing.\nOutfit and props: A soft oatmeal cardigan over a rose-pink cotton top, brown relaxed trousers and cream house slippers. Only a tiny ivory conical hair pin echoes Weedle; ordinary home clothing.\nCategory: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "prompt_sha256": "a772d6cfd5fb70e15a68ec5fd8d3ef305bf413765d4da4c9002b8c143de77565",
+      "review": "anchor face/hair/eyes preserved; distinct ordinary scene and clothing; no armor"
+    },
+    {
+      "slot": "casual2",
+      "path": "img/뿔충이_glossy_promo_f_casual2.webp",
+      "source": "exec-857e91a6-d0ce-4f5f-a55d-2970347fd26d.png",
+      "source_sha256": "a22301abd5f8ad64f192dffe21dcec3b762c8ff6e4f193aaa6842f457f5a0a82",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "4c024515e48ebffc8e69873528be32bba95c3a03590ac5003b9fc0228ec6eaab",
+      "bytes": 591162,
+      "references": [
+        "img/뿔충이_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "casual2",
+        "mode": "casual",
+        "category": "travel_exploration",
+        "pose": "taking_photo",
+        "scene": "A peaceful woodland boardwalk in early autumn. She pauses to photograph fern leaves with a compact camera held naturally in both hands; no other people, the complete figure visible.",
+        "outfit": "A tan lightweight field jacket over an ivory T-shirt, olive straight-leg trousers, brown walking shoes and a small rose-pink crossbody bag. A tiny ivory conical hair pin, ordinary practical hiking clothing."
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "뿔충이",
+          "label": "0013 · 뿔충이"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "category": {
+          "value": "travel_exploration",
+          "label": "여행·필드 탐험"
+        },
+        "example": {
+          "value": "",
+          "label": "자동 — 이 갈래에 맞는 장면"
+        },
+        "pose": {
+          "value": "taking_photo",
+          "label": "사진 찍기"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        },
+        "axis-overall_intensity": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-skin_exposure": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-action_level": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-source_influence": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-separates_preference": {
+          "value": "AUTO",
+          "label": "자동"
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Weedle (뿔충이) personified, bug / poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nPose: Hold a camera with both hands to photograph a subject in the scene.\nScene: A peaceful woodland boardwalk in early autumn. She pauses to photograph fern leaves with a compact camera held naturally in both hands; no other people, the complete figure visible.\nOutfit and props: A tan lightweight field jacket over an ivory T-shirt, olive straight-leg trousers, brown walking shoes and a small rose-pink crossbody bag. A tiny ivory conical hair pin, ordinary practical hiking clothing.\nCategory: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "prompt_sha256": "2b7d7462d2c6fdb2e1870751bab369eccbb024c1ee5f815af180c290923897a4",
+      "review": "anchor face/hair/eyes preserved; distinct ordinary scene and clothing; no armor"
+    },
+    {
+      "slot": "casual3",
+      "path": "img/뿔충이_glossy_promo_f_casual3.webp",
+      "source": "exec-d76f4b4d-c453-4db0-a73a-c5883726abb2.png",
+      "source_sha256": "50c6f57787be7f1c7a662027187aa18ff85bd99578f78455273efb531ca813d4",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "30738eaa14bd528c4bdac8e2e13359ea51a9d20143113ffe5d3d9a4d53890e52",
+      "bytes": 416642,
+      "references": [
+        "img/뿔충이_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "casual3",
+        "mode": "casual",
+        "category": "food_berries",
+        "pose": "preparing_food",
+        "scene": "A bright home kitchen with warm morning light. She gently mixes a berry-and-apple fruit salad with a wooden spoon in a clear glass bowl, steadying the bowl with her other hand; sliced fruit and berries on the counter, no other people.",
+        "outfit": "An ivory rolled-sleeve blouse, a simple dusty-rose apron and comfortable brown trousers. Only a tiny ivory conical hair pin echoes Weedle; everyday cooking clothes."
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "뿔충이",
+          "label": "0013 · 뿔충이"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "category": {
+          "value": "food_berries",
+          "label": "요리·나무열매"
+        },
+        "example": {
+          "value": "",
+          "label": "자동 — 이 갈래에 맞는 장면"
+        },
+        "pose": {
+          "value": "preparing_food",
+          "label": "음식 준비하기"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        },
+        "axis-overall_intensity": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-skin_exposure": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-action_level": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-source_influence": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-separates_preference": {
+          "value": "AUTO",
+          "label": "자동"
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Weedle (뿔충이) personified, bug / poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nPose: Work at a kitchen counter, stirring a bowl or arranging ingredients with clearly separated hands and utensils.\nScene: A bright home kitchen with warm morning light. She gently mixes a berry-and-apple fruit salad with a wooden spoon in a clear glass bowl, steadying the bowl with her other hand; sliced fruit and berries on the counter, no other people.\nOutfit and props: An ivory rolled-sleeve blouse, a simple dusty-rose apron and comfortable brown trousers. Only a tiny ivory conical hair pin echoes Weedle; everyday cooking clothes.\nCategory: Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "prompt_sha256": "90e8368f99fba93349abb6edbc75a4eebe0ee704f2d23bc8558c5f170b713dbf",
+      "review": "anchor face/hair/eyes preserved; distinct ordinary scene and clothing; no armor"
+    }
+  ],
+  "notes": [
+    "The reviewed light-form image remains the identity anchor for this character.",
+    "Each overdrive references its own closed form first; heavy and mobility additionally reference light for the face.",
+    "Published WebP images retain original 1024 x 1536 pixels without cropping or resizing; quality 95, method 6.",
+    "Source PNGs are retained in the generated image artifacts and the local recovery ZIP; no cross-session GitHub storage of PNGs is claimed. The commit containing this record is the upload commit."
+  ]
+}
