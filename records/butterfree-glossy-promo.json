@@ -1,0 +1,899 @@
+{
+  "card": "버터플",
+  "style": "glossy_promo",
+  "gender": "f",
+  "date": "2026-10-07",
+  "requested": 9,
+  "anchor_approved": true,
+  "anchor_reviewed_by": "gpt",
+  "identity_anchor": "img/버터플_light_glossy_promo_f.webp",
+  "generator": "pkm-atelier/prompt.html (local checkout; actual UI selections)",
+  "generator_source_commit": "f705cb44b835cd7ec7da62a72623da943b6b5d09",
+  "image_repository_parent_commit": "71dd0f6eeb1556e83c6cd969ddd9bfe89e6d33a8",
+  "prompt_record_status": "Exact generator output and selected UI values preserved per image; submitted unchanged to image_gen.",
+  "images": [
+    {
+      "slot": "light",
+      "path": "img/버터플_light_glossy_promo_f.webp",
+      "source": "exec-bd960508-61ab-413f-a855-3eac913fb416.png",
+      "source_sha256": "1b788568e9a45a651470bc69c3b8478d1e466594a414a58e510376d3aaaf3f95",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "562420dd7cba6d2e1ceab71f999834a43bb418e59e7531a5589a882683ec7bd4",
+      "bytes": 500518,
+      "references": [],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "light",
+        "mode": "action",
+        "form": "light",
+        "identity": "create",
+        "pose": "braced_stance",
+        "scene": "A sunlit meadow at the edge of a woodland, with pale wildflowers and a softly blurred blue sky behind her.",
+        "motifs": "Butterfree’s white wings with black veins become small scalloped shoulder and split-skirt armor panels with crisp black tracery, rather than giant back wings. A violet chest plate and blue glove and boot accents echo its body and limbs; its paired black antennae become two slender curved hair ornaments, and small ruby-red gems echo its eyes.",
+        "params": {
+          "apparent age": "20s",
+          "body type": "slender",
+          "hairstyle": "bob",
+          "hair color": "lavender",
+          "eye color": "red",
+          "facial character": "friendly"
+        }
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "버터플",
+          "label": "0012 · 버터플"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "identity-mode": {
+          "value": "create",
+          "label": "새 인물 만들기"
+        },
+        "form": {
+          "value": "light",
+          "label": "경장"
+        },
+        "head-feature": {
+          "value": "",
+          "label": "자동 — 원본 머리 특징에 맞춰"
+        },
+        "param-apparent-age": {
+          "value": "20s",
+          "label": "20s — 20대 성인"
+        },
+        "param-facial-ethnicity": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-body-type": {
+          "value": "slender",
+          "label": "Slender — 가늘고 슬림한 체형"
+        },
+        "param-height-impression": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-shoulder-build": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-torso---chest-build": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-torso-length": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-waist---hip-silhouette": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-leg-proportion": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-lower-body-build": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-body-measurements--B-W-H-": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-facial-character": {
+          "value": "friendly",
+          "label": "Friendly — 다가가기 쉬운 인상"
+        },
+        "param-skin-tone": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-face-shape": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-eye-shape": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-eye-color": {
+          "value": "red",
+          "label": "Red — 적색"
+        },
+        "param-second-eye-color": {
+          "value": "",
+          "label": "양쪽 같은 색"
+        },
+        "param-face-length": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-face-width": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-jaw---chin": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-eye-size": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-eye-tilt": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-nose-character": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-lips": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-hair-color": {
+          "value": "lavender",
+          "label": "Lavender — 연보라"
+        },
+        "param-hairstyle": {
+          "value": "bob",
+          "label": "Bob — 단정한 보브컷"
+        },
+        "param-hair-length": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-bangs": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-hair-accent": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-hair-texture": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-hair-volume": {
+          "value": "",
+          "label": "자동"
+        },
+        "param-parting": {
+          "value": "",
+          "label": "자동"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "action-category": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-example": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-timing": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-equipment": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-power": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-effects": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-speed": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-environment": {
+          "value": "",
+          "label": "자동"
+        },
+        "pose": {
+          "value": "braced_stance",
+          "label": "묵직하게 버티기"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        }
+      },
+      "submitted_prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Butterfree (버터플), bug / flying type.\n\nPALETTE: purple, blue, white, black.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Butterfree as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): Butterfree’s white wings with black veins become small scalloped shoulder and split-skirt armor panels with crisp black tracery, rather than giant back wings. A violet chest plate and blue glove and boot accents echo its body and limbs; its paired black antennae become two slender curved hair ornaments, and small ruby-red gems echo its eyes..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nPose: Plant both feet firmly in a grounded bracing stance, using posture rather than a larger body to convey weight.\nScene: A sunlit meadow at the edge of a woodland, with pale wildflowers and a softly blurred blue sky behind her.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3. Leave a clear sky margin above the complete tips of both hair ornaments and a ground margin beneath both boots; make the person slightly smaller within the frame to fit all ornaments.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nbody type: slender — narrow frame and slim limbs, low soft-tissue volume\nhairstyle: bob — bob outline ending between below-ear and neck level\nhair color: lavender\neye color: red\nfacial character: friendly — approachable, welcoming demeanor\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\ndemeanor scope: Facial character affects demeanor only; preserve age and geometry. Explicit scene expression takes priority.\neye color consistency: both eyes are red\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "prompt_sha256": "6ce22964e5177b16abba2b6b5b7370c6a3944725df2398de41c1a4ce4510f3ce",
+      "review": "single adult woman; full body with head and feet inside frame; red eyes, lavender bob; thin white black-veined and violet armor; relaxed coherent hands"
+    },
+    {
+      "slot": "heavy",
+      "path": "img/버터플_heavy_glossy_promo_f.webp",
+      "source": "exec-877c0689-0cb6-4dc8-8eaf-e1b2e9cb0662.png",
+      "source_sha256": "e406f93715673c7d9643658963668c5ecda61db3148733cc693036c9b870eceb",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "c9bf74e870fe5c660b6f4ac8aa545d12de6ea0e1ed58c740fa270daaa6d4c98e",
+      "bytes": 531946,
+      "references": [
+        "img/버터플_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "heavy",
+        "mode": "action",
+        "form": "heavy",
+        "identity": "reference",
+        "pose": "braced_stance",
+        "scene": "The same sunny woodland meadow; a grounded, readable full-body card composition with pale wildflowers."
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "버터플",
+          "label": "0012 · 버터플"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "identity-mode": {
+          "value": "reference",
+          "label": "확정한 이미지 이어가기"
+        },
+        "form": {
+          "value": "heavy",
+          "label": "중장"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "action-category": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-example": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-timing": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-equipment": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-power": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-effects": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-speed": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-environment": {
+          "value": "",
+          "label": "자동"
+        },
+        "pose": {
+          "value": "braced_stance",
+          "label": "묵직하게 버티기"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        }
+      },
+      "submitted_prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Butterfree (버터플), bug / flying type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nPose: Plant both feet firmly in a grounded bracing stance, using posture rather than a larger body to convey weight.\nScene: The same sunny woodland meadow; a grounded, readable full-body card composition with pale wildflowers.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "prompt_sha256": "04ea4d117ccae02ea1f02054aa5f335adfc117c096797a6550a972dee428a91f",
+      "review": "anchor face/hair/eyes/body preserved; full-body card; distinct armor form"
+    },
+    {
+      "slot": "mobility",
+      "path": "img/버터플_mobility_glossy_promo_f.webp",
+      "source": "exec-fb586f2a-7ebc-4e49-97e7-217d374d52b8.png",
+      "source_sha256": "bc4699e84a28639a9044e61beeb3edac550868b30893dd3b0b7a063401533aa7",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "2dc329af4cd979acee8bfd02a36e3b717d3c75e698645da070fe7257b5ea10ab",
+      "bytes": 546548,
+      "references": [
+        "img/버터플_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "mobility",
+        "mode": "action",
+        "form": "mobility",
+        "identity": "reference",
+        "pose": "cross_step",
+        "scene": "A meadow path under a clear blue sky; a controlled crossing step with the complete body and both feet inside the frame."
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "버터플",
+          "label": "0012 · 버터플"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "identity-mode": {
+          "value": "reference",
+          "label": "확정한 이미지 이어가기"
+        },
+        "form": {
+          "value": "mobility",
+          "label": "고기동"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "action-category": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-example": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-timing": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-equipment": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-power": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-effects": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-speed": {
+          "value": "",
+          "label": "자동"
+        },
+        "action-environment": {
+          "value": "",
+          "label": "자동"
+        },
+        "pose": {
+          "value": "cross_step",
+          "label": "교차 스텝"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        }
+      },
+      "submitted_prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Butterfree (버터플), bug / flying type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nPose: Use a brief crossing step to redirect travel with clearly separated legs and stable balance.\nScene: A meadow path under a clear blue sky; a controlled crossing step with the complete body and both feet inside the frame.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "prompt_sha256": "8b67a0c8b3abe1adf4817abc788344fb9ce39d4a48a8e6cf1c4c087ea5cfca5f",
+      "review": "anchor face/hair/eyes/body preserved; full-body card; distinct armor form"
+    },
+    {
+      "slot": "light_overdrive",
+      "path": "img/버터플_light_overdrive_glossy_promo_f.webp",
+      "source": "exec-6ec5b150-a500-444a-92b2-3d5b55250970.png",
+      "source_sha256": "a217cedcc0da45fa809347127aa1c851f18beec9b194b17a18994364a59aa56f",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "dfb11abe9a91ca8f55fb43807c127bd446e0170485a47bbf3ef5625ac9d40f96",
+      "bytes": 523594,
+      "references": [
+        "img/버터플_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "light_overdrive",
+        "mode": "action",
+        "form": "overdrive",
+        "base": "light"
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "버터플",
+          "label": "0012 · 버터플"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "form": {
+          "value": "overdrive",
+          "label": "폭주"
+        },
+        "base-form": {
+          "value": "light",
+          "label": "경장"
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Butterfree (버터플), bug / flying type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a lime-green glow with shimmering wing-like light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "prompt_sha256": "ad17ec23048284d59dc49edc62688e923445b18b1fb0b43a044f22009ac02a08",
+      "review": "matched camera/pose/scale and identity; existing panels opened with lime-green bug energy with shimmering wing-like light"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "path": "img/버터플_heavy_overdrive_glossy_promo_f.webp",
+      "source": "exec-9156e880-d9aa-4f42-976d-a578c01148ca.png",
+      "source_sha256": "2b9136946c307a1115d458e0496d447c71a290b9e0b7ace43f4534e3cb348637",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "7cac845d3076cbe82b6774cdca8eebf6b0c683e6a2242ce531ae2c0b226600e2",
+      "bytes": 580428,
+      "references": [
+        "img/버터플_heavy_glossy_promo_f.webp",
+        "img/버터플_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "heavy_overdrive",
+        "mode": "action",
+        "form": "overdrive",
+        "base": "heavy"
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "버터플",
+          "label": "0012 · 버터플"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "form": {
+          "value": "overdrive",
+          "label": "폭주"
+        },
+        "base-form": {
+          "value": "heavy",
+          "label": "중장"
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Butterfree (버터플), bug / flying type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a lime-green glow with shimmering wing-like light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "prompt_sha256": "045f834b730e8c774bee52f6da8a15b0630f77fa198042f735ec7cbd979a0939",
+      "review": "matched camera/pose/scale and identity; existing panels opened with lime-green bug energy with shimmering wing-like light"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "path": "img/버터플_mobility_overdrive_glossy_promo_f.webp",
+      "source": "exec-8bc7a9a6-e245-4b48-afde-d9b28aee4ce1.png",
+      "source_sha256": "eb8eadbf3b8a3248eeaa12a86f66cef4b3253694eaae88cbb479534617da019b",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "64cdcfd75112ffeb1ab372dbd67ea0d0f1e9c05eb77dd364880a1a6f46cc36f1",
+      "bytes": 600948,
+      "references": [
+        "img/버터플_mobility_glossy_promo_f.webp",
+        "img/버터플_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "mobility_overdrive",
+        "mode": "action",
+        "form": "overdrive",
+        "base": "mobility"
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "버터플",
+          "label": "0012 · 버터플"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "form": {
+          "value": "overdrive",
+          "label": "폭주"
+        },
+        "base-form": {
+          "value": "mobility",
+          "label": "고기동"
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Butterfree (버터플), bug / flying type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a lime-green glow with shimmering wing-like light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "prompt_sha256": "f9e23d11e81a9fb7d3f87c27b21d39dc9f89aff758b284b1a7df8ac8621c301e",
+      "review": "matched camera/pose/scale and identity; existing panels opened with lime-green bug energy with shimmering wing-like light"
+    },
+    {
+      "slot": "casual1",
+      "path": "img/버터플_glossy_promo_f_casual1.webp",
+      "source": "exec-47da0aa3-f623-4998-beb7-591fca98f495.png",
+      "source_sha256": "8b83d9d07de968c6ae6938f7c83a8e14bf8861b4f5f1cef03aa84fcd8ee84511",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "9337f5929df10b2d6f09ade78841062fb2933cf1f9a25b9413f04128696185c3",
+      "bytes": 438134,
+      "references": [
+        "img/버터플_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "casual1",
+        "mode": "casual",
+        "category": "everyday_basic",
+        "pose": "watering",
+        "scene": "A sunny apartment window nook with flowering potted plants. She carefully waters a pot of purple flowers with a small watering can, enjoying a quiet morning; no other people.",
+        "outfit": "A white cotton blouse with rolled sleeves, a lavender midi skirt and blue flat slippers. A tiny black-and-white butterfly hair clip is the only species motif; ordinary everyday clothes."
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "버터플",
+          "label": "0012 · 버터플"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "category": {
+          "value": "everyday_basic",
+          "label": "일상컷 — 기본"
+        },
+        "example": {
+          "value": "",
+          "label": "자동"
+        },
+        "pose": {
+          "value": "watering",
+          "label": "물 주기"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        },
+        "axis-overall_intensity": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-skin_exposure": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-action_level": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-source_influence": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-separates_preference": {
+          "value": "AUTO",
+          "label": "자동"
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Butterfree (버터플) personified, bug / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nPose: Tilt a small watering can toward plants with a clear grip and believable balance.\nScene: A sunny apartment window nook with flowering potted plants. She carefully waters a pot of purple flowers with a small watering can, enjoying a quiet morning; no other people.\nOutfit and props: A white cotton blouse with rolled sleeves, a lavender midi skirt and blue flat slippers. A tiny black-and-white butterfly hair clip is the only species motif; ordinary everyday clothes.\nCategory: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "prompt_sha256": "a617d4f59a056d591f3d08e5b5963fa54caba19b72af9a86661c3e226c71cf38",
+      "review": "anchor face/hair/eyes preserved; distinct ordinary scene and clothing; no armor"
+    },
+    {
+      "slot": "casual2",
+      "path": "img/버터플_glossy_promo_f_casual2.webp",
+      "source": "exec-5e1e38e9-bef9-46a3-a80e-c497b570befe.png",
+      "source_sha256": "850ead058117d7cf93e3f6b18077c2450ce83d27f563251b8e4616689deb59e3",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "df298338f63cb1fcda001af1f245b239c411257c1d9bfdce5259b43a285bff7b",
+      "bytes": 543726,
+      "references": [
+        "img/버터플_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "casual2",
+        "mode": "casual",
+        "category": "travel_exploration",
+        "pose": "walking",
+        "scene": "A peaceful lakeside walking path in early summer. She walks beside the water with a small canvas tote and a light breeze; no other people, the whole figure visible.",
+        "outfit": "A light lilac cardigan over a white sleeveless summer dress, comfortable pale-blue sneakers and a small cream canvas tote. Only a tiny butterfly brooch echoes Butterfree; practical ordinary clothes."
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "버터플",
+          "label": "0012 · 버터플"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "category": {
+          "value": "travel_exploration",
+          "label": "여행·필드 탐험"
+        },
+        "example": {
+          "value": "",
+          "label": "자동 — 이 갈래에 맞는 장면"
+        },
+        "pose": {
+          "value": "walking",
+          "label": "걷기"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        },
+        "axis-overall_intensity": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-skin_exposure": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-action_level": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-source_influence": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-separates_preference": {
+          "value": "AUTO",
+          "label": "자동"
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Butterfree (버터플) personified, bug / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nPose: Walk at a comfortable pace with a natural step and arm swing.\nScene: A peaceful lakeside walking path in early summer. She walks beside the water with a small canvas tote and a light breeze; no other people, the whole figure visible.\nOutfit and props: A light lilac cardigan over a white sleeveless summer dress, comfortable pale-blue sneakers and a small cream canvas tote. Only a tiny butterfly brooch echoes Butterfree; practical ordinary clothes.\nCategory: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "prompt_sha256": "b4faeb37c251eadc42ab5528623b953ea07c5980b3d7e0346e88010ae53e0c9a",
+      "review": "anchor face/hair/eyes preserved; distinct ordinary scene and clothing; no armor"
+    },
+    {
+      "slot": "casual3",
+      "path": "img/버터플_glossy_promo_f_casual3.webp",
+      "source": "exec-6ecfb859-e38f-413a-b5fc-75bf27933c95.png",
+      "source_sha256": "f5a9e4397264df9117310a9e46835b2fb6196324e2354c62da762e8bde978c84",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "0412247d5dfc896375965cc91a92fd305e7224ecc26a7abd825340da2791d6d6",
+      "bytes": 377136,
+      "references": [
+        "img/버터플_light_glossy_promo_f.webp"
+      ],
+      "selection_basis": "actual generator UI; established default glossy_promo",
+      "settings": {
+        "key": "casual3",
+        "mode": "casual",
+        "category": "food_berries",
+        "pose": "preparing_food",
+        "scene": "A cozy sunlit home kitchen. She spreads berry jam on toast with a small butter knife, holding the toast above a ceramic plate with her other hand; a jam jar and berries sit on the counter, no other people.",
+        "outfit": "A pale-blue short-sleeve shirt, a simple lavender apron and dark comfortable trousers. A tiny butterfly hair clip echoes Butterfree; normal home cooking clothing."
+      },
+      "selected_ui_values": {
+        "group": {
+          "value": "",
+          "label": "전체"
+        },
+        "source": {
+          "value": "버터플",
+          "label": "0012 · 버터플"
+        },
+        "style": {
+          "value": "glossy_promo",
+          "label": "글로시 프로모 키아트"
+        },
+        "expression": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "category": {
+          "value": "food_berries",
+          "label": "요리·나무열매"
+        },
+        "example": {
+          "value": "",
+          "label": "자동 — 이 갈래에 맞는 장면"
+        },
+        "pose": {
+          "value": "preparing_food",
+          "label": "음식 준비하기"
+        },
+        "orientation": {
+          "value": "",
+          "label": "AUTO — 자동"
+        },
+        "frame": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "lens": {
+          "value": "",
+          "label": "자동 — 장면에 맞게"
+        },
+        "aspect": {
+          "value": "2:3",
+          "label": "2:3"
+        },
+        "axis-overall_intensity": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-skin_exposure": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-action_level": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-source_influence": {
+          "value": "AUTO",
+          "label": "자동"
+        },
+        "axis-separates_preference": {
+          "value": "AUTO",
+          "label": "자동"
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Butterfree (버터플) personified, bug / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nPose: Work at a kitchen counter, stirring a bowl or arranging ingredients with clearly separated hands and utensils.\nScene: A cozy sunlit home kitchen. She spreads berry jam on toast with a small butter knife, holding the toast above a ceramic plate with her other hand; a jam jar and berries sit on the counter, no other people.\nOutfit and props: A pale-blue short-sleeve shirt, a simple lavender apron and dark comfortable trousers. A tiny butterfly hair clip echoes Butterfree; normal home cooking clothing.\nCategory: Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.\nNote: Deliver one image at 1024 x 1536 pixels, portrait 2:3.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "prompt_sha256": "e0343aaa4a683a1497e8a3cd24e2c1dc8cdb6add7a15e39bdbc99950cbdc9f08",
+      "review": "anchor face/hair/eyes preserved; distinct ordinary scene and clothing; no armor"
+    }
+  ],
+  "notes": [
+    "The first unreferenced light-form attempt was not selected because an antenna touched the top frame. The second unreferenced result was visually reviewed and selected; both prompt attempts and the rejected PNG are preserved in local recovery artifacts.",
+    "The reviewed light-form image remains the identity anchor for this character.",
+    "Each overdrive references its own closed form first; heavy and mobility additionally reference light for the face.",
+    "Published WebP images retain original 1024 x 1536 pixels without cropping or resizing; quality 95, method 6.",
+    "Source PNGs are retained in the generated image artifacts and the local recovery ZIP; no cross-session GitHub storage of PNGs is claimed. The commit containing this record is the upload commit."
+  ]
+}
