@@ -1,0 +1,176 @@
+{
+  "card": "고지",
+  "style": "glossy_promo",
+  "gender": "f",
+  "date": "2026-10-08",
+  "requested": 9,
+  "anchor_approved": true,
+  "anchor_reviewed_by": "gpt",
+  "identity_anchor": "img/고지_light_glossy_promo_f.webp",
+  "generator": "https://polos0117.github.io/pkm-atelier/prompt.html (actual UI selections; checked against local engine output)",
+  "images": [
+    {
+      "slot": "light",
+      "path": "img/고지_light_glossy_promo_f.webp",
+      "source": "/workspace/scratch/28ad0bc0c250/generated_images/exec-f9880958-8f44-43dd-9fd6-48f417ed9a89.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "0ac11fcdc9abec7f5ad5c5ef9b2277890bf046a9817649194439c76e078c2973",
+      "source_sha256": "016e3f39d4b2491634db7a0183f185aad3e97a9dd28073dafbd9147e73a5b58e",
+      "bytes": 567758,
+      "references": [],
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Sandslash (고지), ground type.\n\nPALETTE: yellow.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Sandslash as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the thick tail becomes a long sash hanging from the back of her belt, in the same shape and colors; the two large claws become claw-shaped guards on her gauntlets, her hands still human hands.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Keep both hands relaxed — a loose fist, an open palm or resting on something; no clawed spread fingers, no hand thrust at the camera. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.\n\nRender exactly 1024 × 1536 pixels.",
+      "tool": "built-in image_gen",
+      "status": "complete, visually reviewed and registration checked"
+    },
+    {
+      "slot": "light_overdrive",
+      "path": "img/고지_light_overdrive_glossy_promo_f.webp",
+      "source": "/workspace/scratch/28ad0bc0c250/generated_images/exec-bb5127d2-2852-42e3-883e-4753d3e99de1.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "7498b8c315adb51a9e73a617a7d661825a650affbc15f50614fecdade25cc06c",
+      "source_sha256": "d39de895a88c2ada62522a27d984f7473bfbc62059a7fdd1d1fe69d363eae063",
+      "bytes": 681652,
+      "references": [
+        "img/고지_light_glossy_promo_f.webp"
+      ],
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Sandslash (고지), ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and an amber glow with rising dust and pebbles shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.\n\nRender exactly 1024 × 1536 pixels.",
+      "tool": "built-in image_gen",
+      "status": "complete, visually reviewed and registration checked"
+    },
+    {
+      "slot": "casual1",
+      "path": "img/고지_glossy_promo_f_casual1.webp",
+      "source": "/workspace/scratch/28ad0bc0c250/generated_images/exec-da61794d-1032-4c8f-943f-b33d14e4fb8c.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "158d144f4f6c56c5b2ca2f67a8f0424e13acddf634ae4a876b339e5fb1d0a38e",
+      "source_sha256": "6119a1b5523fc327afcd6257c3bfff3450ba7377a34123707d1f10b02f755dbb",
+      "bytes": 610092,
+      "references": [
+        "img/고지_light_glossy_promo_f.webp"
+      ],
+      "prompt": "CHARACTER: the same woman as the attached image — Sandslash (고지) personified, ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: At a rocky coastal viewpoint during a gentle sunset, she pauses on a walking trail facing the camera, sea breeze moving her hair.\nOutfit and props: A ochre canvas hiking jacket over a cream tee, dark brown shorts and sturdy hiking sneakers; a small spike-shaped pendant.\nCategory: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.\n\nRender exactly 1024 × 1536 pixels.",
+      "tool": "built-in image_gen",
+      "status": "complete, visually reviewed and registration checked"
+    },
+    {
+      "slot": "casual3",
+      "path": "img/고지_glossy_promo_f_casual3.webp",
+      "source": "/workspace/scratch/28ad0bc0c250/generated_images/exec-531c3770-e74c-43b7-a7b7-895ed5e413d7.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "b7fe5c41137f86b2d8433f1e2388b5fd18769ee8bb209d45edbe2f1dac5ccd26",
+      "source_sha256": "ddddc1ce6c39db63fae830c3ccf0531d7601431f5e9e61bc4ac6a7a90fff9af5",
+      "bytes": 474826,
+      "references": [
+        "img/고지_light_glossy_promo_f.webp"
+      ],
+      "prompt": "CHARACTER: the same woman as the attached image — Sandslash (고지) personified, ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: relaxed brow, softly open eyes, lips closed and unstrained, no smile\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: In a cozy apartment reading corner on a rainy evening, she stands beside an armchair sipping tea from a small mug, her free hand relaxed by her side.\nOutfit and props: A cream knitted lounge top, warm ochre loose trousers and house slippers; tiny gold stud earrings.\nCategory: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.\n\nRender exactly 1024 × 1536 pixels.",
+      "tool": "built-in image_gen",
+      "status": "complete, visually reviewed and registration checked"
+    },
+    {
+      "slot": "mobility",
+      "path": "img/고지_mobility_glossy_promo_f.webp",
+      "source": "/workspace/scratch/28ad0bc0c250/generated_images/exec-ed732264-44bd-4491-84a7-83050226d00a.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "59d4dcc1cee6a8b5faed1d61706e52a9e03c325515fb7dcfc2e9cda9390263e0",
+      "source_sha256": "812a191f1815912301a6b385aa13f5ec2f0b32f657635166e33ed09b7a75e6da",
+      "bytes": 619138,
+      "references": [
+        "img/고지_light_glossy_promo_f.webp"
+      ],
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Sandslash (고지), ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Keep both hands relaxed — a loose fist, an open palm or resting on something; no clawed spread fingers, no hand thrust at the camera. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.\n\nRender exactly 1024 × 1536 pixels.",
+      "tool": "built-in image_gen",
+      "status": "complete, visually reviewed and registration checked"
+    },
+    {
+      "slot": "casual2",
+      "path": "img/고지_glossy_promo_f_casual2.webp",
+      "source": "/workspace/scratch/28ad0bc0c250/generated_images/exec-dadee0d0-7296-42c2-a3a4-b036f644ae27.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "7fd46c6fb798f0133164db0a463a87748c381ccea41a26b719ca0f473503793d",
+      "source_sha256": "51bf1cd60686bfdd196934b3af54dd0da6377833e82ca6f51fbc010f618ec631",
+      "bytes": 518598,
+      "references": [
+        "img/고지_light_glossy_promo_f.webp"
+      ],
+      "prompt": "CHARACTER: the same woman as the attached image — Sandslash (고지) personified, ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: At an open-air berry market, she stands beside a produce stall choosing a ripe berry, one hand supporting a small woven basket.\nOutfit and props: A sand-coloured sleeveless linen blouse, brown wide-leg trousers and cream flat sandals; a little triangular hair accessory.\nCategory: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.\n\nRender exactly 1024 × 1536 pixels.",
+      "tool": "built-in image_gen",
+      "status": "complete, visually reviewed and registration checked"
+    },
+    {
+      "slot": "heavy",
+      "path": "img/고지_heavy_glossy_promo_f.webp",
+      "source": "/workspace/scratch/28ad0bc0c250/generated_images/exec-0ed88b47-9667-4e97-89db-3e4831bd6ad8.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "e75b6f4f196e903fdffdfe0b3ef0f8eaedd120dbdfc1a41a3380ba6b954071a9",
+      "source_sha256": "3d56b598ce64a573b059bc0bc0062c87855c8ed73d64da34c5ea2753ba0e8ccd",
+      "bytes": 592768,
+      "references": [
+        "img/고지_light_glossy_promo_f.webp"
+      ],
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Sandslash (고지), ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Keep both hands relaxed — a loose fist, an open palm or resting on something; no clawed spread fingers, no hand thrust at the camera. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.\n\nRender exactly 1024 × 1536 pixels.",
+      "tool": "built-in image_gen",
+      "status": "complete, visually reviewed and registration checked"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "path": "img/고지_mobility_overdrive_glossy_promo_f.webp",
+      "source": "/workspace/scratch/28ad0bc0c250/generated_images/exec-9963f406-99ab-4bb4-8987-28f0a4719ef4.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "e25a1c18bfa9d2cdc2a7d3ec23af356cbb8f702bff7237d75ae0f017dae7d461",
+      "source_sha256": "ba2ba2be19742a099fadc0afbeb958e03b645c130e969e5c088b99b5e41f2c6a",
+      "bytes": 692740,
+      "references": [
+        "img/고지_mobility_glossy_promo_f.webp",
+        "img/고지_light_glossy_promo_f.webp"
+      ],
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Sandslash (고지), ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and an amber glow with rising dust and pebbles shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.\n\nRender exactly 1024 × 1536 pixels.",
+      "tool": "built-in image_gen",
+      "status": "complete, visually reviewed and registration checked"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "path": "img/고지_heavy_overdrive_glossy_promo_f.webp",
+      "source": "/workspace/scratch/28ad0bc0c250/generated_images/exec-e2ed1e38-4d7e-49aa-8447-e92909a6792e.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "c3b80f4ee7b9f8edba91e9ff16c582183483fef17f5a3fe77e147e5262da2036",
+      "source_sha256": "7799be1729b6438e2b9960f6ca3d1e5cff77c0d0ae7a9757678d56541e5a6a2f",
+      "bytes": 654614,
+      "references": [
+        "img/고지_heavy_glossy_promo_f.webp",
+        "img/고지_light_glossy_promo_f.webp"
+      ],
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Sandslash (고지), ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and an amber glow with rising dust and pebbles shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.\n\nRender exactly 1024 × 1536 pixels.",
+      "tool": "built-in image_gen",
+      "status": "complete, visually reviewed and registration checked"
+    }
+  ],
+  "upload": "prepared for one character commit to main"
+}
