@@ -1,0 +1,297 @@
+{
+  "card": "삐삐",
+  "number": 35,
+  "style": "glossy_promo",
+  "gender": "f",
+  "generator_url": "https://polos0117.github.io/pkm-atelier/prompt.html",
+  "rules_sha": "271736fab30897cf0c1a056f6da2fc8a52136855",
+  "date": "2026-10-08",
+  "base": {
+    "path": "/workspace/scratch/e03281e8c348/generated_images/exec-a4f96a12-6335-4ebc-b8fb-92ec1cd6fc98.png",
+    "filename": "삐삐_light_glossy_promo_f.webp",
+    "sha256": "b575821ef44a2e7dac8290485d46d9da997af8a679613bbddebe860e5b8df01f",
+    "approved_by": "gpt visual inspection within authorized production task"
+  },
+  "status": "9/9 generated and validated; ready for main upload",
+  "casual_plan": [
+    {
+      "category": "swimwear",
+      "expression": "playful",
+      "pose": "작은 댄스 스텝",
+      "orientation": "front three-quarter",
+      "framing": "전신",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    {
+      "category": "travel",
+      "expression": "curious",
+      "pose": "지도 펼쳐 보기",
+      "orientation": "side profile",
+      "framing": "무릎 위",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    {
+      "category": "homewear",
+      "expression": "sleepy",
+      "pose": "기지개",
+      "orientation": "front",
+      "framing": "허리 위",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    }
+  ],
+  "images": [
+    {
+      "sequence": 1,
+      "slot": "light",
+      "original": "/workspace/scratch/e03281e8c348/generated_images/exec-a4f96a12-6335-4ebc-b8fb-92ec1cd6fc98.png",
+      "reference_images": [],
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Clefairy (삐삐), fairy type.\n\nPALETTE: brown, pink.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Clefairy as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the tiny, butterfly-shaped wings become a split cape falling from her shoulders, cut in the same shape and colors; the large, pointed ears become a headpiece or hair ornament of the same shape.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: Moonlit mountain clearing with pale rocky terrain and distant stars, soft pink fairy glimmers around her shoulders; a poised standing stance, empty relaxed hands fully visible, face toward the camera.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "output": {
+        "path": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/삐삐_light_glossy_promo_f.webp",
+        "filename": "삐삐_light_glossy_promo_f.webp",
+        "width": 1024,
+        "height": 1536,
+        "format": "WEBP",
+        "sha256": "b575821ef44a2e7dac8290485d46d9da997af8a679613bbddebe860e5b8df01f",
+        "bytes": 560334
+      },
+      "validation": {
+        "single_adult": true,
+        "identity_preserved": true,
+        "hands_reviewed": true,
+        "text_logo_weapon_absent": true
+      }
+    },
+    {
+      "sequence": 2,
+      "slot": "heavy",
+      "original": "/workspace/scratch/e03281e8c348/generated_images/exec-39940119-c5db-4b19-b0e2-aba33b92f6a2.png",
+      "reference_images": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-a4f96a12-6335-4ebc-b8fb-92ec1cd6fc98.png"
+      ],
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Clefairy (삐삐), fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: Moonlit mountain clearing with pale rocky terrain and distant stars. A grounded protective stance, feet set apart, both empty relaxed hands visible and separated from the torso, face toward the camera.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "output": {
+        "path": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/삐삐_heavy_glossy_promo_f.webp",
+        "filename": "삐삐_heavy_glossy_promo_f.webp",
+        "width": 1024,
+        "height": 1536,
+        "format": "WEBP",
+        "sha256": "d07222b2b86fcd81ed6e1d57e16a4fef54acad90020069d5bfb1343447ed9e13",
+        "bytes": 577930
+      },
+      "validation": {
+        "single_adult": true,
+        "identity_preserved": true,
+        "hands_reviewed": true,
+        "text_logo_weapon_absent": true
+      }
+    },
+    {
+      "sequence": 3,
+      "slot": "mobility",
+      "original": "/workspace/scratch/e03281e8c348/generated_images/exec-5a4d2e42-1705-46dc-be7d-09b2cebb1c45.png",
+      "reference_images": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-a4f96a12-6335-4ebc-b8fb-92ec1cd6fc98.png"
+      ],
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Clefairy (삐삐), fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: Moonlit mountain clearing with pale rocky terrain and distant stars. A light balanced cross-step stance, split cape trailing gently, both empty relaxed hands fully visible, face toward the camera.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "output": {
+        "path": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/삐삐_mobility_glossy_promo_f.webp",
+        "filename": "삐삐_mobility_glossy_promo_f.webp",
+        "width": 1024,
+        "height": 1536,
+        "format": "WEBP",
+        "sha256": "4f49c789606b2de9f14bd1b9a07722ee2441cb46d22d3903d36be8f894da1349",
+        "bytes": 583932
+      },
+      "validation": {
+        "single_adult": true,
+        "identity_preserved": true,
+        "hands_reviewed": true,
+        "text_logo_weapon_absent": true
+      }
+    },
+    {
+      "sequence": 4,
+      "slot": "light_overdrive",
+      "original": "/workspace/scratch/e03281e8c348/generated_images/exec-32d7ed66-1ced-406f-b361-c68fc3bf40e9.png",
+      "reference_images": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-a4f96a12-6335-4ebc-b8fb-92ec1cd6fc98.png"
+      ],
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Clefairy (삐삐), fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a soft pink glow with sparkles shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "output": {
+        "path": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/삐삐_light_overdrive_glossy_promo_f.webp",
+        "filename": "삐삐_light_overdrive_glossy_promo_f.webp",
+        "width": 1024,
+        "height": 1536,
+        "format": "WEBP",
+        "sha256": "6c54723f82dd30f4f32f825c8c62d7284971bb06b3eb05f010049545b2e3ca96",
+        "bytes": 541144
+      },
+      "validation": {
+        "single_adult": true,
+        "identity_preserved": true,
+        "hands_reviewed": true,
+        "text_logo_weapon_absent": true
+      }
+    },
+    {
+      "sequence": 5,
+      "slot": "heavy_overdrive",
+      "original": "/workspace/scratch/e03281e8c348/generated_images/exec-28b9f3b6-2933-4308-8591-979563b071d5.png",
+      "reference_images": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-39940119-c5db-4b19-b0e2-aba33b92f6a2.png",
+        "/workspace/scratch/e03281e8c348/generated_images/exec-a4f96a12-6335-4ebc-b8fb-92ec1cd6fc98.png"
+      ],
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Clefairy (삐삐), fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a soft pink glow with sparkles shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "output": {
+        "path": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/삐삐_heavy_overdrive_glossy_promo_f.webp",
+        "filename": "삐삐_heavy_overdrive_glossy_promo_f.webp",
+        "width": 1024,
+        "height": 1536,
+        "format": "WEBP",
+        "sha256": "54450abb84ac47d8d6d369878fdc52895ef928e4b8f65d0aec73d30510d4360d",
+        "bytes": 612500
+      },
+      "validation": {
+        "single_adult": true,
+        "identity_preserved": true,
+        "hands_reviewed": true,
+        "text_logo_weapon_absent": true
+      }
+    },
+    {
+      "sequence": 6,
+      "slot": "mobility_overdrive",
+      "original": "/workspace/scratch/e03281e8c348/generated_images/exec-37faa48b-5228-43f3-8387-66ea9cd38426.png",
+      "reference_images": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-5a4d2e42-1705-46dc-be7d-09b2cebb1c45.png",
+        "/workspace/scratch/e03281e8c348/generated_images/exec-a4f96a12-6335-4ebc-b8fb-92ec1cd6fc98.png"
+      ],
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Clefairy (삐삐), fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a soft pink glow with sparkles shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "output": {
+        "path": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/삐삐_mobility_overdrive_glossy_promo_f.webp",
+        "filename": "삐삐_mobility_overdrive_glossy_promo_f.webp",
+        "width": 1024,
+        "height": 1536,
+        "format": "WEBP",
+        "sha256": "89573932f2e7380bac0d25049aa511fa2f782fd76c6b179f5d631872154dba45",
+        "bytes": 599464
+      },
+      "validation": {
+        "single_adult": true,
+        "identity_preserved": true,
+        "hands_reviewed": true,
+        "text_logo_weapon_absent": true
+      }
+    },
+    {
+      "sequence": 7,
+      "slot": "casual1",
+      "original": "/workspace/scratch/e03281e8c348/generated_images/exec-a9c6db4e-e6a9-4f4d-85a4-d16e0f58f7f2.png",
+      "reference_images": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-a4f96a12-6335-4ebc-b8fb-92ec1cd6fc98.png"
+      ],
+      "prompt": "CHARACTER: the same woman as the attached image — Clefairy (삐삐) personified, fairy type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement\nPose: Take a small rhythmic dance step with coordinated arms and balanced feet.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: At a mountain resort pool in warm late-afternoon light, making a tiny playful dance step on the dry stone deck, both hands relaxed at her sides, cheerful amused expression.\nOutfit and props: Opaque fully lined pink two-piece swimwear: structured sweetheart balconette top with secure shoulder straps and brown piping, matching high-cut brief with covered pelvis; a tiny silver star pendant. Bare shoulders, midriff and legs.\nCategory: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "output": {
+        "path": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/삐삐_glossy_promo_f_casual1.webp",
+        "filename": "삐삐_glossy_promo_f_casual1.webp",
+        "width": 1024,
+        "height": 1536,
+        "format": "WEBP",
+        "sha256": "cdaf69d9a39f321eea47f0d48a40c6aa1430214372366c205a465d2df472370d",
+        "bytes": 514778
+      },
+      "validation": {
+        "single_adult": true,
+        "identity_preserved": true,
+        "hands_reviewed": true,
+        "text_logo_weapon_absent": true
+      },
+      "ui_selected": {
+        "category": "swimwear",
+        "expression": "playful",
+        "pose": "작은 댄스 스텝",
+        "orientation": "front three-quarter",
+        "framing": "전신",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "sequence": 8,
+      "slot": "casual2",
+      "original": "/workspace/scratch/e03281e8c348/generated_images/exec-5540d54d-21d3-4af0-954b-d3c0a0a0951c.png",
+      "reference_images": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-a4f96a12-6335-4ebc-b8fb-92ec1cd6fc98.png"
+      ],
+      "prompt": "CHARACTER: the same woman as the attached image — Clefairy (삐삐) personified, fairy type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted\nPose: Hold a folded-out route map in both hands while checking the surroundings.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: At a mountain trail overlook in daylight, pausing to unfold a blank route map with both hands, profile view with her face readable, curious attentive eyes, distant stone ridges and a small canvas daypack resting on a bench.\nOutfit and props: A sleeveless blush cropped hiking tank with brown edging, high-waisted cocoa trail shorts, sturdy boots and a small silver star hairclip; bare shoulders, midriff and thighs, practical fitted travel fashion. Map has no lettering.\nCategory: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "output": {
+        "path": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/삐삐_glossy_promo_f_casual2.webp",
+        "filename": "삐삐_glossy_promo_f_casual2.webp",
+        "width": 1024,
+        "height": 1536,
+        "format": "WEBP",
+        "sha256": "85740e8777332712e88faf84fa72298707d390fd49124e464140523b3b0ad9af",
+        "bytes": 558022
+      },
+      "validation": {
+        "single_adult": true,
+        "identity_preserved": true,
+        "hands_reviewed": true,
+        "text_logo_weapon_absent": true
+      },
+      "ui_selected": {
+        "category": "travel",
+        "expression": "curious",
+        "pose": "지도 펼쳐 보기",
+        "orientation": "side profile",
+        "framing": "무릎 위",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "sequence": 9,
+      "slot": "casual3",
+      "original": "/workspace/scratch/e03281e8c348/generated_images/exec-67e510c4-99f7-44e7-95bc-075f584190c5.png",
+      "reference_images": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-a4f96a12-6335-4ebc-b8fb-92ec1cd6fc98.png"
+      ],
+      "prompt": "CHARACTER: the same woman as the attached image — Clefairy (삐삐) personified, fairy type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: heavy drooping eyelids, unfocused gaze, softened slack mouth, brow low and relaxed\nPose: Stretch the arms and upper back gently in a comfortable everyday motion.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: Morning sunlight in a cozy apartment, gently stretching shoulders and upper back beside an open window, sleepy relaxed expression, both hands near shoulder level entirely inside the waist-up crop.\nOutfit and props: An opaque blush ribbed cropped camisole with secure straps and cocoa scalloped edging, soft brown lounge shorts and a tiny silver star pendant; bare shoulders and midriff, designed relaxed homewear.\nCategory: Create designed, fashion-forward homewear or lounge-life scenes. Avoid plain pajamas and bland static sofa poses. Use believable home-life actions, stylish home fashion silhouettes, and a sensual but natural private-life atmosphere.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "output": {
+        "path": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/삐삐_glossy_promo_f_casual3.webp",
+        "filename": "삐삐_glossy_promo_f_casual3.webp",
+        "width": 1024,
+        "height": 1536,
+        "format": "WEBP",
+        "sha256": "6a7846320b856ee51a9310799b53e2bcbb394c001108f4bb07b2deb42945a1c9",
+        "bytes": 401046
+      },
+      "validation": {
+        "single_adult": true,
+        "identity_preserved": true,
+        "hands_reviewed": true,
+        "text_logo_weapon_absent": true
+      },
+      "ui_selected": {
+        "category": "homewear",
+        "expression": "sleepy",
+        "pose": "기지개",
+        "orientation": "front",
+        "framing": "허리 위",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    }
+  ],
+  "generation_tool": "built-in image_gen",
+  "validation": {
+    "name_check": "passed; 9 candidates, no unknown names; existing remote files are not downloaded locally and were preserved",
+    "forms_check": "passed",
+    "conversion": "PNG to WebP quality 95 method 6; dimensions unchanged",
+    "mobility_attempts": 2
+  }
+}
