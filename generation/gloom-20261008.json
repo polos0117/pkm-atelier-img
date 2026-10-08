@@ -1,0 +1,312 @@
+{
+  "source": "냄새꼬",
+  "english": "Gloom",
+  "dex": "0044",
+  "date": "2026-10-08",
+  "rules_file": "pkm-atelier/IMAGE_RULES.md",
+  "rules_sha": "271736fab30897cf0c1a056f6da2fc8a52136855",
+  "generator_url": "https://polos0117.github.io/pkm-atelier/prompt.html",
+  "canonical_light": "/workspace/scratch/66a5a06b8a55/generated_images/exec-fd00ba5e-d541-4dba-ab31-f56ebf029e7c.png",
+  "assets": [
+    {
+      "key": "light",
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Gloom (냄새꼬), grass / poison type.\n\nPALETTE: brown, white.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Gloom as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the four reddish-brown leaves become leaf-shaped plates and trim; the spherical petals become a large flower ornament at her shoulder or in her hair; its markings (white spots) become painted lines and patterns on her plates and undersuit.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nExpression: relaxed brow, softly open eyes, lips closed and unstrained, no smile\nScene: A softly lit forest clearing at dawn with mossy stone and muted botanical foliage.\nNote: Both hands empty, relaxed and fully visible with one thumb and four clearly separated fingers each. Her outfit is fully opaque.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "png": "/workspace/scratch/66a5a06b8a55/generated_images/exec-fd00ba5e-d541-4dba-ab31-f56ebf029e7c.png",
+      "references": [],
+      "settings": {
+        "mode": "action",
+        "form": "light",
+        "expression": "calm",
+        "orientation": "auto",
+        "frame": "auto",
+        "style": "glossy_promo",
+        "gender": "f",
+        "identity": "new"
+      },
+      "filename": "냄새꼬_light_glossy_promo_f.webp",
+      "identityReference": "img/냄새꼬_light_glossy_promo_f.webp",
+      "evidence": "actual generator UI selection and exact submitted prompt",
+      "visualCheck": "face, hair, proportions, form, framing, hands and costume reviewed",
+      "referenceFiles": [],
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "1b4dd4ef56854b42877460094aa64c1bc22f0e22913346a49f4324862b6c2c99",
+      "sha256": "fd0eaf40730d0d3e45913f75e9d8ee5298f09edddf031e4ed2406375e465563a",
+      "repository_path": "img/냄새꼬_light_glossy_promo_f.webp"
+    },
+    {
+      "key": "heavy",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Gloom (냄새꼬), grass / poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nExpression: relaxed brow, softly open eyes, lips closed and unstrained, no smile\nScene: In the same dawn forest clearing, standing firmly with a balanced wide stance.\nNote: Both hands empty, relaxed and fully visible with one thumb and four clearly separated fingers each. Her outfit is fully opaque.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "png": "/workspace/scratch/66a5a06b8a55/generated_images/exec-883ed9e8-886f-4f0f-8e90-c4e34554a844.png",
+      "references": [
+        "/workspace/scratch/66a5a06b8a55/generated_images/exec-fd00ba5e-d541-4dba-ab31-f56ebf029e7c.png"
+      ],
+      "settings": {
+        "mode": "action",
+        "form": "heavy",
+        "expression": "calm",
+        "orientation": "auto",
+        "frame": "auto",
+        "style": "glossy_promo",
+        "gender": "f",
+        "identity": "reference"
+      },
+      "filename": "냄새꼬_heavy_glossy_promo_f.webp",
+      "identityReference": "img/냄새꼬_light_glossy_promo_f.webp",
+      "evidence": "actual generator UI selection and exact submitted prompt",
+      "visualCheck": "face, hair, proportions, form, framing, hands and costume reviewed",
+      "referenceFiles": [
+        "img/냄새꼬_light_glossy_promo_f.webp"
+      ],
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "5bbfe41a168181f51bc90e77dec0d04900ce2bfa45903925950edc01e84fd252",
+      "sha256": "421e1ab293431d0d94559b3ca1cecc3a8cdf2c8a16ad9605ceef70a27ebcf276",
+      "repository_path": "img/냄새꼬_heavy_glossy_promo_f.webp"
+    },
+    {
+      "key": "mobility",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Gloom (냄새꼬), grass / poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nExpression: relaxed brow, softly open eyes, lips closed and unstrained, no smile\nScene: In the same dawn forest clearing, a light forward step with her face toward the camera.\nNote: Both hands empty, relaxed and fully visible with one thumb and four clearly separated fingers each. Her outfit is fully opaque.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "png": "/workspace/scratch/66a5a06b8a55/generated_images/exec-15c1c618-0e52-4db2-93d2-4b1c14f398b6.png",
+      "references": [
+        "/workspace/scratch/66a5a06b8a55/generated_images/exec-fd00ba5e-d541-4dba-ab31-f56ebf029e7c.png"
+      ],
+      "settings": {
+        "mode": "action",
+        "form": "mobility",
+        "expression": "calm",
+        "orientation": "auto",
+        "frame": "auto",
+        "style": "glossy_promo",
+        "gender": "f",
+        "identity": "reference"
+      },
+      "filename": "냄새꼬_mobility_glossy_promo_f.webp",
+      "identityReference": "img/냄새꼬_light_glossy_promo_f.webp",
+      "evidence": "actual generator UI selection and exact submitted prompt",
+      "visualCheck": "face, hair, proportions, form, framing, hands and costume reviewed",
+      "referenceFiles": [
+        "img/냄새꼬_light_glossy_promo_f.webp"
+      ],
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "304768847d58743817edeca4ad1fdb5909798b2477e3518a78603ef888caf390",
+      "sha256": "a2e85818327289651fc32a7631b936219de63a560359c95d1790490741701fa4",
+      "repository_path": "img/냄새꼬_mobility_glossy_promo_f.webp"
+    },
+    {
+      "key": "light_overdrive",
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Gloom (냄새꼬), grass / poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a green glow with drifting leaves and pollen sparks shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "png": "/workspace/scratch/66a5a06b8a55/generated_images/exec-3f993f95-bd0d-49fa-b97c-8b2622cc4c16.png",
+      "references": [
+        "/workspace/scratch/66a5a06b8a55/generated_images/exec-fd00ba5e-d541-4dba-ab31-f56ebf029e7c.png"
+      ],
+      "settings": {
+        "mode": "action",
+        "form": "overdrive",
+        "base_form": "light",
+        "style": "glossy_promo",
+        "gender": "f",
+        "custom": ""
+      },
+      "filename": "냄새꼬_light_overdrive_glossy_promo_f.webp",
+      "identityReference": "img/냄새꼬_light_glossy_promo_f.webp",
+      "evidence": "actual generator UI selection and exact submitted prompt",
+      "visualCheck": "face, hair, proportions, form, framing, hands and costume reviewed",
+      "referenceFiles": [
+        "img/냄새꼬_light_glossy_promo_f.webp"
+      ],
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "052be84c6a34e0ef02ae6041ff9a5090d22e0f85d7eb67ba273173686d47f9c6",
+      "sha256": "3cc99fcadcad7ce8d160f15566a27208006fcabe36923fc20ff1c76bde1e4e1d",
+      "repository_path": "img/냄새꼬_light_overdrive_glossy_promo_f.webp"
+    },
+    {
+      "key": "heavy_overdrive",
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Gloom (냄새꼬), grass / poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a green glow with drifting leaves and pollen sparks shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "png": "/workspace/scratch/66a5a06b8a55/generated_images/exec-ad2c0c90-8061-4cce-8108-bfafc1dc04d6.png",
+      "references": [
+        "/workspace/scratch/66a5a06b8a55/generated_images/exec-883ed9e8-886f-4f0f-8e90-c4e34554a844.png",
+        "/workspace/scratch/66a5a06b8a55/generated_images/exec-fd00ba5e-d541-4dba-ab31-f56ebf029e7c.png"
+      ],
+      "settings": {
+        "mode": "action",
+        "form": "overdrive",
+        "base_form": "heavy",
+        "style": "glossy_promo",
+        "gender": "f",
+        "custom": ""
+      },
+      "filename": "냄새꼬_heavy_overdrive_glossy_promo_f.webp",
+      "identityReference": "img/냄새꼬_light_glossy_promo_f.webp",
+      "evidence": "actual generator UI selection and exact submitted prompt",
+      "visualCheck": "face, hair, proportions, form, framing, hands and costume reviewed",
+      "referenceFiles": [
+        "img/냄새꼬_heavy_glossy_promo_f.webp",
+        "img/냄새꼬_light_glossy_promo_f.webp"
+      ],
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "4eadb4dce010ff30ef2cf7650f8689f1acc16427b05477ee0ba6fa6e75e54f99",
+      "sha256": "f5ec6f82d29f4f3bd4809abc4b7e527e6851b699d76190421b08032962a554ec",
+      "repository_path": "img/냄새꼬_heavy_overdrive_glossy_promo_f.webp"
+    },
+    {
+      "key": "mobility_overdrive",
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Gloom (냄새꼬), grass / poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a green glow with drifting leaves and pollen sparks shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "png": "/workspace/scratch/66a5a06b8a55/generated_images/exec-bcea1065-61a4-41a4-a74f-ca5c9e795608.png",
+      "references": [
+        "/workspace/scratch/66a5a06b8a55/generated_images/exec-15c1c618-0e52-4db2-93d2-4b1c14f398b6.png",
+        "/workspace/scratch/66a5a06b8a55/generated_images/exec-fd00ba5e-d541-4dba-ab31-f56ebf029e7c.png"
+      ],
+      "settings": {
+        "mode": "action",
+        "form": "overdrive",
+        "base_form": "mobility",
+        "style": "glossy_promo",
+        "gender": "f",
+        "custom": ""
+      },
+      "filename": "냄새꼬_mobility_overdrive_glossy_promo_f.webp",
+      "identityReference": "img/냄새꼬_light_glossy_promo_f.webp",
+      "evidence": "actual generator UI selection and exact submitted prompt",
+      "visualCheck": "face, hair, proportions, form, framing, hands and costume reviewed",
+      "referenceFiles": [
+        "img/냄새꼬_mobility_glossy_promo_f.webp",
+        "img/냄새꼬_light_glossy_promo_f.webp"
+      ],
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "98bb74d13d4f26562f80f0821b6db59457a960950aa25e35e61c0d1968612316",
+      "sha256": "f100ec7b413dca8309d49754dc90acf7976642d1cc2f013b6c54b0258f20ad19",
+      "repository_path": "img/냄새꼬_mobility_overdrive_glossy_promo_f.webp"
+    },
+    {
+      "key": "casual1",
+      "prompt": "CHARACTER: the same woman as the attached image — Gloom (냄새꼬) personified, grass / poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed\nPose: Rest weight on one leg with the opposite knee relaxed in natural contrapposto.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: At a sunlit botanical-themed motorsport exhibition, pausing beside a simple wooden display wall; no vehicles or other people in view.\nOutfit and props: An opaque brown-and-white retro racing event crop top and high-waisted tailored shorts, white boots, small spotted flower hair clip and leaf-shaped belt charm. Chest and pelvis fully covered. No armor.\nCategory: Create playful adult event fashion inspired by occupation or roleplay motifs. It must read as a costume made for a stage presentation or themed event, not as an authentic workplace uniform. Use original colours and decorative details — no real institutional insignia, no weapons, no tactical gear. Describe the costume by its tailoring, trim, and props, and show a believable styling or preparation action.\nExample scene: a retro racing grid costume with a cropped team jacket, shorts, and boots, beside a track barrier\nNote: Both bare hands rest naturally at her sides, fully visible with five clearly separated digits each.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "png": "/workspace/scratch/66a5a06b8a55/generated_images/exec-7e7589ce-9f53-4ab6-9003-7c9fdf4debdd.png",
+      "references": [
+        "/workspace/scratch/66a5a06b8a55/generated_images/exec-fd00ba5e-d541-4dba-ab31-f56ebf029e7c.png"
+      ],
+      "settings": {
+        "mode": "casual",
+        "category": "adult_roleplay",
+        "expression": "confident",
+        "pose": "한쪽 다리에 무게 싣기",
+        "orientation": "front three-quarter",
+        "framing": "전신",
+        "lens": "50mm",
+        "aspect": "2:3",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold",
+        "style": "glossy_promo",
+        "gender": "f",
+        "identity": "reference"
+      },
+      "correction": {
+        "prompt": "CHARACTER: the same woman as the attached image — Gloom (냄새꼬) personified, grass / poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed\nPose: Rest weight on one leg with the opposite knee relaxed in natural contrapposto.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: At a sunlit botanical-themed motorsport exhibition, pausing beside a simple wooden display wall; no vehicles or other people in view.\nOutfit and props: An opaque brown-and-white retro racing event crop top and high-waisted tailored shorts, white boots, small spotted flower hair clip and leaf-shaped belt charm. Chest and pelvis fully covered. No armor.\nCategory: Create playful adult event fashion inspired by occupation or roleplay motifs. It must read as a costume made for a stage presentation or themed event, not as an authentic workplace uniform. Use original colours and decorative details — no real institutional insignia, no weapons, no tactical gear. Describe the costume by its tailoring, trim, and props, and show a believable styling or preparation action.\nExample scene: a retro racing grid costume with a cropped team jacket, shorts, and boots, beside a track barrier\nNote: Both bare hands rest naturally at her sides, fully visible with five clearly separated digits each. EDIT the supplied event-fashion result only: shrink the entire flower-and-leaf hair ornament into one tiny 2 cm spotted floral clip, remove all rigid armor-like trim from the neck and boots, and make the outfit clearly soft sewn fabric and the boots plain supple white leather. Preserve the same face, haircut, pose, full-body framing, lighting, background, coverage, intensity and brown-white palette. The second attached light-form image is for her identity only.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+        "references": [
+          "/workspace/scratch/66a5a06b8a55/generated_images/exec-a774ff43-7de5-41d8-b6bf-000e8f2dac13.png",
+          "/workspace/scratch/66a5a06b8a55/generated_images/exec-fd00ba5e-d541-4dba-ab31-f56ebf029e7c.png"
+        ],
+        "reason": "shrink source accessory and remove armor-like boot and collar trim"
+      },
+      "filename": "냄새꼬_glossy_promo_f_casual1.webp",
+      "identityReference": "img/냄새꼬_light_glossy_promo_f.webp",
+      "evidence": "actual generator UI selection and exact submitted prompt",
+      "visualCheck": "face, hair, proportions, form, framing, hands and costume reviewed",
+      "referenceFiles": [
+        "img/냄새꼬_light_glossy_promo_f.webp"
+      ],
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "7d8febeefc0d383795d968a64c5b1803178090e390288d18cf35de5f4a9f557c",
+      "sha256": "28d2775c8495947ed5c3562eafcb589239e676e73c4b0c4045b42bc7695f10b4",
+      "repository_path": "img/냄새꼬_glossy_promo_f_casual1.webp"
+    },
+    {
+      "key": "casual2",
+      "prompt": "CHARACTER: the same woman as the attached image — Gloom (냄새꼬) personified, grass / poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted\nPose: Walk at a comfortable pace with a natural step and arm swing.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: Walking along a quiet sunlit greenhouse aisle, glancing curiously at potted herbs; no other people.\nOutfit and props: A fully opaque white sleeveless cropped blouse, brown high-waisted linen shorts and light sandals, a tiny spotted flower hair clip and small leaf embroidery. Chest and pelvis fully covered. No armor.\nCategory: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.\nExample scene: Greenhouse / Plant Shop\nNote: Her bare hands swing relaxed and naturally during the step; all visible fingers clearly separated.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nAspect ratio: 3:2\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "png": "/workspace/scratch/66a5a06b8a55/generated_images/exec-68f4918d-7d8f-4349-9ea7-0b1fd119253e.png",
+      "references": [
+        "/workspace/scratch/66a5a06b8a55/generated_images/exec-fd00ba5e-d541-4dba-ab31-f56ebf029e7c.png"
+      ],
+      "settings": {
+        "mode": "casual",
+        "category": "casual_basic",
+        "expression": "curious",
+        "pose": "걷기",
+        "orientation": "side profile",
+        "framing": "무릎 위",
+        "lens": "35mm",
+        "aspect": "3:2",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold",
+        "style": "glossy_promo",
+        "gender": "f",
+        "identity": "reference"
+      },
+      "filename": "냄새꼬_glossy_promo_f_casual2.webp",
+      "identityReference": "img/냄새꼬_light_glossy_promo_f.webp",
+      "evidence": "actual generator UI selection and exact submitted prompt",
+      "visualCheck": "face, hair, proportions, form, framing, hands and costume reviewed",
+      "referenceFiles": [
+        "img/냄새꼬_light_glossy_promo_f.webp"
+      ],
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "original_sha256": "481689a7844f7e9974d8dae33fdc702fbc168d0c956d79ab31aa0cfca239845b",
+      "sha256": "fb6ca8ac403ff1f5def4ae84271c77ef49c94fd5deab357cd582af20afb386ab",
+      "repository_path": "img/냄새꼬_glossy_promo_f_casual2.webp"
+    },
+    {
+      "key": "casual3",
+      "prompt": "CHARACTER: the same woman as the attached image — Gloom (냄새꼬) personified, grass / poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids\nPose: Sit naturally on a chair or bench with supported feet and readable hands.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: Sitting at a small outdoor cafe table in late afternoon, taking a quiet break with a plain ceramic cup resting on the table; no other people.\nOutfit and props: An opaque brown halter crop top with delicate white piping, a high-waisted ivory skirt, a small spotted flower hair clip and leaf earrings. Chest and pelvis fully covered; shoulders and midriff exposed. No armor.\nCategory: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.\nExample scene: Coffee / Takeout Run\nNote: Both bare hands rest relaxed and apart on the table, fully visible with one thumb and four clearly separated fingers each.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nAspect ratio: 1:1\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "png": "/workspace/scratch/66a5a06b8a55/generated_images/exec-0dc2f973-e181-4a6d-8ee5-0bb4a068c3d5.png",
+      "references": [
+        "/workspace/scratch/66a5a06b8a55/generated_images/exec-fd00ba5e-d541-4dba-ab31-f56ebf029e7c.png"
+      ],
+      "settings": {
+        "mode": "casual",
+        "category": "casual_basic",
+        "expression": "soft smile",
+        "pose": "의자에 앉기",
+        "orientation": "front",
+        "framing": "허리 위",
+        "lens": "85mm",
+        "aspect": "1:1",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold",
+        "style": "glossy_promo",
+        "gender": "f",
+        "identity": "reference"
+      },
+      "filename": "냄새꼬_glossy_promo_f_casual3.webp",
+      "identityReference": "img/냄새꼬_light_glossy_promo_f.webp",
+      "evidence": "actual generator UI selection and exact submitted prompt",
+      "visualCheck": "face, hair, proportions, form, framing, hands and costume reviewed",
+      "referenceFiles": [
+        "img/냄새꼬_light_glossy_promo_f.webp"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "original_sha256": "fd767e5bcf8a2bc1a231707edeffbd01e773b33c7fb63b9d239539b04099ea82",
+      "sha256": "50e5f95bfdffc839a058c56b0f0767f7323aec36e960d8ba62b22fc30874a609",
+      "repository_path": "img/냄새꼬_glossy_promo_f_casual3.webp"
+    }
+  ],
+  "status": "9/9 generated; upload pending",
+  "conversion": "WebP quality 95 method 6, no resizing or cropping",
+  "canonical_repository_path": "img/냄새꼬_light_glossy_promo_f.webp",
+  "canonical_sha256": "fd0eaf40730d0d3e45913f75e9d8ee5298f09edddf031e4ed2406375e465563a"
+}
