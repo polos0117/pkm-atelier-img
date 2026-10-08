@@ -1,0 +1,258 @@
+{
+  "character": "니드리노",
+  "tool": "built-in image_gen",
+  "canonical_reference": {
+    "slot": "light",
+    "source": "/workspace/scratch/2af5fa0a81df/generated_images/exec-d474f54f-2b17-4b57-89a5-b7396f9893b7.png",
+    "reference": null,
+    "filename": "니드리노_light_glossy_promo_f.webp",
+    "output": "/workspace/scratch/2af5fa0a81df/nidorino-assets/img/니드리노_light_glossy_promo_f.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "a5f581702bb380b26d77736bb34d5b99b986a07fee96b32d16dbc75bff68ec77",
+    "git_blob_sha": "e977039bb82f5df5794f674d33454956aaa6f1ef",
+    "selection": {
+      "mode": "action",
+      "identityMode": "create",
+      "form": "light",
+      "age": "20s",
+      "body": "athletic",
+      "hair": "purple",
+      "eyes": "crimson",
+      "hairstyle": "bob"
+    },
+    "submitted_prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Nidorino (니드리노), poison type.\n\nPALETTE: purple.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Nidorino as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the toxic spines become pointed edges on her plates; the long, pointed horn becomes a horned circlet or hair ornament; the large, spiny ears become a headpiece or hair ornament of the same shape; its markings (several darker purple patches) become painted lines and patterns on her plates and undersuit.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: A rocky upland meadow with violet thistle flowers, broken dark basalt outcrops, distant green mountain slopes and soft luminous clouds at late afternoon; preserve this exact location across all armor forms.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nbody type: athletic — moderate frame with developed functional muscles\nhair color: purple\neye color: crimson\nhairstyle: bob — bob outline ending between below-ear and neck level\nfacial character: sharp — alert, incisive demeanor; no implied pointed jaw\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\ndemeanor scope: Facial character affects demeanor only; preserve age and geometry. Explicit scene expression takes priority.\neye color consistency: both eyes are crimson\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+    "style": "glossy_promo",
+    "gender": "f"
+  },
+  "images": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/2af5fa0a81df/generated_images/exec-d474f54f-2b17-4b57-89a5-b7396f9893b7.png",
+      "reference": null,
+      "filename": "니드리노_light_glossy_promo_f.webp",
+      "output": "/workspace/scratch/2af5fa0a81df/nidorino-assets/img/니드리노_light_glossy_promo_f.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "a5f581702bb380b26d77736bb34d5b99b986a07fee96b32d16dbc75bff68ec77",
+      "git_blob_sha": "e977039bb82f5df5794f674d33454956aaa6f1ef",
+      "selection": {
+        "mode": "action",
+        "identityMode": "create",
+        "form": "light",
+        "age": "20s",
+        "body": "athletic",
+        "hair": "purple",
+        "eyes": "crimson",
+        "hairstyle": "bob"
+      },
+      "submitted_prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Nidorino (니드리노), poison type.\n\nPALETTE: purple.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Nidorino as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the toxic spines become pointed edges on her plates; the long, pointed horn becomes a horned circlet or hair ornament; the large, spiny ears become a headpiece or hair ornament of the same shape; its markings (several darker purple patches) become painted lines and patterns on her plates and undersuit.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: A rocky upland meadow with violet thistle flowers, broken dark basalt outcrops, distant green mountain slopes and soft luminous clouds at late afternoon; preserve this exact location across all armor forms.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nbody type: athletic — moderate frame with developed functional muscles\nhair color: purple\neye color: crimson\nhairstyle: bob — bob outline ending between below-ear and neck level\nfacial character: sharp — alert, incisive demeanor; no implied pointed jaw\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\ndemeanor scope: Facial character affects demeanor only; preserve age and geometry. Explicit scene expression takes priority.\neye color consistency: both eyes are crimson\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.\nDelivery: 1024x1536 pixels. Both human hands empty and fully visible, relaxed open fingers easy to count. No weapons. One standalone image.",
+      "style": "glossy_promo",
+      "gender": "f",
+      "correction_prompt": "Correct only the framing of this exact Nidorino LIGHT character artwork: give comfortable visible background clearance above the tallest horn and headpiece tips and below both complete boots, so absolutely no costume extremity touches or is cropped by the image edge. Preserve the exact adult woman, face, purple bob hair, crimson eyes, light armor plate design, anatomy, stance, hand positions, background scene and glossy anime-mecha rendering. Both hands have one thumb and four clear natural fingers; no extra digits. Vertical 2:3, 1024x1536. No text or weapons."
+    },
+    {
+      "slot": "heavy",
+      "source": "/workspace/scratch/2af5fa0a81df/generated_images/exec-7007d40a-c994-4f46-a1de-8ad02d8f2990.png",
+      "reference": "light",
+      "filename": "니드리노_heavy_glossy_promo_f.webp",
+      "output": "/workspace/scratch/2af5fa0a81df/nidorino-assets/img/니드리노_heavy_glossy_promo_f.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4f7b3150057898bc007667e80bd6a2d029690c39f2c2d633eb648d5cf7bb5102",
+      "git_blob_sha": "ca2ead3e2f32e14871681651944ff5157f9d8e09",
+      "selection": {
+        "mode": "action",
+        "identityMode": "reference",
+        "form": "heavy"
+      },
+      "submitted_prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Nidorino (니드리노), poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: A rocky upland meadow with violet thistle flowers, broken dark basalt outcrops, distant green mountain slopes and soft luminous clouds at late afternoon; preserve this exact location across all armor forms.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.\n1024x1536. Heavy armor must enclose the complete chest, torso, abdomen, waist, pelvis, thighs, limbs and boots with articulated overlapping broad solid protective plates, tiny flexible joint gaps only. Preserve body underneath; no broad skin windows. Full crown/headpiece and feet with generous clear frame margins. Human hands empty, relaxed readable five fingers. No weapons.",
+      "style": "glossy_promo",
+      "gender": "f"
+    },
+    {
+      "slot": "mobility",
+      "source": "/workspace/scratch/2af5fa0a81df/generated_images/exec-1c5fc933-ca9e-4448-ad2c-3562aced777e.png",
+      "reference": "light",
+      "filename": "니드리노_mobility_glossy_promo_f.webp",
+      "output": "/workspace/scratch/2af5fa0a81df/nidorino-assets/img/니드리노_mobility_glossy_promo_f.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "58ba64187312256fa699522960277fc3c809fb72c78532eb109d615f8f41e7bf",
+      "git_blob_sha": "283e57e53d9fad1a7f9798a55b6baf773b687439",
+      "selection": {
+        "mode": "action",
+        "identityMode": "reference",
+        "form": "mobility"
+      },
+      "submitted_prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Nidorino (니드리노), poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: A rocky upland meadow with violet thistle flowers, broken dark basalt outcrops, distant green mountain slopes and soft luminous clouds at late afternoon; preserve this exact location across all armor forms.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.\n1024x1536. Full crown/headpiece and feet with generous clear frame margins. Both human hands empty, fully visible with natural readable five fingers, no weapons. Keep light form's fitted flexible clothing and body proportions. Swept segmented panels and compact hip/calf thrusters visibly distinguish mobility.",
+      "style": "glossy_promo",
+      "gender": "f"
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "/workspace/scratch/2af5fa0a81df/generated_images/exec-1604a87f-d446-49b3-8910-4220a2b12971.png",
+      "reference": "light",
+      "filename": "니드리노_light_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/2af5fa0a81df/nidorino-assets/img/니드리노_light_overdrive_glossy_promo_f.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "674cc1251221255f07b20723587f471db66f10a6b161d974be973d9bac5c727c",
+      "git_blob_sha": "08b7bbee10b4c0070fcead555680f809918446f2",
+      "selection": {
+        "mode": "action",
+        "form": "overdrive",
+        "baseForm": "light"
+      },
+      "submitted_prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Nidorino (니드리노), poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.\n1024x1536. Edit the reference precisely: no zoom, no crop, no repositioning. Preserve exact background and silhouette positions, open existing plates by a modest mechanical hinge distance and reveal violet illumination. Preserve opaque chest/pelvis garment coverage.",
+      "style": "glossy_promo",
+      "gender": "f"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "source": "/workspace/scratch/2af5fa0a81df/generated_images/exec-e9547eb6-ddce-4a1e-927f-720c7e4ebadc.png",
+      "reference": "heavy",
+      "filename": "니드리노_heavy_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/2af5fa0a81df/nidorino-assets/img/니드리노_heavy_overdrive_glossy_promo_f.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4a07be22f3228be05079577e0bdec3cef36b9d558aa247b7db13e379eb82bf29",
+      "git_blob_sha": "681efe009894b0c2a6dd34e8bd178ded8eb5a7fc",
+      "selection": {
+        "mode": "action",
+        "form": "overdrive",
+        "baseForm": "heavy"
+      },
+      "submitted_prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Nidorino (니드리노), poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.\n1024x1536. First reference is the exact closed HEAVY target; second reference is identity only. Preserve first reference background, pose, framing, camera and body positions. Swing existing broad stacked plates outward on hinges over unchanged armored inner layer. Keep all full-body heavy pieces and opaque torso/pelvis protection, no conversion to light armor. No weapons.",
+      "style": "glossy_promo",
+      "gender": "f"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "source": "/workspace/scratch/2af5fa0a81df/generated_images/exec-eb14ae6a-86e6-4900-82a6-f021c91853cf.png",
+      "reference": "mobility",
+      "filename": "니드리노_mobility_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/2af5fa0a81df/nidorino-assets/img/니드리노_mobility_overdrive_glossy_promo_f.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "864cfb0e36e25431685fd72da30f35d49978a980c28618a6d8554c28b7912396",
+      "git_blob_sha": "9759959f633fdf3d1eb3e3fd624e2351943a2b51",
+      "selection": {
+        "mode": "action",
+        "form": "overdrive",
+        "baseForm": "mobility"
+      },
+      "submitted_prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Nidorino (니드리노), poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.\n1024x1536. First reference is the exact closed MOBILITY target; second reference is identity only. Preserve first reference background, camera, pose, framing, subject scale, and all body positions. Open the existing thruster covers and panels, keep the same parts, opaque garment coverage and readable human hands.",
+      "style": "glossy_promo",
+      "gender": "f"
+    },
+    {
+      "slot": "casual1",
+      "source": "/workspace/scratch/2af5fa0a81df/generated_images/exec-0bfcd253-a4b9-45e9-b1e0-df2627c79143.png",
+      "reference": "light",
+      "filename": "니드리노_glossy_promo_f_casual1.webp",
+      "output": "/workspace/scratch/2af5fa0a81df/nidorino-assets/img/니드리노_glossy_promo_f_casual1.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b7f43e6a32a29f056260f3ee36ca1ab3a3a453e440df72719b792e0155b5ef04",
+      "git_blob_sha": "786d1d988e3f36da1055264d17e3526cd5f28560",
+      "selection": {
+        "cat": "swimwear",
+        "ex": "asymmetric_swim",
+        "expression": "playful",
+        "pose": "waving",
+        "orient": "front_3q",
+        "frame": "full_body",
+        "scene": "On the open shallow-water steps of a resort pool, she makes a small friendly wave with one hand near shoulder height; the other arm rests loosely beside her thigh. Torso and hips turn together in a front three-quarter view. Both hands and complete bare feet, head and haircut are fully in frame with clear margins. Sunlit water and landscaped pool terrace behind her.",
+        "outfit": "A fully lined violet asymmetric two-piece swimsuit with one wide shoulder strap, a supportive opaque top, pale-lavender piping and matching opaque high-waist briefs. Small silver horn-shaped pendant only. Shoulders, midriff and legs exposed, no armor, creature ears, tail or large headpiece.",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Nidorino (니드리노) personified, poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement\nPose: Raise one hand near shoulder height in a friendly small wave.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: On the open shallow-water steps of a resort pool, she makes a small friendly wave with one hand near shoulder height; the other arm rests loosely beside her thigh. Torso and hips turn together in a front three-quarter view. Both hands and complete bare feet, head and haircut are fully in frame with clear margins. Sunlit water and landscaped pool terrace behind her.\nOutfit and props: A fully lined violet asymmetric two-piece swimsuit with one wide shoulder strap, a supportive opaque top, pale-lavender piping and matching opaque high-waist briefs. Small silver horn-shaped pendant only. Shoulders, midriff and legs exposed, no armor, creature ears, tail or large headpiece.\nCategory: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.\nExample scene: an asymmetric one-shoulder swimsuit with a single wide strap and a clean diagonal neckline\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.\n1024x1536 vertical. Clearly adult woman age mid twenties, same face and purple bob haircut as reference. Remove all combat headpieces, gloves and armor. Fully visible head and feet with margins, all five waving fingers distinct. No weapons.",
+      "style": "glossy_promo",
+      "gender": "f"
+    },
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/2af5fa0a81df/generated_images/exec-bee12b1f-68fe-4dd2-9a93-02011e07bcee.png",
+      "reference": "light",
+      "filename": "니드리노_glossy_promo_f_casual2.webp",
+      "output": "/workspace/scratch/2af5fa0a81df/nidorino-assets/img/니드리노_glossy_promo_f_casual2.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "dc9a89a8af236e70e7fe19b3d19aced64726a12ac3d15411bac1b8bb6f7218f1",
+      "git_blob_sha": "6402ae7a78d7108c85e5d756af17e37e3a8a777c",
+      "selection": {
+        "cat": "travel_exploration",
+        "ex": "travel_lookout",
+        "expression": "curious",
+        "pose": "adjusting_bag",
+        "orient": "front",
+        "frame": "three_quarter",
+        "scene": "At a quiet grassy hilltop lookout, stand facing the viewer with a travel shoulder bag. One hand adjusts the single bag strap near her shoulder while the other supports the bottom of the bag at waist height; exactly two arms, both five-fingered hands readable. Look slightly toward a nearby trail sign outside the frame with a curious expression. Frame complete head to just above the knees; low limestone ridge and distant stream behind her.",
+        "outfit": "A lavender sleeveless cropped field top with a simple round neckline, dark-violet high-waist hiking shorts, an open lightweight cream short jacket and a compact lavender shoulder bag. Bare arms, midriff and legs. A small horn-shaped pendant as the only species echo; no armor or creature costume, no lettering or logos.",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Nidorino (니드리노) personified, poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted\nPose: Adjust a shoulder strap with one hand while supporting the travel bag naturally.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: At a quiet grassy hilltop lookout, stand facing the viewer with a travel shoulder bag. One hand adjusts the single bag strap near her shoulder while the other supports the bottom of the bag at waist height; exactly two arms, both five-fingered hands readable. Look slightly toward a nearby trail sign outside the frame with a curious expression. Frame complete head to just above the knees; low limestone ridge and distant stream behind her.\nOutfit and props: A lavender sleeveless cropped field top with a simple round neckline, dark-violet high-waist hiking shorts, an open lightweight cream short jacket and a compact lavender shoulder bag. Bare arms, midriff and legs. A small horn-shaped pendant as the only species echo; no armor or creature costume, no lettering or logos.\nCategory: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.\nExample scene: Looking through binoculars from a hilltop lookout, with a folded habitat map in a side pocket.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.\n1024x1536 vertical. Clearly adult mid-twenties same woman. The custom Scene and Outfit fields specify this shot and take priority over the generic example: only adjust/support the shoulder bag, no binoculars or map in hands. No armor/headpiece, no weapons. A single travel moment, head to just above knees, two clear naturally posed five-finger hands.",
+      "style": "glossy_promo",
+      "gender": "f"
+    },
+    {
+      "slot": "casual3",
+      "source": "/workspace/scratch/2af5fa0a81df/generated_images/exec-b87d534a-9267-48f2-a708-544ccf0e52dd.png",
+      "reference": "light",
+      "filename": "니드리노_glossy_promo_f_casual3.webp",
+      "output": "/workspace/scratch/2af5fa0a81df/nidorino-assets/img/니드리노_glossy_promo_f_casual3.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f6b01e836fd088edeb110b4117c97557be3954cee4f674e2a8b7cc23ca96ac49",
+      "git_blob_sha": "0534a2b6bdf39b8ea46c5a42637e529b8ba4f70c",
+      "selection": {
+        "cat": "homewear",
+        "ex": "window_vanity",
+        "expression": "sleepy",
+        "pose": "holding_cup",
+        "orient": "seated_twist",
+        "frame": "waist_up",
+        "scene": "Seated with supported hips at a bright breakfast nook by a home window, torso naturally turned toward the viewer during a drowsy early-morning pause. Hold a plain ceramic tea mug with one hand at upper waist height and rest the other hand open on the waist-height tabletop, clearly showing one thumb and four fingers. True waist-up framing, complete head and both hands inside the crop; table and mug fill the lower foreground, no thighs, knees, mirror or reflection.",
+        "outfit": "A lavender opaque satin camisole with fine cream lace trim and matching high-waist lounge shorts; everyday home fashion, fully opaque coverage. Bare shoulders, arms and midriff. The same tiny horn-shaped pendant, everyday fabrics, no armor, creature ears or headpiece.",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Nidorino (니드리노) personified, poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: heavy drooping eyelids, unfocused gaze, softened slack mouth, brow low and relaxed\nPose: Hold a cup comfortably in one or both hands during a quiet break.\nOrientation: seated with supported pelvis and a natural torso twist\nScene: Seated with supported hips at a bright breakfast nook by a home window, torso naturally turned toward the viewer during a drowsy early-morning pause. Hold a plain ceramic tea mug with one hand at upper waist height and rest the other hand open on the waist-height tabletop, clearly showing one thumb and four fingers. True waist-up framing, complete head and both hands inside the crop; table and mug fill the lower foreground, no thighs, knees, mirror or reflection.\nOutfit and props: A lavender opaque satin camisole with fine cream lace trim and matching high-waist lounge shorts; everyday home fashion, fully opaque coverage. Bare shoulders, arms and midriff. The same tiny horn-shaped pendant, everyday fabrics, no armor, creature ears or headpiece.\nCategory: Create designed, fashion-forward homewear or lounge-life scenes. Avoid plain pajamas and bland static sofa poses. Use believable home-life actions, stylish home fashion silhouettes, and a sensual but natural private-life atmosphere.\nExample scene: Window-side Vanity Moment\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.\n1024x1536 vertical. Clearly adult mid-twenties same woman. Prioritize custom Scene over generic example: morning breakfast nook, no vanity mirror. A cropped opaque camisole allows midriff visibility above high waist shorts, but true waist-up camera includes no thighs/knees. Table in lower foreground, both hands completely inside frame. Exactly five natural fingers per hand, no armor or headpieces, no weapons.",
+      "style": "glossy_promo",
+      "gender": "f"
+    }
+  ]
+}
