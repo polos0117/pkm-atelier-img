@@ -1,0 +1,88 @@
+{
+  "stage": "9/9 confirmed; filename check and forms check passed; ready for main upload",
+  "repository": "polos0117/pkm-atelier-img",
+  "canonicalReference": "img/뚜벅쵸_light_glossy_promo_f.webp",
+  "files": [
+    {
+      "file": "img/뚜벅쵸_light_glossy_promo_f.webp",
+      "sha256": "f94c6129b270893b206f31e6ca5e3ef7732e47269ee386b10f55c68a35c7a6dd",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": null
+    },
+    {
+      "file": "img/뚜벅쵸_heavy_glossy_promo_f.webp",
+      "sha256": "ae6166a4b68817f20b9d049efe216e5cbc67e0468d823b09618be6f8e896b5db",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/뚜벅쵸_light_glossy_promo_f.webp"
+    },
+    {
+      "file": "img/뚜벅쵸_mobility_glossy_promo_f.webp",
+      "sha256": "73f01b71d7f6b8b155a411671db298852d69b82d42fef339808de5a7f93d6e5e",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/뚜벅쵸_light_glossy_promo_f.webp"
+    },
+    {
+      "file": "img/뚜벅쵸_light_overdrive_glossy_promo_f.webp",
+      "sha256": "a19b8814281475e76e35c7ef71e7adcba9d3b4b70ab6ea924c7d0992118c34a5",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/뚜벅쵸_light_glossy_promo_f.webp"
+    },
+    {
+      "file": "img/뚜벅쵸_heavy_overdrive_glossy_promo_f.webp",
+      "sha256": "38a11b7213dca7b4bac9b49ac8a32bccfb10f54f3e8b840429564e07d14f1762",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/뚜벅쵸_heavy_glossy_promo_f.webp"
+    },
+    {
+      "file": "img/뚜벅쵸_mobility_overdrive_glossy_promo_f.webp",
+      "sha256": "904b5d9cda6458586d17eecdd413f2d45f5e2d314fc2e5ec23243c589d465f19",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/뚜벅쵸_mobility_glossy_promo_f.webp"
+    },
+    {
+      "file": "img/뚜벅쵸_glossy_promo_f_casual1.webp",
+      "sha256": "00708ba3a1baf921ae96d0e00545dbc84e75de55bcdef7ea50dba1c583d8a16f",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/뚜벅쵸_light_glossy_promo_f.webp"
+    },
+    {
+      "file": "img/뚜벅쵸_glossy_promo_f_casual2.webp",
+      "sha256": "9a6af208ff74a21f32c4a276a3802a984b5c9adee25c2382a37094a721d76722",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/뚜벅쵸_light_glossy_promo_f.webp"
+    },
+    {
+      "file": "img/뚜벅쵸_glossy_promo_f_casual3.webp",
+      "sha256": "afe44bdb9f91a9e0b434a1f7cfed5f391e6fd5192843ba99238bfe3d22015472",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/뚜벅쵸_light_glossy_promo_f.webp"
+    }
+  ]
+}

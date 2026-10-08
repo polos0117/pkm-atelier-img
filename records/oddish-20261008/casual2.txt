@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Oddish (뚜벅쵸) personified, grass / poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+MOTIFS to echo lightly: small leaf jewelry and blue-green color echoes only.
+
+SCENE (chosen):
+Expression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed
+Pose: Work at a kitchen counter, stirring a bowl or arranging ingredients with clearly separated hands and utensils.
+Orientation: side body profile, approximately 90 degrees to camera
+Scene: Sunlit kitchen, carefully arranging sliced berries in a ceramic bowl on the counter; both hands visible in a clear side profile composition.
+Outfit and props: Blue cropped sleeveless cotton blouse with an open neckline and green high-waist shorts, a tiny leaf earring. Bare shoulders and midriff, breezy everyday clothing.
+Category: Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
