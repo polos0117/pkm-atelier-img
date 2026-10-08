@@ -1,0 +1,281 @@
+{
+  "character": "니드런♀",
+  "pokemon": "Nidoran♀",
+  "date": "2026-10-08",
+  "style": "glossy_promo",
+  "tool": "built-in image_gen",
+  "promptSource": "actual Preact selection UI via tests/prompt-dom-harness.cjs",
+  "canonicalIdentity": "img/니드런♀_light_glossy_promo_f.webp",
+  "records": [
+    {
+      "key": "light",
+      "selection": {
+        "mode": "action",
+        "identityMode": "create",
+        "form": "light",
+        "age": "20s",
+        "body": "toned",
+        "hair": "lavender",
+        "eyes": "red",
+        "hairstyle": "bob"
+      },
+      "promptFile": "/workspace/scratch/784d658fce8a/generation-checkpoints/니드런♀_light.txt",
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Nidoran♀ (니드런♀), poison type.\n\nPALETTE: blue, white.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Nidoran♀ as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the small toxic spines become pointed edges on her plates; the small forehead horn becomes a horned circlet or hair ornament; the two white claws become claw-shaped guards on her gauntlets, her hands still human hands; the large, spiny ears become a headpiece or hair ornament of the same shape; its markings (several darker blue spots) become painted lines and patterns on her plates and undersuit.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: A sunlit meadow at the edge of a quiet forest, low weathered stones and clusters of violet wildflowers, a shallow stream and soft green hills behind her; keep this exact location across all armor forms.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nbody type: toned — subtle muscle definition without large muscle mass\nhair color: lavender\neye color: red\nhairstyle: bob — bob outline ending between below-ear and neck level\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\neye color consistency: both eyes are red\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "style": "glossy_promo",
+      "source": "/workspace/scratch/784d658fce8a/generated_images/exec-2e63e0fd-80c6-4866-ba10-4df6faf88717.png",
+      "filename": "니드런♀_light_glossy_promo_f.webp",
+      "character": "니드런♀",
+      "slot": "light",
+      "reference": null,
+      "repository_path": "nidoran-image-worktree",
+      "visualReview": "accepted after headpiece framing correction",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "5ef7bbac32ace58a132cef8c3965b29105b91b30c6578aafc74b44205e2cd1f7",
+      "output": "/workspace/scratch/784d658fce8a/nidoran-image-worktree/img/니드런♀_light_glossy_promo_f.webp",
+      "submittedPrompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Nidoran♀ (니드런♀), poison type.\n\nPALETTE: blue, white.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Nidoran♀ as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the small toxic spines become pointed edges on her plates; the small forehead horn becomes a horned circlet or hair ornament; the two white claws become claw-shaped guards on her gauntlets, her hands still human hands; the large, spiny ears become a headpiece or hair ornament of the same shape; its markings (several darker blue spots) become painted lines and patterns on her plates and undersuit.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: A sunlit meadow at the edge of a quiet forest, low weathered stones and clusters of violet wildflowers, a shallow stream and soft green hills behind her; keep this exact location across all armor forms.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nbody type: toned — subtle muscle definition without large muscle mass\nhair color: lavender\neye color: red\nhairstyle: bob — bob outline ending between below-ear and neck level\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\neye color consistency: both eyes are red\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "finalCorrectionPrompt": "Edit the attached Nidoran female adult mecha character card image. FRAMING CORRECTION ONLY: keep this exact clearly adult woman in her twenties, identical face, lavender bob, red eyes, skin tone, body proportions, both five-fingered gloved hands, blue-and-white light armor and all plate details, the two tall spiny ear-shaped head ornaments and small horn, exact pose, sunny woodland stream setting, and glossy anime-mecha rendering. Reframe very slightly wider on the same 1024x1536 vertical 2:3 canvas so the WHOLE of BOTH tall ear-shaped ornaments, head, hands and feet appear completely inside with a small clear upper and lower margin. The top tip of the tall ornament at image-left must be completely visible, with sky above it; do not crop either ornament or boot. No new armor, no change in face, no reduction in anatomical proportions, no text or extra figures. Only the camera framing changes to fit the complete silhouette.\n",
+      "finalVisualReview": "accepted: consistent adult identity, form, framing, natural hands and scene requirements"
+    },
+    {
+      "key": "heavy",
+      "selection": {
+        "mode": "action",
+        "identityMode": "reference",
+        "form": "heavy"
+      },
+      "promptFile": "/workspace/scratch/784d658fce8a/generation-checkpoints/니드런♀_heavy.txt",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Nidoran♀ (니드런♀), poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: A sunlit meadow at the edge of a quiet forest, low weathered stones and clusters of violet wildflowers, a shallow stream and soft green hills behind her; keep this exact location across all armor forms.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "style": "glossy_promo",
+      "source": "/workspace/scratch/784d658fce8a/generated_images/exec-21594a3f-e652-407d-a325-881a5d2e99f9.png",
+      "filename": "니드런♀_heavy_glossy_promo_f.webp",
+      "character": "니드런♀",
+      "slot": "heavy",
+      "reference": "니드런♀_light_glossy_promo_f.webp",
+      "repository_path": "nidoran-image-worktree",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "6258538b542d454e5e9a70fb0f734bc63aa74e81d44005425f0826237348bb41",
+      "output": "/workspace/scratch/784d658fce8a/nidoran-image-worktree/img/니드런♀_heavy_glossy_promo_f.webp",
+      "submittedPrompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Nidoran♀ (니드런♀), poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: A sunlit meadow at the edge of a quiet forest, low weathered stones and clusters of violet wildflowers, a shallow stream and soft green hills behind her; keep this exact location across all armor forms.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "finalCorrectionPrompt": null,
+      "finalVisualReview": "accepted: consistent adult identity, form, framing, natural hands and scene requirements"
+    },
+    {
+      "key": "mobility",
+      "selection": {
+        "mode": "action",
+        "identityMode": "reference",
+        "form": "mobility"
+      },
+      "promptFile": "/workspace/scratch/784d658fce8a/generation-checkpoints/니드런♀_mobility.txt",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Nidoran♀ (니드런♀), poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: A sunlit meadow at the edge of a quiet forest, low weathered stones and clusters of violet wildflowers, a shallow stream and soft green hills behind her; keep this exact location across all armor forms.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "style": "glossy_promo",
+      "source": "/workspace/scratch/784d658fce8a/generated_images/exec-cbcc476e-eddd-4f53-b095-5842d42aa9ad.png",
+      "filename": "니드런♀_mobility_glossy_promo_f.webp",
+      "character": "니드런♀",
+      "slot": "mobility",
+      "reference": "니드런♀_light_glossy_promo_f.webp",
+      "repository_path": "nidoran-image-worktree",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f3d17dd68083ca0362ba0025f3b0c47273243d375433338951a311bf349e2ab4",
+      "output": "/workspace/scratch/784d658fce8a/nidoran-image-worktree/img/니드런♀_mobility_glossy_promo_f.webp",
+      "submittedPrompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Nidoran♀ (니드런♀), poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: A sunlit meadow at the edge of a quiet forest, low weathered stones and clusters of violet wildflowers, a shallow stream and soft green hills behind her; keep this exact location across all armor forms.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "finalCorrectionPrompt": null,
+      "finalVisualReview": "accepted: consistent adult identity, form, framing, natural hands and scene requirements"
+    },
+    {
+      "key": "light_overdrive",
+      "selection": {
+        "mode": "action",
+        "form": "overdrive",
+        "baseForm": "light"
+      },
+      "promptFile": "/workspace/scratch/784d658fce8a/generation-checkpoints/니드런♀_light_overdrive.txt",
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Nidoran♀ (니드런♀), poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "style": "glossy_promo",
+      "source": "/workspace/scratch/784d658fce8a/generated_images/exec-42e0c189-ff86-4e7c-a217-1fd0e13ade23.png",
+      "filename": "니드런♀_light_overdrive_glossy_promo_f.webp",
+      "character": "니드런♀",
+      "slot": "light_overdrive",
+      "reference": "니드런♀_light_glossy_promo_f.webp",
+      "additionalIdentityReference": null,
+      "repository_path": "nidoran-image-worktree",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "119f2bb2bb40a13e2b1441c8b8f2ca9c500015ced1b324759c8ac7198a408e08",
+      "output": "/workspace/scratch/784d658fce8a/nidoran-image-worktree/img/니드런♀_light_overdrive_glossy_promo_f.webp",
+      "submittedPrompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Nidoran♀ (니드런♀), poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "finalCorrectionPrompt": null,
+      "finalVisualReview": "accepted: consistent adult identity, form, framing, natural hands and scene requirements"
+    },
+    {
+      "key": "heavy_overdrive",
+      "selection": {
+        "mode": "action",
+        "form": "overdrive",
+        "baseForm": "heavy"
+      },
+      "promptFile": "/workspace/scratch/784d658fce8a/generation-checkpoints/니드런♀_heavy_overdrive.txt",
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Nidoran♀ (니드런♀), poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "style": "glossy_promo",
+      "source": "/workspace/scratch/784d658fce8a/generated_images/exec-294cd25b-6922-41f2-9e81-01cfe6e3f7a0.png",
+      "filename": "니드런♀_heavy_overdrive_glossy_promo_f.webp",
+      "character": "니드런♀",
+      "slot": "heavy_overdrive",
+      "reference": "니드런♀_heavy_glossy_promo_f.webp",
+      "additionalIdentityReference": "니드런♀_light_glossy_promo_f.webp",
+      "repository_path": "nidoran-image-worktree",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e21e4533c39df5eb926d6a572819027128b5944e6d3d660b1cb8fd67a196dfcb",
+      "output": "/workspace/scratch/784d658fce8a/nidoran-image-worktree/img/니드런♀_heavy_overdrive_glossy_promo_f.webp",
+      "submittedPrompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Nidoran♀ (니드런♀), poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "finalCorrectionPrompt": null,
+      "finalVisualReview": "accepted: consistent adult identity, form, framing, natural hands and scene requirements"
+    },
+    {
+      "key": "mobility_overdrive",
+      "selection": {
+        "mode": "action",
+        "form": "overdrive",
+        "baseForm": "mobility"
+      },
+      "promptFile": "/workspace/scratch/784d658fce8a/generation-checkpoints/니드런♀_mobility_overdrive.txt",
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Nidoran♀ (니드런♀), poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "style": "glossy_promo",
+      "source": "/workspace/scratch/784d658fce8a/generated_images/exec-4280fc55-ce92-4ef1-a326-f9d79ed98e13.png",
+      "filename": "니드런♀_mobility_overdrive_glossy_promo_f.webp",
+      "character": "니드런♀",
+      "slot": "mobility_overdrive",
+      "reference": "니드런♀_mobility_glossy_promo_f.webp",
+      "additionalIdentityReference": "니드런♀_light_glossy_promo_f.webp",
+      "repository_path": "nidoran-image-worktree",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "1c11ab413a29fd3a3a752c9fb988475e293a8683dbad34bc40bac580ffd054a8",
+      "output": "/workspace/scratch/784d658fce8a/nidoran-image-worktree/img/니드런♀_mobility_overdrive_glossy_promo_f.webp",
+      "submittedPrompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Nidoran♀ (니드런♀), poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "finalCorrectionPrompt": null,
+      "finalVisualReview": "accepted: consistent adult identity, form, framing, natural hands and scene requirements"
+    },
+    {
+      "key": "casual1",
+      "selection": {
+        "cat": "lingerie",
+        "ex": "night_robe",
+        "pose": "leaning_furniture",
+        "orient": "front_3q",
+        "frame": "full_body",
+        "scene": "A calm airy dressing lounge in a garden guesthouse at morning, resting one hand naturally on the back of a wooden bench and leaning lightly against it while selecting a satin ribbon on a nearby vanity; full body, both hands and bare feet visible, face toward the viewer.",
+        "outfit": "Original lingerie-inspired fashion: an opaque pale-lilac satin longline balconette bra with supportive broad straps, matching opaque high-waist briefs with blue piping, and a short open lavender satin robe with three-quarter sleeves. One small silver horn-shaped pendant; no armor, no creature ears or costume pieces. The opaque construction covers chest and pelvis completely.",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "promptFile": "/workspace/scratch/784d658fce8a/generation-checkpoints/니드런♀_casual1.txt",
+      "prompt": "CHARACTER: the same woman as the attached image — Nidoran♀ (니드런♀) personified, poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nPose: Rest a hand or forearm on a table, counter or railing in a relaxed supported pose.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: A calm airy dressing lounge in a garden guesthouse at morning, resting one hand naturally on the back of a wooden bench and leaning lightly against it while selecting a satin ribbon on a nearby vanity; full body, both hands and bare feet visible, face toward the viewer.\nOutfit and props: Original lingerie-inspired fashion: an opaque pale-lilac satin longline balconette bra with supportive broad straps, matching opaque high-waist briefs with blue piping, and a short open lavender satin robe with three-quarter sleeves. One small silver horn-shaped pendant; no armor, no creature ears or costume pieces. The opaque construction covers chest and pelvis completely.\nCategory: Use tasteful adult lingerie-inspired evening fashion with full intimate coverage. Describe the garment by its construction — cut, fabric, trim, straps, closures, layers — rather than by mood words. The garments are securely fitted and fully opaque, and the look is suitable for a mainstream evening-fashion editorial. Build the image through framing, silhouette, posture, and lighting rather than exposure.\nExample scene: a lingerie set worn under an open silk night robe with a tied sash\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "style": "glossy_promo",
+      "source": "/workspace/scratch/784d658fce8a/generated_images/exec-ac3dd351-c71b-44df-b209-974d637be287.png",
+      "filename": "니드런♀_glossy_promo_f_casual1.webp",
+      "character": "니드런♀",
+      "slot": "casual1",
+      "reference": "니드런♀_light_glossy_promo_f.webp",
+      "repository_path": "nidoran-image-worktree",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "147d7522f574878008da0defacda1163c389002995671d4607ebb6b7ebc3efd3",
+      "output": "/workspace/scratch/784d658fce8a/nidoran-image-worktree/img/니드런♀_glossy_promo_f_casual1.webp",
+      "submittedPrompt": "CHARACTER: the same woman as the attached image — Nidoran♀ (니드런♀) personified, poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nPose: Rest a hand or forearm on a table, counter or railing in a relaxed supported pose.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: A calm airy dressing lounge in a garden guesthouse at morning, resting one hand naturally on the back of a wooden bench and leaning lightly against it while selecting a satin ribbon on a nearby vanity; full body, both hands and bare feet visible, face toward the viewer.\nOutfit and props: Original lingerie-inspired fashion: an opaque pale-lilac satin longline balconette bra with supportive broad straps, matching opaque high-waist briefs with blue piping, and a short open lavender satin robe with three-quarter sleeves. One small silver horn-shaped pendant; no armor, no creature ears or costume pieces. The opaque construction covers chest and pelvis completely.\nCategory: Use tasteful adult lingerie-inspired evening fashion with full intimate coverage. Describe the garment by its construction — cut, fabric, trim, straps, closures, layers — rather than by mood words. The garments are securely fitted and fully opaque, and the look is suitable for a mainstream evening-fashion editorial. Build the image through framing, silhouette, posture, and lighting rather than exposure.\nExample scene: a lingerie set worn under an open silk night robe with a tied sash\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "finalCorrectionPrompt": null,
+      "finalVisualReview": "accepted: consistent adult identity, form, framing, natural hands and scene requirements"
+    },
+    {
+      "key": "casual2",
+      "selection": {
+        "cat": "travel_exploration",
+        "ex": "travel_trail",
+        "pose": "adjusting_bag",
+        "orient": "front",
+        "frame": "three_quarter",
+        "scene": "On a raised woodland trail boardwalk during a sunny morning outing, adjusting the shoulder strap of a compact hiking backpack with one hand and holding the other hand visibly beside her body. Front-facing portrait ending just above the knees, with the hands and bag strap inside the selected crop.",
+        "outfit": "A sleeveless powder-blue fitted cropped hiking top, dark-violet high-waist trail shorts, a lavender waist pouch and a small silver pendant. Practical breathable modern fabric, exposed shoulders, midriff and legs; only a tiny dotted motif on the pouch, no armor or creature costume.",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "promptFile": "/workspace/scratch/784d658fce8a/generation-checkpoints/니드런♀_casual2.txt",
+      "prompt": "CHARACTER: the same woman as the attached image — Nidoran♀ (니드런♀) personified, poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nPose: Adjust a shoulder strap with one hand while supporting the travel bag naturally.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: On a raised woodland trail boardwalk during a sunny morning outing, adjusting the shoulder strap of a compact hiking backpack with one hand and holding the other hand visibly beside her body. Front-facing portrait ending just above the knees, with the hands and bag strap inside the selected crop.\nOutfit and props: A sleeveless powder-blue fitted cropped hiking top, dark-violet high-waist trail shorts, a lavender waist pouch and a small silver pendant. Practical breathable modern fabric, exposed shoulders, midriff and legs; only a tiny dotted motif on the pouch, no armor or creature costume.\nCategory: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.\nExample scene: Pausing at a forest trail junction to compare a folded map with a trail marker, wearing a light travel pack.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "style": "glossy_promo",
+      "source": "/workspace/scratch/784d658fce8a/generated_images/exec-06e6dd92-70bf-43a1-995a-ac8a3ec756eb.png",
+      "filename": "니드런♀_glossy_promo_f_casual2.webp",
+      "character": "니드런♀",
+      "slot": "casual2",
+      "reference": "니드런♀_light_glossy_promo_f.webp",
+      "repository_path": "nidoran-image-worktree",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f0efc289e181ff9a6b7c408184888e8339554050c6bff9f1b1d429d683390cd3",
+      "output": "/workspace/scratch/784d658fce8a/nidoran-image-worktree/img/니드런♀_glossy_promo_f_casual2.webp",
+      "submittedPrompt": "CHARACTER: the same woman as the attached image — Nidoran♀ (니드런♀) personified, poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nPose: Adjust a shoulder strap with one hand while supporting the travel bag naturally.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: On a raised woodland trail boardwalk during a sunny morning outing, adjusting the shoulder strap of a compact hiking backpack with one hand and holding the other hand visibly beside her body. Front-facing portrait ending just above the knees, with the hands and bag strap inside the selected crop.\nOutfit and props: A sleeveless powder-blue fitted cropped hiking top, dark-violet high-waist trail shorts, a lavender waist pouch and a small silver pendant. Practical breathable modern fabric, exposed shoulders, midriff and legs; only a tiny dotted motif on the pouch, no armor or creature costume.\nCategory: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.\nExample scene: Pausing at a forest trail junction to compare a folded map with a trail marker, wearing a light travel pack.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "finalCorrectionPrompt": null,
+      "finalVisualReview": "accepted: consistent adult identity, form, framing, natural hands and scene requirements"
+    },
+    {
+      "key": "casual3",
+      "selection": {
+        "cat": "food_berries",
+        "ex": "food_tea",
+        "pose": "holding_cup",
+        "orient": "seated_twist",
+        "frame": "waist_up",
+        "scene": "Seated with supported hips at a round garden tea table inside a bright greenhouse, torso turned naturally toward the viewer, holding a small ceramic cup of berry tea with both hands while smelling its steam. A clear glass tea pot and berry dish sit beside her, framed waist-up with both hands and the cup fully visible.",
+        "outfit": "A pale-blue sleeveless cropped ribbed top with violet edging, charcoal high-waist linen shorts and a small silver horn-shaped pendant. Ordinary warm-weather leisure clothing with exposed shoulders and midriff, no armor, no creature costume.",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "promptFile": "/workspace/scratch/784d658fce8a/generation-checkpoints/니드런♀_casual3.txt",
+      "prompt": "CHARACTER: the same woman as the attached image — Nidoran♀ (니드런♀) personified, poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nPose: Hold a cup comfortably in one or both hands during a quiet break.\nOrientation: seated with supported pelvis and a natural torso twist\nScene: Seated with supported hips at a round garden tea table inside a bright greenhouse, torso turned naturally toward the viewer, holding a small ceramic cup of berry tea with both hands while smelling its steam. A clear glass tea pot and berry dish sit beside her, framed waist-up with both hands and the cup fully visible.\nOutfit and props: A pale-blue sleeveless cropped ribbed top with violet edging, charcoal high-waist linen shorts and a small silver horn-shaped pendant. Ordinary warm-weather leisure clothing with exposed shoulders and midriff, no armor, no creature costume.\nCategory: Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.\nExample scene: Pouring warm berry tea into a cup at a small kitchen table with a teapot and sliced fruit.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "style": "glossy_promo",
+      "source": "/workspace/scratch/784d658fce8a/generated_images/exec-90f6f2e1-0ad8-478d-9db3-57e9ad0f7a17.png",
+      "filename": "니드런♀_glossy_promo_f_casual3.webp",
+      "character": "니드런♀",
+      "slot": "casual3",
+      "reference": "니드런♀_light_glossy_promo_f.webp",
+      "repository_path": "nidoran-image-worktree",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "7b3242c88be98234f60335514aaa40865a70bafbe7b1c5ea97b678f25069f96e",
+      "output": "/workspace/scratch/784d658fce8a/nidoran-image-worktree/img/니드런♀_glossy_promo_f_casual3.webp",
+      "submittedPrompt": "CHARACTER: the same woman as the attached image — Nidoran♀ (니드런♀) personified, poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nPose: Hold a cup comfortably in one or both hands during a quiet break.\nOrientation: seated with supported pelvis and a natural torso twist\nScene: Seated with supported hips at a round garden tea table inside a bright greenhouse, torso turned naturally toward the viewer, holding a small ceramic cup of berry tea with both hands while smelling its steam. A clear glass tea pot and berry dish sit beside her, framed waist-up with both hands and the cup fully visible.\nOutfit and props: A pale-blue sleeveless cropped ribbed top with violet edging, charcoal high-waist linen shorts and a small silver horn-shaped pendant. Ordinary warm-weather leisure clothing with exposed shoulders and midriff, no armor, no creature costume.\nCategory: Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.\nExample scene: Pouring warm berry tea into a cup at a small kitchen table with a teapot and sliced fruit.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "finalCorrectionPrompt": "FRAMING CORRECTION ONLY for the attached tea scene. Preserve this exact clearly adult woman in her twenties, face, lavender bob, red eyes, skin tone, body proportions, facial expression, tiny hair ornament, ordinary blue cropped top, shirt draped on her shoulders, horn pendant, the exact cup-holding gesture, both five-fingered hands, greenhouse background, tea pot and berry bowl, and glossy anime rendering. Reframe as a TRUE WAIST-UP PORTRAIT in a 1024x1536 vertical 2:3 canvas: from her complete head with a small top margin down only to the waistband. The lower edge of the image must cut directly at her waist. NO thighs, knees, legs, feet or lower shorts are visible anywhere. The head, shoulders, torso, both complete hands and entire teacup remain in frame; the teapot and berry bowl may appear at the lower image edge on the table. Camera framing changes only; the character and clothes must not change. This is the same seated tea break viewed more closely.\n",
+      "finalVisualReview": "accepted: consistent adult identity, form, framing, natural hands and scene requirements"
+    }
+  ]
+}
