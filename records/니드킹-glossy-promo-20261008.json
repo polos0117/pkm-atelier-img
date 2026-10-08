@@ -1,0 +1,738 @@
+{
+  "card": "니드킹",
+  "date": "2026-10-08",
+  "style": "glossy_promo",
+  "generator": "actual UI: https://polos0117.github.io/pkm-atelier/prompt.html; output matched checksum",
+  "generation_tool": "built-in image_gen",
+  "canonical_slot": "light",
+  "canonical_sha256": "2f049076fceb3e9925f87bd1277ce2c75aa136bac2c7d4f0a012d715408f2461",
+  "requested_count": 9,
+  "generated_count": 9,
+  "assets": [
+    {
+      "card": "니드킹",
+      "slot": "light",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/f80e9d314c58/generated_images/exec-8525af85-7fd7-48ef-8563-69951e15b6a4.png",
+      "filename": "img/니드킹_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "2f049076fceb3e9925f87bd1277ce2c75aa136bac2c7d4f0a012d715408f2461",
+      "reference_slot": null,
+      "selection": {
+        "mech": "니드킹",
+        "sourceName": "Nidoking",
+        "series": "poison / ground",
+        "sourceAppearance": {
+          "name": "니드킹",
+          "en": "Nidoking",
+          "color": "purple",
+          "shape": "upright",
+          "features": [
+            {
+              "part": "spine",
+              "detail": "gray, rounded spine"
+            },
+            {
+              "part": "horn",
+              "detail": "long, venomous horn"
+            },
+            {
+              "part": "tail",
+              "detail": "long, powerful tail"
+            },
+            {
+              "part": "plate",
+              "detail": "gray plates"
+            },
+            {
+              "part": "ear",
+              "detail": "large, spiny ears"
+            },
+            {
+              "part": "tuft",
+              "detail": "fur-like tufts"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Nidoking_%28Pok%C3%A9mon%29",
+          "revision": 4623278,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "18d40e01491173881366453b15e4f774a82a6502f433aadc3335aebc66971f1e",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "action",
+        "identityMode": "create",
+        "form": "light",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "expr": "confident",
+        "scene": "A basalt canyon training ground at twilight, purple rim light and warm reflected stone light."
+      },
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Nidoking (니드킹), poison / ground type.\n\nPALETTE: gray, purple.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Nidoking as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the gray, rounded spine becomes pointed edges on her plates; the long, venomous horn becomes a horned circlet or hair ornament; the long, powerful tail becomes a long sash hanging from the back of her belt, in the same shape and colors; the gray plates become her armor plates.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nExpression: level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed\nScene: A basalt canyon training ground at twilight, purple rim light and warm reflected stone light.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "ui_verified": true,
+      "ui_checksum": 932884288
+    },
+    {
+      "card": "니드킹",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/f80e9d314c58/generated_images/exec-b34fb2db-a149-4e17-b32d-f27793c723b2.png",
+      "filename": "img/니드킹_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "478a48da09b7c065364be5b4f921dd84b32b2b3361a0fc879257fd9f7a1ec621",
+      "reference_slot": "light",
+      "selection": {
+        "mech": "니드킹",
+        "sourceName": "Nidoking",
+        "series": "poison / ground",
+        "sourceAppearance": {
+          "name": "니드킹",
+          "en": "Nidoking",
+          "color": "purple",
+          "shape": "upright",
+          "features": [
+            {
+              "part": "spine",
+              "detail": "gray, rounded spine"
+            },
+            {
+              "part": "horn",
+              "detail": "long, venomous horn"
+            },
+            {
+              "part": "tail",
+              "detail": "long, powerful tail"
+            },
+            {
+              "part": "plate",
+              "detail": "gray plates"
+            },
+            {
+              "part": "ear",
+              "detail": "large, spiny ears"
+            },
+            {
+              "part": "tuft",
+              "detail": "fur-like tufts"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Nidoking_%28Pok%C3%A9mon%29",
+          "revision": 4623278,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "18d40e01491173881366453b15e4f774a82a6502f433aadc3335aebc66971f1e",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "heavy",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "expr": "confident",
+        "scene": "A basalt canyon training ground at twilight, purple rim light and warm reflected stone light.",
+        "pose": "braced_stance"
+      },
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Nidoking (니드킹), poison / ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nExpression: level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed\nPose: Plant both feet firmly in a grounded bracing stance, using posture rather than a larger body to convey weight.\nScene: A basalt canyon training ground at twilight, purple rim light and warm reflected stone light.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "ui_verified": true,
+      "ui_checksum": 247697390
+    },
+    {
+      "card": "니드킹",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/f80e9d314c58/generated_images/exec-12df6df3-9c27-4a0d-ba79-fdc10726a4b7.png",
+      "filename": "img/니드킹_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "ca41341b7593f0a94b0a3cb680ea3d52059499e1e420b8e22b6c25439aa62afa",
+      "reference_slot": "light",
+      "selection": {
+        "mech": "니드킹",
+        "sourceName": "Nidoking",
+        "series": "poison / ground",
+        "sourceAppearance": {
+          "name": "니드킹",
+          "en": "Nidoking",
+          "color": "purple",
+          "shape": "upright",
+          "features": [
+            {
+              "part": "spine",
+              "detail": "gray, rounded spine"
+            },
+            {
+              "part": "horn",
+              "detail": "long, venomous horn"
+            },
+            {
+              "part": "tail",
+              "detail": "long, powerful tail"
+            },
+            {
+              "part": "plate",
+              "detail": "gray plates"
+            },
+            {
+              "part": "ear",
+              "detail": "large, spiny ears"
+            },
+            {
+              "part": "tuft",
+              "detail": "fur-like tufts"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Nidoking_%28Pok%C3%A9mon%29",
+          "revision": 4623278,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "18d40e01491173881366453b15e4f774a82a6502f433aadc3335aebc66971f1e",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "mobility",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "expr": "confident",
+        "scene": "A basalt canyon training ground at twilight, purple rim light and warm reflected stone light.",
+        "pose": "cross_step"
+      },
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Nidoking (니드킹), poison / ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nExpression: level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed\nPose: Use a brief crossing step to redirect travel with clearly separated legs and stable balance.\nScene: A basalt canyon training ground at twilight, purple rim light and warm reflected stone light.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "ui_verified": true,
+      "ui_checksum": 2975201429
+    },
+    {
+      "card": "니드킹",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/f80e9d314c58/generated_images/exec-870998a1-c0f2-486f-989d-cfdaf3ec896d.png",
+      "filename": "img/니드킹_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "dc9eb19a60b634a6d6538e571abd0fad9a91a12a0aea11510932481e4ea23fab",
+      "reference_slot": "light",
+      "selection": {
+        "mech": "니드킹",
+        "sourceName": "Nidoking",
+        "series": "poison / ground",
+        "sourceAppearance": {
+          "name": "니드킹",
+          "en": "Nidoking",
+          "color": "purple",
+          "shape": "upright",
+          "features": [
+            {
+              "part": "spine",
+              "detail": "gray, rounded spine"
+            },
+            {
+              "part": "horn",
+              "detail": "long, venomous horn"
+            },
+            {
+              "part": "tail",
+              "detail": "long, powerful tail"
+            },
+            {
+              "part": "plate",
+              "detail": "gray plates"
+            },
+            {
+              "part": "ear",
+              "detail": "large, spiny ears"
+            },
+            {
+              "part": "tuft",
+              "detail": "fur-like tufts"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Nidoking_%28Pok%C3%A9mon%29",
+          "revision": 4623278,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "18d40e01491173881366453b15e4f774a82a6502f433aadc3335aebc66971f1e",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "action",
+        "identityMode": "create",
+        "form": "overdrive",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "expr": "confident",
+        "scene": "A basalt canyon training ground at twilight, purple rim light and warm reflected stone light.",
+        "baseForm": "light"
+      },
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Nidoking (니드킹), poison / ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_verified": true,
+      "ui_checksum": 2697109890
+    },
+    {
+      "card": "니드킹",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/f80e9d314c58/generated_images/exec-dde2c7ab-9652-4dfa-9d7d-3c962d387d22.png",
+      "filename": "img/니드킹_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "029551b67406f172b7945b1069dfbdd234306cf23a3daa5106c27fee89adc11f",
+      "reference_slot": "heavy",
+      "selection": {
+        "mech": "니드킹",
+        "sourceName": "Nidoking",
+        "series": "poison / ground",
+        "sourceAppearance": {
+          "name": "니드킹",
+          "en": "Nidoking",
+          "color": "purple",
+          "shape": "upright",
+          "features": [
+            {
+              "part": "spine",
+              "detail": "gray, rounded spine"
+            },
+            {
+              "part": "horn",
+              "detail": "long, venomous horn"
+            },
+            {
+              "part": "tail",
+              "detail": "long, powerful tail"
+            },
+            {
+              "part": "plate",
+              "detail": "gray plates"
+            },
+            {
+              "part": "ear",
+              "detail": "large, spiny ears"
+            },
+            {
+              "part": "tuft",
+              "detail": "fur-like tufts"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Nidoking_%28Pok%C3%A9mon%29",
+          "revision": 4623278,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "18d40e01491173881366453b15e4f774a82a6502f433aadc3335aebc66971f1e",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "action",
+        "identityMode": "create",
+        "form": "overdrive",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "expr": "confident",
+        "scene": "A basalt canyon training ground at twilight, purple rim light and warm reflected stone light.",
+        "baseForm": "heavy"
+      },
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Nidoking (니드킹), poison / ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_verified": true,
+      "ui_checksum": 652261247
+    },
+    {
+      "card": "니드킹",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/f80e9d314c58/generated_images/exec-92b32458-dd0e-436f-94e0-abc77409adf1.png",
+      "filename": "img/니드킹_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "8145477e839b310a7445c554af71546a680dfba3336b92f1fe06331dcb067c2f",
+      "reference_slot": "mobility",
+      "selection": {
+        "mech": "니드킹",
+        "sourceName": "Nidoking",
+        "series": "poison / ground",
+        "sourceAppearance": {
+          "name": "니드킹",
+          "en": "Nidoking",
+          "color": "purple",
+          "shape": "upright",
+          "features": [
+            {
+              "part": "spine",
+              "detail": "gray, rounded spine"
+            },
+            {
+              "part": "horn",
+              "detail": "long, venomous horn"
+            },
+            {
+              "part": "tail",
+              "detail": "long, powerful tail"
+            },
+            {
+              "part": "plate",
+              "detail": "gray plates"
+            },
+            {
+              "part": "ear",
+              "detail": "large, spiny ears"
+            },
+            {
+              "part": "tuft",
+              "detail": "fur-like tufts"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Nidoking_%28Pok%C3%A9mon%29",
+          "revision": 4623278,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "18d40e01491173881366453b15e4f774a82a6502f433aadc3335aebc66971f1e",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "action",
+        "identityMode": "create",
+        "form": "overdrive",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "expr": "confident",
+        "scene": "A basalt canyon training ground at twilight, purple rim light and warm reflected stone light.",
+        "baseForm": "mobility"
+      },
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Nidoking (니드킹), poison / ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_verified": true,
+      "ui_checksum": 1697487259
+    },
+    {
+      "card": "니드킹",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/f80e9d314c58/generated_images/exec-8da71054-fce2-471f-8822-9c38d4c28155.png",
+      "filename": "img/니드킹_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4515cf6124874ee86ee9d59d4c336a87d0c37c295ca54d474b2e204f29f3b695",
+      "reference_slot": "light",
+      "selection": {
+        "mech": "니드킹",
+        "sourceName": "Nidoking",
+        "series": "poison / ground",
+        "sourceAppearance": {
+          "name": "니드킹",
+          "en": "Nidoking",
+          "color": "purple",
+          "shape": "upright",
+          "features": [
+            {
+              "part": "spine",
+              "detail": "gray, rounded spine"
+            },
+            {
+              "part": "horn",
+              "detail": "long, venomous horn"
+            },
+            {
+              "part": "tail",
+              "detail": "long, powerful tail"
+            },
+            {
+              "part": "plate",
+              "detail": "gray plates"
+            },
+            {
+              "part": "ear",
+              "detail": "large, spiny ears"
+            },
+            {
+              "part": "tuft",
+              "detail": "fur-like tufts"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Nidoking_%28Pok%C3%A9mon%29",
+          "revision": 4623278,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "18d40e01491173881366453b15e4f774a82a6502f433aadc3335aebc66971f1e",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "form": "light",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "expr": "laughing_open",
+        "scene": "Walking along the shallow water at a quiet basalt beach in late afternoon, turning toward the viewer while laughing.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "cat": "swimwear",
+        "pose": "walking",
+        "orient": "front_3q",
+        "frame": "full_body",
+        "lens": "documentary35",
+        "outfit": "An opaque violet two-piece swimsuit with supportive sculpted cups, secure broad straps, silver piping and high-cut lined briefs; a tiny horn-shaped silver pendant, relaxed beach fashion."
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Nidoking (니드킹) personified, poison / ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: mouth open wide in a laugh with teeth showing and cheeks raised, but the eyes stay open and engaged — lids only slightly narrowed, gaze still readable rather than squeezed shut\nPose: Walk at a comfortable pace with a natural step and arm swing.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: Walking along the shallow water at a quiet basalt beach in late afternoon, turning toward the viewer while laughing.\nOutfit and props: An opaque violet two-piece swimsuit with supportive sculpted cups, secure broad straps, silver piping and high-cut lined briefs; a tiny horn-shaped silver pendant, relaxed beach fashion.\nCategory: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_verified": true,
+      "ui_checksum": 3358501321,
+      "correction": {
+        "prompt": "Edit only the head accessory in this swimwear illustration: remove the entire armored horned circlet and all metallic temple spikes. Leave her hair natural with one tiny plain silver hair clip. Preserve exactly her adult face, purple eyes, hair color and hairstyle, laughing expression, anatomy, pose, both hands, swimsuit, translucent beach coverup, camera, framing, lighting and basalt beach background. This is everyday beach fashion; species motif remains only in the small pendant and violet palette. No armor, no creature costume. No text or logos.",
+        "edit_target": "exec-0da71f93-9eef-4232-bace-d0ded9b01883.png",
+        "reason": "Remove inherited armor headpiece from off-duty fashion"
+      }
+    },
+    {
+      "card": "니드킹",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/f80e9d314c58/generated_images/exec-0d475f96-888e-44ee-9c07-f28a54f9120f.png",
+      "filename": "img/니드킹_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "5c8087c9d4370c112eb01b7124af50fb8ebd15458aa920edbc3d28a146549157",
+      "reference_slot": "light",
+      "selection": {
+        "mech": "니드킹",
+        "sourceName": "Nidoking",
+        "series": "poison / ground",
+        "sourceAppearance": {
+          "name": "니드킹",
+          "en": "Nidoking",
+          "color": "purple",
+          "shape": "upright",
+          "features": [
+            {
+              "part": "spine",
+              "detail": "gray, rounded spine"
+            },
+            {
+              "part": "horn",
+              "detail": "long, venomous horn"
+            },
+            {
+              "part": "tail",
+              "detail": "long, powerful tail"
+            },
+            {
+              "part": "plate",
+              "detail": "gray plates"
+            },
+            {
+              "part": "ear",
+              "detail": "large, spiny ears"
+            },
+            {
+              "part": "tuft",
+              "detail": "fur-like tufts"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Nidoking_%28Pok%C3%A9mon%29",
+          "revision": 4623278,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "18d40e01491173881366453b15e4f774a82a6502f433aadc3335aebc66971f1e",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "form": "light",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "expr": "focused",
+        "scene": "On a rocky overlook during a solo field expedition, seated with one knee raised, carefully studying a small geological sample held between her fingertips while the other hand rests on her knee.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "cat": "travel_exploration",
+        "pose": "one_knee_up",
+        "orient": "side",
+        "frame": "three_quarter",
+        "lens": "natural50",
+        "outfit": "A sleeveless charcoal cropped field top, violet belted utility shorts, sturdy hiking boots, a small horn-shaped silver ear cuff, practical outdoor fashion exposing shoulders, midriff and legs."
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Nidoking (니드킹) personified, poison / ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed\nPose: Sit on a mat with one knee raised and an arm resting naturally on it.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: On a rocky overlook during a solo field expedition, seated with one knee raised, carefully studying a small geological sample held between her fingertips while the other hand rests on her knee.\nOutfit and props: A sleeveless charcoal cropped field top, violet belted utility shorts, sturdy hiking boots, a small horn-shaped silver ear cuff, practical outdoor fashion exposing shoulders, midriff and legs.\nCategory: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_verified": true,
+      "ui_checksum": 812306269
+    },
+    {
+      "card": "니드킹",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/f80e9d314c58/generated_images/exec-be1f9099-2e3d-4f16-bcf0-a39fc3761d64.png",
+      "filename": "img/니드킹_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "9586bec692f3a9302a0d31e44cd5936a18d30a600a72c23db2c38d40aba35d44",
+      "reference_slot": "light",
+      "selection": {
+        "mech": "니드킹",
+        "sourceName": "Nidoking",
+        "series": "poison / ground",
+        "sourceAppearance": {
+          "name": "니드킹",
+          "en": "Nidoking",
+          "color": "purple",
+          "shape": "upright",
+          "features": [
+            {
+              "part": "spine",
+              "detail": "gray, rounded spine"
+            },
+            {
+              "part": "horn",
+              "detail": "long, venomous horn"
+            },
+            {
+              "part": "tail",
+              "detail": "long, powerful tail"
+            },
+            {
+              "part": "plate",
+              "detail": "gray plates"
+            },
+            {
+              "part": "ear",
+              "detail": "large, spiny ears"
+            },
+            {
+              "part": "tuft",
+              "detail": "fur-like tufts"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Nidoking_%28Pok%C3%A9mon%29",
+          "revision": 4623278,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "18d40e01491173881366453b15e4f774a82a6502f433aadc3335aebc66971f1e",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "form": "light",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "expr": "sleepy",
+        "scene": "Morning light in a cozy apartment, waking up on the sofa and doing a small shoulder stretch, both hands beside her shoulders inside the waist-up crop, sleepy expression.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "cat": "homewear",
+        "pose": "stretching",
+        "orient": "front",
+        "frame": "waist_up",
+        "lens": "portrait85",
+        "outfit": "An opaque cream ribbed cropped camisole with secure straps and a scalloped hem, violet soft lounge shorts, a tiny horn-shaped silver pendant; bare shoulders and midriff, stylish relaxed homewear."
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Nidoking (니드킹) personified, poison / ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: heavy drooping eyelids, unfocused gaze, softened slack mouth, brow low and relaxed\nPose: Stretch the arms and upper back gently in a comfortable everyday motion.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: Morning light in a cozy apartment, waking up on the sofa and doing a small shoulder stretch, both hands beside her shoulders inside the waist-up crop, sleepy expression.\nOutfit and props: An opaque cream ribbed cropped camisole with secure straps and a scalloped hem, violet soft lounge shorts, a tiny horn-shaped silver pendant; bare shoulders and midriff, stylish relaxed homewear.\nCategory: Create designed, fashion-forward homewear or lounge-life scenes. Avoid plain pajamas and bland static sofa poses. Use believable home-life actions, stylish home fashion silhouettes, and a sensual but natural private-life atmosphere.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_verified": true,
+      "ui_checksum": 2701929843,
+      "correction": {
+        "prompt": "Precisely reframe this illustration as a STRICT WAIST-UP PORTRAIT, vertical 2:3 1024x1536. The bottom edge must end at her waist near the navel, with NO shorts, NO thighs and NO legs visible. Enlarge the same adult woman within the frame so her head, torso and both hands beside her shoulders fit clearly. Preserve the same face, purple eyes, sleepy expression, purple long ponytail hairstyle, cream camisole, necklace, small shoulder-stretch pose, natural proportions, five digits on each hand, glossy anime 2.5D style, apartment sofa background and warm morning lighting. Change only camera distance/framing to obey the originally selected waist-up framing.",
+        "edit_target": "exec-cf42b5fd-29c1-4100-a42e-faf8a8bc05dd.png",
+        "reason": "Correct waist-up framing"
+      }
+    }
+  ],
+  "upload_status": "All nine assets and this generation record are included together in one main commit.",
+  "visual_review": {
+    "identity": "same adult face, eye/hair color and ponytail maintained",
+    "hands": "both hands inspected; no clear extra or merged digits",
+    "forms": "three distinct armor silhouettes",
+    "opened": "closed-state pose and camera retained; seams opened",
+    "casual": "different expression, pose, orientation and framing; required swimwear included; strong/bold verified",
+    "weapons_text": "none"
+  },
+  "repository": "polos0117/pkm-atelier-img",
+  "canonical_repository_path": "img/니드킹_light_glossy_promo_f.webp"
+}
