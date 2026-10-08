@@ -1,0 +1,367 @@
+{
+  "character": "나인테일",
+  "style": "glossy_promo",
+  "evidence": "Actual prompt UI selections",
+  "generator": "built-in imagegen",
+  "casualPlan": [
+    {
+      "category": "swimwear",
+      "expression": "laughing_open",
+      "pose": "walking",
+      "orientation": "front",
+      "frame": "full_body",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    {
+      "category": "traditional",
+      "expression": "confident",
+      "pose": "hand_on_hip",
+      "orientation": "front_3q",
+      "frame": "three_quarter",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    {
+      "category": "homewear",
+      "expression": "pensive",
+      "pose": "holding_cup",
+      "orientation": "seated_twist",
+      "frame": "waist_up",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "aspect": "1:1",
+      "camera": "Square 1:1 medium portrait from head to waist. Move the camera closer so her head, upper torso and both hands with the tea cup fill the image. The lower image edge cuts exactly at the waist, with shorts, hips, lap, thighs and knees entirely out of frame. Preserve her face and full hairstyle."
+    }
+  ],
+  "images": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/e03281e8c348/generated_images/exec-e788474d-fedf-4434-8a18-a59d20c9c434.png",
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Ninetales (나인테일), fire type.\n\nPALETTE: gold-white, pale orange.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Ninetales as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the small mane becomes a feathered or ruffled collar and trim; the long, fluffy crest becomes a crest-shaped headpiece; the nine long tails become a long sash hanging from the back of her belt, in the same shape and colors.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: A quiet autumn shrine courtyard at golden hour, stone paving beneath her feet and a few drifting warm embers; restrained background, fully readable silhouette.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "references": [],
+      "filename": "나인테일_light_glossy_promo_f.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "894e9e78e816198732cb2e78d1669d66d7cceaadbfc666cc7a41da2e2ed50c70",
+      "output": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/나인테일_light_glossy_promo_f.webp",
+      "format": "WEBP",
+      "source_sha256": "0ef2d520e0b3cd4cc80099fe11e44edcd623c775c44a7db7b5ecf2d7a59260aa",
+      "bytes": 544994,
+      "remote": {
+        "repository": "polos0117/pkm-atelier-img",
+        "path": "img/나인테일_light_glossy_promo_f.webp"
+      },
+      "ui_provenance": "Actual selections made in deployed prompt.html UI; exact output reviewed before submitting",
+      "ui": {
+        "output": "action",
+        "style": "glossy_promo",
+        "form": "light",
+        "identity": "create",
+        "apparent_age": "20s"
+      }
+    },
+    {
+      "slot": "heavy",
+      "source": "/workspace/scratch/e03281e8c348/generated_images/exec-6e659792-1565-4a64-a680-408552f250f9.png",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Ninetales (나인테일), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: A quiet autumn shrine courtyard at golden hour, stone paving beneath her feet and a few drifting warm embers; restrained background, fully readable silhouette.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "references": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-e788474d-fedf-4434-8a18-a59d20c9c434.png"
+      ],
+      "filename": "나인테일_heavy_glossy_promo_f.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "eb96954561c03efa09a3b4af22a13049f43f2540fb05d686b9c30d4e2bb03324",
+      "output": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/나인테일_heavy_glossy_promo_f.webp",
+      "format": "WEBP",
+      "source_sha256": "457b64fb2fc1cc0a5ea1be0c3ec1325f8cf904ea25d0783da880b6d8a2e931f7",
+      "bytes": 586102,
+      "remote": {
+        "repository": "polos0117/pkm-atelier-img",
+        "path": "img/나인테일_heavy_glossy_promo_f.webp"
+      },
+      "ui_provenance": "Actual selections made in deployed prompt.html UI; exact output reviewed before submitting",
+      "ui": {
+        "output": "action",
+        "style": "glossy_promo",
+        "form": "heavy",
+        "identity": "reference"
+      }
+    },
+    {
+      "slot": "mobility",
+      "source": "/workspace/scratch/e03281e8c348/generated_images/exec-3929f310-352d-42cc-ab8f-7cf52b3a856f.png",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Ninetales (나인테일), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: A quiet autumn shrine courtyard at golden hour, stone paving beneath her feet and a few drifting warm embers; restrained background, fully readable silhouette.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "references": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-e788474d-fedf-4434-8a18-a59d20c9c434.png"
+      ],
+      "filename": "나인테일_mobility_glossy_promo_f.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "97278f7b58d03a61a2d24e4744378ab30c15ac46022c48f60fc415349355b443",
+      "output": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/나인테일_mobility_glossy_promo_f.webp",
+      "format": "WEBP",
+      "source_sha256": "5b249c7c482ff3e94da2f6cb195c90b1af3163e950979696f99d1feca34f14d6",
+      "bytes": 598956,
+      "remote": {
+        "repository": "polos0117/pkm-atelier-img",
+        "path": "img/나인테일_mobility_glossy_promo_f.webp"
+      },
+      "ui_provenance": "Actual selections made in deployed prompt.html UI; exact output reviewed before submitting",
+      "ui": {
+        "output": "action",
+        "style": "glossy_promo",
+        "form": "mobility",
+        "identity": "reference"
+      }
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "/workspace/scratch/e03281e8c348/generated_images/exec-cab36b63-717b-4b27-9b33-98567bfbdb3a.png",
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Ninetales (나인테일), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "references": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-e788474d-fedf-4434-8a18-a59d20c9c434.png"
+      ],
+      "filename": "나인테일_light_overdrive_glossy_promo_f.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "55323254e85a588efdf9b168c7c870f1239feade80eaf975245e70b9728ebf64",
+      "output": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/나인테일_light_overdrive_glossy_promo_f.webp",
+      "format": "WEBP",
+      "bytes": 594850,
+      "source_sha256": "0d5c464ac4e5ee7541afaa498f837461e7ebaabd4ba49c67510b74d6c5c8ce8b",
+      "remote": {
+        "repository": "polos0117/pkm-atelier-img",
+        "path": "img/나인테일_light_overdrive_glossy_promo_f.webp"
+      },
+      "ui_provenance": "Actual selections made in deployed prompt.html UI; exact output reviewed before submitting",
+      "ui": {
+        "output": "action",
+        "style": "glossy_promo",
+        "form": "overdrive",
+        "identity": "reference",
+        "base_form": "light"
+      }
+    },
+    {
+      "slot": "heavy_overdrive",
+      "source": "/workspace/scratch/e03281e8c348/generated_images/exec-b4ce8432-2dca-458d-a6c7-a40f87fecf5d.png",
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Ninetales (나인테일), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "references": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-6e659792-1565-4a64-a680-408552f250f9.png",
+        "/workspace/scratch/e03281e8c348/generated_images/exec-e788474d-fedf-4434-8a18-a59d20c9c434.png"
+      ],
+      "filename": "나인테일_heavy_overdrive_glossy_promo_f.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "4ae47f14bc3ceb260a94fdee4e831b27d152622687b73cf5ab9b5f4fa77ef4a2",
+      "output": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/나인테일_heavy_overdrive_glossy_promo_f.webp",
+      "format": "WEBP",
+      "bytes": 607460,
+      "source_sha256": "867a658c714c775c01190639acd2728834a31ce1efb4730371c4e91f7da09128",
+      "remote": {
+        "repository": "polos0117/pkm-atelier-img",
+        "path": "img/나인테일_heavy_overdrive_glossy_promo_f.webp"
+      },
+      "ui_provenance": "Actual selections made in deployed prompt.html UI; exact output reviewed before submitting",
+      "ui": {
+        "output": "action",
+        "style": "glossy_promo",
+        "form": "overdrive",
+        "identity": "reference",
+        "base_form": "heavy"
+      }
+    },
+    {
+      "slot": "mobility_overdrive",
+      "source": "/workspace/scratch/e03281e8c348/generated_images/exec-3514988d-0c83-4a8f-bf5c-44a7c5831eb9.png",
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Ninetales (나인테일), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "references": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-3929f310-352d-42cc-ab8f-7cf52b3a856f.png",
+        "/workspace/scratch/e03281e8c348/generated_images/exec-e788474d-fedf-4434-8a18-a59d20c9c434.png"
+      ],
+      "filename": "나인테일_mobility_overdrive_glossy_promo_f.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "51ed5679123539e5d3bf1b2452c0638ff62eeb7d610587bc60fdd636673d0af5",
+      "output": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/나인테일_mobility_overdrive_glossy_promo_f.webp",
+      "format": "WEBP",
+      "bytes": 635534,
+      "source_sha256": "e309d16ff6cd1e6ebd83925e4fb65b8b279fd43fa7456657dffd8edd702b77d7",
+      "remote": {
+        "repository": "polos0117/pkm-atelier-img",
+        "path": "img/나인테일_mobility_overdrive_glossy_promo_f.webp"
+      },
+      "ui_provenance": "Actual selections made in deployed prompt.html UI; exact output reviewed before submitting",
+      "ui": {
+        "output": "action",
+        "style": "glossy_promo",
+        "form": "overdrive",
+        "identity": "reference",
+        "base_form": "mobility"
+      }
+    },
+    {
+      "slot": "casual1",
+      "source": "/workspace/scratch/e03281e8c348/generated_images/exec-904bb947-030f-4fa2-af1a-85617ae0c88f.png",
+      "prompt": "CHARACTER: the same woman as the attached image — Ninetales (나인테일) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: mouth open wide in a laugh with teeth showing and cheeks raised, but the eyes stay open and engaged — lids only slightly narrowed, gaze still readable rather than squeezed shut\nPose: Walk at a comfortable pace with a natural step and arm swing.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: A quiet sandy beach at sunset, strolling at the edge of the surf with bare feet; warm sky and clear uncluttered foreground.\nOutfit and props: Gold-white and pale orange halter bikini with opaque fabric, a tiny gold fox-shaped pendant; her approved hairstyle remains unchanged.\nCategory: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.\nExample scene: walking along a wet shoreline in swimwear, wet sand and shallow surf underfoot\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "references": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-e788474d-fedf-4434-8a18-a59d20c9c434.png"
+      ],
+      "ui": {
+        "category": "swimwear",
+        "expression": "laughing_open",
+        "pose": "walking",
+        "orientation": "front",
+        "frame": "full_body",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "filename": "나인테일_glossy_promo_f_casual1.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "484ce01bac4d65e9c16005522fd29596cb911595b7ec40ed244f4d62bb9d6c03",
+      "output": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/나인테일_glossy_promo_f_casual1.webp",
+      "format": "WEBP",
+      "bytes": 571962,
+      "source_sha256": "d0573a4e47bfe12d6edddc086021374b3b3daa50810432d720570ef8cbaf436c",
+      "remote": {
+        "repository": "polos0117/pkm-atelier-img",
+        "path": "img/나인테일_glossy_promo_f_casual1.webp"
+      },
+      "ui_provenance": "Actual selections made in deployed prompt.html UI; exact output reviewed before submitting"
+    },
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/e03281e8c348/generated_images/exec-6c281bb8-2052-46e5-b57f-6cd41581b037.png",
+      "prompt": "CHARACTER: the same woman as the attached image — Ninetales (나인테일) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed\nPose: Place one hand on the hip and let the other arm rest naturally or support the scene's prop.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: An airy heritage courtyard with cream stone arches and warm afternoon light; composed festive fashion portrait.\nOutfit and props: An ivory and pale-orange silk sari with a gold embroidered border and fitted sleeveless cropped blouse, elegant gold earrings; no armor, no fur sash.\nCategory: This cut is built around traditional dress drawn from the character's own ethnic background. Use either authentic formal traditional clothing or a modernised everyday interpretation of it, as specified by the example. Keep the garment structure, layering logic, fastening, and silhouette faithful to that tradition rather than generic orientalism or costume-shop pastiche. Colours may follow the source creature, but the construction must remain true to the tradition. Place the character in a setting where such clothing is plausibly worn.\nExample scene: Sari — Formal\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "references": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-e788474d-fedf-4434-8a18-a59d20c9c434.png"
+      ],
+      "ui": {
+        "category": "traditional",
+        "expression": "confident",
+        "pose": "hand_on_hip",
+        "orientation": "front_3q",
+        "frame": "three_quarter",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "filename": "나인테일_glossy_promo_f_casual2.webp",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "f2fdcdd4438823ec0542ac1a098d7c86aea5a41eceb0b626bd09a49158c8bf29",
+      "output": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/나인테일_glossy_promo_f_casual2.webp",
+      "format": "WEBP",
+      "bytes": 539478,
+      "source_sha256": "888a32954a31ae657d51ca15a5e5e8acc82a4ee0218aee3a6eeec97f7e9a24c9",
+      "remote": {
+        "repository": "polos0117/pkm-atelier-img",
+        "path": "img/나인테일_glossy_promo_f_casual2.webp"
+      },
+      "ui_provenance": "Actual selections made in deployed prompt.html UI; exact output reviewed before submitting"
+    },
+    {
+      "slot": "casual3",
+      "source": "/workspace/scratch/e03281e8c348/generated_images/exec-7f09c370-7b45-4e41-ab6b-72f8e6f2401f.png",
+      "prompt": "CHARACTER: the same woman as the attached image — Ninetales (나인테일) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: gaze angled down and away, slightly furrowed brow, lips lightly pressed or touched\nPose: Hold a cup comfortably in one or both hands during a quiet break.\nOrientation: seated with supported pelvis and a natural torso twist\nScene: A peaceful sunroom in soft morning light; seated on a wicker chair beside a small table, thoughtfully pausing with a warm cup of tea.\nOutfit and props: An opaque ivory cropped camisole and pale-orange soft lounge shorts with a lightweight open cardigan slipping softly off the shoulders, small gold hair ornament; no armor.\nCategory: Create designed, fashion-forward homewear or lounge-life scenes. Avoid plain pajamas and bland static sofa poses. Use believable home-life actions, stylish home fashion silhouettes, and a sensual but natural private-life atmosphere.\nExample scene: Sunroom Lounge Fashion\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nCamera: Square 1:1 medium portrait from head to waist. Move the camera closer so her head, upper torso and both hands with the tea cup fill the image. The lower image edge cuts exactly at the waist, with shorts, hips, lap, thighs and knees entirely out of frame. Preserve her face and full hairstyle.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nAspect ratio: 1:1\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "references": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-e788474d-fedf-4434-8a18-a59d20c9c434.png"
+      ],
+      "ui": {
+        "category": "homewear",
+        "expression": "pensive",
+        "pose": "holding_cup",
+        "orientation": "seated_twist",
+        "frame": "waist_up",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold",
+        "aspect": "1:1",
+        "camera": "Square 1:1 medium portrait from head to waist. Move the camera closer so her head, upper torso and both hands with the tea cup fill the image. The lower image edge cuts exactly at the waist, with shorts, hips, lap, thighs and knees entirely out of frame. Preserve her face and full hairstyle."
+      },
+      "filename": "나인테일_glossy_promo_f_casual3.webp",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "sha256": "25d0cc45bedfab18b03b16314b9445c8d5ff8e48eea8a991fa8d5899e6153bef",
+      "output": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/나인테일_glossy_promo_f_casual3.webp",
+      "format": "WEBP",
+      "bytes": 442396,
+      "source_sha256": "01709387666b46e2dc56d24aa34c1bade1373aeaab89266c9867a57e7957bb04",
+      "remote": {
+        "repository": "polos0117/pkm-atelier-img",
+        "path": "img/나인테일_glossy_promo_f_casual3.webp"
+      },
+      "ui_provenance": "Actual selections made in deployed prompt.html UI; exact output reviewed before submitting"
+    }
+  ],
+  "status": "9 approved; upload ready",
+  "canonical_remote": {
+    "repository": "polos0117/pkm-atelier-img",
+    "path": "img/나인테일_light_glossy_promo_f.webp"
+  },
+  "plannedPrompts": [
+    {
+      "slot": "light",
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Ninetales (나인테일), fire type.\n\nPALETTE: gold-white, pale orange.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Ninetales as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the small mane becomes a feathered or ruffled collar and trim; the long, fluffy crest becomes a crest-shaped headpiece; the nine long tails become a long sash hanging from the back of her belt, in the same shape and colors.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: A quiet autumn shrine courtyard at golden hour, stone paving beneath her feet and a few drifting warm embers; restrained background, fully readable silhouette.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers."
+    },
+    {
+      "slot": "heavy",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Ninetales (나인테일), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: A quiet autumn shrine courtyard at golden hour, stone paving beneath her feet and a few drifting warm embers; restrained background, fully readable silhouette.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers."
+    },
+    {
+      "slot": "mobility",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Ninetales (나인테일), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: A quiet autumn shrine courtyard at golden hour, stone paving beneath her feet and a few drifting warm embers; restrained background, fully readable silhouette.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers."
+    },
+    {
+      "slot": "light_overdrive",
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Ninetales (나인테일), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Ninetales (나인테일), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Ninetales (나인테일), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers."
+    },
+    {
+      "slot": "casual1",
+      "prompt": "CHARACTER: the same woman as the attached image — Ninetales (나인테일) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: mouth open wide in a laugh with teeth showing and cheeks raised, but the eyes stay open and engaged — lids only slightly narrowed, gaze still readable rather than squeezed shut\nPose: Walk at a comfortable pace with a natural step and arm swing.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: A quiet sandy beach at sunset, strolling at the edge of the surf with bare feet; warm sky and clear uncluttered foreground.\nOutfit and props: Gold-white and pale orange halter bikini with opaque fabric, a tiny gold fox-shaped pendant; her approved hairstyle remains unchanged.\nCategory: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.\nExample scene: walking along a wet shoreline in swimwear, wet sand and shallow surf underfoot\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+    },
+    {
+      "slot": "casual2",
+      "prompt": "CHARACTER: the same woman as the attached image — Ninetales (나인테일) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed\nPose: Place one hand on the hip and let the other arm rest naturally or support the scene's prop.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: An airy heritage courtyard with cream stone arches and warm afternoon light; composed festive fashion portrait.\nOutfit and props: An ivory and pale-orange silk sari with a gold embroidered border and fitted sleeveless cropped blouse, elegant gold earrings; no armor, no fur sash.\nCategory: This cut is built around traditional dress drawn from the character's own ethnic background. Use either authentic formal traditional clothing or a modernised everyday interpretation of it, as specified by the example. Keep the garment structure, layering logic, fastening, and silhouette faithful to that tradition rather than generic orientalism or costume-shop pastiche. Colours may follow the source creature, but the construction must remain true to the tradition. Place the character in a setting where such clothing is plausibly worn.\nExample scene: Sari — Formal\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+    },
+    {
+      "slot": "casual3",
+      "prompt": "CHARACTER: the same woman as the attached image — Ninetales (나인테일) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: gaze angled down and away, slightly furrowed brow, lips lightly pressed or touched\nPose: Hold a cup comfortably in one or both hands during a quiet break.\nOrientation: seated with supported pelvis and a natural torso twist\nScene: A peaceful sunroom in soft morning light; seated on a wicker chair beside a small table, thoughtfully pausing with a warm cup of tea.\nOutfit and props: An opaque ivory cropped camisole and pale-orange soft lounge shorts with a lightweight open cardigan slipping softly off the shoulders, small gold hair ornament; no armor.\nCategory: Create designed, fashion-forward homewear or lounge-life scenes. Avoid plain pajamas and bland static sofa poses. Use believable home-life actions, stylish home fashion silhouettes, and a sensual but natural private-life atmosphere.\nExample scene: Sunroom Lounge Fashion\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nCamera: Square 1:1 medium portrait from head to waist. Move the camera closer so her head, upper torso and both hands with the tea cup fill the image. The lower image edge cuts exactly at the waist, with shorts, hips, lap, thighs and knees entirely out of frame. Preserve her face and full hairstyle.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nAspect ratio: 1:1\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+    }
+  ],
+  "discarded": [
+    {
+      "path": "/workspace/scratch/e03281e8c348/generated_images/exec-af5bed95-23d1-4a2a-8cf8-62cc268bc2a8.png",
+      "prompt": "CHARACTER: the same woman as the attached image — Ninetales (나인테일) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: gaze angled down and away, slightly furrowed brow, lips lightly pressed or touched\nPose: Hold a cup comfortably in one or both hands during a quiet break.\nOrientation: seated with supported pelvis and a natural torso twist\nScene: A peaceful sunroom in soft morning light; seated on a wicker chair beside a small table, thoughtfully pausing with a warm cup of tea.\nOutfit and props: An opaque ivory cropped camisole and pale-orange soft lounge shorts with a lightweight open cardigan slipping softly off the shoulders, small gold hair ornament; no armor.\nCategory: Create designed, fashion-forward homewear or lounge-life scenes. Avoid plain pajamas and bland static sofa poses. Use believable home-life actions, stylish home fashion silhouettes, and a sensual but natural private-life atmosphere.\nExample scene: Sunroom Lounge Fashion\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "reason": "Framing extended to thighs instead of selected waist-up"
+    },
+    null
+  ],
+  "canonical_sha256": "894e9e78e816198732cb2e78d1669d66d7cceaadbfc666cc7a41da2e2ed50c70"
+}
