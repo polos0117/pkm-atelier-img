@@ -1,0 +1,443 @@
+{
+  "character": "주뱃",
+  "style": "glossy_promo",
+  "generator": "built-in imagegen",
+  "canonical": {
+    "source": "/workspace/scratch/e03281e8c348/generated_images/exec-c869a2cf-593b-46a0-b810-3ab029266298.png",
+    "remote": "polos0117/pkm-atelier-img:img/주뱃_light_glossy_promo_f.webp",
+    "sha256": "e59ff745c200812cf509d1ac5d8e906d593ce2321a7874ec2d8db8fe42f6b813"
+  },
+  "casualPlan": [
+    {
+      "category": "adult_roleplay",
+      "example": "masquerade",
+      "expression": "mischievous",
+      "pose": "waving",
+      "orientation": "front",
+      "frame": "full_body",
+      "aspect": "2:3",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "output": "casual",
+      "style": "glossy_promo",
+      "identity": "reference"
+    },
+    {
+      "category": "active",
+      "expression": "determined",
+      "pose": "mid_stride",
+      "orientation": "front_3q",
+      "frame": "three_quarter",
+      "aspect": "3:2",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "example": "running_recovery",
+      "camera": "Landscape 3:2 three-quarter portrait, from complete head to just above the knees. Crop the lower edge through the thighs above both knees; no knees, lower legs, ankles or shoes may enter the image, including the lifted back foot. Both naturally swinging hands stay fully inside the frame. Keep the mid-stride action and front three-quarter body turn.",
+      "output": "casual",
+      "identity": "reference",
+      "style": "glossy_promo"
+    },
+    {
+      "category": "everyday_basic",
+      "expression": "curious",
+      "pose": "reading_book",
+      "orientation": "side",
+      "frame": "waist_up",
+      "aspect": "1:1",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold",
+      "example": "bookstore",
+      "camera": "Square 1:1 waist-up side portrait. Whole head, face in profile, torso, both hands and open book inside frame; the lower edge ends at her waist with hips, thighs and knees outside the image.",
+      "output": "casual",
+      "style": "glossy_promo",
+      "identity": "reference"
+    }
+  ],
+  "images": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/e03281e8c348/generated_images/exec-c869a2cf-593b-46a0-b810-3ab029266298.png",
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Zubat (주뱃), poison / flying type.\n\nPALETTE: blue, purple.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Zubat as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the purple wing membranes becomes a split cape falling from her shoulders, cut in the same shape and colors; the pointed ears with purple interiors become a headpiece or hair ornament of the same shape.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: Moonlit cave entrance on a broad flat stone ledge, cool blue rim light and a faint purple atmospheric glow; restrained rocky background and unobstructed full-body silhouette.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "references": [],
+      "filename": "주뱃_light_glossy_promo_f.webp",
+      "ui": {
+        "output": "action",
+        "identity": "create",
+        "form": "light",
+        "style": "glossy_promo",
+        "apparent_age": "20s"
+      },
+      "pixels": [
+        1024,
+        1536
+      ],
+      "source_sha256": "1712743ce780064f836ca2cee22bc47f5a39f196c643ceb0a553379026456350",
+      "sha256": "e59ff745c200812cf509d1ac5d8e906d593ce2321a7874ec2d8db8fe42f6b813",
+      "output": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/주뱃_light_glossy_promo_f.webp",
+      "format": "WEBP",
+      "bytes": 507626,
+      "remote": {
+        "repository": "polos0117/pkm-atelier-img",
+        "path": "img/주뱃_light_glossy_promo_f.webp"
+      },
+      "ui_provenance": "Actual prompt.html UI selections, exact generated prompt reviewed before image submission"
+    },
+    {
+      "slot": "heavy",
+      "source": "/workspace/scratch/e03281e8c348/generated_images/exec-2dcac46c-1837-4b6b-95bf-520ddfe26d22.png",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Zubat (주뱃), poison / flying type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: Moonlit cave entrance on a broad flat stone ledge, cool blue rim light and a faint purple atmospheric glow; restrained rocky background and unobstructed full-body silhouette.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "references": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-c869a2cf-593b-46a0-b810-3ab029266298.png"
+      ],
+      "filename": "주뱃_heavy_glossy_promo_f.webp",
+      "ui": {
+        "output": "action",
+        "identity": "reference",
+        "form": "heavy",
+        "style": "glossy_promo"
+      },
+      "pixels": [
+        1024,
+        1536
+      ],
+      "source_sha256": "2fb7bcf0283bc2340f1b3cfefa7c54e76261369445d829f6de3567278eac9e91",
+      "sha256": "a1510d23508f3cb3a9f140af674613415c570208f97d477e3193be6a4119d16a",
+      "output": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/주뱃_heavy_glossy_promo_f.webp",
+      "format": "WEBP",
+      "bytes": 547888,
+      "remote": {
+        "repository": "polos0117/pkm-atelier-img",
+        "path": "img/주뱃_heavy_glossy_promo_f.webp"
+      },
+      "ui_provenance": "Actual prompt.html UI selections, exact generated prompt reviewed before image submission"
+    },
+    {
+      "slot": "mobility",
+      "source": "/workspace/scratch/e03281e8c348/generated_images/exec-7da38197-b9d8-4cf0-8193-a22eda521c6e.png",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Zubat (주뱃), poison / flying type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: Moonlit cave entrance on a broad flat stone ledge, cool blue rim light and a faint purple atmospheric glow; restrained rocky background and unobstructed full-body silhouette.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "references": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-c869a2cf-593b-46a0-b810-3ab029266298.png"
+      ],
+      "filename": "주뱃_mobility_glossy_promo_f.webp",
+      "ui": {
+        "output": "action",
+        "identity": "reference",
+        "form": "mobility",
+        "style": "glossy_promo"
+      },
+      "pixels": [
+        1024,
+        1536
+      ],
+      "source_sha256": "e9a9b928723caec07dd46b95a87d3d989788331a2e3c49b8cc37ca3f8bc902e8",
+      "sha256": "7388dd6af12b352f415802b34e1379d60449cb73839edc678501a43ddfebccfd",
+      "output": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/주뱃_mobility_glossy_promo_f.webp",
+      "format": "WEBP",
+      "bytes": 541296,
+      "remote": {
+        "repository": "polos0117/pkm-atelier-img",
+        "path": "img/주뱃_mobility_glossy_promo_f.webp"
+      },
+      "ui_provenance": "Actual prompt.html UI selections, exact generated prompt reviewed before image submission"
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "/workspace/scratch/e03281e8c348/generated_images/exec-a8a88872-5862-45f7-b2b9-bfe3bd222d30.png",
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Zubat (주뱃), poison / flying type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "references": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-c869a2cf-593b-46a0-b810-3ab029266298.png"
+      ],
+      "filename": "주뱃_light_overdrive_glossy_promo_f.webp",
+      "ui": {
+        "output": "action",
+        "form": "overdrive",
+        "base_form": "light",
+        "style": "glossy_promo"
+      },
+      "pixels": [
+        1024,
+        1536
+      ],
+      "source_sha256": "48881da5c791b2fdee2ec16ddacb420b39704c776ad1bf624c0e392472184792",
+      "sha256": "1b507b29042ee5710f8fe7a5329565fa112be6824492fb135f1b43ad3016a3f6",
+      "output": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/주뱃_light_overdrive_glossy_promo_f.webp",
+      "format": "WEBP",
+      "bytes": 545470,
+      "remote": {
+        "repository": "polos0117/pkm-atelier-img",
+        "path": "img/주뱃_light_overdrive_glossy_promo_f.webp"
+      },
+      "ui_provenance": "Actual prompt.html UI selections, exact generated prompt reviewed before image submission"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "source": "/workspace/scratch/e03281e8c348/generated_images/exec-03db0e39-4aa8-466d-9f8a-b1bb9437f9c4.png",
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Zubat (주뱃), poison / flying type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "references": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-2dcac46c-1837-4b6b-95bf-520ddfe26d22.png",
+        "/workspace/scratch/e03281e8c348/generated_images/exec-c869a2cf-593b-46a0-b810-3ab029266298.png"
+      ],
+      "filename": "주뱃_heavy_overdrive_glossy_promo_f.webp",
+      "ui": {
+        "output": "action",
+        "form": "overdrive",
+        "base_form": "heavy",
+        "style": "glossy_promo"
+      },
+      "pixels": [
+        1024,
+        1536
+      ],
+      "source_sha256": "31ea9ddfaa6d7a39a960e4afa206e0cf17baa9264ec77c4e6dab5738cc988153",
+      "sha256": "179a0b244d849e0d05cfa4081e5ec2fd248f965ce8085159de6b8271331b8d7f",
+      "output": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/주뱃_heavy_overdrive_glossy_promo_f.webp",
+      "format": "WEBP",
+      "bytes": 594260,
+      "remote": {
+        "repository": "polos0117/pkm-atelier-img",
+        "path": "img/주뱃_heavy_overdrive_glossy_promo_f.webp"
+      },
+      "ui_provenance": "Actual prompt.html UI selections, exact generated prompt reviewed before image submission"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "source": "/workspace/scratch/e03281e8c348/generated_images/exec-493642b4-57f4-416e-82d0-06b84bca90fb.png",
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Zubat (주뱃), poison / flying type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "references": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-7da38197-b9d8-4cf0-8193-a22eda521c6e.png",
+        "/workspace/scratch/e03281e8c348/generated_images/exec-c869a2cf-593b-46a0-b810-3ab029266298.png"
+      ],
+      "filename": "주뱃_mobility_overdrive_glossy_promo_f.webp",
+      "ui": {
+        "output": "action",
+        "form": "overdrive",
+        "base_form": "mobility",
+        "style": "glossy_promo"
+      },
+      "pixels": [
+        1024,
+        1536
+      ],
+      "source_sha256": "618e5d65a0f222a634c5fe698d87a1312e889abadb9b3f6445599d2d0a0012e6",
+      "sha256": "c9a90170e3a407bf78e4d1bd8ee3457080ca63b564cf53ac771966b7888c1e7e",
+      "output": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/주뱃_mobility_overdrive_glossy_promo_f.webp",
+      "format": "WEBP",
+      "bytes": 600440,
+      "remote": {
+        "repository": "polos0117/pkm-atelier-img",
+        "path": "img/주뱃_mobility_overdrive_glossy_promo_f.webp"
+      },
+      "ui_provenance": "Actual prompt.html UI selections, exact generated prompt reviewed before image submission"
+    },
+    {
+      "slot": "casual1",
+      "source": "/workspace/scratch/e03281e8c348/generated_images/exec-87e38983-5b59-410d-a3ff-0d8d1495834d.png",
+      "prompt": "CHARACTER: the same woman as the attached image — Zubat (주뱃) personified, poison / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: narrowed sparkling eyes, one brow up, closed-lip grin pushed to one side\nPose: Raise one hand near shoulder height in a friendly small wave.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: An outdoor moonlight masquerade festival stage with tasteful blue and violet spotlights, giving a small friendly wave to the camera; a clean stage floor and soft distant lanterns.\nOutfit and props: Original adult masquerade event costume: fitted cobalt cropped vest, opaque purple fitted shorts, flowing short split overskirt, blue ankle boots and a tiny bat-shaped hair pin. Bare shoulders, arms and midriff; no armor, no mask over the face, empty hands.\nCategory: Create playful adult event fashion inspired by occupation or roleplay motifs. It must read as a costume made for a stage presentation or themed event, not as an authentic workplace uniform. Use original colours and decorative details — no real institutional insignia, no weapons, no tactical gear. Describe the costume by its tailoring, trim, and props, and show a believable styling or preparation action.\nExample scene: a masquerade costume with a feathered eye mask, a structured bodice, and a full skirt\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "references": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-c869a2cf-593b-46a0-b810-3ab029266298.png"
+      ],
+      "filename": "주뱃_glossy_promo_f_casual1.webp",
+      "ui": {
+        "category": "adult_roleplay",
+        "example": "masquerade",
+        "expression": "mischievous",
+        "pose": "waving",
+        "orientation": "front",
+        "frame": "full_body",
+        "aspect": "2:3",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold",
+        "output": "casual",
+        "style": "glossy_promo",
+        "identity": "reference"
+      },
+      "pixels": [
+        1024,
+        1536
+      ],
+      "source_sha256": "b17bdfce4766e3d2a1f22e648de12ae8719528080a149097196beb9c26bf490a",
+      "sha256": "f9fda099902d688fc48a2ef430a1b10c9d2145c38e3249a80c035021f6eb00b0",
+      "output": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/주뱃_glossy_promo_f_casual1.webp",
+      "format": "WEBP",
+      "bytes": 543018,
+      "remote": {
+        "repository": "polos0117/pkm-atelier-img",
+        "path": "img/주뱃_glossy_promo_f_casual1.webp"
+      },
+      "ui_provenance": "Actual prompt.html UI selections, exact generated prompt reviewed before image submission"
+    },
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/e03281e8c348/generated_images/exec-13ae399c-43f5-42df-a000-0710777cda40.png",
+      "prompt": "CHARACTER: the same woman as the attached image — Zubat (주뱃) personified, poison / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: brows pulled down and in, hard forward gaze, jaw clenched, mouth a tight line\nPose: Capture a clear mid-stride step with believable weight transfer.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: An open rooftop running track at blue hour, cooling down with a brisk natural step after an evening run; soft violet city lights and clean lane markings without lettering.\nOutfit and props: Cobalt opaque athletic cropped tank with secure neckline and purple fitted high-waisted running shorts, blue running shoes, a tiny bat charm on a simple wristband. Bare arms, shoulders, midriff and legs; no armor, empty relaxed hands.\nCategory: Show real movement with fashion-forward activewear or movement-oriented clothing. Avoid generic gym snapshots. Prioritize dynamic motion, readable silhouette, waist and hip lines, fabric movement, and varied action.\nExample scene: Post-run Recovery\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nCamera: Landscape 3:2 three-quarter portrait, from complete head to just above the knees. Crop the lower edge through the thighs above both knees; no knees, lower legs, ankles or shoes may enter the image, including the lifted back foot. Both naturally swinging hands stay fully inside the frame. Keep the mid-stride action and front three-quarter body turn.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nAspect ratio: 3:2\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "references": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-c869a2cf-593b-46a0-b810-3ab029266298.png"
+      ],
+      "filename": "주뱃_glossy_promo_f_casual2.webp",
+      "ui": {
+        "category": "active",
+        "expression": "determined",
+        "pose": "mid_stride",
+        "orientation": "front_3q",
+        "frame": "three_quarter",
+        "aspect": "3:2",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold",
+        "example": "running_recovery",
+        "camera": "Landscape 3:2 three-quarter portrait, from complete head to just above the knees. Crop the lower edge through the thighs above both knees; no knees, lower legs, ankles or shoes may enter the image, including the lifted back foot. Both naturally swinging hands stay fully inside the frame. Keep the mid-stride action and front three-quarter body turn.",
+        "output": "casual",
+        "identity": "reference",
+        "style": "glossy_promo"
+      },
+      "pixels": [
+        1536,
+        1024
+      ],
+      "source_sha256": "9fee5dd922ec679ad225211917faaa4c6edb1e9c2b3af57503689ee0098efa5c",
+      "sha256": "6982278c4f439c9c49ba62cdd2400fca40836d7609a247aba5e02b2276d5a2e5",
+      "output": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/주뱃_glossy_promo_f_casual2.webp",
+      "format": "WEBP",
+      "bytes": 402042,
+      "remote": {
+        "repository": "polos0117/pkm-atelier-img",
+        "path": "img/주뱃_glossy_promo_f_casual2.webp"
+      },
+      "ui_provenance": "Actual prompt.html UI selections, exact generated prompt reviewed before image submission"
+    },
+    {
+      "slot": "casual3",
+      "source": "/workspace/scratch/e03281e8c348/generated_images/exec-825eabe0-5be0-49b0-b062-45b7bbd89a1a.png",
+      "prompt": "CHARACTER: the same woman as the attached image — Zubat (주뱃) personified, poison / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted\nPose: Hold an open book with readable finger placement and look toward its pages.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: A cozy independent bookstore by a rain-streaked window, browsing an open illustrated book with a curious attentive expression; soft window light and indistinct bookshelves.\nOutfit and props: An opaque purple sleeveless cropped knit top and blue denim shorts with a lightweight cobalt cardigan draped off the shoulders, one tiny bat hair clip. Bare shoulders, arms and midriff; no armor. Hold the open book naturally at chest level; no readable letters on it or on the shelves.\nCategory: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.\nExample scene: Bookstore Browsing\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nCamera: Square 1:1 waist-up side portrait. Whole head, face in profile, torso, both hands and open book inside frame; the lower edge ends at her waist with hips, thighs and knees outside the image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nAspect ratio: 1:1\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "references": [
+        "/workspace/scratch/e03281e8c348/generated_images/exec-c869a2cf-593b-46a0-b810-3ab029266298.png"
+      ],
+      "filename": "주뱃_glossy_promo_f_casual3.webp",
+      "ui": {
+        "category": "everyday_basic",
+        "expression": "curious",
+        "pose": "reading_book",
+        "orientation": "side",
+        "frame": "waist_up",
+        "aspect": "1:1",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold",
+        "example": "bookstore",
+        "camera": "Square 1:1 waist-up side portrait. Whole head, face in profile, torso, both hands and open book inside frame; the lower edge ends at her waist with hips, thighs and knees outside the image.",
+        "output": "casual",
+        "style": "glossy_promo",
+        "identity": "reference"
+      },
+      "pixels": [
+        1254,
+        1254
+      ],
+      "source_sha256": "271f57a927425c241c0fd718643f0c3c15626301631c0d899d64131544eed0ac",
+      "sha256": "2596c8b1a522c9552248a729fd455d88b45014044a57322b1fd555d4deeaa6e7",
+      "output": "/workspace/scratch/e03281e8c348/pkm-atelier-img/img/주뱃_glossy_promo_f_casual3.webp",
+      "format": "WEBP",
+      "bytes": 502458,
+      "remote": {
+        "repository": "polos0117/pkm-atelier-img",
+        "path": "img/주뱃_glossy_promo_f_casual3.webp"
+      },
+      "ui_provenance": "Actual prompt.html UI selections, exact generated prompt reviewed before image submission"
+    }
+  ],
+  "status": "9 approved; upload ready",
+  "plannedPrompts": [
+    {
+      "slot": "light",
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Zubat (주뱃), poison / flying type.\n\nPALETTE: blue, purple.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Zubat as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the purple wing membranes becomes a split cape falling from her shoulders, cut in the same shape and colors; the pointed ears with purple interiors become a headpiece or hair ornament of the same shape.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: Moonlit cave entrance on a broad flat stone ledge, cool blue rim light and a faint purple atmospheric glow; restrained rocky background and unobstructed full-body silhouette.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers."
+    },
+    {
+      "slot": "heavy",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Zubat (주뱃), poison / flying type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: Moonlit cave entrance on a broad flat stone ledge, cool blue rim light and a faint purple atmospheric glow; restrained rocky background and unobstructed full-body silhouette.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers."
+    },
+    {
+      "slot": "mobility",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Zubat (주뱃), poison / flying type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: Moonlit cave entrance on a broad flat stone ledge, cool blue rim light and a faint purple atmospheric glow; restrained rocky background and unobstructed full-body silhouette.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers."
+    },
+    {
+      "slot": "light_overdrive",
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Zubat (주뱃), poison / flying type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Zubat (주뱃), poison / flying type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Zubat (주뱃), poison / flying type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers."
+    },
+    {
+      "slot": "casual1",
+      "prompt": "CHARACTER: the same woman as the attached image — Zubat (주뱃) personified, poison / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: narrowed sparkling eyes, one brow up, closed-lip grin pushed to one side\nPose: Raise one hand near shoulder height in a friendly small wave.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: An outdoor moonlight masquerade festival stage with tasteful blue and violet spotlights, giving a small friendly wave to the camera; a clean stage floor and soft distant lanterns.\nOutfit and props: Original adult masquerade event costume: fitted cobalt cropped vest, opaque purple fitted shorts, flowing short split overskirt, blue ankle boots and a tiny bat-shaped hair pin. Bare shoulders, arms and midriff; no armor, no mask over the face, empty hands.\nCategory: Create playful adult event fashion inspired by occupation or roleplay motifs. It must read as a costume made for a stage presentation or themed event, not as an authentic workplace uniform. Use original colours and decorative details — no real institutional insignia, no weapons, no tactical gear. Describe the costume by its tailoring, trim, and props, and show a believable styling or preparation action.\nExample scene: a masquerade costume with a feathered eye mask, a structured bodice, and a full skirt\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+    },
+    {
+      "slot": "casual2",
+      "prompt": "CHARACTER: the same woman as the attached image — Zubat (주뱃) personified, poison / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: brows pulled down and in, hard forward gaze, jaw clenched, mouth a tight line\nPose: Capture a clear mid-stride step with believable weight transfer.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: An open rooftop running track at blue hour, cooling down with a brisk natural step after an evening run; soft violet city lights and clean lane markings without lettering.\nOutfit and props: Cobalt opaque athletic cropped tank with secure neckline and purple fitted high-waisted running shorts, blue running shoes, a tiny bat charm on a simple wristband. Bare arms, shoulders, midriff and legs; no armor, empty relaxed hands.\nCategory: Show real movement with fashion-forward activewear or movement-oriented clothing. Avoid generic gym snapshots. Prioritize dynamic motion, readable silhouette, waist and hip lines, fabric movement, and varied action.\nExample scene: Post-run Recovery\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nCamera: Landscape 3:2 three-quarter portrait, from complete head to just above the knees. Crop the lower edge through the thighs above both knees; no knees, lower legs, ankles or shoes may enter the image, including the lifted back foot. Both naturally swinging hands stay fully inside the frame. Keep the mid-stride action and front three-quarter body turn.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nAspect ratio: 3:2\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+    },
+    {
+      "slot": "casual3",
+      "prompt": "CHARACTER: the same woman as the attached image — Zubat (주뱃) personified, poison / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted\nPose: Hold an open book with readable finger placement and look toward its pages.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: A cozy independent bookstore by a rain-streaked window, browsing an open illustrated book with a curious attentive expression; soft window light and indistinct bookshelves.\nOutfit and props: An opaque purple sleeveless cropped knit top and blue denim shorts with a lightweight cobalt cardigan draped off the shoulders, one tiny bat hair clip. Bare shoulders, arms and midriff; no armor. Hold the open book naturally at chest level; no readable letters on it or on the shelves.\nCategory: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.\nExample scene: Bookstore Browsing\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nCamera: Square 1:1 waist-up side portrait. Whole head, face in profile, torso, both hands and open book inside frame; the lower edge ends at her waist with hips, thighs and knees outside the image.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nAspect ratio: 1:1\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+    }
+  ],
+  "prompt_ui_evidence": [
+    {
+      "image": 2,
+      "length": 1983,
+      "checksum": -470483894,
+      "verified": true
+    },
+    {
+      "image": 3,
+      "length": 1923,
+      "checksum": 902999351,
+      "verified": true
+    },
+    {
+      "image": 4,
+      "length": 1332,
+      "checksum": 1217983089,
+      "verified": true
+    },
+    {
+      "image": 5,
+      "length": 1369,
+      "checksum": 1029484400,
+      "verified": true
+    },
+    {
+      "image": 6,
+      "length": 1340,
+      "checksum": 1763631500,
+      "verified": true
+    },
+    {
+      "image": 7,
+      "length": 2649,
+      "checksum": -1037966234,
+      "verified": true
+    },
+    {
+      "image": 8,
+      "length": 2786,
+      "checksum": -946289124,
+      "verified": true
+    },
+    {
+      "image": 9,
+      "length": 2711,
+      "checksum": -1867632755,
+      "verified": true
+    }
+  ],
+  "discarded": [
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/e03281e8c348/generated_images/exec-3f91b910-12ac-4b7d-9fca-5c4508f599fe.png",
+      "prompt": "CHARACTER: the same woman as the attached image — Zubat (주뱃) personified, poison / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: brows pulled down and in, hard forward gaze, jaw clenched, mouth a tight line\nPose: Capture a clear mid-stride step with believable weight transfer.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: An open rooftop running track at blue hour, cooling down with a brisk natural step after an evening run; soft violet city lights and clean lane markings without lettering.\nOutfit and props: Cobalt opaque athletic cropped tank with secure neckline and purple fitted high-waisted running shorts, blue running shoes, a tiny bat charm on a simple wristband. Bare arms, shoulders, midriff and legs; no armor, empty relaxed hands.\nCategory: Show real movement with fashion-forward activewear or movement-oriented clothing. Avoid generic gym snapshots. Prioritize dynamic motion, readable silhouette, waist and hip lines, fabric movement, and varied action.\nExample scene: Post-run Recovery\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nCamera: Vertical head-to-above-knees portrait with both naturally swinging hands inside the frame.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "reason": "Knees and a lifted back shoe appeared despite selected above-knees framing"
+    }
+  ]
+}
