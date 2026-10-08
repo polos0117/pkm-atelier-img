@@ -1,0 +1,377 @@
+{
+  "card": "파라섹트",
+  "english": "Parasect",
+  "dex": "0047",
+  "date": "2026-10-09",
+  "style": "glossy_promo",
+  "gender": "f",
+  "generator": "https://polos0117.github.io/pkm-atelier/prompt.html",
+  "rules_sha": "271736fab30897cf0c1a056f6da2fc8a52136855",
+  "status": "9/9 generated; all assets approved; upload pending",
+  "conversion": "WebP quality95 method6; original dimensions preserved",
+  "assets": [
+    {
+      "key": "light",
+      "png": "/workspace/scratch/66a5a06b8a55/generated_images/exec-c2801ce7-306b-4427-b5e5-fb5e64c8c300.png",
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Parasect (파라섹트), bug / grass type.\n\nPALETTE: red, yellow.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Parasect as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the large red cap becomes a cap-shaped hat; its markings (yellow spots) become painted lines and patterns on her plates and undersuit.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nExpression: level lowered brow, steady unblinking gaze, mouth closed in a straight line, jaw set\nScene: A quiet autumn woodland clearing at twilight, muted amber leaves and a moss-covered path, cinematic atmosphere without foreground obstruction.\nNote: Both hands empty and relaxed beside her hips, fully visible with one thumb and four naturally separated fingers each. Fully opaque undersuit. The red cap-shaped hat sits high enough to keep her entire face visible.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "references": [],
+      "settings": {
+        "mode": "action",
+        "identity": "new",
+        "form": "light",
+        "age": "20s",
+        "expression": "serious",
+        "orientation": "auto",
+        "framing": "auto",
+        "style": "glossy_promo",
+        "gender": "f"
+      },
+      "filename": "파라섹트_light_glossy_promo_f.webp",
+      "repository_path": "img/파라섹트_light_glossy_promo_f.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "f7a8a54f72d65a7be5f21c171217a90d0e0853e6f92bc8302c4ee9fce4535c3b",
+      "sha256": "8ecd8406fe1fec326932d3f73651ab6c1b72f3430759bf537f1f441319d95af0",
+      "identityReference": "img/파라섹트_light_glossy_promo_f.webp",
+      "evidence": "actual generator UI selections and exact submitted prompt",
+      "visualCheck": "identity, form, framing, hands and outfit reviewed",
+      "referenceFiles": []
+    },
+    {
+      "key": "heavy",
+      "png": "/workspace/scratch/66a5a06b8a55/generated_images/exec-3d0805b1-67e4-4f29-bf51-d3c0b4c6d563.png",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Parasect (파라섹트), bug / grass type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nExpression: level lowered brow, steady unblinking gaze, mouth closed in a straight line, jaw set\nScene: In the same autumn woodland clearing at twilight, standing firmly with a balanced wide stance.\nNote: Both hands empty and relaxed beside her hips, fully visible with one thumb and four naturally separated fingers each. Fully opaque undersuit. The red cap-shaped hat sits high enough to keep her entire face visible.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "references": [
+        "/workspace/scratch/66a5a06b8a55/generated_images/exec-c2801ce7-306b-4427-b5e5-fb5e64c8c300.png"
+      ],
+      "settings": {
+        "mode": "action",
+        "identity": "reference",
+        "form": "heavy",
+        "expression": "serious",
+        "orientation": "auto",
+        "framing": "auto",
+        "style": "glossy_promo",
+        "gender": "f"
+      },
+      "filename": "파라섹트_heavy_glossy_promo_f.webp",
+      "repository_path": "img/파라섹트_heavy_glossy_promo_f.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "fd2c052de047544426fb0a1584e16af95b49372e4bf9609044911fe938e9e7bf",
+      "sha256": "32af3320c50a4399de6d27514ae97dfd5a6a9edd789da33ff662f9bae48940b5",
+      "identityReference": "img/파라섹트_light_glossy_promo_f.webp",
+      "evidence": "actual generator UI selections and exact submitted prompt",
+      "visualCheck": "identity, form, framing, hands and outfit reviewed",
+      "referenceFiles": [
+        "img/파라섹트_light_glossy_promo_f.webp"
+      ]
+    },
+    {
+      "key": "mobility",
+      "png": "/workspace/scratch/66a5a06b8a55/generated_images/exec-a3487a3e-092f-4c1f-9082-efa3a194f58c.png",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Parasect (파라섹트), bug / grass type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nExpression: level lowered brow, steady unblinking gaze, mouth closed in a straight line, jaw set\nScene: In the same autumn woodland clearing at twilight, a light forward step with her face toward the camera.\nNote: Both hands empty and relaxed beside her hips, fully visible with one thumb and four naturally separated fingers each. Fully opaque undersuit. The red cap-shaped hat sits high enough to keep her entire face visible.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "references": [
+        "/workspace/scratch/66a5a06b8a55/generated_images/exec-c2801ce7-306b-4427-b5e5-fb5e64c8c300.png"
+      ],
+      "settings": {
+        "mode": "action",
+        "identity": "reference",
+        "form": "mobility",
+        "expression": "serious",
+        "orientation": "auto",
+        "framing": "auto",
+        "style": "glossy_promo",
+        "gender": "f"
+      },
+      "filename": "파라섹트_mobility_glossy_promo_f.webp",
+      "repository_path": "img/파라섹트_mobility_glossy_promo_f.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "f7761130ae4f6bc6f2acc54abfe13da0f6efa51335f3176d48350584e8d66c6a",
+      "sha256": "cb7961ac7bb3f508239a608a0b533eeaba9906ccc8bec2642a5d41175aec7a38",
+      "identityReference": "img/파라섹트_light_glossy_promo_f.webp",
+      "evidence": "actual generator UI selections and exact submitted prompt",
+      "visualCheck": "identity, form, framing, hands and outfit reviewed",
+      "referenceFiles": [
+        "img/파라섹트_light_glossy_promo_f.webp"
+      ]
+    },
+    {
+      "key": "light_overdrive",
+      "png": "/workspace/scratch/66a5a06b8a55/generated_images/exec-4a19bebe-2820-48a5-8a4b-86029e1f3a67.png",
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Parasect (파라섹트), bug / grass type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a lime-green glow with shimmering wing-like light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "references": [
+        "/workspace/scratch/66a5a06b8a55/generated_images/exec-c2801ce7-306b-4427-b5e5-fb5e64c8c300.png"
+      ],
+      "settings": {
+        "mode": "action",
+        "form": "overdrive",
+        "base_form": "light",
+        "style": "glossy_promo",
+        "gender": "f",
+        "custom": ""
+      },
+      "filename": "파라섹트_light_overdrive_glossy_promo_f.webp",
+      "repository_path": "img/파라섹트_light_overdrive_glossy_promo_f.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "e76002ec32315213e50d728ba0ce1c5db7caeef996eb943d3410490f3c763c86",
+      "sha256": "a5b74ba719a9d5ff21b165153abebf164459f4d56a39e1599dd60eea96b8f38d",
+      "identityReference": "img/파라섹트_light_glossy_promo_f.webp",
+      "evidence": "actual generator UI selections and exact submitted prompt",
+      "visualCheck": "identity, form, framing, hands and outfit reviewed",
+      "referenceFiles": [
+        "img/파라섹트_light_glossy_promo_f.webp"
+      ]
+    },
+    {
+      "key": "heavy_overdrive",
+      "png": "/workspace/scratch/66a5a06b8a55/generated_images/exec-f436bc1b-4c46-4316-bd50-17f1f06d9fd0.png",
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Parasect (파라섹트), bug / grass type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a lime-green glow with shimmering wing-like light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "references": [
+        "/workspace/scratch/66a5a06b8a55/generated_images/exec-3d0805b1-67e4-4f29-bf51-d3c0b4c6d563.png",
+        "/workspace/scratch/66a5a06b8a55/generated_images/exec-c2801ce7-306b-4427-b5e5-fb5e64c8c300.png"
+      ],
+      "settings": {
+        "mode": "action",
+        "form": "overdrive",
+        "base_form": "heavy",
+        "style": "glossy_promo",
+        "gender": "f",
+        "custom": ""
+      },
+      "filename": "파라섹트_heavy_overdrive_glossy_promo_f.webp",
+      "repository_path": "img/파라섹트_heavy_overdrive_glossy_promo_f.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "c625da3d391b2aeea1c57426d6460dd831318ca8942be339f07e3e6a71b5dcc2",
+      "sha256": "b76fb8146775f991367036a1e9fc0bb4dbb6733ff3788dfc1673a7ae2c78b5be",
+      "identityReference": "img/파라섹트_light_glossy_promo_f.webp",
+      "evidence": "actual generator UI selections and exact submitted prompt",
+      "visualCheck": "identity, form, framing, hands and outfit reviewed",
+      "referenceFiles": [
+        "img/파라섹트_heavy_glossy_promo_f.webp",
+        "img/파라섹트_light_glossy_promo_f.webp"
+      ]
+    },
+    {
+      "key": "mobility_overdrive",
+      "png": "/workspace/scratch/66a5a06b8a55/generated_images/exec-fdb0b0b4-b6f3-4f7c-a527-411d69edd380.png",
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Parasect (파라섹트), bug / grass type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a lime-green glow with shimmering wing-like light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "references": [
+        "/workspace/scratch/66a5a06b8a55/generated_images/exec-a3487a3e-092f-4c1f-9082-efa3a194f58c.png",
+        "/workspace/scratch/66a5a06b8a55/generated_images/exec-c2801ce7-306b-4427-b5e5-fb5e64c8c300.png"
+      ],
+      "settings": {
+        "mode": "action",
+        "form": "overdrive",
+        "base_form": "mobility",
+        "style": "glossy_promo",
+        "gender": "f",
+        "custom": ""
+      },
+      "filename": "파라섹트_mobility_overdrive_glossy_promo_f.webp",
+      "repository_path": "img/파라섹트_mobility_overdrive_glossy_promo_f.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "9f0449100b753361c3fb9ccefccd85e2d6b54c5390cbaf4052353fee0661f1c8",
+      "sha256": "306790fc6a8529f159fe4aecace1cb76e01ad3ba4ad8f94a51dc47cacd0c04aa",
+      "identityReference": "img/파라섹트_light_glossy_promo_f.webp",
+      "evidence": "actual generator UI selections and exact submitted prompt",
+      "visualCheck": "identity, form, framing, hands and outfit reviewed",
+      "referenceFiles": [
+        "img/파라섹트_mobility_glossy_promo_f.webp",
+        "img/파라섹트_light_glossy_promo_f.webp"
+      ]
+    },
+    {
+      "key": "casual1",
+      "png": "/workspace/scratch/66a5a06b8a55/generated_images/exec-7f78b883-ab79-437e-bc1e-ee80f1e8e4f3.png",
+      "prompt": "CHARACTER: the same woman as the attached image — Parasect (파라섹트) personified, bug / grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement\nPose: Walk at a comfortable pace with a natural step and arm swing.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: Walking through ankle-deep clear water at a quiet resort beach in warm sunset light, little ripples around her feet, no other people.\nOutfit and props: A securely fitted fully lined red two-piece swimsuit, wide-strap scoop-neck sports top and high-waisted swim shorts with small yellow spot print and narrow yellow piping. Chest and pelvis fully covered. One tiny mushroom-shaped hair clip only, no hat, no armor.\nCategory: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.\nExample scene: walking along a wet shoreline in swimwear, wet sand and shallow surf underfoot\nNote: Her bare hands hang relaxed and empty beside her body during the step; each has one thumb and four naturally separated fingers. Keep hands unobstructed by water or effects.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "references": [
+        "/workspace/scratch/66a5a06b8a55/generated_images/exec-c2801ce7-306b-4427-b5e5-fb5e64c8c300.png"
+      ],
+      "settings": {
+        "mode": "casual",
+        "category": "swimwear",
+        "example": "젖은 해변 산책",
+        "expression": "playful",
+        "pose": "걷기",
+        "orientation": "front three-quarter",
+        "framing": "전신",
+        "lens": "50mm",
+        "aspect": "2:3",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold",
+        "style": "glossy_promo",
+        "gender": "f"
+      },
+      "filename": "파라섹트_glossy_promo_f_casual1.webp",
+      "repository_path": "img/파라섹트_glossy_promo_f_casual1.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "original_sha256": "e97ee9ad6d0173b98c05102362c6a22467c1ed680d0af97ea102b0e61b42f980",
+      "sha256": "57b1537714265262de8ff05cee44f543c4521ce84bae3d92bb10cd654b40439e",
+      "identityReference": "img/파라섹트_light_glossy_promo_f.webp",
+      "evidence": "actual generator UI selections and exact submitted prompt",
+      "visualCheck": "identity, form, framing, hands and outfit reviewed",
+      "referenceFiles": [
+        "img/파라섹트_light_glossy_promo_f.webp"
+      ]
+    },
+    {
+      "key": "casual2",
+      "png": "/workspace/scratch/66a5a06b8a55/generated_images/exec-af9c8f97-c676-4276-ab2c-493d7cecc168.png",
+      "prompt": "CHARACTER: the same woman as the attached image — Parasect (파라섹트) personified, bug / grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: gaze angled down and away, slightly furrowed brow, lips lightly pressed or touched\nPose: Sit naturally on a chair or bench with supported feet and readable hands.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: Seated beside a sunlit window in a quiet wooden bookshop, thoughtfully reading an open botanical book on a low table; no other people, no readable lettering.\nOutfit and props: An opaque red sleeveless cropped knit top, high-waisted ochre linen shorts and a tiny mushroom pendant. Shoulders, arms and midriff exposed; chest and pelvis fully covered. No hat, no armor.\nCategory: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.\nExample scene: Bookstore Browsing\nNote: Her two bare hands rest separately at the edges of the open book, relaxed natural fingers, one thumb and four fingers each; no letters on the pages or spines.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nAspect ratio: 3:2\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "references": [
+        "/workspace/scratch/66a5a06b8a55/generated_images/exec-c2801ce7-306b-4427-b5e5-fb5e64c8c300.png"
+      ],
+      "settings": {
+        "mode": "casual",
+        "category": "casual_basic",
+        "example": "서점 구경",
+        "expression": "pensive",
+        "pose": "의자에 앉기",
+        "orientation": "side profile",
+        "framing": "무릎 위",
+        "lens": "35mm",
+        "aspect": "3:2",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold",
+        "style": "glossy_promo",
+        "gender": "f"
+      },
+      "correction": {
+        "prompt": "CHARACTER: the same woman as the attached image — Parasect (파라섹트) personified, bug / grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: gaze angled down and away, slightly furrowed brow, lips lightly pressed or touched\nPose: Sit naturally on a chair or bench with supported feet and readable hands.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: Seated beside a sunlit window in a quiet wooden bookshop, thoughtfully reading an open botanical book on a low table; no other people, no readable lettering.\nOutfit and props: An opaque red sleeveless cropped knit top, high-waisted ochre linen shorts and a tiny mushroom pendant. Shoulders, arms and midriff exposed; chest and pelvis fully covered. No hat, no armor.\nCategory: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.\nExample scene: Bookstore Browsing\nNote: Her two bare hands rest separately at the edges of the open book, relaxed natural fingers, one thumb and four fingers each; no letters on the pages or spines. EDIT the supplied bookshop result: preserve identity, haircut, expression, clothing, seated side view, hand action and lighting. Pull the camera back slightly so the complete hair crown has clear margin above and the lower edge remains just above her knees. Erase every letter-like mark from book pages and spines; retain botanical pictures and plain decorative lines only. The second attached light-form image is the identity reference.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nAspect ratio: 3:2\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+        "references": [
+          "/workspace/scratch/66a5a06b8a55/generated_images/exec-f710d1ac-7740-4fd1-a9cf-f130f1e4fb4e.png",
+          "/workspace/scratch/66a5a06b8a55/generated_images/exec-c2801ce7-306b-4427-b5e5-fb5e64c8c300.png"
+        ],
+        "reason": "head margin and removal of letter-like marks"
+      },
+      "filename": "파라섹트_glossy_promo_f_casual2.webp",
+      "repository_path": "img/파라섹트_glossy_promo_f_casual2.webp",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "original_sha256": "24783dae81b63ceb15bca82453ce4490c4e46038a3fe966a20b1742a3990c377",
+      "sha256": "8ce31b40a2c4ea118c7a518cc190c95bd6cc902419aa0463e8a096c6a5840c8d",
+      "identityReference": "img/파라섹트_light_glossy_promo_f.webp",
+      "evidence": "actual generator UI selections and exact submitted prompt",
+      "visualCheck": "identity, form, framing, hands and outfit reviewed",
+      "referenceFiles": [
+        "img/파라섹트_light_glossy_promo_f.webp"
+      ]
+    },
+    {
+      "key": "casual3",
+      "png": "/workspace/scratch/66a5a06b8a55/generated_images/exec-7d9f43f9-22c3-4952-8505-2704195403b7.png",
+      "prompt": "CHARACTER: the same woman as the attached image — Parasect (파라섹트) personified, bug / grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere\nPose: Raise one hand near shoulder height in a friendly small wave.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: Pausing on a quiet autumn park path under red maple leaves, greeting the camera with a small friendly wave, soft afternoon light, no other people.\nOutfit and props: An opaque off-shoulder ochre cropped blouse with soft gathered sleeves, a high-waisted red skirt and a tiny yellow-spotted mushroom hair clip. Shoulders and midriff exposed; chest and pelvis fully covered. Soft everyday fabrics, no hat, no armor.\nCategory: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.\nNote: One bare hand makes a small relaxed wave near shoulder height with one thumb and four naturally separated fingers; the other rests gently at her waist and stays completely inside the frame. Square waist-up framing ending at the natural waist, with hips and thighs outside the frame.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nAspect ratio: 1:1\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "references": [
+        "/workspace/scratch/66a5a06b8a55/generated_images/exec-c2801ce7-306b-4427-b5e5-fb5e64c8c300.png"
+      ],
+      "settings": {
+        "mode": "casual",
+        "category": "casual_basic",
+        "example": "auto",
+        "expression": "gentle",
+        "pose": "가볍게 손 흔들기",
+        "orientation": "front",
+        "framing": "허리 위",
+        "lens": "85mm",
+        "aspect": "1:1",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold",
+        "style": "glossy_promo",
+        "gender": "f"
+      },
+      "correction": {
+        "prompt": "CHARACTER: the same woman as the attached image — Parasect (파라섹트) personified, bug / grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere\nPose: Raise one hand near shoulder height in a friendly small wave.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: Pausing on a quiet autumn park path under red maple leaves, greeting the camera with a small friendly wave, soft afternoon light, no other people.\nOutfit and props: An opaque off-shoulder ochre cropped blouse with soft gathered sleeves, a high-waisted red skirt and a tiny yellow-spotted mushroom hair clip. Shoulders and midriff exposed; chest and pelvis fully covered. Soft everyday fabrics, no hat, no armor.\nCategory: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.\nNote: One bare hand makes a small relaxed wave near shoulder height with one thumb and four naturally separated fingers; the other rests gently at her waist and stays completely inside the frame. Square waist-up framing ending at the natural waist, with hips and thighs outside the frame. EDIT the supplied park result: keep the same identity, face, hair, gentle expression, wave, clothing, light and background. Recompose as a strict square WAIST-UP portrait; the lower edge ends at the natural waist above the belt, with skirt, hips, thighs and bag below the waist outside the picture. Raise the resting hand only enough to rest at the natural waist and keep its five digits fully visible. Keep the entire head and waving hand inside with clear margins. The second attached light-form image is the identity reference.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nAspect ratio: 1:1\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+        "references": [
+          "/workspace/scratch/66a5a06b8a55/generated_images/exec-abc4f1dc-6e9d-486f-9d99-944cd17856a2.png",
+          "/workspace/scratch/66a5a06b8a55/generated_images/exec-c2801ce7-306b-4427-b5e5-fb5e64c8c300.png"
+        ],
+        "reason": "match selected waist-up framing"
+      },
+      "filename": "파라섹트_glossy_promo_f_casual3.webp",
+      "repository_path": "img/파라섹트_glossy_promo_f_casual3.webp",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "original_sha256": "7c1ca0c6c934f732fb87e70fd7156c68958427895054ebd3b945300665131e23",
+      "sha256": "2504e8ea2e38f636775134836406074430971e928d92ed991c398e57c81f48a3",
+      "identityReference": "img/파라섹트_light_glossy_promo_f.webp",
+      "evidence": "actual generator UI selections and exact submitted prompt",
+      "visualCheck": "identity, form, framing, hands and outfit reviewed",
+      "referenceFiles": [
+        "img/파라섹트_light_glossy_promo_f.webp"
+      ]
+    }
+  ],
+  "casual_plan": [
+    {
+      "key": "casual1",
+      "settings": {
+        "mode": "casual",
+        "category": "swimwear",
+        "example": "젖은 해변 산책",
+        "expression": "playful",
+        "pose": "걷기",
+        "orientation": "front three-quarter",
+        "framing": "전신",
+        "lens": "50mm",
+        "aspect": "2:3",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Parasect (파라섹트) personified, bug / grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement\nPose: Walk at a comfortable pace with a natural step and arm swing.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: Walking through ankle-deep clear water at a quiet resort beach in warm sunset light, little ripples around her feet, no other people.\nOutfit and props: A securely fitted fully lined red two-piece swimsuit, wide-strap scoop-neck sports top and high-waisted swim shorts with small yellow spot print and narrow yellow piping. Chest and pelvis fully covered. One tiny mushroom-shaped hair clip only, no hat, no armor.\nCategory: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.\nExample scene: walking along a wet shoreline in swimwear, wet sand and shallow surf underfoot\nNote: Her bare hands hang relaxed and empty beside her body during the step; each has one thumb and four naturally separated fingers. Keep hands unobstructed by water or effects.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "reference": "/workspace/scratch/66a5a06b8a55/generated_images/exec-c2801ce7-306b-4427-b5e5-fb5e64c8c300.png"
+    },
+    {
+      "key": "casual2",
+      "settings": {
+        "mode": "casual",
+        "category": "casual_basic",
+        "example": "서점 구경",
+        "expression": "pensive",
+        "pose": "의자에 앉기",
+        "orientation": "side profile",
+        "framing": "무릎 위",
+        "lens": "35mm",
+        "aspect": "3:2",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Parasect (파라섹트) personified, bug / grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: gaze angled down and away, slightly furrowed brow, lips lightly pressed or touched\nPose: Sit naturally on a chair or bench with supported feet and readable hands.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: Seated beside a sunlit window in a quiet wooden bookshop, thoughtfully reading an open botanical book on a low table; no other people, no readable lettering.\nOutfit and props: An opaque red sleeveless cropped knit top, high-waisted ochre linen shorts and a tiny mushroom pendant. Shoulders, arms and midriff exposed; chest and pelvis fully covered. No hat, no armor.\nCategory: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.\nExample scene: Bookstore Browsing\nNote: Her two bare hands rest separately at the edges of the open book, relaxed natural fingers, one thumb and four fingers each; no letters on the pages or spines.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nAspect ratio: 3:2\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "reference": "/workspace/scratch/66a5a06b8a55/generated_images/exec-c2801ce7-306b-4427-b5e5-fb5e64c8c300.png"
+    },
+    {
+      "key": "casual3",
+      "settings": {
+        "mode": "casual",
+        "category": "casual_basic",
+        "example": "auto",
+        "expression": "gentle",
+        "pose": "가볍게 손 흔들기",
+        "orientation": "front",
+        "framing": "허리 위",
+        "lens": "85mm",
+        "aspect": "1:1",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Parasect (파라섹트) personified, bug / grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere\nPose: Raise one hand near shoulder height in a friendly small wave.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: Pausing on a quiet autumn park path under red maple leaves, greeting the camera with a small friendly wave, soft afternoon light, no other people.\nOutfit and props: An opaque off-shoulder ochre cropped blouse with soft gathered sleeves, a high-waisted red skirt and a tiny yellow-spotted mushroom hair clip. Shoulders and midriff exposed; chest and pelvis fully covered. Soft everyday fabrics, no hat, no armor.\nCategory: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.\nNote: One bare hand makes a small relaxed wave near shoulder height with one thumb and four naturally separated fingers; the other rests gently at her waist and stays completely inside the frame. Square waist-up framing ending at the natural waist, with hips and thighs outside the frame.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nAspect ratio: 1:1\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "reference": "/workspace/scratch/66a5a06b8a55/generated_images/exec-c2801ce7-306b-4427-b5e5-fb5e64c8c300.png"
+    }
+  ],
+  "canonical_repository_path": "img/파라섹트_light_glossy_promo_f.webp",
+  "canonical_sha256": "8ecd8406fe1fec326932d3f73651ab6c1b72f3430759bf537f1f441319d95af0"
+}
