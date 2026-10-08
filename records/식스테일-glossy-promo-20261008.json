@@ -1,0 +1,774 @@
+{
+  "card": "식스테일",
+  "date": "2026-10-08",
+  "style": "glossy_promo",
+  "generator": "actual UI: https://polos0117.github.io/pkm-atelier/prompt.html; output matched checksum",
+  "generation_tool": "built-in image_gen",
+  "canonical_slot": "light",
+  "canonical_sha256": "4f9a6bece488989d0659b630f0e045e6ab2f4f62c838913a4b4c7b651882ff00",
+  "requested_count": 9,
+  "generated_count": 9,
+  "assets": [
+    {
+      "card": "식스테일",
+      "slot": "light",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/f80e9d314c58/generated_images/exec-9d42ed9d-878b-44e5-ad03-242cc57f6902.png",
+      "filename": "img/식스테일_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4f9a6bece488989d0659b630f0e045e6ab2f4f62c838913a4b4c7b651882ff00",
+      "reference_slot": null,
+      "selection": {
+        "mech": "식스테일",
+        "sourceName": "Vulpix",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "식스테일",
+          "en": "Vulpix",
+          "color": "brown",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "tail",
+              "detail": "orange tails"
+            },
+            {
+              "part": "pelt",
+              "detail": "red-brown pelt"
+            },
+            {
+              "part": "nose",
+              "detail": "triangular dark brown nose"
+            },
+            {
+              "part": "fur",
+              "detail": "orange fur"
+            },
+            {
+              "part": "ear",
+              "detail": "large, pointed ears"
+            },
+            {
+              "part": "tip",
+              "detail": "curled tips"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Vulpix_%28Pok%C3%A9mon%29",
+          "revision": 4630039,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "3e7bbcfdb8a4618d925de961233e31959b2a226e1f13a9b5a4c8e943546f6da5",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "action",
+        "identityMode": "create",
+        "form": "light",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "expr": "playful",
+        "scene": "A warm autumn garden training courtyard at golden hour, red maple leaves, russet stone paving and soft amber light; standing with both hands relaxed and clearly visible."
+      },
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Vulpix (식스테일), fire type.\n\nPALETTE: orange, red-brown, dark brown.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Vulpix as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the orange tails become a long sash hanging from the back of her belt, in the same shape and colors; the red-brown pelt becomes part of her outfit over the armor; the large, pointed ears become a headpiece or hair ornament of the same shape.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nExpression: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement\nScene: A warm autumn garden training courtyard at golden hour, red maple leaves, russet stone paving and soft amber light; standing with both hands relaxed and clearly visible.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "ui_checksum": 4235399816,
+      "ui_verified": true,
+      "git_blob_sha": "8fadad36ff9cf9af780ce6ced148df5de8290e10",
+      "original_sha256": "f2bcde728e07d355c61dd967edaf98531d29f0d828d696c1d5049232dd407849",
+      "initial_original": "generated_images/exec-931d68a8-3790-4a33-95e9-8b8db6d8b59f.png",
+      "correction": "Camera framing only: complete pointed-ear ornaments and boots within margins."
+    },
+    {
+      "card": "식스테일",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/f80e9d314c58/generated_images/exec-5a58215c-7974-4305-829d-f607913d4aa3.png",
+      "filename": "img/식스테일_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "38e11af8a631a13855d9cea6f511f8f48ff2e16e12895d2b396331d541ad2192",
+      "reference_slot": "light",
+      "selection": {
+        "mech": "식스테일",
+        "sourceName": "Vulpix",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "식스테일",
+          "en": "Vulpix",
+          "color": "brown",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "tail",
+              "detail": "orange tails"
+            },
+            {
+              "part": "pelt",
+              "detail": "red-brown pelt"
+            },
+            {
+              "part": "nose",
+              "detail": "triangular dark brown nose"
+            },
+            {
+              "part": "fur",
+              "detail": "orange fur"
+            },
+            {
+              "part": "ear",
+              "detail": "large, pointed ears"
+            },
+            {
+              "part": "tip",
+              "detail": "curled tips"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Vulpix_%28Pok%C3%A9mon%29",
+          "revision": 4630039,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "3e7bbcfdb8a4618d925de961233e31959b2a226e1f13a9b5a4c8e943546f6da5",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "heavy",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "expr": "playful",
+        "scene": "A warm autumn garden training courtyard at golden hour, red maple leaves, russet stone paving and soft amber light; standing with both hands relaxed and clearly visible.",
+        "pose": "braced_stance"
+      },
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Vulpix (식스테일), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nExpression: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement\nPose: Plant both feet firmly in a grounded bracing stance, using posture rather than a larger body to convey weight.\nScene: A warm autumn garden training courtyard at golden hour, red maple leaves, russet stone paving and soft amber light; standing with both hands relaxed and clearly visible.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "ui_checksum": 2008528102,
+      "ui_verified": true,
+      "git_blob_sha": "9dfbc0fbb20be927e1fe54eba35727dfabbff7f6",
+      "original_sha256": "5b1f6572cba685d8a6cb7c278e93b16800761cd4b175fa4a6bffd9452f4180c5"
+    },
+    {
+      "card": "식스테일",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/f80e9d314c58/generated_images/exec-84060924-4842-44fb-afdb-7169fc9343c6.png",
+      "filename": "img/식스테일_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e62122fc8e6bd6bbe52db62bfa894dc0cb775ebaf9674fd24308929c15da51ba",
+      "reference_slot": "light",
+      "selection": {
+        "mech": "식스테일",
+        "sourceName": "Vulpix",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "식스테일",
+          "en": "Vulpix",
+          "color": "brown",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "tail",
+              "detail": "orange tails"
+            },
+            {
+              "part": "pelt",
+              "detail": "red-brown pelt"
+            },
+            {
+              "part": "nose",
+              "detail": "triangular dark brown nose"
+            },
+            {
+              "part": "fur",
+              "detail": "orange fur"
+            },
+            {
+              "part": "ear",
+              "detail": "large, pointed ears"
+            },
+            {
+              "part": "tip",
+              "detail": "curled tips"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Vulpix_%28Pok%C3%A9mon%29",
+          "revision": 4630039,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "3e7bbcfdb8a4618d925de961233e31959b2a226e1f13a9b5a4c8e943546f6da5",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "mobility",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "expr": "playful",
+        "scene": "A warm autumn garden training courtyard at golden hour, red maple leaves, russet stone paving and soft amber light; standing with both hands relaxed and clearly visible.",
+        "pose": "cross_step"
+      },
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Vulpix (식스테일), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nExpression: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement\nPose: Use a brief crossing step to redirect travel with clearly separated legs and stable balance.\nScene: A warm autumn garden training courtyard at golden hour, red maple leaves, russet stone paving and soft amber light; standing with both hands relaxed and clearly visible.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "ui_checksum": 3413820877,
+      "ui_verified": true,
+      "git_blob_sha": "332d0a40c00ad2f8668a07489e201bdf600b7652",
+      "original_sha256": "30ae4d3c7b246ed34e9aa001314ecbdc1685191fcb069f16943784dc0ac945b2"
+    },
+    {
+      "card": "식스테일",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/f80e9d314c58/generated_images/exec-e3ebadb9-028a-4eaf-b455-cb19d5294da8.png",
+      "filename": "img/식스테일_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "758172e7212172e74e31027a141aec625c2dd1d22bb48e54633384462040df32",
+      "reference_slot": "light",
+      "selection": {
+        "mech": "식스테일",
+        "sourceName": "Vulpix",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "식스테일",
+          "en": "Vulpix",
+          "color": "brown",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "tail",
+              "detail": "orange tails"
+            },
+            {
+              "part": "pelt",
+              "detail": "red-brown pelt"
+            },
+            {
+              "part": "nose",
+              "detail": "triangular dark brown nose"
+            },
+            {
+              "part": "fur",
+              "detail": "orange fur"
+            },
+            {
+              "part": "ear",
+              "detail": "large, pointed ears"
+            },
+            {
+              "part": "tip",
+              "detail": "curled tips"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Vulpix_%28Pok%C3%A9mon%29",
+          "revision": 4630039,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "3e7bbcfdb8a4618d925de961233e31959b2a226e1f13a9b5a4c8e943546f6da5",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "action",
+        "identityMode": "create",
+        "form": "overdrive",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "expr": "playful",
+        "scene": "A warm autumn garden training courtyard at golden hour, red maple leaves, russet stone paving and soft amber light; standing with both hands relaxed and clearly visible.",
+        "baseForm": "light"
+      },
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Vulpix (식스테일), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_checksum": 2826479022,
+      "ui_verified": true,
+      "git_blob_sha": "13530b04befc1694d230be6aa7f285bffe9c81cf",
+      "original_sha256": "9da0b9b4774081e67425dd8e8ba4efb7c6ed45a6ce7bbfb3d902d51891a9dedd"
+    },
+    {
+      "card": "식스테일",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/f80e9d314c58/generated_images/exec-90da6923-9ea4-4012-afab-5deed2688745.png",
+      "filename": "img/식스테일_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "8915608551b9b69fd14b7c404728e8e1daf5c8b4b6a1b908ffb457f3b5ca7a91",
+      "reference_slot": "heavy",
+      "selection": {
+        "mech": "식스테일",
+        "sourceName": "Vulpix",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "식스테일",
+          "en": "Vulpix",
+          "color": "brown",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "tail",
+              "detail": "orange tails"
+            },
+            {
+              "part": "pelt",
+              "detail": "red-brown pelt"
+            },
+            {
+              "part": "nose",
+              "detail": "triangular dark brown nose"
+            },
+            {
+              "part": "fur",
+              "detail": "orange fur"
+            },
+            {
+              "part": "ear",
+              "detail": "large, pointed ears"
+            },
+            {
+              "part": "tip",
+              "detail": "curled tips"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Vulpix_%28Pok%C3%A9mon%29",
+          "revision": 4630039,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "3e7bbcfdb8a4618d925de961233e31959b2a226e1f13a9b5a4c8e943546f6da5",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "action",
+        "identityMode": "create",
+        "form": "overdrive",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "expr": "playful",
+        "scene": "A warm autumn garden training courtyard at golden hour, red maple leaves, russet stone paving and soft amber light; standing with both hands relaxed and clearly visible.",
+        "baseForm": "heavy"
+      },
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Vulpix (식스테일), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_checksum": 3342374739,
+      "ui_verified": true,
+      "git_blob_sha": "48644e13d4c39db66af2228ba35a963d51d22cb3",
+      "original_sha256": "d4f741b6e823db35853ba20790d7646ad1dd0cfeaada187c2a91a5f47dfaed02"
+    },
+    {
+      "card": "식스테일",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/f80e9d314c58/generated_images/exec-649155b3-4c75-4a40-bc5c-80de59589fc4.png",
+      "filename": "img/식스테일_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b49e08ae9df1a7e7cb72d9463f38fd5ed18c1f52dcf28a8fdbdbe0d96204126f",
+      "reference_slot": "mobility",
+      "selection": {
+        "mech": "식스테일",
+        "sourceName": "Vulpix",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "식스테일",
+          "en": "Vulpix",
+          "color": "brown",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "tail",
+              "detail": "orange tails"
+            },
+            {
+              "part": "pelt",
+              "detail": "red-brown pelt"
+            },
+            {
+              "part": "nose",
+              "detail": "triangular dark brown nose"
+            },
+            {
+              "part": "fur",
+              "detail": "orange fur"
+            },
+            {
+              "part": "ear",
+              "detail": "large, pointed ears"
+            },
+            {
+              "part": "tip",
+              "detail": "curled tips"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Vulpix_%28Pok%C3%A9mon%29",
+          "revision": 4630039,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "3e7bbcfdb8a4618d925de961233e31959b2a226e1f13a9b5a4c8e943546f6da5",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "action",
+        "identityMode": "create",
+        "form": "overdrive",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "expr": "playful",
+        "scene": "A warm autumn garden training courtyard at golden hour, red maple leaves, russet stone paving and soft amber light; standing with both hands relaxed and clearly visible.",
+        "baseForm": "mobility"
+      },
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Vulpix (식스테일), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_checksum": 2824275895,
+      "ui_verified": true,
+      "git_blob_sha": "c839d388fa04960deddf0731487cd616d19c04bc",
+      "original_sha256": "f16a852613b9da778c2562ed9e181c32e339b43137521e6a12c8b6ab0ded2219"
+    },
+    {
+      "card": "식스테일",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/f80e9d314c58/generated_images/exec-47fa907b-430b-428b-8913-f1d158d88a57.png",
+      "filename": "img/식스테일_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4c3268fbbf7065169d436b8f0cd3e41373b155d79ac421376869fcd96b6b4bc2",
+      "reference_slot": "light",
+      "selection": {
+        "mech": "식스테일",
+        "sourceName": "Vulpix",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "식스테일",
+          "en": "Vulpix",
+          "color": "brown",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "tail",
+              "detail": "orange tails"
+            },
+            {
+              "part": "pelt",
+              "detail": "red-brown pelt"
+            },
+            {
+              "part": "nose",
+              "detail": "triangular dark brown nose"
+            },
+            {
+              "part": "fur",
+              "detail": "orange fur"
+            },
+            {
+              "part": "ear",
+              "detail": "large, pointed ears"
+            },
+            {
+              "part": "tip",
+              "detail": "curled tips"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Vulpix_%28Pok%C3%A9mon%29",
+          "revision": 4630039,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "3e7bbcfdb8a4618d925de961233e31959b2a226e1f13a9b5a4c8e943546f6da5",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "form": "light",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "expr": "laughing_open",
+        "scene": "Walking barefoot along the shallow edge of an outdoor resort pool with autumn maples and warm late-afternoon sunlight, laughing with eyes open toward the viewer; both hands relaxed and visible.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "cat": "swimwear",
+        "pose": "walking",
+        "orient": "front_3q",
+        "frame": "full_body",
+        "lens": "documentary35",
+        "outfit": "An opaque burnt-orange two-piece swimsuit with secure supportive cups, wide russet shoulder straps, dark-brown piping and lined high-cut briefs; a tiny curled-tail gold pendant and a plain hair ribbon. Remove all armor, ear-shaped ornaments, fur trim and tail-shaped sashes; keep only the tiny pendant and palette echo."
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Vulpix (식스테일) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: mouth open wide in a laugh with teeth showing and cheeks raised, but the eyes stay open and engaged — lids only slightly narrowed, gaze still readable rather than squeezed shut\nPose: Walk at a comfortable pace with a natural step and arm swing.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: Walking barefoot along the shallow edge of an outdoor resort pool with autumn maples and warm late-afternoon sunlight, laughing with eyes open toward the viewer; both hands relaxed and visible.\nOutfit and props: An opaque burnt-orange two-piece swimsuit with secure supportive cups, wide russet shoulder straps, dark-brown piping and lined high-cut briefs; a tiny curled-tail gold pendant and a plain hair ribbon. Remove all armor, ear-shaped ornaments, fur trim and tail-shaped sashes; keep only the tiny pendant and palette echo.\nCategory: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_checksum": 3601458301,
+      "ui_verified": true,
+      "git_blob_sha": "16dff4565cff2011f702de43af71f601fb672f39",
+      "original_sha256": "1d8ad72def6a50832edb61312f936137af149d6dbfa6d32cf85e989babc20f25"
+    },
+    {
+      "card": "식스테일",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/f80e9d314c58/generated_images/exec-32e6b229-d95f-477c-b549-2881c267e25d.png",
+      "filename": "img/식스테일_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c132cd1f5fb37f28921a943b3b6fb38e321c50e739a75e99eaf9153b62522035",
+      "reference_slot": "light",
+      "selection": {
+        "mech": "식스테일",
+        "sourceName": "Vulpix",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "식스테일",
+          "en": "Vulpix",
+          "color": "brown",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "tail",
+              "detail": "orange tails"
+            },
+            {
+              "part": "pelt",
+              "detail": "red-brown pelt"
+            },
+            {
+              "part": "nose",
+              "detail": "triangular dark brown nose"
+            },
+            {
+              "part": "fur",
+              "detail": "orange fur"
+            },
+            {
+              "part": "ear",
+              "detail": "large, pointed ears"
+            },
+            {
+              "part": "tip",
+              "detail": "curled tips"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Vulpix_%28Pok%C3%A9mon%29",
+          "revision": 4630039,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "3e7bbcfdb8a4618d925de961233e31959b2a226e1f13a9b5a4c8e943546f6da5",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "form": "light",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "expr": "focused",
+        "scene": "At a bright kitchen island preparing a bowl of berry dessert, stirring with a small wooden spoon in one hand while the other steadies the bowl; body in side profile and attentive focused face visible. Crop from complete head to just above the knees, keeping the bowl and both hands visible.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "cat": "food_berries",
+        "pose": "preparing_food",
+        "orient": "side",
+        "frame": "three_quarter",
+        "lens": "natural50",
+        "outfit": "A fitted burnt-orange cropped sleeveless top with secure wide straps, high-waisted dark-brown shorts and a short waist apron with warm cream trim; a tiny curled-tail pendant and a plain hair ribbon. Bare shoulders, midriff and legs. Remove armor, pointed-ear ornaments, fur trim and tail sashes."
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Vulpix (식스테일) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed\nPose: Work at a kitchen counter, stirring a bowl or arranging ingredients with clearly separated hands and utensils.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: At a bright kitchen island preparing a bowl of berry dessert, stirring with a small wooden spoon in one hand while the other steadies the bowl; body in side profile and attentive focused face visible. Crop from complete head to just above the knees, keeping the bowl and both hands visible.\nOutfit and props: A fitted burnt-orange cropped sleeveless top with secure wide straps, high-waisted dark-brown shorts and a short waist apron with warm cream trim; a tiny curled-tail pendant and a plain hair ribbon. Bare shoulders, midriff and legs. Remove armor, pointed-ear ornaments, fur trim and tail sashes.\nCategory: Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_checksum": 3797909095,
+      "ui_verified": true,
+      "git_blob_sha": "17f8663698e0313d4cdacf98b9d8f7697c474f15",
+      "original_sha256": "2016cc3d8c5282c357caea6a57e34d70eda6a94ec1824c82ff0f988e57ff12ab",
+      "initial_original": "generated_images/exec-8cc8db69-ad4c-407e-b7a3-e880485ad425.png",
+      "correction": "Camera framing only: complete upper hairstyle, head-to-above-knees crop."
+    },
+    {
+      "card": "식스테일",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/f80e9d314c58/generated_images/exec-1f45c420-dfb3-477a-b52b-5e22b50a6fe8.png",
+      "filename": "img/식스테일_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "012fdb140771aea326870fa6f9bfd1ccdadb7a98c581ffef03ca6bb921d5a373",
+      "reference_slot": "light",
+      "selection": {
+        "mech": "식스테일",
+        "sourceName": "Vulpix",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "식스테일",
+          "en": "Vulpix",
+          "color": "brown",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "tail",
+              "detail": "orange tails"
+            },
+            {
+              "part": "pelt",
+              "detail": "red-brown pelt"
+            },
+            {
+              "part": "nose",
+              "detail": "triangular dark brown nose"
+            },
+            {
+              "part": "fur",
+              "detail": "orange fur"
+            },
+            {
+              "part": "ear",
+              "detail": "large, pointed ears"
+            },
+            {
+              "part": "tip",
+              "detail": "curled tips"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Vulpix_%28Pok%C3%A9mon%29",
+          "revision": 4630039,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "3e7bbcfdb8a4618d925de961233e31959b2a226e1f13a9b5a4c8e943546f6da5",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "form": "light",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "expr": "calm",
+        "scene": "Reading quietly in a sunlit window seat with a small open book held at chest height in both hands, calm adult face looking just over the pages toward the viewer. Strict waist-up composition: complete head and both hands inside, frame ending at the natural waist; no shorts or legs visible.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "cat": "hobbies_leisure",
+        "pose": "reading_book",
+        "orient": "front",
+        "frame": "waist_up",
+        "lens": "portrait85",
+        "outfit": "An opaque cream cropped ribbed camisole with wide russet straps and burnt-orange edging, dark-brown lounge shorts entirely below the crop, a tiny curled-tail gold pendant and plain hair ribbon; bare shoulders and midriff. Remove armor, ear-shaped ornaments, fur trim and tail-shaped sashes. Book pages have no readable text."
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Vulpix (식스테일) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: relaxed brow, softly open eyes, lips closed and unstrained, no smile\nPose: Hold an open book with readable finger placement and look toward its pages.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: Reading quietly in a sunlit window seat with a small open book held at chest height in both hands, calm adult face looking just over the pages toward the viewer. Strict waist-up composition: complete head and both hands inside, frame ending at the natural waist; no shorts or legs visible.\nOutfit and props: An opaque cream cropped ribbed camisole with wide russet straps and burnt-orange edging, dark-brown lounge shorts entirely below the crop, a tiny curled-tail gold pendant and plain hair ribbon; bare shoulders and midriff. Remove armor, ear-shaped ornaments, fur trim and tail-shaped sashes. Book pages have no readable text.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_checksum": 3416091914,
+      "ui_verified": true,
+      "git_blob_sha": "0ac61de68345e6a08a4536d421d2f71db8c687d8",
+      "original_sha256": "df33cfaedd8b78d0451d46669ecbe6f6fb32f7b33febad0012d8185c8aad2d82",
+      "initial_original": "generated_images/exec-aab22d9a-2847-4eca-a082-f2f7746e08b2.png",
+      "correction": "Camera framing only in two steps: strict waist-up, complete upper hair and both hands within margins."
+    }
+  ],
+  "upload_status": "pending",
+  "review": {
+    "all_nine_prompts_verified_against_actual_UI": true,
+    "closed_open_pairs_same_camera_pose_scale": true,
+    "identity_continuity_reviewed": true,
+    "hands_reviewed": true,
+    "casual_required_category": "swimwear",
+    "casual_diverse_expression_pose_orientation_framing": true,
+    "all_casual_intensity": "strong",
+    "all_casual_skin_exposure": "bold"
+  },
+  "corrections": [
+    {
+      "slot": "light",
+      "reference_original": "generated_images/exec-931d68a8-3790-4a33-95e9-8b8db6d8b59f.png",
+      "submitted_prompt": "Edit only the framing of this clearly adult Vulpix woman card art. Preserve her exact face, long curled orange hair, amber eyes, body proportions, slim orange and dark-brown armor, pointed-ear hair ornaments, curled orange belt sash, hands, standing pose and autumn garden scene. Zoom the camera out slightly so both pointed-ear ornaments, the complete hair and both boots are entirely inside the vertical 2:3 image, with clear small margins above and below. The upper ear ornament currently touches and is cut by the top edge; fully reveal its tip and leave breathing room. Do not redesign any ornament or clothing, do not change the pose. Same glossy anime promotional key art. Natural hands with one thumb and four fingers each. Output 1024x1536, no text or logo."
+    },
+    {
+      "slot": "casual2",
+      "reference_original": "/workspace/scratch/f80e9d314c58/generated_images/exec-8cc8db69-ad4c-407e-b7a3-e880485ad425.png",
+      "submitted_prompt": "Edit only the camera framing of this approved clearly adult Vulpix woman's berry-cooking scene. Preserve her exact face, orange curled hair and hairstyle, clothes, apron, pendant, profile body direction, stirring gesture, both hands, spoon and bowl, and warm kitchen. Reframe slightly upward and zoom out only enough to place her complete hair and hair ribbon entirely inside the top edge with a small clear margin. Keep the chosen three-quarter crop from the complete head to just above the knees, with both hands and bowl fully visible. Do not cut the top of her hair. Do not change her face, clothing, hand gesture or objects. Same glossy anime promotional key art, 1024x1536 vertical 2:3. Natural five-digit hands, no text, no logo."
+    },
+    {
+      "slot": "casual3",
+      "reference_original": "/workspace/scratch/f80e9d314c58/generated_images/exec-aab22d9a-2847-4eca-a082-f2f7746e08b2.png",
+      "submitted_prompt": "Edit only the camera framing of this approved clearly adult Vulpix woman's reading scene. Preserve her exact face, calm expression, eye colors, orange curly hair and hairstyle, camisole, pendant, book, both hands holding the book and warm window-seat setting. Change only the framing to a strict waist-up portrait: complete hair and hair ribbon inside the top edge with a small margin, complete face, shoulders, torso, book and both hands inside the image, ending at the natural waist. Shorts, all legs and the cup must fall outside the image below the bottom edge. Make the subject fill this crop while fitting the complete top of her hairstyle. Do not alter her face, body, clothes, book or hand gesture. Same glossy anime promotional key art, 1024x1536 vertical 2:3. Natural five-digit hands. No text, no logo."
+    },
+    {
+      "slot": "casual3",
+      "reference_original": "generated_images/exec-0c2bc669-5a96-45d4-ab52-e03e06d14331.png",
+      "submitted_prompt": "Precise framing repair only. This reference is an approved illustration of an adult woman reading. Her upper hairstyle and the right side of the book and hand are too close to the image edges. Keep face, orange curled hairstyle, calm expression, clothing, body, book, hands and background identical. Recompose a WAIST-UP portrait with enough space for her complete upper hairstyle: its highest curl must be visibly at least 70 pixels BELOW the top border. Both hands, all fingertips and the entire book must be at least 35 pixels INSIDE the left and right borders. Fit these elements by moving the camera slightly farther back and centering her; do not enlarge her, do not turn it into a face close-up. Keep the lower edge at her natural waist, no shorts, hips or legs visible. Fill any added margin with the same warm window-seat background. Output one 1024x1536 vertical 2:3 image in the exact same glossy anime style. No words, logos or new objects."
+    }
+  ]
+}
