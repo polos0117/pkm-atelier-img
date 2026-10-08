@@ -1,0 +1,22 @@
+CHARACTER: the same woman as the attached image — Paras (파라스) personified, bug / grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed
+Pose: Carry the scene's bag, basket or box with believable hand contact and weight.
+Orientation: side body profile, approximately 90 degrees to camera
+Scene: At a forest research cabin, examining a small tray of cultivated mushrooms at chest height, both hands separately support the tray by its edges. Side profile, eyes focused on specimen; knees visible, no other people.
+Outfit and props: Orange cropped sleeveless field vest over an opaque red fitted top and dark green high-waist shorts, hiking boots, a small mushroom pin. Bare arms, midriff and legs, practical warm-weather research clothing.
+Category: Show one believable working moment in the Pokémon world. Choose care, research, conservation, berry cultivation, crafts, travel, contests or battle support. Make the profession readable through a concrete task, practical clothing and relevant tools. Preserve the approved woman; invent her own workwear instead of copying an existing trainer, Gym Leader or Pokémon Center character.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

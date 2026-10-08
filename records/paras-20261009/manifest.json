@@ -1,0 +1,1555 @@
+{
+  "character": "파라스",
+  "source": "Paras",
+  "style": "glossy_promo",
+  "generator": "Actual Preact generator controls through repository DOM harness",
+  "scenes": [
+    {
+      "slot": "casual1",
+      "cat": "adult_roleplay",
+      "expr": "playful",
+      "pose": "contrapposto",
+      "orientation": "front_3q",
+      "frame": "full_body",
+      "scene": "One clearly adult woman in her twenties at the side of a botanical festival stage, giving a playful smile before a forest-explorer themed performance. Comfortable contrapposto stance, both hands relaxed and clearly visible. Eye-level full-body view with feet and hands completely inside the frame. Plain decorative foliage and warm stage lighting, no letters or signs, no other people.",
+      "outfit": "An original forest-explorer stage-event costume: an orange sleeveless zip-up vest over an opaque red fitted sports T-shirt, green tailored high-waist shorts ending at mid-thigh, orange ankle boots and one small mushroom enamel brooch. Chest and pelvis securely covered, bare arms and lower legs. Clearly a theatrical costume for an adult presenter at a botanical festival. No institutional insignia, no armor, no weapons."
+    },
+    {
+      "slot": "casual2",
+      "cat": "occupation_basic",
+      "expr": "focused",
+      "pose": "carrying_something",
+      "orientation": "side",
+      "frame": "three_quarter",
+      "scene": "At a forest research cabin, examining a small tray of cultivated mushrooms at chest height, both hands separately support the tray by its edges. Side profile, eyes focused on specimen; knees visible, no other people.",
+      "outfit": "Orange cropped sleeveless field vest over an opaque red fitted top and dark green high-waist shorts, hiking boots, a small mushroom pin. Bare arms, midriff and legs, practical warm-weather research clothing."
+    },
+    {
+      "slot": "casual3",
+      "cat": "homewear",
+      "expr": "sleepy",
+      "pose": "holding_cup",
+      "orientation": "high_angle",
+      "frame": "waist_up",
+      "scene": "Sitting at a cabin kitchen table on a rainy evening, sleepy half-lidded eyes and a small yawn, one hand loosely wraps a ceramic mug handle while the other rests flat on the table. Both hands completely inside the frame. Camera gently above.",
+      "outfit": "Opaque rust-orange satin camisole with red piping and matching lounge shorts, small mushroom pendant; bare shoulders and arms, loose comfortable evening homewear."
+    }
+  ],
+  "images": [
+    {
+      "slot": "light",
+      "reference": null,
+      "prompt": "light.txt",
+      "uiState": {
+        "last": "파라스",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "파라스": {
+            "style": "glossy_promo",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "the two small red-and-yellow mushrooms become a paired set of small cap-shaped shoulder guards; the sharp claws become angular claw-shaped guards on her gauntlets, both hands remain ordinary human hands",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "orange",
+              "hairstyle": "pixie cut",
+              "eye color": "teal"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "determined",
+                "pose": "low_guard",
+                "orient": "",
+                "scene": "An underground mushroom cultivation chamber with humid stone walkways, amber bioluminescent fungi and soft forest-green rim light. Both empty hands clearly visible, no weapon.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "file": "img/파라스_light_glossy_promo_f.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-80ccc219-e383-4d20-8c3e-6e3e8d890161.png",
+      "format": "WEBP",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "54e32e12e48898343bb115f857215b50fbcb4eb8f153102aad1e0ba4ac6de007",
+      "referenceFile": null,
+      "review": "Visual identity, framing, anatomy and form review passed",
+      "generationMode": "built-in image_gen"
+    },
+    {
+      "slot": "heavy",
+      "reference": "light",
+      "prompt": "heavy.txt",
+      "uiState": {
+        "last": "파라스",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "파라스": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "heavy",
+            "baseForm": "light",
+            "motifs": "the two small red-and-yellow mushrooms become a paired set of small cap-shaped shoulder guards; the sharp claws become angular claw-shaped guards on her gauntlets, both hands remain ordinary human hands",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "orange",
+              "hairstyle": "pixie cut",
+              "eye color": "teal"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "determined",
+                "pose": "braced_stance",
+                "orient": "",
+                "scene": "An underground mushroom cultivation chamber with humid stone walkways, amber bioluminescent fungi and soft forest-green rim light. Both empty hands clearly visible, no weapon.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "file": "img/파라스_heavy_glossy_promo_f.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-1ce3e7ad-e94d-4883-8171-47b176c4b357.png",
+      "format": "WEBP",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "a922f06a929b33f158f09d46019b1dc3554840704cd93da7fd6bdace9d8dea09",
+      "referenceFile": "img/파라스_light_glossy_promo_f.webp",
+      "review": "Visual identity, framing, anatomy and form review passed",
+      "generationMode": "built-in image_gen"
+    },
+    {
+      "slot": "mobility",
+      "reference": "light",
+      "prompt": "mobility.txt",
+      "uiState": {
+        "last": "파라스",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "파라스": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "mobility",
+            "baseForm": "light",
+            "motifs": "the two small red-and-yellow mushrooms become a paired set of small cap-shaped shoulder guards; the sharp claws become angular claw-shaped guards on her gauntlets, both hands remain ordinary human hands",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "orange",
+              "hairstyle": "pixie cut",
+              "eye color": "teal"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "determined",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "An underground mushroom cultivation chamber with humid stone walkways, amber bioluminescent fungi and soft forest-green rim light. Both empty hands clearly visible, no weapon.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "file": "img/파라스_mobility_glossy_promo_f.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-51b6f843-5740-4353-83b1-c95d1518239b.png",
+      "format": "WEBP",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "1317b1eb783d82aa24c562f15621c761ebf8d8fab093f944a167b8de5c1d132d",
+      "referenceFile": "img/파라스_light_glossy_promo_f.webp",
+      "review": "Visual identity, framing, anatomy and form review passed",
+      "generationMode": "built-in image_gen"
+    },
+    {
+      "slot": "light_overdrive",
+      "reference": "light",
+      "prompt": "light_overdrive.txt",
+      "uiState": {
+        "last": "파라스",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "파라스": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "light",
+            "motifs": "the two small red-and-yellow mushrooms become a paired set of small cap-shaped shoulder guards; the sharp claws become angular claw-shaped guards on her gauntlets, both hands remain ordinary human hands",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "orange",
+              "hairstyle": "pixie cut",
+              "eye color": "teal"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "determined",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "An underground mushroom cultivation chamber with humid stone walkways, amber bioluminescent fungi and soft forest-green rim light. Both empty hands clearly visible, no weapon.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "file": "img/파라스_light_overdrive_glossy_promo_f.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-b67cbd36-520f-4cdd-b40b-72f2958513d6.png",
+      "format": "WEBP",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "2472e3d3b9e862888a8c55602616fab45ac38fc870bc84f024d29cc50c4d674d",
+      "referenceFile": "img/파라스_light_glossy_promo_f.webp",
+      "review": "Visual identity, framing, anatomy and form review passed",
+      "generationMode": "built-in image_gen"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "reference": "heavy",
+      "prompt": "heavy_overdrive.txt",
+      "uiState": {
+        "last": "파라스",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "파라스": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "heavy",
+            "motifs": "the two small red-and-yellow mushrooms become a paired set of small cap-shaped shoulder guards; the sharp claws become angular claw-shaped guards on her gauntlets, both hands remain ordinary human hands",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "orange",
+              "hairstyle": "pixie cut",
+              "eye color": "teal"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "determined",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "An underground mushroom cultivation chamber with humid stone walkways, amber bioluminescent fungi and soft forest-green rim light. Both empty hands clearly visible, no weapon.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "file": "img/파라스_heavy_overdrive_glossy_promo_f.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-64134b22-087d-4cbc-aab9-dedde945572d.png",
+      "format": "WEBP",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "53fafb4b26796f581c16aac4f82d24988e2815edc9f1cffcce58eb99fb683f95",
+      "referenceFile": "img/파라스_heavy_glossy_promo_f.webp",
+      "review": "Visual identity, framing, anatomy and form review passed",
+      "generationMode": "built-in image_gen"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "reference": "mobility",
+      "prompt": "mobility_overdrive.txt",
+      "uiState": {
+        "last": "파라스",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "파라스": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "the two small red-and-yellow mushrooms become a paired set of small cap-shaped shoulder guards; the sharp claws become angular claw-shaped guards on her gauntlets, both hands remain ordinary human hands",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "orange",
+              "hairstyle": "pixie cut",
+              "eye color": "teal"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "determined",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "An underground mushroom cultivation chamber with humid stone walkways, amber bioluminescent fungi and soft forest-green rim light. Both empty hands clearly visible, no weapon.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "file": "img/파라스_mobility_overdrive_glossy_promo_f.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-37f7773d-51e6-4736-8f50-b9fa4d8c9997.png",
+      "format": "WEBP",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "7aa4e49467d0ecb17759942f8ceacd3011ee7c23bd8217967f5bc00fca7f2853",
+      "referenceFile": "img/파라스_mobility_glossy_promo_f.webp",
+      "review": "Visual identity, framing, anatomy and form review passed",
+      "generationMode": "built-in image_gen"
+    },
+    {
+      "slot": "casual1",
+      "reference": "light",
+      "prompt": "casual1.txt",
+      "uiState": {
+        "last": "파라스",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "파라스": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "orange",
+              "hairstyle": "pixie cut",
+              "eye color": "teal"
+            },
+            "locks": {},
+            "mode": "casual",
+            "scenes": {
+              "action": {
+                "expr": "determined",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "An underground mushroom cultivation chamber with humid stone walkways, amber bioluminescent fungi and soft forest-green rim light. Both empty hands clearly visible, no weapon.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "playful",
+                "pose": "contrapposto",
+                "orient": "front_3q",
+                "scene": "One clearly adult woman in her twenties at the side of a botanical festival stage, giving a playful smile before a forest-explorer themed performance. Comfortable contrapposto stance, both hands relaxed and clearly visible. Eye-level full-body view with feet and hands completely inside the frame. Plain decorative foliage and warm stage lighting, no letters or signs, no other people.",
+                "outfit": "An original forest-explorer stage-event costume: an orange sleeveless zip-up vest over an opaque red fitted sports T-shirt, green tailored high-waist shorts ending at mid-thigh, orange ankle boots and one small mushroom enamel brooch. Chest and pelvis securely covered, bare arms and lower legs. Clearly a theatrical costume for an adult presenter at a botanical festival. No institutional insignia, no armor, no weapons.",
+                "frame": "full_body",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "adult_roleplay",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {
+                  "overall_intensity": "strong",
+                  "skin_exposure": "bold"
+                },
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "attempts": [
+        {
+          "status": "output moderation rejected",
+          "prompt": "CHARACTER: the same woman as the attached image — Paras (파라스) personified, bug / grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement\nPose: Rest weight on one leg with the opposite knee relaxed in natural contrapposto.\nOrientation: camera below subject looking upward; obey selected framing\nScene: Standing on a natural hot-spring resort deck after swimming, playful expression and one leg bearing her weight. Gentle low camera angle with complete hands and feet visible, empty hands loosely open.\nOutfit and props: Fully lined orange two-piece swimsuit with red panels, opaque cups and securely tied broad straps, matching brief with a tiny mushroom-shaped charm. Bare shoulders, midriff and legs, practical resort swimwear.\nCategory: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+        },
+        {
+          "status": "output moderation rejected",
+          "prompt": "CHARACTER: the same woman as the attached image — Paras (파라스) personified, bug / grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement\nPose: Rest weight on one leg with the opposite knee relaxed in natural contrapposto.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: One clearly adult woman in her twenties standing comfortably on an open-air hot-spring resort deck after swimming, playful smile and relaxed hands. Full-body eye-level view, complete feet and hands in frame.\nOutfit and props: Clearly adult resort sports-swimwear styling: a fully lined, opaque orange one-piece swimsuit with red side panels, a secure scoop neckline, broad supportive straps and a small mushroom charm. Chest and pelvis fully covered, bare arms, legs and shoulders, open back. Fabric stays securely in place.\nCategory: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+        }
+      ],
+      "repairReason": "Raised hand hidden behind head; expose both complete hands",
+      "file": "img/파라스_glossy_promo_f_casual1.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-023775b5-598f-482e-9593-e43cc6519f34.png",
+      "format": "WEBP",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "3d23c68543ed717f7b2f8140a33ff6474375467a76dc7b28d47ae39af195f521",
+      "referenceFile": "img/파라스_light_glossy_promo_f.webp",
+      "review": "Visual identity, framing, anatomy and form review passed",
+      "generationMode": "built-in image_gen",
+      "repairPrompt": "Edit only the attached event-fashion image. Preserve the same clearly adult woman, her face, teal eyes, orange pixie hair, body proportions, outfit, standing stance, full-body 2:3 composition, framing, lighting and festival stage background exactly. Correct ONLY the raised arm on the LEFT side of the image (the woman's anatomical right): lower that arm so the hand hangs comfortably beside her waist, with the entire hand unobstructed and visible. Make it a relaxed ordinary human hand with exactly one thumb and four fingers, clear natural joints, separated fingertips and realistic lengths. Keep the other hand as an ordinary five-digit hand. No extra fingers, no missing fingers, no text, no logos, no weapons, no armor. Do not alter the clothing or character identity."
+    },
+    {
+      "slot": "casual2",
+      "reference": "light",
+      "prompt": "casual2.txt",
+      "uiState": {
+        "last": "파라스",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "파라스": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "orange",
+              "hairstyle": "pixie cut",
+              "eye color": "teal"
+            },
+            "locks": {},
+            "mode": "casual",
+            "scenes": {
+              "action": {
+                "expr": "determined",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "An underground mushroom cultivation chamber with humid stone walkways, amber bioluminescent fungi and soft forest-green rim light. Both empty hands clearly visible, no weapon.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "focused",
+                "pose": "carrying_something",
+                "orient": "side",
+                "scene": "At a forest research cabin, examining a small tray of cultivated mushrooms at chest height, both hands separately support the tray by its edges. Side profile, eyes focused on specimen; knees visible, no other people.",
+                "outfit": "Orange cropped sleeveless field vest over an opaque red fitted top and dark green high-waist shorts, hiking boots, a small mushroom pin. Bare arms, midriff and legs, practical warm-weather research clothing.",
+                "frame": "three_quarter",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "occupation_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {
+                  "overall_intensity": "strong",
+                  "skin_exposure": "bold"
+                },
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "file": "img/파라스_glossy_promo_f_casual2.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-b8c2b0c9-070a-47d6-b868-4827a8d084a2.png",
+      "format": "WEBP",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "3aa0e43bbdb7d6bd6bbea8d9697a8a4ed6b4a94800921086f05213017b0769ec",
+      "referenceFile": "img/파라스_light_glossy_promo_f.webp",
+      "review": "Visual identity, framing, anatomy and form review passed",
+      "generationMode": "built-in image_gen"
+    },
+    {
+      "slot": "casual3",
+      "reference": "light",
+      "prompt": "casual3.txt",
+      "uiState": {
+        "last": "파라스",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "파라스": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "orange",
+              "hairstyle": "pixie cut",
+              "eye color": "teal"
+            },
+            "locks": {},
+            "mode": "casual",
+            "scenes": {
+              "action": {
+                "expr": "determined",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "An underground mushroom cultivation chamber with humid stone walkways, amber bioluminescent fungi and soft forest-green rim light. Both empty hands clearly visible, no weapon.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "sleepy",
+                "pose": "holding_cup",
+                "orient": "high_angle",
+                "scene": "Sitting at a cabin kitchen table on a rainy evening, sleepy half-lidded eyes and a small yawn, one hand loosely wraps a ceramic mug handle while the other rests flat on the table. Both hands completely inside the frame. Camera gently above.",
+                "outfit": "Opaque rust-orange satin camisole with red piping and matching lounge shorts, small mushroom pendant; bare shoulders and arms, loose comfortable evening homewear.",
+                "frame": "waist_up",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "homewear",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {
+                  "overall_intensity": "strong",
+                  "skin_exposure": "bold"
+                },
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "file": "img/파라스_glossy_promo_f_casual3.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-f553cf08-e090-4514-965b-cfecda33a1d0.png",
+      "format": "WEBP",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "3da7afcc4295b83b2262a91dc02818acb7af6e7927c3fd44490001725760708f",
+      "referenceFile": "img/파라스_light_glossy_promo_f.webp",
+      "review": "Visual identity, framing, anatomy and form review passed",
+      "generationMode": "built-in image_gen"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "stage": "9/9 visually confirmed; ready for pre-upload checks",
+  "repository": "polos0117/pkm-atelier-img",
+  "canonicalReference": "img/파라스_light_glossy_promo_f.webp",
+  "completed": [
+    {
+      "slot": "light",
+      "file": "img/파라스_light_glossy_promo_f.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-80ccc219-e383-4d20-8c3e-6e3e8d890161.png",
+      "sha256": "54e32e12e48898343bb115f857215b50fbcb4eb8f153102aad1e0ba4ac6de007",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": null
+    },
+    {
+      "slot": "heavy",
+      "file": "img/파라스_heavy_glossy_promo_f.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-1ce3e7ad-e94d-4883-8171-47b176c4b357.png",
+      "sha256": "a922f06a929b33f158f09d46019b1dc3554840704cd93da7fd6bdace9d8dea09",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/파라스_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "mobility",
+      "file": "img/파라스_mobility_glossy_promo_f.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-51b6f843-5740-4353-83b1-c95d1518239b.png",
+      "sha256": "1317b1eb783d82aa24c562f15621c761ebf8d8fab093f944a167b8de5c1d132d",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/파라스_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "light_overdrive",
+      "file": "img/파라스_light_overdrive_glossy_promo_f.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-b67cbd36-520f-4cdd-b40b-72f2958513d6.png",
+      "sha256": "2472e3d3b9e862888a8c55602616fab45ac38fc870bc84f024d29cc50c4d674d",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/파라스_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "file": "img/파라스_heavy_overdrive_glossy_promo_f.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-64134b22-087d-4cbc-aab9-dedde945572d.png",
+      "sha256": "53fafb4b26796f581c16aac4f82d24988e2815edc9f1cffcce58eb99fb683f95",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/파라스_heavy_glossy_promo_f.webp"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "file": "img/파라스_mobility_overdrive_glossy_promo_f.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-37f7773d-51e6-4736-8f50-b9fa4d8c9997.png",
+      "sha256": "7aa4e49467d0ecb17759942f8ceacd3011ee7c23bd8217967f5bc00fca7f2853",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/파라스_mobility_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual1",
+      "file": "img/파라스_glossy_promo_f_casual1.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-023775b5-598f-482e-9593-e43cc6519f34.png",
+      "sha256": "3d23c68543ed717f7b2f8140a33ff6474375467a76dc7b28d47ae39af195f521",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/파라스_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual2",
+      "file": "img/파라스_glossy_promo_f_casual2.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-b8c2b0c9-070a-47d6-b868-4827a8d084a2.png",
+      "sha256": "3aa0e43bbdb7d6bd6bbea8d9697a8a4ed6b4a94800921086f05213017b0769ec",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/파라스_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual3",
+      "file": "img/파라스_glossy_promo_f_casual3.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-f553cf08-e090-4514-965b-cfecda33a1d0.png",
+      "sha256": "3da7afcc4295b83b2262a91dc02818acb7af6e7927c3fd44490001725760708f",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/파라스_light_glossy_promo_f.webp"
+    }
+  ]
+}

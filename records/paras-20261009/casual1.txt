@@ -1,0 +1,22 @@
+CHARACTER: the same woman as the attached image — Paras (파라스) personified, bug / grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement
+Pose: Rest weight on one leg with the opposite knee relaxed in natural contrapposto.
+Orientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together
+Scene: One clearly adult woman in her twenties at the side of a botanical festival stage, giving a playful smile before a forest-explorer themed performance. Comfortable contrapposto stance, both hands relaxed and clearly visible. Eye-level full-body view with feet and hands completely inside the frame. Plain decorative foliage and warm stage lighting, no letters or signs, no other people.
+Outfit and props: An original forest-explorer stage-event costume: an orange sleeveless zip-up vest over an opaque red fitted sports T-shirt, green tailored high-waist shorts ending at mid-thigh, orange ankle boots and one small mushroom enamel brooch. Chest and pelvis securely covered, bare arms and lower legs. Clearly a theatrical costume for an adult presenter at a botanical festival. No institutional insignia, no armor, no weapons.
+Category: Create playful adult event fashion inspired by occupation or roleplay motifs. It must read as a costume made for a stage presentation or themed event, not as an authentic workplace uniform. Use original colours and decorative details — no real institutional insignia, no weapons, no tactical gear. Describe the costume by its tailoring, trim, and props, and show a believable styling or preparation action.
+Framing: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
