@@ -1,0 +1,106 @@
+{
+  "stage": "9/9 visually confirmed; ready for pre-upload checks",
+  "repository": "polos0117/pkm-atelier-img",
+  "canonicalReference": "img/라플레시아_light_glossy_promo_f.webp",
+  "completed": [
+    {
+      "slot": "light",
+      "file": "img/라플레시아_light_glossy_promo_f.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-902a4860-8716-48d8-b3f4-21a9d5d24abe.png",
+      "sha256": "a450b0125faa21ad98265085f0fc5d9bb4bdec881d9f09ae8261c125053efa86",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": null
+    },
+    {
+      "slot": "heavy",
+      "file": "img/라플레시아_heavy_glossy_promo_f.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-cdd628f1-1906-428b-ad6f-343dbd67e398.png",
+      "sha256": "3489e15f49dec13454434a6398412bcaa82afc4b1f345e1299f5212a8817252b",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/라플레시아_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "mobility",
+      "file": "img/라플레시아_mobility_glossy_promo_f.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-76598765-366a-48b5-8477-f57d1f9c77a8.png",
+      "sha256": "bbbcdbd510a49a45cc31b5d6c3e211f483fc8ba4bdfc4d783279c8d03f78e0c7",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/라플레시아_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "light_overdrive",
+      "file": "img/라플레시아_light_overdrive_glossy_promo_f.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-d24f813d-ea7a-4640-aa58-57913bcee12e.png",
+      "sha256": "f615afb370e1878b4c8bb45ae28ee55f89354b470f2ec10ded7cc67c5cf9f8fd",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/라플레시아_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "file": "img/라플레시아_heavy_overdrive_glossy_promo_f.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-50f77d2f-b15c-4a63-9095-133a1f930747.png",
+      "sha256": "06dea8e48ad1b70eb171d4669fa4a201acb0db71abcd16fe7d385fe29c54b620",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/라플레시아_heavy_glossy_promo_f.webp"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "file": "img/라플레시아_mobility_overdrive_glossy_promo_f.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-0308858c-b509-437d-97be-dc8ca2f8adce.png",
+      "sha256": "7eec68f853ad15622133f62c9020f45404aac59efafbc16c32f2a8ed2acc6af6",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/라플레시아_mobility_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual1",
+      "file": "img/라플레시아_glossy_promo_f_casual1.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-c2f81a0f-ac82-4302-a20f-e7abf8792289.png",
+      "sha256": "8c4e176fceca91f5c74f503d3b52ab5572010495464466a1f86c456a12cec1ea",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/라플레시아_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual2",
+      "file": "img/라플레시아_glossy_promo_f_casual2.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-fa381fe8-1f87-458d-9199-f453ac208b47.png",
+      "sha256": "4782bab85a1f8ad58303d9b1a7c165f6c8a8ef90a84810973f0c41e5d430717a",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/라플레시아_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual3",
+      "file": "img/라플레시아_glossy_promo_f_casual3.webp",
+      "original": "/workspace/scratch/bf7469126bb7/generated_images/exec-4557722f-8714-415a-806d-d146593ca435.png",
+      "sha256": "ef35c4770da7d27209e1cb569f72bd354e90b175ebd94a96a5b18db438ae22e0",
+      "size": [
+        1024,
+        1536
+      ],
+      "referenceFile": "img/라플레시아_light_glossy_promo_f.webp"
+    }
+  ]
+}

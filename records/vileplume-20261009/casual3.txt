@@ -1,0 +1,22 @@
+CHARACTER: the same woman as the attached image — Vileplume (라플레시아) personified, grass / poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed
+Pose: Raise one hand near shoulder height in a friendly small wave.
+Orientation: gaze off-camera; body orientation independent
+Scene: Backstage at an adult botanical-themed stage event, a playful theatrical hostess offers a small greeting wave while glancing to the side. Both hands fully within the waist-up frame. Dressing-room mirrors and warm bulbs; no text.
+Outfit and props: Original stage-event hostess fashion: fitted crimson satin waistcoat over a fully opaque white corset-inspired top, detached white cuffs and matching short skirt. Deep neckline with secure chest coverage, bare shoulders and arms, tiny floral brooch. Clearly an adult themed-event costume.
+Category: Create playful adult event fashion inspired by occupation or roleplay motifs. It must read as a costume made for a stage presentation or themed event, not as an authentic workplace uniform. Use original colours and decorative details — no real institutional insignia, no weapons, no tactical gear. Describe the costume by its tailoring, trim, and props, and show a believable styling or preparation action.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
