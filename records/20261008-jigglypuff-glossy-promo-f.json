@@ -1,0 +1,302 @@
+{
+  "character": "푸린",
+  "style": "glossy_promo",
+  "status": "generation complete: nine images approved",
+  "canonical": "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-c196315a-c44c-4a65-b1c7-368a70c65faa.png",
+  "generation_tool": "built-in image_gen",
+  "ui": "https://polos0117.github.io/pkm-atelier/prompt.html",
+  "assets": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-c196315a-c44c-4a65-b1c7-368a70c65faa.png",
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Jigglypuff (푸린), normal / fairy type.\n\nPALETTE: pink.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Jigglypuff as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the curled tuft becomes a feathered or ruffled collar and trim.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nExpression: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids\nScene: An open-air amphitheatre garden at blue hour, circular pale stone paving, flowering trees and soft stage rim lights, balanced graceful standing pose with both empty hands open and separated.\nNote: Clearly adult woman in her twenties; both hands fully visible with exactly five separated digits each. One complete full-body character, 1024 x 1536.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "reference": null,
+      "filename": "푸린_light_glossy_promo_f.webp",
+      "output": "/workspace/scratch/a8e8c8dd6df5/pkm-atelier/img/푸린_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "source_sha256": "5ff5b1511e8c09511eb461b8c612f7475ca8d2bd00f85be276a7b64b8b618511",
+      "sha256": "516a8cdb027f79fbf3b47f7b344c4e76291035e7b3a8775a50316d568f87f631",
+      "git_blob_sha": "d1f0bf793c20b1d7d54acb091fde2f6269ef1820",
+      "bytes": 574690,
+      "repository_path": "img/푸린_light_glossy_promo_f.webp",
+      "reference_repository_paths": [],
+      "classification_basis": "actual generator UI selection and submitted prompt"
+    },
+    {
+      "slot": "heavy",
+      "source": "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-87b4e789-a0df-42fc-a8b5-b5e5d483389b.png",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Jigglypuff (푸린), normal / fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nExpression: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids\nScene: Blue-hour amphitheatre garden, grounded wide standing stance on pale stone, empty hands open and held apart, face toward camera, layered armor clearly readable.\nNote: Clearly adult woman in her twenties; both hands fully visible with exactly five separated digits each. One complete full-body character, 1024 x 1536.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "reference": "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-c196315a-c44c-4a65-b1c7-368a70c65faa.png",
+      "filename": "푸린_heavy_glossy_promo_f.webp",
+      "output": "/workspace/scratch/a8e8c8dd6df5/pkm-atelier/img/푸린_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "source_sha256": "7725139366c2a5f475e1622040c9440065357330dd64b5682d8e5c9b2ea99783",
+      "sha256": "2e56d95a691fab8ed14396193fe60b49500b3fbceaf17853994356a87dcb9526",
+      "git_blob_sha": "95eb965e0aed7d6662a2aa5ca04c16ec9f592393",
+      "bytes": 576162,
+      "repository_path": "img/푸린_heavy_glossy_promo_f.webp",
+      "reference_repository_paths": [
+        "img/푸린_light_glossy_promo_f.webp"
+      ],
+      "classification_basis": "actual generator UI selection and submitted prompt"
+    },
+    {
+      "slot": "mobility",
+      "source": "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-25d283f2-f4bc-4147-89ca-ee0b1de94d29.png",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Jigglypuff (푸린), normal / fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nExpression: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids\nScene: Blue-hour garden amphitheatre, balanced light forward step with a subtle torso turn, hair moving with the breeze, both empty hands open and visible, face toward camera.\nNote: Clearly adult woman in her twenties; both hands fully visible with exactly five separated digits each. One complete full-body character, 1024 x 1536.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "reference": "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-c196315a-c44c-4a65-b1c7-368a70c65faa.png",
+      "filename": "푸린_mobility_glossy_promo_f.webp",
+      "output": "/workspace/scratch/a8e8c8dd6df5/pkm-atelier/img/푸린_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "source_sha256": "a731d18fbf01f2a6b51fcc7027fc08c4ddca94c670151b0d0aaaab3ebc50abb3",
+      "sha256": "739ad1ff0ed18f8e36a2112cb9223086cfe1ff1ca98c87b038b2ad3810d93218",
+      "git_blob_sha": "c270d48e9652dad9fe4ec7d5f6b1d7c405a3584b",
+      "bytes": 551176,
+      "repository_path": "img/푸린_mobility_glossy_promo_f.webp",
+      "reference_repository_paths": [
+        "img/푸린_light_glossy_promo_f.webp"
+      ],
+      "classification_basis": "actual generator UI selection and submitted prompt"
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-0b514d4b-aaad-4f92-96f6-09f50d869cc6.png",
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Jigglypuff (푸린), normal / fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a warm white-gold light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: Clearly adult woman in her twenties; both hands fully visible with exactly five separated digits each. One complete full-body character, 1024 x 1536.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "reference": [
+        "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-c196315a-c44c-4a65-b1c7-368a70c65faa.png"
+      ],
+      "filename": "푸린_light_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/a8e8c8dd6df5/pkm-atelier/img/푸린_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "source_sha256": "1bcb4f303f3ca799b24a8847bbccc76a6ec654524a5d2aafeb3d8ebdade54bdf",
+      "sha256": "c0fad306fb04fafa9794b5dd306cadc790caf1257e24e214da47301149140294",
+      "git_blob_sha": "ba3d6e542ecfd0f1257672f4b20ec0396671d168",
+      "bytes": 543146,
+      "repository_path": "img/푸린_light_overdrive_glossy_promo_f.webp",
+      "reference_repository_paths": [
+        "img/푸린_light_glossy_promo_f.webp"
+      ],
+      "classification_basis": "actual generator UI selection and submitted prompt"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "source": "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-333420c3-0ae4-4a90-b542-697cb628461d.png",
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Jigglypuff (푸린), normal / fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a warm white-gold light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: Clearly adult woman in her twenties; both hands fully visible with exactly five separated digits each. One complete full-body character, 1024 x 1536.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "reference": [
+        "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-87b4e789-a0df-42fc-a8b5-b5e5d483389b.png",
+        "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-c196315a-c44c-4a65-b1c7-368a70c65faa.png"
+      ],
+      "filename": "푸린_heavy_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/a8e8c8dd6df5/pkm-atelier/img/푸린_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "source_sha256": "2d05b7019de861b2153309ac0401ca6751cb3d845bdb626adc25d02605f152ed",
+      "sha256": "fc47e67e6cbad59a5b5b4de581b8eb309a02bc22e76374834ba4d495e262cd19",
+      "git_blob_sha": "7a68b8574914e47843ef478d39982bbfc2f9f2bf",
+      "bytes": 588272,
+      "repository_path": "img/푸린_heavy_overdrive_glossy_promo_f.webp",
+      "reference_repository_paths": [
+        "img/푸린_heavy_glossy_promo_f.webp",
+        "img/푸린_light_glossy_promo_f.webp"
+      ],
+      "classification_basis": "actual generator UI selection and submitted prompt"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "source": "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-85357daf-eda7-4ec4-831f-d479ddf3e52f.png",
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Jigglypuff (푸린), normal / fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a warm white-gold light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: Clearly adult woman in her twenties; both hands fully visible with exactly five separated digits each. One complete full-body character, 1024 x 1536.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "reference": [
+        "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-25d283f2-f4bc-4147-89ca-ee0b1de94d29.png",
+        "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-c196315a-c44c-4a65-b1c7-368a70c65faa.png"
+      ],
+      "filename": "푸린_mobility_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/a8e8c8dd6df5/pkm-atelier/img/푸린_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "source_sha256": "5c10b9d1ee03c53b27616fc5051daf041a6d53fe2b4cc3b95ef8475cef3ffe3a",
+      "sha256": "68000dc06ec4bf85614d02bd85551d4bc42e91eb5836a4e236ef91e8d18b594a",
+      "git_blob_sha": "c143b70d6fdad1f2f4bbe322b1994aa41d364f13",
+      "bytes": 542068,
+      "repository_path": "img/푸린_mobility_overdrive_glossy_promo_f.webp",
+      "reference_repository_paths": [
+        "img/푸린_mobility_glossy_promo_f.webp",
+        "img/푸린_light_glossy_promo_f.webp"
+      ],
+      "classification_basis": "actual generator UI selection and submitted prompt"
+    },
+    {
+      "slot": "casual1",
+      "prompt": "CHARACTER: the same woman as the attached image — Jigglypuff (푸린) personified, normal / fairy type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement\nPose: Raise one hand near shoulder height in a friendly small wave.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: A music festival hostess greeting the audience on a softly lit outdoor festival terrace at blue hour, one woman only, no audience visible, warm stage lights and flowers, joyful small wave.\nOutfit and props: Occupation-inspired glamorous adult festival hostess event fashion: opaque rose off-shoulder structured crop top with a secure neckline, high-waisted short pleated skort with fully opaque shorts lining, cream ankle boots, a tiny swirl brooch and ordinary silk ribbon hair clip. No combat armor, no ear-shaped head ornaments.\nCategory: Create playful adult event fashion inspired by occupation or roleplay motifs. It must read as a costume made for a stage presentation or themed event, not as an authentic workplace uniform. Use original colours and decorative details — no real institutional insignia, no weapons, no tactical gear. Describe the costume by its tailoring, trim, and props, and show a believable styling or preparation action.\nNote: Clearly adult woman in her twenties. Keep the approved face, long pink hair and curl, eye color and body proportions. Both bare hands visibly separated with one thumb and four fingers each: one open small wave, the other relaxed away from the torso. Confident glamorous styling at the selected strongest intensity, substantial shoulder, midriff and leg exposure; opaque chest and pelvis coverage.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nCamera: Full body vertical 2:3, head and boots inside the frame, both hands clear, no foreground occlusion.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "settings": {
+        "category": "adult_roleplay",
+        "expression": "playful",
+        "pose": "waving",
+        "orientation": "front_3q",
+        "frame": "full_body",
+        "lens": "natural50",
+        "axis-overall_intensity": "strong",
+        "axis-skin_exposure": "bold"
+      },
+      "reference": "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-c196315a-c44c-4a65-b1c7-368a70c65faa.png",
+      "source": "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-adf7d214-3c99-48e3-8e2b-61a1d5db233b.png",
+      "filename": "푸린_glossy_promo_f_casual1.webp",
+      "output": "/workspace/scratch/a8e8c8dd6df5/pkm-atelier/img/푸린_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "source_sha256": "119d50dc14dccb3edcd56075654448d3521fcc22d664e587ecc01ff180bd8b15",
+      "sha256": "2085a210a3847430e6ab97ccfe27f88d5418e45bf9f2ef069637f4aa32ac9c22",
+      "git_blob_sha": "d5df42addf79d9f8a4c9db7ed00b5a33a37237c9",
+      "bytes": 540392,
+      "repository_path": "img/푸린_glossy_promo_f_casual1.webp",
+      "reference_repository_paths": [
+        "img/푸린_light_glossy_promo_f.webp"
+      ],
+      "classification_basis": "actual generator UI selection and submitted prompt"
+    },
+    {
+      "slot": "casual2",
+      "prompt": "CHARACTER: the same woman as the attached image — Jigglypuff (푸린) personified, normal / fairy type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted\nPose: Sit naturally on a chair or bench with supported feet and readable hands.\nOrientation: camera above subject looking downward; obey selected framing\nScene: Seated in a cozy personal listening room beside a vintage record player, curiously listening to a new song. Warm afternoon sun, vinyl sleeves without any lettering, soft wood and leafy houseplants. Both hands relaxed open above the table edge, separate from the record player.\nOutfit and props: Glamorous relaxed hobby fashion: opaque rose halter crop top with secure chest coverage, high-waisted cream tailored shorts, delicate tiny swirl pendant and a small ordinary ribbon hair clip. Visible shoulders, upper back, midriff and thighs, no armor and no ear-shaped head ornaments.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: Clearly adult woman in her twenties. Preserve the approved face, long pink hairstyle with its front curl, eye color and body proportions. Curious attentive expression, both bare hands fully in frame with five readable separated digits each. Maximal scene-appropriate styling presence, opaque chest and pelvis coverage.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nCamera: Vertical 2:3, knees-up framing from slightly above, face and both hands clearly visible. Keep both hands above the bottom frame edge, no hand occlusion.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "settings": {
+        "category": "hobbies_leisure",
+        "expression": "curious",
+        "pose": "sitting",
+        "orientation": "high_angle",
+        "frame": "three_quarter",
+        "lens": "documentary35",
+        "axis-overall_intensity": "strong",
+        "axis-skin_exposure": "bold"
+      },
+      "reference": "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-c196315a-c44c-4a65-b1c7-368a70c65faa.png",
+      "source": "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-fb4f5d26-8cc9-40fa-81d1-4156ec83c5e6.png",
+      "filename": "푸린_glossy_promo_f_casual2.webp",
+      "output": "/workspace/scratch/a8e8c8dd6df5/pkm-atelier/img/푸린_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "source_sha256": "00080fb0e88608594d54c028eec08c5a953ac90eb13545e15e8bf4cd7c381c58",
+      "sha256": "d2b182e00ba9e042edc1cf90a5ee4217a9da05ac53cf7a261abbf5811c957d66",
+      "git_blob_sha": "c0c006f59a77afa837d7e5ebf1656c74b903ce69",
+      "bytes": 456392,
+      "repository_path": "img/푸린_glossy_promo_f_casual2.webp",
+      "reference_repository_paths": [
+        "img/푸린_light_glossy_promo_f.webp"
+      ],
+      "classification_basis": "actual generator UI selection and submitted prompt"
+    },
+    {
+      "slot": "casual3",
+      "prompt": "CHARACTER: the same woman as the attached image — Jigglypuff (푸린) personified, normal / fairy type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed\nPose: Work at a kitchen counter, stirring a bowl or arranging ingredients with clearly separated hands and utensils.\nOrientation: torso leaning forward with supported balance\nScene: Preparing a colorful berry dessert at a bright home kitchen counter, leaning slightly toward the work surface and amused by the playful arrangement of berries. Small glass dessert bowls, strawberries, blue berries and cream, morning window light. One open hand arranging a berry with fingertips, the other open on a clear counter space, both hands fully readable.\nOutfit and props: Bold glamorous home cooking fashion: opaque pink sleeveless fitted cropped top with a secure neckline, high-waisted cream tailored shorts, a short waist apron tied below the navel, tiny swirl hair clip. Bare shoulders and arms, midriff visible above the waist apron; secure opaque chest and pelvis coverage. No armor, no ear-shaped head ornaments, no tools in hands.\nCategory: Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.\nNote: Clearly adult woman in her twenties. Preserve the approved face, long pink hair with its curled tuft, eye color and body proportions. Lively amused expression with closed smiling lips. Both bare hands fully visible above the counter, exactly one thumb and four fingers each, separated and naturally posed. Maximal scene-appropriate styling presence.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nCamera: Vertical 2:3 waist-up portrait with the whole head and both hands in frame. Worktop and dessert visible in lower portion, hands not behind bowls; modest forward lean.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "settings": {
+        "category": "food_berries",
+        "expression": "amused",
+        "pose": "preparing_food",
+        "orientation": "leaning_forward",
+        "frame": "waist_up",
+        "lens": "portrait85",
+        "axis-overall_intensity": "strong",
+        "axis-skin_exposure": "bold"
+      },
+      "reference": "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-c196315a-c44c-4a65-b1c7-368a70c65faa.png",
+      "source": "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-913667b2-e5f7-48e3-8a82-8844960ce029.png",
+      "filename": "푸린_glossy_promo_f_casual3.webp",
+      "output": "/workspace/scratch/a8e8c8dd6df5/pkm-atelier/img/푸린_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "source_sha256": "24fa0da92db0b4f1be303f8992a5180fc654e6554fa40d2428981430531faeaa",
+      "sha256": "51e9c7e9cfee474ee391d6ccfa5751173794df78ca871f71f0f28e9bb3f400f0",
+      "git_blob_sha": "98c4557b11d668fa87ae2d30046878909620945d",
+      "bytes": 429466,
+      "repository_path": "img/푸린_glossy_promo_f_casual3.webp",
+      "reference_repository_paths": [
+        "img/푸린_light_glossy_promo_f.webp"
+      ],
+      "classification_basis": "actual generator UI selection and submitted prompt"
+    }
+  ],
+  "casual_plans": [
+    {
+      "slot": "casual1",
+      "prompt": "CHARACTER: the same woman as the attached image — Jigglypuff (푸린) personified, normal / fairy type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement\nPose: Raise one hand near shoulder height in a friendly small wave.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: A music festival hostess greeting the audience on a softly lit outdoor festival terrace at blue hour, one woman only, no audience visible, warm stage lights and flowers, joyful small wave.\nOutfit and props: Occupation-inspired glamorous adult festival hostess event fashion: opaque rose off-shoulder structured crop top with a secure neckline, high-waisted short pleated skort with fully opaque shorts lining, cream ankle boots, a tiny swirl brooch and ordinary silk ribbon hair clip. No combat armor, no ear-shaped head ornaments.\nCategory: Create playful adult event fashion inspired by occupation or roleplay motifs. It must read as a costume made for a stage presentation or themed event, not as an authentic workplace uniform. Use original colours and decorative details — no real institutional insignia, no weapons, no tactical gear. Describe the costume by its tailoring, trim, and props, and show a believable styling or preparation action.\nNote: Clearly adult woman in her twenties. Keep the approved face, long pink hair and curl, eye color and body proportions. Both bare hands visibly separated with one thumb and four fingers each: one open small wave, the other relaxed away from the torso. Confident glamorous styling at the selected strongest intensity, substantial shoulder, midriff and leg exposure; opaque chest and pelvis coverage.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nCamera: Full body vertical 2:3, head and boots inside the frame, both hands clear, no foreground occlusion.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "settings": {
+        "category": "adult_roleplay",
+        "expression": "playful",
+        "pose": "waving",
+        "orientation": "front_3q",
+        "frame": "full_body",
+        "lens": "natural50",
+        "axis-overall_intensity": "strong",
+        "axis-skin_exposure": "bold"
+      },
+      "reference": "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-c196315a-c44c-4a65-b1c7-368a70c65faa.png"
+    },
+    {
+      "slot": "casual2",
+      "prompt": "CHARACTER: the same woman as the attached image — Jigglypuff (푸린) personified, normal / fairy type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted\nPose: Sit naturally on a chair or bench with supported feet and readable hands.\nOrientation: camera above subject looking downward; obey selected framing\nScene: Seated in a cozy personal listening room beside a vintage record player, curiously listening to a new song. Warm afternoon sun, vinyl sleeves without any lettering, soft wood and leafy houseplants. Both hands relaxed open above the table edge, separate from the record player.\nOutfit and props: Glamorous relaxed hobby fashion: opaque rose halter crop top with secure chest coverage, high-waisted cream tailored shorts, delicate tiny swirl pendant and a small ordinary ribbon hair clip. Visible shoulders, upper back, midriff and thighs, no armor and no ear-shaped head ornaments.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: Clearly adult woman in her twenties. Preserve the approved face, long pink hairstyle with its front curl, eye color and body proportions. Curious attentive expression, both bare hands fully in frame with five readable separated digits each. Maximal scene-appropriate styling presence, opaque chest and pelvis coverage.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nCamera: Vertical 2:3, knees-up framing from slightly above, face and both hands clearly visible. Keep both hands above the bottom frame edge, no hand occlusion.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "settings": {
+        "category": "hobbies_leisure",
+        "expression": "curious",
+        "pose": "sitting",
+        "orientation": "high_angle",
+        "frame": "three_quarter",
+        "lens": "documentary35",
+        "axis-overall_intensity": "strong",
+        "axis-skin_exposure": "bold"
+      },
+      "reference": "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-c196315a-c44c-4a65-b1c7-368a70c65faa.png"
+    },
+    {
+      "slot": "casual3",
+      "prompt": "CHARACTER: the same woman as the attached image — Jigglypuff (푸린) personified, normal / fairy type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed\nPose: Work at a kitchen counter, stirring a bowl or arranging ingredients with clearly separated hands and utensils.\nOrientation: torso leaning forward with supported balance\nScene: Preparing a colorful berry dessert at a bright home kitchen counter, leaning slightly toward the work surface and amused by the playful arrangement of berries. Small glass dessert bowls, strawberries, blue berries and cream, morning window light. One open hand arranging a berry with fingertips, the other open on a clear counter space, both hands fully readable.\nOutfit and props: Bold glamorous home cooking fashion: opaque pink sleeveless fitted cropped top with a secure neckline, high-waisted cream tailored shorts, a short waist apron tied below the navel, tiny swirl hair clip. Bare shoulders and arms, midriff visible above the waist apron; secure opaque chest and pelvis coverage. No armor, no ear-shaped head ornaments, no tools in hands.\nCategory: Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.\nNote: Clearly adult woman in her twenties. Preserve the approved face, long pink hair with its curled tuft, eye color and body proportions. Lively amused expression with closed smiling lips. Both bare hands fully visible above the counter, exactly one thumb and four fingers each, separated and naturally posed. Maximal scene-appropriate styling presence.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nCamera: Vertical 2:3 waist-up portrait with the whole head and both hands in frame. Worktop and dessert visible in lower portion, hands not behind bowls; modest forward lean.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "settings": {
+        "category": "food_berries",
+        "expression": "amused",
+        "pose": "preparing_food",
+        "orientation": "leaning_forward",
+        "frame": "waist_up",
+        "lens": "portrait85",
+        "axis-overall_intensity": "strong",
+        "axis-skin_exposure": "bold"
+      },
+      "reference": "/workspace/scratch/a8e8c8dd6df5/generated_images/exec-c196315a-c44c-4a65-b1c7-368a70c65faa.png"
+    }
+  ],
+  "canonical_repository_path": "img/푸린_light_glossy_promo_f.webp",
+  "image_repository": "polos0117/pkm-atelier-img",
+  "code_repository": "polos0117/pkm-atelier",
+  "validation": {
+    "visual_review": "identity, form silhouettes, opening composition, hands, framing and casual variety reviewed",
+    "local_filename_check": "passed: nine registration candidates",
+    "forms_test": "passed",
+    "webp": "all nine valid WebP at 1024x1536, quality95, no crop"
+  }
+}
