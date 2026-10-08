@@ -143,11 +143,11 @@
   "casual_settings": [
     {
       "category": "swimwear",
-      "expression": "laughing_eyes_open",
-      "pose": "walk",
-      "orientation": "front_three_quarter",
+      "expression": "laughing_open",
+      "pose": "walking",
+      "orientation": "front_3q",
       "frame": "full_body",
-      "lens": "50mm",
+      "lens": "natural50",
       "exprLine": "mouth open wide in a laugh with teeth showing and cheeks raised, but the eyes stay open and engaged — lids only slightly narrowed, gaze still readable rather than squeezed shut",
       "poseLine": "Walk at a comfortable pace with a natural step and arm swing.",
       "orientLine": "front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together",
@@ -155,15 +155,17 @@
       "outfit": "Fully lined dusty-rose two-piece swimwear with a secure structured scoop-neck top, broad straps and high-waisted bottoms with opaque side panels; small crescent hair clip, plain sandals. Clearly adult, tasteful swimwear fashion.",
       "catLine": "This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.",
       "frameLine": "Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.",
-      "lensLine": "50mm-equivalent natural perspective with balanced proportions and modest depth compression."
+      "lensLine": "50mm-equivalent natural perspective with balanced proportions and modest depth compression.",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
     },
     {
-      "category": "hobby",
+      "category": "hobbies_leisure",
       "expression": "focused",
-      "pose": "sit_chair",
+      "pose": "sitting",
       "orientation": "high_angle",
-      "frame": "knees_up",
-      "lens": "35mm",
+      "frame": "three_quarter",
+      "lens": "documentary35",
       "exprLine": "slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed",
       "poseLine": "Sit naturally on a chair or bench with supported feet and readable hands.",
       "orientLine": "camera above subject looking downward; obey selected framing",
@@ -171,15 +173,17 @@
       "outfit": "Rose-pink sleeveless halter crop top with an opaque structured bodice, dark-brown high-waisted shorts, tiny crescent earrings; fashionable bare shoulders, arms and midriff.",
       "catLine": "Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.",
       "frameLine": "Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.",
-      "lensLine": "35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth."
+      "lensLine": "35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
     },
     {
       "category": "private_evening",
       "expression": "sleepy",
-      "pose": "lean_wall",
+      "pose": "leaning_wall",
       "orientation": "front",
       "frame": "waist_up",
-      "lens": "85mm",
+      "lens": "portrait85",
       "exprLine": "heavy drooping eyelids, unfocused gaze, softened slack mouth, brow low and relaxed",
       "poseLine": "Lean a shoulder or the back lightly against a wall while keeping balance through the feet.",
       "orientLine": "torso and pelvis face the camera; gaze is independent",
@@ -187,20 +191,26 @@
       "outfit": "Opaque rose-pink satin evening halter top with secure neckline, open shoulders and midriff, dark-brown high-waisted tailored trousers, a tiny moon pendant; ordinary adult evening fashion.",
       "catLine": "Create mature private evening fashion scenes with intimate but non-explicit atmosphere. Use elegant, attractive, clearly adult styling, confident body language, and believable private-life context.",
       "frameLine": "Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.",
-      "lensLine": "85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression."
+      "lensLine": "85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
     }
   ],
   "correction": "Edit only the head accessory in this swimwear illustration. Remove the two large pointed mechanical ear-shaped ornaments entirely and replace the ornament with a single small ordinary crescent-moon hair clip. Keep the same clearly adult woman in her twenties, face, eyes, hair color and haircut, laughing expression, swimwear, hands, five digits on each hand, walking pose, camera, framing, lighting, resort pool and background exactly unchanged. Her species is represented only by the small moon hair clip and rose color palette. No armor or creature costume. Output 1024 x 1536.",
-  "status": "validated; ready for upload",
+  "status": "uploaded; thumbnails and registration verified",
   "date": "2026-10-08",
   "target_repository": "polos0117/pkm-atelier-img",
   "target_branch": "main",
   "canonical": "img/픽시_light_glossy_promo_f.webp",
+  "upload_commit": "1c751b27a014aee8876ff07b6e16e625b19584d8",
   "validation": {
     "total": 9,
     "webp": true,
     "dimensions": "1024x1536",
     "filename_check": "passed",
-    "forms_check": "passed"
+    "forms_check": "passed",
+    "remote_hashes": "9/9 match",
+    "thumbnails": 9,
+    "registered": 9
   }
 }
