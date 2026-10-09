@@ -1,0 +1,511 @@
+{
+  "light": {
+    "mech": "나옹",
+    "sourceName": "Meowth",
+    "series": "normal",
+    "style": "glossy_promo",
+    "sourceAppearance": {
+      "name": "나옹",
+      "en": "Meowth",
+      "color": "yellow",
+      "shape": "quadruped",
+      "features": [
+        {
+          "part": "whisker",
+          "detail": "four prominent whiskers"
+        },
+        {
+          "part": "fur",
+          "detail": "cream-colored fur"
+        },
+        {
+          "part": "coin",
+          "detail": "gold koban coin"
+        },
+        {
+          "part": "head",
+          "detail": "ovoid head"
+        },
+        {
+          "part": "tooth",
+          "detail": "two pointed teeth"
+        },
+        {
+          "part": "ear",
+          "detail": "black ears"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Meowth_%28Pok%C3%A9mon%29",
+      "revision": 4626291,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "0e205c1877eaa55ffe9db20e758884c5f5d186fd79aab5390ea9871b9af3036a",
+      "method": "text-descriptor-extraction-v1",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "params": [
+      [
+        "apparent age",
+        "20s"
+      ]
+    ],
+    "aspect": "2:3",
+    "motifs": "Cream enamel slim armor with black edging and gold trim. The gold koban coin becomes an oval gold ornament on a slim headband, black cat ears become two small hair ornaments, four whiskers become two fine gold sweeping lines on each temple ornament. All are worn abstract decorations, without faces.",
+    "outputMode": "action",
+    "identityMode": "create",
+    "form": "light",
+    "scene": "A quiet rooftop above a lantern-lit old city at blue hour, warm amber rim light and distant blurred city lights.",
+    "custom": "1024x1536 vertical 2:3 full body. A clearly adult woman in her twenties with a short tousled chestnut bob and amber eyes, a confident playful smile. Hands empty, both visible, five natural separated fingers each. No weapons."
+  },
+  "heavy": {
+    "mech": "나옹",
+    "sourceName": "Meowth",
+    "series": "normal",
+    "style": "glossy_promo",
+    "sourceAppearance": {
+      "name": "나옹",
+      "en": "Meowth",
+      "color": "yellow",
+      "shape": "quadruped",
+      "features": [
+        {
+          "part": "whisker",
+          "detail": "four prominent whiskers"
+        },
+        {
+          "part": "fur",
+          "detail": "cream-colored fur"
+        },
+        {
+          "part": "coin",
+          "detail": "gold koban coin"
+        },
+        {
+          "part": "head",
+          "detail": "ovoid head"
+        },
+        {
+          "part": "tooth",
+          "detail": "two pointed teeth"
+        },
+        {
+          "part": "ear",
+          "detail": "black ears"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Meowth_%28Pok%C3%A9mon%29",
+      "revision": 4626291,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "0e205c1877eaa55ffe9db20e758884c5f5d186fd79aab5390ea9871b9af3036a",
+      "method": "text-descriptor-extraction-v1",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "params": [],
+    "aspect": "2:3",
+    "motifs": "Cream enamel slim armor with black edging and gold trim. The gold koban coin becomes an oval gold ornament on a slim headband, black cat ears become two small hair ornaments, four whiskers become two fine gold sweeping lines on each temple ornament. All are worn abstract decorations, without faces.",
+    "outputMode": "action",
+    "identityMode": "reference",
+    "form": "heavy",
+    "pose": "braced_stance",
+    "scene": "A quiet rooftop above a lantern-lit old city at blue hour, warm amber rim light and distant blurred city lights.",
+    "custom": "1024x1536 vertical 2:3 full body. Hands empty, both visible, five natural separated fingers each. No weapons."
+  },
+  "mobility": {
+    "mech": "나옹",
+    "sourceName": "Meowth",
+    "series": "normal",
+    "style": "glossy_promo",
+    "sourceAppearance": {
+      "name": "나옹",
+      "en": "Meowth",
+      "color": "yellow",
+      "shape": "quadruped",
+      "features": [
+        {
+          "part": "whisker",
+          "detail": "four prominent whiskers"
+        },
+        {
+          "part": "fur",
+          "detail": "cream-colored fur"
+        },
+        {
+          "part": "coin",
+          "detail": "gold koban coin"
+        },
+        {
+          "part": "head",
+          "detail": "ovoid head"
+        },
+        {
+          "part": "tooth",
+          "detail": "two pointed teeth"
+        },
+        {
+          "part": "ear",
+          "detail": "black ears"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Meowth_%28Pok%C3%A9mon%29",
+      "revision": 4626291,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "0e205c1877eaa55ffe9db20e758884c5f5d186fd79aab5390ea9871b9af3036a",
+      "method": "text-descriptor-extraction-v1",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "params": [],
+    "aspect": "2:3",
+    "motifs": "Cream enamel slim armor with black edging and gold trim. The gold koban coin becomes an oval gold ornament on a slim headband, black cat ears become two small hair ornaments, four whiskers become two fine gold sweeping lines on each temple ornament. All are worn abstract decorations, without faces.",
+    "outputMode": "action",
+    "identityMode": "reference",
+    "form": "mobility",
+    "pose": "cross_step",
+    "scene": "A quiet rooftop above a lantern-lit old city at blue hour, warm amber rim light and distant blurred city lights.",
+    "custom": "1024x1536 vertical 2:3 full body. Hands empty, both visible, five natural separated fingers each. No weapons."
+  },
+  "light_overdrive": {
+    "mech": "나옹",
+    "sourceName": "Meowth",
+    "series": "normal",
+    "style": "glossy_promo",
+    "sourceAppearance": {
+      "name": "나옹",
+      "en": "Meowth",
+      "color": "yellow",
+      "shape": "quadruped",
+      "features": [
+        {
+          "part": "whisker",
+          "detail": "four prominent whiskers"
+        },
+        {
+          "part": "fur",
+          "detail": "cream-colored fur"
+        },
+        {
+          "part": "coin",
+          "detail": "gold koban coin"
+        },
+        {
+          "part": "head",
+          "detail": "ovoid head"
+        },
+        {
+          "part": "tooth",
+          "detail": "two pointed teeth"
+        },
+        {
+          "part": "ear",
+          "detail": "black ears"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Meowth_%28Pok%C3%A9mon%29",
+      "revision": 4626291,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "0e205c1877eaa55ffe9db20e758884c5f5d186fd79aab5390ea9871b9af3036a",
+      "method": "text-descriptor-extraction-v1",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "params": [],
+    "aspect": "2:3",
+    "motifs": "Cream enamel slim armor with black edging and gold trim. The gold koban coin becomes an oval gold ornament on a slim headband, black cat ears become two small hair ornaments, four whiskers become two fine gold sweeping lines on each temple ornament. All are worn abstract decorations, without faces.",
+    "outputMode": "action",
+    "form": "overdrive",
+    "baseForm": "light",
+    "custom": "1024x1536 vertical 2:3 full body. Hands empty, both visible, five natural separated fingers each. No weapons."
+  },
+  "heavy_overdrive": {
+    "mech": "나옹",
+    "sourceName": "Meowth",
+    "series": "normal",
+    "style": "glossy_promo",
+    "sourceAppearance": {
+      "name": "나옹",
+      "en": "Meowth",
+      "color": "yellow",
+      "shape": "quadruped",
+      "features": [
+        {
+          "part": "whisker",
+          "detail": "four prominent whiskers"
+        },
+        {
+          "part": "fur",
+          "detail": "cream-colored fur"
+        },
+        {
+          "part": "coin",
+          "detail": "gold koban coin"
+        },
+        {
+          "part": "head",
+          "detail": "ovoid head"
+        },
+        {
+          "part": "tooth",
+          "detail": "two pointed teeth"
+        },
+        {
+          "part": "ear",
+          "detail": "black ears"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Meowth_%28Pok%C3%A9mon%29",
+      "revision": 4626291,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "0e205c1877eaa55ffe9db20e758884c5f5d186fd79aab5390ea9871b9af3036a",
+      "method": "text-descriptor-extraction-v1",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "params": [],
+    "aspect": "2:3",
+    "motifs": "Cream enamel slim armor with black edging and gold trim. The gold koban coin becomes an oval gold ornament on a slim headband, black cat ears become two small hair ornaments, four whiskers become two fine gold sweeping lines on each temple ornament. All are worn abstract decorations, without faces.",
+    "outputMode": "action",
+    "form": "overdrive",
+    "baseForm": "heavy",
+    "custom": "1024x1536 vertical 2:3 full body. Hands empty, both visible, five natural separated fingers each. No weapons."
+  },
+  "mobility_overdrive": {
+    "mech": "나옹",
+    "sourceName": "Meowth",
+    "series": "normal",
+    "style": "glossy_promo",
+    "sourceAppearance": {
+      "name": "나옹",
+      "en": "Meowth",
+      "color": "yellow",
+      "shape": "quadruped",
+      "features": [
+        {
+          "part": "whisker",
+          "detail": "four prominent whiskers"
+        },
+        {
+          "part": "fur",
+          "detail": "cream-colored fur"
+        },
+        {
+          "part": "coin",
+          "detail": "gold koban coin"
+        },
+        {
+          "part": "head",
+          "detail": "ovoid head"
+        },
+        {
+          "part": "tooth",
+          "detail": "two pointed teeth"
+        },
+        {
+          "part": "ear",
+          "detail": "black ears"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Meowth_%28Pok%C3%A9mon%29",
+      "revision": 4626291,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "0e205c1877eaa55ffe9db20e758884c5f5d186fd79aab5390ea9871b9af3036a",
+      "method": "text-descriptor-extraction-v1",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "params": [],
+    "aspect": "2:3",
+    "motifs": "Cream enamel slim armor with black edging and gold trim. The gold koban coin becomes an oval gold ornament on a slim headband, black cat ears become two small hair ornaments, four whiskers become two fine gold sweeping lines on each temple ornament. All are worn abstract decorations, without faces.",
+    "outputMode": "action",
+    "form": "overdrive",
+    "baseForm": "mobility",
+    "custom": "1024x1536 vertical 2:3 full body. Hands empty, both visible, five natural separated fingers each. No weapons."
+  },
+  "casual1": {
+    "mech": "나옹",
+    "sourceName": "Meowth",
+    "series": "normal",
+    "style": "glossy_promo",
+    "sourceAppearance": {
+      "name": "나옹",
+      "en": "Meowth",
+      "color": "yellow",
+      "shape": "quadruped",
+      "features": [
+        {
+          "part": "whisker",
+          "detail": "four prominent whiskers"
+        },
+        {
+          "part": "fur",
+          "detail": "cream-colored fur"
+        },
+        {
+          "part": "coin",
+          "detail": "gold koban coin"
+        },
+        {
+          "part": "head",
+          "detail": "ovoid head"
+        },
+        {
+          "part": "tooth",
+          "detail": "two pointed teeth"
+        },
+        {
+          "part": "ear",
+          "detail": "black ears"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Meowth_%28Pok%C3%A9mon%29",
+      "revision": 4626291,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "0e205c1877eaa55ffe9db20e758884c5f5d186fd79aab5390ea9871b9af3036a",
+      "method": "text-descriptor-extraction-v1",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "params": [],
+    "aspect": "2:3",
+    "motifs": "Cream, black and warm gold accents; one small oval gold coin pendant. No armor or cat-ear headband.",
+    "outputMode": "casual",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "custom": "1024x1536 vertical 2:3. Same clearly adult woman. Both hands naturally visible with five distinct fingers each. No weapons.",
+    "cat": "swimwear",
+    "expr": "confident",
+    "pose": "standing_relaxed",
+    "orient": "front_3q",
+    "frame": "full_body",
+    "lens": "natural50",
+    "scene": "Standing beside a rooftop resort pool at sunset, one hand resting lightly on the railing and the other relaxed by her side. Three-quarter front view, entire body and both feet clearly visible.",
+    "outfit": "Opaque fully lined cream two-piece swimwear with black edge trim and secure straps, a gold waist detail and small oval gold pendant. Bare shoulders, midriff and legs. No armor or head ornaments."
+  },
+  "casual2": {
+    "mech": "나옹",
+    "sourceName": "Meowth",
+    "series": "normal",
+    "style": "glossy_promo",
+    "sourceAppearance": {
+      "name": "나옹",
+      "en": "Meowth",
+      "color": "yellow",
+      "shape": "quadruped",
+      "features": [
+        {
+          "part": "whisker",
+          "detail": "four prominent whiskers"
+        },
+        {
+          "part": "fur",
+          "detail": "cream-colored fur"
+        },
+        {
+          "part": "coin",
+          "detail": "gold koban coin"
+        },
+        {
+          "part": "head",
+          "detail": "ovoid head"
+        },
+        {
+          "part": "tooth",
+          "detail": "two pointed teeth"
+        },
+        {
+          "part": "ear",
+          "detail": "black ears"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Meowth_%28Pok%C3%A9mon%29",
+      "revision": 4626291,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "0e205c1877eaa55ffe9db20e758884c5f5d186fd79aab5390ea9871b9af3036a",
+      "method": "text-descriptor-extraction-v1",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "params": [],
+    "aspect": "2:3",
+    "motifs": "Cream, black and warm gold accents; one small oval gold coin pendant. No armor or cat-ear headband.",
+    "outputMode": "casual",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "custom": "1024x1536 vertical 2:3. Same clearly adult woman. Both hands naturally visible with five distinct fingers each. No weapons.",
+    "cat": "hobbies_leisure",
+    "expr": "focused",
+    "pose": "sitting",
+    "orient": "side",
+    "frame": "three_quarter",
+    "lens": "documentary35",
+    "scene": "Seated sideways on a stool at a cozy record-store listening station, carefully selecting a plain vinyl sleeve from the shelf. Side view from head to knees, face clearly visible in profile and both hands readable.",
+    "outfit": "Opaque black sleeveless cropped top and cream short shorts, bare shoulders, midriff and thighs. Small oval gold coin pendant. Plain vinyl sleeves without text. No armor or head ornaments."
+  },
+  "casual3": {
+    "mech": "나옹",
+    "sourceName": "Meowth",
+    "series": "normal",
+    "style": "glossy_promo",
+    "sourceAppearance": {
+      "name": "나옹",
+      "en": "Meowth",
+      "color": "yellow",
+      "shape": "quadruped",
+      "features": [
+        {
+          "part": "whisker",
+          "detail": "four prominent whiskers"
+        },
+        {
+          "part": "fur",
+          "detail": "cream-colored fur"
+        },
+        {
+          "part": "coin",
+          "detail": "gold koban coin"
+        },
+        {
+          "part": "head",
+          "detail": "ovoid head"
+        },
+        {
+          "part": "tooth",
+          "detail": "two pointed teeth"
+        },
+        {
+          "part": "ear",
+          "detail": "black ears"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Meowth_%28Pok%C3%A9mon%29",
+      "revision": 4626291,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "0e205c1877eaa55ffe9db20e758884c5f5d186fd79aab5390ea9871b9af3036a",
+      "method": "text-descriptor-extraction-v1",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "params": [],
+    "aspect": "2:3",
+    "motifs": "Cream, black and warm gold accents; one small oval gold coin pendant. No armor or cat-ear headband.",
+    "outputMode": "casual",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "custom": "1024x1536 vertical 2:3. Same clearly adult woman. Both hands naturally visible with five distinct fingers each. No weapons.",
+    "cat": "everyday",
+    "expr": "amused",
+    "pose": "holding_cup",
+    "orient": "front",
+    "frame": "waist_up",
+    "lens": "portrait85",
+    "scene": "Enjoying a coffee break at a quiet outdoor cafe, holding a plain ceramic mug at chest height with both hands. Front-facing, amused closed-lip smile toward the viewer.",
+    "outfit": "Opaque cream off-shoulder cropped blouse with delicate black piping, bare shoulders, collarbones and a narrow strip of midriff. Small oval gold pendant. No armor or head ornaments, no text on the mug.",
+    "camera": "Strict waist-up crop: bottom edge exactly at her natural waist, no hips, lap or thighs visible. Complete head and both hands remain inside the frame."
+  }
+}

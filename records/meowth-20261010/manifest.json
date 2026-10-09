@@ -1,0 +1,251 @@
+{
+  "card": "나옹",
+  "style": "glossy_promo",
+  "generation_mode": "built-in image_gen",
+  "identity": "img/나옹_light_glossy_promo_f.webp",
+  "items": [
+    {
+      "slot": "light",
+      "card": "나옹",
+      "filename": "나옹_light_glossy_promo_f.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-d817d5c0-08a7-4de1-b573-f44aa5e1bf43.png",
+      "source_sha256": "f6bfb2ac1463d2edc8d2c50edca0628675ebf727af1501470277fb56d42bc60d",
+      "output_sha256": "f1b585c70208dd837d4275f7df1305e5ccd045ee34fa940ee8c8186d87e22de0",
+      "git_blob_sha": "70e090d69179e1aa986c9bbc93fd22b69a39d2da",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "references": [],
+      "basis": "actual generator UI; exact submitted prompt checksum matched",
+      "prompt_file": "light.txt",
+      "ui_prompt_checksum": 329970391,
+      "submitted_prompt_sha256": "5daa94275b8e7dafeecc9b131c6c5d18511b28f4a69b22cad8fe102aa1c02abc"
+    },
+    {
+      "slot": "heavy",
+      "card": "나옹",
+      "filename": "나옹_heavy_glossy_promo_f.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-e4c95079-58dc-4c80-8234-89da19bb34cf.png",
+      "source_sha256": "f8903fa2c5917324da7fcf024575d198657fd0ebba86b268e4a5206649f9c21e",
+      "output_sha256": "e374c8d1d212ea47bc817a5c33207362e5dfb57a972748132ef475e9fc8c939c",
+      "git_blob_sha": "a188cff26bbb06212eaa7f4038912a30ceca4da1",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "references": [
+        "img/나옹_light_glossy_promo_f.webp"
+      ],
+      "basis": "actual generator UI; exact submitted prompt checksum matched",
+      "prompt_file": "heavy.txt",
+      "ui_prompt_checksum": 778531121,
+      "submitted_prompt_sha256": "5ad4ffede8a8f95994196762c4867e217eb384d052d2fe557184531ad2827e31"
+    },
+    {
+      "slot": "mobility",
+      "card": "나옹",
+      "filename": "나옹_mobility_glossy_promo_f.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-5183dd56-062e-4066-a686-9493f23f1266.png",
+      "source_sha256": "dca92ffef331ecad957697b320cc31db34fee55a03694fd3e07deee366d917d7",
+      "output_sha256": "837b580e64d7852efba3f9976520bfeb7a722fb714216f80a269cb8a3a94bfd5",
+      "git_blob_sha": "1e50cc560c7e42c3cb89ce2e2adf3b1e3c36d44b",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "references": [
+        "img/나옹_light_glossy_promo_f.webp"
+      ],
+      "basis": "actual generator UI; exact submitted prompt checksum matched",
+      "prompt_file": "mobility.txt",
+      "ui_prompt_checksum": 2495356784,
+      "submitted_prompt_sha256": "211bffbaee022c578a74390ead2d851c13eb691f258e4a3074f113c9fc0c35fc"
+    },
+    {
+      "slot": "light_overdrive",
+      "card": "나옹",
+      "filename": "나옹_light_overdrive_glossy_promo_f.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-c6669191-e803-4d33-b834-0056ec613771.png",
+      "source_sha256": "4ff98dc9be496e32b7a9fd30e0243de5e2e690cbed59e1007b3e455a6d1659d2",
+      "output_sha256": "1856feb97785bf499e3dad9754228f4894cbe54c2595a49bcccbbe96f70a11b5",
+      "git_blob_sha": "e259c707c57526ddb01c0b07645b1fab6847ee22",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "references": [
+        "img/나옹_light_glossy_promo_f.webp"
+      ],
+      "basis": "actual generator UI; exact submitted prompt checksum matched",
+      "prompt_file": "light_overdrive.txt",
+      "ui_prompt_checksum": 3559244745,
+      "submitted_prompt_sha256": "763bd7661360a5cdd7ac3eb7da71a156169b4455480aeb825e7891d7da971323"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "card": "나옹",
+      "filename": "나옹_heavy_overdrive_glossy_promo_f.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-b7dfa233-cb8e-40a5-b167-10164940f213.png",
+      "source_sha256": "6706b0a91538510ef59de82d50a6a205ce2ebd27581e63ce6817473a18b9a443",
+      "output_sha256": "9b2e9927dd00b6d94856772e447c97b8314dda2785f3e1709eca77435cc44bad",
+      "git_blob_sha": "93b46b34c0ffe117df5ea186bd45cc68abe624e3",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "references": [
+        "img/나옹_heavy_glossy_promo_f.webp",
+        "img/나옹_light_glossy_promo_f.webp"
+      ],
+      "basis": "actual generator UI; exact submitted prompt checksum matched",
+      "prompt_file": "heavy_overdrive.txt",
+      "ui_prompt_checksum": 3027807854,
+      "submitted_prompt_sha256": "192bd41a2bdc021390a44a9d9b8cba1b5e324ce7ff77265eeb7584e96caa98a7"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "card": "나옹",
+      "filename": "나옹_mobility_overdrive_glossy_promo_f.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-d9c0835a-65af-4c5b-a8ea-6d86aa8ea781.png",
+      "source_sha256": "c572d5a99d7b23bf50055b374dd1f53460e43227fc5e795c78cc46f07fd979e5",
+      "output_sha256": "079d289214f611ee2cc07f21cbb0d976a784a4373a71130ef296167c9eb0be06",
+      "git_blob_sha": "658c2886ef2d61f709960a8eeccff9b7046d1f60",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "references": [
+        "img/나옹_mobility_glossy_promo_f.webp",
+        "img/나옹_light_glossy_promo_f.webp"
+      ],
+      "basis": "actual generator UI; exact submitted prompt checksum matched",
+      "prompt_file": "mobility_overdrive.txt",
+      "ui_prompt_checksum": 2575176586,
+      "submitted_prompt_sha256": "9b7aaf89114b1d7398dbc62b0acd189887d1b4c6bdd7009801a14f5b1599c37b"
+    },
+    {
+      "slot": "casual1",
+      "card": "나옹",
+      "filename": "나옹_glossy_promo_f_casual1.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-7a1237b9-d565-45d0-b417-a0ffe803c5cb.png",
+      "source_sha256": "599b50ed524589de3cb84e75908a794fdcf153ee4c04ac607d74ab344a3244b0",
+      "output_sha256": "3d0b45ae052144656ae1b00862e234521f45379e86e0c25bc671d1e27225d508",
+      "git_blob_sha": "5c755535f2253a3639826a132d3a89c0bef08741",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "references": [
+        "img/나옹_light_glossy_promo_f.webp"
+      ],
+      "basis": "actual generator UI; exact submitted prompt checksum matched",
+      "prompt_file": "casual1.txt",
+      "ui_prompt_checksum": 1457917566,
+      "submitted_prompt_sha256": "a909037fec97c3b5c5545630a76e32a88e2cd93f1b740b842a60de118e759a2d",
+      "scene_choices": {
+        "cat": "swimwear",
+        "expr": "confident",
+        "pose": "standing_relaxed",
+        "orient": "front_3q",
+        "frame": "full_body",
+        "lens": "natural50",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        }
+      }
+    },
+    {
+      "slot": "casual2",
+      "card": "나옹",
+      "filename": "나옹_glossy_promo_f_casual2.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-9f40b1dd-de53-4288-bef8-466c0a729457.png",
+      "source_sha256": "cfb3ad39be038d4f059af145641ba2a2ab1deac586000e43bd43cf5e71d541e5",
+      "output_sha256": "4a1e5067d0dc204565468bfc6a997cdeb39f3bf30fc577685a8e173e4e54d58f",
+      "git_blob_sha": "dd43edfffb1051ac0bb702e5353578df48ae4713",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "references": [
+        "img/나옹_light_glossy_promo_f.webp"
+      ],
+      "basis": "actual generator UI; exact submitted prompt checksum matched",
+      "prompt_file": "casual2.txt",
+      "ui_prompt_checksum": 4066027368,
+      "submitted_prompt_sha256": "03390f3e9691180fd80039eda55996243ee67d1c6bc8a9cf6559005fdc1590d3",
+      "scene_choices": {
+        "cat": "hobbies_leisure",
+        "expr": "focused",
+        "pose": "sitting",
+        "orient": "side",
+        "frame": "three_quarter",
+        "lens": "documentary35",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        }
+      }
+    },
+    {
+      "slot": "casual3",
+      "card": "나옹",
+      "filename": "나옹_glossy_promo_f_casual3.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-931e6af9-cefb-4da5-a667-784b4da628df.png",
+      "source_sha256": "3aee531e289deed203bf8fdcd1d7e2ee3943232773a0686bac03931dd0200fb9",
+      "output_sha256": "982e166ba5dff737aa64d067fba19ab058dbaf640661806bab1a5af783b37c77",
+      "git_blob_sha": "f512aa6bb2d8a34c561a93072ab0223149b6a3b5",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "references": [
+        "img/나옹_light_glossy_promo_f.webp"
+      ],
+      "basis": "actual generator UI; exact submitted prompt checksum matched",
+      "prompt_file": "casual3.txt",
+      "ui_prompt_checksum": 3999818516,
+      "submitted_prompt_sha256": "a187c50b3bf7fd1b7329e5eca195a82ff0ac3a2ae89ad71f82dadbc1c3ac4b1e",
+      "scene_choices": {
+        "cat": "everyday",
+        "expr": "amused",
+        "pose": "holding_cup",
+        "orient": "front",
+        "frame": "waist_up",
+        "lens": "portrait85",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        }
+      }
+    }
+  ]
+}

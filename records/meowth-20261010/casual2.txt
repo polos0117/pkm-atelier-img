@@ -1,0 +1,26 @@
+CHARACTER: the same woman as the attached image — Meowth (나옹) personified, normal type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+MOTIFS to echo lightly: Cream, black and warm gold accents; one small oval gold coin pendant. No armor or cat-ear headband..
+
+SCENE (chosen):
+Expression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed
+Pose: Sit naturally on a chair or bench with supported feet and readable hands.
+Orientation: side body profile, approximately 90 degrees to camera
+Scene: Seated sideways on a stool at a cozy record-store listening station, carefully selecting a plain vinyl sleeve from the shelf. Side view from head to knees, face clearly visible in profile and both hands readable.
+Outfit and props: Opaque black sleeveless cropped top and cream short shorts, bare shoulders, midriff and thighs. Small oval gold coin pendant. Plain vinyl sleeves without text. No armor or head ornaments.
+Category: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.
+Note: 1024x1536 vertical 2:3. Same clearly adult woman. Both hands naturally visible with five distinct fingers each. No weapons.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+Lens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

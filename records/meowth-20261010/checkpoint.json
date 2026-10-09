@@ -1,0 +1,21 @@
+{
+  "card": "나옹",
+  "status": "generation_complete_upload_prepared",
+  "image_repository": "polos0117/pkm-atelier-img",
+  "branch": "main",
+  "identity": "img/나옹_light_glossy_promo_f.webp",
+  "identity_sha256": "f1b585c70208dd837d4275f7df1305e5ccd045ee34fa940ee8c8186d87e22de0",
+  "completed_files": [
+    "나옹_light_glossy_promo_f.webp",
+    "나옹_heavy_glossy_promo_f.webp",
+    "나옹_mobility_glossy_promo_f.webp",
+    "나옹_light_overdrive_glossy_promo_f.webp",
+    "나옹_heavy_overdrive_glossy_promo_f.webp",
+    "나옹_mobility_overdrive_glossy_promo_f.webp",
+    "나옹_glossy_promo_f_casual1.webp",
+    "나옹_glossy_promo_f_casual2.webp",
+    "나옹_glossy_promo_f_casual3.webp"
+  ],
+  "remaining": [],
+  "recovery": "The paired assets and submitted prompt records preserve the approved identity and continuation inputs."
+}
