@@ -1,0 +1,21 @@
+{
+  "card": "페르시온",
+  "status": "generation_complete_upload_prepared",
+  "image_repository": "polos0117/pkm-atelier-img",
+  "branch": "main",
+  "identity": "img/페르시온_light_glossy_promo_f.webp",
+  "identity_sha256": "16bccf4da77529cefbd12eaba44949263e7ce1baac2a981f75b868f0d6d27b5e",
+  "completed_files": [
+    "페르시온_light_glossy_promo_f.webp",
+    "페르시온_heavy_glossy_promo_f.webp",
+    "페르시온_mobility_glossy_promo_f.webp",
+    "페르시온_light_overdrive_glossy_promo_f.webp",
+    "페르시온_heavy_overdrive_glossy_promo_f.webp",
+    "페르시온_mobility_overdrive_glossy_promo_f.webp",
+    "페르시온_glossy_promo_f_casual1.webp",
+    "페르시온_glossy_promo_f_casual2.webp",
+    "페르시온_glossy_promo_f_casual3.webp"
+  ],
+  "remaining": [],
+  "recovery": "The paired assets and submitted prompt records preserve the approved identity and continuation inputs."
+}

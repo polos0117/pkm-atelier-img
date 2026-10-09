@@ -1,0 +1,251 @@
+{
+  "card": "페르시온",
+  "style": "glossy_promo",
+  "generation_mode": "built-in image_gen",
+  "identity": "img/페르시온_light_glossy_promo_f.webp",
+  "items": [
+    {
+      "slot": "light",
+      "card": "페르시온",
+      "filename": "페르시온_light_glossy_promo_f.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-7bd55a60-5948-4998-a247-685c4fe767ec.png",
+      "source_sha256": "e63d2526ab6c020ec398c4ad8774985f6ff3e105761590d6c6bf765b5911af0a",
+      "output_sha256": "16bccf4da77529cefbd12eaba44949263e7ce1baac2a981f75b868f0d6d27b5e",
+      "git_blob_sha": "9452f109947dd757ce546c3f3c62980cca6d9772",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "references": [],
+      "basis": "actual generator UI; exact submitted prompt checksum matched",
+      "prompt_file": "light.txt",
+      "ui_prompt_checksum": 1716524072,
+      "submitted_prompt_sha256": "416f4861e6c614d847dd9a6b8c9a819ce8edf456ff8ec003dbc287e6bc609b21"
+    },
+    {
+      "slot": "heavy",
+      "card": "페르시온",
+      "filename": "페르시온_heavy_glossy_promo_f.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-df5cbe19-bbd3-4eb9-b65d-492d7e70d35e.png",
+      "source_sha256": "e1e9e67844a5bc6103d5434fe1813d290cf994f097a1d30d5728817356ab4fdc",
+      "output_sha256": "bd972c9ef7025580f65d3bf5d3148d6e81102c85473464111f64d9d2f8a086cb",
+      "git_blob_sha": "c75c1274c58039ff3c3835a730d5f4a8482ebbdb",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "references": [
+        "img/페르시온_light_glossy_promo_f.webp"
+      ],
+      "basis": "actual generator UI; exact submitted prompt checksum matched",
+      "prompt_file": "heavy.txt",
+      "ui_prompt_checksum": 2577565207,
+      "submitted_prompt_sha256": "9d8fa4af3d42315d726b366d2836fce62b71de7e492abbbae6ad0534da1eb9f1"
+    },
+    {
+      "slot": "mobility",
+      "card": "페르시온",
+      "filename": "페르시온_mobility_glossy_promo_f.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-cbff74af-740e-49aa-bae3-4d2b037460a9.png",
+      "source_sha256": "ba08cd30812de12cf1adb50c142377e91720cbf33a269c82868ac3bf65f52565",
+      "output_sha256": "6a1b7f61bdf8958578330a27604aeccf1f41fed0014cdeb5c04269fea9a58133",
+      "git_blob_sha": "f86bd9b9a13659aed4c80ba0c3f910da899f753b",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "references": [
+        "img/페르시온_light_glossy_promo_f.webp"
+      ],
+      "basis": "actual generator UI; exact submitted prompt checksum matched",
+      "prompt_file": "mobility.txt",
+      "ui_prompt_checksum": 1121421846,
+      "submitted_prompt_sha256": "f56e66398a2dcb2c99b8f1ed35d4d5c22ff6ca04bbcd3a45ffd083b4a20ca0c4"
+    },
+    {
+      "slot": "light_overdrive",
+      "card": "페르시온",
+      "filename": "페르시온_light_overdrive_glossy_promo_f.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-13062ea3-a3da-4dc8-b6e1-3a3e03c635ed.png",
+      "source_sha256": "0c878b156b026a18cbe576b235c536a8db7fcfe6e1b104a0e67b49cec8439a71",
+      "output_sha256": "f5fde9a4f3035fd0278a58b59cc307a513cc52028ea7c179744149f423264228",
+      "git_blob_sha": "8727b3f9d79b5a123c25822b4468e47e802d3248",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "references": [
+        "img/페르시온_light_glossy_promo_f.webp"
+      ],
+      "basis": "actual generator UI; exact submitted prompt checksum matched",
+      "prompt_file": "light_overdrive.txt",
+      "ui_prompt_checksum": 3741993686,
+      "submitted_prompt_sha256": "c3d4f064157398380901a5cab496db470319aee81f6188742f5d1eeb4d256265"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "card": "페르시온",
+      "filename": "페르시온_heavy_overdrive_glossy_promo_f.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-76cfd374-a944-4ee7-98e5-2bc64c594e5e.png",
+      "source_sha256": "23d6444b482ccb41b6350fd159b374bbf9e73c7dc6c7963c4ebb80ac1aae81b6",
+      "output_sha256": "fd18c493d62fadfcefb7ac48c8ae5d08fe3109430a76bfca343ceba8dbe018d2",
+      "git_blob_sha": "c5d9a51f1c395269995aeadcc80c4eb574225c90",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "references": [
+        "img/페르시온_heavy_glossy_promo_f.webp",
+        "img/페르시온_light_glossy_promo_f.webp"
+      ],
+      "basis": "actual generator UI; exact submitted prompt checksum matched",
+      "prompt_file": "heavy_overdrive.txt",
+      "ui_prompt_checksum": 1295420867,
+      "submitted_prompt_sha256": "61ed5e98aed7f2e83c6233b6c8f8bdcf73b9ff8e2004afe7ada88d44552bed15"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "card": "페르시온",
+      "filename": "페르시온_mobility_overdrive_glossy_promo_f.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-19e09294-6086-4e39-ac3e-a2667cba7889.png",
+      "source_sha256": "39d14801625726d681dcf1388d762b5322321965095864a80d3803bfd8a07516",
+      "output_sha256": "36bbda121e91734d15274978e99d5309353b76921f4bb7cea7d6290c0f090542",
+      "git_blob_sha": "b5ad54c75dd37ed758892492694d9a30eb13cb7a",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "references": [
+        "img/페르시온_mobility_glossy_promo_f.webp",
+        "img/페르시온_light_glossy_promo_f.webp"
+      ],
+      "basis": "actual generator UI; exact submitted prompt checksum matched",
+      "prompt_file": "mobility_overdrive.txt",
+      "ui_prompt_checksum": 2405139887,
+      "submitted_prompt_sha256": "e45556c02e3983e0839701e3d688b3717eb320d4ee362c9d363b06f4657cb4fc"
+    },
+    {
+      "slot": "casual1",
+      "card": "페르시온",
+      "filename": "페르시온_glossy_promo_f_casual1.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-b648708f-c85e-451a-bc9f-5b317e19c78f.png",
+      "source_sha256": "3cbdcab7df7ae654a958bde0afd6f755edf2b094d8c3da6696e412dbced18af3",
+      "output_sha256": "f04a27e665b292f342c7e0bf732cc817f5d1d453a9a12658c44b0960b441d23b",
+      "git_blob_sha": "e1a465f54b12486f10288d004208bf0695f62090",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "references": [
+        "img/페르시온_light_glossy_promo_f.webp"
+      ],
+      "basis": "actual generator UI; exact submitted prompt checksum matched",
+      "prompt_file": "casual1.txt",
+      "ui_prompt_checksum": 234875698,
+      "submitted_prompt_sha256": "f6c01ab282b6e9c2ea7eb956c08e2ff3771eab4971308ef9e949f6c09e17567a",
+      "scene_choices": {
+        "cat": "swimwear",
+        "expr": "confident",
+        "pose": "standing_relaxed",
+        "orient": "front_3q",
+        "frame": "full_body",
+        "lens": "natural50",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        }
+      }
+    },
+    {
+      "slot": "casual2",
+      "card": "페르시온",
+      "filename": "페르시온_glossy_promo_f_casual2.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-3daa1520-4382-43e2-adce-5f45b5ae79ee.png",
+      "source_sha256": "61785302cf9e1da4a6cf1a0f04d22a3d41014989a402220a9ec8a627c4c02232",
+      "output_sha256": "98caf32811bd0669e40ea7d6b53966a86a401d23c58ce2bccdb062c9d2a2b034",
+      "git_blob_sha": "1803bf2149d7fbaf824d674dc9c732fabbd55746",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "references": [
+        "img/페르시온_light_glossy_promo_f.webp"
+      ],
+      "basis": "actual generator UI; exact submitted prompt checksum matched",
+      "prompt_file": "casual2.txt",
+      "ui_prompt_checksum": 3292165206,
+      "submitted_prompt_sha256": "f8fe36ff26e0789ecec6339ca132eb1135759a193b1248fb435ce1c42a815052",
+      "scene_choices": {
+        "cat": "hobbies_leisure",
+        "expr": "focused",
+        "pose": "sitting",
+        "orient": "side",
+        "frame": "three_quarter",
+        "lens": "documentary35",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        }
+      }
+    },
+    {
+      "slot": "casual3",
+      "card": "페르시온",
+      "filename": "페르시온_glossy_promo_f_casual3.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-261e1949-5e93-457f-8b0d-2fc9dff6dc90.png",
+      "source_sha256": "2236360201fa8f4023fd1a1d3db784f61003c88700cdc21955178026e67bd50d",
+      "output_sha256": "e27d1d7d7048f9e5b6e1b70c9391f559e80f7af1595c92588949ba14762ff496",
+      "git_blob_sha": "9d9b05e0741350581f279dea7e17fb04cf4be189",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "references": [
+        "img/페르시온_light_glossy_promo_f.webp"
+      ],
+      "basis": "actual generator UI; exact submitted prompt checksum matched",
+      "prompt_file": "casual3.txt",
+      "ui_prompt_checksum": 767059200,
+      "submitted_prompt_sha256": "ed34da3226a4e6e82e33db18be0e51cb08e109ad1cf3409bb8347a97dd7442d3",
+      "scene_choices": {
+        "cat": "everyday",
+        "expr": "amused",
+        "pose": "holding_cup",
+        "orient": "front",
+        "frame": "waist_up",
+        "lens": "portrait85",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        }
+      }
+    }
+  ]
+}

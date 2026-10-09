@@ -1,0 +1,27 @@
+CHARACTER: the same woman as the attached image — Persian (페르시온) personified, normal type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+MOTIFS to echo lightly: Cream and champagne tones with one small ruby pendant; no armor, circlet or cat-ear ornaments..
+
+SCENE (chosen):
+Expression: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed
+Pose: Hold a cup comfortably in one or both hands during a quiet break.
+Orientation: torso and pelvis face the camera; gaze is independent
+Scene: Enjoying a coffee break at a quiet outdoor cafe, holding a plain ceramic mug at chest height with both hands. Front-facing, amused closed-lip smile toward the viewer.
+Outfit and props: Opaque cream off-shoulder cropped blouse with delicate black piping, bare shoulders, collarbones and a narrow strip of midriff. Small ruby pendant. No armor or head ornaments, no text on the mug.
+Category: Depict ordinary personal-life moments rather than occupation, costume, or formal editorial shoots. Keep them candid, believable, visually varied, and attractive without becoming too plain.
+Note: 1024x1536 vertical 2:3. Same clearly adult woman. Both hands naturally visible with five distinct fingers each. No weapons.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+Lens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.
+Camera: Strict waist-up crop: bottom edge exactly at her natural waist, no hips, lap or thighs visible. Complete head and both hands remain inside the frame.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
