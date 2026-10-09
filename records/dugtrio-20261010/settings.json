@@ -1,0 +1,389 @@
+{
+  "heavy": {
+    "mech": "닥트리오",
+    "sourceName": "Dugtrio",
+    "series": "ground",
+    "style": "glossy_promo",
+    "sourceAppearance": {
+      "name": "닥트리오",
+      "en": "Dugtrio",
+      "color": "brown",
+      "shape": "heads",
+      "features": [
+        {
+          "part": "skin",
+          "detail": "brown skin"
+        },
+        {
+          "part": "nose",
+          "detail": "large, round, pink nose"
+        },
+        {
+          "part": "eye",
+          "detail": "black eyes"
+        },
+        {
+          "part": "head",
+          "detail": "tough head"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Dugtrio_%28Pok%C3%A9mon%29",
+      "revision": 4630044,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "03c15950fa9ad0404840e60512947f62b835f82e4d7bd126bfda85dc1f52fb1b",
+      "method": "text-descriptor-extraction-v1",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "params": [],
+    "aspect": "2:3",
+    "motifs": "The three rounded mole heads become a trio of smooth brown oval ornaments of staggered heights along a slim headband, each with a tiny rose-pink oval inset; repeat the three-part rhythm in curved armor seams and a scalloped belt trim. These are abstract worn decorations, without faces.",
+    "outputMode": "action",
+    "identityMode": "reference",
+    "form": "heavy",
+    "pose": "braced_stance",
+    "scene": "Warm sandstone ravine at late afternoon, standing on firm ground with a subtle circular dust trace around her boots.",
+    "custom": "1024x1536, vertical 2:3 full body. Hands empty, both visible, five clearly separated fingers each. No weapons."
+  },
+  "mobility": {
+    "mech": "닥트리오",
+    "sourceName": "Dugtrio",
+    "series": "ground",
+    "style": "glossy_promo",
+    "sourceAppearance": {
+      "name": "닥트리오",
+      "en": "Dugtrio",
+      "color": "brown",
+      "shape": "heads",
+      "features": [
+        {
+          "part": "skin",
+          "detail": "brown skin"
+        },
+        {
+          "part": "nose",
+          "detail": "large, round, pink nose"
+        },
+        {
+          "part": "eye",
+          "detail": "black eyes"
+        },
+        {
+          "part": "head",
+          "detail": "tough head"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Dugtrio_%28Pok%C3%A9mon%29",
+      "revision": 4630044,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "03c15950fa9ad0404840e60512947f62b835f82e4d7bd126bfda85dc1f52fb1b",
+      "method": "text-descriptor-extraction-v1",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "params": [],
+    "aspect": "2:3",
+    "motifs": "The three rounded mole heads become a trio of smooth brown oval ornaments of staggered heights along a slim headband, each with a tiny rose-pink oval inset; repeat the three-part rhythm in curved armor seams and a scalloped belt trim. These are abstract worn decorations, without faces.",
+    "outputMode": "action",
+    "identityMode": "reference",
+    "form": "mobility",
+    "pose": "cross_step",
+    "scene": "Warm sandstone ravine at late afternoon, standing on firm ground with a subtle circular dust trace around her boots.",
+    "custom": "1024x1536, vertical 2:3 full body. Hands empty, both visible, five clearly separated fingers each. No weapons."
+  },
+  "light_overdrive": {
+    "mech": "닥트리오",
+    "sourceName": "Dugtrio",
+    "series": "ground",
+    "style": "glossy_promo",
+    "sourceAppearance": {
+      "name": "닥트리오",
+      "en": "Dugtrio",
+      "color": "brown",
+      "shape": "heads",
+      "features": [
+        {
+          "part": "skin",
+          "detail": "brown skin"
+        },
+        {
+          "part": "nose",
+          "detail": "large, round, pink nose"
+        },
+        {
+          "part": "eye",
+          "detail": "black eyes"
+        },
+        {
+          "part": "head",
+          "detail": "tough head"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Dugtrio_%28Pok%C3%A9mon%29",
+      "revision": 4630044,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "03c15950fa9ad0404840e60512947f62b835f82e4d7bd126bfda85dc1f52fb1b",
+      "method": "text-descriptor-extraction-v1",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "params": [],
+    "aspect": "2:3",
+    "motifs": "The three rounded mole heads become a trio of smooth brown oval ornaments of staggered heights along a slim headband, each with a tiny rose-pink oval inset; repeat the three-part rhythm in curved armor seams and a scalloped belt trim. These are abstract worn decorations, without faces.",
+    "outputMode": "action",
+    "form": "overdrive",
+    "baseForm": "light",
+    "custom": "1024x1536, vertical 2:3 full body. Hands empty, both visible, five clearly separated fingers each. No weapons."
+  },
+  "heavy_overdrive": {
+    "mech": "닥트리오",
+    "sourceName": "Dugtrio",
+    "series": "ground",
+    "style": "glossy_promo",
+    "sourceAppearance": {
+      "name": "닥트리오",
+      "en": "Dugtrio",
+      "color": "brown",
+      "shape": "heads",
+      "features": [
+        {
+          "part": "skin",
+          "detail": "brown skin"
+        },
+        {
+          "part": "nose",
+          "detail": "large, round, pink nose"
+        },
+        {
+          "part": "eye",
+          "detail": "black eyes"
+        },
+        {
+          "part": "head",
+          "detail": "tough head"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Dugtrio_%28Pok%C3%A9mon%29",
+      "revision": 4630044,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "03c15950fa9ad0404840e60512947f62b835f82e4d7bd126bfda85dc1f52fb1b",
+      "method": "text-descriptor-extraction-v1",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "params": [],
+    "aspect": "2:3",
+    "motifs": "The three rounded mole heads become a trio of smooth brown oval ornaments of staggered heights along a slim headband, each with a tiny rose-pink oval inset; repeat the three-part rhythm in curved armor seams and a scalloped belt trim. These are abstract worn decorations, without faces.",
+    "outputMode": "action",
+    "form": "overdrive",
+    "baseForm": "heavy",
+    "custom": "1024x1536, vertical 2:3 full body. Hands empty, both visible, five clearly separated fingers each. No weapons."
+  },
+  "mobility_overdrive": {
+    "mech": "닥트리오",
+    "sourceName": "Dugtrio",
+    "series": "ground",
+    "style": "glossy_promo",
+    "sourceAppearance": {
+      "name": "닥트리오",
+      "en": "Dugtrio",
+      "color": "brown",
+      "shape": "heads",
+      "features": [
+        {
+          "part": "skin",
+          "detail": "brown skin"
+        },
+        {
+          "part": "nose",
+          "detail": "large, round, pink nose"
+        },
+        {
+          "part": "eye",
+          "detail": "black eyes"
+        },
+        {
+          "part": "head",
+          "detail": "tough head"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Dugtrio_%28Pok%C3%A9mon%29",
+      "revision": 4630044,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "03c15950fa9ad0404840e60512947f62b835f82e4d7bd126bfda85dc1f52fb1b",
+      "method": "text-descriptor-extraction-v1",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "params": [],
+    "aspect": "2:3",
+    "motifs": "The three rounded mole heads become a trio of smooth brown oval ornaments of staggered heights along a slim headband, each with a tiny rose-pink oval inset; repeat the three-part rhythm in curved armor seams and a scalloped belt trim. These are abstract worn decorations, without faces.",
+    "outputMode": "action",
+    "form": "overdrive",
+    "baseForm": "mobility",
+    "custom": "1024x1536, vertical 2:3 full body. Hands empty, both visible, five clearly separated fingers each. No weapons."
+  },
+  "casual1": {
+    "mech": "닥트리오",
+    "sourceName": "Dugtrio",
+    "series": "ground",
+    "style": "glossy_promo",
+    "sourceAppearance": {
+      "name": "닥트리오",
+      "en": "Dugtrio",
+      "color": "brown",
+      "shape": "heads",
+      "features": [
+        {
+          "part": "skin",
+          "detail": "brown skin"
+        },
+        {
+          "part": "nose",
+          "detail": "large, round, pink nose"
+        },
+        {
+          "part": "eye",
+          "detail": "black eyes"
+        },
+        {
+          "part": "head",
+          "detail": "tough head"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Dugtrio_%28Pok%C3%A9mon%29",
+      "revision": 4630044,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "03c15950fa9ad0404840e60512947f62b835f82e4d7bd126bfda85dc1f52fb1b",
+      "method": "text-descriptor-extraction-v1",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "params": [],
+    "aspect": "2:3",
+    "motifs": "Earthy brown and rose-pink color accents with three tiny oval beads on a necklace; no armor or headband.",
+    "outputMode": "casual",
+    "cat": "swimwear",
+    "expr": "confident",
+    "pose": "standing_relaxed",
+    "orient": "front_3q",
+    "frame": "full_body",
+    "lens": "natural50",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "scene": "Standing on a dry sandstone terrace beside a desert resort pool at sunset. One hand rests lightly on the railing and the other hangs relaxed at her side. Quiet vacation moment, her entire body and both feet visible.",
+    "outfit": "Opaque, fully lined cocoa-brown two-piece swimwear with a structured sweetheart neckline, secure wide straps, high-cut briefs and small rose-pink edge trim; three tiny oval beads on a necklace. Bare shoulders, midriff and legs. No armor or headband.",
+    "custom": "1024x1536 vertical 2:3. Same clearly adult woman. Both bare hands visible with five distinct natural fingers each. No weapons."
+  },
+  "casual2": {
+    "mech": "닥트리오",
+    "sourceName": "Dugtrio",
+    "series": "ground",
+    "style": "glossy_promo",
+    "sourceAppearance": {
+      "name": "닥트리오",
+      "en": "Dugtrio",
+      "color": "brown",
+      "shape": "heads",
+      "features": [
+        {
+          "part": "skin",
+          "detail": "brown skin"
+        },
+        {
+          "part": "nose",
+          "detail": "large, round, pink nose"
+        },
+        {
+          "part": "eye",
+          "detail": "black eyes"
+        },
+        {
+          "part": "head",
+          "detail": "tough head"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Dugtrio_%28Pok%C3%A9mon%29",
+      "revision": 4630044,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "03c15950fa9ad0404840e60512947f62b835f82e4d7bd126bfda85dc1f52fb1b",
+      "method": "text-descriptor-extraction-v1",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "params": [],
+    "aspect": "2:3",
+    "motifs": "Earthy brown and rose-pink color accents with three tiny oval beads on a necklace; no armor or headband.",
+    "outputMode": "casual",
+    "cat": "hobbies_leisure",
+    "expr": "focused",
+    "pose": "sitting",
+    "orient": "side",
+    "frame": "three_quarter",
+    "lens": "documentary35",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "scene": "At a sunny pottery studio, seated on a low stool beside a worktable, carefully shaping a small clay bowl with both hands. Side-view seated composition from head to knees; face visible in profile, workspace and both hands clearly readable.",
+    "outfit": "A cocoa-brown fitted sleeveless crop top, sand-beige short shorts and a short rose-pink waist apron. Bare shoulders, midriff and thighs; opaque fabrics. Three tiny oval beads on her necklace. Small clay bowl and pottery tools on the table, no armor or headband.",
+    "custom": "1024x1536 vertical 2:3. Same clearly adult woman. Both bare hands visible with five distinct natural fingers each. No weapons."
+  },
+  "casual3": {
+    "mech": "닥트리오",
+    "sourceName": "Dugtrio",
+    "series": "ground",
+    "style": "glossy_promo",
+    "sourceAppearance": {
+      "name": "닥트리오",
+      "en": "Dugtrio",
+      "color": "brown",
+      "shape": "heads",
+      "features": [
+        {
+          "part": "skin",
+          "detail": "brown skin"
+        },
+        {
+          "part": "nose",
+          "detail": "large, round, pink nose"
+        },
+        {
+          "part": "eye",
+          "detail": "black eyes"
+        },
+        {
+          "part": "head",
+          "detail": "tough head"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Dugtrio_%28Pok%C3%A9mon%29",
+      "revision": 4630044,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "03c15950fa9ad0404840e60512947f62b835f82e4d7bd126bfda85dc1f52fb1b",
+      "method": "text-descriptor-extraction-v1",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "params": [],
+    "aspect": "2:3",
+    "motifs": "Earthy brown and rose-pink color accents with three tiny oval beads on a necklace; no armor or headband.",
+    "outputMode": "casual",
+    "cat": "everyday",
+    "expr": "amused",
+    "pose": "holding_cup",
+    "orient": "front",
+    "frame": "waist_up",
+    "lens": "portrait85",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "scene": "Taking a quiet coffee break at an outdoor cafe in an old sandstone town. Holding a plain ceramic mug at chest height with both hands, amused closed-lip smile toward the viewer. Waist-up frame ending at her natural waist, complete head and both hands visible.",
+    "outfit": "An opaque rose-pink off-shoulder cropped blouse with short puff sleeves and a cocoa-brown skirt below the crop. Bare shoulders, collarbones and a small strip of midriff. Three tiny oval beads on a necklace. No armor or headband, no text on the mug.",
+    "custom": "1024x1536 vertical 2:3. Same clearly adult woman. Both bare hands visible with five distinct natural fingers each. No weapons.",
+    "camera": "Strict waist-up crop: enlarge the subject so the bottom edge ends exactly at her natural waist, no skirt, lap, hips or thighs visible. Complete head and both hands remain inside the frame. Image 1 is the approved identity reference; image 2 is the coffee-scene edit target. Keep the same scene, blouse, mug, hands and face while correcting only the framing."
+  }
+}

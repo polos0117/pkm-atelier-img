@@ -1,0 +1,21 @@
+{
+  "card": "닥트리오",
+  "status": "generation_complete_upload_prepared",
+  "image_repository": "polos0117/pkm-atelier-img",
+  "branch": "main",
+  "identity": "img/닥트리오_light_glossy_promo_f.webp",
+  "identity_sha256": "4d842c7f2361085363ca16ed9ba573f23cc90bab1a219cd413bd2b6dc7912e7e",
+  "completed_files": [
+    "닥트리오_light_glossy_promo_f.webp",
+    "닥트리오_heavy_glossy_promo_f.webp",
+    "닥트리오_mobility_glossy_promo_f.webp",
+    "닥트리오_light_overdrive_glossy_promo_f.webp",
+    "닥트리오_heavy_overdrive_glossy_promo_f.webp",
+    "닥트리오_mobility_overdrive_glossy_promo_f.webp",
+    "닥트리오_glossy_promo_f_casual1.webp",
+    "닥트리오_glossy_promo_f_casual2.webp",
+    "닥트리오_glossy_promo_f_casual3.webp"
+  ],
+  "remaining": [],
+  "recovery": "The accompanying WebP assets and prompt records provide durable identity and continuation inputs."
+}

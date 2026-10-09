@@ -1,0 +1,242 @@
+{
+  "card": "닥트리오",
+  "source": "Dugtrio",
+  "style": "glossy_promo",
+  "date": "2026-10-10",
+  "generation_mode": "built-in image_gen",
+  "identity": "img/닥트리오_light_glossy_promo_f.webp",
+  "items": [
+    {
+      "slot": "light",
+      "card": "닥트리오",
+      "filename": "닥트리오_light_glossy_promo_f.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-c1c6d5b9-1e6a-426b-86cc-c5c17cbeb412.png",
+      "source_sha256": "6f39478154ac3d7866c63d085f5a437de261e90899846837752a61b7ff271415",
+      "output_sha256": "4d842c7f2361085363ca16ed9ba573f23cc90bab1a219cd413bd2b6dc7912e7e",
+      "git_blob_sha": "56f533b04a44ed923872410f193c5dcbdc8bca6c",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "reference": null,
+      "basis": "actual generator UI; submitted prompt matches UI checksum",
+      "prompt_file": "light.txt",
+      "ui_prompt_checksum": 950765345,
+      "submitted_prompt_sha256": "ac8c220ca50b448d28759bafb3b8042acd90a70bc2cdbc5e0f5312e4ccd74d78"
+    },
+    {
+      "slot": "heavy",
+      "card": "닥트리오",
+      "filename": "닥트리오_heavy_glossy_promo_f.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-119bcd9a-b221-43a0-a612-e91f22cc9353.png",
+      "source_sha256": "b6232905fbbc2a7ce07ef8980390947bf2717ff6495668e11960ac76c7b86e98",
+      "output_sha256": "9e9b4c6d0424a1a2022b1e9f922134dfcc328e9ac31d7a65aabaded14fb8afe4",
+      "git_blob_sha": "27ef391694fa0d359b3b87c3f577867cd8136380",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "reference": "닥트리오_light_glossy_promo_f.webp",
+      "basis": "actual generator UI; submitted prompt matches UI checksum",
+      "prompt_file": "heavy.txt",
+      "ui_prompt_checksum": 1928788463,
+      "submitted_prompt_sha256": "047600786a299c3a8721ec2c103a1aeda94633096200f076dc0de7408b9b2515"
+    },
+    {
+      "slot": "mobility",
+      "card": "닥트리오",
+      "filename": "닥트리오_mobility_glossy_promo_f.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-5f64fc3f-eb02-4e35-83a7-ba7e4ac65045.png",
+      "source_sha256": "497f9e26094447355639c717b58291200f1402810e3571960e90382fc0887f66",
+      "output_sha256": "9036796a85444103128433e4097436a373182995b9d26f43f122ff1886f12688",
+      "git_blob_sha": "71be6ce4b0e53e2fb16e880379f65e3e790f8c3d",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "reference": "닥트리오_light_glossy_promo_f.webp",
+      "basis": "actual generator UI; submitted prompt matches UI checksum",
+      "prompt_file": "mobility.txt",
+      "ui_prompt_checksum": 3326846544,
+      "submitted_prompt_sha256": "5fb021a79ea8d871e0cb6be834ddb6070077b01d190e7ea6de6d8e3ec28322af"
+    },
+    {
+      "slot": "light_overdrive",
+      "card": "닥트리오",
+      "filename": "닥트리오_light_overdrive_glossy_promo_f.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-98ed34e0-6cff-4699-b606-aa6de5b5d0a7.png",
+      "source_sha256": "f6b2c5e4562ff1a0121bf6c4485edbd4d3ec53fb6b606579995b34f1f812a19c",
+      "output_sha256": "3445f5cf89c0da933e6c8624a14ce97709e21c0a13043ea23d942d0e6b96aadd",
+      "git_blob_sha": "2751eea3eb00c009dfbc36a4d68401a15a3e6f50",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "reference": "닥트리오_light_glossy_promo_f.webp",
+      "basis": "actual generator UI; submitted prompt matches UI checksum",
+      "prompt_file": "light_overdrive.txt",
+      "ui_prompt_checksum": 2480708825,
+      "submitted_prompt_sha256": "1c84a3e261afb27dcc2bbf86cf15e6c2454cdd86bc6cef866e6948356e1d9ed0"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "card": "닥트리오",
+      "filename": "닥트리오_heavy_overdrive_glossy_promo_f.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-314cd6be-ccd6-4d64-a8c0-3e214b90940c.png",
+      "source_sha256": "ff5b0f878ce770e5345db80843e74dee4543a0de54ec28eb33850eea8bb01d2e",
+      "output_sha256": "678ea6977242d6e949831508437a04c23db74fa4ae865ab86b64b3f0cbd5ab1f",
+      "git_blob_sha": "cb8073ab3cb493bd2666149e9bd7902d37edd2b8",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "reference": "닥트리오_heavy_glossy_promo_f.webp",
+      "basis": "actual generator UI; submitted prompt matches UI checksum",
+      "prompt_file": "heavy_overdrive.txt",
+      "ui_prompt_checksum": 580076844,
+      "submitted_prompt_sha256": "23bce7117a435905f5aff557b5e2de2231679275a09cae116d129e7ef487e0d4"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "card": "닥트리오",
+      "filename": "닥트리오_mobility_overdrive_glossy_promo_f.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-6ac82ff7-5eb9-4901-8ac8-e221cb534724.png",
+      "source_sha256": "5c9c33ebb5d158d9e291524f6c039eaf429bae25757a713f053eb07c9771b755",
+      "output_sha256": "1d290f89ad381a802b08002a9e75841ca56316fb77f8367de9c94634e4ff4b51",
+      "git_blob_sha": "4405ec00f29d9d787fddc2b646ed1cf25385f447",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "reference": "닥트리오_mobility_glossy_promo_f.webp",
+      "basis": "actual generator UI; submitted prompt matches UI checksum",
+      "prompt_file": "mobility_overdrive.txt",
+      "ui_prompt_checksum": 679074584,
+      "submitted_prompt_sha256": "4079cb41948663d6338f82d74e98040a5b8eb8b45c92c39a452924277549da1f"
+    },
+    {
+      "slot": "casual1",
+      "card": "닥트리오",
+      "filename": "닥트리오_glossy_promo_f_casual1.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-563359a5-e3dd-49c2-be49-0229684b0df5.png",
+      "source_sha256": "773dba249f78b185d16a3a2510645c513342a7b18727076dc76c26af079c1dbb",
+      "output_sha256": "8468564251c221382a7ac7ba9dc056ddd72402c2560f80eb3d04793a1b093960",
+      "git_blob_sha": "01c0c03646b0a0897f74c5e5c27a8a3a45dab78e",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "reference": "닥트리오_light_glossy_promo_f.webp",
+      "basis": "actual generator UI; submitted prompt matches UI checksum",
+      "prompt_file": "casual1.txt",
+      "ui_prompt_checksum": 3968367654,
+      "submitted_prompt_sha256": "50f1ee8933122e82a78ec24df64086a4acdf10c4f10019bb37a96839fecfa53e",
+      "scene_choices": {
+        "cat": "swimwear",
+        "expr": "confident",
+        "pose": "standing_relaxed",
+        "orient": "front_3q",
+        "frame": "full_body",
+        "lens": "natural50",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        }
+      }
+    },
+    {
+      "slot": "casual2",
+      "card": "닥트리오",
+      "filename": "닥트리오_glossy_promo_f_casual2.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-8a6e8835-289d-4edd-ab42-ac3a5a6fadb7.png",
+      "source_sha256": "691dd8769c62ca2c85ccb32514cab892971859294c25029285a163c4f95b4cf8",
+      "output_sha256": "01f8ac64cc214ebd7d2f15f02657994aac19fad2faf437dad467d4b7ace5a0e6",
+      "git_blob_sha": "d0deb4fca6fbdeee0fc0e1f63fdb3afc2b41dac2",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "reference": "닥트리오_light_glossy_promo_f.webp",
+      "basis": "actual generator UI; submitted prompt matches UI checksum",
+      "prompt_file": "casual2.txt",
+      "ui_prompt_checksum": 3362495702,
+      "submitted_prompt_sha256": "c36ba09c17296fe686b4ad60cffd7d6c1a9b4873073b8719a51ab452e81d2e27",
+      "scene_choices": {
+        "cat": "hobbies_leisure",
+        "expr": "focused",
+        "pose": "sitting",
+        "orient": "side",
+        "frame": "three_quarter",
+        "lens": "documentary35",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        }
+      }
+    },
+    {
+      "slot": "casual3",
+      "card": "닥트리오",
+      "filename": "닥트리오_glossy_promo_f_casual3.webp",
+      "source": "/workspace/scratch/494c55caaccd/generated_images/exec-0fe5a980-d409-4527-afb0-c172a0c0a8fb.png",
+      "source_sha256": "23962e2dc87b6057ca9095672ac40edf8ba2dedddfaad256be9b36ea654a6140",
+      "output_sha256": "106e27fba787c1bb85cfadfb5696b78c533147f7f6f74acb274436bc084f8c39",
+      "git_blob_sha": "39a55d487a7b233fcd269658e46ec4a6e9a65bff",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "gender": "f",
+      "reference": "닥트리오_light_glossy_promo_f.webp",
+      "basis": "actual generator UI; submitted prompt matches UI checksum",
+      "prompt_file": "casual3.txt",
+      "ui_prompt_checksum": 2590887301,
+      "submitted_prompt_sha256": "f9c8c83f89d9499e13546e48783814ba6f201287a18ba94ca787992692f9a917",
+      "scene_choices": {
+        "cat": "everyday",
+        "expr": "amused",
+        "pose": "holding_cup",
+        "orient": "front",
+        "frame": "waist_up",
+        "lens": "portrait85",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        }
+      }
+    }
+  ],
+  "validation": {
+    "count": 9,
+    "size_format": "all 1024x1536 real WebP",
+    "prompt_ui_match": true,
+    "visual_review": "identity, single figure, empty hands, form silhouettes and matching opened compositions reviewed",
+    "casual3": "framing correction generated using approved light identity plus original coffee target"
+  }
+}

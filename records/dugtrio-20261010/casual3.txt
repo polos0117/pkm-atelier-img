@@ -1,0 +1,27 @@
+CHARACTER: the same woman as the attached image — Dugtrio (닥트리오) personified, ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+MOTIFS to echo lightly: Earthy brown and rose-pink color accents with three tiny oval beads on a necklace; no armor or headband..
+
+SCENE (chosen):
+Expression: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed
+Pose: Hold a cup comfortably in one or both hands during a quiet break.
+Orientation: torso and pelvis face the camera; gaze is independent
+Scene: Taking a quiet coffee break at an outdoor cafe in an old sandstone town. Holding a plain ceramic mug at chest height with both hands, amused closed-lip smile toward the viewer. Waist-up frame ending at her natural waist, complete head and both hands visible.
+Outfit and props: An opaque rose-pink off-shoulder cropped blouse with short puff sleeves and a cocoa-brown skirt below the crop. Bare shoulders, collarbones and a small strip of midriff. Three tiny oval beads on a necklace. No armor or headband, no text on the mug.
+Category: Depict ordinary personal-life moments rather than occupation, costume, or formal editorial shoots. Keep them candid, believable, visually varied, and attractive without becoming too plain.
+Note: 1024x1536 vertical 2:3. Same clearly adult woman. Both bare hands visible with five distinct natural fingers each. No weapons.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+Lens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.
+Camera: Strict waist-up crop: enlarge the subject so the bottom edge ends exactly at her natural waist, no skirt, lap, hips or thighs visible. Complete head and both hands remain inside the frame. Image 1 is the approved identity reference; image 2 is the coffee-scene edit target. Keep the same scene, blouse, mug, hands and face while correcting only the framing.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
