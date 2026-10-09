@@ -1,0 +1,722 @@
+{
+  "card": "콘팡",
+  "style": "glossy_promo",
+  "canonical": "img/콘팡_light_glossy_promo_f.webp",
+  "images": {
+    "light": {
+      "selection": {
+        "mech": "콘팡",
+        "sourceName": "Venonat",
+        "series": "bug / poison",
+        "sourceAppearance": {
+          "name": "콘팡",
+          "en": "Venonat",
+          "color": "purple",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "fur",
+              "detail": "purple fur"
+            },
+            {
+              "part": "body",
+              "detail": "spherical body"
+            },
+            {
+              "part": "tooth",
+              "detail": "two teeth"
+            },
+            {
+              "part": "foot",
+              "detail": "two-toed feet"
+            },
+            {
+              "part": "mouth",
+              "detail": "pink pincer-like mouth"
+            },
+            {
+              "part": "eye",
+              "detail": "large, red compound eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Venonat_%28Pok%C3%A9mon%29",
+          "revision": 4623298,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "e5a2046961b29c649df90937807a19b2a376df881bfc7a4e7da2bd6abae4ffb3",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "action",
+        "identityMode": "create",
+        "form": "light",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "motifs": "Venonat’s fluffy violet coat becomes a short plush collar and finely scalloped violet armor trim; its red compound eyes become paired faceted crimson jewels on the slim headband and shoulder plates; its two white antennae become slim curved headband ornaments; pink mouth markings become small pink angular plate accents.",
+        "custom": "No weapons or handheld battle props. Keep both hands fully in frame, each with exactly five clearly separated natural fingers. 1024x1536."
+      },
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Venonat (콘팡), bug / poison type.\n\nPALETTE: purple, pink.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Venonat as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): Venonat’s fluffy violet coat becomes a short plush collar and finely scalloped violet armor trim; its red compound eyes become paired faceted crimson jewels on the slim headband and shoulder plates; its two white antennae become slim curved headband ornaments; pink mouth markings become small pink angular plate accents..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: No weapons or handheld battle props. Keep both hands fully in frame, each with exactly five clearly separated natural fingers. 1024x1536.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "ui_checksum": 1935755808,
+      "ui_selected": true,
+      "tool": "built-in image_gen",
+      "slot": "light",
+      "source": "exec-9ddd5a17-6ca6-402e-9bdf-11f5554ec7b2.png",
+      "output": "img/콘팡_light_glossy_promo_f.webp",
+      "sha256": "a457247de6b20f9faafa83da7eaf93eb190b519c57f0f012743b21a7ba5a2b58",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt_key": "light",
+      "references": []
+    },
+    "heavy": {
+      "selection": {
+        "mech": "콘팡",
+        "sourceName": "Venonat",
+        "series": "bug / poison",
+        "sourceAppearance": {
+          "name": "콘팡",
+          "en": "Venonat",
+          "color": "purple",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "fur",
+              "detail": "purple fur"
+            },
+            {
+              "part": "body",
+              "detail": "spherical body"
+            },
+            {
+              "part": "tooth",
+              "detail": "two teeth"
+            },
+            {
+              "part": "foot",
+              "detail": "two-toed feet"
+            },
+            {
+              "part": "mouth",
+              "detail": "pink pincer-like mouth"
+            },
+            {
+              "part": "eye",
+              "detail": "large, red compound eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Venonat_%28Pok%C3%A9mon%29",
+          "revision": 4623298,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "e5a2046961b29c649df90937807a19b2a376df881bfc7a4e7da2bd6abae4ffb3",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "heavy",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "motifs": "Venonat’s fluffy violet coat becomes a short plush collar and finely scalloped violet armor trim; its red compound eyes become paired faceted crimson jewels on the slim headband and shoulder plates; its two white antennae become slim curved headband ornaments; pink mouth markings become small pink angular plate accents.",
+        "custom": "No weapons or handheld battle props. Keep both hands fully in frame, each with exactly five clearly separated natural fingers. 1024x1536."
+      },
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Venonat (콘팡), bug / poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nMOTIFS to keep: Venonat’s fluffy violet coat becomes a short plush collar and finely scalloped violet armor trim; its red compound eyes become paired faceted crimson jewels on the slim headband and shoulder plates; its two white antennae become slim curved headband ornaments; pink mouth markings become small pink angular plate accents..\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: No weapons or handheld battle props. Keep both hands fully in frame, each with exactly five clearly separated natural fingers. 1024x1536.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "ui_checksum": 1229531256,
+      "ui_selected": true,
+      "tool": "built-in image_gen",
+      "slot": "heavy",
+      "source": "exec-44bd30f9-d6a9-4448-9303-9522fa2e6973.png",
+      "output": "img/콘팡_heavy_glossy_promo_f.webp",
+      "sha256": "cd4f8b26c005f641a0149d6b32ad52029f9131f0ae5ec502dffe83ba291e1392",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt_key": "heavy",
+      "references": [
+        "img/콘팡_light_glossy_promo_f.webp"
+      ]
+    },
+    "mobility": {
+      "selection": {
+        "mech": "콘팡",
+        "sourceName": "Venonat",
+        "series": "bug / poison",
+        "sourceAppearance": {
+          "name": "콘팡",
+          "en": "Venonat",
+          "color": "purple",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "fur",
+              "detail": "purple fur"
+            },
+            {
+              "part": "body",
+              "detail": "spherical body"
+            },
+            {
+              "part": "tooth",
+              "detail": "two teeth"
+            },
+            {
+              "part": "foot",
+              "detail": "two-toed feet"
+            },
+            {
+              "part": "mouth",
+              "detail": "pink pincer-like mouth"
+            },
+            {
+              "part": "eye",
+              "detail": "large, red compound eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Venonat_%28Pok%C3%A9mon%29",
+          "revision": 4623298,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "e5a2046961b29c649df90937807a19b2a376df881bfc7a4e7da2bd6abae4ffb3",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "mobility",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "motifs": "Venonat’s fluffy violet coat becomes a short plush collar and finely scalloped violet armor trim; its red compound eyes become paired faceted crimson jewels on the slim headband and shoulder plates; its two white antennae become slim curved headband ornaments; pink mouth markings become small pink angular plate accents.",
+        "custom": "No weapons or handheld battle props. Keep both hands fully in frame, each with exactly five clearly separated natural fingers. 1024x1536."
+      },
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Venonat (콘팡), bug / poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nMOTIFS to keep: Venonat’s fluffy violet coat becomes a short plush collar and finely scalloped violet armor trim; its red compound eyes become paired faceted crimson jewels on the slim headband and shoulder plates; its two white antennae become slim curved headband ornaments; pink mouth markings become small pink angular plate accents..\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: No weapons or handheld battle props. Keep both hands fully in frame, each with exactly five clearly separated natural fingers. 1024x1536.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "ui_checksum": 4239746341,
+      "ui_selected": true,
+      "tool": "built-in image_gen",
+      "slot": "mobility",
+      "source": "exec-7494e413-582a-4348-97ff-d8155a9bfc35.png",
+      "output": "img/콘팡_mobility_glossy_promo_f.webp",
+      "sha256": "b73864372dcaeb72d8d57aa513af768bb6fd7091f56ef04c365526c9fd72c275",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt_key": "mobility",
+      "references": [
+        "img/콘팡_light_glossy_promo_f.webp"
+      ]
+    },
+    "light_overdrive": {
+      "selection": {
+        "mech": "콘팡",
+        "sourceName": "Venonat",
+        "series": "bug / poison",
+        "sourceAppearance": {
+          "name": "콘팡",
+          "en": "Venonat",
+          "color": "purple",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "fur",
+              "detail": "purple fur"
+            },
+            {
+              "part": "body",
+              "detail": "spherical body"
+            },
+            {
+              "part": "tooth",
+              "detail": "two teeth"
+            },
+            {
+              "part": "foot",
+              "detail": "two-toed feet"
+            },
+            {
+              "part": "mouth",
+              "detail": "pink pincer-like mouth"
+            },
+            {
+              "part": "eye",
+              "detail": "large, red compound eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Venonat_%28Pok%C3%A9mon%29",
+          "revision": 4623298,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "e5a2046961b29c649df90937807a19b2a376df881bfc7a4e7da2bd6abae4ffb3",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "motifs": "Venonat’s fluffy violet coat becomes a short plush collar and finely scalloped violet armor trim; its red compound eyes become paired faceted crimson jewels on the slim headband and shoulder plates; its two white antennae become slim curved headband ornaments; pink mouth markings become small pink angular plate accents.",
+        "custom": "No weapons or handheld battle props. Keep both hands fully in frame, each with exactly five clearly separated natural fingers. 1024x1536.",
+        "baseForm": "light"
+      },
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Venonat (콘팡), bug / poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a lime-green glow with shimmering wing-like light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: No weapons or handheld battle props. Keep both hands fully in frame, each with exactly five clearly separated natural fingers. 1024x1536.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_checksum": 1255763956,
+      "ui_selected": true,
+      "tool": "built-in image_gen",
+      "slot": "light_overdrive",
+      "source": "exec-6af1f0a8-64db-4f3c-86a2-297a433a5d40.png",
+      "output": "img/콘팡_light_overdrive_glossy_promo_f.webp",
+      "sha256": "deeb8667841d486bcf589d3c429ca87b06ede9d5706fae77f976923f9caf6b49",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt_key": "light_overdrive",
+      "references": [
+        "img/콘팡_light_glossy_promo_f.webp"
+      ]
+    },
+    "heavy_overdrive": {
+      "selection": {
+        "mech": "콘팡",
+        "sourceName": "Venonat",
+        "series": "bug / poison",
+        "sourceAppearance": {
+          "name": "콘팡",
+          "en": "Venonat",
+          "color": "purple",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "fur",
+              "detail": "purple fur"
+            },
+            {
+              "part": "body",
+              "detail": "spherical body"
+            },
+            {
+              "part": "tooth",
+              "detail": "two teeth"
+            },
+            {
+              "part": "foot",
+              "detail": "two-toed feet"
+            },
+            {
+              "part": "mouth",
+              "detail": "pink pincer-like mouth"
+            },
+            {
+              "part": "eye",
+              "detail": "large, red compound eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Venonat_%28Pok%C3%A9mon%29",
+          "revision": 4623298,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "e5a2046961b29c649df90937807a19b2a376df881bfc7a4e7da2bd6abae4ffb3",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "motifs": "Venonat’s fluffy violet coat becomes a short plush collar and finely scalloped violet armor trim; its red compound eyes become paired faceted crimson jewels on the slim headband and shoulder plates; its two white antennae become slim curved headband ornaments; pink mouth markings become small pink angular plate accents.",
+        "custom": "No weapons or handheld battle props. Keep both hands fully in frame, each with exactly five clearly separated natural fingers. 1024x1536.",
+        "baseForm": "heavy"
+      },
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Venonat (콘팡), bug / poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a lime-green glow with shimmering wing-like light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: No weapons or handheld battle props. Keep both hands fully in frame, each with exactly five clearly separated natural fingers. 1024x1536.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_checksum": 2282352889,
+      "ui_selected": true,
+      "tool": "built-in image_gen",
+      "slot": "heavy_overdrive",
+      "source": "exec-b8cba79d-59bc-4a53-8422-b77cdbb0d642.png",
+      "output": "img/콘팡_heavy_overdrive_glossy_promo_f.webp",
+      "sha256": "01250e68e58a15b5b65972760b1dae7e1eabe5c4b3108cce4ed61f483bfc08c6",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt_key": "heavy_overdrive",
+      "references": [
+        "img/콘팡_heavy_glossy_promo_f.webp",
+        "img/콘팡_light_glossy_promo_f.webp"
+      ]
+    },
+    "mobility_overdrive": {
+      "selection": {
+        "mech": "콘팡",
+        "sourceName": "Venonat",
+        "series": "bug / poison",
+        "sourceAppearance": {
+          "name": "콘팡",
+          "en": "Venonat",
+          "color": "purple",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "fur",
+              "detail": "purple fur"
+            },
+            {
+              "part": "body",
+              "detail": "spherical body"
+            },
+            {
+              "part": "tooth",
+              "detail": "two teeth"
+            },
+            {
+              "part": "foot",
+              "detail": "two-toed feet"
+            },
+            {
+              "part": "mouth",
+              "detail": "pink pincer-like mouth"
+            },
+            {
+              "part": "eye",
+              "detail": "large, red compound eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Venonat_%28Pok%C3%A9mon%29",
+          "revision": 4623298,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "e5a2046961b29c649df90937807a19b2a376df881bfc7a4e7da2bd6abae4ffb3",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "motifs": "Venonat’s fluffy violet coat becomes a short plush collar and finely scalloped violet armor trim; its red compound eyes become paired faceted crimson jewels on the slim headband and shoulder plates; its two white antennae become slim curved headband ornaments; pink mouth markings become small pink angular plate accents.",
+        "custom": "No weapons or handheld battle props. Keep both hands fully in frame, each with exactly five clearly separated natural fingers. 1024x1536.",
+        "baseForm": "mobility"
+      },
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Venonat (콘팡), bug / poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a lime-green glow with shimmering wing-like light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: No weapons or handheld battle props. Keep both hands fully in frame, each with exactly five clearly separated natural fingers. 1024x1536.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_checksum": 3492789221,
+      "ui_selected": true,
+      "tool": "built-in image_gen",
+      "slot": "mobility_overdrive",
+      "source": "exec-7a9099e9-6f9b-4d15-b5ec-b911fb1cee27.png",
+      "output": "img/콘팡_mobility_overdrive_glossy_promo_f.webp",
+      "sha256": "e9e2b33c8a0e39b5b80ed700729229b2d39751fe9d2dade435d54adcbc1dd547",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt_key": "mobility_overdrive",
+      "references": [
+        "img/콘팡_mobility_glossy_promo_f.webp",
+        "img/콘팡_light_glossy_promo_f.webp"
+      ]
+    },
+    "casual1": {
+      "selection": {
+        "mech": "콘팡",
+        "sourceName": "Venonat",
+        "series": "bug / poison",
+        "sourceAppearance": {
+          "name": "콘팡",
+          "en": "Venonat",
+          "color": "purple",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "fur",
+              "detail": "purple fur"
+            },
+            {
+              "part": "body",
+              "detail": "spherical body"
+            },
+            {
+              "part": "tooth",
+              "detail": "two teeth"
+            },
+            {
+              "part": "foot",
+              "detail": "two-toed feet"
+            },
+            {
+              "part": "mouth",
+              "detail": "pink pincer-like mouth"
+            },
+            {
+              "part": "eye",
+              "detail": "large, red compound eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Venonat_%28Pok%C3%A9mon%29",
+          "revision": 4623298,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "e5a2046961b29c649df90937807a19b2a376df881bfc7a4e7da2bd6abae4ffb3",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "form": "light",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "motifs": "A tiny crimson faceted pendant and a subtle violet-pink color echo only; remove armor and antenna headgear.",
+        "custom": "1024x1536, vertical 2:3. Both hands visible with exactly five natural fingers each. No weapons.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "cat": "swimwear",
+        "expr": "laughing_open",
+        "pose": "walking",
+        "orient": "front_3q",
+        "frame": "full_body",
+        "lens": "documentary35",
+        "scene": "Walking barefoot along the shallow edge of a moonlit outdoor resort pool, warm garden lights and violet reflections on the water; laughing with eyes open, both hands relaxed and visible.",
+        "outfit": "An opaque violet two-piece swimsuit with pink piping, supportive lined cups, slim secure straps and high-cut lined briefs. A tiny crimson faceted pendant only; bare shoulders, midriff and legs. Remove all armor, plush collars, antenna headgear and large jewels."
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Venonat (콘팡) personified, bug / poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nMOTIFS to echo lightly: A tiny crimson faceted pendant and a subtle violet-pink color echo only; remove armor and antenna headgear..\n\nSCENE (chosen):\nExpression: mouth open wide in a laugh with teeth showing and cheeks raised, but the eyes stay open and engaged — lids only slightly narrowed, gaze still readable rather than squeezed shut\nPose: Walk at a comfortable pace with a natural step and arm swing.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: Walking barefoot along the shallow edge of a moonlit outdoor resort pool, warm garden lights and violet reflections on the water; laughing with eyes open, both hands relaxed and visible.\nOutfit and props: An opaque violet two-piece swimsuit with pink piping, supportive lined cups, slim secure straps and high-cut lined briefs. A tiny crimson faceted pendant only; bare shoulders, midriff and legs. Remove all armor, plush collars, antenna headgear and large jewels.\nCategory: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.\nNote: 1024x1536, vertical 2:3. Both hands visible with exactly five natural fingers each. No weapons.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_checksum": 2100902580,
+      "ui_selected": true,
+      "tool": "built-in image_gen",
+      "slot": "casual1",
+      "source": "exec-f8b14a4a-c0d2-488c-9465-7bb512941619.png",
+      "output": "img/콘팡_glossy_promo_f_casual1.webp",
+      "sha256": "2b979c8611087f3e379cb2ece5c7c3f02a739097708c56d49fd8fe1568feb07d",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt_key": "casual1",
+      "references": [
+        "img/콘팡_light_glossy_promo_f.webp"
+      ]
+    },
+    "casual2": {
+      "selection": {
+        "mech": "콘팡",
+        "sourceName": "Venonat",
+        "series": "bug / poison",
+        "sourceAppearance": {
+          "name": "콘팡",
+          "en": "Venonat",
+          "color": "purple",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "fur",
+              "detail": "purple fur"
+            },
+            {
+              "part": "body",
+              "detail": "spherical body"
+            },
+            {
+              "part": "tooth",
+              "detail": "two teeth"
+            },
+            {
+              "part": "foot",
+              "detail": "two-toed feet"
+            },
+            {
+              "part": "mouth",
+              "detail": "pink pincer-like mouth"
+            },
+            {
+              "part": "eye",
+              "detail": "large, red compound eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Venonat_%28Pok%C3%A9mon%29",
+          "revision": 4623298,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "e5a2046961b29c649df90937807a19b2a376df881bfc7a4e7da2bd6abae4ffb3",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "form": "light",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "motifs": "A tiny crimson faceted pendant and a subtle violet-pink color echo only; remove armor and antenna headgear.",
+        "custom": "1024x1536, vertical 2:3. Both hands visible with exactly five natural fingers each. No weapons.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "cat": "food_berries",
+        "expr": "focused",
+        "pose": "preparing_food",
+        "orient": "side",
+        "frame": "three_quarter",
+        "lens": "natural50",
+        "scene": "Preparing berry yogurt at a bright home kitchen island in soft morning light, stirring a bowl with a small wooden spoon in one hand and steadying the bowl with the other. Body in side profile, attentive adult face visible; frame from complete head to just above knees, both hands visible.",
+        "outfit": "A fitted pink sleeveless crop top with violet piping, high-waisted violet shorts and a short white waist apron. A tiny crimson faceted pendant only; bare shoulders, midriff and legs. Remove all armor, plush collars, antenna headgear and large jewels."
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Venonat (콘팡) personified, bug / poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nMOTIFS to echo lightly: A tiny crimson faceted pendant and a subtle violet-pink color echo only; remove armor and antenna headgear..\n\nSCENE (chosen):\nExpression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed\nPose: Work at a kitchen counter, stirring a bowl or arranging ingredients with clearly separated hands and utensils.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: Preparing berry yogurt at a bright home kitchen island in soft morning light, stirring a bowl with a small wooden spoon in one hand and steadying the bowl with the other. Body in side profile, attentive adult face visible; frame from complete head to just above knees, both hands visible.\nOutfit and props: A fitted pink sleeveless crop top with violet piping, high-waisted violet shorts and a short white waist apron. A tiny crimson faceted pendant only; bare shoulders, midriff and legs. Remove all armor, plush collars, antenna headgear and large jewels.\nCategory: Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.\nNote: 1024x1536, vertical 2:3. Both hands visible with exactly five natural fingers each. No weapons.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_checksum": 4000035916,
+      "ui_selected": true,
+      "tool": "built-in image_gen",
+      "slot": "casual2",
+      "source": "exec-d9c2cc22-0abe-4dab-b483-d5bbcf804635.png",
+      "output": "img/콘팡_glossy_promo_f_casual2.webp",
+      "sha256": "b1c5c8a31db80997dd7b3654cb21415dd0bae3a3e0c71479e836d83fb6725696",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt_key": "casual2",
+      "references": [
+        "img/콘팡_light_glossy_promo_f.webp"
+      ]
+    },
+    "casual3": {
+      "selection": {
+        "mech": "콘팡",
+        "sourceName": "Venonat",
+        "series": "bug / poison",
+        "sourceAppearance": {
+          "name": "콘팡",
+          "en": "Venonat",
+          "color": "purple",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "fur",
+              "detail": "purple fur"
+            },
+            {
+              "part": "body",
+              "detail": "spherical body"
+            },
+            {
+              "part": "tooth",
+              "detail": "two teeth"
+            },
+            {
+              "part": "foot",
+              "detail": "two-toed feet"
+            },
+            {
+              "part": "mouth",
+              "detail": "pink pincer-like mouth"
+            },
+            {
+              "part": "eye",
+              "detail": "large, red compound eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Venonat_%28Pok%C3%A9mon%29",
+          "revision": 4623298,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "e5a2046961b29c649df90937807a19b2a376df881bfc7a4e7da2bd6abae4ffb3",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "form": "light",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "motifs": "A tiny crimson faceted pendant and a subtle violet-pink color echo only; remove armor and antenna headgear.",
+        "custom": "1024x1536, vertical 2:3. Both hands visible with exactly five natural fingers each. No weapons.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3",
+        "cat": "hobbies_leisure",
+        "expr": "calm",
+        "pose": "reading_book",
+        "orient": "front",
+        "frame": "waist_up",
+        "lens": "portrait85",
+        "scene": "Reading quietly at a sunlit window seat, holding a small open book at chest height with both hands. Calm adult face looking over the pages toward the viewer. Strict waist-up framing with complete head and both hands, ending at the natural waist; no legs visible.",
+        "outfit": "An opaque violet ribbed crop camisole with secure slim pink straps and a tiny crimson faceted pendant. Bare shoulders and a small strip of midriff; lounge shorts stay below the waist-up crop. Remove all armor, plush collars, antenna headgear and large jewels. Book pages have no readable lettering."
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Venonat (콘팡) personified, bug / poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nMOTIFS to echo lightly: A tiny crimson faceted pendant and a subtle violet-pink color echo only; remove armor and antenna headgear..\n\nSCENE (chosen):\nExpression: relaxed brow, softly open eyes, lips closed and unstrained, no smile\nPose: Hold an open book with readable finger placement and look toward its pages.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: Reading quietly at a sunlit window seat, holding a small open book at chest height with both hands. Calm adult face looking over the pages toward the viewer. Strict waist-up framing with complete head and both hands, ending at the natural waist; no legs visible.\nOutfit and props: An opaque violet ribbed crop camisole with secure slim pink straps and a tiny crimson faceted pendant. Bare shoulders and a small strip of midriff; lounge shorts stay below the waist-up crop. Remove all armor, plush collars, antenna headgear and large jewels. Book pages have no readable lettering.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: 1024x1536, vertical 2:3. Both hands visible with exactly five natural fingers each. No weapons.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_checksum": 1588887019,
+      "ui_selected": true,
+      "tool": "built-in image_gen",
+      "slot": "casual3",
+      "source": "exec-6d961564-8070-4bbc-bfd5-13a1a1a073fc.png",
+      "output": "img/콘팡_glossy_promo_f_casual3.webp",
+      "sha256": "d8d382ef40ab3101c1684642164d5eb7d7f41bd5661fb2a52f29449dd01f31b8",
+      "size": [
+        1024,
+        1536
+      ],
+      "prompt_key": "casual3",
+      "references": [
+        "img/콘팡_light_glossy_promo_f.webp"
+      ]
+    }
+  },
+  "authorization": {
+    "public_repository": "polos0117/pkm-atelier-img",
+    "branch": "main",
+    "confirmed_by_user": true,
+    "date": "2026-10-10"
+  },
+  "status": "generated_and_validated"
+}
