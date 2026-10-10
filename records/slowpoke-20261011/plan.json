@@ -1,0 +1,66 @@
+{
+  "recent_comparison": [
+    "날쌩마",
+    "포니타",
+    "딱구리"
+  ],
+  "source": "read actual plans and submitted prompt records from image repository main",
+  "changes": "locations, concrete activities, clothing silhouettes and compositions changed; mandatory categories rotated",
+  "casual": [
+    {
+      "cat": "lingerie",
+      "expr": "sleepy",
+      "pose": "leaning_furniture",
+      "orient": "leaning_back",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "In a quiet apartment dressing nook after a late evening bath, leaning against a padded vanity stool while fastening a tiny pearl bracelet. Both hands raised separately at waist height, warm shaded lamps and lavender-blue window light.",
+      "outfit": "Opaque rose satin longline camisole with secure slim straps and scalloped cream lace trim, matching high-waisted short tap pants with full pelvis coverage. Bare shoulders arms and a narrow midriff gap, tiny pearl jewelry, no armor.",
+      "mech": "야돈",
+      "outputMode": "casual",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "Vertical 2:3 1024x1536. Same adult woman. Both hands have five distinct natural fingers. Remove all head armor, gauntlets and armored sash. Species appears only as a tiny accessory or color echo, no weapons, text or logos."
+    },
+    {
+      "cat": "food_berries",
+      "expr": "amused",
+      "pose": "kneeling",
+      "orient": "high_angle",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "On a shaded garden picnic terrace at sunny noon, kneeling on a folded cushion beside a low picnic table while placing fresh berry halves on a chilled dessert plate with a broad serving spoon. The other hand open on the table, head toes and hands visible, green leaf shadows.",
+      "outfit": "Cream sleeveless sailor-collar cotton blouse securely closed, rose-pink short culottes and flat sandals, a tiny spiral enamel pin at the collar. Bare arms and legs, ordinary airy summer separates, no armor.",
+      "mech": "야돈",
+      "outputMode": "casual",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "Vertical 2:3 1024x1536. Same adult woman. Both hands have five distinct natural fingers. Remove all head armor, gauntlets and armored sash. Species appears only as a tiny accessory or color echo, no weapons, text or logos."
+    },
+    {
+      "cat": "travel_exploration",
+      "expr": "curious",
+      "pose": "mid_stride",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "telephoto135",
+      "scene": "On a quiet salt-marsh boardwalk at orange sunset, pausing mid-stride to inspect a small smooth shell resting in one open palm, other arm relaxed by her side. Profile face visible, distant reeds and reflective channels, no other people.",
+      "outfit": "Lavender sleeveless collared short utility dress with secure button front, cream belt and sturdy sandals, a small canvas hip pouch and tiny pink spiral earrings. Bare shoulders arms and legs, no armor.",
+      "mech": "야돈",
+      "outputMode": "casual",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "Vertical 2:3 1024x1536. Same adult woman. Both hands have five distinct natural fingers. Remove all head armor, gauntlets and armored sash. Species appears only as a tiny accessory or color echo, no weapons, text or logos."
+    }
+  ],
+  "status": "9/9 generated; upload pending"
+}

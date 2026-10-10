@@ -1,0 +1,18 @@
+{
+  "cat": "lingerie",
+  "expr": "sleepy",
+  "pose": "leaning_furniture",
+  "orient": "leaning_back",
+  "frame": "waist_up",
+  "lens": "portrait85",
+  "scene": "In a quiet apartment dressing nook after a late evening bath, leaning against a padded vanity stool while fastening a tiny pearl bracelet. Both hands raised separately at waist height, warm shaded lamps and lavender-blue window light.",
+  "outfit": "Opaque rose satin longline camisole with secure slim straps and scalloped cream lace trim, matching high-waisted short tap pants with full pelvis coverage. Bare shoulders arms and a narrow midriff gap, tiny pearl jewelry, no armor.",
+  "mech": "야돈",
+  "outputMode": "casual",
+  "aspect": "2:3",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "custom": "Vertical 2:3 1024x1536. Same adult woman. Both hands have five distinct natural fingers. Remove all head armor, gauntlets and armored sash. Species appears only as a tiny accessory or color echo, no weapons, text or logos."
+}

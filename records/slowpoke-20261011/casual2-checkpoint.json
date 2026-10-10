@@ -1,0 +1,16 @@
+{
+  "original": "/workspace/scratch/59c4759ac156/generated_images/exec-7930a287-cb43-4ad6-b871-24f40427c85d.png",
+  "card": "야돈",
+  "slot": "casual2",
+  "style": "glossy_promo",
+  "basis": "actual generator UI selections and verified prompt",
+  "reference": "/workspace/scratch/59c4759ac156/generated_images/exec-2ae902e5-9399-46fc-9651-537df8e60ed2.png",
+  "output": "/workspace/scratch/59c4759ac156/pkm-atelier-img/img/야돈_glossy_promo_f_casual2.webp",
+  "size": [
+    1024,
+    1536
+  ],
+  "format": "WEBP",
+  "sha256": "70462dd5b5a218f4d0b4912b6b657e5f482d8fa59e84d0120c717132df32de4b",
+  "review": "single adult identity, five-digit hands, required form or varied casual scene reviewed"
+}

@@ -1,0 +1,18 @@
+{
+  "cat": "food_berries",
+  "expr": "amused",
+  "pose": "kneeling",
+  "orient": "high_angle",
+  "frame": "full_body",
+  "lens": "documentary35",
+  "scene": "On a shaded garden picnic terrace at sunny noon, kneeling on a folded cushion beside a low picnic table while placing fresh berry halves on a chilled dessert plate with a broad serving spoon. The other hand open on the table, head toes and hands visible, green leaf shadows.",
+  "outfit": "Cream sleeveless sailor-collar cotton blouse securely closed, rose-pink short culottes and flat sandals, a tiny spiral enamel pin at the collar. Bare arms and legs, ordinary airy summer separates, no armor.",
+  "mech": "야돈",
+  "outputMode": "casual",
+  "aspect": "2:3",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "custom": "Vertical 2:3 1024x1536. Same adult woman. Both hands have five distinct natural fingers. Remove all head armor, gauntlets and armored sash. Species appears only as a tiny accessory or color echo, no weapons, text or logos."
+}
