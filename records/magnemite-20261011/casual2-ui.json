@@ -1,0 +1,150 @@
+{
+  "last": "코일",
+  "cards": {
+    "이상해씨": {
+      "style": "cinematic_semi_real",
+      "identityMode": "create",
+      "form": "light",
+      "baseForm": "light",
+      "motifs": "",
+      "formOverride": "",
+      "headFeature": "",
+      "params": {},
+      "locks": {},
+      "mode": "action",
+      "scenes": {
+        "action": {
+          "expr": "",
+          "pose": "",
+          "orient": "",
+          "scene": "",
+          "outfit": "",
+          "frame": "",
+          "lens": "",
+          "camera": "",
+          "custom": "",
+          "aspect": "2:3",
+          "cat": "everyday_basic",
+          "catCustom": "",
+          "ex": "",
+          "exCustom": "",
+          "axes": {},
+          "action": {
+            "category": "",
+            "example": "",
+            "timing": "",
+            "equipment": "",
+            "power": "",
+            "effects": "",
+            "speed": "",
+            "environment": ""
+          },
+          "randomLocks": {}
+        },
+        "casual": {
+          "expr": "",
+          "pose": "",
+          "orient": "",
+          "scene": "",
+          "outfit": "",
+          "frame": "",
+          "lens": "",
+          "camera": "",
+          "custom": "",
+          "aspect": "2:3",
+          "cat": "everyday_basic",
+          "catCustom": "",
+          "ex": "",
+          "exCustom": "",
+          "axes": {},
+          "action": {
+            "category": "",
+            "example": "",
+            "timing": "",
+            "equipment": "",
+            "power": "",
+            "effects": "",
+            "speed": "",
+            "environment": ""
+          },
+          "randomLocks": {}
+        }
+      }
+    },
+    "코일": {
+      "style": "glossy_promo",
+      "identityMode": "reference",
+      "form": "overdrive",
+      "baseForm": "mobility",
+      "motifs": "",
+      "formOverride": "",
+      "headFeature": "",
+      "params": {
+        "apparent age": "20s"
+      },
+      "locks": {},
+      "mode": "casual",
+      "scenes": {
+        "action": {
+          "expr": "",
+          "pose": "",
+          "orient": "",
+          "scene": "In a clean electrical substation courtyard at blue hour, poised standing front three-quarter card stance, both hands relaxed open beside her hips. Cool reflections and thin warm rim lighting.",
+          "outfit": "",
+          "frame": "",
+          "lens": "",
+          "camera": "",
+          "custom": "Vertical 2:3, 1024x1536. One clearly adult woman. Both complete hands visible, each with exactly one thumb and four clearly separated natural fingers. No weapons, text, logos or border.",
+          "aspect": "2:3",
+          "cat": "everyday_basic",
+          "catCustom": "",
+          "ex": "",
+          "exCustom": "",
+          "axes": {},
+          "action": {
+            "category": "",
+            "example": "",
+            "timing": "",
+            "equipment": "",
+            "power": "",
+            "effects": "",
+            "speed": "",
+            "environment": ""
+          },
+          "randomLocks": {}
+        },
+        "casual": {
+          "expr": "pensive",
+          "pose": "one_knee_up",
+          "orient": "high_angle",
+          "scene": "Inside a rainy attic music room at late afternoon, sitting on a low window cushion with one knee raised, sorting blank vinyl sleeves onto a small wooden crate. Both hands visible resting on separate sleeve corners, head and bare feet inside frame.",
+          "outfit": "Slate sleeveless button-front linen top, cobalt loose short culottes, bare arms shoulders legs, tiny red hair pin.",
+          "frame": "full_body",
+          "lens": "documentary35",
+          "camera": "",
+          "custom": "Vertical 2:3, 1024x1536. One clearly adult woman. Both complete hands visible, each with exactly one thumb and four clearly separated natural fingers. No weapons, text, logos or border. Same woman as the reference; remove all armor and mechanical head pieces. Species only as small jewelry or color echoes.",
+          "aspect": "2:3",
+          "cat": "hobbies_leisure",
+          "catCustom": "",
+          "ex": "",
+          "exCustom": "",
+          "axes": {
+            "overall_intensity": "strong",
+            "skin_exposure": "bold"
+          },
+          "action": {
+            "category": "",
+            "example": "",
+            "timing": "",
+            "equipment": "",
+            "power": "",
+            "effects": "",
+            "speed": "",
+            "environment": ""
+          },
+          "randomLocks": {}
+        }
+      }
+    }
+  }
+}

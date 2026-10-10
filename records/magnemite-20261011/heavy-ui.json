@@ -1,0 +1,147 @@
+{
+  "last": "코일",
+  "cards": {
+    "이상해씨": {
+      "style": "cinematic_semi_real",
+      "identityMode": "create",
+      "form": "light",
+      "baseForm": "light",
+      "motifs": "",
+      "formOverride": "",
+      "headFeature": "",
+      "params": {},
+      "locks": {},
+      "mode": "action",
+      "scenes": {
+        "action": {
+          "expr": "",
+          "pose": "",
+          "orient": "",
+          "scene": "",
+          "outfit": "",
+          "frame": "",
+          "lens": "",
+          "camera": "",
+          "custom": "",
+          "aspect": "2:3",
+          "cat": "everyday_basic",
+          "catCustom": "",
+          "ex": "",
+          "exCustom": "",
+          "axes": {},
+          "action": {
+            "category": "",
+            "example": "",
+            "timing": "",
+            "equipment": "",
+            "power": "",
+            "effects": "",
+            "speed": "",
+            "environment": ""
+          },
+          "randomLocks": {}
+        },
+        "casual": {
+          "expr": "",
+          "pose": "",
+          "orient": "",
+          "scene": "",
+          "outfit": "",
+          "frame": "",
+          "lens": "",
+          "camera": "",
+          "custom": "",
+          "aspect": "2:3",
+          "cat": "everyday_basic",
+          "catCustom": "",
+          "ex": "",
+          "exCustom": "",
+          "axes": {},
+          "action": {
+            "category": "",
+            "example": "",
+            "timing": "",
+            "equipment": "",
+            "power": "",
+            "effects": "",
+            "speed": "",
+            "environment": ""
+          },
+          "randomLocks": {}
+        }
+      }
+    },
+    "코일": {
+      "style": "glossy_promo",
+      "identityMode": "reference",
+      "form": "heavy",
+      "baseForm": "light",
+      "motifs": "",
+      "formOverride": "",
+      "headFeature": "",
+      "params": {
+        "apparent age": "20s"
+      },
+      "locks": {},
+      "mode": "action",
+      "scenes": {
+        "action": {
+          "expr": "",
+          "pose": "",
+          "orient": "",
+          "scene": "In a clean electrical substation courtyard at blue hour, poised standing front three-quarter card stance, both hands relaxed open beside her hips. Cool reflections and thin warm rim lighting.",
+          "outfit": "",
+          "frame": "",
+          "lens": "",
+          "camera": "",
+          "custom": "Vertical 2:3, 1024x1536. One clearly adult woman. Both complete hands visible, each with exactly one thumb and four clearly separated natural fingers. No weapons, text, logos or border.",
+          "aspect": "2:3",
+          "cat": "everyday_basic",
+          "catCustom": "",
+          "ex": "",
+          "exCustom": "",
+          "axes": {},
+          "action": {
+            "category": "",
+            "example": "",
+            "timing": "",
+            "equipment": "",
+            "power": "",
+            "effects": "",
+            "speed": "",
+            "environment": ""
+          },
+          "randomLocks": {}
+        },
+        "casual": {
+          "expr": "",
+          "pose": "",
+          "orient": "",
+          "scene": "",
+          "outfit": "",
+          "frame": "",
+          "lens": "",
+          "camera": "",
+          "custom": "",
+          "aspect": "2:3",
+          "cat": "everyday_basic",
+          "catCustom": "",
+          "ex": "",
+          "exCustom": "",
+          "axes": {},
+          "action": {
+            "category": "",
+            "example": "",
+            "timing": "",
+            "equipment": "",
+            "power": "",
+            "effects": "",
+            "speed": "",
+            "environment": ""
+          },
+          "randomLocks": {}
+        }
+      }
+    }
+  }
+}

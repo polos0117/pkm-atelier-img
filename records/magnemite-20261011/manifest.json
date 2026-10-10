@@ -1,0 +1,146 @@
+[
+  {
+    "slot": "light",
+    "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-af09d941-1a5e-4a94-a527-21e6710d95c7.png",
+    "card": "코일",
+    "output": "img/코일_light_glossy_promo_f.webp",
+    "style": "glossy_promo",
+    "selected_via": "actual Preact UI DOM harness",
+    "reference": null,
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "77bb6b208973c349689cc471dd87f8215f46f25242d82ec249cedcc34c4ade22",
+    "status": "generated and visually inspected"
+  },
+  {
+    "slot": "heavy",
+    "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-e02f7c44-15c6-4d8e-9ecf-badba3f15388.png",
+    "card": "코일",
+    "output": "img/코일_heavy_glossy_promo_f.webp",
+    "style": "glossy_promo",
+    "selected_via": "actual Preact UI DOM harness",
+    "reference": "img/코일_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "9676c351b804a6208fb621ae58eb6fa86b6f7fba18e870b9166f07f03eb7181e",
+    "status": "generated and visually inspected"
+  },
+  {
+    "slot": "mobility",
+    "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-645e7f06-c099-4d45-a977-ab53f05aa443.png",
+    "card": "코일",
+    "output": "img/코일_mobility_glossy_promo_f.webp",
+    "style": "glossy_promo",
+    "selected_via": "actual Preact UI DOM harness",
+    "reference": "img/코일_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "ee3f981c71203c4f39c765e5acbb5c264464a2cf1625fb62b1d949f86c449671",
+    "status": "generated and visually inspected"
+  },
+  {
+    "slot": "light_overdrive",
+    "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-e30c0ff6-8d1f-4107-bef2-3e5a027eacc8.png",
+    "card": "코일",
+    "output": "img/코일_light_overdrive_glossy_promo_f.webp",
+    "style": "glossy_promo",
+    "selected_via": "actual Preact UI DOM harness",
+    "reference": "img/코일_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "5ebcb3b5245e09a4adbf203348f2349397d158e1bd328ba0d601823aa37fb18a",
+    "status": "generated and visually inspected"
+  },
+  {
+    "slot": "heavy_overdrive",
+    "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-c8773eb9-ea0b-4345-917d-553cde9c44ea.png",
+    "card": "코일",
+    "output": "img/코일_heavy_overdrive_glossy_promo_f.webp",
+    "style": "glossy_promo",
+    "selected_via": "actual Preact UI DOM harness",
+    "reference": "img/코일_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "a0ff7de7bbaa6c501db763fb1d2f4ed77978f06e7ab6bc826d5ffe1048197d79",
+    "status": "generated and visually inspected"
+  },
+  {
+    "slot": "mobility_overdrive",
+    "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-8c7fe9eb-26c0-421b-9979-2e55aca2e558.png",
+    "card": "코일",
+    "output": "img/코일_mobility_overdrive_glossy_promo_f.webp",
+    "style": "glossy_promo",
+    "selected_via": "actual Preact UI DOM harness",
+    "reference": "img/코일_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "cf0497dfa6421d3d0d5bc18137043e5cd21ac525e7bc30bdce2f6b2e6e658da1",
+    "status": "generated and visually inspected"
+  },
+  {
+    "slot": "casual1",
+    "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-32bf1b02-7d8f-49fb-a42e-16656c592e43.png",
+    "card": "코일",
+    "output": "img/코일_glossy_promo_f_casual1.webp",
+    "style": "glossy_promo",
+    "selected_via": "actual Preact UI DOM harness",
+    "reference": "img/코일_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "a707ac70d319b09f5a506702aad186f3243f294e4ceb16a82de4a6e82ca939ab",
+    "status": "generated and visually inspected"
+  },
+  {
+    "slot": "casual2",
+    "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-8f9d40e7-ba4d-4883-8101-ca3c7a9bbebe.png",
+    "card": "코일",
+    "output": "img/코일_glossy_promo_f_casual2.webp",
+    "style": "glossy_promo",
+    "selected_via": "actual Preact UI DOM harness",
+    "reference": "img/코일_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "30fa52081fe683292c8ed6ee8fc104ab824ea2265b4947b52bd52b46e25781c2",
+    "status": "generated and visually inspected"
+  },
+  {
+    "slot": "casual3",
+    "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-8491c5ee-3e23-4aa9-a3ca-4c75839f625d.png",
+    "card": "코일",
+    "output": "img/코일_glossy_promo_f_casual3.webp",
+    "style": "glossy_promo",
+    "selected_via": "actual Preact UI DOM harness",
+    "reference": "img/코일_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "5e432befeed7952165d6a70fdc159c9a28e9083166908c31d753dfdf0a4bfdac",
+    "status": "generated and visually inspected"
+  }
+]

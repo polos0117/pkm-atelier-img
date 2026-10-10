@@ -1,0 +1,56 @@
+{
+  "name": "코일",
+  "slug": "magnemite",
+  "scene": "In a clean electrical substation courtyard at blue hour, poised standing front three-quarter card stance, both hands relaxed open beside her hips. Cool reflections and thin warm rim lighting.",
+  "casual": [
+    [
+      "adult_roleplay",
+      "confident",
+      "mid_action",
+      "front_3q",
+      "waist_up",
+      "portrait85",
+      "At an evening retro science exhibition, presenting a tabletop electrostatic demonstration with one palm open beside a glass sphere, other hand naturally resting on the table. Indigo and magenta spotlights, no audience.",
+      "Original adult science-show host event outfit: opaque silver fitted halter bodice with blue piping, high-waisted red tailored short shorts and a short decorative capelet resting on shoulders. Bare arms shoulders and a small midriff gap, tiny magnet earrings."
+    ],
+    [
+      "hobbies_leisure",
+      "pensive",
+      "one_knee_up",
+      "high_angle",
+      "full_body",
+      "documentary35",
+      "Inside a rainy attic music room at late afternoon, sitting on a low window cushion with one knee raised, sorting blank vinyl sleeves onto a small wooden crate. Both hands visible resting on separate sleeve corners, head and bare feet inside frame.",
+      "Slate sleeveless button-front linen top, cobalt loose short culottes, bare arms shoulders legs, tiny red hair pin."
+    ],
+    [
+      "food_berries",
+      "amused",
+      "preparing_food",
+      "side",
+      "three_quarter",
+      "natural50",
+      "At a bright open-air orchard juice station at sunny noon, pressing a halved citrus onto a broad manual juicer with one open hand while the other steadies the wide bowl. Fruit baskets and striped shade canopy.",
+      "Red sleeveless square-neck summer dress with a securely fitted bodice and short flared hem, blue waist apron, bare arms shoulders and legs. Tiny silver circular necklace."
+    ]
+  ],
+  "comparison": {
+    "characters": [
+      "꼬리선",
+      "다꼬리",
+      "부우부"
+    ],
+    "sources": [
+      "records/sentret-20261011/plan.json",
+      "records/furret-20261011/plan.json",
+      "records/hoothoot-20261011/plan.json"
+    ],
+    "changes": "Different locations, specific activities, clothing silhouettes and compositions; mandatory categories alternate event fashion, lingerie and swimwear.",
+    "batch_predecessors": []
+  },
+  "method": "Actual Preact generator controls selected through repository DOM harness; output read once per asset.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

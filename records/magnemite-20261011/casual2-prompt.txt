@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Magnemite (코일) personified, electric / steel type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: gaze angled down and away, slightly furrowed brow, lips lightly pressed or touched
+Pose: Sit on a mat with one knee raised and an arm resting naturally on it.
+Orientation: camera above subject looking downward; obey selected framing
+Scene: Inside a rainy attic music room at late afternoon, sitting on a low window cushion with one knee raised, sorting blank vinyl sleeves onto a small wooden crate. Both hands visible resting on separate sleeve corners, head and bare feet inside frame.
+Outfit and props: Slate sleeveless button-front linen top, cobalt loose short culottes, bare arms shoulders legs, tiny red hair pin.
+Category: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.
+Note: Vertical 2:3, 1024x1536. One clearly adult woman. Both complete hands visible, each with exactly one thumb and four clearly separated natural fingers. No weapons, text, logos or border. Same woman as the reference; remove all armor and mechanical head pieces. Species only as small jewelry or color echoes.
+Framing: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.
+Lens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
