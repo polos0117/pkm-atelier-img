@@ -1,0 +1,768 @@
+{
+  "name": "마그케인",
+  "date": "2026-10-10",
+  "status": "generated_and_validated",
+  "style": "glossy_promo",
+  "authorization": "User authorized image generation and repository main upload",
+  "recent_comparison": [
+    "도나리: swimwear, berry tart, conservatory reading",
+    "파라섹트: shoreline, bookshop, park greeting",
+    "콘팡: swimwear, berry yogurt, window reading"
+  ],
+  "diversity": "Different categories, locations, concrete activities, outfit silhouettes, expression, pose, orientation, framing and lens; no pool/cooking/reading triplet reused",
+  "images": [
+    {
+      "name": "마그케인",
+      "slot": "light",
+      "ui_hash": 1151400835,
+      "settings": {
+        "custom": "1024x1536 vertical 2:3. Empty relaxed hands fully visible, five fingers each. No weapons. Opaque technical undersuit. Short swept dark-teal bob with warm amber eyes.",
+        "identityMode": "create",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "motifs": "Quilava dark teal upper armor and warm cream-yellow lower plates. Her forehead and rear fire become a swept flame-shaped hair ornament and flame-edged split hip sash with glowing red-orange trim."
+      },
+      "selection": {
+        "mech": "마그케인",
+        "sourceName": "Quilava",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "마그케인",
+          "en": "Quilava",
+          "color": "yellow",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "spot",
+              "detail": "five red spots"
+            },
+            {
+              "part": "body",
+              "detail": "long and slender body"
+            },
+            {
+              "part": "ear",
+              "detail": "triangular ears"
+            },
+            {
+              "part": "snout",
+              "detail": "rounded snout"
+            },
+            {
+              "part": "eye",
+              "detail": "triangular red eyes"
+            },
+            {
+              "part": "toe",
+              "detail": "three toes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Quilava_%28Pok%C3%A9mon%29",
+          "revision": 4611271,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "b420a70644cd3b8c97c40baa613af106e32f6f823c38b59b95bb4c528599dd61",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "outputMode": "action",
+        "identityMode": "create",
+        "form": "light",
+        "custom": "1024x1536 vertical 2:3. Empty relaxed hands fully visible, five fingers each. No weapons. Opaque technical undersuit. Short swept dark-teal bob with warm amber eyes.",
+        "motifs": "Quilava dark teal upper armor and warm cream-yellow lower plates. Her forehead and rear fire become a swept flame-shaped hair ornament and flame-edged split hip sash with glowing red-orange trim."
+      },
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Quilava (마그케인), fire type.\n\nPALETTE: red, yellow.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Quilava as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): Quilava dark teal upper armor and warm cream-yellow lower plates. Her forehead and rear fire become a swept flame-shaped hair ornament and flame-edged split hip sash with glowing red-orange trim..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: 1024x1536 vertical 2:3. Empty relaxed hands fully visible, five fingers each. No weapons. Opaque technical undersuit. Short swept dark-teal bob with warm amber eyes.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-687ec7a4-fa1f-4346-8587-f9c2471120f6.png",
+      "references": [],
+      "output": "img/마그케인_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "97daf5b8011226d3b9820601caae682bfe7ff56786e1a04a488716e4b50c03c7",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "마그케인",
+      "slot": "heavy",
+      "ui_hash": 423487897,
+      "settings": {
+        "custom": "1024x1536 vertical 2:3. Empty relaxed hands fully visible, five fingers each. No weapons. Opaque technical undersuit."
+      },
+      "selection": {
+        "mech": "마그케인",
+        "sourceName": "Quilava",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "마그케인",
+          "en": "Quilava",
+          "color": "yellow",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "spot",
+              "detail": "five red spots"
+            },
+            {
+              "part": "body",
+              "detail": "long and slender body"
+            },
+            {
+              "part": "ear",
+              "detail": "triangular ears"
+            },
+            {
+              "part": "snout",
+              "detail": "rounded snout"
+            },
+            {
+              "part": "eye",
+              "detail": "triangular red eyes"
+            },
+            {
+              "part": "toe",
+              "detail": "three toes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Quilava_%28Pok%C3%A9mon%29",
+          "revision": 4611271,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "b420a70644cd3b8c97c40baa613af106e32f6f823c38b59b95bb4c528599dd61",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "heavy",
+        "custom": "1024x1536 vertical 2:3. Empty relaxed hands fully visible, five fingers each. No weapons. Opaque technical undersuit."
+      },
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Quilava (마그케인), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: 1024x1536 vertical 2:3. Empty relaxed hands fully visible, five fingers each. No weapons. Opaque technical undersuit.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-38f3aea9-7ff3-44e6-b3b7-2cf280075562.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-687ec7a4-fa1f-4346-8587-f9c2471120f6.png"
+      ],
+      "output": "img/마그케인_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "8cdce621222f38af0ccde1f62154491c504986a358c2c61b34b55635a56d18df",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "마그케인",
+      "slot": "mobility",
+      "ui_hash": 906171078,
+      "settings": {
+        "custom": "1024x1536 vertical 2:3. Empty relaxed hands fully visible, five fingers each. No weapons. Opaque technical undersuit."
+      },
+      "selection": {
+        "mech": "마그케인",
+        "sourceName": "Quilava",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "마그케인",
+          "en": "Quilava",
+          "color": "yellow",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "spot",
+              "detail": "five red spots"
+            },
+            {
+              "part": "body",
+              "detail": "long and slender body"
+            },
+            {
+              "part": "ear",
+              "detail": "triangular ears"
+            },
+            {
+              "part": "snout",
+              "detail": "rounded snout"
+            },
+            {
+              "part": "eye",
+              "detail": "triangular red eyes"
+            },
+            {
+              "part": "toe",
+              "detail": "three toes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Quilava_%28Pok%C3%A9mon%29",
+          "revision": 4611271,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "b420a70644cd3b8c97c40baa613af106e32f6f823c38b59b95bb4c528599dd61",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "mobility",
+        "custom": "1024x1536 vertical 2:3. Empty relaxed hands fully visible, five fingers each. No weapons. Opaque technical undersuit."
+      },
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Quilava (마그케인), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: 1024x1536 vertical 2:3. Empty relaxed hands fully visible, five fingers each. No weapons. Opaque technical undersuit.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-fd1930ef-4a01-4657-921b-1020d0ac823f.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-687ec7a4-fa1f-4346-8587-f9c2471120f6.png"
+      ],
+      "output": "img/마그케인_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "b021db7974a05de9197520147b37270a8f7de0a2194c12af868ecc27c44e62fc",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "마그케인",
+      "slot": "light_overdrive",
+      "ui_hash": 418792077,
+      "settings": {
+        "custom": "1024x1536 vertical 2:3. Empty relaxed hands fully visible, five fingers each. No weapons. Opaque technical undersuit."
+      },
+      "selection": {
+        "mech": "마그케인",
+        "sourceName": "Quilava",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "마그케인",
+          "en": "Quilava",
+          "color": "yellow",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "spot",
+              "detail": "five red spots"
+            },
+            {
+              "part": "body",
+              "detail": "long and slender body"
+            },
+            {
+              "part": "ear",
+              "detail": "triangular ears"
+            },
+            {
+              "part": "snout",
+              "detail": "rounded snout"
+            },
+            {
+              "part": "eye",
+              "detail": "triangular red eyes"
+            },
+            {
+              "part": "toe",
+              "detail": "three toes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Quilava_%28Pok%C3%A9mon%29",
+          "revision": 4611271,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "b420a70644cd3b8c97c40baa613af106e32f6f823c38b59b95bb4c528599dd61",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "custom": "1024x1536 vertical 2:3. Empty relaxed hands fully visible, five fingers each. No weapons. Opaque technical undersuit.",
+        "baseForm": "light"
+      },
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Quilava (마그케인), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536 vertical 2:3. Empty relaxed hands fully visible, five fingers each. No weapons. Opaque technical undersuit.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-2cec4afc-c5e1-4cbf-992c-243f541120d2.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-687ec7a4-fa1f-4346-8587-f9c2471120f6.png"
+      ],
+      "output": "img/마그케인_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "86846a8a21428981b4362c0034af5f0304824a3d91442bff8a3bde1a36f9f5d9",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "마그케인",
+      "slot": "heavy_overdrive",
+      "ui_hash": 67218574,
+      "settings": {
+        "custom": "1024x1536 vertical 2:3. Empty relaxed hands fully visible, five fingers each. No weapons. Opaque technical undersuit."
+      },
+      "selection": {
+        "mech": "마그케인",
+        "sourceName": "Quilava",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "마그케인",
+          "en": "Quilava",
+          "color": "yellow",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "spot",
+              "detail": "five red spots"
+            },
+            {
+              "part": "body",
+              "detail": "long and slender body"
+            },
+            {
+              "part": "ear",
+              "detail": "triangular ears"
+            },
+            {
+              "part": "snout",
+              "detail": "rounded snout"
+            },
+            {
+              "part": "eye",
+              "detail": "triangular red eyes"
+            },
+            {
+              "part": "toe",
+              "detail": "three toes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Quilava_%28Pok%C3%A9mon%29",
+          "revision": 4611271,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "b420a70644cd3b8c97c40baa613af106e32f6f823c38b59b95bb4c528599dd61",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "custom": "1024x1536 vertical 2:3. Empty relaxed hands fully visible, five fingers each. No weapons. Opaque technical undersuit.",
+        "baseForm": "heavy"
+      },
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Quilava (마그케인), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536 vertical 2:3. Empty relaxed hands fully visible, five fingers each. No weapons. Opaque technical undersuit.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-631aa7de-6022-451b-87bc-3c867a7a9789.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-38f3aea9-7ff3-44e6-b3b7-2cf280075562.png"
+      ],
+      "output": "img/마그케인_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "dda92cda16ba07cb37ccface811a9774fd960f996b3d0fa3a8463857593be2ec",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "마그케인",
+      "slot": "mobility_overdrive",
+      "ui_hash": 1103506298,
+      "settings": {
+        "custom": "1024x1536 vertical 2:3. Empty relaxed hands fully visible, five fingers each. No weapons. Opaque technical undersuit."
+      },
+      "selection": {
+        "mech": "마그케인",
+        "sourceName": "Quilava",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "마그케인",
+          "en": "Quilava",
+          "color": "yellow",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "spot",
+              "detail": "five red spots"
+            },
+            {
+              "part": "body",
+              "detail": "long and slender body"
+            },
+            {
+              "part": "ear",
+              "detail": "triangular ears"
+            },
+            {
+              "part": "snout",
+              "detail": "rounded snout"
+            },
+            {
+              "part": "eye",
+              "detail": "triangular red eyes"
+            },
+            {
+              "part": "toe",
+              "detail": "three toes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Quilava_%28Pok%C3%A9mon%29",
+          "revision": 4611271,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "b420a70644cd3b8c97c40baa613af106e32f6f823c38b59b95bb4c528599dd61",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "custom": "1024x1536 vertical 2:3. Empty relaxed hands fully visible, five fingers each. No weapons. Opaque technical undersuit.",
+        "baseForm": "mobility"
+      },
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Quilava (마그케인), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536 vertical 2:3. Empty relaxed hands fully visible, five fingers each. No weapons. Opaque technical undersuit.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-e448c0f6-6437-4684-878c-42f87920b677.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-fd1930ef-4a01-4657-921b-1020d0ac823f.png"
+      ],
+      "output": "img/마그케인_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "25ad633fc05e804bf4b6bdd3f101c54461e2cc6a84ea465ae975fccade3a0326",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "마그케인",
+      "slot": "casual1",
+      "ui_hash": 3079409268,
+      "settings": {
+        "cat": "swimwear",
+        "expr": "relieved",
+        "pose": "perched_seat",
+        "orient": "front_3q",
+        "frame": "full_body",
+        "lens": "natural50",
+        "scene": "After a swim at a sheltered rocky cove in bright late-afternoon sun, perched on a smooth low shoreline rock with feet at the clear water edge, wringing a small towel between both hands. Entire seated figure and feet visible, natural relief after exercise.",
+        "outfit": "A fully lined warm-yellow halter swim top with a secure underband and deep-teal high-waisted swim briefs with cream side panels. Opaque fabric, chest and pelvis covered, exposed shoulders, midriff and legs. Tiny flame-shaped bracelet, no armor or headdress.",
+        "custom": "1024x1536 vertical 2:3. Both bare hands visible with five natural fingers each, no weapons or readable text.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "selection": {
+        "mech": "마그케인",
+        "sourceName": "Quilava",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "마그케인",
+          "en": "Quilava",
+          "color": "yellow",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "spot",
+              "detail": "five red spots"
+            },
+            {
+              "part": "body",
+              "detail": "long and slender body"
+            },
+            {
+              "part": "ear",
+              "detail": "triangular ears"
+            },
+            {
+              "part": "snout",
+              "detail": "rounded snout"
+            },
+            {
+              "part": "eye",
+              "detail": "triangular red eyes"
+            },
+            {
+              "part": "toe",
+              "detail": "three toes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Quilava_%28Pok%C3%A9mon%29",
+          "revision": 4611271,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "b420a70644cd3b8c97c40baa613af106e32f6f823c38b59b95bb4c528599dd61",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "form": "casual1",
+        "cat": "swimwear",
+        "expr": "relieved",
+        "pose": "perched_seat",
+        "orient": "front_3q",
+        "frame": "full_body",
+        "lens": "natural50",
+        "scene": "After a swim at a sheltered rocky cove in bright late-afternoon sun, perched on a smooth low shoreline rock with feet at the clear water edge, wringing a small towel between both hands. Entire seated figure and feet visible, natural relief after exercise.",
+        "outfit": "A fully lined warm-yellow halter swim top with a secure underband and deep-teal high-waisted swim briefs with cream side panels. Opaque fabric, chest and pelvis covered, exposed shoulders, midriff and legs. Tiny flame-shaped bracelet, no armor or headdress.",
+        "custom": "1024x1536 vertical 2:3. Both bare hands visible with five natural fingers each, no weapons or readable text.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Quilava (마그케인) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened\nPose: Perch on a low ledge or bench with the feet resting naturally below.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: After a swim at a sheltered rocky cove in bright late-afternoon sun, perched on a smooth low shoreline rock with feet at the clear water edge, wringing a small towel between both hands. Entire seated figure and feet visible, natural relief after exercise.\nOutfit and props: A fully lined warm-yellow halter swim top with a secure underband and deep-teal high-waisted swim briefs with cream side panels. Opaque fabric, chest and pelvis covered, exposed shoulders, midriff and legs. Tiny flame-shaped bracelet, no armor or headdress.\nCategory: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.\nNote: 1024x1536 vertical 2:3. Both bare hands visible with five natural fingers each, no weapons or readable text.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-91586b4e-12b3-4ce2-a461-22096a7729c1.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-687ec7a4-fa1f-4346-8587-f9c2471120f6.png"
+      ],
+      "output": "img/마그케인_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "c18c9e01c77613f29295f504d7a457cab992e7cb259cf8f0dfdfcde03833a36a",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "마그케인",
+      "slot": "casual2",
+      "ui_hash": 849599350,
+      "settings": {
+        "cat": "hobbies_leisure",
+        "expr": "laughing_open",
+        "pose": "mid_action",
+        "orient": "front",
+        "frame": "waist_up",
+        "lens": "wide24",
+        "scene": "At a quiet neon arcade at night, laughing at a surprising result while playing a retro cabinet; one hand lightly on a joystick and the other over buttons, both clearly separated. Frontal waist-up composition across the control panel, abstract colorful screen with no lettering.",
+        "outfit": "A teal ribbed racerback cropped tank, cream cargo miniskirt below the waist crop and orange wristbands. Bare shoulders and midriff, opaque fabric. One tiny flame zipper charm only, no armor.",
+        "custom": "1024x1536 vertical 2:3. Both bare hands visible with five natural fingers each, no weapons or readable text.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "selection": {
+        "mech": "마그케인",
+        "sourceName": "Quilava",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "마그케인",
+          "en": "Quilava",
+          "color": "yellow",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "spot",
+              "detail": "five red spots"
+            },
+            {
+              "part": "body",
+              "detail": "long and slender body"
+            },
+            {
+              "part": "ear",
+              "detail": "triangular ears"
+            },
+            {
+              "part": "snout",
+              "detail": "rounded snout"
+            },
+            {
+              "part": "eye",
+              "detail": "triangular red eyes"
+            },
+            {
+              "part": "toe",
+              "detail": "three toes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Quilava_%28Pok%C3%A9mon%29",
+          "revision": 4611271,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "b420a70644cd3b8c97c40baa613af106e32f6f823c38b59b95bb4c528599dd61",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "form": "casual2",
+        "cat": "hobbies_leisure",
+        "expr": "laughing_open",
+        "pose": "mid_action",
+        "orient": "front",
+        "frame": "waist_up",
+        "lens": "wide24",
+        "scene": "At a quiet neon arcade at night, laughing at a surprising result while playing a retro cabinet; one hand lightly on a joystick and the other over buttons, both clearly separated. Frontal waist-up composition across the control panel, abstract colorful screen with no lettering.",
+        "outfit": "A teal ribbed racerback cropped tank, cream cargo miniskirt below the waist crop and orange wristbands. Bare shoulders and midriff, opaque fabric. One tiny flame zipper charm only, no armor.",
+        "custom": "1024x1536 vertical 2:3. Both bare hands visible with five natural fingers each, no weapons or readable text.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Quilava (마그케인) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: mouth open wide in a laugh with teeth showing and cheeks raised, but the eyes stay open and engaged — lids only slightly narrowed, gaze still readable rather than squeezed shut\nPose: Capture the selected activity already in progress with a readable natural gesture.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: At a quiet neon arcade at night, laughing at a surprising result while playing a retro cabinet; one hand lightly on a joystick and the other over buttons, both clearly separated. Frontal waist-up composition across the control panel, abstract colorful screen with no lettering.\nOutfit and props: A teal ribbed racerback cropped tank, cream cargo miniskirt below the waist crop and orange wristbands. Bare shoulders and midriff, opaque fabric. One tiny flame zipper charm only, no armor.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: 1024x1536 vertical 2:3. Both bare hands visible with five natural fingers each, no weapons or readable text.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 24mm-equivalent wide-angle impression with spacious environmental depth; use enough camera distance to avoid stretching the face or limbs.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-29d9d4fc-e024-498e-b9fc-a003e6619f41.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-687ec7a4-fa1f-4346-8587-f9c2471120f6.png"
+      ],
+      "edits": [
+        {
+          "prompt": "Precise accessory edit of this adult woman's off-duty scene. Change only the large red-orange flame head ornament: replace it with one tiny simple orange hairpin no larger than 2 cm, a subtle species motif. Preserve face, hairstyle, eye color, body proportions, expression, clothing, hands and all fingers, pose, scene, camera, framing and lighting exactly. No armor. No other changes. One adult woman, no text.",
+          "input": "/workspace/scratch/67c030b6e3e0/generated_images/exec-1efbd38d-daac-4af6-a010-be9f942e4ff6.png"
+        }
+      ],
+      "output": "img/마그케인_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "b9b121081b7127f87a12d47289ed96e0dd2794b87c86a5b46166103c9bce21c4",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "마그케인",
+      "slot": "casual3",
+      "ui_hash": 1651821846,
+      "settings": {
+        "cat": "traditional",
+        "expr": "confident",
+        "pose": "standing_formal",
+        "orient": "reaching_up",
+        "frame": "three_quarter",
+        "lens": "telephoto135",
+        "scene": "In a timber festival courtyard at sunset, standing on level ground to fasten a blank orange paper lantern to a low overhead beam. Both hands at shoulder-to-head height, face angled three-quarter toward camera; warm lantern glow and distant courtyard details.",
+        "outfit": "A contemporary festival hanbok ensemble: cream short-sleeve cropped jeogori with orange ties, deep-teal wrap skirt ending above knees with an asymmetrical hem, small flame norigae. Bare forearms, a small strip of midriff and legs; opaque layered cloth, no armor.",
+        "custom": "1024x1536 vertical 2:3. Both bare hands visible with five natural fingers each, no weapons or readable text.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "selection": {
+        "mech": "마그케인",
+        "sourceName": "Quilava",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "마그케인",
+          "en": "Quilava",
+          "color": "yellow",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "spot",
+              "detail": "five red spots"
+            },
+            {
+              "part": "body",
+              "detail": "long and slender body"
+            },
+            {
+              "part": "ear",
+              "detail": "triangular ears"
+            },
+            {
+              "part": "snout",
+              "detail": "rounded snout"
+            },
+            {
+              "part": "eye",
+              "detail": "triangular red eyes"
+            },
+            {
+              "part": "toe",
+              "detail": "three toes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Quilava_%28Pok%C3%A9mon%29",
+          "revision": 4611271,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "b420a70644cd3b8c97c40baa613af106e32f6f823c38b59b95bb4c528599dd61",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "form": "casual3",
+        "cat": "traditional",
+        "expr": "confident",
+        "pose": "standing_formal",
+        "orient": "reaching_up",
+        "frame": "three_quarter",
+        "lens": "telephoto135",
+        "scene": "In a timber festival courtyard at sunset, standing on level ground to fasten a blank orange paper lantern to a low overhead beam. Both hands at shoulder-to-head height, face angled three-quarter toward camera; warm lantern glow and distant courtyard details.",
+        "outfit": "A contemporary festival hanbok ensemble: cream short-sleeve cropped jeogori with orange ties, deep-teal wrap skirt ending above knees with an asymmetrical hem, small flame norigae. Bare forearms, a small strip of midriff and legs; opaque layered cloth, no armor.",
+        "custom": "1024x1536 vertical 2:3. Both bare hands visible with five natural fingers each, no weapons or readable text.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Quilava (마그케인) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed\nPose: Stand upright with a balanced stance and a composed posture.\nOrientation: reach upward with natural shoulder articulation\nScene: In a timber festival courtyard at sunset, standing on level ground to fasten a blank orange paper lantern to a low overhead beam. Both hands at shoulder-to-head height, face angled three-quarter toward camera; warm lantern glow and distant courtyard details.\nOutfit and props: A contemporary festival hanbok ensemble: cream short-sleeve cropped jeogori with orange ties, deep-teal wrap skirt ending above knees with an asymmetrical hem, small flame norigae. Bare forearms, a small strip of midriff and legs; opaque layered cloth, no armor.\nCategory: This cut is built around traditional dress drawn from the character's own ethnic background. Use either authentic formal traditional clothing or a modernised everyday interpretation of it, as specified by the example. Keep the garment structure, layering logic, fastening, and silhouette faithful to that tradition rather than generic orientalism or costume-shop pastiche. Colours may follow the source creature, but the construction must remain true to the tradition. Place the character in a setting where such clothing is plausibly worn.\nNote: 1024x1536 vertical 2:3. Both bare hands visible with five natural fingers each, no weapons or readable text.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 135mm-equivalent telephoto perspective from farther away, with compressed background depth and unchanged anatomy.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-4cca06bd-ecee-45f8-beba-fa11a561158d.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-687ec7a4-fa1f-4346-8587-f9c2471120f6.png"
+      ],
+      "edits": [
+        {
+          "prompt": "Precise accessory edit of this adult woman's off-duty scene. Change only the large red-orange flame head ornament: replace it with one tiny simple orange hairpin no larger than 2 cm, a subtle species motif. Preserve face, hairstyle, eye color, body proportions, expression, clothing, hands and all fingers, pose, scene, camera, framing and lighting exactly. No armor. No other changes. One adult woman, no text.",
+          "input": "/workspace/scratch/67c030b6e3e0/generated_images/exec-e955b218-6f72-41e1-864f-e499b03b7b5d.png"
+        }
+      ],
+      "output": "img/마그케인_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "56940a7fc88b93da62e52906640ed22cfe8201a1f89d9cc7b61e978e35d0c315",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    }
+  ]
+}
