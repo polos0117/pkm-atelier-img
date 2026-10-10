@@ -1,0 +1,59 @@
+{
+  "name": "파오리",
+  "slug": "farfetchd",
+  "scene": "At a windswept reed garden path in late-afternoon sun, balanced front three-quarter card-ready stance, both empty hands relaxed at her sides. Soft leaf shadows and golden rim light.",
+  "casual": [
+    [
+      "food_berries",
+      "focused",
+      "bending_over",
+      "front_3q",
+      "waist_up",
+      "documentary35",
+      "Inside a warm home kitchen at early morning, leaning slightly toward a table and rolling a short bread dough cylinder with both hands resting gently on a wide rolling pin. Green herbs and cream tiles.",
+      "Cream sleeveless mock-neck knit top securely fitted, green high-waisted trousers and a narrow brown apron at the waist, bare arms shoulders and a small midriff gap, tiny leaf earrings."
+    ],
+    [
+      "festivals_contests",
+      "proud",
+      "walking",
+      "turning_midmotion",
+      "three_quarter",
+      "portrait85",
+      "At a sunny rural kite festival in late afternoon, turning during a slow walk and carrying a small folded paper kite horizontally across two open palms. Distant colorful kites, no other people.",
+      "Brown short-sleeved wrap blouse with secure cream inner panel, green high-waisted pleated mini skirt over opaque shorts, a woven belt, bare forearms neckline and legs, tiny feather pin."
+    ],
+    [
+      "swimwear",
+      "relieved",
+      "kneeling",
+      "high_angle",
+      "full_body",
+      "natural50",
+      "At a sheltered public lakeshore deck at sunrise, kneeling on a dry wooden mat and carefully setting a pair of swim goggles beside her with one hand, other open palm rests on the mat. Head hands knees and feet visible; clear lake and reeds.",
+      "Fully lined cream-and-olive two-piece swimsuit with a secure broad-strap scoop-neck top and opaque high-waisted bottoms, brown edge piping, bare shoulders arms midriff and legs, tiny leaf-shaped hair clip."
+    ]
+  ],
+  "comparison": {
+    "characters": [
+      "꼬리선",
+      "다꼬리",
+      "부우부"
+    ],
+    "sources": [
+      "records/sentret-20261011/plan.json",
+      "records/furret-20261011/plan.json",
+      "records/hoothoot-20261011/plan.json"
+    ],
+    "changes": "Different locations, specific activities, clothing silhouettes and compositions; mandatory categories alternate event fashion, lingerie and swimwear.",
+    "batch_predecessors": [
+      "코일",
+      "레어코일"
+    ]
+  },
+  "method": "Actual Preact generator controls selected through repository DOM harness; output read once per asset.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

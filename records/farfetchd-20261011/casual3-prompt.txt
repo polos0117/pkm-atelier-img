@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Farfetch’d (파오리) personified, normal / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened
+Pose: Kneel in a stable supported position suited to a low task or interaction.
+Orientation: camera above subject looking downward; obey selected framing
+Scene: At a sheltered public lakeshore deck at sunrise, kneeling on a dry wooden mat and carefully setting a pair of swim goggles beside her with one hand, other open palm rests on the mat. Head hands knees and feet visible; clear lake and reeds.
+Outfit and props: Fully lined cream-and-olive two-piece swimsuit with a secure broad-strap scoop-neck top and opaque high-waisted bottoms, brown edge piping, bare shoulders arms midriff and legs, tiny leaf-shaped hair clip.
+Category: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.
+Note: Vertical 2:3, 1024x1536. One clearly adult woman. Both complete hands visible, each with exactly one thumb and four clearly separated natural fingers. No weapons, text, logos or border. Same woman as the reference; remove all armor and mechanical head pieces. Species only as small jewelry or color echoes.
+Framing: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

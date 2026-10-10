@@ -1,0 +1,150 @@
+{
+  "last": "파오리",
+  "cards": {
+    "이상해씨": {
+      "style": "cinematic_semi_real",
+      "identityMode": "create",
+      "form": "light",
+      "baseForm": "light",
+      "motifs": "",
+      "formOverride": "",
+      "headFeature": "",
+      "params": {},
+      "locks": {},
+      "mode": "action",
+      "scenes": {
+        "action": {
+          "expr": "",
+          "pose": "",
+          "orient": "",
+          "scene": "",
+          "outfit": "",
+          "frame": "",
+          "lens": "",
+          "camera": "",
+          "custom": "",
+          "aspect": "2:3",
+          "cat": "everyday_basic",
+          "catCustom": "",
+          "ex": "",
+          "exCustom": "",
+          "axes": {},
+          "action": {
+            "category": "",
+            "example": "",
+            "timing": "",
+            "equipment": "",
+            "power": "",
+            "effects": "",
+            "speed": "",
+            "environment": ""
+          },
+          "randomLocks": {}
+        },
+        "casual": {
+          "expr": "",
+          "pose": "",
+          "orient": "",
+          "scene": "",
+          "outfit": "",
+          "frame": "",
+          "lens": "",
+          "camera": "",
+          "custom": "",
+          "aspect": "2:3",
+          "cat": "everyday_basic",
+          "catCustom": "",
+          "ex": "",
+          "exCustom": "",
+          "axes": {},
+          "action": {
+            "category": "",
+            "example": "",
+            "timing": "",
+            "equipment": "",
+            "power": "",
+            "effects": "",
+            "speed": "",
+            "environment": ""
+          },
+          "randomLocks": {}
+        }
+      }
+    },
+    "파오리": {
+      "style": "glossy_promo",
+      "identityMode": "reference",
+      "form": "overdrive",
+      "baseForm": "mobility",
+      "motifs": "",
+      "formOverride": "",
+      "headFeature": "",
+      "params": {
+        "apparent age": "20s"
+      },
+      "locks": {},
+      "mode": "casual",
+      "scenes": {
+        "action": {
+          "expr": "",
+          "pose": "",
+          "orient": "",
+          "scene": "At a windswept reed garden path in late-afternoon sun, balanced front three-quarter card-ready stance, both empty hands relaxed at her sides. Soft leaf shadows and golden rim light.",
+          "outfit": "",
+          "frame": "",
+          "lens": "",
+          "camera": "",
+          "custom": "Vertical 2:3, 1024x1536. One clearly adult woman. Both complete hands visible, each with exactly one thumb and four clearly separated natural fingers. No weapons, text, logos or border.",
+          "aspect": "2:3",
+          "cat": "everyday_basic",
+          "catCustom": "",
+          "ex": "",
+          "exCustom": "",
+          "axes": {},
+          "action": {
+            "category": "",
+            "example": "",
+            "timing": "",
+            "equipment": "",
+            "power": "",
+            "effects": "",
+            "speed": "",
+            "environment": ""
+          },
+          "randomLocks": {}
+        },
+        "casual": {
+          "expr": "focused",
+          "pose": "bending_over",
+          "orient": "front_3q",
+          "scene": "Inside a warm home kitchen at early morning, leaning slightly toward a table and rolling a short bread dough cylinder with both hands resting gently on a wide rolling pin. Green herbs and cream tiles.",
+          "outfit": "Cream sleeveless mock-neck knit top securely fitted, green high-waisted trousers and a narrow brown apron at the waist, bare arms shoulders and a small midriff gap, tiny leaf earrings.",
+          "frame": "waist_up",
+          "lens": "documentary35",
+          "camera": "",
+          "custom": "Vertical 2:3, 1024x1536. One clearly adult woman. Both complete hands visible, each with exactly one thumb and four clearly separated natural fingers. No weapons, text, logos or border. Same woman as the reference; remove all armor and mechanical head pieces. Species only as small jewelry or color echoes.",
+          "aspect": "2:3",
+          "cat": "food_berries",
+          "catCustom": "",
+          "ex": "",
+          "exCustom": "",
+          "axes": {
+            "overall_intensity": "strong",
+            "skin_exposure": "bold"
+          },
+          "action": {
+            "category": "",
+            "example": "",
+            "timing": "",
+            "equipment": "",
+            "power": "",
+            "effects": "",
+            "speed": "",
+            "environment": ""
+          },
+          "randomLocks": {}
+        }
+      }
+    }
+  }
+}

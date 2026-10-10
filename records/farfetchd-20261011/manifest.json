@@ -1,0 +1,146 @@
+[
+  {
+    "slot": "light",
+    "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-00a72598-939d-46eb-bdc1-763288a4ffbe.png",
+    "card": "파오리",
+    "output": "img/파오리_light_glossy_promo_f.webp",
+    "style": "glossy_promo",
+    "selected_via": "actual Preact UI DOM harness",
+    "reference": null,
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "07dcaf9b72c25ab83e664ea16a1b955ad226b2de580bdd2cc2afabd2562d05fd",
+    "status": "generated and visually inspected"
+  },
+  {
+    "slot": "heavy",
+    "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-f3def16c-9a03-4a61-8a3e-8a1474cf9db6.png",
+    "card": "파오리",
+    "output": "img/파오리_heavy_glossy_promo_f.webp",
+    "style": "glossy_promo",
+    "selected_via": "actual Preact UI DOM harness",
+    "reference": "img/파오리_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "da8b1f06cfccdd5528107605c063fd22d13d90e1248ed77b8c2acaf2e98b59b0",
+    "status": "generated and visually inspected"
+  },
+  {
+    "slot": "mobility",
+    "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-339ac7df-18ad-47d4-9265-19daa939130a.png",
+    "card": "파오리",
+    "output": "img/파오리_mobility_glossy_promo_f.webp",
+    "style": "glossy_promo",
+    "selected_via": "actual Preact UI DOM harness",
+    "reference": "img/파오리_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "ee2a88e546f19035e0423a4ebb57c89ab93aa0941e8906ddd41c704d164bcce7",
+    "status": "generated and visually inspected"
+  },
+  {
+    "slot": "light_overdrive",
+    "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-64f31725-8d77-48dd-b57a-b9608989cdeb.png",
+    "card": "파오리",
+    "output": "img/파오리_light_overdrive_glossy_promo_f.webp",
+    "style": "glossy_promo",
+    "selected_via": "actual Preact UI DOM harness",
+    "reference": "img/파오리_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "57f65bd985b1aa99a341f784f1ad7e46e17b172479e8114732da1b32c288b435",
+    "status": "generated and visually inspected"
+  },
+  {
+    "slot": "heavy_overdrive",
+    "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-96af645c-f7bc-4683-8c1f-3fedd7bab123.png",
+    "card": "파오리",
+    "output": "img/파오리_heavy_overdrive_glossy_promo_f.webp",
+    "style": "glossy_promo",
+    "selected_via": "actual Preact UI DOM harness",
+    "reference": "img/파오리_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "48cd25ed51f9c52abd5bf6b77f996e2b97dee4bc3dbb0b81059a311c5f514577",
+    "status": "generated and visually inspected"
+  },
+  {
+    "slot": "mobility_overdrive",
+    "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-f583636f-319b-4fd0-98d7-840a46e38ad8.png",
+    "card": "파오리",
+    "output": "img/파오리_mobility_overdrive_glossy_promo_f.webp",
+    "style": "glossy_promo",
+    "selected_via": "actual Preact UI DOM harness",
+    "reference": "img/파오리_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "292371dd0cee342eb8ef7eadc46027ed1c8e65e43b4d1a96c96706f60493c92b",
+    "status": "generated and visually inspected"
+  },
+  {
+    "slot": "casual1",
+    "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-bd6ca0f6-87f1-4bb7-875f-b846cbfda8d9.png",
+    "card": "파오리",
+    "output": "img/파오리_glossy_promo_f_casual1.webp",
+    "style": "glossy_promo",
+    "selected_via": "actual Preact UI DOM harness",
+    "reference": "img/파오리_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "e8b9823374176e8c56ca547aac22c9bb4dc3e8e10706110aede3484f8078be14",
+    "status": "generated and visually inspected"
+  },
+  {
+    "slot": "casual2",
+    "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-753f2f79-4a25-4382-b4f8-c88bd7af9507.png",
+    "card": "파오리",
+    "output": "img/파오리_glossy_promo_f_casual2.webp",
+    "style": "glossy_promo",
+    "selected_via": "actual Preact UI DOM harness",
+    "reference": "img/파오리_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "f45f133573a2c3dd633063d6974d66bd18d7a574d242c8e7a264a2b2afa9d5ff",
+    "status": "generated and visually inspected"
+  },
+  {
+    "slot": "casual3",
+    "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-5532e9fb-4fec-46a5-8969-ea994fae7d70.png",
+    "card": "파오리",
+    "output": "img/파오리_glossy_promo_f_casual3.webp",
+    "style": "glossy_promo",
+    "selected_via": "actual Preact UI DOM harness",
+    "reference": "img/파오리_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "1848890d9b8e940272b2b6f875237d4b7a89446f547b200b741d958fe65ee379",
+    "status": "generated and visually inspected"
+  }
+]

@@ -1,0 +1,147 @@
+{
+  "last": "파오리",
+  "cards": {
+    "이상해씨": {
+      "style": "cinematic_semi_real",
+      "identityMode": "create",
+      "form": "light",
+      "baseForm": "light",
+      "motifs": "",
+      "formOverride": "",
+      "headFeature": "",
+      "params": {},
+      "locks": {},
+      "mode": "action",
+      "scenes": {
+        "action": {
+          "expr": "",
+          "pose": "",
+          "orient": "",
+          "scene": "",
+          "outfit": "",
+          "frame": "",
+          "lens": "",
+          "camera": "",
+          "custom": "",
+          "aspect": "2:3",
+          "cat": "everyday_basic",
+          "catCustom": "",
+          "ex": "",
+          "exCustom": "",
+          "axes": {},
+          "action": {
+            "category": "",
+            "example": "",
+            "timing": "",
+            "equipment": "",
+            "power": "",
+            "effects": "",
+            "speed": "",
+            "environment": ""
+          },
+          "randomLocks": {}
+        },
+        "casual": {
+          "expr": "",
+          "pose": "",
+          "orient": "",
+          "scene": "",
+          "outfit": "",
+          "frame": "",
+          "lens": "",
+          "camera": "",
+          "custom": "",
+          "aspect": "2:3",
+          "cat": "everyday_basic",
+          "catCustom": "",
+          "ex": "",
+          "exCustom": "",
+          "axes": {},
+          "action": {
+            "category": "",
+            "example": "",
+            "timing": "",
+            "equipment": "",
+            "power": "",
+            "effects": "",
+            "speed": "",
+            "environment": ""
+          },
+          "randomLocks": {}
+        }
+      }
+    },
+    "파오리": {
+      "style": "glossy_promo",
+      "identityMode": "reference",
+      "form": "overdrive",
+      "baseForm": "light",
+      "motifs": "",
+      "formOverride": "",
+      "headFeature": "",
+      "params": {
+        "apparent age": "20s"
+      },
+      "locks": {},
+      "mode": "action",
+      "scenes": {
+        "action": {
+          "expr": "",
+          "pose": "",
+          "orient": "",
+          "scene": "At a windswept reed garden path in late-afternoon sun, balanced front three-quarter card-ready stance, both empty hands relaxed at her sides. Soft leaf shadows and golden rim light.",
+          "outfit": "",
+          "frame": "",
+          "lens": "",
+          "camera": "",
+          "custom": "Vertical 2:3, 1024x1536. One clearly adult woman. Both complete hands visible, each with exactly one thumb and four clearly separated natural fingers. No weapons, text, logos or border.",
+          "aspect": "2:3",
+          "cat": "everyday_basic",
+          "catCustom": "",
+          "ex": "",
+          "exCustom": "",
+          "axes": {},
+          "action": {
+            "category": "",
+            "example": "",
+            "timing": "",
+            "equipment": "",
+            "power": "",
+            "effects": "",
+            "speed": "",
+            "environment": ""
+          },
+          "randomLocks": {}
+        },
+        "casual": {
+          "expr": "",
+          "pose": "",
+          "orient": "",
+          "scene": "",
+          "outfit": "",
+          "frame": "",
+          "lens": "",
+          "camera": "",
+          "custom": "",
+          "aspect": "2:3",
+          "cat": "everyday_basic",
+          "catCustom": "",
+          "ex": "",
+          "exCustom": "",
+          "axes": {},
+          "action": {
+            "category": "",
+            "example": "",
+            "timing": "",
+            "equipment": "",
+            "power": "",
+            "effects": "",
+            "speed": "",
+            "environment": ""
+          },
+          "randomLocks": {}
+        }
+      }
+    }
+  }
+}

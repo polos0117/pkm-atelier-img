@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Farfetch’d (파오리) personified, normal / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed
+Pose: Bend forward slightly to examine or reach a low object with a balanced stance.
+Orientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together
+Scene: Inside a warm home kitchen at early morning, leaning slightly toward a table and rolling a short bread dough cylinder with both hands resting gently on a wide rolling pin. Green herbs and cream tiles.
+Outfit and props: Cream sleeveless mock-neck knit top securely fitted, green high-waisted trousers and a narrow brown apron at the waist, bare arms shoulders and a small midriff gap, tiny leaf earrings.
+Category: Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.
+Note: Vertical 2:3, 1024x1536. One clearly adult woman. Both complete hands visible, each with exactly one thumb and four clearly separated natural fingers. No weapons, text, logos or border. Same woman as the reference; remove all armor and mechanical head pieces. Species only as small jewelry or color echoes.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+Lens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
