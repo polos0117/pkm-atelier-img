@@ -1,0 +1,684 @@
+{
+  "name": "브케인",
+  "date": "2026-10-10",
+  "status": "generated_and_validated",
+  "style": "glossy_promo",
+  "authorization": "User authorized image generation and repository main upload",
+  "recent_comparison": [
+    "도나리: swimwear, berry tart, conservatory reading",
+    "파라섹트: shoreline, bookshop, park greeting",
+    "콘팡: swimwear, berry yogurt, window reading"
+  ],
+  "diversity": "Different categories, locations, concrete activities, outfit silhouettes, expression, pose, orientation, framing and lens; no pool/cooking/reading triplet reused",
+  "images": [
+    {
+      "name": "브케인",
+      "slot": "light",
+      "ui_hash": 1310731913,
+      "settings": {
+        "custom": "1024x1536 vertical 2:3. Empty hands, both clearly visible and relaxed, exactly five fingers each. No weapons.",
+        "identityMode": "create",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "motifs": "Deep blue-green upper plates and cream lower plates evoke Cyndaquil; her dorsal fire becomes a short flame-edged shoulder mantle and red-orange luminous seam trim, never a creature body."
+      },
+      "selection": {
+        "mech": "브케인",
+        "sourceName": "Cyndaquil",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "브케인",
+          "en": "Cyndaquil",
+          "color": "yellow",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "fur",
+              "detail": "body and cream-colored fur"
+            },
+            {
+              "part": "snout",
+              "detail": "long, thin snout"
+            },
+            {
+              "part": "arm",
+              "detail": "short arms"
+            },
+            {
+              "part": "leg",
+              "detail": "developed legs"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Cyndaquil_%28Pok%C3%A9mon%29",
+          "revision": 4628107,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "5f0034d172da9b05c31e87b131579f2c27513e12756e5067dfc853790c27658a",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "outputMode": "action",
+        "identityMode": "create",
+        "form": "light",
+        "custom": "1024x1536 vertical 2:3. Empty hands, both clearly visible and relaxed, exactly five fingers each. No weapons.",
+        "motifs": "Deep blue-green upper plates and cream lower plates evoke Cyndaquil; her dorsal fire becomes a short flame-edged shoulder mantle and red-orange luminous seam trim, never a creature body."
+      },
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Cyndaquil (브케인), fire type.\n\nPALETTE: cream, yellow.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Cyndaquil as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): Deep blue-green upper plates and cream lower plates evoke Cyndaquil; her dorsal fire becomes a short flame-edged shoulder mantle and red-orange luminous seam trim, never a creature body..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: 1024x1536 vertical 2:3. Empty hands, both clearly visible and relaxed, exactly five fingers each. No weapons.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-919e90c6-a336-4120-922c-c8433f6a5b8d.png",
+      "references": [],
+      "output": "img/브케인_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "65c972102680c310e18598587ba48175366b031a6589eb9e330b753aca26295d",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "브케인",
+      "slot": "heavy",
+      "ui_hash": 4133822735,
+      "settings": {
+        "custom": "1024x1536 vertical 2:3. Empty hands, both clearly visible and relaxed, exactly five fingers each. No weapons."
+      },
+      "selection": {
+        "mech": "브케인",
+        "sourceName": "Cyndaquil",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "브케인",
+          "en": "Cyndaquil",
+          "color": "yellow",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "fur",
+              "detail": "body and cream-colored fur"
+            },
+            {
+              "part": "snout",
+              "detail": "long, thin snout"
+            },
+            {
+              "part": "arm",
+              "detail": "short arms"
+            },
+            {
+              "part": "leg",
+              "detail": "developed legs"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Cyndaquil_%28Pok%C3%A9mon%29",
+          "revision": 4628107,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "5f0034d172da9b05c31e87b131579f2c27513e12756e5067dfc853790c27658a",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "heavy",
+        "custom": "1024x1536 vertical 2:3. Empty hands, both clearly visible and relaxed, exactly five fingers each. No weapons."
+      },
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Cyndaquil (브케인), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: 1024x1536 vertical 2:3. Empty hands, both clearly visible and relaxed, exactly five fingers each. No weapons.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-c2dce36f-1820-4842-8a25-a86c851780d4.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-919e90c6-a336-4120-922c-c8433f6a5b8d.png"
+      ],
+      "output": "img/브케인_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "ba873ffca63ae372558e6a66f01f598f4d9ae7e473403c06af48ac71b5170304",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "브케인",
+      "slot": "mobility",
+      "ui_hash": 4106635708,
+      "settings": {
+        "custom": "1024x1536 vertical 2:3. Empty hands, both clearly visible and relaxed, exactly five fingers each. No weapons."
+      },
+      "selection": {
+        "mech": "브케인",
+        "sourceName": "Cyndaquil",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "브케인",
+          "en": "Cyndaquil",
+          "color": "yellow",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "fur",
+              "detail": "body and cream-colored fur"
+            },
+            {
+              "part": "snout",
+              "detail": "long, thin snout"
+            },
+            {
+              "part": "arm",
+              "detail": "short arms"
+            },
+            {
+              "part": "leg",
+              "detail": "developed legs"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Cyndaquil_%28Pok%C3%A9mon%29",
+          "revision": 4628107,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "5f0034d172da9b05c31e87b131579f2c27513e12756e5067dfc853790c27658a",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "mobility",
+        "custom": "1024x1536 vertical 2:3. Empty hands, both clearly visible and relaxed, exactly five fingers each. No weapons."
+      },
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Cyndaquil (브케인), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: 1024x1536 vertical 2:3. Empty hands, both clearly visible and relaxed, exactly five fingers each. No weapons.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-b1bf5a11-7ffc-47bd-a80c-d20d567b4b3f.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-919e90c6-a336-4120-922c-c8433f6a5b8d.png"
+      ],
+      "output": "img/브케인_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "0b8a553ccf351110f6dd7d5bbd94b1654358fc3b17e6a297fc6630536ba2fb0f",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "브케인",
+      "slot": "light_overdrive",
+      "ui_hash": 1316837251,
+      "settings": {
+        "custom": "1024x1536 vertical 2:3. Empty hands, both clearly visible and relaxed, exactly five fingers each. No weapons."
+      },
+      "selection": {
+        "mech": "브케인",
+        "sourceName": "Cyndaquil",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "브케인",
+          "en": "Cyndaquil",
+          "color": "yellow",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "fur",
+              "detail": "body and cream-colored fur"
+            },
+            {
+              "part": "snout",
+              "detail": "long, thin snout"
+            },
+            {
+              "part": "arm",
+              "detail": "short arms"
+            },
+            {
+              "part": "leg",
+              "detail": "developed legs"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Cyndaquil_%28Pok%C3%A9mon%29",
+          "revision": 4628107,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "5f0034d172da9b05c31e87b131579f2c27513e12756e5067dfc853790c27658a",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "custom": "1024x1536 vertical 2:3. Empty hands, both clearly visible and relaxed, exactly five fingers each. No weapons.",
+        "baseForm": "light"
+      },
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Cyndaquil (브케인), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536 vertical 2:3. Empty hands, both clearly visible and relaxed, exactly five fingers each. No weapons.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-847e6ded-3c5f-4cab-8acd-50469cc6d688.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-919e90c6-a336-4120-922c-c8433f6a5b8d.png"
+      ],
+      "output": "img/브케인_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "926da035cde95635e9abe756aabff5823045eaeea66dcf7e12c191b6cc927627",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "브케인",
+      "slot": "heavy_overdrive",
+      "ui_hash": 3876820544,
+      "settings": {
+        "custom": "1024x1536 vertical 2:3. Empty hands, both clearly visible and relaxed, exactly five fingers each. No weapons."
+      },
+      "selection": {
+        "mech": "브케인",
+        "sourceName": "Cyndaquil",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "브케인",
+          "en": "Cyndaquil",
+          "color": "yellow",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "fur",
+              "detail": "body and cream-colored fur"
+            },
+            {
+              "part": "snout",
+              "detail": "long, thin snout"
+            },
+            {
+              "part": "arm",
+              "detail": "short arms"
+            },
+            {
+              "part": "leg",
+              "detail": "developed legs"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Cyndaquil_%28Pok%C3%A9mon%29",
+          "revision": 4628107,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "5f0034d172da9b05c31e87b131579f2c27513e12756e5067dfc853790c27658a",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "custom": "1024x1536 vertical 2:3. Empty hands, both clearly visible and relaxed, exactly five fingers each. No weapons.",
+        "baseForm": "heavy"
+      },
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Cyndaquil (브케인), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536 vertical 2:3. Empty hands, both clearly visible and relaxed, exactly five fingers each. No weapons.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-1ca57187-272e-4002-89f9-ae734831e31c.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-c2dce36f-1820-4842-8a25-a86c851780d4.png"
+      ],
+      "output": "img/브케인_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "3097fae5718fb90b77e4fcbd0a35c873357a7aa3606cfffc0739a63a07fd9a0e",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "브케인",
+      "slot": "mobility_overdrive",
+      "ui_hash": 592861788,
+      "settings": {
+        "custom": "1024x1536 vertical 2:3. Empty hands, both clearly visible and relaxed, exactly five fingers each. No weapons."
+      },
+      "selection": {
+        "mech": "브케인",
+        "sourceName": "Cyndaquil",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "브케인",
+          "en": "Cyndaquil",
+          "color": "yellow",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "fur",
+              "detail": "body and cream-colored fur"
+            },
+            {
+              "part": "snout",
+              "detail": "long, thin snout"
+            },
+            {
+              "part": "arm",
+              "detail": "short arms"
+            },
+            {
+              "part": "leg",
+              "detail": "developed legs"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Cyndaquil_%28Pok%C3%A9mon%29",
+          "revision": 4628107,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "5f0034d172da9b05c31e87b131579f2c27513e12756e5067dfc853790c27658a",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "custom": "1024x1536 vertical 2:3. Empty hands, both clearly visible and relaxed, exactly five fingers each. No weapons.",
+        "baseForm": "mobility"
+      },
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Cyndaquil (브케인), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536 vertical 2:3. Empty hands, both clearly visible and relaxed, exactly five fingers each. No weapons.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-41a99c96-c284-412e-bace-06f90117b86c.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-b1bf5a11-7ffc-47bd-a80c-d20d567b4b3f.png"
+      ],
+      "output": "img/브케인_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "21258dedb1a66b5259d8583efb43d5e3759ffb866d4cc40d2468fbd57fdfb03f",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "브케인",
+      "slot": "casual1",
+      "ui_hash": 3558587093,
+      "settings": {
+        "cat": "adult_roleplay",
+        "expr": "playful",
+        "pose": "dance_step",
+        "orient": "low_angle",
+        "frame": "full_body",
+        "lens": "documentary35",
+        "scene": "A solo festival stage rehearsal at blue hour, making a light dance step across a wooden platform under amber festoon lights. Clear empty hands in a graceful relaxed gesture; no audience.",
+        "outfit": "An original adult ringmaster-inspired event costume: cream halter cropped waistcoat, deep teal high-waisted tailored shorts, short split coat tails, red bow tie and ankle boots. Opaque secure fabrics, exposed shoulders, midriff and legs. A tiny flame brooch only, no armor or crown.",
+        "custom": "1024x1536 vertical 2:3. Both bare hands visible, exactly five natural fingers each. No weapons, no readable signs.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "selection": {
+        "mech": "브케인",
+        "sourceName": "Cyndaquil",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "브케인",
+          "en": "Cyndaquil",
+          "color": "yellow",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "fur",
+              "detail": "body and cream-colored fur"
+            },
+            {
+              "part": "snout",
+              "detail": "long, thin snout"
+            },
+            {
+              "part": "arm",
+              "detail": "short arms"
+            },
+            {
+              "part": "leg",
+              "detail": "developed legs"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Cyndaquil_%28Pok%C3%A9mon%29",
+          "revision": 4628107,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "5f0034d172da9b05c31e87b131579f2c27513e12756e5067dfc853790c27658a",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "form": "casual1",
+        "cat": "adult_roleplay",
+        "expr": "playful",
+        "pose": "dance_step",
+        "orient": "low_angle",
+        "frame": "full_body",
+        "lens": "documentary35",
+        "scene": "A solo festival stage rehearsal at blue hour, making a light dance step across a wooden platform under amber festoon lights. Clear empty hands in a graceful relaxed gesture; no audience.",
+        "outfit": "An original adult ringmaster-inspired event costume: cream halter cropped waistcoat, deep teal high-waisted tailored shorts, short split coat tails, red bow tie and ankle boots. Opaque secure fabrics, exposed shoulders, midriff and legs. A tiny flame brooch only, no armor or crown.",
+        "custom": "1024x1536 vertical 2:3. Both bare hands visible, exactly five natural fingers each. No weapons, no readable signs.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Cyndaquil (브케인) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement\nPose: Take a small rhythmic dance step with coordinated arms and balanced feet.\nOrientation: camera below subject looking upward; obey selected framing\nScene: A solo festival stage rehearsal at blue hour, making a light dance step across a wooden platform under amber festoon lights. Clear empty hands in a graceful relaxed gesture; no audience.\nOutfit and props: An original adult ringmaster-inspired event costume: cream halter cropped waistcoat, deep teal high-waisted tailored shorts, short split coat tails, red bow tie and ankle boots. Opaque secure fabrics, exposed shoulders, midriff and legs. A tiny flame brooch only, no armor or crown.\nCategory: Create playful adult event fashion inspired by occupation or roleplay motifs. It must read as a costume made for a stage presentation or themed event, not as an authentic workplace uniform. Use original colours and decorative details — no real institutional insignia, no weapons, no tactical gear. Describe the costume by its tailoring, trim, and props, and show a believable styling or preparation action.\nNote: 1024x1536 vertical 2:3. Both bare hands visible, exactly five natural fingers each. No weapons, no readable signs.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-3efb3585-b8d5-4798-8c8b-31c2089010fd.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-919e90c6-a336-4120-922c-c8433f6a5b8d.png"
+      ],
+      "output": "img/브케인_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "bd63bc7d768b661f21a7803928fd3104bbc396f61579dc929dd6e63ba9673a93",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "브케인",
+      "slot": "casual2",
+      "ui_hash": 3934723016,
+      "settings": {
+        "cat": "hobbies_leisure",
+        "expr": "focused",
+        "pose": "leaning_furniture",
+        "orient": "side",
+        "frame": "waist_up",
+        "lens": "portrait85",
+        "scene": "In a bright glass-craft studio at midday, leaning lightly against a high workbench while arranging colored glass pieces into a small mosaic sun. Two hands separated over the table, face seen in profile, window light makes glass sparkle.",
+        "outfit": "A cream square-neck sleeveless fitted top with a cropped hem and teal linen trousers below the waist crop. Small orange glass bead bracelet. Bare arms and midriff, opaque fabric, no armor or large headpiece.",
+        "custom": "1024x1536 vertical 2:3. Both bare hands visible, exactly five natural fingers each. No weapons, no readable signs.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "selection": {
+        "mech": "브케인",
+        "sourceName": "Cyndaquil",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "브케인",
+          "en": "Cyndaquil",
+          "color": "yellow",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "fur",
+              "detail": "body and cream-colored fur"
+            },
+            {
+              "part": "snout",
+              "detail": "long, thin snout"
+            },
+            {
+              "part": "arm",
+              "detail": "short arms"
+            },
+            {
+              "part": "leg",
+              "detail": "developed legs"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Cyndaquil_%28Pok%C3%A9mon%29",
+          "revision": 4628107,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "5f0034d172da9b05c31e87b131579f2c27513e12756e5067dfc853790c27658a",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "form": "casual2",
+        "cat": "hobbies_leisure",
+        "expr": "focused",
+        "pose": "leaning_furniture",
+        "orient": "side",
+        "frame": "waist_up",
+        "lens": "portrait85",
+        "scene": "In a bright glass-craft studio at midday, leaning lightly against a high workbench while arranging colored glass pieces into a small mosaic sun. Two hands separated over the table, face seen in profile, window light makes glass sparkle.",
+        "outfit": "A cream square-neck sleeveless fitted top with a cropped hem and teal linen trousers below the waist crop. Small orange glass bead bracelet. Bare arms and midriff, opaque fabric, no armor or large headpiece.",
+        "custom": "1024x1536 vertical 2:3. Both bare hands visible, exactly five natural fingers each. No weapons, no readable signs.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Cyndaquil (브케인) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed\nPose: Rest a hand or forearm on a table, counter or railing in a relaxed supported pose.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: In a bright glass-craft studio at midday, leaning lightly against a high workbench while arranging colored glass pieces into a small mosaic sun. Two hands separated over the table, face seen in profile, window light makes glass sparkle.\nOutfit and props: A cream square-neck sleeveless fitted top with a cropped hem and teal linen trousers below the waist crop. Small orange glass bead bracelet. Bare arms and midriff, opaque fabric, no armor or large headpiece.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: 1024x1536 vertical 2:3. Both bare hands visible, exactly five natural fingers each. No weapons, no readable signs.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-4a166871-2183-4a0c-b4d0-b3047b3c6025.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-919e90c6-a336-4120-922c-c8433f6a5b8d.png"
+      ],
+      "output": "img/브케인_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "a1b9fc2f357233b01d3bbd8299c1006a00a87da66bd6aee4fd9e6dd2ea036b79",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "브케인",
+      "slot": "casual3",
+      "ui_hash": 1576948770,
+      "settings": {
+        "cat": "travel_exploration",
+        "expr": "pensive",
+        "pose": "one_knee_up",
+        "orient": "high_angle",
+        "frame": "three_quarter",
+        "lens": "wide24",
+        "scene": "At dawn on a basalt hiking overlook, sitting with one knee raised to study a folded trail map on her raised thigh. One hand steadies the map and the other points at its blank contour shapes. Distant mist and volcanic ridges, face tilted naturally toward the high camera.",
+        "outfit": "A sleeveless deep-teal zip-front hiking romper with short legs and a cream utility belt, sturdy boots. Bare shoulders and legs, a small flame zipper charm, no armor. Map has no lettering.",
+        "custom": "1024x1536 vertical 2:3. Both bare hands visible, exactly five natural fingers each. No weapons, no readable signs.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "selection": {
+        "mech": "브케인",
+        "sourceName": "Cyndaquil",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "브케인",
+          "en": "Cyndaquil",
+          "color": "yellow",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "fur",
+              "detail": "body and cream-colored fur"
+            },
+            {
+              "part": "snout",
+              "detail": "long, thin snout"
+            },
+            {
+              "part": "arm",
+              "detail": "short arms"
+            },
+            {
+              "part": "leg",
+              "detail": "developed legs"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Cyndaquil_%28Pok%C3%A9mon%29",
+          "revision": 4628107,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "5f0034d172da9b05c31e87b131579f2c27513e12756e5067dfc853790c27658a",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "form": "casual3",
+        "cat": "travel_exploration",
+        "expr": "pensive",
+        "pose": "one_knee_up",
+        "orient": "high_angle",
+        "frame": "three_quarter",
+        "lens": "wide24",
+        "scene": "At dawn on a basalt hiking overlook, sitting with one knee raised to study a folded trail map on her raised thigh. One hand steadies the map and the other points at its blank contour shapes. Distant mist and volcanic ridges, face tilted naturally toward the high camera.",
+        "outfit": "A sleeveless deep-teal zip-front hiking romper with short legs and a cream utility belt, sturdy boots. Bare shoulders and legs, a small flame zipper charm, no armor. Map has no lettering.",
+        "custom": "1024x1536 vertical 2:3. Both bare hands visible, exactly five natural fingers each. No weapons, no readable signs.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Cyndaquil (브케인) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: gaze angled down and away, slightly furrowed brow, lips lightly pressed or touched\nPose: Sit on a mat with one knee raised and an arm resting naturally on it.\nOrientation: camera above subject looking downward; obey selected framing\nScene: At dawn on a basalt hiking overlook, sitting with one knee raised to study a folded trail map on her raised thigh. One hand steadies the map and the other points at its blank contour shapes. Distant mist and volcanic ridges, face tilted naturally toward the high camera.\nOutfit and props: A sleeveless deep-teal zip-front hiking romper with short legs and a cream utility belt, sturdy boots. Bare shoulders and legs, a small flame zipper charm, no armor. Map has no lettering.\nCategory: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.\nNote: 1024x1536 vertical 2:3. Both bare hands visible, exactly five natural fingers each. No weapons, no readable signs.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 24mm-equivalent wide-angle impression with spacious environmental depth; use enough camera distance to avoid stretching the face or limbs.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-268bed1c-5b08-450f-9ff1-dc14d6c8e777.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-919e90c6-a336-4120-922c-c8433f6a5b8d.png"
+      ],
+      "output": "img/브케인_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "be2b403829ae00b8d6c6fa3990494d3cf657151e20f1902209d9ee6120a56833",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    }
+  ]
+}
