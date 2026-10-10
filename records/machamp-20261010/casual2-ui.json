@@ -1,0 +1,184 @@
+{
+  "character": "괴력몬",
+  "slot": "casual2",
+  "controls": {
+    "search": "",
+    "group": "",
+    "source": "괴력몬",
+    "style": "glossy_promo",
+    "motifs": "",
+    "expression": "serious",
+    "category": "travel_exploration",
+    "example": "",
+    "pose": "kneeling",
+    "orientation": "side",
+    "frame": "full_body",
+    "lens": "wide24",
+    "aspect": "2:3",
+    "camera": "",
+    "scene": "A quiet alpine campsite at dawn beneath a pale misty sky. Kneeling beside a pitched canvas tent, she checks a low tent-rope tensioner with one hand while the other rests on her thigh, profile readable and fingers separate. Pine forest, distant mountain ridge and cool soft daylight.",
+    "outfit": "Burnt-orange sleeveless zip-front hiking romper with short legs, practical navy waist belt, low hiking boots and rolled socks, a small bronze oval zipper pull. Bare arms and thighs, practical field outfit, no armor.",
+    "custom": "One clearly adult woman in her 20s; match the reference face, hairstyle, proportions and human skin. Both hands naturally visible in the chosen framing, each with exactly five distinct fingers. No armor, weapons, text, logos or duplicate person.",
+    "axis-overall_intensity": "strong",
+    "axis-skin_exposure": "bold",
+    "axis-action_level": "AUTO",
+    "axis-source_influence": "AUTO",
+    "axis-separates_preference": "AUTO"
+  },
+  "prompt": "CHARACTER: the same woman as the attached image — Machamp (괴력몬) personified, fighting type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: level lowered brow, steady unblinking gaze, mouth closed in a straight line, jaw set\nPose: Kneel in a stable supported position suited to a low task or interaction.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: A quiet alpine campsite at dawn beneath a pale misty sky. Kneeling beside a pitched canvas tent, she checks a low tent-rope tensioner with one hand while the other rests on her thigh, profile readable and fingers separate. Pine forest, distant mountain ridge and cool soft daylight.\nOutfit and props: Burnt-orange sleeveless zip-front hiking romper with short legs, practical navy waist belt, low hiking boots and rolled socks, a small bronze oval zipper pull. Bare arms and thighs, practical field outfit, no armor.\nCategory: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.\nNote: One clearly adult woman in her 20s; match the reference face, hairstyle, proportions and human skin. Both hands naturally visible in the chosen framing, each with exactly five distinct fingers. No armor, weapons, text, logos or duplicate person.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 24mm-equivalent wide-angle impression with spacious environmental depth; use enough camera distance to avoid stretching the face or limbs.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+  "store": {
+    "last": "괴력몬",
+    "cards": {
+      "이상해씨": {
+        "style": "cinematic_semi_real",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {},
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "괴력몬": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "statuesque",
+          "hair color": "navy",
+          "hairstyle": "braid",
+          "hair length": "long",
+          "eye color": "red"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "focused",
+            "pose": "cross_step",
+            "orient": "",
+            "scene": "An empty arena terrace under overcast noon light. Regal grounded martial-arts stance, open hands separated at waist height, full face toward camera; blue-gray slim armor, black power belt and bronze ridges, human skin.",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "Preserve the attached normal-form image camera, pose, character scale, face and body. Both hands remain exactly as in the reference with five fingers each. Vertical 2:3, 1024x1536.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "serious",
+            "pose": "kneeling",
+            "orient": "side",
+            "scene": "A quiet alpine campsite at dawn beneath a pale misty sky. Kneeling beside a pitched canvas tent, she checks a low tent-rope tensioner with one hand while the other rests on her thigh, profile readable and fingers separate. Pine forest, distant mountain ridge and cool soft daylight.",
+            "outfit": "Burnt-orange sleeveless zip-front hiking romper with short legs, practical navy waist belt, low hiking boots and rolled socks, a small bronze oval zipper pull. Bare arms and thighs, practical field outfit, no armor.",
+            "frame": "full_body",
+            "lens": "wide24",
+            "camera": "",
+            "custom": "One clearly adult woman in her 20s; match the reference face, hairstyle, proportions and human skin. Both hands naturally visible in the chosen framing, each with exactly five distinct fingers. No armor, weapons, text, logos or duplicate person.",
+            "aspect": "2:3",
+            "cat": "travel_exploration",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  }
+}

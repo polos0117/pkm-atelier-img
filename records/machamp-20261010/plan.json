@@ -1,0 +1,45 @@
+{
+  "character": "괴력몬",
+  "generator": "Real Preact generator UI via repository DOM harness; selections dispatched on the actual controls and exact textarea captured",
+  "recent_comparison": [
+    "발챙이",
+    "슈륙챙이",
+    "강챙이",
+    "알통몬",
+    "근육몬"
+  ],
+  "comparison_source": "Read recent three characters casual1-3 UI records and submitted prompts",
+  "diversity_changes": "Different locations, concrete activities, clothing silhouettes, poses, orientations, framing order, times and lighting. Required categories rotate lingerie, swimwear, adult_roleplay.",
+  "casual": [
+    {
+      "cat": "adult_roleplay",
+      "expr": "confident",
+      "pose": "contrapposto",
+      "orient": "front",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "An empty rooftop hotel terrace during a themed adult costume evening at blue hour. Wearing original retro bartender event fashion, she balances her weight on one leg while arranging a citrus garnish beside a drink on a high counter, one open hand next to the garnish and the other lightly steadying the stem of the glass. Violet city skyline and warm counter lamps; no other people or readable signage.",
+      "outfit": "Original retro bartender event fashion: tailored ivory halter waistcoat cropped above the waist with a deep V lapel, high-waisted navy tuxedo shorts with satin side stripes, slim bronze suspenders and low dress heels. Bare shoulders, midriff and legs, securely fitted opaque costume; tiny three-ridge lapel pin, no institutional insignia and no armor."
+    },
+    {
+      "cat": "travel_exploration",
+      "expr": "serious",
+      "pose": "kneeling",
+      "orient": "side",
+      "frame": "full_body",
+      "lens": "wide24",
+      "scene": "A quiet alpine campsite at dawn beneath a pale misty sky. Kneeling beside a pitched canvas tent, she checks a low tent-rope tensioner with one hand while the other rests on her thigh, profile readable and fingers separate. Pine forest, distant mountain ridge and cool soft daylight.",
+      "outfit": "Burnt-orange sleeveless zip-front hiking romper with short legs, practical navy waist belt, low hiking boots and rolled socks, a small bronze oval zipper pull. Bare arms and thighs, practical field outfit, no armor."
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "soft_smile",
+      "pose": "standing_relaxed",
+      "orient": "front_3q",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "A warm home conservatory on a rainy afternoon. Standing at a waist-high workbench, she gently threads a broad satin ribbon around a small bouquet of garden flowers, both hands separated and plainly visible below her chest. Warm pendant light and rain on green glass windows, calm floral hobby moment.",
+      "outfit": "An ivory thin-strap linen crop camisole with a softly squared neckline, a flowing navy skirt and a bronze bracelet with three tiny ridges. Bare shoulders, arms and clear midriff, ordinary relaxed fashion, no armor."
+    }
+  ]
+}

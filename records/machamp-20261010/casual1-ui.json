@@ -1,0 +1,184 @@
+{
+  "character": "괴력몬",
+  "slot": "casual1",
+  "controls": {
+    "search": "",
+    "group": "",
+    "source": "괴력몬",
+    "style": "glossy_promo",
+    "motifs": "",
+    "expression": "confident",
+    "category": "adult_roleplay",
+    "example": "",
+    "pose": "contrapposto",
+    "orientation": "front",
+    "frame": "three_quarter",
+    "lens": "portrait85",
+    "aspect": "2:3",
+    "camera": "",
+    "scene": "An empty rooftop hotel terrace during a themed adult costume evening at blue hour. Wearing original retro bartender event fashion, she balances her weight on one leg while arranging a citrus garnish beside a drink on a high counter, one open hand next to the garnish and the other lightly steadying the stem of the glass. Violet city skyline and warm counter lamps; no other people or readable signage.",
+    "outfit": "Original retro bartender event fashion: tailored ivory halter waistcoat cropped above the waist with a deep V lapel, high-waisted navy tuxedo shorts with satin side stripes, slim bronze suspenders and low dress heels. Bare shoulders, midriff and legs, securely fitted opaque costume; tiny three-ridge lapel pin, no institutional insignia and no armor.",
+    "custom": "One clearly adult woman in her 20s; match the reference face, hairstyle, proportions and human skin. Both hands naturally visible in the chosen framing, each with exactly five distinct fingers. No armor, weapons, text, logos or duplicate person.",
+    "axis-overall_intensity": "strong",
+    "axis-skin_exposure": "bold",
+    "axis-action_level": "AUTO",
+    "axis-source_influence": "AUTO",
+    "axis-separates_preference": "AUTO"
+  },
+  "prompt": "CHARACTER: the same woman as the attached image — Machamp (괴력몬) personified, fighting type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed\nPose: Rest weight on one leg with the opposite knee relaxed in natural contrapposto.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: An empty rooftop hotel terrace during a themed adult costume evening at blue hour. Wearing original retro bartender event fashion, she balances her weight on one leg while arranging a citrus garnish beside a drink on a high counter, one open hand next to the garnish and the other lightly steadying the stem of the glass. Violet city skyline and warm counter lamps; no other people or readable signage.\nOutfit and props: Original retro bartender event fashion: tailored ivory halter waistcoat cropped above the waist with a deep V lapel, high-waisted navy tuxedo shorts with satin side stripes, slim bronze suspenders and low dress heels. Bare shoulders, midriff and legs, securely fitted opaque costume; tiny three-ridge lapel pin, no institutional insignia and no armor.\nCategory: Create playful adult event fashion inspired by occupation or roleplay motifs. It must read as a costume made for a stage presentation or themed event, not as an authentic workplace uniform. Use original colours and decorative details — no real institutional insignia, no weapons, no tactical gear. Describe the costume by its tailoring, trim, and props, and show a believable styling or preparation action.\nNote: One clearly adult woman in her 20s; match the reference face, hairstyle, proportions and human skin. Both hands naturally visible in the chosen framing, each with exactly five distinct fingers. No armor, weapons, text, logos or duplicate person.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+  "store": {
+    "last": "괴력몬",
+    "cards": {
+      "이상해씨": {
+        "style": "cinematic_semi_real",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {},
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "괴력몬": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "statuesque",
+          "hair color": "navy",
+          "hairstyle": "braid",
+          "hair length": "long",
+          "eye color": "red"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "focused",
+            "pose": "cross_step",
+            "orient": "",
+            "scene": "An empty arena terrace under overcast noon light. Regal grounded martial-arts stance, open hands separated at waist height, full face toward camera; blue-gray slim armor, black power belt and bronze ridges, human skin.",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "Preserve the attached normal-form image camera, pose, character scale, face and body. Both hands remain exactly as in the reference with five fingers each. Vertical 2:3, 1024x1536.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "confident",
+            "pose": "contrapposto",
+            "orient": "front",
+            "scene": "An empty rooftop hotel terrace during a themed adult costume evening at blue hour. Wearing original retro bartender event fashion, she balances her weight on one leg while arranging a citrus garnish beside a drink on a high counter, one open hand next to the garnish and the other lightly steadying the stem of the glass. Violet city skyline and warm counter lamps; no other people or readable signage.",
+            "outfit": "Original retro bartender event fashion: tailored ivory halter waistcoat cropped above the waist with a deep V lapel, high-waisted navy tuxedo shorts with satin side stripes, slim bronze suspenders and low dress heels. Bare shoulders, midriff and legs, securely fitted opaque costume; tiny three-ridge lapel pin, no institutional insignia and no armor.",
+            "frame": "three_quarter",
+            "lens": "portrait85",
+            "camera": "",
+            "custom": "One clearly adult woman in her 20s; match the reference face, hairstyle, proportions and human skin. Both hands naturally visible in the chosen framing, each with exactly five distinct fingers. No armor, weapons, text, logos or duplicate person.",
+            "aspect": "2:3",
+            "cat": "adult_roleplay",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  }
+}

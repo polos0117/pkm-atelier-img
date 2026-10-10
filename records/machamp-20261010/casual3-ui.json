@@ -1,0 +1,184 @@
+{
+  "character": "괴력몬",
+  "slot": "casual3",
+  "controls": {
+    "search": "",
+    "group": "",
+    "source": "괴력몬",
+    "style": "glossy_promo",
+    "motifs": "",
+    "expression": "soft_smile",
+    "category": "hobbies_leisure",
+    "example": "",
+    "pose": "standing_relaxed",
+    "orientation": "front_3q",
+    "frame": "waist_up",
+    "lens": "natural50",
+    "aspect": "2:3",
+    "camera": "",
+    "scene": "A warm home conservatory on a rainy afternoon. Standing at a waist-high workbench, she gently threads a broad satin ribbon around a small bouquet of garden flowers, both hands separated and plainly visible below her chest. Warm pendant light and rain on green glass windows, calm floral hobby moment.",
+    "outfit": "An ivory thin-strap linen crop camisole with a softly squared neckline, a flowing navy skirt and a bronze bracelet with three tiny ridges. Bare shoulders, arms and clear midriff, ordinary relaxed fashion, no armor.",
+    "custom": "One clearly adult woman in her 20s; match the reference face, hairstyle, proportions and human skin. Both hands naturally visible in the chosen framing, each with exactly five distinct fingers. No armor, weapons, text, logos or duplicate person.",
+    "axis-overall_intensity": "strong",
+    "axis-skin_exposure": "bold",
+    "axis-action_level": "AUTO",
+    "axis-source_influence": "AUTO",
+    "axis-separates_preference": "AUTO"
+  },
+  "prompt": "CHARACTER: the same woman as the attached image — Machamp (괴력몬) personified, fighting type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids\nPose: Stand at ease with relaxed shoulders and naturally balanced feet.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: A warm home conservatory on a rainy afternoon. Standing at a waist-high workbench, she gently threads a broad satin ribbon around a small bouquet of garden flowers, both hands separated and plainly visible below her chest. Warm pendant light and rain on green glass windows, calm floral hobby moment.\nOutfit and props: An ivory thin-strap linen crop camisole with a softly squared neckline, a flowing navy skirt and a bronze bracelet with three tiny ridges. Bare shoulders, arms and clear midriff, ordinary relaxed fashion, no armor.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: One clearly adult woman in her 20s; match the reference face, hairstyle, proportions and human skin. Both hands naturally visible in the chosen framing, each with exactly five distinct fingers. No armor, weapons, text, logos or duplicate person.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+  "store": {
+    "last": "괴력몬",
+    "cards": {
+      "이상해씨": {
+        "style": "cinematic_semi_real",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {},
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "괴력몬": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "statuesque",
+          "hair color": "navy",
+          "hairstyle": "braid",
+          "hair length": "long",
+          "eye color": "red"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "focused",
+            "pose": "cross_step",
+            "orient": "",
+            "scene": "An empty arena terrace under overcast noon light. Regal grounded martial-arts stance, open hands separated at waist height, full face toward camera; blue-gray slim armor, black power belt and bronze ridges, human skin.",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "Preserve the attached normal-form image camera, pose, character scale, face and body. Both hands remain exactly as in the reference with five fingers each. Vertical 2:3, 1024x1536.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "soft_smile",
+            "pose": "standing_relaxed",
+            "orient": "front_3q",
+            "scene": "A warm home conservatory on a rainy afternoon. Standing at a waist-high workbench, she gently threads a broad satin ribbon around a small bouquet of garden flowers, both hands separated and plainly visible below her chest. Warm pendant light and rain on green glass windows, calm floral hobby moment.",
+            "outfit": "An ivory thin-strap linen crop camisole with a softly squared neckline, a flowing navy skirt and a bronze bracelet with three tiny ridges. Bare shoulders, arms and clear midriff, ordinary relaxed fashion, no armor.",
+            "frame": "waist_up",
+            "lens": "natural50",
+            "camera": "",
+            "custom": "One clearly adult woman in her 20s; match the reference face, hairstyle, proportions and human skin. Both hands naturally visible in the chosen framing, each with exactly five distinct fingers. No armor, weapons, text, logos or duplicate person.",
+            "aspect": "2:3",
+            "cat": "hobbies_leisure",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  }
+}

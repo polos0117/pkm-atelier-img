@@ -1,0 +1,190 @@
+{
+  "character": "괴력몬",
+  "reference": {
+    "character": "괴력몬",
+    "slot": "light",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/f8c079e16365/generated_images/exec-92c22eb4-21f3-4a6d-952e-ee08081eac17.png",
+    "output": "img/괴력몬_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "bc9a796762d62aa1e12a172f03efe7491bdfe380b135cf8776383b069cbda3b7",
+    "reference": null,
+    "prompt": "records/machamp-20261010/light.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+  },
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "count": 9,
+  "target": 9,
+  "upload": "All 9 validated outputs included in the character commit; remote commit identity is recorded in Git history",
+  "files": [
+    {
+      "character": "괴력몬",
+      "slot": "light",
+      "style": "glossy_promo",
+      "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+      "original": "/workspace/scratch/f8c079e16365/generated_images/exec-92c22eb4-21f3-4a6d-952e-ee08081eac17.png",
+      "output": "img/괴력몬_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "bc9a796762d62aa1e12a172f03efe7491bdfe380b135cf8776383b069cbda3b7",
+      "reference": null,
+      "prompt": "records/machamp-20261010/light.txt",
+      "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+    },
+    {
+      "character": "괴력몬",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+      "original": "/workspace/scratch/f8c079e16365/generated_images/exec-212296f6-675e-4115-ab5f-14fcf74aa26f.png",
+      "output": "img/괴력몬_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "af671ca006d17796618d2a2da7a6257f473615e710c5f3a7958180ffb3347ab4",
+      "reference": "img/괴력몬_light_glossy_promo_f.webp",
+      "prompt": "records/machamp-20261010/heavy.txt",
+      "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+    },
+    {
+      "character": "괴력몬",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+      "original": "/workspace/scratch/f8c079e16365/generated_images/exec-79120f48-8af9-4780-bc7f-41b0f1a4c6e0.png",
+      "output": "img/괴력몬_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "0b416b6c06821450f19730c6f4664c5f111109ce485dec004ac3afa24dfcca12",
+      "reference": "img/괴력몬_light_glossy_promo_f.webp",
+      "prompt": "records/machamp-20261010/mobility.txt",
+      "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+    },
+    {
+      "character": "괴력몬",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+      "original": "/workspace/scratch/f8c079e16365/generated_images/exec-dbce580a-a26b-417c-bf60-ac0124cd8bc3.png",
+      "output": "img/괴력몬_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "a36b412cac1964f9df4d47afff13648d4b63a46d52e78ac5d3f2e699a9671963",
+      "reference": "img/괴력몬_light_glossy_promo_f.webp",
+      "prompt": "records/machamp-20261010/light_overdrive.txt",
+      "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+    },
+    {
+      "character": "괴력몬",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+      "original": "/workspace/scratch/f8c079e16365/generated_images/exec-95bbc459-f147-475c-8bd7-c77a768affac.png",
+      "output": "img/괴력몬_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c4cf6acf1a63b7cafe4614d7292a508dbb24fa5312ac0b95688c614c5b8db95a",
+      "reference": "img/괴력몬_heavy_glossy_promo_f.webp",
+      "prompt": "records/machamp-20261010/heavy_overdrive.txt",
+      "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+    },
+    {
+      "character": "괴력몬",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+      "original": "/workspace/scratch/f8c079e16365/generated_images/exec-e45cdca2-51c6-4d6a-b817-98330888b69a.png",
+      "output": "img/괴력몬_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "03fca967629a09a75a6398deb53b46d3c919e4f8e864c210ee061fe465a508d0",
+      "reference": "img/괴력몬_mobility_glossy_promo_f.webp",
+      "prompt": "records/machamp-20261010/mobility_overdrive.txt",
+      "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+    },
+    {
+      "character": "괴력몬",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+      "original": "/workspace/scratch/f8c079e16365/generated_images/exec-0b170391-227f-4b8c-9b5b-f9daca53e974.png",
+      "output": "img/괴력몬_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "acfc409fe6f3f4b5b56971514b4a2d1b4d0077991297754d9819b2aa01aa62d3",
+      "reference": "img/괴력몬_light_glossy_promo_f.webp",
+      "prompt": "records/machamp-20261010/casual1.txt",
+      "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+    },
+    {
+      "character": "괴력몬",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+      "original": "/workspace/scratch/f8c079e16365/generated_images/exec-6c25688e-b072-4cf0-b881-0807f5969cc3.png",
+      "output": "img/괴력몬_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "2b6c3e0384ec9f8b653c3ab207e3e63ac74ba2cd8c3e5e8ee0068edea6f7540c",
+      "reference": "img/괴력몬_light_glossy_promo_f.webp",
+      "prompt": "records/machamp-20261010/casual2.txt",
+      "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+    },
+    {
+      "character": "괴력몬",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+      "original": "/workspace/scratch/f8c079e16365/generated_images/exec-c0c1529c-6521-44e0-8947-c23e761b2020.png",
+      "output": "img/괴력몬_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b9bf2a7afdd442cfb64129082a41db348de8f3a4149e511f338200b1691a0094",
+      "reference": "img/괴력몬_light_glossy_promo_f.webp",
+      "prompt": "records/machamp-20261010/casual3.txt",
+      "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+    }
+  ],
+  "casual_diversity_validation": "Three outputs inspected: rooftop bartender costume event, dawn alpine campsite rope check, rainy conservatory flower arranging. Different categories, locations, activities, silhouettes, framing and expressions."
+}

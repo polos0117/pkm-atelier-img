@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Machamp (괴력몬) personified, fighting type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids
+Pose: Stand at ease with relaxed shoulders and naturally balanced feet.
+Orientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together
+Scene: A warm home conservatory on a rainy afternoon. Standing at a waist-high workbench, she gently threads a broad satin ribbon around a small bouquet of garden flowers, both hands separated and plainly visible below her chest. Warm pendant light and rain on green glass windows, calm floral hobby moment.
+Outfit and props: An ivory thin-strap linen crop camisole with a softly squared neckline, a flowing navy skirt and a bronze bracelet with three tiny ridges. Bare shoulders, arms and clear midriff, ordinary relaxed fashion, no armor.
+Category: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.
+Note: One clearly adult woman in her 20s; match the reference face, hairstyle, proportions and human skin. Both hands naturally visible in the chosen framing, each with exactly five distinct fingers. No armor, weapons, text, logos or duplicate person.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
