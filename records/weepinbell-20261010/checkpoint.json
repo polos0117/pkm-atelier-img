@@ -1,0 +1,178 @@
+{
+  "character": "우츠동",
+  "anchor": {
+    "slot": "light",
+    "reference": null,
+    "prompt": "light.txt",
+    "uiState": {
+      "last": "우츠동",
+      "cards": {
+        "이상해씨": {
+          "style": "cinematic_semi_real",
+          "identityMode": "create",
+          "form": "light",
+          "baseForm": "light",
+          "motifs": "",
+          "formOverride": "",
+          "headFeature": "",
+          "params": {},
+          "locks": {},
+          "mode": "action",
+          "scenes": {
+            "action": {
+              "expr": "",
+              "pose": "",
+              "orient": "",
+              "scene": "",
+              "outfit": "",
+              "frame": "",
+              "lens": "",
+              "camera": "",
+              "custom": "",
+              "aspect": "2:3",
+              "cat": "everyday_basic",
+              "catCustom": "",
+              "ex": "",
+              "exCustom": "",
+              "axes": {},
+              "action": {
+                "category": "",
+                "example": "",
+                "timing": "",
+                "equipment": "",
+                "power": "",
+                "effects": "",
+                "speed": "",
+                "environment": ""
+              },
+              "randomLocks": {}
+            },
+            "casual": {
+              "expr": "",
+              "pose": "",
+              "orient": "",
+              "scene": "",
+              "outfit": "",
+              "frame": "",
+              "lens": "",
+              "camera": "",
+              "custom": "",
+              "aspect": "2:3",
+              "cat": "everyday_basic",
+              "catCustom": "",
+              "ex": "",
+              "exCustom": "",
+              "axes": {},
+              "action": {
+                "category": "",
+                "example": "",
+                "timing": "",
+                "equipment": "",
+                "power": "",
+                "effects": "",
+                "speed": "",
+                "environment": ""
+              },
+              "randomLocks": {}
+            }
+          }
+        },
+        "우츠동": {
+          "style": "glossy_promo",
+          "identityMode": "create",
+          "form": "light",
+          "baseForm": "light",
+          "motifs": "",
+          "formOverride": "",
+          "headFeature": "",
+          "params": {
+            "apparent age": "20s"
+          },
+          "locks": {},
+          "mode": "action",
+          "scenes": {
+            "action": {
+              "expr": "",
+              "pose": "",
+              "orient": "",
+              "scene": "A stone botanical pavilion beside a shallow ornamental canal at amber afternoon light.",
+              "outfit": "",
+              "frame": "",
+              "lens": "",
+              "camera": "",
+              "custom": "1024x1536 vertical 2:3 full body. Clearly adult woman aged 27, mature serene face, olive-green eyes, long honey-blonde hair in a low ponytail with a side fringe, toned human adult figure. Yellow bell-petal collar and green leaf shoulder trims, brown curved seam accents, tiny leaf hair ornament, human skin. Both empty hands fully visible, exactly one thumb and four distinct fingers each. No weapons.",
+              "aspect": "2:3",
+              "cat": "everyday_basic",
+              "catCustom": "",
+              "ex": "",
+              "exCustom": "",
+              "axes": {},
+              "action": {
+                "category": "",
+                "example": "",
+                "timing": "",
+                "equipment": "",
+                "power": "",
+                "effects": "",
+                "speed": "",
+                "environment": ""
+              },
+              "randomLocks": {}
+            },
+            "casual": {
+              "expr": "",
+              "pose": "",
+              "orient": "",
+              "scene": "",
+              "outfit": "",
+              "frame": "",
+              "lens": "",
+              "camera": "",
+              "custom": "",
+              "aspect": "2:3",
+              "cat": "everyday_basic",
+              "catCustom": "",
+              "ex": "",
+              "exCustom": "",
+              "axes": {},
+              "action": {
+                "category": "",
+                "example": "",
+                "timing": "",
+                "equipment": "",
+                "power": "",
+                "effects": "",
+                "speed": "",
+                "environment": ""
+              },
+              "randomLocks": {}
+            }
+          }
+        }
+      }
+    },
+    "raw": "generated_images/exec-22aa7a3f-83d2-4233-8b7f-a78cc716f45f.png",
+    "output": "img/우츠동_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "87e863074cea8a4f0daddf118dc0fd9628ed7a0a55c34637298fafb9f05a7489",
+    "git_blob_sha": "4fc2cd70ed9f5b0db9de407b50a7d36a36f7ef86",
+    "verified": true
+  },
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "pending": [],
+  "upload": "pending"
+}
