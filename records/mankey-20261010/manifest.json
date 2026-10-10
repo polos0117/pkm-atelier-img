@@ -1,0 +1,1520 @@
+{
+  "character": "망키",
+  "key": "mankey",
+  "style": "glossy_promo",
+  "generator": "Actual repository Preact UI controls through DOM harness",
+  "recentComparison": {
+    "characters": [
+      "닥트리오",
+      "나옹",
+      "페르시온"
+    ],
+    "records": [
+      "records/dugtrio-20261010/settings.json",
+      "records/meowth-20261010/settings.json",
+      "records/persian-20261010/settings.json"
+    ],
+    "avoid": "pool standing, seated hobby, cafe holding cup; changed place, activity, outfit silhouette and camera; compared all three current plans as well"
+  },
+  "plan": [
+    [
+      "active",
+      "determined",
+      "stretching",
+      "side",
+      "full_body",
+      "documentary35",
+      "In an outdoor calisthenics park at sunrise, standing in profile and gently stretching one arm across her chest with the other hand supporting the forearm, hands separate and clear. Full body, grounded feet, empty equipment in background.",
+      "Rust-brown opaque racerback sports bra with secure wide underband and cream piping, high-waisted cream running shorts, trainers, tiny curled-tail bracelet. Bare shoulders, midriff and legs."
+    ],
+    [
+      "lingerie",
+      "mischievous",
+      "hand_on_hip",
+      "front_3q",
+      "three_quarter",
+      "portrait85",
+      "In a boutique fashion fitting lounge at late afternoon, evaluating a new outfit beside a full-length mirror, one hand on her hip with separated fingers and the other lightly pinching the hem of a short robe. The mirror shows soft light rather than a second person. Head to above knees.",
+      "Opaque cream satin bralette with secure shaped cups and brown lace edging, matching high-waist fully covering shorts, an open short rust-brown silk robe with rolled sleeves. Lingerie-inspired fashion, covered chest and pelvis, bare midriff and legs, curled-tail bracelet."
+    ],
+    [
+      "traditional",
+      "amused",
+      "mid_action",
+      "looking_away",
+      "environmental",
+      "wide24",
+      "At a summer street-dance festival in a stone plaza at night, practicing a small coordinated drum rhythm on a waist-height hand drum with palms held apart over its surface, gaze angled toward the rhythm leader outside the image. One woman, full body and setting readable, festival lights.",
+      "Short sleeveless cream wrap tunic with brown diagonal edging, secure crossed neckline, rust wide belt and loose cropped brown culottes with side openings backed by opaque panels, flat sandals. Bare shoulders and arms, tiny curled-tail bracelet."
+    ]
+  ],
+  "images": [
+    {
+      "slot": "light",
+      "reference": null,
+      "prompt": "light.txt",
+      "uiState": {
+        "last": "망키",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "망키": {
+            "style": "glossy_promo",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "An open mountain training courtyard at late afternoon, rugged slate ground and warm sunset rim light.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Clearly adult woman aged 24, short tousled auburn hair, chestnut eyes and mature energetic face. Cream plates, warm brown trim, fluffy cream collar, small angular ear ornaments and a long curved brown cloth sash echo Mankey. No pig mask or animal face. Both empty hands fully visible, exactly one thumb and four distinct fingers each. No weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "/workspace/scratch/b2d860e182b8/generated_images/exec-9951fa00-7ce5-44eb-b09f-a74e5e8f6db6.png",
+      "output": "img/망키_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "1609977ec3317392922ad475228e02da6b15d9abcc8a859ec6911113fbe1f8e4",
+      "git_blob_sha": "40e79d77fc7fe882daa5c7abbd5c5cf562c88848",
+      "verified": true
+    },
+    {
+      "slot": "heavy",
+      "reference": "light",
+      "prompt": "heavy.txt",
+      "uiState": {
+        "last": "망키",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "망키": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "heavy",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "braced_stance",
+                "orient": "",
+                "scene": "An open mountain training courtyard at late afternoon, rugged slate ground and warm sunset rim light.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, five distinct fingers each, no weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "/workspace/scratch/b2d860e182b8/generated_images/exec-cacfefdf-2b79-4357-8f13-ec8a58b32440.png",
+      "output": "img/망키_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "1047c8ccf435c312545025916470b0fb5a34c4154f6ef18cf981c116ce43146b",
+      "git_blob_sha": "a07e56a0bd220bf778e2ebd02e4f15fcc10698ad",
+      "verified": true
+    },
+    {
+      "slot": "mobility",
+      "reference": "light",
+      "prompt": "mobility.txt",
+      "uiState": {
+        "last": "망키",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "망키": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "mobility",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "An open mountain training courtyard at late afternoon, rugged slate ground and warm sunset rim light.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, five distinct fingers each, no weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "/workspace/scratch/b2d860e182b8/generated_images/exec-df6463f2-3875-4e32-bdb7-e88d63ac64ca.png",
+      "output": "img/망키_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "8100b3beb8404f29cdb946e889364b802dd0c0d5f03b0db08d9a389cfe36ffef",
+      "git_blob_sha": "a38cab3eb01ec09c1930388ab4ed6accb95b5751",
+      "verified": true
+    },
+    {
+      "slot": "light_overdrive",
+      "reference": "light",
+      "prompt": "light_overdrive.txt",
+      "uiState": {
+        "last": "망키",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "망키": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "An open mountain training courtyard at late afternoon, rugged slate ground and warm sunset rim light.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, five distinct fingers each, no weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "/workspace/scratch/b2d860e182b8/generated_images/exec-51c66762-8720-4ab5-9356-36727bfadfa3.png",
+      "output": "img/망키_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "640261d2e35410d9d5de3442d37fef365f20390eb0502ef4264d3aa1412d0ced",
+      "git_blob_sha": "45cacd5376914326136270e5206a046f06f16a99",
+      "verified": true
+    },
+    {
+      "slot": "heavy_overdrive",
+      "reference": "heavy",
+      "prompt": "heavy_overdrive.txt",
+      "uiState": {
+        "last": "망키",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "망키": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "heavy",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "An open mountain training courtyard at late afternoon, rugged slate ground and warm sunset rim light.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, five distinct fingers each, no weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "/workspace/scratch/b2d860e182b8/generated_images/exec-18877c6f-a07a-4256-a553-97df87d3a76d.png",
+      "output": "img/망키_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "0bbc0e8e40b5b579ee81eb71c04bf3719d050ae65f21f43a580e2c203b599589",
+      "git_blob_sha": "d431aea38f9a36d327ca71104f733e753e510558",
+      "verified": true
+    },
+    {
+      "slot": "mobility_overdrive",
+      "reference": "mobility",
+      "prompt": "mobility_overdrive.txt",
+      "uiState": {
+        "last": "망키",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "망키": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "An open mountain training courtyard at late afternoon, rugged slate ground and warm sunset rim light.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, five distinct fingers each, no weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "/workspace/scratch/b2d860e182b8/generated_images/exec-7d20f5ba-ae9b-49cc-ba2f-9af8d234a9c7.png",
+      "output": "img/망키_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "ed95764c50cd3bc9e91bc64d0e9db41e10f696ade9afd84698c947b343554c85",
+      "git_blob_sha": "a6afde33ecb5b0ab592fb36e98301fa3ada1cb69",
+      "verified": true
+    },
+    {
+      "slot": "casual1",
+      "reference": "light",
+      "prompt": "casual1.txt",
+      "uiState": {
+        "last": "망키",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "망키": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "casual",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "An open mountain training courtyard at late afternoon, rugged slate ground and warm sunset rim light.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, five distinct fingers each, no weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "determined",
+                "pose": "stretching",
+                "orient": "side",
+                "scene": "In an outdoor calisthenics park at sunrise, standing in profile and gently stretching one arm across her chest with the other hand supporting the forearm, hands separate and clear. Full body, grounded feet, empty equipment in background.",
+                "outfit": "Rust-brown opaque racerback sports bra with secure wide underband and cream piping, high-waisted cream running shorts, trainers, tiny curled-tail bracelet. Bare shoulders, midriff and legs.",
+                "frame": "full_body",
+                "lens": "documentary35",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3. Preserve the same clearly adult woman and haircut. Both hands readable, five distinct fingers each. No armor, weapon, text or logo.",
+                "aspect": "2:3",
+                "cat": "active",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {
+                  "overall_intensity": "strong",
+                  "skin_exposure": "bold"
+                },
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "/workspace/scratch/b2d860e182b8/generated_images/exec-0eaeb67f-15ca-472a-87b9-5c896daea090.png",
+      "output": "img/망키_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c17d391c14e88caad64d583460ae6fa89d97521956a3062640bd9b2a99c48c39",
+      "git_blob_sha": "565504b7bde3d3d4b6db0fc6ee4b37efa335bac5",
+      "verified": true
+    },
+    {
+      "slot": "casual2",
+      "reference": "light",
+      "prompt": "casual2.txt",
+      "uiState": {
+        "last": "망키",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "망키": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "casual",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "An open mountain training courtyard at late afternoon, rugged slate ground and warm sunset rim light.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, five distinct fingers each, no weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "mischievous",
+                "pose": "hand_on_hip",
+                "orient": "front_3q",
+                "scene": "In a boutique fashion fitting lounge at late afternoon, evaluating a new outfit beside a full-length mirror, one hand on her hip with separated fingers and the other lightly pinching the hem of a short robe. The mirror shows soft light rather than a second person. Head to above knees.",
+                "outfit": "Opaque cream satin bralette with secure shaped cups and brown lace edging, matching high-waist fully covering shorts, an open short rust-brown silk robe with rolled sleeves. Lingerie-inspired fashion, covered chest and pelvis, bare midriff and legs, curled-tail bracelet.",
+                "frame": "three_quarter",
+                "lens": "portrait85",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3. Preserve the same clearly adult woman and haircut. Both hands readable, five distinct fingers each. No armor, weapon, text or logo.",
+                "aspect": "2:3",
+                "cat": "lingerie",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {
+                  "overall_intensity": "strong",
+                  "skin_exposure": "bold"
+                },
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "/workspace/scratch/b2d860e182b8/generated_images/exec-655c4085-65c4-4d74-ac95-8f9c57852531.png",
+      "output": "img/망키_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "fce6a9ab6d923ccfb409a0ca423beb9049a293c2ea683497f57bdce63590d6d9",
+      "git_blob_sha": "04dae700fdd7495ec68f016cf2de44ee1ee20e4e",
+      "verified": true
+    },
+    {
+      "slot": "casual3",
+      "reference": "light",
+      "prompt": "casual3.txt",
+      "uiState": {
+        "last": "망키",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "망키": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "casual",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "An open mountain training courtyard at late afternoon, rugged slate ground and warm sunset rim light.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, five distinct fingers each, no weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "amused",
+                "pose": "mid_action",
+                "orient": "looking_away",
+                "scene": "At a summer street-dance festival in a stone plaza at night, practicing a small coordinated drum rhythm on a waist-height hand drum with palms held apart over its surface, gaze angled toward the rhythm leader outside the image. One woman, full body and setting readable, festival lights.",
+                "outfit": "Short sleeveless cream wrap tunic with brown diagonal edging, secure crossed neckline, rust wide belt and loose cropped brown culottes with side openings backed by opaque panels, flat sandals. Bare shoulders and arms, tiny curled-tail bracelet.",
+                "frame": "environmental",
+                "lens": "wide24",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3. Preserve the same clearly adult woman and haircut. Both hands readable, five distinct fingers each. No armor, weapon, text or logo.",
+                "aspect": "2:3",
+                "cat": "traditional",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {
+                  "overall_intensity": "strong",
+                  "skin_exposure": "bold"
+                },
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "/workspace/scratch/b2d860e182b8/generated_images/exec-80651e1d-b635-4319-8681-8d8994639031.png",
+      "output": "img/망키_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "3c46675597fbd4b8056325318df04301150ea73914fd9cf10f5c3426063c13a0",
+      "git_blob_sha": "3e59a29a7f147148b59764328b1c6fb80eaa27ad",
+      "verified": true
+    }
+  ]
+}

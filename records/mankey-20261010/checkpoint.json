@@ -1,0 +1,178 @@
+{
+  "character": "망키",
+  "anchor": {
+    "slot": "light",
+    "reference": null,
+    "prompt": "light.txt",
+    "uiState": {
+      "last": "망키",
+      "cards": {
+        "이상해씨": {
+          "style": "cinematic_semi_real",
+          "identityMode": "create",
+          "form": "light",
+          "baseForm": "light",
+          "motifs": "",
+          "formOverride": "",
+          "headFeature": "",
+          "params": {},
+          "locks": {},
+          "mode": "action",
+          "scenes": {
+            "action": {
+              "expr": "",
+              "pose": "",
+              "orient": "",
+              "scene": "",
+              "outfit": "",
+              "frame": "",
+              "lens": "",
+              "camera": "",
+              "custom": "",
+              "aspect": "2:3",
+              "cat": "everyday_basic",
+              "catCustom": "",
+              "ex": "",
+              "exCustom": "",
+              "axes": {},
+              "action": {
+                "category": "",
+                "example": "",
+                "timing": "",
+                "equipment": "",
+                "power": "",
+                "effects": "",
+                "speed": "",
+                "environment": ""
+              },
+              "randomLocks": {}
+            },
+            "casual": {
+              "expr": "",
+              "pose": "",
+              "orient": "",
+              "scene": "",
+              "outfit": "",
+              "frame": "",
+              "lens": "",
+              "camera": "",
+              "custom": "",
+              "aspect": "2:3",
+              "cat": "everyday_basic",
+              "catCustom": "",
+              "ex": "",
+              "exCustom": "",
+              "axes": {},
+              "action": {
+                "category": "",
+                "example": "",
+                "timing": "",
+                "equipment": "",
+                "power": "",
+                "effects": "",
+                "speed": "",
+                "environment": ""
+              },
+              "randomLocks": {}
+            }
+          }
+        },
+        "망키": {
+          "style": "glossy_promo",
+          "identityMode": "create",
+          "form": "light",
+          "baseForm": "light",
+          "motifs": "",
+          "formOverride": "",
+          "headFeature": "",
+          "params": {
+            "apparent age": "20s"
+          },
+          "locks": {},
+          "mode": "action",
+          "scenes": {
+            "action": {
+              "expr": "",
+              "pose": "",
+              "orient": "",
+              "scene": "An open mountain training courtyard at late afternoon, rugged slate ground and warm sunset rim light.",
+              "outfit": "",
+              "frame": "",
+              "lens": "",
+              "camera": "",
+              "custom": "1024x1536 vertical 2:3 full body. Clearly adult woman aged 24, short tousled auburn hair, chestnut eyes and mature energetic face. Cream plates, warm brown trim, fluffy cream collar, small angular ear ornaments and a long curved brown cloth sash echo Mankey. No pig mask or animal face. Both empty hands fully visible, exactly one thumb and four distinct fingers each. No weapons.",
+              "aspect": "2:3",
+              "cat": "everyday_basic",
+              "catCustom": "",
+              "ex": "",
+              "exCustom": "",
+              "axes": {},
+              "action": {
+                "category": "",
+                "example": "",
+                "timing": "",
+                "equipment": "",
+                "power": "",
+                "effects": "",
+                "speed": "",
+                "environment": ""
+              },
+              "randomLocks": {}
+            },
+            "casual": {
+              "expr": "",
+              "pose": "",
+              "orient": "",
+              "scene": "",
+              "outfit": "",
+              "frame": "",
+              "lens": "",
+              "camera": "",
+              "custom": "",
+              "aspect": "2:3",
+              "cat": "everyday_basic",
+              "catCustom": "",
+              "ex": "",
+              "exCustom": "",
+              "axes": {},
+              "action": {
+                "category": "",
+                "example": "",
+                "timing": "",
+                "equipment": "",
+                "power": "",
+                "effects": "",
+                "speed": "",
+                "environment": ""
+              },
+              "randomLocks": {}
+            }
+          }
+        }
+      }
+    },
+    "raw": "/workspace/scratch/b2d860e182b8/generated_images/exec-9951fa00-7ce5-44eb-b09f-a74e5e8f6db6.png",
+    "output": "img/망키_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "1609977ec3317392922ad475228e02da6b15d9abcc8a859ec6911113fbe1f8e4",
+    "git_blob_sha": "40e79d77fc7fe882daa5c7abbd5c5cf562c88848",
+    "verified": true
+  },
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "pending": [],
+  "upload": "pending"
+}

@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Mankey (망키) personified, fighting type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed
+Pose: Capture the selected activity already in progress with a readable natural gesture.
+Orientation: gaze off-camera; body orientation independent
+Scene: At a summer street-dance festival in a stone plaza at night, practicing a small coordinated drum rhythm on a waist-height hand drum with palms held apart over its surface, gaze angled toward the rhythm leader outside the image. One woman, full body and setting readable, festival lights.
+Outfit and props: Short sleeveless cream wrap tunic with brown diagonal edging, secure crossed neckline, rust wide belt and loose cropped brown culottes with side openings backed by opaque panels, flat sandals. Bare shoulders and arms, tiny curled-tail bracelet.
+Category: This cut is built around traditional dress drawn from the character's own ethnic background. Use either authentic formal traditional clothing or a modernised everyday interpretation of it, as specified by the example. Keep the garment structure, layering logic, fastening, and silhouette faithful to that tradition rather than generic orientalism or costume-shop pastiche. Colours may follow the source creature, but the construction must remain true to the tradition. Place the character in a setting where such clothing is plausibly worn.
+Note: 1024x1536 vertical 2:3. Preserve the same clearly adult woman and haircut. Both hands readable, five distinct fingers each. No armor, weapon, text or logo.
+Framing: Environmental long shot: show the complete woman and enough surroundings to establish the activity and location.
+Lens / perspective: 24mm-equivalent wide-angle impression with spacious environmental depth; use enough camera distance to avoid stretching the face or limbs.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
