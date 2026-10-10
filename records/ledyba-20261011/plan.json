@@ -1,0 +1,72 @@
+{
+  "mech": "레디바",
+  "scene": "On a sunlit orchard path in a readable front three-quarter poised stance, both empty hands open beside her hips. Soft leaf shadows and clear head-to-toe silhouette.",
+  "casual": [
+    {
+      "cat": "swimwear",
+      "expr": "laughing_open",
+      "pose": "sitting_floor",
+      "orient": "high_angle",
+      "frame": "full_body",
+      "lens": "wide24",
+      "scene": "At a clear shallow coastal tidal pool in bright late morning, sitting on a smooth low rock with feet dipping into water, laughing with eyes open and both palms relaxed on separate rock surfaces. Whole body and feet visible, sparkling water and pale cliffs.",
+      "outfit": "Fully lined coral-red halter bikini with secure wide ties, opaque structured chest cups and black high-waisted swim briefs with small cream dots. Bare shoulders arms midriff and legs, tiny circular hair clip, no armor.",
+      "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people. Remove the armored circlet, gauntlets, plated mantle and sash. Species only as a tiny accessory or color echo.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "cat": "travel_exploration",
+      "expr": "surprised",
+      "pose": "leaning_wall",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "telephoto135",
+      "scene": "Inside an empty bright mountain cable-car cabin at sunrise, lightly leaning against a side rail and noticing a cloud sea outside. One hand open on the rail, the other raised naturally beside her shoulder, both visible. Golden window light and blue mountains.",
+      "outfit": "Cream short-sleeved cropped utility jacket worn securely closed over an opaque red fitted tank, black high-waisted travel skirt below crop. Bare forearms and a narrow midriff band, tiny red dotted luggage tag on a small bag, no armor.",
+      "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people. Remove the armored circlet, gauntlets, plated mantle and sash. Species only as a tiny accessory or color echo.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "cat": "food_berries",
+      "expr": "curious",
+      "pose": "watering",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "On a wooden orchard nursery platform at hazy golden afternoon, standing side-on and watering a row of small berry seedlings with a compact watering can held low, other hand open near a leaf. Both hands and face visible, stacked empty terracotta pots.",
+      "outfit": "Black sleeveless ribbed scoop-neck romper with secure bodice and short legs, cream canvas waist apron and red flat sandals. Bare shoulders arms and legs, tiny ladybird-shaped enamel brooch, no armor.",
+      "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people. Remove the armored circlet, gauntlets, plated mantle and sash. Species only as a tiny accessory or color echo.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    }
+  ],
+  "comparison": {
+    "characters": [
+      "야돈",
+      "부우부",
+      "날쌩마"
+    ],
+    "source": "Remote main plan.json files read for these three recent characters. Compared vanity bracelet, garden dessert, marsh shell walk, planetarium telescope, rooftop pool stretch, harvest fair stool, racing exhibit host, pottery and dawn jogging.",
+    "changes": "New scenes differ in location, activity, outfit silhouette and composition. Compare earlier characters of this batch too.",
+    "batch_characters": [
+      "noctowl"
+    ]
+  }
+}

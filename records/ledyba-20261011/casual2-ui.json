@@ -1,0 +1,27 @@
+{
+  "mech": "레디바",
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "Inside an empty bright mountain cable-car cabin at sunrise, lightly leaning against a side rail and noticing a cloud sea outside. One hand open on the rail, the other raised naturally beside her shoulder, both visible. Golden window light and blue mountains.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people. Remove the armored circlet, gauntlets, plated mantle and sash. Species only as a tiny accessory or color echo.",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "form": "casual2",
+  "aspect": "2:3",
+  "cat": "travel_exploration",
+  "expr": "surprised",
+  "pose": "leaning_wall",
+  "orient": "front",
+  "frame": "waist_up",
+  "lens": "telephoto135",
+  "outfit": "Cream short-sleeved cropped utility jacket worn securely closed over an opaque red fitted tank, black high-waisted travel skirt below crop. Bare forearms and a narrow midriff band, tiny red dotted luggage tag on a small bag, no armor.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

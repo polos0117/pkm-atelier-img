@@ -1,0 +1,219 @@
+{
+  "status": "8_confirmed_ready_for_upload_one_opened_slot_blocked",
+  "anchor": {
+    "card": "레디바",
+    "slot": "light",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+    "source": "/workspace/scratch/1829ac433d95/generated_images/exec-ceab2a54-02c9-4c38-bce7-739496058314.png",
+    "source_sha256": "31822b3b722528405a609be8fcd80a8da075136f03c07d177bf15b7ae21270ea",
+    "filename": "레디바_light_glossy_promo_f.webp",
+    "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/레디바_light_glossy_promo_f.webp",
+    "remote_path": "img/레디바_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "628a1924d44279acffc5519640414d3849c6038e1fc6dacd765082f0ee7b8ad4",
+    "refs": []
+  },
+  "files": [
+    {
+      "card": "레디바",
+      "slot": "light",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-ceab2a54-02c9-4c38-bce7-739496058314.png",
+      "source_sha256": "31822b3b722528405a609be8fcd80a8da075136f03c07d177bf15b7ae21270ea",
+      "filename": "레디바_light_glossy_promo_f.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/레디바_light_glossy_promo_f.webp",
+      "remote_path": "img/레디바_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "628a1924d44279acffc5519640414d3849c6038e1fc6dacd765082f0ee7b8ad4",
+      "refs": []
+    },
+    {
+      "card": "레디바",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-3aab5fe3-b96d-4730-99e6-d5b65cc3c117.png",
+      "source_sha256": "55a2cbed3acd38a40f59f21bdfe305833d739c63855766397c78731a85d3d2b9",
+      "filename": "레디바_heavy_glossy_promo_f.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/레디바_heavy_glossy_promo_f.webp",
+      "remote_path": "img/레디바_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "23c3b8213c99fc20e6c79dddc51300acfde127da6541b64737124cb306638e32",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "레디바",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "style_evidence": "Actual glossy_promo generator UI; original anchor directly attached",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-603ee386-13ab-4643-afe0-c1854e4f66d8.png",
+      "source_sha256": "87adef068239abe355d40c0d627927f3c9273b28f7294107a87879c081e89c59",
+      "filename": "레디바_mobility_glossy_promo_f.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/레디바_mobility_glossy_promo_f.webp",
+      "remote_path": "img/레디바_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "862358b3a8edd50c3ccbaf2f43c59cab2ff51a0fb5ba8d525fc0f491ab70d8be",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "레디바",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-b8a77f4f-b749-4c53-a0c9-7efc74e3c953.png",
+      "source_sha256": "6bcff5fd6a843319ace58ecfc82dcc783bcb279b3c5b1258cc54a461503c3891",
+      "filename": "레디바_light_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/레디바_light_overdrive_glossy_promo_f.webp",
+      "remote_path": "img/레디바_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "41bc1e289bbf39e2379f31c83df02c9f6563af47dff19822cc20e15130b553ee",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "레디바",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-aa45c3a8-4556-4ff9-add9-65affe7e457d.png",
+      "source_sha256": "bceff1fcae12e8c3f3b799cd14e92123f118fe914298a236dcacec7269a33464",
+      "filename": "레디바_heavy_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/레디바_heavy_overdrive_glossy_promo_f.webp",
+      "remote_path": "img/레디바_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "fc5687196d75a5fca899721834c27fa0da1774f44a749e4243ac3497bfd62cf9",
+      "refs": [
+        "heavy",
+        "light"
+      ]
+    },
+    {
+      "card": "레디바",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-81279b96-716b-45a6-8373-48b7c5b8acba.png",
+      "source_sha256": "d77f024847b77213b3552590a0cabc781fd7110cf2be96b3d2f5b92c4a4b49cf",
+      "filename": "레디바_glossy_promo_f_casual1.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/레디바_glossy_promo_f_casual1.webp",
+      "remote_path": "img/레디바_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "3078b56701530a1afcb280c81fb0156ea93b215e43ee453c0e87afa983039621",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "레디바",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-6613e57f-ede8-41ee-8a58-fd2e376e070b.png",
+      "source_sha256": "75c5b50bc48ddebe5bb50b5969de3cf97e11884e184e0131ead8160a3799f039",
+      "filename": "레디바_glossy_promo_f_casual2.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/레디바_glossy_promo_f_casual2.webp",
+      "remote_path": "img/레디바_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "abfdb0aaea801a1f7a5d2df5b1375938298ac23682931ee675016eb388961be5",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "레디바",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-86523304-8596-4871-9119-2a326e8a0d33.png",
+      "source_sha256": "32f03596450f57d9a8e30bf9778671fddde746ce77c208b63c1117202e15bd2e",
+      "filename": "레디바_glossy_promo_f_casual3.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/레디바_glossy_promo_f_casual3.webp",
+      "remote_path": "img/레디바_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "5329b15d3d4dcfa6be82f8dc2d5ac9d0447a09344250073841575c72f4dce99e",
+      "refs": [
+        "light"
+      ]
+    }
+  ],
+  "comparison": {
+    "characters": [
+      "야돈",
+      "부우부",
+      "날쌩마"
+    ],
+    "source": "Remote main plan.json files read for these three recent characters. Compared vanity bracelet, garden dessert, marsh shell walk, planetarium telescope, rooftop pool stretch, harvest fair stool, racing exhibit host, pottery and dawn jogging.",
+    "changes": "New scenes differ in location, activity, outfit silhouette and composition. Compare earlier characters of this batch too.",
+    "batch_characters": [
+      "noctowl"
+    ]
+  },
+  "review": "Eight images match the approved light anchor and are confirmed. Covered replacement pair is not confirmed for identity and remains outside img/; do not register it.",
+  "exception": {
+    "reason": "Original mobility opened output rejected; subsequent original mobility and anchor image reference input rejected. Fully covered replacement mobility generated text-only, then corrected for anime rendering and fanned armor panels; opened form edited from that covered mobility.",
+    "slots": [
+      "mobility",
+      "mobility_overdrive"
+    ],
+    "final_prompts": {
+      "mobility": [
+        "mobility-covered-text-only.txt",
+        "mobility-covered-style-correction.txt"
+      ],
+      "mobility_overdrive": [
+        "mobility_overdrive-covered-final.txt"
+      ]
+    },
+    "identity_review": "Black and ivory hair, warm-red eyes and adult features retained visually; the replacement did not directly use the approved light anchor and face/body matching is less exact than the other seven images."
+  },
+  "pending": [
+    "mobility_overdrive"
+  ],
+  "candidate_paths": [
+    "records/ledyba-20261011/covered-candidates/mobility.webp",
+    "records/ledyba-20261011/covered-candidates/mobility_overdrive.webp"
+  ]
+}

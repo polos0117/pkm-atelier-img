@@ -1,0 +1,17 @@
+{
+  "reason": "Original mobility opened output rejected; subsequent original mobility and anchor image reference input rejected. Fully covered replacement mobility generated text-only, then corrected for anime rendering and fanned armor panels; opened form edited from that covered mobility.",
+  "slots": [
+    "mobility",
+    "mobility_overdrive"
+  ],
+  "final_prompts": {
+    "mobility": [
+      "mobility-covered-text-only.txt",
+      "mobility-covered-style-correction.txt"
+    ],
+    "mobility_overdrive": [
+      "mobility_overdrive-covered-final.txt"
+    ]
+  },
+  "identity_review": "Black and ivory hair, warm-red eyes and adult features retained visually; the replacement did not directly use the approved light anchor and face/body matching is less exact than the other seven images."
+}

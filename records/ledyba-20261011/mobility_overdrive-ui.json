@@ -1,0 +1,17 @@
+{
+  "mech": "레디바",
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "On a sunlit orchard path in a readable front three-quarter poised stance, both empty hands open beside her hips. Soft leaf shadows and clear head-to-toe silhouette.",
+  "custom": "1024x1536. Both empty hands visible, exactly five distinct natural fingers each. No weapons.",
+  "outputMode": "action",
+  "identityMode": "reference",
+  "form": "overdrive",
+  "aspect": "2:3",
+  "baseForm": "mobility"
+}

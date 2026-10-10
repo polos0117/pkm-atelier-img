@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Ledyba (레디바) personified, bug / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: raised brows, widened eyes with visible upper white, mouth open in a small round shape
+Pose: Lean a shoulder or the back lightly against a wall while keeping balance through the feet.
+Orientation: torso and pelvis face the camera; gaze is independent
+Scene: Inside an empty bright mountain cable-car cabin at sunrise, lightly leaning against a side rail and noticing a cloud sea outside. One hand open on the rail, the other raised naturally beside her shoulder, both visible. Golden window light and blue mountains.
+Outfit and props: Cream short-sleeved cropped utility jacket worn securely closed over an opaque red fitted tank, black high-waisted travel skirt below crop. Bare forearms and a narrow midriff band, tiny red dotted luggage tag on a small bag, no armor.
+Category: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.
+Note: Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people. Remove the armored circlet, gauntlets, plated mantle and sash. Species only as a tiny accessory or color echo.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+Lens / perspective: 135mm-equivalent telephoto perspective from farther away, with compressed background depth and unchanged anatomy.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

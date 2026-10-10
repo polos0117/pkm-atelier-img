@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Ledyba (레디바) personified, bug / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: mouth open wide in a laugh with teeth showing and cheeks raised, but the eyes stay open and engaged — lids only slightly narrowed, gaze still readable rather than squeezed shut
+Pose: Sit comfortably on the floor or a mat with clearly separated legs and hands.
+Orientation: camera above subject looking downward; obey selected framing
+Scene: At a clear shallow coastal tidal pool in bright late morning, sitting on a smooth low rock with feet dipping into water, laughing with eyes open and both palms relaxed on separate rock surfaces. Whole body and feet visible, sparkling water and pale cliffs.
+Outfit and props: Fully lined coral-red halter bikini with secure wide ties, opaque structured chest cups and black high-waisted swim briefs with small cream dots. Bare shoulders arms midriff and legs, tiny circular hair clip, no armor.
+Category: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.
+Note: Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people. Remove the armored circlet, gauntlets, plated mantle and sash. Species only as a tiny accessory or color echo.
+Framing: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.
+Lens / perspective: 24mm-equivalent wide-angle impression with spacious environmental depth; use enough camera distance to avoid stretching the face or limbs.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

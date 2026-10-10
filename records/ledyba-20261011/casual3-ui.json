@@ -1,0 +1,27 @@
+{
+  "mech": "레디바",
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "On a wooden orchard nursery platform at hazy golden afternoon, standing side-on and watering a row of small berry seedlings with a compact watering can held low, other hand open near a leaf. Both hands and face visible, stacked empty terracotta pots.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people. Remove the armored circlet, gauntlets, plated mantle and sash. Species only as a tiny accessory or color echo.",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "form": "casual3",
+  "aspect": "2:3",
+  "cat": "food_berries",
+  "expr": "curious",
+  "pose": "watering",
+  "orient": "side",
+  "frame": "three_quarter",
+  "lens": "natural50",
+  "outfit": "Black sleeveless ribbed scoop-neck romper with secure bodice and short legs, cream canvas waist apron and red flat sandals. Bare shoulders arms and legs, tiny ladybird-shaped enamel brooch, no armor.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
