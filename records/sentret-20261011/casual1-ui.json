@@ -1,0 +1,27 @@
+{
+  "mech": "꼬리선",
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "At a retro roller-rink theme party at night, turning toward the camera to give a small welcoming wave, other hand open beside her hip. Pink and amber neon reflections, no crowd or signage.",
+  "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people.",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "form": "casual1",
+  "aspect": "2:3",
+  "cat": "adult_roleplay",
+  "expr": "playful",
+  "pose": "waving",
+  "orient": "turning_midmotion",
+  "frame": "three_quarter",
+  "lens": "natural50",
+  "outfit": "Original adult roller-disco hostess event costume: opaque lined copper halter bodice, high-waisted cream pleated skort, short striped waist scarf and roller skates below the crop. Bare arms, shoulders, midriff and legs; one small ring-shaped hair clip, no mascot ears.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

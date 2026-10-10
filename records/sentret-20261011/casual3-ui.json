@@ -1,0 +1,27 @@
+{
+  "mech": "꼬리선",
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "At a lantern-lit covered night market counter during light rain, in side profile presenting a small berry-filled pancake on an open paper tray, other hand relaxed on the counter. Steam rises away from the hands; no vendor or lettering.",
+  "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people.",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "form": "casual3",
+  "aspect": "2:3",
+  "cat": "food_berries",
+  "expr": "amused",
+  "pose": "offering_food",
+  "orient": "side",
+  "frame": "waist_up",
+  "lens": "portrait85",
+  "outfit": "Dark-brown sleeveless mock-neck knit top with secure high neckline, cream high-waisted trousers below crop, bare arms and a small waist gap. Small circular pendant, no armor.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

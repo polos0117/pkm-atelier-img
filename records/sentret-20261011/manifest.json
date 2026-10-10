@@ -1,0 +1,213 @@
+{
+  "status": "generated_reviewed_ready_for_upload",
+  "anchor": {
+    "card": "꼬리선",
+    "slot": "light",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+    "source": "/workspace/scratch/22e22f90189d/generated_images/exec-f001b699-a922-4818-bb6b-6f518ed9f99f.png",
+    "source_sha256": "95fbcd63f5833ce719a223d6aef7cf348bee02485d176c28b54bf7de97116241",
+    "filename": "꼬리선_light_glossy_promo_f.webp",
+    "output": "/workspace/scratch/22e22f90189d/pkm-atelier-img/img/꼬리선_light_glossy_promo_f.webp",
+    "remote_path": "img/꼬리선_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "69b58f25df1e1cd036c368e1f7f9bb16d519a666e06236216a0c9d989e5b71e1",
+    "refs": []
+  },
+  "files": [
+    {
+      "card": "꼬리선",
+      "slot": "light",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-f001b699-a922-4818-bb6b-6f518ed9f99f.png",
+      "source_sha256": "95fbcd63f5833ce719a223d6aef7cf348bee02485d176c28b54bf7de97116241",
+      "filename": "꼬리선_light_glossy_promo_f.webp",
+      "output": "/workspace/scratch/22e22f90189d/pkm-atelier-img/img/꼬리선_light_glossy_promo_f.webp",
+      "remote_path": "img/꼬리선_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "69b58f25df1e1cd036c368e1f7f9bb16d519a666e06236216a0c9d989e5b71e1",
+      "refs": []
+    },
+    {
+      "card": "꼬리선",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-3cde137a-1be6-4450-b80b-28863c73362e.png",
+      "source_sha256": "57df1677012516ee25541f7d681d269acd07b0dfe89e47c805e32466b7c9e8e1",
+      "filename": "꼬리선_heavy_glossy_promo_f.webp",
+      "output": "/workspace/scratch/22e22f90189d/pkm-atelier-img/img/꼬리선_heavy_glossy_promo_f.webp",
+      "remote_path": "img/꼬리선_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "8ce91700b3784340aa25148e8197d4da5e224427cd1b2a0b1487ceb09c4feccc",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "꼬리선",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-efaa3f15-c5a9-4e48-9110-a2d3a4c498d7.png",
+      "source_sha256": "9fe2f3becd13b592786b582a91648fab9357d3aad4d90d6041aa48095fea2447",
+      "filename": "꼬리선_mobility_glossy_promo_f.webp",
+      "output": "/workspace/scratch/22e22f90189d/pkm-atelier-img/img/꼬리선_mobility_glossy_promo_f.webp",
+      "remote_path": "img/꼬리선_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "81d47e521886d1f2e8f54f5eec61eb82faa0a657561e768c6b7e2a8c56272267",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "꼬리선",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-8265c968-01bc-4cec-ae4f-efd234584e5b.png",
+      "source_sha256": "7ad57415ecc13ea3c4d99e62e8bf10b032ee670cea02d008f3ea94a3734dc69d",
+      "filename": "꼬리선_light_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/22e22f90189d/pkm-atelier-img/img/꼬리선_light_overdrive_glossy_promo_f.webp",
+      "remote_path": "img/꼬리선_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "af01894cbfc9bd8834b833b322a1d20362f1db358c186a64886f65537228b482",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "꼬리선",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-5bed1dd6-1639-4a04-8ee7-c269047d8493.png",
+      "source_sha256": "634af6e535cc73a2573328a231a250950d8d8e7eab37cb14f8efc35e5d8eb450",
+      "filename": "꼬리선_heavy_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/22e22f90189d/pkm-atelier-img/img/꼬리선_heavy_overdrive_glossy_promo_f.webp",
+      "remote_path": "img/꼬리선_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b46f51c1bff83cbfe72089ff801d47315eb02e9ddfd37ca00dd7eb406aae11d5",
+      "refs": [
+        "heavy",
+        "light"
+      ]
+    },
+    {
+      "card": "꼬리선",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-c55449d9-bde5-4f1f-bc58-9c6a1792296b.png",
+      "source_sha256": "549a26a2d1d991fc0d49e38f067fc178b01e0d36f6126b001478fce695ca9761",
+      "filename": "꼬리선_mobility_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/22e22f90189d/pkm-atelier-img/img/꼬리선_mobility_overdrive_glossy_promo_f.webp",
+      "remote_path": "img/꼬리선_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "129fad9723da20d5e58602b632d3d274654b787493362aec0247f00bfb3d77ea",
+      "refs": [
+        "mobility",
+        "light"
+      ]
+    },
+    {
+      "card": "꼬리선",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-1f700910-48f1-489d-ad48-e0585e9ca34e.png",
+      "source_sha256": "ce3436f8910ee5b02db73bad48876c929cd3a7a32c3a091025d6d239eccac9ab",
+      "filename": "꼬리선_glossy_promo_f_casual1.webp",
+      "output": "/workspace/scratch/22e22f90189d/pkm-atelier-img/img/꼬리선_glossy_promo_f_casual1.webp",
+      "remote_path": "img/꼬리선_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4611698ef906d6c0abbef2db7148346bd70ba5abb7d9785fab817e79ea5b6302",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "꼬리선",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-cc2602fc-c96a-4a14-ba01-0661cd2f6f84.png",
+      "source_sha256": "df2122aa7e2559f93620202d540f7f6f1e2ee657c74b715e9255d7fea6690b64",
+      "filename": "꼬리선_glossy_promo_f_casual2.webp",
+      "output": "/workspace/scratch/22e22f90189d/pkm-atelier-img/img/꼬리선_glossy_promo_f_casual2.webp",
+      "remote_path": "img/꼬리선_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "75bfde257cb32fdce7ba3d5ea537aa148e5de95f3962051d7c67cfaed33a9683",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "꼬리선",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-2d96974d-e0bd-494d-946c-b7a1e6c2671e.png",
+      "source_sha256": "84b9f44965646820bf7af0cc4c83a3fe7618a64aae8074ecbd6068437e0cb421",
+      "filename": "꼬리선_glossy_promo_f_casual3.webp",
+      "output": "/workspace/scratch/22e22f90189d/pkm-atelier-img/img/꼬리선_glossy_promo_f_casual3.webp",
+      "remote_path": "img/꼬리선_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "a98ac768d73e94a6a05d10b3b1475dcce101ec8a40349d453e15f106f8b6915a",
+      "refs": [
+        "light"
+      ]
+    }
+  ],
+  "comparison": {
+    "characters": [
+      "리아코",
+      "엘리게이",
+      "장크로다일"
+    ],
+    "source": "Remote main plan.json and generation-record.json read. Prior scenes: vinyl lounge, greenhouse, surfboard waxing, fossil gala, rooftop kite, railway shelter, lake goggles, bakery dough, riverside dance.",
+    "changes": "All nine new scenes differ in location, concrete activity, outfit silhouette and camera. Compare preceding characters within this batch as well."
+  },
+  "review": "Images visually inspected for identity, armor form separation, paired open-state composition, anatomy, text and weapons, and distinct off-duty scenes. Corrections recorded separately when needed."
+}

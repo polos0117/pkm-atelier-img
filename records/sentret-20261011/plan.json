@@ -1,0 +1,69 @@
+{
+  "mech": "꼬리선",
+  "scene": "At a forest lookout path at dawn, standing balanced in a readable front three-quarter card pose, both hands relaxed open at her sides. Soft mist and golden rim light.",
+  "casual": [
+    {
+      "cat": "adult_roleplay",
+      "expr": "playful",
+      "pose": "waving",
+      "orient": "turning_midmotion",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "At a retro roller-rink theme party at night, turning toward the camera to give a small welcoming wave, other hand open beside her hip. Pink and amber neon reflections, no crowd or signage.",
+      "outfit": "Original adult roller-disco hostess event costume: opaque lined copper halter bodice, high-waisted cream pleated skort, short striped waist scarf and roller skates below the crop. Bare arms, shoulders, midriff and legs; one small ring-shaped hair clip, no mascot ears.",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "cat": "active",
+      "expr": "focused",
+      "pose": "squatting",
+      "orient": "high_angle",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "On a quiet riverside bicycle repair pad in bright morning light, squatting beside a parked bicycle and inspecting its front wheel, one hand open resting on the tire, the other lightly supporting the wheel rim. Whole body, hands and sneakers visible.",
+      "outfit": "Sleeveless white athletic zip top, brown fitted cycling shorts with opaque panels, bare arms and legs, tiny striped wristband. Practical personal sports clothing without armor.",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "cat": "food_berries",
+      "expr": "amused",
+      "pose": "offering_food",
+      "orient": "side",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "At a lantern-lit covered night market counter during light rain, in side profile presenting a small berry-filled pancake on an open paper tray, other hand relaxed on the counter. Steam rises away from the hands; no vendor or lettering.",
+      "outfit": "Dark-brown sleeveless mock-neck knit top with secure high neckline, cream high-waisted trousers below crop, bare arms and a small waist gap. Small circular pendant, no armor.",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    }
+  ],
+  "comparison": {
+    "characters": [
+      "리아코",
+      "엘리게이",
+      "장크로다일"
+    ],
+    "source": "Remote main plan.json and generation-record.json read. Prior scenes: vinyl lounge, greenhouse, surfboard waxing, fossil gala, rooftop kite, railway shelter, lake goggles, bakery dough, riverside dance.",
+    "changes": "All nine new scenes differ in location, concrete activity, outfit silhouette and camera. Compare preceding characters within this batch as well."
+  }
+}
