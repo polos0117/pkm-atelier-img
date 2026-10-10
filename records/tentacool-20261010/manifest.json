@@ -1,0 +1,516 @@
+{
+  "character": "왕눈해",
+  "style": "glossy_promo",
+  "generator": "Actual deployed UI selections, full submitted prompt hash matched to repository engine output; built-in imagegen",
+  "comparison": {
+    "characters": [
+      "모다피",
+      "우츠동",
+      "우츠보트"
+    ],
+    "read": "All nine actual casual prompts and manifests",
+    "changes": "Distinct location, activity, outfit and composition. Acoustic laboratory, harbor stage, sewing; lighthouse chart, tidal cove, berry jelly; bouldering, agate, slate lounge. Required category rotates event fashion, swimwear and lingerie."
+  },
+  "images": [
+    {
+      "key": "tentacool",
+      "name": "왕눈해",
+      "slot": "light",
+      "filename": "왕눈해_light_glossy_promo_f.webp",
+      "input": {
+        "mech": "왕눈해",
+        "sourceName": "Tentacool",
+        "series": "water / poison",
+        "sourceAppearance": {
+          "name": "왕눈해",
+          "en": "Tentacool",
+          "color": "blue",
+          "shape": "tentacles",
+          "features": [
+            {
+              "part": "tentacle",
+              "detail": "two grayish tentacles"
+            },
+            {
+              "part": "body",
+              "detail": "light blue, clear body"
+            },
+            {
+              "part": "eye",
+              "detail": "two large, transparent, red, crystalline eyes"
+            },
+            {
+              "part": "pupil",
+              "detail": "small pupils"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Tentacool_%28Pok%C3%A9mon%29",
+          "revision": 4623362,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "5282e462fa32c542b0857ebe8d2269f0205568ba446db6f39efdade93803c840",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ],
+          [
+            "body type",
+            "slender"
+          ],
+          [
+            "facial character",
+            "soft"
+          ],
+          [
+            "hair color",
+            "blue"
+          ],
+          [
+            "hairstyle",
+            "bob"
+          ],
+          [
+            "hair length",
+            "short"
+          ],
+          [
+            "eye color",
+            "crimson"
+          ]
+        ],
+        "outputMode": "action",
+        "identityMode": "create",
+        "form": "light",
+        "motifs": "The translucent light-blue jellyfish dome becomes a curved shoulder mantle and smooth chest plates; two large red crystal domes become symmetrical ornaments in her hair; two gray tentacles become two slender fabric sashes from her belt, never extra limbs.",
+        "custom": "1024x1536 vertical image. Quiet sea-glass coastal platform with mist and soft cyan reflections. Two arms, human skin, hands held away from the torso with relaxed separated fingers."
+      },
+      "hash": -1538206007,
+      "reference": null,
+      "uiVerified": true,
+      "originalSha256": "9606ce64e8c8bdcf5b760c3ec4e693bf0d2a5b6a8005d50e5b5f21e93f7e2424",
+      "sha256": "11c7ed3e34f9fbd9fa4a9a8e336d6c95d0a10a0354296ce73b89140c058031e5",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "tentacool",
+      "name": "왕눈해",
+      "slot": "heavy",
+      "filename": "왕눈해_heavy_glossy_promo_f.webp",
+      "input": {
+        "mech": "왕눈해",
+        "sourceName": "Tentacool",
+        "series": "water / poison",
+        "sourceAppearance": {
+          "name": "왕눈해",
+          "en": "Tentacool",
+          "color": "blue",
+          "shape": "tentacles",
+          "features": [
+            {
+              "part": "tentacle",
+              "detail": "two grayish tentacles"
+            },
+            {
+              "part": "body",
+              "detail": "light blue, clear body"
+            },
+            {
+              "part": "eye",
+              "detail": "two large, transparent, red, crystalline eyes"
+            },
+            {
+              "part": "pupil",
+              "detail": "small pupils"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Tentacool_%28Pok%C3%A9mon%29",
+          "revision": 4623362,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "5282e462fa32c542b0857ebe8d2269f0205568ba446db6f39efdade93803c840",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "heavy",
+        "motifs": "",
+        "custom": "Vertical 2:3, 1024x1536. Keep the approved woman and her species costume features. Both empty hands fully visible, relaxed fingers separated. Standing with feet apart in a stable defensive stance, face to camera."
+      },
+      "hash": 1485946665,
+      "reference": "img/왕눈해_light_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "fc2281e71cac525f8e3fcaf8e37d4b47efad756e3d95af9a47397d0e8b4a7bb2",
+      "sha256": "2406b406ab5c8e90e78485c40a6e7f4608e26ffd0f0f3d03215d8437ca1a724c",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "tentacool",
+      "name": "왕눈해",
+      "slot": "mobility",
+      "filename": "왕눈해_mobility_glossy_promo_f.webp",
+      "input": {
+        "mech": "왕눈해",
+        "sourceName": "Tentacool",
+        "series": "water / poison",
+        "sourceAppearance": {
+          "name": "왕눈해",
+          "en": "Tentacool",
+          "color": "blue",
+          "shape": "tentacles",
+          "features": [
+            {
+              "part": "tentacle",
+              "detail": "two grayish tentacles"
+            },
+            {
+              "part": "body",
+              "detail": "light blue, clear body"
+            },
+            {
+              "part": "eye",
+              "detail": "two large, transparent, red, crystalline eyes"
+            },
+            {
+              "part": "pupil",
+              "detail": "small pupils"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Tentacool_%28Pok%C3%A9mon%29",
+          "revision": 4623362,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "5282e462fa32c542b0857ebe8d2269f0205568ba446db6f39efdade93803c840",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "mobility",
+        "motifs": "",
+        "custom": "Vertical 2:3, 1024x1536. Keep the approved woman and her species costume features. Both empty hands fully visible, relaxed fingers separated. A restrained forward stepping pose, face toward camera, full head and feet inside the frame."
+      },
+      "hash": 134898660,
+      "reference": "img/왕눈해_light_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "d8a28b4b343ae8df72d73e95a85ec65826e3f339ab5686dedb2054845c9be274",
+      "sha256": "378d34b38387477268329b670a08d996d6b15439ab3082549812ef6e97a361a1",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "tentacool",
+      "name": "왕눈해",
+      "slot": "light_overdrive",
+      "filename": "왕눈해_light_overdrive_glossy_promo_f.webp",
+      "input": {
+        "mech": "왕눈해",
+        "sourceName": "Tentacool",
+        "series": "water / poison",
+        "sourceAppearance": {
+          "name": "왕눈해",
+          "en": "Tentacool",
+          "color": "blue",
+          "shape": "tentacles",
+          "features": [
+            {
+              "part": "tentacle",
+              "detail": "two grayish tentacles"
+            },
+            {
+              "part": "body",
+              "detail": "light blue, clear body"
+            },
+            {
+              "part": "eye",
+              "detail": "two large, transparent, red, crystalline eyes"
+            },
+            {
+              "part": "pupil",
+              "detail": "small pupils"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Tentacool_%28Pok%C3%A9mon%29",
+          "revision": 4623362,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "5282e462fa32c542b0857ebe8d2269f0205568ba446db6f39efdade93803c840",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "motifs": "",
+        "custom": "Open only existing seams; retain both hands and all five fingers exactly. Vertical 2:3, 1024x1536.",
+        "baseForm": "light"
+      },
+      "hash": 313547020,
+      "reference": "img/왕눈해_light_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "0e265a23fe85d25b668bf943ff4bbecfd601d5af9cdadf8fe99f02d4bd223471",
+      "sha256": "eb61fe5acb01c0e31e40e8a9b9df3efcb94c19f9babeafe76bf28ec326fed367",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "tentacool",
+      "name": "왕눈해",
+      "slot": "heavy_overdrive",
+      "filename": "왕눈해_heavy_overdrive_glossy_promo_f.webp",
+      "input": {
+        "mech": "왕눈해",
+        "sourceName": "Tentacool",
+        "series": "water / poison",
+        "sourceAppearance": {
+          "name": "왕눈해",
+          "en": "Tentacool",
+          "color": "blue",
+          "shape": "tentacles",
+          "features": [
+            {
+              "part": "tentacle",
+              "detail": "two grayish tentacles"
+            },
+            {
+              "part": "body",
+              "detail": "light blue, clear body"
+            },
+            {
+              "part": "eye",
+              "detail": "two large, transparent, red, crystalline eyes"
+            },
+            {
+              "part": "pupil",
+              "detail": "small pupils"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Tentacool_%28Pok%C3%A9mon%29",
+          "revision": 4623362,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "5282e462fa32c542b0857ebe8d2269f0205568ba446db6f39efdade93803c840",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "motifs": "",
+        "custom": "Open only existing seams; retain both hands and all five fingers exactly. Vertical 2:3, 1024x1536.",
+        "baseForm": "heavy"
+      },
+      "hash": -680631901,
+      "reference": "img/왕눈해_heavy_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "46eb0257d97a708bba85b2cf55e5f3adb36a13870ca994bb8a99dd1d3785fb39",
+      "sha256": "0bcf9df26fee3d1f887e570cdb77d2257dc9adfe0e20f19ab93a8ab4eb3c4969",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "tentacool",
+      "name": "왕눈해",
+      "slot": "mobility_overdrive",
+      "filename": "왕눈해_mobility_overdrive_glossy_promo_f.webp",
+      "input": {
+        "mech": "왕눈해",
+        "sourceName": "Tentacool",
+        "series": "water / poison",
+        "sourceAppearance": {
+          "name": "왕눈해",
+          "en": "Tentacool",
+          "color": "blue",
+          "shape": "tentacles",
+          "features": [
+            {
+              "part": "tentacle",
+              "detail": "two grayish tentacles"
+            },
+            {
+              "part": "body",
+              "detail": "light blue, clear body"
+            },
+            {
+              "part": "eye",
+              "detail": "two large, transparent, red, crystalline eyes"
+            },
+            {
+              "part": "pupil",
+              "detail": "small pupils"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Tentacool_%28Pok%C3%A9mon%29",
+          "revision": 4623362,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "5282e462fa32c542b0857ebe8d2269f0205568ba446db6f39efdade93803c840",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "motifs": "",
+        "custom": "Open only existing seams; retain both hands and all five fingers exactly. Vertical 2:3, 1024x1536.",
+        "baseForm": "mobility"
+      },
+      "hash": -1960077305,
+      "reference": "img/왕눈해_mobility_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "84f4820678cf0590c4e7b74c84f155beea3c3c0091e979de7cc2b364ae38e622",
+      "sha256": "390b1df7547b7719b5e7934ade300a83b8bf3cc9fa55d976ab20470d337ebec9",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "tentacool",
+      "name": "왕눈해",
+      "slot": "casual1",
+      "filename": "왕눈해_glossy_promo_f_casual1.webp",
+      "input": {
+        "mech": "왕눈해",
+        "sourceName": "Tentacool",
+        "series": "water / poison",
+        "style": "glossy_promo",
+        "motifs": "",
+        "cat": "occupation_basic",
+        "expr": "focused",
+        "pose": "mid_action",
+        "orient": "side",
+        "frame": "waist_up",
+        "lens": "documentary35",
+        "scene": "In a small marine acoustic laboratory on an overcast morning, listening through light headphones while adjusting one large dial on a desktop hydrophone recorder; the other hand rests open beside it. Soft blue window light, no readable displays.",
+        "outfit": "A pale-blue sleeveless zip-front technical crop vest with gray trim and white high-waist utility shorts, bare arms shoulders and midriff, one tiny red glass pendant.",
+        "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face, haircut and natural proportions. Both hands readable with five separate anatomical fingers each. No armor, weapon, text, logo or second person.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "hash": 1147999507,
+      "reference": "img/왕눈해_light_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "bbcf1d90b42308527fd2da3fcb37ff9bb13c64ff7129ed745dd012153c9729f1",
+      "sha256": "eb225472e265e6d22107a6ef5d367244edc77f7f3d121c800d2ba42dc4bbabcf",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "tentacool",
+      "name": "왕눈해",
+      "slot": "casual2",
+      "filename": "왕눈해_glossy_promo_f_casual2.webp",
+      "input": {
+        "mech": "왕눈해",
+        "sourceName": "Tentacool",
+        "series": "water / poison",
+        "style": "glossy_promo",
+        "motifs": "",
+        "cat": "adult_roleplay",
+        "expr": "playful",
+        "pose": "dance_step",
+        "orient": "front_3q",
+        "frame": "full_body",
+        "lens": "natural50",
+        "scene": "At a luminous harbor night festival, practicing a small dance step for an original ocean-themed adult stage host presentation, raising a red translucent fan loosely in one hand while the other opens beside her waist. Amber paper lamps, blue night water, full head hands and shoes visible.",
+        "outfit": "Original mainstream stage host event fashion: fully lined silver high-neck halter blouse, pale-blue asymmetrical short skirt over opaque fitted shorts, decorative narrow ribbon tails and low heeled ankle sandals. Secure closures, ordinary adult proportions, bare shoulders arms and legs, small red gem hairpins; no institutional insignia.",
+        "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face, haircut and natural proportions. Both hands readable with five separate anatomical fingers each. No armor, weapon, text, logo or second person.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "hash": 1901897700,
+      "reference": "img/왕눈해_light_glossy_promo_f.webp",
+      "uiVerified": true,
+      "correction": "First generation was rejected at output moderation. Same adult stage scene; clothing revised to fully lined high-neck halter blouse with secure closures and ordinary proportions.",
+      "originalSha256": "fe9918270522f594770487ba26cd8b9fc2dcec9763a9303dba350e5cf07e7418",
+      "sha256": "83e212a366717ad444e5f65d9bc6c16d9449b7de301186b4b25e8654c08bb835",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "tentacool",
+      "name": "왕눈해",
+      "slot": "casual3",
+      "filename": "왕눈해_glossy_promo_f_casual3.webp",
+      "input": {
+        "mech": "왕눈해",
+        "sourceName": "Tentacool",
+        "series": "water / poison",
+        "style": "glossy_promo",
+        "motifs": "",
+        "cat": "hobbies_leisure",
+        "expr": "amused",
+        "pose": "cross_legged",
+        "orient": "high_angle",
+        "frame": "three_quarter",
+        "lens": "portrait85",
+        "scene": "In a sunlit apartment sewing corner late afternoon, seated cross-legged on a broad cushion while examining a small fabric patch with one hand and spreading the other open on a gray garment in her lap. Soft warm side light, visible head and hands, no needles near fingers.",
+        "outfit": "White boat-neck sleeveless fitted knit top with a side waist opening, soft blue short culottes, tiny red enamel bracelet; bare arms and legs, opaque cloth, relaxed personal hobby.",
+        "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face, haircut and natural proportions. Both hands readable with five separate anatomical fingers each. No armor, weapon, text, logo or second person.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "hash": 1022925582,
+      "reference": "img/왕눈해_light_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "25c534a539ed0caa6e5a6e6a72b846d81ad0e9d0f7b0dc97b0a354a922d66230",
+      "sha256": "6a79c12e5c4a0dbade24ffd6228101e3ab5fbb60313acac376d93788921841f7",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    }
+  ],
+  "progress": 9,
+  "validation": "All nine reviewed for identity, silhouette, hands, framing; no weapons, letters or additional figures. Opened forms retain normal pose. Casual activities and clothes differ."
+}

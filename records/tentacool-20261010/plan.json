@@ -1,0 +1,65 @@
+[
+  {
+    "mech": "왕눈해",
+    "sourceName": "Tentacool",
+    "series": "water / poison",
+    "style": "glossy_promo",
+    "motifs": "",
+    "cat": "occupation_basic",
+    "expr": "focused",
+    "pose": "mid_action",
+    "orient": "side",
+    "frame": "waist_up",
+    "lens": "documentary35",
+    "scene": "In a small marine acoustic laboratory on an overcast morning, listening through light headphones while adjusting one large dial on a desktop hydrophone recorder; the other hand rests open beside it. Soft blue window light, no readable displays.",
+    "outfit": "A pale-blue sleeveless zip-front technical crop vest with gray trim and white high-waist utility shorts, bare arms shoulders and midriff, one tiny red glass pendant.",
+    "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face, haircut and natural proportions. Both hands readable with five separate anatomical fingers each. No armor, weapon, text, logo or second person.",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3"
+  },
+  {
+    "mech": "왕눈해",
+    "sourceName": "Tentacool",
+    "series": "water / poison",
+    "style": "glossy_promo",
+    "motifs": "",
+    "cat": "adult_roleplay",
+    "expr": "playful",
+    "pose": "dance_step",
+    "orient": "front_3q",
+    "frame": "full_body",
+    "lens": "natural50",
+    "scene": "At a luminous harbor night festival, practicing a small dance step for an original ocean-themed adult stage host presentation, raising a red translucent fan loosely in one hand while the other opens beside her waist. Amber paper lamps, blue night water, full head hands and shoes visible.",
+    "outfit": "Original mainstream stage host event fashion: fully lined silver high-neck halter blouse, pale-blue asymmetrical short skirt over opaque fitted shorts, decorative narrow ribbon tails and low heeled ankle sandals. Secure closures, ordinary adult proportions, bare shoulders arms and legs, small red gem hairpins; no institutional insignia.",
+    "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face, haircut and natural proportions. Both hands readable with five separate anatomical fingers each. No armor, weapon, text, logo or second person.",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3"
+  },
+  {
+    "mech": "왕눈해",
+    "sourceName": "Tentacool",
+    "series": "water / poison",
+    "style": "glossy_promo",
+    "motifs": "",
+    "cat": "hobbies_leisure",
+    "expr": "amused",
+    "pose": "cross_legged",
+    "orient": "high_angle",
+    "frame": "three_quarter",
+    "lens": "portrait85",
+    "scene": "In a sunlit apartment sewing corner late afternoon, seated cross-legged on a broad cushion while examining a small fabric patch with one hand and spreading the other open on a gray garment in her lap. Soft warm side light, visible head and hands, no needles near fingers.",
+    "outfit": "White boat-neck sleeveless fitted knit top with a side waist opening, soft blue short culottes, tiny red enamel bracelet; bare arms and legs, opaque cloth, relaxed personal hobby.",
+    "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face, haircut and natural proportions. Both hands readable with five separate anatomical fingers each. No armor, weapon, text, logo or second person.",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3"
+  }
+]
