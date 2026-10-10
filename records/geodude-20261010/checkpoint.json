@@ -1,0 +1,490 @@
+{
+  "character": "꼬마돌",
+  "style": "glossy_promo",
+  "generator": "Actual deployed UI selections, full submitted prompt hash matched to repository engine output; built-in imagegen",
+  "comparison": {
+    "characters": [
+      "모다피",
+      "우츠동",
+      "우츠보트"
+    ],
+    "read": "All nine actual casual prompts and manifests",
+    "changes": "Distinct location, activity, outfit and composition. Acoustic laboratory, harbor stage, sewing; lighthouse chart, tidal cove, berry jelly; bouldering, agate, slate lounge. Required category rotates event fashion, swimwear and lingerie."
+  },
+  "images": [
+    {
+      "key": "geodude",
+      "name": "꼬마돌",
+      "slot": "light",
+      "filename": "꼬마돌_light_glossy_promo_f.webp",
+      "input": {
+        "mech": "꼬마돌",
+        "sourceName": "Geodude",
+        "series": "rock / ground",
+        "sourceAppearance": {
+          "name": "꼬마돌",
+          "en": "Geodude",
+          "color": "brown",
+          "shape": "arms",
+          "features": [
+            {
+              "part": "hand",
+              "detail": "five-fingered hands"
+            },
+            {
+              "part": "body",
+              "detail": "sturdy body"
+            },
+            {
+              "part": "arm",
+              "detail": "muscular arms"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Geodude_%28Pok%C3%A9mon%29",
+          "revision": 4632322,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "11ccdaf40329cffa4efe670e9c5018a15ecd57d4a69385cdb84601e2685c83b4",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ],
+          [
+            "body type",
+            "athletic"
+          ],
+          [
+            "facial character",
+            "friendly"
+          ],
+          [
+            "hair color",
+            "brown"
+          ],
+          [
+            "hairstyle",
+            "pixie cut"
+          ],
+          [
+            "hair length",
+            "short"
+          ],
+          [
+            "eye color",
+            "amber"
+          ]
+        ],
+        "outputMode": "action",
+        "identityMode": "create",
+        "form": "light",
+        "motifs": "The rounded craggy rock body becomes sculpted brown-gray stone-textured armor plates with angular fractures and polished metal borders; the powerful arms inspire compact forearm guards, not enlarged anatomy. Her human body has two normal arms and two legs.",
+        "custom": "1024x1536 vertical image. High mountain basalt terrace at golden morning, fine stone dust in the distant background. Empty hands beside her body, separated relaxed fingers, human skin and face."
+      },
+      "hash": -293617110,
+      "reference": null,
+      "uiVerified": true,
+      "originalSha256": "192c00746ba1ca84dd4c91ad4caa3c3bc9f71dffdbbb4341db4cd128cf5ba407",
+      "sha256": "2b1ceba1412391294b49d6d3d120e5fe9fe62ee3dd51e4f99f16c873fbe0d3f8",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "geodude",
+      "name": "꼬마돌",
+      "slot": "heavy",
+      "filename": "꼬마돌_heavy_glossy_promo_f.webp",
+      "input": {
+        "mech": "꼬마돌",
+        "sourceName": "Geodude",
+        "series": "rock / ground",
+        "sourceAppearance": {
+          "name": "꼬마돌",
+          "en": "Geodude",
+          "color": "brown",
+          "shape": "arms",
+          "features": [
+            {
+              "part": "hand",
+              "detail": "five-fingered hands"
+            },
+            {
+              "part": "body",
+              "detail": "sturdy body"
+            },
+            {
+              "part": "arm",
+              "detail": "muscular arms"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Geodude_%28Pok%C3%A9mon%29",
+          "revision": 4632322,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "11ccdaf40329cffa4efe670e9c5018a15ecd57d4a69385cdb84601e2685c83b4",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "heavy",
+        "motifs": "",
+        "custom": "Vertical 2:3, 1024x1536. Keep the approved woman and her species costume features. Both empty hands fully visible, relaxed fingers separated. Standing with feet apart in a stable defensive stance, face to camera."
+      },
+      "hash": 420665133,
+      "reference": "img/꼬마돌_light_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "fd24da0c747224eb816d3a7f2633b82752b7e5c45f1aaf8d11f3ba2771b2f750",
+      "sha256": "8f06bac0cfd8edea624535ca1a49fdf9403df1458a879c80212d162d8110ff03",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "geodude",
+      "name": "꼬마돌",
+      "slot": "mobility",
+      "filename": "꼬마돌_mobility_glossy_promo_f.webp",
+      "input": {
+        "mech": "꼬마돌",
+        "sourceName": "Geodude",
+        "series": "rock / ground",
+        "sourceAppearance": {
+          "name": "꼬마돌",
+          "en": "Geodude",
+          "color": "brown",
+          "shape": "arms",
+          "features": [
+            {
+              "part": "hand",
+              "detail": "five-fingered hands"
+            },
+            {
+              "part": "body",
+              "detail": "sturdy body"
+            },
+            {
+              "part": "arm",
+              "detail": "muscular arms"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Geodude_%28Pok%C3%A9mon%29",
+          "revision": 4632322,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "11ccdaf40329cffa4efe670e9c5018a15ecd57d4a69385cdb84601e2685c83b4",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "mobility",
+        "motifs": "",
+        "custom": "Vertical 2:3, 1024x1536. Keep the approved woman and her species costume features. Both empty hands fully visible, relaxed fingers separated. A restrained forward stepping pose, face toward camera, full head and feet inside the frame."
+      },
+      "hash": -1971593496,
+      "reference": "img/꼬마돌_light_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "cad93824b181d5a0c0846bcbc066ebf6cdc9f9efb42d1be59bd46434416aee89",
+      "sha256": "cef3f15512520850aa920e5eb17d879676ce64c10b1c49c2264730c36b1359bd",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "geodude",
+      "name": "꼬마돌",
+      "slot": "light_overdrive",
+      "filename": "꼬마돌_light_overdrive_glossy_promo_f.webp",
+      "input": {
+        "mech": "꼬마돌",
+        "sourceName": "Geodude",
+        "series": "rock / ground",
+        "sourceAppearance": {
+          "name": "꼬마돌",
+          "en": "Geodude",
+          "color": "brown",
+          "shape": "arms",
+          "features": [
+            {
+              "part": "hand",
+              "detail": "five-fingered hands"
+            },
+            {
+              "part": "body",
+              "detail": "sturdy body"
+            },
+            {
+              "part": "arm",
+              "detail": "muscular arms"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Geodude_%28Pok%C3%A9mon%29",
+          "revision": 4632322,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "11ccdaf40329cffa4efe670e9c5018a15ecd57d4a69385cdb84601e2685c83b4",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "motifs": "",
+        "custom": "Open only existing seams; retain both hands and all five fingers exactly. Vertical 2:3, 1024x1536.",
+        "baseForm": "light"
+      },
+      "hash": 434817376,
+      "reference": "img/꼬마돌_light_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "8d391b340b5b6e340127233197bbf2c2de12d8b018bd04a7e87086bda2592faf",
+      "sha256": "ec07496305875b93cc3f2de4f58c04bf4771b95b49bf5400888d6ff84c66b225",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "geodude",
+      "name": "꼬마돌",
+      "slot": "heavy_overdrive",
+      "filename": "꼬마돌_heavy_overdrive_glossy_promo_f.webp",
+      "input": {
+        "mech": "꼬마돌",
+        "sourceName": "Geodude",
+        "series": "rock / ground",
+        "sourceAppearance": {
+          "name": "꼬마돌",
+          "en": "Geodude",
+          "color": "brown",
+          "shape": "arms",
+          "features": [
+            {
+              "part": "hand",
+              "detail": "five-fingered hands"
+            },
+            {
+              "part": "body",
+              "detail": "sturdy body"
+            },
+            {
+              "part": "arm",
+              "detail": "muscular arms"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Geodude_%28Pok%C3%A9mon%29",
+          "revision": 4632322,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "11ccdaf40329cffa4efe670e9c5018a15ecd57d4a69385cdb84601e2685c83b4",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "motifs": "",
+        "custom": "Open only existing seams; retain both hands and all five fingers exactly. Vertical 2:3, 1024x1536.",
+        "baseForm": "heavy"
+      },
+      "hash": -606720709,
+      "reference": "img/꼬마돌_heavy_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "caff5a21dc58fff4272619ae9ad0d752794176cdc6248d1f15f112cee787e909",
+      "sha256": "fcdbe0425697396a11aa4676e5bd501feb24dd3d011a386f44ecf937aa41a06a",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "geodude",
+      "name": "꼬마돌",
+      "slot": "mobility_overdrive",
+      "filename": "꼬마돌_mobility_overdrive_glossy_promo_f.webp",
+      "input": {
+        "mech": "꼬마돌",
+        "sourceName": "Geodude",
+        "series": "rock / ground",
+        "sourceAppearance": {
+          "name": "꼬마돌",
+          "en": "Geodude",
+          "color": "brown",
+          "shape": "arms",
+          "features": [
+            {
+              "part": "hand",
+              "detail": "five-fingered hands"
+            },
+            {
+              "part": "body",
+              "detail": "sturdy body"
+            },
+            {
+              "part": "arm",
+              "detail": "muscular arms"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Geodude_%28Pok%C3%A9mon%29",
+          "revision": 4632322,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "11ccdaf40329cffa4efe670e9c5018a15ecd57d4a69385cdb84601e2685c83b4",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "motifs": "",
+        "custom": "Open only existing seams; retain both hands and all five fingers exactly. Vertical 2:3, 1024x1536.",
+        "baseForm": "mobility"
+      },
+      "hash": 1326936359,
+      "reference": "img/꼬마돌_mobility_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "449d4217879dbc9f0170cc9f0f0814d96cde050ff9d7d23b4e3d5d1887df44fc",
+      "sha256": "681b21af37f7dcc30537557be4a4a42cfe8431341c51c73350442092cc5beaf0",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "geodude",
+      "name": "꼬마돌",
+      "slot": "casual1",
+      "filename": "꼬마돌_glossy_promo_f_casual1.webp",
+      "input": {
+        "mech": "꼬마돌",
+        "sourceName": "Geodude",
+        "series": "rock / ground",
+        "style": "glossy_promo",
+        "motifs": "",
+        "cat": "active",
+        "expr": "determined",
+        "pose": "bending_over",
+        "orient": "side",
+        "frame": "full_body",
+        "lens": "documentary35",
+        "scene": "At an outdoor bouldering garden in crisp morning light, bending naturally forward beside a low practice rock to dust climbing chalk from her open palms over a small bowl on a low bench. Both feet planted, hands apart and fully readable, no ropes or climbing risk.",
+        "outfit": "Rust racerback sports crop top with wide secure straps, gray high-waist fitted climbing shorts and sturdy low climbing shoes, bare shoulders arms midriff and legs, tiny basalt bead bracelet.",
+        "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face, haircut and natural proportions. Both hands readable with five separate anatomical fingers each. No armor, weapon, text, logo or second person.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "hash": 1645559848,
+      "reference": "img/꼬마돌_light_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "0c7ab949741fe93ab19be311035926d5914697a82cf2eb8aac472c4c0c6b6a40",
+      "sha256": "3de3b6b2fdb205c0b5dee67aa950bf5122c02fbae11249589761c468b8f475bc",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "geodude",
+      "name": "꼬마돌",
+      "slot": "casual2",
+      "filename": "꼬마돌_glossy_promo_f_casual2.webp",
+      "input": {
+        "mech": "꼬마돌",
+        "sourceName": "Geodude",
+        "series": "rock / ground",
+        "style": "glossy_promo",
+        "motifs": "",
+        "cat": "hobbies_leisure",
+        "expr": "proud",
+        "pose": "leaning_furniture",
+        "orient": "front_3q",
+        "frame": "waist_up",
+        "lens": "portrait85",
+        "scene": "In a warm gemstone cutting studio at late afternoon, leaning lightly on a workbench to inspect a smooth polished agate cabochon in one open palm, the other hand resting separately on the bench. Golden lamp and mineral trays, tools turned off, no text.",
+        "outfit": "Cream sleeveless collared V-neck waistcoat worn securely closed with fitted brown high-waist shorts below crop, bare arms and narrow waist opening, small stone stud earrings, original casual craft fashion.",
+        "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face, haircut and natural proportions. Both hands readable with five separate anatomical fingers each. No armor, weapon, text, logo or second person.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "hash": 342591111,
+      "reference": "img/꼬마돌_light_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "4d1f5ab08a5510975709ddb8009baeadb7a4b492a4442ed63964680b0777d849",
+      "sha256": "200891c814f5df11fd8c351a02adf78eb9e0688b559416d1b90a0d28261859cf",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "geodude",
+      "name": "꼬마돌",
+      "slot": "casual3",
+      "filename": "꼬마돌_glossy_promo_f_casual3.webp",
+      "input": {
+        "mech": "꼬마돌",
+        "sourceName": "Geodude",
+        "series": "rock / ground",
+        "style": "glossy_promo",
+        "motifs": "",
+        "cat": "lingerie",
+        "expr": "soft_smile",
+        "pose": "perched_seat",
+        "orient": "front",
+        "frame": "three_quarter",
+        "lens": "natural50",
+        "scene": "In a quiet modern stone-walled dressing lounge at night, perched naturally on a wide upholstered ottoman while smoothing a satin sash across one knee, other hand open on the seat beside her. Soft amber floor lamp, slate walls and a folded robe, mainstream adult fashion editorial.",
+        "outfit": "Opaque lined charcoal satin longline bralette with broad straps and secure square neckline, matching high-waisted tailored tap shorts, cropped brown silk bolero resting over upper arms and a satin waist sash. Fully covered chest and pelvis, bare shoulders arms midriff and legs, small basalt pendant.",
+        "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face, haircut and natural proportions. Both hands readable with five separate anatomical fingers each. No armor, weapon, text, logo or second person.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "hash": -1732499554,
+      "reference": "img/꼬마돌_light_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "1006e8afd8cadd89cc02f4cd75b4d31ca033275aa3368807bf555e5d140c1e5e",
+      "sha256": "d8566c86fc1acadd5a86e457fb2254fa6a6d96e447d80f708abf8cd36fb1a607",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    }
+  ],
+  "progress": 9
+}

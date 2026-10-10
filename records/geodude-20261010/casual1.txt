@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Geodude (꼬마돌) personified, rock / ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: brows pulled down and in, hard forward gaze, jaw clenched, mouth a tight line
+Pose: Bend forward slightly to examine or reach a low object with a balanced stance.
+Orientation: side body profile, approximately 90 degrees to camera
+Scene: At an outdoor bouldering garden in crisp morning light, bending naturally forward beside a low practice rock to dust climbing chalk from her open palms over a small bowl on a low bench. Both feet planted, hands apart and fully readable, no ropes or climbing risk.
+Outfit and props: Rust racerback sports crop top with wide secure straps, gray high-waist fitted climbing shorts and sturdy low climbing shoes, bare shoulders arms midriff and legs, tiny basalt bead bracelet.
+Category: Show real movement with fashion-forward activewear or movement-oriented clothing. Avoid generic gym snapshots. Prioritize dynamic motion, readable silhouette, waist and hip lines, fabric movement, and varied action.
+Note: Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face, haircut and natural proportions. Both hands readable with five separate anatomical fingers each. No armor, weapon, text, logo or second person.
+Framing: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.
+Lens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

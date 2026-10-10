@@ -1,0 +1,65 @@
+[
+  {
+    "mech": "꼬마돌",
+    "sourceName": "Geodude",
+    "series": "rock / ground",
+    "style": "glossy_promo",
+    "motifs": "",
+    "cat": "active",
+    "expr": "determined",
+    "pose": "bending_over",
+    "orient": "side",
+    "frame": "full_body",
+    "lens": "documentary35",
+    "scene": "At an outdoor bouldering garden in crisp morning light, bending naturally forward beside a low practice rock to dust climbing chalk from her open palms over a small bowl on a low bench. Both feet planted, hands apart and fully readable, no ropes or climbing risk.",
+    "outfit": "Rust racerback sports crop top with wide secure straps, gray high-waist fitted climbing shorts and sturdy low climbing shoes, bare shoulders arms midriff and legs, tiny basalt bead bracelet.",
+    "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face, haircut and natural proportions. Both hands readable with five separate anatomical fingers each. No armor, weapon, text, logo or second person.",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3"
+  },
+  {
+    "mech": "꼬마돌",
+    "sourceName": "Geodude",
+    "series": "rock / ground",
+    "style": "glossy_promo",
+    "motifs": "",
+    "cat": "hobbies_leisure",
+    "expr": "proud",
+    "pose": "leaning_furniture",
+    "orient": "front_3q",
+    "frame": "waist_up",
+    "lens": "portrait85",
+    "scene": "In a warm gemstone cutting studio at late afternoon, leaning lightly on a workbench to inspect a smooth polished agate cabochon in one open palm, the other hand resting separately on the bench. Golden lamp and mineral trays, tools turned off, no text.",
+    "outfit": "Cream sleeveless collared V-neck waistcoat worn securely closed with fitted brown high-waist shorts below crop, bare arms and narrow waist opening, small stone stud earrings, original casual craft fashion.",
+    "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face, haircut and natural proportions. Both hands readable with five separate anatomical fingers each. No armor, weapon, text, logo or second person.",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3"
+  },
+  {
+    "mech": "꼬마돌",
+    "sourceName": "Geodude",
+    "series": "rock / ground",
+    "style": "glossy_promo",
+    "motifs": "",
+    "cat": "lingerie",
+    "expr": "soft_smile",
+    "pose": "perched_seat",
+    "orient": "front",
+    "frame": "three_quarter",
+    "lens": "natural50",
+    "scene": "In a quiet modern stone-walled dressing lounge at night, perched naturally on a wide upholstered ottoman while smoothing a satin sash across one knee, other hand open on the seat beside her. Soft amber floor lamp, slate walls and a folded robe, mainstream adult fashion editorial.",
+    "outfit": "Opaque lined charcoal satin longline bralette with broad straps and secure square neckline, matching high-waisted tailored tap shorts, cropped brown silk bolero resting over upper arms and a satin waist sash. Fully covered chest and pelvis, bare shoulders arms midriff and legs, small basalt pendant.",
+    "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face, haircut and natural proportions. Both hands readable with five separate anatomical fingers each. No armor, weapon, text, logo or second person.",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3"
+  }
+]
