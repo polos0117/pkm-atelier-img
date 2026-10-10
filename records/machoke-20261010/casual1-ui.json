@@ -1,0 +1,184 @@
+{
+  "character": "근육몬",
+  "slot": "casual1",
+  "controls": {
+    "search": "",
+    "group": "",
+    "source": "근육몬",
+    "style": "glossy_promo",
+    "motifs": "",
+    "expression": "focused",
+    "category": "occupation_basic",
+    "example": "",
+    "pose": "leaning_furniture",
+    "orientation": "front_3q",
+    "frame": "waist_up",
+    "lens": "documentary35",
+    "aspect": "2:3",
+    "camera": "",
+    "scene": "A ceramics workshop at midday. She leans toward a waist-high table to shape the rim of a large clay bowl with two separate relaxed hands, elbows apart. Warm skylight, clay shelves and pottery kiln in background, readable craft activity, no other person.",
+    "outfit": "Charcoal sleeveless deep square-neck fitted top, burgundy high-waisted shorts and a split waist apron tied below a visible midriff. Bare shoulders and thighs, practical breathable ceramics workwear, tiny oval gold belt ornament.",
+    "custom": "One clearly adult woman in her 20s; match the reference face, hairstyle, proportions and human skin. Both hands naturally visible in the chosen framing, each with exactly five distinct fingers. No armor, weapons, text, logos or duplicate person.",
+    "axis-overall_intensity": "strong",
+    "axis-skin_exposure": "bold",
+    "axis-action_level": "AUTO",
+    "axis-source_influence": "AUTO",
+    "axis-separates_preference": "AUTO"
+  },
+  "prompt": "CHARACTER: the same woman as the attached image — Machoke (근육몬) personified, fighting type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed\nPose: Rest a hand or forearm on a table, counter or railing in a relaxed supported pose.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: A ceramics workshop at midday. She leans toward a waist-high table to shape the rim of a large clay bowl with two separate relaxed hands, elbows apart. Warm skylight, clay shelves and pottery kiln in background, readable craft activity, no other person.\nOutfit and props: Charcoal sleeveless deep square-neck fitted top, burgundy high-waisted shorts and a split waist apron tied below a visible midriff. Bare shoulders and thighs, practical breathable ceramics workwear, tiny oval gold belt ornament.\nCategory: Show one believable working moment in the Pokémon world. Choose care, research, conservation, berry cultivation, crafts, travel, contests or battle support. Make the profession readable through a concrete task, practical clothing and relevant tools. Preserve the approved woman; invent her own workwear instead of copying an existing trainer, Gym Leader or Pokémon Center character.\nNote: One clearly adult woman in her 20s; match the reference face, hairstyle, proportions and human skin. Both hands naturally visible in the chosen framing, each with exactly five distinct fingers. No armor, weapons, text, logos or duplicate person.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+  "store": {
+    "last": "근육몬",
+    "cards": {
+      "이상해씨": {
+        "style": "cinematic_semi_real",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {},
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "근육몬": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "muscular",
+          "hair color": "brown",
+          "hairstyle": "high ponytail",
+          "hair length": "long",
+          "eye color": "crimson"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "focused",
+            "pose": "cross_step",
+            "orient": "",
+            "scene": "An empty stone freight yard in late afternoon. Grounded powerful ready stance with knees soft, both hands open and separated, her human face looking toward camera, graphite armor and restrained crimson accents.",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "Preserve the attached normal-form image camera, pose, character scale, face and body. Both hands remain exactly as in the reference with five fingers each. Vertical 2:3, 1024x1536.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "focused",
+            "pose": "leaning_furniture",
+            "orient": "front_3q",
+            "scene": "A ceramics workshop at midday. She leans toward a waist-high table to shape the rim of a large clay bowl with two separate relaxed hands, elbows apart. Warm skylight, clay shelves and pottery kiln in background, readable craft activity, no other person.",
+            "outfit": "Charcoal sleeveless deep square-neck fitted top, burgundy high-waisted shorts and a split waist apron tied below a visible midriff. Bare shoulders and thighs, practical breathable ceramics workwear, tiny oval gold belt ornament.",
+            "frame": "waist_up",
+            "lens": "documentary35",
+            "camera": "",
+            "custom": "One clearly adult woman in her 20s; match the reference face, hairstyle, proportions and human skin. Both hands naturally visible in the chosen framing, each with exactly five distinct fingers. No armor, weapons, text, logos or duplicate person.",
+            "aspect": "2:3",
+            "cat": "occupation_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  }
+}

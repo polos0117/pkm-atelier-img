@@ -1,0 +1,44 @@
+{
+  "character": "근육몬",
+  "generator": "Real Preact generator UI via repository DOM harness; selections dispatched on the actual controls and exact textarea captured",
+  "recent_comparison": [
+    "발챙이",
+    "슈륙챙이",
+    "강챙이",
+    "알통몬"
+  ],
+  "comparison_source": "Read recent three characters casual1-3 UI records and submitted prompts",
+  "diversity_changes": "Different locations, concrete activities, clothing silhouettes, poses, orientations, framing order, times and lighting. Required categories rotate lingerie, swimwear, adult_roleplay.",
+  "casual": [
+    {
+      "cat": "occupation_basic",
+      "expr": "focused",
+      "pose": "leaning_furniture",
+      "orient": "front_3q",
+      "frame": "waist_up",
+      "lens": "documentary35",
+      "scene": "A ceramics workshop at midday. She leans toward a waist-high table to shape the rim of a large clay bowl with two separate relaxed hands, elbows apart. Warm skylight, clay shelves and pottery kiln in background, readable craft activity, no other person.",
+      "outfit": "Charcoal sleeveless deep square-neck fitted top, burgundy high-waisted shorts and a split waist apron tied below a visible midriff. Bare shoulders and thighs, practical breathable ceramics workwear, tiny oval gold belt ornament."
+    },
+    {
+      "cat": "swimwear",
+      "expr": "relieved",
+      "pose": "side_sitting",
+      "orient": "seated_twist",
+      "frame": "full_body",
+      "lens": "telephoto135",
+      "scene": "An empty crescent beach at dusk after a paddleboard outing. She sits sideways on dry sand beside a grounded paddleboard, torso gently turned toward camera, one hand resting on the sand and the other brushing sand from her knee. Lavender sky, calm water and soft amber shoreline light.",
+      "outfit": "Fully lined burgundy asymmetrical one-shoulder swimsuit with a diagonal opaque panel across torso and secure side waist cutout, high-cut legs with full coverage; light charcoal sarong knotted at one hip, bare arms and legs, small plain gold oval clasp."
+    },
+    {
+      "cat": "festivals_contests",
+      "expr": "amused",
+      "pose": "mid_stride",
+      "orient": "turning_midmotion",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "A lantern-lit night market crafts lane, empty of other visible people. While walking she turns with an amused glance toward a tiny wooden pinwheel stall, one hand holding a small paper shopping bag and the other reaching lightly toward a display pinwheel. Red lantern light mixed with teal storefront glow, no readable signage.",
+      "outfit": "A fitted sleeveless ivory mock-neck romper with short legs, a burgundy waist sash and flat sandals, small oval belt charm. Bare shoulders and legs, elegant easy summer festival fashion, no armor."
+    }
+  ]
+}

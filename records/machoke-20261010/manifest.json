@@ -1,0 +1,155 @@
+[
+  {
+    "character": "근육몬",
+    "slot": "light",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/f8c079e16365/generated_images/exec-dc31d72d-44d6-43b8-aa08-b6d850d18f4e.png",
+    "output": "img/근육몬_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "8fcd200baad160d2da7a2295fdccce508fe752fd44dd4bf31cf185f7cd466922",
+    "reference": null,
+    "prompt": "records/machoke-20261010/light.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+  },
+  {
+    "character": "근육몬",
+    "slot": "heavy",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/f8c079e16365/generated_images/exec-b64b77b1-e1c5-4fe6-a721-a01fc17a3698.png",
+    "output": "img/근육몬_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "ae43d55111b8d8664356aaec4d6ecfe36b5b38ca989b47eee3d3ee90f89c96a4",
+    "reference": "img/근육몬_light_glossy_promo_f.webp",
+    "prompt": "records/machoke-20261010/heavy.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+  },
+  {
+    "character": "근육몬",
+    "slot": "mobility",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/f8c079e16365/generated_images/exec-a1d44a60-7389-452c-855b-a163d2665f3a.png",
+    "output": "img/근육몬_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "5015c337992cfef78d0951fd6b5fab6094245e757c850e80cdc28bc90a9020ee",
+    "reference": "img/근육몬_light_glossy_promo_f.webp",
+    "prompt": "records/machoke-20261010/mobility.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+  },
+  {
+    "character": "근육몬",
+    "slot": "light_overdrive",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/f8c079e16365/generated_images/exec-d5885381-f1a2-45e1-831d-2d65f2eb835b.png",
+    "output": "img/근육몬_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "ba769475eae481afd9eeef7e266223b9026966985b63816946879c7c640abf64",
+    "reference": "img/근육몬_light_glossy_promo_f.webp",
+    "prompt": "records/machoke-20261010/light_overdrive.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+  },
+  {
+    "character": "근육몬",
+    "slot": "heavy_overdrive",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/f8c079e16365/generated_images/exec-df166dc4-14d9-4ba6-b74b-4e05d2094124.png",
+    "output": "img/근육몬_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "8c84d7574b8a842b4e75668943515bf73affd1b62eb4828ab87dd5fbee901588",
+    "reference": "img/근육몬_heavy_glossy_promo_f.webp",
+    "prompt": "records/machoke-20261010/heavy_overdrive.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+  },
+  {
+    "character": "근육몬",
+    "slot": "mobility_overdrive",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/f8c079e16365/generated_images/exec-16425c49-e1bd-4865-9e49-dc3105274db5.png",
+    "output": "img/근육몬_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "c3168b58b53cb04d459d7363cc2e3f73c061704d87a77cc4354e06ffa478d6ec",
+    "reference": "img/근육몬_mobility_glossy_promo_f.webp",
+    "prompt": "records/machoke-20261010/mobility_overdrive.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+  },
+  {
+    "character": "근육몬",
+    "slot": "casual1",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/f8c079e16365/generated_images/exec-06847270-fa49-4abd-ba59-90614a9b69e9.png",
+    "output": "img/근육몬_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "98023fe23c525d37c29b66d9c7b12d81049b1b15188a30b862ca02daf55769ff",
+    "reference": "img/근육몬_light_glossy_promo_f.webp",
+    "prompt": "records/machoke-20261010/casual1.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+  },
+  {
+    "character": "근육몬",
+    "slot": "casual2",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/f8c079e16365/generated_images/exec-07be080c-cc30-4171-b8eb-d89e130a93f3.png",
+    "output": "img/근육몬_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "d3e77ad6292d4610e41ed089ce6a10aea9ff3b54f0f35fbd93f4e894ca65032d",
+    "reference": "img/근육몬_light_glossy_promo_f.webp",
+    "prompt": "records/machoke-20261010/casual2.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+  },
+  {
+    "character": "근육몬",
+    "slot": "casual3",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/f8c079e16365/generated_images/exec-69a43b63-1909-4248-940c-b9415b41403f.png",
+    "output": "img/근육몬_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "033fe82dc0277275f71f77a58ecdfbe59418abf2dd4d2a0b6d77b0d97be2b9c9",
+    "reference": "img/근육몬_light_glossy_promo_f.webp",
+    "prompt": "records/machoke-20261010/casual3.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+  }
+]
