@@ -1,0 +1,720 @@
+{
+  "name": "블레이범",
+  "date": "2026-10-10",
+  "status": "generated_and_validated",
+  "style": "glossy_promo",
+  "authorization": "User authorized image generation and repository main upload",
+  "recent_comparison": [
+    "도나리: swimwear, berry tart, conservatory reading",
+    "파라섹트: shoreline, bookshop, park greeting",
+    "콘팡: swimwear, berry yogurt, window reading"
+  ],
+  "diversity": "Different categories, locations, concrete activities, outfit silhouettes, expression, pose, orientation, framing and lens; no pool/cooking/reading triplet reused",
+  "images": [
+    {
+      "name": "블레이범",
+      "slot": "light",
+      "ui_hash": 1341588201,
+      "settings": {
+        "custom": "1024x1536 vertical 2:3, head and feet with margins. Empty relaxed hands fully visible with five fingers each. No weapons. Opaque technical bodysuit. Long dark-navy hair in a high ponytail, deep red-brown eyes, clearly adult face.",
+        "identityMode": "create",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "motifs": "Typhlosion dark navy upper plates and cream-yellow breastplate and leg guards. Her neck flames become a broad flame-shaped layered collar mantle surrounding the shoulders, red-orange edge lighting, a proud volcanic silhouette."
+      },
+      "selection": {
+        "mech": "블레이범",
+        "sourceName": "Typhlosion",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "블레이범",
+          "en": "Typhlosion",
+          "color": "yellow",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "body",
+              "detail": "long, yet agile body"
+            },
+            {
+              "part": "snout",
+              "detail": "short, rounded snout"
+            },
+            {
+              "part": "back",
+              "detail": "blue back"
+            },
+            {
+              "part": "eye",
+              "detail": "small, triangular eyes"
+            },
+            {
+              "part": "digit",
+              "detail": "five digits"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Typhlosion_%28Pok%C3%A9mon%29",
+          "revision": 4632025,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "beb893493f090d15875317e7c75c8b0e6d78eee971345950a8c24eaf93f44862",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "outputMode": "action",
+        "identityMode": "create",
+        "form": "light",
+        "custom": "1024x1536 vertical 2:3, head and feet with margins. Empty relaxed hands fully visible with five fingers each. No weapons. Opaque technical bodysuit. Long dark-navy hair in a high ponytail, deep red-brown eyes, clearly adult face.",
+        "motifs": "Typhlosion dark navy upper plates and cream-yellow breastplate and leg guards. Her neck flames become a broad flame-shaped layered collar mantle surrounding the shoulders, red-orange edge lighting, a proud volcanic silhouette."
+      },
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Typhlosion (블레이범), fire type.\n\nPALETTE: blue, yellow.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Typhlosion as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): Typhlosion dark navy upper plates and cream-yellow breastplate and leg guards. Her neck flames become a broad flame-shaped layered collar mantle surrounding the shoulders, red-orange edge lighting, a proud volcanic silhouette..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: 1024x1536 vertical 2:3, head and feet with margins. Empty relaxed hands fully visible with five fingers each. No weapons. Opaque technical bodysuit. Long dark-navy hair in a high ponytail, deep red-brown eyes, clearly adult face.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-3027fa1a-5b55-4595-8e6a-6e9f534f81ef.png",
+      "references": [],
+      "output": "img/블레이범_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "5364a42f3fbb8ffce334c0919a417c53a28ac0acaf26fbc06c03dc2cba056aef",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "블레이범",
+      "slot": "heavy",
+      "ui_hash": 120111705,
+      "settings": {
+        "custom": "1024x1536 vertical 2:3, head and feet with margins. Empty relaxed hands fully visible with five fingers each. No weapons. Opaque technical bodysuit."
+      },
+      "selection": {
+        "mech": "블레이범",
+        "sourceName": "Typhlosion",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "블레이범",
+          "en": "Typhlosion",
+          "color": "yellow",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "body",
+              "detail": "long, yet agile body"
+            },
+            {
+              "part": "snout",
+              "detail": "short, rounded snout"
+            },
+            {
+              "part": "back",
+              "detail": "blue back"
+            },
+            {
+              "part": "eye",
+              "detail": "small, triangular eyes"
+            },
+            {
+              "part": "digit",
+              "detail": "five digits"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Typhlosion_%28Pok%C3%A9mon%29",
+          "revision": 4632025,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "beb893493f090d15875317e7c75c8b0e6d78eee971345950a8c24eaf93f44862",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "heavy",
+        "custom": "1024x1536 vertical 2:3, head and feet with margins. Empty relaxed hands fully visible with five fingers each. No weapons. Opaque technical bodysuit."
+      },
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Typhlosion (블레이범), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: 1024x1536 vertical 2:3, head and feet with margins. Empty relaxed hands fully visible with five fingers each. No weapons. Opaque technical bodysuit.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-d867e49a-73af-4312-9980-47015e074858.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-3027fa1a-5b55-4595-8e6a-6e9f534f81ef.png"
+      ],
+      "output": "img/블레이범_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "051ca63010a6ec208a81b4cd894b30261439ba4ce67859a105f0b81d06192b9b",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "블레이범",
+      "slot": "mobility",
+      "ui_hash": 3529955468,
+      "settings": {
+        "custom": "1024x1536 vertical 2:3, head and feet with margins. Empty relaxed hands fully visible with five fingers each. No weapons. Opaque technical bodysuit."
+      },
+      "selection": {
+        "mech": "블레이범",
+        "sourceName": "Typhlosion",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "블레이범",
+          "en": "Typhlosion",
+          "color": "yellow",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "body",
+              "detail": "long, yet agile body"
+            },
+            {
+              "part": "snout",
+              "detail": "short, rounded snout"
+            },
+            {
+              "part": "back",
+              "detail": "blue back"
+            },
+            {
+              "part": "eye",
+              "detail": "small, triangular eyes"
+            },
+            {
+              "part": "digit",
+              "detail": "five digits"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Typhlosion_%28Pok%C3%A9mon%29",
+          "revision": 4632025,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "beb893493f090d15875317e7c75c8b0e6d78eee971345950a8c24eaf93f44862",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "mobility",
+        "custom": "1024x1536 vertical 2:3, head and feet with margins. Empty relaxed hands fully visible with five fingers each. No weapons. Opaque technical bodysuit."
+      },
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Typhlosion (블레이범), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: 1024x1536 vertical 2:3, head and feet with margins. Empty relaxed hands fully visible with five fingers each. No weapons. Opaque technical bodysuit.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-92186a62-a20b-458e-9a55-5a76c741ff81.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-3027fa1a-5b55-4595-8e6a-6e9f534f81ef.png"
+      ],
+      "output": "img/블레이범_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "bf62587b777b81ab2bed7ec01a554166c29c490079dcf97b9851615d65f9e1da",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "블레이범",
+      "slot": "light_overdrive",
+      "ui_hash": 1823489035,
+      "settings": {
+        "custom": "1024x1536 vertical 2:3, head and feet with margins. Empty relaxed hands fully visible with five fingers each. No weapons. Opaque technical bodysuit."
+      },
+      "selection": {
+        "mech": "블레이범",
+        "sourceName": "Typhlosion",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "블레이범",
+          "en": "Typhlosion",
+          "color": "yellow",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "body",
+              "detail": "long, yet agile body"
+            },
+            {
+              "part": "snout",
+              "detail": "short, rounded snout"
+            },
+            {
+              "part": "back",
+              "detail": "blue back"
+            },
+            {
+              "part": "eye",
+              "detail": "small, triangular eyes"
+            },
+            {
+              "part": "digit",
+              "detail": "five digits"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Typhlosion_%28Pok%C3%A9mon%29",
+          "revision": 4632025,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "beb893493f090d15875317e7c75c8b0e6d78eee971345950a8c24eaf93f44862",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "custom": "1024x1536 vertical 2:3, head and feet with margins. Empty relaxed hands fully visible with five fingers each. No weapons. Opaque technical bodysuit.",
+        "baseForm": "light"
+      },
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Typhlosion (블레이범), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536 vertical 2:3, head and feet with margins. Empty relaxed hands fully visible with five fingers each. No weapons. Opaque technical bodysuit.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-055ea157-614c-4a9c-bca7-7fcee08e6f18.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-3027fa1a-5b55-4595-8e6a-6e9f534f81ef.png"
+      ],
+      "output": "img/블레이범_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "5ca2297471998329c31161aaa2e96443ce27b449d919731759fd858a27b38c09",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "블레이범",
+      "slot": "heavy_overdrive",
+      "ui_hash": 2798929456,
+      "settings": {
+        "custom": "1024x1536 vertical 2:3, head and feet with margins. Empty relaxed hands fully visible with five fingers each. No weapons. Opaque technical bodysuit."
+      },
+      "selection": {
+        "mech": "블레이범",
+        "sourceName": "Typhlosion",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "블레이범",
+          "en": "Typhlosion",
+          "color": "yellow",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "body",
+              "detail": "long, yet agile body"
+            },
+            {
+              "part": "snout",
+              "detail": "short, rounded snout"
+            },
+            {
+              "part": "back",
+              "detail": "blue back"
+            },
+            {
+              "part": "eye",
+              "detail": "small, triangular eyes"
+            },
+            {
+              "part": "digit",
+              "detail": "five digits"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Typhlosion_%28Pok%C3%A9mon%29",
+          "revision": 4632025,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "beb893493f090d15875317e7c75c8b0e6d78eee971345950a8c24eaf93f44862",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "custom": "1024x1536 vertical 2:3, head and feet with margins. Empty relaxed hands fully visible with five fingers each. No weapons. Opaque technical bodysuit.",
+        "baseForm": "heavy"
+      },
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Typhlosion (블레이범), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536 vertical 2:3, head and feet with margins. Empty relaxed hands fully visible with five fingers each. No weapons. Opaque technical bodysuit.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-ca4719ef-f529-4140-b5de-b8123af88caa.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-d867e49a-73af-4312-9980-47015e074858.png"
+      ],
+      "output": "img/블레이범_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "1adbf3bb0a40fe28173932fba5e7a785e4451732d942bd38efc3ab2cb551592a",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "블레이범",
+      "slot": "mobility_overdrive",
+      "ui_hash": 3493299348,
+      "settings": {
+        "custom": "1024x1536 vertical 2:3, head and feet with margins. Empty relaxed hands fully visible with five fingers each. No weapons. Opaque technical bodysuit."
+      },
+      "selection": {
+        "mech": "블레이범",
+        "sourceName": "Typhlosion",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "블레이범",
+          "en": "Typhlosion",
+          "color": "yellow",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "body",
+              "detail": "long, yet agile body"
+            },
+            {
+              "part": "snout",
+              "detail": "short, rounded snout"
+            },
+            {
+              "part": "back",
+              "detail": "blue back"
+            },
+            {
+              "part": "eye",
+              "detail": "small, triangular eyes"
+            },
+            {
+              "part": "digit",
+              "detail": "five digits"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Typhlosion_%28Pok%C3%A9mon%29",
+          "revision": 4632025,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "beb893493f090d15875317e7c75c8b0e6d78eee971345950a8c24eaf93f44862",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "custom": "1024x1536 vertical 2:3, head and feet with margins. Empty relaxed hands fully visible with five fingers each. No weapons. Opaque technical bodysuit.",
+        "baseForm": "mobility"
+      },
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Typhlosion (블레이범), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536 vertical 2:3, head and feet with margins. Empty relaxed hands fully visible with five fingers each. No weapons. Opaque technical bodysuit.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-2a6360ac-49b2-4763-a592-bf095118bc3e.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-92186a62-a20b-458e-9a55-5a76c741ff81.png"
+      ],
+      "output": "img/블레이범_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "3d384d75eb226aaf80c3978a80462b0c37aa5fe46d3a64b73ceb98bf7e0c2c16",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "블레이범",
+      "slot": "casual1",
+      "ui_hash": 1701497278,
+      "settings": {
+        "cat": "lingerie",
+        "expr": "sleepy",
+        "pose": "sitting",
+        "orient": "seated_twist",
+        "frame": "waist_up",
+        "lens": "portrait85",
+        "scene": "In a sunlit dressing alcove on a slow morning, seated sideways on a cushioned vanity chair and turning her torso toward camera while fastening a delicate bracelet. Both hands together at chest-to-waist height, sleepy relaxed adult expression, no mirror reflection.",
+        "outfit": "An opaque structured cream satin lingerie-inspired bralette with secure wide straps and scalloped trim, high-waisted navy satin lounge trousers, a short open orange robe draped at the elbows. Chest and pelvis covered, bare shoulders and midriff. One tiny flame bracelet. Remove all armor, flame collar and large head ornaments.",
+        "custom": "1024x1536 vertical 2:3. Same clearly adult woman. Both bare hands visible, five natural fingers each. No weapons or lettering.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "selection": {
+        "mech": "블레이범",
+        "sourceName": "Typhlosion",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "블레이범",
+          "en": "Typhlosion",
+          "color": "yellow",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "body",
+              "detail": "long, yet agile body"
+            },
+            {
+              "part": "snout",
+              "detail": "short, rounded snout"
+            },
+            {
+              "part": "back",
+              "detail": "blue back"
+            },
+            {
+              "part": "eye",
+              "detail": "small, triangular eyes"
+            },
+            {
+              "part": "digit",
+              "detail": "five digits"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Typhlosion_%28Pok%C3%A9mon%29",
+          "revision": 4632025,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "beb893493f090d15875317e7c75c8b0e6d78eee971345950a8c24eaf93f44862",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "form": "casual1",
+        "cat": "lingerie",
+        "expr": "sleepy",
+        "pose": "sitting",
+        "orient": "seated_twist",
+        "frame": "waist_up",
+        "lens": "portrait85",
+        "scene": "In a sunlit dressing alcove on a slow morning, seated sideways on a cushioned vanity chair and turning her torso toward camera while fastening a delicate bracelet. Both hands together at chest-to-waist height, sleepy relaxed adult expression, no mirror reflection.",
+        "outfit": "An opaque structured cream satin lingerie-inspired bralette with secure wide straps and scalloped trim, high-waisted navy satin lounge trousers, a short open orange robe draped at the elbows. Chest and pelvis covered, bare shoulders and midriff. One tiny flame bracelet. Remove all armor, flame collar and large head ornaments.",
+        "custom": "1024x1536 vertical 2:3. Same clearly adult woman. Both bare hands visible, five natural fingers each. No weapons or lettering.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Typhlosion (블레이범) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: heavy drooping eyelids, unfocused gaze, softened slack mouth, brow low and relaxed\nPose: Sit naturally on a chair or bench with supported feet and readable hands.\nOrientation: seated with supported pelvis and a natural torso twist\nScene: In a sunlit dressing alcove on a slow morning, seated sideways on a cushioned vanity chair and turning her torso toward camera while fastening a delicate bracelet. Both hands together at chest-to-waist height, sleepy relaxed adult expression, no mirror reflection.\nOutfit and props: An opaque structured cream satin lingerie-inspired bralette with secure wide straps and scalloped trim, high-waisted navy satin lounge trousers, a short open orange robe draped at the elbows. Chest and pelvis covered, bare shoulders and midriff. One tiny flame bracelet. Remove all armor, flame collar and large head ornaments.\nCategory: Use tasteful adult lingerie-inspired evening fashion with full intimate coverage. Describe the garment by its construction — cut, fabric, trim, straps, closures, layers — rather than by mood words. The garments are securely fitted and fully opaque, and the look is suitable for a mainstream evening-fashion editorial. Build the image through framing, silhouette, posture, and lighting rather than exposure.\nNote: 1024x1536 vertical 2:3. Same clearly adult woman. Both bare hands visible, five natural fingers each. No weapons or lettering.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-02ba1159-b01a-4a2e-bab2-0c8f0ca789ec.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-3027fa1a-5b55-4595-8e6a-6e9f534f81ef.png"
+      ],
+      "output": "img/블레이범_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "87f5a1a16118165c04a455fa4e943f789ce020004a73759cef7752d759052c2c",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "블레이범",
+      "slot": "casual2",
+      "ui_hash": 3924624538,
+      "settings": {
+        "cat": "travel_exploration",
+        "expr": "focused",
+        "pose": "kneeling",
+        "orient": "side",
+        "frame": "full_body",
+        "lens": "documentary35",
+        "scene": "At a remote high-altitude campsite before dawn under the last stars, kneeling on a blanket to adjust a small tripod telescope pointed toward the horizon. One hand turns a focus knob, the other steadies the tripod, whole kneeling body and feet visible. Blue predawn light and a warm camping lamp.",
+        "outfit": "A navy sleeveless technical tank with a cropped hem, cream hiking shorts, orange waist-tied jacket and trail boots. Bare shoulders, a strip of midriff and legs; tiny flame earring only. Remove all armor, flame collar and headgear.",
+        "custom": "1024x1536 vertical 2:3. Same clearly adult woman. Both bare hands visible, five natural fingers each. No weapons or lettering.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "selection": {
+        "mech": "블레이범",
+        "sourceName": "Typhlosion",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "블레이범",
+          "en": "Typhlosion",
+          "color": "yellow",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "body",
+              "detail": "long, yet agile body"
+            },
+            {
+              "part": "snout",
+              "detail": "short, rounded snout"
+            },
+            {
+              "part": "back",
+              "detail": "blue back"
+            },
+            {
+              "part": "eye",
+              "detail": "small, triangular eyes"
+            },
+            {
+              "part": "digit",
+              "detail": "five digits"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Typhlosion_%28Pok%C3%A9mon%29",
+          "revision": 4632025,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "beb893493f090d15875317e7c75c8b0e6d78eee971345950a8c24eaf93f44862",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "form": "casual2",
+        "cat": "travel_exploration",
+        "expr": "focused",
+        "pose": "kneeling",
+        "orient": "side",
+        "frame": "full_body",
+        "lens": "documentary35",
+        "scene": "At a remote high-altitude campsite before dawn under the last stars, kneeling on a blanket to adjust a small tripod telescope pointed toward the horizon. One hand turns a focus knob, the other steadies the tripod, whole kneeling body and feet visible. Blue predawn light and a warm camping lamp.",
+        "outfit": "A navy sleeveless technical tank with a cropped hem, cream hiking shorts, orange waist-tied jacket and trail boots. Bare shoulders, a strip of midriff and legs; tiny flame earring only. Remove all armor, flame collar and headgear.",
+        "custom": "1024x1536 vertical 2:3. Same clearly adult woman. Both bare hands visible, five natural fingers each. No weapons or lettering.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Typhlosion (블레이범) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed\nPose: Kneel in a stable supported position suited to a low task or interaction.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: At a remote high-altitude campsite before dawn under the last stars, kneeling on a blanket to adjust a small tripod telescope pointed toward the horizon. One hand turns a focus knob, the other steadies the tripod, whole kneeling body and feet visible. Blue predawn light and a warm camping lamp.\nOutfit and props: A navy sleeveless technical tank with a cropped hem, cream hiking shorts, orange waist-tied jacket and trail boots. Bare shoulders, a strip of midriff and legs; tiny flame earring only. Remove all armor, flame collar and headgear.\nCategory: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.\nNote: 1024x1536 vertical 2:3. Same clearly adult woman. Both bare hands visible, five natural fingers each. No weapons or lettering.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-4df57b77-5db8-4238-81a3-30ed548e0dc0.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-3027fa1a-5b55-4595-8e6a-6e9f534f81ef.png"
+      ],
+      "output": "img/블레이범_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "b8f1bdafa8f636479b77499fdcbbd7ef54d463ece440097aa3981b904c3163fd",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    },
+    {
+      "name": "블레이범",
+      "slot": "casual3",
+      "ui_hash": 2479979301,
+      "settings": {
+        "cat": "active",
+        "expr": "amused",
+        "pose": "mid_stride",
+        "orient": "turning_midmotion",
+        "frame": "three_quarter",
+        "lens": "natural50",
+        "scene": "On a quiet riverside roller-skating promenade in clear afternoon light, slowing into a gentle curve and turning toward camera with amused eyes. Arms extend naturally for balance with both hands visible; river rail and long shadows behind her.",
+        "outfit": "A cream racerback sports bra, navy high-waisted pleated athletic skort, orange elbow guards and wrist guards, roller skates below the knee crop. Fully lined opaque fabric, chest and pelvis covered, bare shoulders, midriff and legs. Tiny flame patch only. Remove all armor, collar flames and headgear.",
+        "custom": "1024x1536 vertical 2:3. Same clearly adult woman. Both bare hands visible, five natural fingers each. No weapons or lettering.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "selection": {
+        "mech": "블레이범",
+        "sourceName": "Typhlosion",
+        "series": "fire",
+        "sourceAppearance": {
+          "name": "블레이범",
+          "en": "Typhlosion",
+          "color": "yellow",
+          "shape": "quadruped",
+          "features": [
+            {
+              "part": "body",
+              "detail": "long, yet agile body"
+            },
+            {
+              "part": "snout",
+              "detail": "short, rounded snout"
+            },
+            {
+              "part": "back",
+              "detail": "blue back"
+            },
+            {
+              "part": "eye",
+              "detail": "small, triangular eyes"
+            },
+            {
+              "part": "digit",
+              "detail": "five digits"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Typhlosion_%28Pok%C3%A9mon%29",
+          "revision": 4632025,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "beb893493f090d15875317e7c75c8b0e6d78eee971345950a8c24eaf93f44862",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "form": "casual3",
+        "cat": "active",
+        "expr": "amused",
+        "pose": "mid_stride",
+        "orient": "turning_midmotion",
+        "frame": "three_quarter",
+        "lens": "natural50",
+        "scene": "On a quiet riverside roller-skating promenade in clear afternoon light, slowing into a gentle curve and turning toward camera with amused eyes. Arms extend naturally for balance with both hands visible; river rail and long shadows behind her.",
+        "outfit": "A cream racerback sports bra, navy high-waisted pleated athletic skort, orange elbow guards and wrist guards, roller skates below the knee crop. Fully lined opaque fabric, chest and pelvis covered, bare shoulders, midriff and legs. Tiny flame patch only. Remove all armor, collar flames and headgear.",
+        "custom": "1024x1536 vertical 2:3. Same clearly adult woman. Both bare hands visible, five natural fingers each. No weapons or lettering.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Typhlosion (블레이범) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed\nPose: Capture a clear mid-stride step with believable weight transfer.\nOrientation: mid-turn body motion with equipment following its body mounts\nScene: On a quiet riverside roller-skating promenade in clear afternoon light, slowing into a gentle curve and turning toward camera with amused eyes. Arms extend naturally for balance with both hands visible; river rail and long shadows behind her.\nOutfit and props: A cream racerback sports bra, navy high-waisted pleated athletic skort, orange elbow guards and wrist guards, roller skates below the knee crop. Fully lined opaque fabric, chest and pelvis covered, bare shoulders, midriff and legs. Tiny flame patch only. Remove all armor, collar flames and headgear.\nCategory: Show real movement with fashion-forward activewear or movement-oriented clothing. Avoid generic gym snapshots. Prioritize dynamic motion, readable silhouette, waist and hip lines, fabric movement, and varied action.\nNote: 1024x1536 vertical 2:3. Same clearly adult woman. Both bare hands visible, five natural fingers each. No weapons or lettering.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_verified": true,
+      "source_png": "/workspace/scratch/67c030b6e3e0/generated_images/exec-47b4ed32-42b2-43c2-9265-c86cd41455d4.png",
+      "references": [
+        "/workspace/scratch/67c030b6e3e0/generated_images/exec-3027fa1a-5b55-4595-8e6a-6e9f534f81ef.png"
+      ],
+      "output": "img/블레이범_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "79976c89323f99ed52e8b7b2e2c32adec1efc5dc8f26640fa1ad71ee5ed2b439",
+      "tool": "built-in image_gen",
+      "review": "Visual inspection: adult identity, single figure, framing, hands, form distinction, no text or weapons"
+    }
+  ]
+}
