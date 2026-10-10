@@ -1,0 +1,16 @@
+{
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "occupation_basic",
+  "expr": "pensive",
+  "pose": "kneeling",
+  "orient": "front_3q",
+  "frame": "full_body",
+  "lens": "natural50",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "A traditional archive restoration room on a rainy afternoon. She kneels on a cushion beside a low wooden worktable, flattening an unlettered old illustrated folio with a soft brush in one hand and the other resting on the page edge, hands separated. Diffuse gray skylight and warm desk lamp; full head, hands and feet visible, one adult conservator.",
+  "outfit": "A sleeveless indigo linen high-neck wrap tunic, cream sash and knee-length hem over securely opaque short underlayers, soft flat shoes, tiny gold geometric bracelet. Bare arms and lower legs, original heritage-inspired conservator clothing with complete chest and pelvis coverage, no armor."
+}

@@ -1,0 +1,245 @@
+{
+  "card": "후딘",
+  "species": "alakazam",
+  "generator": "Actual live UI selections; exact prompt FNV-1a verified against local current prompt engine; built-in imagegen",
+  "comparison": [
+    "발챙이 casual1-3 submitted prompts",
+    "슈륙챙이 casual1-3 submitted prompts",
+    "강챙이 casual1-3 submitted prompts",
+    "캐이시 casual1-3",
+    "윤겔라 casual1-3"
+  ],
+  "diversity": "Location, activity, outfit silhouette, expression, pose, orientation, framing and light differ from recent sets. Required category varied: Abra swimwear, Kadabra lingerie-inspired fashion, Alakazam adult event costume.",
+  "files": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/29173839627d/generated_images/exec-ae52c007-6bb5-4608-81d8-cecf76cf4eb4.png",
+      "filename": "후딘_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "d7827d8ade3582f6d815b2c7f279271c4624a1c876a4620f5b8f1fa6bda7951b",
+      "canonical_reference": "/workspace/scratch/29173839627d/generated_images/exec-ae52c007-6bb5-4608-81d8-cecf76cf4eb4.png",
+      "generation_reference": null,
+      "source_sha256": "e83e42c2feb421c84f057f0f58a25b1019b88abe929a4c2e88535eb2060c1972",
+      "style": "glossy_promo",
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Alakazam (후딘), psychic type.\n\nPALETTE: yellow, white.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Alakazam as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the ear-like spikes become pointed edges on her plates; the white claw becomes claw-shaped guards on her gauntlets, her hands still human hands; the large mustache becomes fine whisker-like lines on her headpiece.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Keep both hands relaxed — a loose fist, an open palm or resting on something; no clawed spread fingers, no hand thrust at the camera. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "ui": {
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ]
+      },
+      "review": "Face, hair, anatomy, hands, single figure, form separation and framing visually inspected; no lettering or weapons."
+    },
+    {
+      "slot": "heavy",
+      "source": "/workspace/scratch/29173839627d/generated_images/exec-ffaada80-5ddc-4c74-979a-96f55c56089a.png",
+      "filename": "후딘_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "8abed4030e341bd3fae15d2b88b9378edd0c2b5e9f6d419d3cb97eb638e8cbb3",
+      "canonical_reference": "/workspace/scratch/29173839627d/generated_images/exec-ae52c007-6bb5-4608-81d8-cecf76cf4eb4.png",
+      "generation_reference": "/workspace/scratch/29173839627d/generated_images/exec-ae52c007-6bb5-4608-81d8-cecf76cf4eb4.png",
+      "source_sha256": "c749e84a597930b4c6f0d5d26d40a61170449d109dd94e3a01e7d057b79e3e7f",
+      "style": "glossy_promo",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Alakazam (후딘), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Keep both hands relaxed — a loose fist, an open palm or resting on something; no clawed spread fingers, no hand thrust at the camera. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "ui": {
+        "identityMode": "reference",
+        "form": "heavy"
+      },
+      "review": "Face, hair, anatomy, hands, single figure, form separation and framing visually inspected; no lettering or weapons."
+    },
+    {
+      "slot": "mobility",
+      "source": "/workspace/scratch/29173839627d/generated_images/exec-f987380e-8f9f-49cf-8373-92bd0ba1a51d.png",
+      "filename": "후딘_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b39e517991ebf75da2b699c46b3c3c55f7350576a0056250a74ba96946369ef5",
+      "canonical_reference": "/workspace/scratch/29173839627d/generated_images/exec-ae52c007-6bb5-4608-81d8-cecf76cf4eb4.png",
+      "generation_reference": "/workspace/scratch/29173839627d/generated_images/exec-ae52c007-6bb5-4608-81d8-cecf76cf4eb4.png",
+      "source_sha256": "c2349f44b594be91f160de439c4aaf10b4ba568338e139342f0cccb8139ac033",
+      "style": "glossy_promo",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Alakazam (후딘), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Keep both hands relaxed — a loose fist, an open palm or resting on something; no clawed spread fingers, no hand thrust at the camera. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "ui": {
+        "identityMode": "reference",
+        "form": "mobility"
+      },
+      "review": "Face, hair, anatomy, hands, single figure, form separation and framing visually inspected; no lettering or weapons."
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "/workspace/scratch/29173839627d/generated_images/exec-7a9314d9-78b1-49d2-9784-f7e195015ccb.png",
+      "filename": "후딘_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "9c9331ae9b2561c146bfcd4ebb0223ee6b0dfbb22ec7509df588fa8ca3824472",
+      "canonical_reference": "/workspace/scratch/29173839627d/generated_images/exec-ae52c007-6bb5-4608-81d8-cecf76cf4eb4.png",
+      "generation_reference": "/workspace/scratch/29173839627d/generated_images/exec-ae52c007-6bb5-4608-81d8-cecf76cf4eb4.png",
+      "source_sha256": "35b12508e719a27490da460197ea4b7381c5e4081ed2010be1e35516ad564a0f",
+      "style": "glossy_promo",
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Alakazam (후딘), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a magenta glow with floating rings of light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui": {
+        "form": "overdrive",
+        "baseForm": "light"
+      },
+      "review": "Face, hair, anatomy, hands, single figure, form separation and framing visually inspected; no lettering or weapons."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "source": "/workspace/scratch/29173839627d/generated_images/exec-bcfe48f4-40cb-4f12-9420-c28690823d8d.png",
+      "filename": "후딘_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "95ae8f0d98f5f85afe32524d71a5d843e93cffb67cc4db682795ee904ac747f3",
+      "canonical_reference": "/workspace/scratch/29173839627d/generated_images/exec-ae52c007-6bb5-4608-81d8-cecf76cf4eb4.png",
+      "generation_reference": "/workspace/scratch/29173839627d/generated_images/exec-ffaada80-5ddc-4c74-979a-96f55c56089a.png",
+      "source_sha256": "81826fe15d6ee14191b9df3e6e4683b5f7daaa75a8e655a2d341f2a5b5ee4ecb",
+      "style": "glossy_promo",
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Alakazam (후딘), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a magenta glow with floating rings of light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui": {
+        "form": "overdrive",
+        "baseForm": "heavy"
+      },
+      "review": "Face, hair, anatomy, hands, single figure, form separation and framing visually inspected; no lettering or weapons."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "source": "/workspace/scratch/29173839627d/generated_images/exec-f8d029d8-8351-4957-8508-536e6b086460.png",
+      "filename": "후딘_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b68bcc487a8126545efb56eb363c85ded31783541ed45b679a5b45a807b3cda1",
+      "canonical_reference": "/workspace/scratch/29173839627d/generated_images/exec-ae52c007-6bb5-4608-81d8-cecf76cf4eb4.png",
+      "generation_reference": "/workspace/scratch/29173839627d/generated_images/exec-f987380e-8f9f-49cf-8373-92bd0ba1a51d.png",
+      "source_sha256": "f928fdc94e9d4f5f88faa692503b8d796c578eec6762c165648e1bc00777901f",
+      "style": "glossy_promo",
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Alakazam (후딘), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a magenta glow with floating rings of light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui": {
+        "form": "overdrive",
+        "baseForm": "mobility"
+      },
+      "review": "Face, hair, anatomy, hands, single figure, form separation and framing visually inspected; no lettering or weapons."
+    },
+    {
+      "slot": "casual1",
+      "source": "/workspace/scratch/29173839627d/generated_images/exec-dd1227b4-84cd-4e3d-940a-3d9decd394a2.png",
+      "filename": "후딘_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c377750657ec0465bcf6bb5d514ea4cb2726504af254cf49947ab42afeac3a07",
+      "canonical_reference": "/workspace/scratch/29173839627d/generated_images/exec-ae52c007-6bb5-4608-81d8-cecf76cf4eb4.png",
+      "generation_reference": "/workspace/scratch/29173839627d/generated_images/exec-ae52c007-6bb5-4608-81d8-cecf76cf4eb4.png",
+      "source_sha256": "c5da6cc3e4db694878f16c633052746beaac5e733494e189e0e5a0c8a38f75e8",
+      "style": "glossy_promo",
+      "prompt": "CHARACTER: the same woman as the attached image — Alakazam (후딘) personified, psychic type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed\nPose: Rest weight on one leg with the opposite knee relaxed in natural contrapposto.\nOrientation: camera below subject looking upward; obey selected framing\nScene: A chess-themed charity fashion event on an oversized checkerboard floor at night. One adult performer shifts her weight while presenting a small ivory chess queen on her open palm near waist height; the other hand gently holds her cape edge. Amber spotlights and deep indigo curtains; single figure, no audience or lettering.\nOutfit and props: Original ivory-and-gold chess-queen event fashion: securely lined structured square-neck bodice, short flared skirt with opaque shorts beneath, cropped black cape, long gold boots and tiny geometric earrings. Bare shoulders and thighs, fashion roleplay costume with no weapons, no armor and no institutional symbols.\nCategory: Create playful adult event fashion inspired by occupation or roleplay motifs. It must read as a costume made for a stage presentation or themed event, not as an authentic workplace uniform. Use original colours and decorative details — no real institutional insignia, no weapons, no tactical gear. Describe the costume by its tailoring, trim, and props, and show a believable styling or preparation action.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui": {
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "cat": "adult_roleplay",
+        "expr": "confident",
+        "pose": "contrapposto",
+        "orient": "low_angle",
+        "frame": "three_quarter",
+        "lens": "portrait85",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "scene": "A chess-themed charity fashion event on an oversized checkerboard floor at night. One adult performer shifts her weight while presenting a small ivory chess queen on her open palm near waist height; the other hand gently holds her cape edge. Amber spotlights and deep indigo curtains; single figure, no audience or lettering.",
+        "outfit": "Original ivory-and-gold chess-queen event fashion: securely lined structured square-neck bodice, short flared skirt with opaque shorts beneath, cropped black cape, long gold boots and tiny geometric earrings. Bare shoulders and thighs, fashion roleplay costume with no weapons, no armor and no institutional symbols."
+      },
+      "review": "Face, hair, anatomy, hands, single figure, form separation and framing visually inspected; no lettering or weapons."
+    },
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/29173839627d/generated_images/exec-c5f75ebb-16df-4506-a066-7fc587235766.png",
+      "filename": "후딘_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f9aa2f7c6376671ef8a3a1465dd361ad40c8a87189df0c17d611b071d853acb0",
+      "canonical_reference": "/workspace/scratch/29173839627d/generated_images/exec-ae52c007-6bb5-4608-81d8-cecf76cf4eb4.png",
+      "generation_reference": "/workspace/scratch/29173839627d/generated_images/exec-ae52c007-6bb5-4608-81d8-cecf76cf4eb4.png",
+      "source_sha256": "775ed9e845f0322d7052b8c42532738280c114f4cda573d92030911af2be3c4c",
+      "style": "glossy_promo",
+      "prompt": "CHARACTER: the same woman as the attached image — Alakazam (후딘) personified, psychic type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed\nPose: Sit naturally on a chair or bench with supported feet and readable hands.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: A recreational rowboat on a tranquil mountain lake in clear late-morning daylight. She sits firmly on a wooden rowing bench, each hand holding a separate wooden oar handle at natural waist height, hands separated in frame. Lake ripples and blue mountain reflections; face turned a little toward the camera with amusement, one traveler.\nOutfit and props: A sleeveless deep-green zip-front crop top, tan hiking shorts and practical deck shoes, a tiny gold geometric pendant. Bare arms and midriff, ordinary recreational travel clothes, no armor.\nCategory: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui": {
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "cat": "travel_exploration",
+        "expr": "amused",
+        "pose": "sitting",
+        "orient": "side",
+        "frame": "waist_up",
+        "lens": "documentary35",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "scene": "A recreational rowboat on a tranquil mountain lake in clear late-morning daylight. She sits firmly on a wooden rowing bench, each hand holding a separate wooden oar handle at natural waist height, hands separated in frame. Lake ripples and blue mountain reflections; face turned a little toward the camera with amusement, one traveler.",
+        "outfit": "A sleeveless deep-green zip-front crop top, tan hiking shorts and practical deck shoes, a tiny gold geometric pendant. Bare arms and midriff, ordinary recreational travel clothes, no armor."
+      },
+      "review": "Face, hair, anatomy, hands, single figure, form separation and framing visually inspected; no lettering or weapons."
+    },
+    {
+      "slot": "casual3",
+      "source": "/workspace/scratch/29173839627d/generated_images/exec-4eaf7538-042b-4509-9789-b389daae0874.png",
+      "filename": "후딘_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "9962d43a9c74d51bb04322de015ff1f657bcf142fd3122e722db106ecb637075",
+      "canonical_reference": "/workspace/scratch/29173839627d/generated_images/exec-ae52c007-6bb5-4608-81d8-cecf76cf4eb4.png",
+      "generation_reference": "/workspace/scratch/29173839627d/generated_images/exec-ae52c007-6bb5-4608-81d8-cecf76cf4eb4.png",
+      "source_sha256": "120b6e003097fe9443d34053232c360a74221f89d7006e8f980c78c32f830725",
+      "style": "glossy_promo",
+      "prompt": "CHARACTER: the same woman as the attached image — Alakazam (후딘) personified, psychic type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: gaze angled down and away, slightly furrowed brow, lips lightly pressed or touched\nPose: Kneel in a stable supported position suited to a low task or interaction.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: A traditional archive restoration room on a rainy afternoon. She kneels on a cushion beside a low wooden worktable, flattening an unlettered old illustrated folio with a soft brush in one hand and the other resting on the page edge, hands separated. Diffuse gray skylight and warm desk lamp; full head, hands and feet visible, one adult conservator.\nOutfit and props: A sleeveless indigo linen high-neck wrap tunic, cream sash and knee-length hem over securely opaque short underlayers, soft flat shoes, tiny gold geometric bracelet. Bare arms and lower legs, original heritage-inspired conservator clothing with complete chest and pelvis coverage, no armor.\nCategory: Show one believable working moment in the Pokémon world. Choose care, research, conservation, berry cultivation, crafts, travel, contests or battle support. Make the profession readable through a concrete task, practical clothing and relevant tools. Preserve the approved woman; invent her own workwear instead of copying an existing trainer, Gym Leader or Pokémon Center character.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui": {
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "cat": "occupation_basic",
+        "expr": "pensive",
+        "pose": "kneeling",
+        "orient": "front_3q",
+        "frame": "full_body",
+        "lens": "natural50",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "scene": "A traditional archive restoration room on a rainy afternoon. She kneels on a cushion beside a low wooden worktable, flattening an unlettered old illustrated folio with a soft brush in one hand and the other resting on the page edge, hands separated. Diffuse gray skylight and warm desk lamp; full head, hands and feet visible, one adult conservator.",
+        "outfit": "A sleeveless indigo linen high-neck wrap tunic, cream sash and knee-length hem over securely opaque short underlayers, soft flat shoes, tiny gold geometric bracelet. Bare arms and lower legs, original heritage-inspired conservator clothing with complete chest and pelvis coverage, no armor."
+      },
+      "review": "Face, hair, anatomy, hands, single figure, form separation and framing visually inspected; no lettering or weapons."
+    }
+  ],
+  "status": "validated, prepared for main upload"
+}

@@ -1,0 +1,16 @@
+{
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "travel_exploration",
+  "expr": "amused",
+  "pose": "sitting",
+  "orient": "side",
+  "frame": "waist_up",
+  "lens": "documentary35",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "A recreational rowboat on a tranquil mountain lake in clear late-morning daylight. She sits firmly on a wooden rowing bench, each hand holding a separate wooden oar handle at natural waist height, hands separated in frame. Lake ripples and blue mountain reflections; face turned a little toward the camera with amusement, one traveler.",
+  "outfit": "A sleeveless deep-green zip-front crop top, tan hiking shorts and practical deck shoes, a tiny gold geometric pendant. Bare arms and midriff, ordinary recreational travel clothes, no armor."
+}

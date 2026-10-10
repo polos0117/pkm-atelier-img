@@ -1,0 +1,16 @@
+{
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "adult_roleplay",
+  "expr": "confident",
+  "pose": "contrapposto",
+  "orient": "low_angle",
+  "frame": "three_quarter",
+  "lens": "portrait85",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "A chess-themed charity fashion event on an oversized checkerboard floor at night. One adult performer shifts her weight while presenting a small ivory chess queen on her open palm near waist height; the other hand gently holds her cape edge. Amber spotlights and deep indigo curtains; single figure, no audience or lettering.",
+  "outfit": "Original ivory-and-gold chess-queen event fashion: securely lined structured square-neck bodice, short flared skirt with opaque shorts beneath, cropped black cape, long gold boots and tiny geometric earrings. Bare shoulders and thighs, fashion roleplay costume with no weapons, no armor and no institutional symbols."
+}
