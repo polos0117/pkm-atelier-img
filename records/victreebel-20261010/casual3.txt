@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Victreebel (우츠보트) personified, grass / poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened
+Pose: Rest a hand or forearm on a table, counter or railing in a relaxed supported pose.
+Orientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together
+Scene: In a bright coastal repair cafe on an overcast morning, leaning lightly on a waist-high workbench to replace the fabric shade of a small table lamp, one hand resting open on the rim and the other holding a loose brass screw between fingertips, separated hands. Cool window light and pale wood shelves, no other person.
+Outfit and props: White sleeveless deep square-neck linen top with green piping, brown high-waisted shorts below crop and a narrow red waist sash, bare arms shoulders and clear midriff, tiny vine enamel bracelet.
+Category: Depict ordinary personal-life moments rather than occupation, costume, or formal editorial shoots. Keep them candid, believable, visually varied, and attractive without becoming too plain.
+Note: Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face and haircut. Both hands readable, exactly five anatomically distinct fingers per hand. No armor weapon text logo or other person.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+Lens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

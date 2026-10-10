@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Victreebel (우츠보트) personified, grass / poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere
+Pose: Sit naturally on a chair or bench with supported feet and readable hands.
+Orientation: side body profile, approximately 90 degrees to camera
+Scene: In an old sunny music room at late afternoon, sitting upright at a small upright piano while practicing a short phrase, hands separated across the keyboard with relaxed fingers. Side profile, head to above knees, gold dust-lit rays and no sheet lettering.
+Outfit and props: Red sleeveless high-neck silk blouse with draped side waist opening, green tailored wide-leg culotte shorts, brown flat shoes and a small vine earring, bare shoulders arms and waist side, opaque fabrics.
+Category: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.
+Note: Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face and haircut. Both hands readable, exactly five anatomically distinct fingers per hand. No armor weapon text logo or other person.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+Lens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
