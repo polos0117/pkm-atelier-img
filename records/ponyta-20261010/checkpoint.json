@@ -1,0 +1,181 @@
+{
+  "character": "포니타",
+  "status": "9/9 generated; main update approval pending",
+  "anchor": {
+    "slot": "light",
+    "original": "/workspace/scratch/f1a46ee39be3/generated_images/exec-b7cb57a4-f89c-4a09-a8dd-a4d3aba728fb.png",
+    "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Ponyta (포니타), fire type.\n\nPALETTE: cream, gray.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Ponyta as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the short crest becomes a crest-shaped headpiece; the additional flames become flame-shaped trim and glow lines; the triangular ears become a headpiece or hair ornament of the same shape.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On a windswept golden grassland at sunset, a graceful balanced forward step on a dirt track, face toward camera and both hands relaxed open at sides. Warm backlight and a restrained trail of embers behind her.\nNote: 1024x1536 portrait. No weapons. Human adult woman with exactly two arms, two legs and five anatomical fingers per hand. Ponyta fire appears as flame-shaped collar trim, glowing orange lines and a flowing belt sash, never a literal horse body.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+    "filename": "포니타_light_glossy_promo_f.webp",
+    "references": [],
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "6c06dde70a22edd8f7106b0f4593e531e44a832ad5ca789555abf158e8b5e83a",
+    "converted": "/workspace/scratch/f1a46ee39be3/pkm-atelier-img/img/포니타_light_glossy_promo_f.webp",
+    "original_sha256": "a1d970010b6d39e62bb7ab965547f2bc98108a3f53a0bcee9bd2fceb8dcb5442"
+  },
+  "imageRepository": "polos0117/pkm-atelier-img",
+  "codeRepository": "polos0117/pkm-atelier",
+  "mainRefUpdated": false,
+  "thumbnailsVerified": false,
+  "registrationVerified": false,
+  "assets": [
+    {
+      "slot": "light",
+      "original": "/workspace/scratch/f1a46ee39be3/generated_images/exec-b7cb57a4-f89c-4a09-a8dd-a4d3aba728fb.png",
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Ponyta (포니타), fire type.\n\nPALETTE: cream, gray.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Ponyta as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the short crest becomes a crest-shaped headpiece; the additional flames become flame-shaped trim and glow lines; the triangular ears become a headpiece or hair ornament of the same shape.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On a windswept golden grassland at sunset, a graceful balanced forward step on a dirt track, face toward camera and both hands relaxed open at sides. Warm backlight and a restrained trail of embers behind her.\nNote: 1024x1536 portrait. No weapons. Human adult woman with exactly two arms, two legs and five anatomical fingers per hand. Ponyta fire appears as flame-shaped collar trim, glowing orange lines and a flowing belt sash, never a literal horse body.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "filename": "포니타_light_glossy_promo_f.webp",
+      "references": [],
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "6c06dde70a22edd8f7106b0f4593e531e44a832ad5ca789555abf158e8b5e83a",
+      "converted": "/workspace/scratch/f1a46ee39be3/pkm-atelier-img/img/포니타_light_glossy_promo_f.webp",
+      "original_sha256": "a1d970010b6d39e62bb7ab965547f2bc98108a3f53a0bcee9bd2fceb8dcb5442"
+    },
+    {
+      "slot": "heavy",
+      "original": "/workspace/scratch/f1a46ee39be3/generated_images/exec-a04c2e92-7de2-494f-8dc2-5e28b67b18ca.png",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Ponyta (포니타), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On the golden grassland track at sunset, a solid planted stance with both feet visible and arms lowered apart, face toward camera. Warm rim light and subtle embers behind her.\nNote: 1024x1536 portrait. No weapons. Human adult woman with exactly two arms, two legs and five anatomical fingers per hand. Ponyta fire appears as flame-shaped collar trim, glowing orange lines and a flowing belt sash, never a literal horse body.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "filename": "포니타_heavy_glossy_promo_f.webp",
+      "references": [
+        "/workspace/scratch/f1a46ee39be3/generated_images/exec-b7cb57a4-f89c-4a09-a8dd-a4d3aba728fb.png"
+      ],
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "5e1482f035217d098c55cbf2351bc251e551800bd744fd4cc13a0937d81179bb",
+      "converted": "/workspace/scratch/f1a46ee39be3/pkm-atelier-img/img/포니타_heavy_glossy_promo_f.webp",
+      "original_sha256": "d2b78b737701f6eaa197f35953a13db6f091cf4b37f2c0c2e9f0389cfb97ebc4"
+    },
+    {
+      "slot": "mobility",
+      "original": "/workspace/scratch/f1a46ee39be3/generated_images/exec-7fbed4be-84ef-4c5a-9842-74c274b93b15.png",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Ponyta (포니타), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On the grassland dirt track at sunset, a quick forward cross-step with both boots inside frame, face toward camera and hands relaxed apart at sides. Restrained warm sparks behind the swept panels.\nNote: 1024x1536 portrait. No weapons. Human adult woman with exactly two arms, two legs and five anatomical fingers per hand. Ponyta fire appears as flame-shaped collar trim, glowing orange lines and a flowing belt sash, never a literal horse body.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "filename": "포니타_mobility_glossy_promo_f.webp",
+      "references": [
+        "/workspace/scratch/f1a46ee39be3/generated_images/exec-b7cb57a4-f89c-4a09-a8dd-a4d3aba728fb.png"
+      ],
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "dc2fd039a790abaaabadcbfedf43b7c58eaa1a845b155a57c32133a5377e4bfe",
+      "converted": "/workspace/scratch/f1a46ee39be3/pkm-atelier-img/img/포니타_mobility_glossy_promo_f.webp",
+      "original_sha256": "0d3c05ac966ad1857a4d97058d0a68abdcce4f2cffe7c2616e35143a20056a73"
+    },
+    {
+      "slot": "light_overdrive",
+      "original": "/workspace/scratch/f1a46ee39be3/generated_images/exec-c3877c74-60bb-41bc-a2ac-c698cc2ed108.png",
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Ponyta (포니타), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536 portrait. No weapons. Human adult woman with exactly two arms, two legs and five anatomical fingers per hand. Ponyta fire appears as flame-shaped collar trim, glowing orange lines and a flowing belt sash, never a literal horse body.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "filename": "포니타_light_overdrive_glossy_promo_f.webp",
+      "references": [
+        "/workspace/scratch/f1a46ee39be3/generated_images/exec-b7cb57a4-f89c-4a09-a8dd-a4d3aba728fb.png"
+      ],
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "6c1395f8dadac511323b3370f99c55a46e8376bb19d62bb020f89f6aebd07265",
+      "converted": "/workspace/scratch/f1a46ee39be3/pkm-atelier-img/img/포니타_light_overdrive_glossy_promo_f.webp",
+      "original_sha256": "a14594d35ada276064a442e3594fd92edb20c02b10c07822ff97079d0caecc11"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "original": "/workspace/scratch/f1a46ee39be3/generated_images/exec-b0ea7c94-b282-4f1e-b4cb-c5329e01213f.png",
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Ponyta (포니타), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536 portrait. No weapons. Human adult woman with exactly two arms, two legs and five anatomical fingers per hand. Ponyta fire appears as flame-shaped collar trim, glowing orange lines and a flowing belt sash, never a literal horse body.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "filename": "포니타_heavy_overdrive_glossy_promo_f.webp",
+      "references": [
+        "/workspace/scratch/f1a46ee39be3/generated_images/exec-a04c2e92-7de2-494f-8dc2-5e28b67b18ca.png",
+        "/workspace/scratch/f1a46ee39be3/generated_images/exec-b7cb57a4-f89c-4a09-a8dd-a4d3aba728fb.png"
+      ],
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "6a3b8af6be81d52aa434240aa9c334b12cae3c9ca0b549d0e6e6c50bac82095d",
+      "converted": "/workspace/scratch/f1a46ee39be3/pkm-atelier-img/img/포니타_heavy_overdrive_glossy_promo_f.webp",
+      "original_sha256": "65658d22b28c644389d57da1ba1ec160792c6ff4923c6dcbbb6666e70c034e13"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "original": "/workspace/scratch/f1a46ee39be3/generated_images/exec-8ab49670-6752-420b-ab6d-a52fc9ce8588.png",
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Ponyta (포니타), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and an orange-red fire glow with embers and heat haze shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536 portrait. No weapons. Human adult woman with exactly two arms, two legs and five anatomical fingers per hand. Ponyta fire appears as flame-shaped collar trim, glowing orange lines and a flowing belt sash, never a literal horse body.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "filename": "포니타_mobility_overdrive_glossy_promo_f.webp",
+      "references": [
+        "/workspace/scratch/f1a46ee39be3/generated_images/exec-7fbed4be-84ef-4c5a-9842-74c274b93b15.png",
+        "/workspace/scratch/f1a46ee39be3/generated_images/exec-b7cb57a4-f89c-4a09-a8dd-a4d3aba728fb.png"
+      ],
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4b7dd35a54b85e3fc26ce34ad95b3ed28ee831c25b03fbdec303fdf7486aa506",
+      "converted": "/workspace/scratch/f1a46ee39be3/pkm-atelier-img/img/포니타_mobility_overdrive_glossy_promo_f.webp",
+      "original_sha256": "b7b01ad4c8125be5f59c56ed7dac9512beac303b620d6b632a528b818b7d34a2"
+    },
+    {
+      "slot": "casual1",
+      "original": "/workspace/scratch/f1a46ee39be3/generated_images/exec-8da4c373-4c3e-41cc-88af-402dfd950143.png",
+      "prompt": "CHARACTER: the same woman as the attached image — Ponyta (포니타) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids\nPose: Perch on a low ledge or bench with the feet resting naturally below.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: At a quiet sunlit indoor lap pool, perched on the tiled pool edge with both legs lowered into the clear water. A folded towel lies beside her and sunlight reflects on pale blue tiles. Resting between swimming laps, no other people.\nOutfit and props: Cream and coral-orange opaque asymmetrical one-piece swimsuit with a secure diagonal neckline and a side waist cutout, small flame-shaped hair clip, no gloves or footwear. Practical contemporary swimwear with bare arms and legs, no armor.\nCategory: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.\nNote: Vertical 2:3, 1024x1536. Same clearly adult woman. Both hands rest separately on the dry pool edge with five natural fingers each. Fully opaque swimwear, no weapon, text or logo.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "filename": "포니타_glossy_promo_f_casual1.webp",
+      "references": [
+        "/workspace/scratch/f1a46ee39be3/generated_images/exec-b7cb57a4-f89c-4a09-a8dd-a4d3aba728fb.png"
+      ],
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "09a0b01aa54ec9eed5e4149d8a8b7c4333c3f07a7e366d1aa95137d6080977e2",
+      "converted": "/workspace/scratch/f1a46ee39be3/pkm-atelier-img/img/포니타_glossy_promo_f_casual1.webp",
+      "original_sha256": "6aa8d13817f6c77897638f14be8c1b7b6370dcc2157216453de30f7e81b4b7da"
+    },
+    {
+      "slot": "casual2",
+      "original": "/workspace/scratch/f1a46ee39be3/generated_images/exec-4a98efaf-24da-48a4-bb8f-406486a5d3fa.png",
+      "prompt": "CHARACTER: the same woman as the attached image — Ponyta (포니타) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: gaze angled down and away, slightly furrowed brow, lips lightly pressed or touched\nPose: Hold an open book with readable finger placement and look toward its pages.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: In a quiet vintage bookshop beside a tall arched window on a cloudy afternoon, standing in side profile while reading an open unlettered illustrated book held at mid-torso. Walnut shelves, softly worn books and warm table lamp, no other people.\nOutfit and props: Cream sleeveless rib-knit cropped wrap top with a securely closed low V neckline and terracotta high-waisted pleated short skirt, tiny flame pendant and simple reading glasses resting on the top of her head. Bare shoulders and a modest strip of midriff. Ordinary contemporary separates, no armor or gloves.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: Vertical 2:3, 1024x1536. Same clearly adult woman. Two natural hands supporting opposite edges of the book, each with five fingers. Book pages and spines have no readable text; no weapon or logo.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "filename": "포니타_glossy_promo_f_casual2.webp",
+      "references": [
+        "/workspace/scratch/f1a46ee39be3/generated_images/exec-b7cb57a4-f89c-4a09-a8dd-a4d3aba728fb.png"
+      ],
+      "repairPrompt": "Edit only the camera framing of this same image into a true waist-up portrait. Keep the exact same adult woman, face, hair, side-profile reading pose, two hands and open book, outfit, lighting and bookshop. Zoom the camera in so the top of her head has a small margin and the bottom frame cuts at her waist / skirt waistband, with no thighs or legs visible. Keep both hands and the entire book inside the image by allowing room on the right. 1024x1536 vertical 2:3. Preserve natural adult proportions. No added anatomy, extra fingers, text or new props. Do not change the expression or wardrobe.",
+      "repairInput": "/workspace/scratch/f1a46ee39be3/generated_images/exec-a1812f0b-2b58-42c7-a461-93e3a14b303e.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "a3c58cae796b40506e5dd62efee1831875c53a2aaa6cf89f7deeb8f651f1c1b6",
+      "converted": "/workspace/scratch/f1a46ee39be3/pkm-atelier-img/img/포니타_glossy_promo_f_casual2.webp",
+      "original_sha256": "d82ddfa1ada1a9b7f5cf964a021d7b783f31c2e9ef8e1fcace23fb636b437445"
+    },
+    {
+      "slot": "casual3",
+      "original": "/workspace/scratch/f1a46ee39be3/generated_images/exec-741c1556-5c8b-4936-8b4f-a006784ad6db.png",
+      "prompt": "CHARACTER: the same woman as the attached image — Ponyta (포니타) personified, fire type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed\nPose: Rise slightly onto the toes to reach a higher object without changing limb proportions.\nOrientation: camera below subject looking upward; obey selected framing\nScene: In a tranquil stone courtyard during a lantern festival at blue hour, rising lightly onto tiptoe to hook a small unlettered paper lantern onto a low wooden hanging rack. One hand holds the lantern handle, the other rests naturally at her side. Warm lanterns and tiled roofs, no other people.\nOutfit and props: Contemporary hanbok-inspired two-piece fashion: opaque ivory sleeveless cropped wrap jeogori with secure crossed front, coral-red high-waisted flowing wrap skirt with a restrained side opening, narrow saffron ribbon and small flame-shaped hair pin. Bare shoulders, arms and a small midriff gap, lightweight fabric, no armor or gloves.\nCategory: This cut is built around traditional dress drawn from the character's own ethnic background. Use either authentic formal traditional clothing or a modernised everyday interpretation of it, as specified by the example. Keep the garment structure, layering logic, fastening, and silhouette faithful to that tradition rather than generic orientalism or costume-shop pastiche. Colours may follow the source creature, but the construction must remain true to the tradition. Place the character in a setting where such clothing is plausibly worn.\nNote: Vertical 2:3, 1024x1536. Same clearly adult woman. Two human hands with five separate anatomical fingers each; lantern held by its handle with an easy open grip, no hidden additional fingers. No readable text, logo or weapon.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "filename": "포니타_glossy_promo_f_casual3.webp",
+      "references": [
+        "/workspace/scratch/f1a46ee39be3/generated_images/exec-b7cb57a4-f89c-4a09-a8dd-a4d3aba728fb.png"
+      ],
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "101faa7be214ec4ae9c22a73ebc31dbf78e3dfee4b7a411e7de0bbee18bbd626",
+      "converted": "/workspace/scratch/f1a46ee39be3/pkm-atelier-img/img/포니타_glossy_promo_f_casual3.webp",
+      "original_sha256": "f39d03d13d2cf41855cfc07ef12f84a9a6b021714977114c7162420c019c3762"
+    }
+  ]
+}

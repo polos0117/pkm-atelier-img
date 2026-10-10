@@ -1,0 +1,73 @@
+{
+  "character": "포니타",
+  "comparison": [
+    "꼬마돌",
+    "데구리",
+    "딱구리"
+  ],
+  "diversity": "indoor pool resting / vintage bookshop reading / lantern courtyard traditional fashion; mandatory swimwear rotated after roleplay and lingerie",
+  "actual_casual_settings": [
+    {
+      "mech": "포니타",
+      "sourceName": "Ponyta",
+      "series": "fire",
+      "style": "glossy_promo",
+      "cat": "swimwear",
+      "expr": "soft_smile",
+      "pose": "perched_seat",
+      "orient": "front_3q",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "At a quiet sunlit indoor lap pool, perched on the tiled pool edge with both legs lowered into the clear water. A folded towel lies beside her and sunlight reflects on pale blue tiles. Resting between swimming laps, no other people.",
+      "outfit": "Cream and coral-orange opaque asymmetrical one-piece swimsuit with a secure diagonal neckline and a side waist cutout, small flame-shaped hair clip, no gloves or footwear. Practical contemporary swimwear with bare arms and legs, no armor.",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both hands rest separately on the dry pool edge with five natural fingers each. Fully opaque swimwear, no weapon, text or logo.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "aspect": "2:3"
+    },
+    {
+      "mech": "포니타",
+      "sourceName": "Ponyta",
+      "series": "fire",
+      "style": "glossy_promo",
+      "cat": "hobbies_leisure",
+      "expr": "pensive",
+      "pose": "reading_book",
+      "orient": "side",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "In a quiet vintage bookshop beside a tall arched window on a cloudy afternoon, standing in side profile while reading an open unlettered illustrated book held at mid-torso. Walnut shelves, softly worn books and warm table lamp, no other people.",
+      "outfit": "Cream sleeveless rib-knit cropped wrap top with a securely closed low V neckline and terracotta high-waisted pleated short skirt, tiny flame pendant and simple reading glasses resting on the top of her head. Bare shoulders and a modest strip of midriff. Ordinary contemporary separates, no armor or gloves.",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Two natural hands supporting opposite edges of the book, each with five fingers. Book pages and spines have no readable text; no weapon or logo.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "aspect": "2:3"
+    },
+    {
+      "mech": "포니타",
+      "sourceName": "Ponyta",
+      "series": "fire",
+      "style": "glossy_promo",
+      "cat": "traditional",
+      "expr": "amused",
+      "pose": "on_tiptoe",
+      "orient": "low_angle",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "In a tranquil stone courtyard during a lantern festival at blue hour, rising lightly onto tiptoe to hook a small unlettered paper lantern onto a low wooden hanging rack. One hand holds the lantern handle, the other rests naturally at her side. Warm lanterns and tiled roofs, no other people.",
+      "outfit": "Contemporary hanbok-inspired two-piece fashion: opaque ivory sleeveless cropped wrap jeogori with secure crossed front, coral-red high-waisted flowing wrap skirt with a restrained side opening, narrow saffron ribbon and small flame-shaped hair pin. Bare shoulders, arms and a small midriff gap, lightweight fabric, no armor or gloves.",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Two human hands with five separate anatomical fingers each; lantern held by its handle with an easy open grip, no hidden additional fingers. No readable text, logo or weapon.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "aspect": "2:3"
+    }
+  ],
+  "anchor": "img/포니타_light_glossy_promo_f.webp",
+  "status": "9/9 generated and validated; default main branch update blocked by automatic approval review; thumbnails and registration pending"
+}

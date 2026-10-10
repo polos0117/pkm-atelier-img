@@ -1,0 +1,20 @@
+{
+  "mech": "포니타",
+  "sourceName": "Ponyta",
+  "series": "fire",
+  "style": "glossy_promo",
+  "cat": "traditional",
+  "expr": "amused",
+  "pose": "on_tiptoe",
+  "orient": "low_angle",
+  "frame": "three_quarter",
+  "lens": "natural50",
+  "scene": "In a tranquil stone courtyard during a lantern festival at blue hour, rising lightly onto tiptoe to hook a small unlettered paper lantern onto a low wooden hanging rack. One hand holds the lantern handle, the other rests naturally at her side. Warm lanterns and tiled roofs, no other people.",
+  "outfit": "Contemporary hanbok-inspired two-piece fashion: opaque ivory sleeveless cropped wrap jeogori with secure crossed front, coral-red high-waisted flowing wrap skirt with a restrained side opening, narrow saffron ribbon and small flame-shaped hair pin. Bare shoulders, arms and a small midriff gap, lightweight fabric, no armor or gloves.",
+  "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Two human hands with five separate anatomical fingers each; lantern held by its handle with an easy open grip, no hidden additional fingers. No readable text, logo or weapon.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "aspect": "2:3"
+}

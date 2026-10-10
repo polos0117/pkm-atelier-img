@@ -1,0 +1,20 @@
+{
+  "mech": "포니타",
+  "sourceName": "Ponyta",
+  "series": "fire",
+  "style": "glossy_promo",
+  "cat": "swimwear",
+  "expr": "soft_smile",
+  "pose": "perched_seat",
+  "orient": "front_3q",
+  "frame": "full_body",
+  "lens": "documentary35",
+  "scene": "At a quiet sunlit indoor lap pool, perched on the tiled pool edge with both legs lowered into the clear water. A folded towel lies beside her and sunlight reflects on pale blue tiles. Resting between swimming laps, no other people.",
+  "outfit": "Cream and coral-orange opaque asymmetrical one-piece swimsuit with a secure diagonal neckline and a side waist cutout, small flame-shaped hair clip, no gloves or footwear. Practical contemporary swimwear with bare arms and legs, no armor.",
+  "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both hands rest separately on the dry pool edge with five natural fingers each. Fully opaque swimwear, no weapon, text or logo.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "aspect": "2:3"
+}
