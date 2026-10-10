@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Slowbro (야도란) personified, water / psychic type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: soft distant gaze past the camera, faint wistful half-smile, brows gently raised at the inner ends
+Pose: Sit on a mat with both legs folded to one side and a relaxed upright torso.
+Orientation: seated with supported pelvis and a natural torso twist
+Scene: In a quiet apartment music room at blue hour, sitting sideways on a low velvet sofa and turning toward a vintage record player while lifting a pair of over-ear headphones at chest height with both hands. Unlettered vinyl sleeves, warm brass lamp, deep blue window glow.
+Outfit and props: Plum satin halter-neck midi slip dress with a securely closed gathered neckline, open shoulders and a restrained side slit, cream low heels, tiny spiral pendant. Soft flowing fabric, bare arms and part of legs, no armor.
+Category: Create mature private evening fashion scenes with intimate but non-explicit atmosphere. Use elegant, attractive, clearly adult styling, confident body language, and believable private-life context.
+Note: Vertical 2:3 1024x1536. Same adult woman, same haircut. Both hands have five distinct natural fingers. Remove all shell mantle, head armor, gauntlets and armor. Species appears only as a tiny accessory or color echo, no weapons, text or logos. Large curled ear ornaments are armor, not hair; remove them completely and replace with natural hair. Tiny spiral jewelry only.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

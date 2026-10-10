@@ -1,0 +1,18 @@
+{
+  "cat": "occupation_basic",
+  "expr": "focused",
+  "pose": "standing_formal",
+  "orient": "looking_down",
+  "frame": "waist_up",
+  "lens": "portrait85",
+  "scene": "In a sunlit coastal museum conservation studio at midday, standing at a broad workbench and sorting empty shell specimens into an unlettered padded tray. One open hand guides a small shell into a compartment while the other rests separately on the bench. Cool diffuse skylight and pale wooden cabinets, no other people.",
+  "outfit": "Cream sleeveless button-front blouse securely closed with a low square collar, charcoal tailored high-waisted shorts and a narrow mauve waist apron for museum conservation. Bare shoulders arms and legs, tiny spiral enamel brooch; ordinary professional summer clothing, no armor.",
+  "mech": "야도란",
+  "outputMode": "casual",
+  "aspect": "2:3",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "custom": "Vertical 2:3 1024x1536. Same adult woman, same haircut. Both hands have five distinct natural fingers. Remove all shell mantle, head armor, gauntlets and armor. Species appears only as a tiny accessory or color echo, no weapons, text or logos. Large curled ear ornaments are armor, not hair; remove them completely and replace with natural hair. Tiny spiral jewelry only."
+}

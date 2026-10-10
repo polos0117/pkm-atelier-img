@@ -1,0 +1,18 @@
+{
+  "cat": "swimwear",
+  "expr": "relieved",
+  "pose": "standing_relaxed",
+  "orient": "front_3q",
+  "frame": "full_body",
+  "lens": "documentary35",
+  "scene": "At an open-air seaside rinse station after a morning swim, standing barefoot on a clean stone grate and rinsing salt from both open palms under a gentle water stream. Sea cliffs and bright early sunlight in the distance. Complete head and feet visible, no other people.",
+  "outfit": "Fully lined rose and charcoal athletic two-piece swimsuit: secure scoop-neck racerback top with broad straps and high-waisted opaque swim briefs. Bare shoulders, arms, midriff and legs; tiny spiral stud earrings, no cover-up or armor.",
+  "mech": "야도란",
+  "outputMode": "casual",
+  "aspect": "2:3",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "custom": "Vertical 2:3 1024x1536. Same adult woman, same haircut. Both hands have five distinct natural fingers. Remove all shell mantle, head armor, gauntlets and armor. Species appears only as a tiny accessory or color echo, no weapons, text or logos."
+}

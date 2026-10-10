@@ -1,0 +1,16 @@
+{
+  "original": "/workspace/scratch/59c4759ac156/generated_images/exec-eb4ee30b-daf0-48ae-889e-07a8332d2cc0.png",
+  "card": "야도란",
+  "slot": "casual3",
+  "style": "glossy_promo",
+  "basis": "actual generator UI selections and verified prompt",
+  "reference": "/workspace/scratch/59c4759ac156/generated_images/exec-cb557f97-e388-4f5a-bbff-70e94a1b8058.png",
+  "output": "/workspace/scratch/59c4759ac156/pkm-atelier-img/img/야도란_glossy_promo_f_casual3.webp",
+  "size": [
+    1024,
+    1536
+  ],
+  "format": "WEBP",
+  "sha256": "d909503fff7d740fdc02fe4841e14a09481fe99b55496536d9cbc201e336961d",
+  "review": "single adult identity, five-digit hands, required form or varied casual scene reviewed"
+}
