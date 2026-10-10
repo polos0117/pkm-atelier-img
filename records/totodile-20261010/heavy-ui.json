@@ -1,0 +1,30 @@
+{
+  "mech": "리아코",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ],
+    [
+      "body type",
+      "athletic"
+    ],
+    [
+      "hair color",
+      "blue"
+    ],
+    [
+      "hairstyle",
+      "high ponytail"
+    ],
+    [
+      "eye color",
+      "amber"
+    ]
+  ],
+  "scene": "On the same riverfront training deck. Upright braced stance with both hands relaxed open beside her, face toward camera, full head and boots visible.",
+  "custom": "Vertical 2:3, 1024x1536. Clearly adult woman in her twenties. No weapon.",
+  "motifs": "",
+  "identityMode": "reference",
+  "form": "heavy"
+}

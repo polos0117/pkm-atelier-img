@@ -1,0 +1,19 @@
+{
+  "cat": "occupation_basic",
+  "expr": "focused",
+  "pose": "watering",
+  "orient": "side",
+  "frame": "waist_up",
+  "lens": "portrait85",
+  "scene": "In a berry propagation greenhouse during soft rainy morning light, carefully tipping a small copper watering can toward seedlings on a raised bench. Side profile with both hands separated and visible, diffuse glass roof light and green rows.",
+  "outfit": "Pale-yellow sleeveless wrap work blouse securely tied at the side, blue high-waist utility trousers below the crop, bare arms and a small waist gap; tiny red enamel bracelet.",
+  "mech": "리아코",
+  "outputMode": "casual",
+  "motifs": "",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman and haircut. Both hands have exactly five separate natural fingers. No armor, weapons, text, logos or other people."
+}

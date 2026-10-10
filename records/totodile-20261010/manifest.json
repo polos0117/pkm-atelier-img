@@ -1,0 +1,182 @@
+[
+  {
+    "slot": "light",
+    "source": "/workspace/scratch/bd9e60c00184/generated_images/exec-194f3a12-4907-45d3-9c3e-081596403bd4.png",
+    "refs": [
+      "light"
+    ],
+    "card": "리아코",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selected; prompt FNV hash matched repository engine output",
+    "output": "/workspace/scratch/bd9e60c00184/pkm-atelier-img/img/리아코_light_glossy_promo_f.webp",
+    "filename": "리아코_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "d1e10154b6d1f538c8991afb006b4212c2b6e6f4ef878641fd87283a46fea80a",
+    "source_sha256": "1d2e055e7e91c77aa4131e58cd9b9f6fbf59364463a69fa601a8f4c82b22cdb2",
+    "review": "Visually inspected: identity, full body forms, five digit hands, no text or weapons; casual scenes have distinct locations, tasks, outfits and camera settings"
+  },
+  {
+    "slot": "heavy",
+    "source": "/workspace/scratch/bd9e60c00184/generated_images/exec-d1cdca4f-5424-4d69-8ad0-f4d5fe2d23b8.png",
+    "refs": [
+      "light"
+    ],
+    "card": "리아코",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selected; prompt FNV hash matched repository engine output",
+    "output": "/workspace/scratch/bd9e60c00184/pkm-atelier-img/img/리아코_heavy_glossy_promo_f.webp",
+    "filename": "리아코_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "7667499585393e4e6a5efd48b96fb2d7322ee3f3ab8301a7a721de636c118485",
+    "source_sha256": "a1d726c7ea0dd541e98b85132d6d1a57027aecf4bb86eb4a1a64392447503b27",
+    "review": "Visually inspected: identity, full body forms, five digit hands, no text or weapons; casual scenes have distinct locations, tasks, outfits and camera settings"
+  },
+  {
+    "slot": "mobility",
+    "source": "/workspace/scratch/bd9e60c00184/generated_images/exec-ad237b7b-8d0d-4db5-aec7-48e0c2e4083b.png",
+    "refs": [
+      "light"
+    ],
+    "card": "리아코",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selected; prompt FNV hash matched repository engine output",
+    "output": "/workspace/scratch/bd9e60c00184/pkm-atelier-img/img/리아코_mobility_glossy_promo_f.webp",
+    "filename": "리아코_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "35cea566b9ca035bcae6af9759d759ef7fc3a482f8b59dbed694c4367097bd5b",
+    "source_sha256": "852907297e253d506a19443b98de926415ae40947d4143eda9159071f59bd9ca",
+    "review": "Visually inspected: identity, full body forms, five digit hands, no text or weapons; casual scenes have distinct locations, tasks, outfits and camera settings"
+  },
+  {
+    "slot": "light_overdrive",
+    "source": "/workspace/scratch/bd9e60c00184/generated_images/exec-1fa49ecf-3574-48ae-95b6-8623a31c847d.png",
+    "refs": [
+      "light"
+    ],
+    "card": "리아코",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selected; prompt FNV hash matched repository engine output",
+    "output": "/workspace/scratch/bd9e60c00184/pkm-atelier-img/img/리아코_light_overdrive_glossy_promo_f.webp",
+    "filename": "리아코_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "8e300323bc0d7cf08c2ad968b3399a3268762d6d2553e154512ec509714c6c87",
+    "source_sha256": "7bd9ac2b80e18e37e91507ab59a02e45d9fc8e01eff765893c9e0392e38b1105",
+    "review": "Visually inspected: identity, full body forms, five digit hands, no text or weapons; casual scenes have distinct locations, tasks, outfits and camera settings"
+  },
+  {
+    "slot": "heavy_overdrive",
+    "source": "/workspace/scratch/bd9e60c00184/generated_images/exec-efa754d8-f1f8-4ee0-a841-197b4bda4258.png",
+    "refs": [
+      "heavy"
+    ],
+    "card": "리아코",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selected; prompt FNV hash matched repository engine output",
+    "output": "/workspace/scratch/bd9e60c00184/pkm-atelier-img/img/리아코_heavy_overdrive_glossy_promo_f.webp",
+    "filename": "리아코_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "316b9138fcc64c1bfd532a38217d76e24133b02a6f1142f1c256506de4b3d9d3",
+    "source_sha256": "729313e1fb0d1322bfc9ba4df5455660e15a67c2cfe117c87f18b1d69a9a1da4",
+    "review": "Visually inspected: identity, full body forms, five digit hands, no text or weapons; casual scenes have distinct locations, tasks, outfits and camera settings"
+  },
+  {
+    "slot": "mobility_overdrive",
+    "source": "/workspace/scratch/bd9e60c00184/generated_images/exec-88f268c7-338b-42c7-bb59-94aa2d1c877e.png",
+    "refs": [
+      "mobility"
+    ],
+    "card": "리아코",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selected; prompt FNV hash matched repository engine output",
+    "output": "/workspace/scratch/bd9e60c00184/pkm-atelier-img/img/리아코_mobility_overdrive_glossy_promo_f.webp",
+    "filename": "리아코_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "e30e92bb119e50dc39bee557a325968c5bb13bc26bff3f979c4a244ef151dbb3",
+    "source_sha256": "247b413a73373d6bd895547816974f73a1d98311f09770054777b1c4a9bcc05a",
+    "review": "Visually inspected: identity, full body forms, five digit hands, no text or weapons; casual scenes have distinct locations, tasks, outfits and camera settings"
+  },
+  {
+    "slot": "casual1",
+    "source": "/workspace/scratch/bd9e60c00184/generated_images/exec-df8f34c9-4685-44e7-8422-02e6e9641bb5.png",
+    "refs": [
+      "light"
+    ],
+    "card": "리아코",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selected; prompt FNV hash matched repository engine output",
+    "output": "/workspace/scratch/bd9e60c00184/pkm-atelier-img/img/리아코_glossy_promo_f_casual1.webp",
+    "filename": "리아코_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "624335c585280da1b2b86ace7f0caf3c599a88676ad88179d12a9f33e681fa3e",
+    "source_sha256": "9382af66afbf54ebe13201a297808ae5b1e6e0d59a0f94b47ccd69d5242395eb",
+    "review": "Visually inspected: identity, full body forms, five digit hands, no text or weapons; casual scenes have distinct locations, tasks, outfits and camera settings"
+  },
+  {
+    "slot": "casual2",
+    "source": "/workspace/scratch/bd9e60c00184/generated_images/exec-812db52b-8a1b-41a1-8146-7606a155ed46.png",
+    "refs": [
+      "light"
+    ],
+    "card": "리아코",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selected; prompt FNV hash matched repository engine output",
+    "output": "/workspace/scratch/bd9e60c00184/pkm-atelier-img/img/리아코_glossy_promo_f_casual2.webp",
+    "filename": "리아코_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "38739bba359c9de8fb6a811288b88ab1c3187a3874ce72e27932e3001a0b5b8e",
+    "source_sha256": "dd178d2975f30724c296358ef9a70f7e3810adf57523f95600ac6e105e2173e9",
+    "review": "Visually inspected: identity, full body forms, five digit hands, no text or weapons; casual scenes have distinct locations, tasks, outfits and camera settings"
+  },
+  {
+    "slot": "casual3",
+    "source": "/workspace/scratch/bd9e60c00184/generated_images/exec-5517354e-1142-4173-8162-668240708131.png",
+    "refs": [
+      "light"
+    ],
+    "card": "리아코",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selected; prompt FNV hash matched repository engine output",
+    "output": "/workspace/scratch/bd9e60c00184/pkm-atelier-img/img/리아코_glossy_promo_f_casual3.webp",
+    "filename": "리아코_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "d5bde8586a25ec91b23dea8e78e4a3898c514993f28d3e99bb25fc3ba9a314d1",
+    "source_sha256": "a718167a7c888a8333f2af197fb17310c852ed03b3ffd51671dc7095383823eb",
+    "review": "Visually inspected: identity, full body forms, five digit hands, no text or weapons; casual scenes have distinct locations, tasks, outfits and camera settings"
+  }
+]

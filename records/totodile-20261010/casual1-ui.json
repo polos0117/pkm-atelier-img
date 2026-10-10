@@ -1,0 +1,19 @@
+{
+  "cat": "lingerie",
+  "expr": "amused",
+  "pose": "sitting_floor",
+  "orient": "seated_twist",
+  "frame": "three_quarter",
+  "lens": "natural50",
+  "scene": "At night in a warm sunken listening lounge, sitting on a floor cushion with torso turned naturally toward a low cabinet while sorting unlettered vinyl record sleeves. One hand supports a sleeve, the other open on the cushion; amber wall lamps and cool moonlight.",
+  "outfit": "Opaque lined blue satin longline camisole with slim secure straps and tailored ivory tap shorts, a tiny red triangular pendant. Bare shoulders, arms and legs, full chest and pelvis coverage, relaxed adult lingerie-inspired fashion.",
+  "mech": "리아코",
+  "outputMode": "casual",
+  "motifs": "",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman and haircut. Both hands have exactly five separate natural fingers. No armor, weapons, text, logos or other people."
+}

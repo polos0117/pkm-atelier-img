@@ -1,0 +1,19 @@
+{
+  "cat": "swimwear",
+  "expr": "mischievous",
+  "pose": "one_knee_up",
+  "orient": "high_angle",
+  "frame": "full_body",
+  "lens": "documentary35",
+  "scene": "At an indoor artificial surf practice hall on a sunny afternoon, seated with one knee raised on a dry padded platform while rubbing a broad wax block on a board laid flat beside her. Other hand open on the platform. High camera angle includes entire body, hands and feet, blue wave lane in background.",
+  "outfit": "Fully lined turquoise sporty two-piece swimsuit: secure zip-front high-neck racerback top and opaque high-waisted swim shorts, red trim, bare arms midriff and legs. Small pale-yellow wristband; no armor.",
+  "mech": "리아코",
+  "outputMode": "casual",
+  "motifs": "",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "aspect": "2:3",
+  "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman and haircut. Both hands have exactly five separate natural fingers. No armor, weapons, text, logos or other people."
+}

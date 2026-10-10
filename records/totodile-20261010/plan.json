@@ -1,0 +1,68 @@
+{
+  "recent_comparison": [
+    "꼬마돌",
+    "독파리",
+    "왕눈해"
+  ],
+  "comparison_source": "Remote main plan.json read for all three characters",
+  "changes": "Vinyl sorting, seedling watering and indoor surfboard waxing differ in location, activity, clothing silhouette and camera from recent plans",
+  "casual": [
+    {
+      "cat": "lingerie",
+      "expr": "amused",
+      "pose": "sitting_floor",
+      "orient": "seated_twist",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "At night in a warm sunken listening lounge, sitting on a floor cushion with torso turned naturally toward a low cabinet while sorting unlettered vinyl record sleeves. One hand supports a sleeve, the other open on the cushion; amber wall lamps and cool moonlight.",
+      "outfit": "Opaque lined blue satin longline camisole with slim secure straps and tailored ivory tap shorts, a tiny red triangular pendant. Bare shoulders, arms and legs, full chest and pelvis coverage, relaxed adult lingerie-inspired fashion.",
+      "mech": "리아코",
+      "outputMode": "casual",
+      "motifs": "",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "aspect": "2:3",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman and haircut. Both hands have exactly five separate natural fingers. No armor, weapons, text, logos or other people."
+    },
+    {
+      "cat": "occupation_basic",
+      "expr": "focused",
+      "pose": "watering",
+      "orient": "side",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "In a berry propagation greenhouse during soft rainy morning light, carefully tipping a small copper watering can toward seedlings on a raised bench. Side profile with both hands separated and visible, diffuse glass roof light and green rows.",
+      "outfit": "Pale-yellow sleeveless wrap work blouse securely tied at the side, blue high-waist utility trousers below the crop, bare arms and a small waist gap; tiny red enamel bracelet.",
+      "mech": "리아코",
+      "outputMode": "casual",
+      "motifs": "",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "aspect": "2:3",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman and haircut. Both hands have exactly five separate natural fingers. No armor, weapons, text, logos or other people."
+    },
+    {
+      "cat": "swimwear",
+      "expr": "mischievous",
+      "pose": "one_knee_up",
+      "orient": "high_angle",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "At an indoor artificial surf practice hall on a sunny afternoon, seated with one knee raised on a dry padded platform while rubbing a broad wax block on a board laid flat beside her. Other hand open on the platform. High camera angle includes entire body, hands and feet, blue wave lane in background.",
+      "outfit": "Fully lined turquoise sporty two-piece swimsuit: secure zip-front high-neck racerback top and opaque high-waisted swim shorts, red trim, bare arms midriff and legs. Small pale-yellow wristband; no armor.",
+      "mech": "리아코",
+      "outputMode": "casual",
+      "motifs": "",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "aspect": "2:3",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman and haircut. Both hands have exactly five separate natural fingers. No armor, weapons, text, logos or other people."
+    }
+  ]
+}
