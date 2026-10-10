@@ -1,0 +1,241 @@
+{
+  "status": "generated_reviewed_ready_for_upload",
+  "anchor": {
+    "card": "부우부",
+    "slot": "light",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+    "source": "/workspace/scratch/22e22f90189d/generated_images/exec-795091c5-bddf-4008-876e-5f75344d820f.png",
+    "source_sha256": "dd0eba24a0edd6e2629a2a398f91de293e534ca74c10e296de711ffc689f77fe",
+    "filename": "부우부_light_glossy_promo_f.webp",
+    "output": "/workspace/scratch/22e22f90189d/pkm-atelier-img/img/부우부_light_glossy_promo_f.webp",
+    "remote_path": "img/부우부_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "6a2cb5d28dca1ae0b2b97b196b06b3ecc0d944313868eb79ae6cfbd1835ab8ba",
+    "refs": []
+  },
+  "files": [
+    {
+      "card": "부우부",
+      "slot": "light",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-795091c5-bddf-4008-876e-5f75344d820f.png",
+      "source_sha256": "dd0eba24a0edd6e2629a2a398f91de293e534ca74c10e296de711ffc689f77fe",
+      "filename": "부우부_light_glossy_promo_f.webp",
+      "output": "/workspace/scratch/22e22f90189d/pkm-atelier-img/img/부우부_light_glossy_promo_f.webp",
+      "remote_path": "img/부우부_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "6a2cb5d28dca1ae0b2b97b196b06b3ecc0d944313868eb79ae6cfbd1835ab8ba",
+      "refs": []
+    },
+    {
+      "card": "부우부",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-cfa9de44-45bf-49de-8f45-3bb5b4ba8118.png",
+      "source_sha256": "107246ea30b2eb4a169aab88967056268e7f92b687b33ffe2e90512047bcfd96",
+      "filename": "부우부_heavy_glossy_promo_f.webp",
+      "output": "/workspace/scratch/22e22f90189d/pkm-atelier-img/img/부우부_heavy_glossy_promo_f.webp",
+      "remote_path": "img/부우부_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "0853aaf1dbec3f1d938c101cf87f1e360a963a8e97ea9e0e5cfb1fb945425ac5",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "부우부",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-2399692a-7be8-49da-96b7-e710603a76aa.png",
+      "source_sha256": "6fbe54edece6cf46d24a194d5d0d1db10db317607d1eeecc8aff807bf92093fe",
+      "filename": "부우부_mobility_glossy_promo_f.webp",
+      "output": "/workspace/scratch/22e22f90189d/pkm-atelier-img/img/부우부_mobility_glossy_promo_f.webp",
+      "remote_path": "img/부우부_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "18a099eb95f4c44ff7efaab9c5556c47319ee2f94ec349690a6511bb1d6012cf",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "부우부",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-bb89076f-a889-4034-9756-1378d55a598d.png",
+      "source_sha256": "890c50ea9364b011a14087334f71ad11d88be0c3368bfeff5819ba504a02f24c",
+      "filename": "부우부_light_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/22e22f90189d/pkm-atelier-img/img/부우부_light_overdrive_glossy_promo_f.webp",
+      "remote_path": "img/부우부_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "75cc4139bf08acc77317fa72f13b83aa2b1a3cbf2528214239d2882a88870099",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "부우부",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-a12d809e-4d55-4e63-a83d-d39440b6826c.png",
+      "source_sha256": "1e346d008dc9d86f7155bff0e2d991c18ee7d795a54aa7ac2e00a5842b9c095d",
+      "filename": "부우부_heavy_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/22e22f90189d/pkm-atelier-img/img/부우부_heavy_overdrive_glossy_promo_f.webp",
+      "remote_path": "img/부우부_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "0acd5bf0ab42e86db1a6f5c6e35ff56b1ef6bee7a605a23944c29638fc2b3fe3",
+      "refs": [
+        "heavy",
+        "light"
+      ]
+    },
+    {
+      "card": "부우부",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-016303cb-5c44-4520-9adc-2b98f0249765.png",
+      "source_sha256": "59c3c274a43b848b686e28e3e35f34c3002e790e5a2cb3005862a909305f24ec",
+      "filename": "부우부_mobility_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/22e22f90189d/pkm-atelier-img/img/부우부_mobility_overdrive_glossy_promo_f.webp",
+      "remote_path": "img/부우부_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "50eee396acbd94a5f90f2f5d6db4f2a85d0298b227eb60ce900724cf6567c1f6",
+      "refs": [
+        "mobility",
+        "light"
+      ]
+    },
+    {
+      "card": "부우부",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-192deab8-893f-43a3-9552-86e9cb21d168.png",
+      "source_sha256": "32d77c8aeccdbaabfdbf16649ec6502f93ad42cea496e5b4b604764d859a62cc",
+      "filename": "부우부_glossy_promo_f_casual1.webp",
+      "output": "/workspace/scratch/22e22f90189d/pkm-atelier-img/img/부우부_glossy_promo_f_casual1.webp",
+      "remote_path": "img/부우부_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "3402159e25c3c19da1529d0cb139008af4f394ee99d4ed127519b05382c6e55d",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "부우부",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-84602c2f-7957-47e8-abae-01f0237e88e9.png",
+      "source_sha256": "88341c03247e7e53a930f69a8649ab85ddfe1c52c34b1bba443f06f57dd2ad17",
+      "filename": "부우부_glossy_promo_f_casual2.webp",
+      "output": "/workspace/scratch/22e22f90189d/pkm-atelier-img/img/부우부_glossy_promo_f_casual2.webp",
+      "remote_path": "img/부우부_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "1497838b33492dabf0fe2c42530c80e182564725d97492fa3998f09d03a1ad71",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "부우부",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-af1c4852-a15b-4633-98f6-f9a2e0f03dca.png",
+      "source_sha256": "e96f3eb73c10e10caae78cf19e315b59c29729a3e8b5275e098f70eb2a07f09d",
+      "filename": "부우부_glossy_promo_f_casual3.webp",
+      "output": "/workspace/scratch/22e22f90189d/pkm-atelier-img/img/부우부_glossy_promo_f_casual3.webp",
+      "remote_path": "img/부우부_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f82d0b91ff72fed18d36d81686f1612021adef4d930ef5efd01619fa3827b792",
+      "refs": [
+        "light"
+      ]
+    }
+  ],
+  "comparison": {
+    "characters": [
+      "리아코",
+      "엘리게이",
+      "장크로다일"
+    ],
+    "source": "Remote main plan.json and generation-record.json read. Prior scenes: vinyl lounge, greenhouse, surfboard waxing, fossil gala, rooftop kite, railway shelter, lake goggles, bakery dough, riverside dance.",
+    "changes": "All nine new scenes differ in location, concrete activity, outfit silhouette and camera. Compare preceding characters within this batch as well.",
+    "batch_characters": [
+      "꼬리선",
+      "다꼬리"
+    ],
+    "batch_scenes": [
+      "꼬리선: roller disco, bicycle repair, night-market pancake",
+      "다꼬리: ferry map, laundry folding, pottery"
+    ]
+  },
+  "review": "Images visually inspected for identity, armor form separation, paired open-state composition, anatomy, text and weapons, and distinct off-duty scenes. Corrections recorded separately when needed.",
+  "corrections": [
+    {
+      "slot": "casual1",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-7970b57e-3b36-4994-94c3-b24edfc5f33f.png",
+      "prompt": "Use case: precise-object-edit. Edit only the oversized paired feather head decorations in this casual illustration: completely remove both tall winglike metal/feather ornaments and their large circular bases from her hair. Replace with just one tiny plain black circular hair clip. Keep the same adult woman, facial identity, long brown hairstyle, outfit, telescope adjustment, hands, full-body composition, dusk planetarium and glossy illustration exactly unchanged. The normal hair must fill removed ornament areas naturally. No armor, no large feathers or mechanical head pieces, no added text.",
+      "output": "/workspace/scratch/22e22f90189d/generated_images/exec-192deab8-893f-43a3-9552-86e9cb21d168.png"
+    },
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-83e680ec-96b5-4025-b09d-4d78f9ad5dea.png",
+      "prompt": "Use case: identity-preserve. Correct only the framing of this adult woman's nighttime rooftop-pool stretch so both complete hands and all five natural digits on each hand are fully inside the picture with safe edge margins. Widen the view slightly and gently bend the elbows inward as needed while keeping the shoulder-height forearm stretching activity and waist-up framing. Keep same facial identity, brown hair, tiny circular clip, lined rust-brown and cream one-piece swimsuit, night pool, lighting and glossy illustration. No large feather ornaments, no armor, no text, no logos. Vertical 1024x1536.",
+      "output": "/workspace/scratch/22e22f90189d/generated_images/exec-84602c2f-7957-47e8-abae-01f0237e88e9.png"
+    },
+    {
+      "slot": "casual3",
+      "source": "/workspace/scratch/22e22f90189d/generated_images/exec-e4bd129f-3286-4f1a-829d-403938ad680e.png",
+      "prompt": "Use case: precise-object-edit. Change only the oversized paired feather head decorations in this casual illustration: fully remove both large winglike feather/metal ornaments and their large circular bases from her hair. Keep just a tiny plain black ribbon hair accent and the small feather earrings. Natural brown hair fills removed ornament areas. Keep the same adult woman, facial identity, hair length, festival blouse and skirt over shorts, seated pose, token balanced on the open palm, other hand on stool, fingers, composition, autumn fair and glossy illustration exactly unchanged. No armor or mechanical head pieces, no big head feathers, no text or logos.",
+      "output": "/workspace/scratch/22e22f90189d/generated_images/exec-af1c4852-a15b-4633-98f6-f9a2e0f03dca.png"
+    }
+  ]
+}

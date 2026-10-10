@@ -1,0 +1,27 @@
+{
+  "mech": "부우부",
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "At an outdoor planetarium terrace at dusk, standing next to a short brass telescope and adjusting its side focus knob with one hand, other hand open beside her hip. Entire body and shoes visible, warm dome lighting and blue sky, no labels.",
+  "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people.",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "form": "casual1",
+  "aspect": "2:3",
+  "cat": "occupation_basic",
+  "expr": "serious",
+  "pose": "standing_relaxed",
+  "orient": "low_angle",
+  "frame": "full_body",
+  "lens": "telephoto135",
+  "outfit": "Amber sleeveless high-neck fitted blouse and tailored black short culottes, brown ankle boots, bare shoulders arms and legs. Small circular clock-face brooch with no numerals, no armor.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

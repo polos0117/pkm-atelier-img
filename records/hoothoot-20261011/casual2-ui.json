@@ -1,0 +1,27 @@
+{
+  "mech": "부우부",
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "At a rooftop heated plunge-pool deck after sunset, gently stretching both forearms outward at shoulder height while watching the city lights in side profile. Both hands fully inside frame, warm water reflections and cool night sky.",
+  "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people.",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "form": "casual2",
+  "aspect": "2:3",
+  "cat": "swimwear",
+  "expr": "relieved",
+  "pose": "stretching",
+  "orient": "side",
+  "frame": "waist_up",
+  "lens": "natural50",
+  "outfit": "Fully lined rust-brown one-piece swimsuit with secure asymmetric shoulder strap, cream waist side panel and opaque chest and pelvic panels; bare arms shoulders and portions of waist. Small black circular hair clip, no armor.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

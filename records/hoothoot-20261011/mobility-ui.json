@@ -1,0 +1,16 @@
+{
+  "mech": "부우부",
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "At a quiet observatory terrace under blue-hour sky, standing upright in a readable front three-quarter card pose with both empty hands open at her sides. Warm lantern rim light, distant forest and clear feet margins.",
+  "custom": "1024x1536. Both empty hands visible clear of torso, exactly five distinct natural digits each. No weapon.",
+  "outputMode": "action",
+  "identityMode": "reference",
+  "form": "mobility",
+  "aspect": "2:3"
+}

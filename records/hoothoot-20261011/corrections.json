@@ -1,0 +1,20 @@
+[
+  {
+    "slot": "casual1",
+    "source": "/workspace/scratch/22e22f90189d/generated_images/exec-7970b57e-3b36-4994-94c3-b24edfc5f33f.png",
+    "prompt": "Use case: precise-object-edit. Edit only the oversized paired feather head decorations in this casual illustration: completely remove both tall winglike metal/feather ornaments and their large circular bases from her hair. Replace with just one tiny plain black circular hair clip. Keep the same adult woman, facial identity, long brown hairstyle, outfit, telescope adjustment, hands, full-body composition, dusk planetarium and glossy illustration exactly unchanged. The normal hair must fill removed ornament areas naturally. No armor, no large feathers or mechanical head pieces, no added text.",
+    "output": "/workspace/scratch/22e22f90189d/generated_images/exec-192deab8-893f-43a3-9552-86e9cb21d168.png"
+  },
+  {
+    "slot": "casual2",
+    "source": "/workspace/scratch/22e22f90189d/generated_images/exec-83e680ec-96b5-4025-b09d-4d78f9ad5dea.png",
+    "prompt": "Use case: identity-preserve. Correct only the framing of this adult woman's nighttime rooftop-pool stretch so both complete hands and all five natural digits on each hand are fully inside the picture with safe edge margins. Widen the view slightly and gently bend the elbows inward as needed while keeping the shoulder-height forearm stretching activity and waist-up framing. Keep same facial identity, brown hair, tiny circular clip, lined rust-brown and cream one-piece swimsuit, night pool, lighting and glossy illustration. No large feather ornaments, no armor, no text, no logos. Vertical 1024x1536.",
+    "output": "/workspace/scratch/22e22f90189d/generated_images/exec-84602c2f-7957-47e8-abae-01f0237e88e9.png"
+  },
+  {
+    "slot": "casual3",
+    "source": "/workspace/scratch/22e22f90189d/generated_images/exec-e4bd129f-3286-4f1a-829d-403938ad680e.png",
+    "prompt": "Use case: precise-object-edit. Change only the oversized paired feather head decorations in this casual illustration: fully remove both large winglike feather/metal ornaments and their large circular bases from her hair. Keep just a tiny plain black ribbon hair accent and the small feather earrings. Natural brown hair fills removed ornament areas. Keep the same adult woman, facial identity, hair length, festival blouse and skirt over shorts, seated pose, token balanced on the open palm, other hand on stool, fingers, composition, autumn fair and glossy illustration exactly unchanged. No armor or mechanical head pieces, no big head feathers, no text or logos.",
+    "output": "/workspace/scratch/22e22f90189d/generated_images/exec-af1c4852-a15b-4633-98f6-f9a2e0f03dca.png"
+  }
+]

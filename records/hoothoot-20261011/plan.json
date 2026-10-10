@@ -1,0 +1,77 @@
+{
+  "mech": "부우부",
+  "scene": "At a quiet observatory terrace under blue-hour sky, standing upright in a readable front three-quarter card pose with both empty hands open at her sides. Warm lantern rim light, distant forest and clear feet margins.",
+  "casual": [
+    {
+      "cat": "occupation_basic",
+      "expr": "serious",
+      "pose": "standing_relaxed",
+      "orient": "low_angle",
+      "frame": "full_body",
+      "lens": "telephoto135",
+      "scene": "At an outdoor planetarium terrace at dusk, standing next to a short brass telescope and adjusting its side focus knob with one hand, other hand open beside her hip. Entire body and shoes visible, warm dome lighting and blue sky, no labels.",
+      "outfit": "Amber sleeveless high-neck fitted blouse and tailored black short culottes, brown ankle boots, bare shoulders arms and legs. Small circular clock-face brooch with no numerals, no armor.",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "cat": "swimwear",
+      "expr": "relieved",
+      "pose": "stretching",
+      "orient": "side",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "At a rooftop heated plunge-pool deck after sunset, gently stretching both forearms outward at shoulder height while watching the city lights in side profile. Both hands fully inside frame, warm water reflections and cool night sky.",
+      "outfit": "Fully lined rust-brown one-piece swimsuit with secure asymmetric shoulder strap, cream waist side panel and opaque chest and pelvic panels; bare arms shoulders and portions of waist. Small black circular hair clip, no armor.",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "cat": "festivals_contests",
+      "expr": "mischievous",
+      "pose": "perched_seat",
+      "orient": "front",
+      "frame": "three_quarter",
+      "lens": "wide24",
+      "scene": "At a woodland autumn harvest fair in golden morning light, perched on a wooden stool and balancing a small unlettered round contest token on one open palm, other hand open on the stool. Hanging leaf garlands and baskets behind, no crowd or lettering.",
+      "outfit": "Cream short-sleeved puff-sleeve blouse with open shoulder cutouts and secure neckline, brown high-waisted flared mini skirt over opaque shorts, black waist ribbon. Bare forearms shoulders and legs; tiny feather earring.",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    }
+  ],
+  "comparison": {
+    "characters": [
+      "리아코",
+      "엘리게이",
+      "장크로다일"
+    ],
+    "source": "Remote main plan.json and generation-record.json read. Prior scenes: vinyl lounge, greenhouse, surfboard waxing, fossil gala, rooftop kite, railway shelter, lake goggles, bakery dough, riverside dance.",
+    "changes": "All nine new scenes differ in location, concrete activity, outfit silhouette and camera. Compare preceding characters within this batch as well.",
+    "batch_characters": [
+      "꼬리선",
+      "다꼬리"
+    ],
+    "batch_scenes": [
+      "꼬리선: roller disco, bicycle repair, night-market pancake",
+      "다꼬리: ferry map, laundry folding, pottery"
+    ]
+  }
+}

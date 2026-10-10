@@ -1,0 +1,27 @@
+{
+  "mech": "부우부",
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "At a woodland autumn harvest fair in golden morning light, perched on a wooden stool and balancing a small unlettered round contest token on one open palm, other hand open on the stool. Hanging leaf garlands and baskets behind, no crowd or lettering.",
+  "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people.",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "form": "casual3",
+  "aspect": "2:3",
+  "cat": "festivals_contests",
+  "expr": "mischievous",
+  "pose": "perched_seat",
+  "orient": "front",
+  "frame": "three_quarter",
+  "lens": "wide24",
+  "outfit": "Cream short-sleeved puff-sleeve blouse with open shoulder cutouts and secure neckline, brown high-waisted flared mini skirt over opaque shorts, black waist ribbon. Bare forearms shoulders and legs; tiny feather earring.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
