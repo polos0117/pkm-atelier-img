@@ -1,0 +1,150 @@
+{
+  "last": "레어코일",
+  "cards": {
+    "이상해씨": {
+      "style": "cinematic_semi_real",
+      "identityMode": "create",
+      "form": "light",
+      "baseForm": "light",
+      "motifs": "",
+      "formOverride": "",
+      "headFeature": "",
+      "params": {},
+      "locks": {},
+      "mode": "action",
+      "scenes": {
+        "action": {
+          "expr": "",
+          "pose": "",
+          "orient": "",
+          "scene": "",
+          "outfit": "",
+          "frame": "",
+          "lens": "",
+          "camera": "",
+          "custom": "",
+          "aspect": "2:3",
+          "cat": "everyday_basic",
+          "catCustom": "",
+          "ex": "",
+          "exCustom": "",
+          "axes": {},
+          "action": {
+            "category": "",
+            "example": "",
+            "timing": "",
+            "equipment": "",
+            "power": "",
+            "effects": "",
+            "speed": "",
+            "environment": ""
+          },
+          "randomLocks": {}
+        },
+        "casual": {
+          "expr": "",
+          "pose": "",
+          "orient": "",
+          "scene": "",
+          "outfit": "",
+          "frame": "",
+          "lens": "",
+          "camera": "",
+          "custom": "",
+          "aspect": "2:3",
+          "cat": "everyday_basic",
+          "catCustom": "",
+          "ex": "",
+          "exCustom": "",
+          "axes": {},
+          "action": {
+            "category": "",
+            "example": "",
+            "timing": "",
+            "equipment": "",
+            "power": "",
+            "effects": "",
+            "speed": "",
+            "environment": ""
+          },
+          "randomLocks": {}
+        }
+      }
+    },
+    "레어코일": {
+      "style": "glossy_promo",
+      "identityMode": "reference",
+      "form": "overdrive",
+      "baseForm": "mobility",
+      "motifs": "",
+      "formOverride": "",
+      "headFeature": "",
+      "params": {
+        "apparent age": "20s"
+      },
+      "locks": {},
+      "mode": "casual",
+      "scenes": {
+        "action": {
+          "expr": "",
+          "pose": "",
+          "orient": "",
+          "scene": "On a polished industrial testing terrace at sunset, a stable front three-quarter standing stance, both hands open at her sides. Silver geometric architecture and amber rim light.",
+          "outfit": "",
+          "frame": "",
+          "lens": "",
+          "camera": "",
+          "custom": "Vertical 2:3, 1024x1536. One clearly adult woman. Both complete hands visible, each with exactly one thumb and four clearly separated natural fingers. No weapons, text, logos or border.",
+          "aspect": "2:3",
+          "cat": "everyday_basic",
+          "catCustom": "",
+          "ex": "",
+          "exCustom": "",
+          "axes": {},
+          "action": {
+            "category": "",
+            "example": "",
+            "timing": "",
+            "equipment": "",
+            "power": "",
+            "effects": "",
+            "speed": "",
+            "environment": ""
+          },
+          "randomLocks": {}
+        },
+        "casual": {
+          "expr": "curious",
+          "pose": "standing_relaxed",
+          "orient": "low_angle",
+          "scene": "In a quiet railway heritage yard at crisp morning light, standing beside a stationary vintage carriage and inspecting a round blank ticket token in one open palm, other hand open by her hip. Entire body and shoes visible.",
+          "outfit": "Silver sleeveless high-neck fitted travel top and red high-waisted tailored Bermuda shorts, blue slim belt, white low sneakers, bare shoulders arms and lower legs, tiny three-circle brooch.",
+          "frame": "full_body",
+          "lens": "wide24",
+          "camera": "",
+          "custom": "Vertical 2:3, 1024x1536. One clearly adult woman. Both complete hands visible, each with exactly one thumb and four clearly separated natural fingers. No weapons, text, logos or border. Same woman as the reference; remove all armor and mechanical head pieces. Species only as small jewelry or color echoes.",
+          "aspect": "2:3",
+          "cat": "travel_exploration",
+          "catCustom": "",
+          "ex": "",
+          "exCustom": "",
+          "axes": {
+            "overall_intensity": "strong",
+            "skin_exposure": "bold"
+          },
+          "action": {
+            "category": "",
+            "example": "",
+            "timing": "",
+            "equipment": "",
+            "power": "",
+            "effects": "",
+            "speed": "",
+            "environment": ""
+          },
+          "randomLocks": {}
+        }
+      }
+    }
+  }
+}

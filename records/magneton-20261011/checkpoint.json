@@ -1,0 +1,151 @@
+{
+  "count": 9,
+  "canonical": "img/레어코일_light_glossy_promo_f.webp",
+  "status": "generated; upload pending",
+  "artifacts": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-6f789555-b7e0-413f-8399-02d8ffc1baae.png",
+      "card": "레어코일",
+      "output": "img/레어코일_light_glossy_promo_f.webp",
+      "style": "glossy_promo",
+      "selected_via": "actual Preact UI DOM harness",
+      "reference": null,
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "ebc7e527b4e3b295eae85b97217496bc17a2906b5b1eb7fccb5423540c9d5aac",
+      "status": "generated and visually inspected"
+    },
+    {
+      "slot": "heavy",
+      "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-6c116488-869f-481e-93f8-d9bc735609b1.png",
+      "card": "레어코일",
+      "output": "img/레어코일_heavy_glossy_promo_f.webp",
+      "style": "glossy_promo",
+      "selected_via": "actual Preact UI DOM harness",
+      "reference": "img/레어코일_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "6ac84cda704143d5a60102e31a19515aaadb0515711992124314db133f4a0670",
+      "status": "generated and visually inspected"
+    },
+    {
+      "slot": "mobility",
+      "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-6afb124c-123d-4b15-8cff-642e582fa1d8.png",
+      "card": "레어코일",
+      "output": "img/레어코일_mobility_glossy_promo_f.webp",
+      "style": "glossy_promo",
+      "selected_via": "actual Preact UI DOM harness",
+      "reference": "img/레어코일_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "35c6aac55a8f9c96841fd7d4dbdb5bb7b8fe3f133b2037a0f1cde8f77064f385",
+      "status": "generated and visually inspected"
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-e774926d-7b17-43d9-b844-6eb788a31641.png",
+      "card": "레어코일",
+      "output": "img/레어코일_light_overdrive_glossy_promo_f.webp",
+      "style": "glossy_promo",
+      "selected_via": "actual Preact UI DOM harness",
+      "reference": "img/레어코일_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "331ce2d7c88063168fea0207651d6e15dcd2d0afa82b3607abe6357b408a6fbb",
+      "status": "generated and visually inspected"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-099a85b8-a6f6-406b-a2cd-93314526df73.png",
+      "card": "레어코일",
+      "output": "img/레어코일_heavy_overdrive_glossy_promo_f.webp",
+      "style": "glossy_promo",
+      "selected_via": "actual Preact UI DOM harness",
+      "reference": "img/레어코일_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "58e703729eb6533843892da966d39355ea1f6345be5aa743a5f599f4f331d1e9",
+      "status": "generated and visually inspected"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-17771f3c-28c9-4641-be83-c3c5400ae2e4.png",
+      "card": "레어코일",
+      "output": "img/레어코일_mobility_overdrive_glossy_promo_f.webp",
+      "style": "glossy_promo",
+      "selected_via": "actual Preact UI DOM harness",
+      "reference": "img/레어코일_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f986e4220c33ae8562bebe7a1cba81a795918af13285dc898d530f9a5f6e0cba",
+      "status": "generated and visually inspected"
+    },
+    {
+      "slot": "casual1",
+      "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-a827344e-aa52-4221-93dc-4efb01ad6c72.png",
+      "card": "레어코일",
+      "output": "img/레어코일_glossy_promo_f_casual1.webp",
+      "style": "glossy_promo",
+      "selected_via": "actual Preact UI DOM harness",
+      "reference": "img/레어코일_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "98c08616fb2574810bce61ea7b405ca3bff5f70f9e0253192c07ae49688e5ddf",
+      "status": "generated and visually inspected"
+    },
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-bcb73b31-bb68-40fa-936b-5b274cecc394.png",
+      "card": "레어코일",
+      "output": "img/레어코일_glossy_promo_f_casual2.webp",
+      "style": "glossy_promo",
+      "selected_via": "actual Preact UI DOM harness",
+      "reference": "img/레어코일_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "0905a65fedaa8b2dc40102ff546134179b76fbd0d8446bf3e2766bb8b955d2ff",
+      "status": "generated and visually inspected"
+    },
+    {
+      "slot": "casual3",
+      "source": "/workspace/scratch/06c62c2e3ac7/generated_images/exec-e5cad6ae-b859-4507-b0fe-ac9b0aebf16a.png",
+      "card": "레어코일",
+      "output": "img/레어코일_glossy_promo_f_casual3.webp",
+      "style": "glossy_promo",
+      "selected_via": "actual Preact UI DOM harness",
+      "reference": "img/레어코일_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "9409fc3e37396580c238338d27118d92c32fe7739b4eacb7115d30ef1126ae39",
+      "status": "generated and visually inspected"
+    }
+  ]
+}

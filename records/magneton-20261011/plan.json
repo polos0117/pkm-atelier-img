@@ -1,0 +1,58 @@
+{
+  "name": "레어코일",
+  "slug": "magneton",
+  "scene": "On a polished industrial testing terrace at sunset, a stable front three-quarter standing stance, both hands open at her sides. Silver geometric architecture and amber rim light.",
+  "casual": [
+    [
+      "travel_exploration",
+      "curious",
+      "standing_relaxed",
+      "low_angle",
+      "full_body",
+      "wide24",
+      "In a quiet railway heritage yard at crisp morning light, standing beside a stationary vintage carriage and inspecting a round blank ticket token in one open palm, other hand open by her hip. Entire body and shoes visible.",
+      "Silver sleeveless high-neck fitted travel top and red high-waisted tailored Bermuda shorts, blue slim belt, white low sneakers, bare shoulders arms and lower legs, tiny three-circle brooch."
+    ],
+    [
+      "lingerie",
+      "soft_smile",
+      "leaning_furniture",
+      "front",
+      "three_quarter",
+      "telephoto135",
+      "In an elegant apartment walk-in dressing alcove at late evening, leaning lightly against a console and arranging three small earrings in a velvet tray. Hands separately visible, warm wall lights and cool window reflections.",
+      "Fully opaque lined slate-blue satin longline camisole with secure double straps and scalloped silver trim, matching high-waisted tap shorts with full intimate coverage, bare arms shoulders midriff and legs."
+    ],
+    [
+      "active",
+      "determined",
+      "stretching",
+      "side",
+      "waist_up",
+      "natural50",
+      "At an airy aerial-yoga studio in golden afternoon light, standing and stretching both forearms horizontally while a loose fabric hammock hangs well behind her. Hands fully within the frame, no suspension or upside-down pose.",
+      "Red opaque racerback athletic crop top with secure broad straps, blue high-waisted full-length leggings, silver wristband. Bare arms shoulders and midriff."
+    ]
+  ],
+  "comparison": {
+    "characters": [
+      "꼬리선",
+      "다꼬리",
+      "부우부"
+    ],
+    "sources": [
+      "records/sentret-20261011/plan.json",
+      "records/furret-20261011/plan.json",
+      "records/hoothoot-20261011/plan.json"
+    ],
+    "changes": "Different locations, specific activities, clothing silhouettes and compositions; mandatory categories alternate event fashion, lingerie and swimwear.",
+    "batch_predecessors": [
+      "코일"
+    ]
+  },
+  "method": "Actual Preact generator controls selected through repository DOM harness; output read once per asset.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
