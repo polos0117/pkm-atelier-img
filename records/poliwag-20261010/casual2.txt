@@ -1,0 +1,23 @@
+CHARACTER: the same woman as the attached image — Poliwag (발챙이) personified, water type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted
+Pose: Walk at a comfortable pace with a natural step and arm swing.
+Orientation: side body profile, approximately 90 degrees to camera
+Scene: After dark in an empty public aquarium tunnel, she pauses during a walk to look up at luminous jellyfish behind glass. Cool cyan aquarium light with a warm path light on her face. Both hands visible below her chest, one lightly holding a folded blank brochure.
+Outfit and props: A sleeveless fitted white scoop-neck crop tank, navy belted trousers, small spiral pendant and slim shoulder bag. Bare arms and a clear midriff; everyday personal outing, no work uniform.
+Category: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+Lens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
