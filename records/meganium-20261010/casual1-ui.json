@@ -1,0 +1,84 @@
+{
+  "search": {
+    "value": ""
+  },
+  "group": {
+    "value": "",
+    "label": "전체"
+  },
+  "source": {
+    "value": "메가니움",
+    "label": "0154 · 메가니움"
+  },
+  "style": {
+    "value": "glossy_promo",
+    "label": "글로시 프로모 키아트"
+  },
+  "motifs": {
+    "value": ""
+  },
+  "expression": {
+    "value": "sensual",
+    "label": "sensual — 자연스러운 섹시"
+  },
+  "category": {
+    "value": "lingerie",
+    "label": "란제리풍 패션"
+  },
+  "example": {
+    "value": "",
+    "label": "자동"
+  },
+  "pose": {
+    "value": "perched_seat",
+    "label": "걸터앉기"
+  },
+  "orientation": {
+    "value": "seated_twist",
+    "label": "seated twist — 앉은 비틀기"
+  },
+  "frame": {
+    "value": "three_quarter",
+    "label": "무릎 위"
+  },
+  "lens": {
+    "value": "portrait85",
+    "label": "준망원 · 85mm 느낌"
+  },
+  "aspect": {
+    "value": "2:3",
+    "label": "2:3"
+  },
+  "camera": {
+    "value": ""
+  },
+  "scene": {
+    "value": "Her softly lit apartment dressing alcove at night. Perched upright on a padded vanity stool, she gently places a pearl bracelet into an open jewelry tray, right hand above the tray and left resting open on her knee, torso gently turned toward camera. Warm peach lamp light and plum wall, mirror outside the frame, no reflected person."
+  },
+  "outfit": {
+    "value": "Lingerie-inspired fashion: securely lined opaque rose satin longline bustier with narrow straps, curved seamed cups and cream lace edge trim, matching high-waisted satin tap shorts and an open lightweight pale-green robe draped from the elbows. Bare shoulders, arms and thighs, full chest and pelvis coverage, tiny flower charm."
+  },
+  "custom": {
+    "value": "One clearly adult woman in her 20s. Both hands fully within the chosen framing, each hand exactly one thumb and four individually separated fingers with coherent knuckles; no fused digits or extra fingers. No weapons, text, logo, border or duplicate figure."
+  },
+  "axis-overall_intensity": {
+    "value": "strong",
+    "label": "가장 강함"
+  },
+  "axis-skin_exposure": {
+    "value": "bold",
+    "label": "많이"
+  },
+  "axis-action_level": {
+    "value": "AUTO",
+    "label": "자동"
+  },
+  "axis-source_influence": {
+    "value": "AUTO",
+    "label": "자동"
+  },
+  "axis-separates_preference": {
+    "value": "AUTO",
+    "label": "자동"
+  }
+}

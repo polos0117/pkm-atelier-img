@@ -1,0 +1,41 @@
+INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.
+
+SOURCE: Meganium (메가니움), grass type.
+
+PALETTE: pink, yellow, white.
+
+STYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.
+
+SUBJECT: A female mecha personification character with Meganium as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.
+
+WEAR: the large, pink flower becomes a large flower ornament at her shoulder or in her hair; the three white claws become claw-shaped guards on her gauntlets, her hands still human hands; its markings (short, spiky, yellow pattern) become painted lines and patterns on her plates and undersuit.
+
+FORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.
+
+OUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.
+
+Chosen settings below override the default stance and camera; her identity and form stay fixed.
+Scene: A pale glass greenhouse atrium in soft morning sunlight. A poised regal standing stance with both relaxed open hands separated at her sides, full face toward camera. Pink petal collar and green slender armor remain readable, complete full body.
+Note: One clearly adult woman in her 20s. Both hands fully within the chosen framing, each hand exactly one thumb and four individually separated fingers with coherent knuckles; no fused digits or extra fingers. No weapons, text, logo, border or duplicate figure.
+
+IDENTITY (chosen details override the automatic look)
+apparent age: 20s — adult woman in her twenties
+facial ethnicity: East Asian
+body type: tall and lean — tall stature, lean torso and long slender limbs
+facial character: elegant — composed, graceful demeanor
+skin tone: light — light natural skin tone
+hair color: pink
+hairstyle: wavy — loose S-shaped waves
+hair length: long — below-shoulder to mid-back loose length; tied hair may appear shorter
+eye color: gold
+body scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.
+hair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.
+demeanor scope: Facial character affects demeanor only; preserve age and geometry. Explicit scene expression takes priority.
+ethnicity scope: Broad ancestry cue with individual variation; preserve explicit geometry, skin tone and hair. No stereotyped features.
+eye color consistency: both eyes are gold
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.

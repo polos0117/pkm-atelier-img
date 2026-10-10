@@ -1,0 +1,84 @@
+{
+  "search": {
+    "value": ""
+  },
+  "group": {
+    "value": "",
+    "label": "전체"
+  },
+  "source": {
+    "value": "메가니움",
+    "label": "0154 · 메가니움"
+  },
+  "style": {
+    "value": "glossy_promo",
+    "label": "글로시 프로모 키아트"
+  },
+  "motifs": {
+    "value": ""
+  },
+  "expression": {
+    "value": "serious",
+    "label": "serious — 진지함"
+  },
+  "category": {
+    "value": "occupation_sensual",
+    "label": "포켓몬 세계 직업컷 — 섹시"
+  },
+  "example": {
+    "value": "",
+    "label": "AUTO — 원본 포켓몬에 어울리는 직업 자동"
+  },
+  "pose": {
+    "value": "standing_formal",
+    "label": "반듯하게 서기"
+  },
+  "orientation": {
+    "value": "front",
+    "label": "front — 정면"
+  },
+  "frame": {
+    "value": "waist_up",
+    "label": "허리 위"
+  },
+  "lens": {
+    "value": "natural50",
+    "label": "표준 · 50mm 느낌"
+  },
+  "aspect": {
+    "value": "2:3",
+    "label": "2:3"
+  },
+  "camera": {
+    "value": ""
+  },
+  "scene": {
+    "value": "A botanical fragrance atelier in bright late-morning skylight. Standing at a narrow laboratory counter, she checks a clear unlabelled perfume vial held delicately in her right hand while her left lies open on the counter next to dried petals. Both hands separated at waist level, copper distillation glassware and green shelves behind her, single adult perfumer."
+  },
+  "outfit": {
+    "value": "A sage sleeveless halter vest with a deep securely fitted V neckline and an open midriff, rose high-waisted wide-leg trousers and a slim cream belt. Bare shoulders, arms and waist, tiny flower earrings, original practical fragrance-workshop fashion without armor."
+  },
+  "custom": {
+    "value": "One clearly adult woman in her 20s. Both hands fully within the chosen framing, each hand exactly one thumb and four individually separated fingers with coherent knuckles; no fused digits or extra fingers. No weapons, text, logo, border or duplicate figure."
+  },
+  "axis-overall_intensity": {
+    "value": "strong",
+    "label": "가장 강함"
+  },
+  "axis-skin_exposure": {
+    "value": "bold",
+    "label": "많이"
+  },
+  "axis-action_level": {
+    "value": "AUTO",
+    "label": "자동"
+  },
+  "axis-source_influence": {
+    "value": "AUTO",
+    "label": "자동"
+  },
+  "axis-separates_preference": {
+    "value": "AUTO",
+    "label": "자동"
+  }
+}

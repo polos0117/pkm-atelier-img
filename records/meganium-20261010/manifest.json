@@ -1,0 +1,173 @@
+[
+  {
+    "character": "메가니움",
+    "slot": "light",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/390ae91256da/generated_images/exec-aa4bf893-7d40-4f35-ba7d-756ec4724a45.png",
+    "output": "img/메가니움_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "d0ca14844287f4304a116167dbc3d219d69885c07f8451f284cd42c6dc5da976",
+    "reference": null,
+    "prompt": "records/meganium-20261010/light.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+    "durable_package_member": "img/메가니움_light_glossy_promo_f.webp",
+    "reference_package_member": null
+  },
+  {
+    "character": "메가니움",
+    "slot": "heavy",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/390ae91256da/generated_images/exec-f155f5d7-3a0a-413d-b982-e99c5f900a50.png",
+    "output": "img/메가니움_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "58326f669b6de2240d5f225a151dbc0bda077926b5e6fb851f1f897854d781e8",
+    "reference": "img/메가니움_light_glossy_promo_f.webp",
+    "prompt": "records/meganium-20261010/heavy.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+    "durable_package_member": "img/메가니움_heavy_glossy_promo_f.webp",
+    "reference_package_member": "img/메가니움_light_glossy_promo_f.webp"
+  },
+  {
+    "character": "메가니움",
+    "slot": "mobility",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/390ae91256da/generated_images/exec-06aa6f06-0f9b-4104-b6ef-08204a583295.png",
+    "output": "img/메가니움_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "786640cd294bbc3b35fe9cdd5d083f1368e6ea7d515f1b87c0f22d31e965aa95",
+    "reference": "img/메가니움_light_glossy_promo_f.webp",
+    "prompt": "records/meganium-20261010/mobility.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+    "durable_package_member": "img/메가니움_mobility_glossy_promo_f.webp",
+    "reference_package_member": "img/메가니움_light_glossy_promo_f.webp"
+  },
+  {
+    "character": "메가니움",
+    "slot": "light_overdrive",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/390ae91256da/generated_images/exec-c4d052af-b08a-45ce-95b3-ebad928c2a54.png",
+    "output": "img/메가니움_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "bd08d24194aa26fb4eb23442de1c915df916c6d6c924cf6c01f957db81884f22",
+    "reference": "img/메가니움_light_glossy_promo_f.webp",
+    "prompt": "records/meganium-20261010/light_overdrive.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+    "durable_package_member": "img/메가니움_light_overdrive_glossy_promo_f.webp",
+    "reference_package_member": "img/메가니움_light_glossy_promo_f.webp"
+  },
+  {
+    "character": "메가니움",
+    "slot": "heavy_overdrive",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/390ae91256da/generated_images/exec-3dd7a9d5-a8f7-4f5b-bf1c-3cf7c6bd15bf.png",
+    "output": "img/메가니움_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "b353265d7a5061f207e01e99563c4ff96add1b012b6b66a9f564ba2e99aa0ef0",
+    "reference": "img/메가니움_heavy_glossy_promo_f.webp",
+    "prompt": "records/meganium-20261010/heavy_overdrive.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+    "durable_package_member": "img/메가니움_heavy_overdrive_glossy_promo_f.webp",
+    "reference_package_member": "img/메가니움_heavy_glossy_promo_f.webp"
+  },
+  {
+    "character": "메가니움",
+    "slot": "mobility_overdrive",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/390ae91256da/generated_images/exec-3a59737b-a1b3-4284-ae2c-b4036fc9f503.png",
+    "output": "img/메가니움_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "0a3d503223dfcf63ecff1ab32ea68dd41aeca80ea874413a0b10adea78efd719",
+    "reference": "img/메가니움_mobility_glossy_promo_f.webp",
+    "prompt": "records/meganium-20261010/mobility_overdrive.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+    "durable_package_member": "img/메가니움_mobility_overdrive_glossy_promo_f.webp",
+    "reference_package_member": "img/메가니움_mobility_glossy_promo_f.webp"
+  },
+  {
+    "character": "메가니움",
+    "slot": "casual1",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/390ae91256da/generated_images/exec-1cd15a10-e7cd-4f2e-8aaf-9a25980769c8.png",
+    "output": "img/메가니움_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "b8eb4d59cce6ebe5888a50f28b281f30a93a9aaa07e9247db97235b8c2196f2e",
+    "reference": "img/메가니움_light_glossy_promo_f.webp",
+    "prompt": "records/meganium-20261010/casual1.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+    "durable_package_member": "img/메가니움_glossy_promo_f_casual1.webp",
+    "reference_package_member": "img/메가니움_light_glossy_promo_f.webp"
+  },
+  {
+    "character": "메가니움",
+    "slot": "casual2",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/390ae91256da/generated_images/exec-aafba0b8-5663-460b-8f78-7609dda720be.png",
+    "output": "img/메가니움_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "6e859f7094a4f8632a85e8c7e362005a8e722b812f1824883867878cfe2b8aca",
+    "reference": "img/메가니움_light_glossy_promo_f.webp",
+    "prompt": "records/meganium-20261010/casual2.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+    "durable_package_member": "img/메가니움_glossy_promo_f_casual2.webp",
+    "reference_package_member": "img/메가니움_light_glossy_promo_f.webp"
+  },
+  {
+    "character": "메가니움",
+    "slot": "casual3",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/390ae91256da/generated_images/exec-af2e4a88-c8e1-4725-99f7-ba36fef29fc7.png",
+    "output": "img/메가니움_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "006642f6ffd1bd8ec1aeac0db8b22039b7e2bb805c96727664287cde1a2157dd",
+    "reference": "img/메가니움_light_glossy_promo_f.webp",
+    "prompt": "records/meganium-20261010/casual3.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+    "durable_package_member": "img/메가니움_glossy_promo_f_casual3.webp",
+    "reference_package_member": "img/메가니움_light_glossy_promo_f.webp"
+  }
+]

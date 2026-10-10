@@ -1,0 +1,99 @@
+{
+  "search": {
+    "value": ""
+  },
+  "group": {
+    "value": "",
+    "label": "전체"
+  },
+  "source": {
+    "value": "메가니움",
+    "label": "0154 · 메가니움"
+  },
+  "style": {
+    "value": "glossy_promo",
+    "label": "글로시 프로모 키아트"
+  },
+  "identity-mode": {
+    "value": "reference",
+    "label": "확정한 이미지 이어가기"
+  },
+  "form": {
+    "value": "heavy",
+    "label": "중장"
+  },
+  "form-override": {
+    "value": ""
+  },
+  "motifs": {
+    "value": ""
+  },
+  "expression": {
+    "value": "",
+    "label": "AUTO — 자동"
+  },
+  "action-category": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-example": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-timing": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-equipment": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-power": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-effects": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-speed": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-environment": {
+    "value": "",
+    "label": "자동"
+  },
+  "pose": {
+    "value": "",
+    "label": "자동"
+  },
+  "orientation": {
+    "value": "",
+    "label": "AUTO — 자동"
+  },
+  "frame": {
+    "value": "",
+    "label": "자동 — 장면에 맞게"
+  },
+  "lens": {
+    "value": "",
+    "label": "자동 — 장면에 맞게"
+  },
+  "aspect": {
+    "value": "2:3",
+    "label": "2:3"
+  },
+  "camera": {
+    "value": ""
+  },
+  "scene": {
+    "value": "A pale glass greenhouse atrium in soft morning sunlight. A poised regal standing stance with both relaxed open hands separated at her sides, full face toward camera. Pink petal collar and green slender armor remain readable, complete full body."
+  },
+  "outfit": {
+    "value": ""
+  },
+  "custom": {
+    "value": "One clearly adult woman in her 20s. Both hands fully within the chosen framing, each hand exactly one thumb and four individually separated fingers with coherent knuckles; no fused digits or extra fingers. No weapons, text, logo, border or duplicate figure."
+  }
+}

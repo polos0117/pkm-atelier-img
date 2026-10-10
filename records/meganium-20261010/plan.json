@@ -1,0 +1,57 @@
+{
+  "name": "메가니움",
+  "slug": "meganium",
+  "hair": "pink",
+  "style": "wavy",
+  "length": "long",
+  "eye": "gold",
+  "body": "tall and lean",
+  "face": "elegant",
+  "action": "A pale glass greenhouse atrium in soft morning sunlight. A poised regal standing stance with both relaxed open hands separated at her sides, full face toward camera. Pink petal collar and green slender armor remain readable, complete full body.",
+  "casual": [
+    {
+      "cat": "lingerie",
+      "expr": "sensual",
+      "pose": "perched_seat",
+      "orient": "seated_twist",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "Her softly lit apartment dressing alcove at night. Perched upright on a padded vanity stool, she gently places a pearl bracelet into an open jewelry tray, right hand above the tray and left resting open on her knee, torso gently turned toward camera. Warm peach lamp light and plum wall, mirror outside the frame, no reflected person.",
+      "outfit": "Lingerie-inspired fashion: securely lined opaque rose satin longline bustier with narrow straps, curved seamed cups and cream lace edge trim, matching high-waisted satin tap shorts and an open lightweight pale-green robe draped from the elbows. Bare shoulders, arms and thighs, full chest and pelvis coverage, tiny flower charm."
+    },
+    {
+      "cat": "traditional",
+      "expr": "gentle",
+      "pose": "kneeling",
+      "orient": "front_3q",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "A tranquil open wooden heritage pavilion above a lotus pond at dawn. Kneeling upright on a cushion at a low zither, she prepares to play by resting the right hand lightly over separate strings and the left open on the wooden side board. All fingers individually readable, complete head and feet in frame, pale mist and diffuse light, no other figure.",
+      "outfit": "Original heritage-inspired summer attire: sleeveless ivory high-wrap neckline top with a wide pink sash, fitted waist, green knee-length split skirt over opaque shorts, small floral hairpin and soft flats. Bare arms and lower legs, no armor, no weapons."
+    },
+    {
+      "cat": "occupation_sensual",
+      "expr": "serious",
+      "pose": "standing_formal",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "A botanical fragrance atelier in bright late-morning skylight. Standing at a narrow laboratory counter, she checks a clear unlabelled perfume vial held delicately in her right hand while her left lies open on the counter next to dried petals. Both hands separated at waist level, copper distillation glassware and green shelves behind her, single adult perfumer.",
+      "outfit": "A sage sleeveless halter vest with a deep securely fitted V neckline and an open midriff, rose high-waisted wide-leg trousers and a slim cream belt. Bare shoulders, arms and waist, tiny flower earrings, original practical fragrance-workshop fashion without armor."
+    }
+  ],
+  "generator": "Actual Preact UI controls via repository DOM harness; exact generated textarea captured",
+  "recent_comparison": [
+    "괴력몬",
+    "후딘",
+    "강챙이",
+    "치코리타",
+    "베이리프"
+  ],
+  "comparison_source": "Read submitted casual1-3 prompts in records/machamp-20261010, alakazam-20261010, poliwrath-20261010",
+  "diversity_changes": "Changed place, activity, clothing silhouette and composition relative to recent records; different expressions, poses, orientations, frames and lighting per character. Required categories rotate adult_roleplay, swimwear, lingerie.",
+  "fixed_axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

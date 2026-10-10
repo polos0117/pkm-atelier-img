@@ -1,0 +1,83 @@
+{
+  "search": {
+    "value": ""
+  },
+  "group": {
+    "value": "",
+    "label": "전체"
+  },
+  "source": {
+    "value": "메가니움",
+    "label": "0154 · 메가니움"
+  },
+  "style": {
+    "value": "glossy_promo",
+    "label": "글로시 프로모 키아트"
+  },
+  "motifs": {
+    "value": ""
+  },
+  "expression": {
+    "value": "gentle",
+    "label": "gentle — 온화함"
+  },
+  "category": {
+    "value": "traditional",
+    "label": "전통 의상 / 헤리티지 패션"
+  },
+  "example": {
+    "value": ""
+  },
+  "pose": {
+    "value": "kneeling",
+    "label": "무릎을 댄 자세"
+  },
+  "orientation": {
+    "value": "front_3q",
+    "label": "front three-quarter — 앞 3/4"
+  },
+  "frame": {
+    "value": "full_body",
+    "label": "전신"
+  },
+  "lens": {
+    "value": "documentary35",
+    "label": "준광각 · 35mm 느낌"
+  },
+  "aspect": {
+    "value": "2:3",
+    "label": "2:3"
+  },
+  "camera": {
+    "value": ""
+  },
+  "scene": {
+    "value": "A tranquil open wooden heritage pavilion above a lotus pond at dawn. Kneeling upright on a cushion at a low zither, she prepares to play by resting the right hand lightly over separate strings and the left open on the wooden side board. All fingers individually readable, complete head and feet in frame, pale mist and diffuse light, no other figure."
+  },
+  "outfit": {
+    "value": "Original heritage-inspired summer attire: sleeveless ivory high-wrap neckline top with a wide pink sash, fitted waist, green knee-length split skirt over opaque shorts, small floral hairpin and soft flats. Bare arms and lower legs, no armor, no weapons."
+  },
+  "custom": {
+    "value": "One clearly adult woman in her 20s. Both hands fully within the chosen framing, each hand exactly one thumb and four individually separated fingers with coherent knuckles; no fused digits or extra fingers. No weapons, text, logo, border or duplicate figure."
+  },
+  "axis-overall_intensity": {
+    "value": "strong",
+    "label": "가장 강함"
+  },
+  "axis-skin_exposure": {
+    "value": "bold",
+    "label": "많이"
+  },
+  "axis-action_level": {
+    "value": "AUTO",
+    "label": "자동"
+  },
+  "axis-source_influence": {
+    "value": "AUTO",
+    "label": "자동"
+  },
+  "axis-separates_preference": {
+    "value": "AUTO",
+    "label": "자동"
+  }
+}
