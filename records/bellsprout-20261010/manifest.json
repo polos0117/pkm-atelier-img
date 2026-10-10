@@ -1,0 +1,1527 @@
+{
+  "character": "모다피",
+  "key": "bellsprout",
+  "style": "glossy_promo",
+  "generator": "Actual repository Preact UI controls through DOM harness",
+  "recentComparison": {
+    "characters": [
+      "괴력몬",
+      "후딘",
+      "근육몬"
+    ],
+    "records": [
+      "records/machamp-20261010",
+      "records/alakazam-20261010",
+      "records/machoke-20261010"
+    ],
+    "read": "All nine submitted casual prompts; compared locations, activities, outfit silhouettes and compositions. Also compared earlier characters in this batch.",
+    "changes": "Avoided recent bartender/chess stage, camping, flower ribbons, rowboat, archive restoration, pottery, beach sitting and lantern market. New dive-goggle room, orchard inspection, record cleaning; ferry scarf, vanity earrings, skate buckle; piano, theater usher, lamp repair. Required categories rotate swimwear, lingerie, adult_roleplay."
+  },
+  "plan": [
+    [
+      "swimwear",
+      "curious",
+      "leaning_furniture",
+      "front_3q",
+      "three_quarter",
+      "portrait85",
+      "In a seaside diving lodge equipment room at bright noon, leaning lightly on a dry wooden bench to inspect a pair of clear diving goggles, one hand holds the strap loosely while the other opens beside the lens. Turquoise reflected water light, yellow lockers without lettering.",
+      "Fully lined lemon-yellow bikini with secure wide-strapped square-neck top and high-waisted green bottoms, open short white linen cover shirt, bare arms midriff and legs, tiny leaf hair clip."
+    ],
+    [
+      "occupation_basic",
+      "focused",
+      "mid_action",
+      "side",
+      "full_body",
+      "documentary35",
+      "In an elevated berry orchard walkway at dawn, reaching one arm up to check a ripe fruit cluster while the other hand rests open on the rail, both feet planted. Cool mist and warm sun strips, full head hands and shoes visible.",
+      "Sleeveless brown canvas short overalls over a green fitted cropped tank, yellow waist tie and flat garden shoes, bare shoulders waist sides and legs, small leaf enamel pin."
+    ],
+    [
+      "hobbies_leisure",
+      "amused",
+      "sitting",
+      "high_angle",
+      "waist_up",
+      "natural50",
+      "Inside a small home record-listening nook on a rainy afternoon, seated on a chair and using a soft record brush on a vinyl disc on the table, hands well separated. Amber lamp and rain-speckled window, head torso and complete hands inside crop.",
+      "Cream off-shoulder ribbed knit top with elbow sleeves and a green wrap skirt below crop, exposed shoulders and narrow waist, small leaf necklace."
+    ]
+  ],
+  "images": [
+    {
+      "slot": "light",
+      "reference": null,
+      "prompt": "light.txt",
+      "uiState": {
+        "last": "모다피",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "모다피": {
+            "style": "glossy_promo",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "A mossy glass botanical atrium at sunrise, warm yellow reflections and dew glints.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Clearly adult woman aged 25 with mature human facial proportions, honey-brown eyes, chestnut chin-length straight bob with soft side fringe, slender adult figure. Yellow bell-shaped petal collar, leaf green slim armor trims, brown stem-like etched seams, two small leaf hair clips, human skin. Both empty hands fully visible, exactly one thumb and four distinct fingers each. No weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "generated_images/exec-aa3cff8d-9e45-4274-af64-22c5dd88ee60.png",
+      "output": "img/모다피_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "5d843de99a87af3e4e5df451391d7446d57b313ad2a8c6e986a962ee17d27f54",
+      "git_blob_sha": "73fab815e101c969c06971f31250fdb67180db5e",
+      "verified": true
+    },
+    {
+      "slot": "heavy",
+      "reference": "light",
+      "prompt": "heavy.txt",
+      "uiState": {
+        "last": "모다피",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "모다피": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "heavy",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "braced_stance",
+                "orient": "",
+                "scene": "A mossy glass botanical atrium at sunrise, warm yellow reflections and dew glints.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, exactly five distinct fingers each. No weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "generated_images/exec-2331da05-13fc-4495-90ac-eb5b98dea21f.png",
+      "output": "img/모다피_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "574da2ae832da33e277296a81260a3cde1ca4877fed8c5da2e80608a24c58e84",
+      "git_blob_sha": "029071d66c287eb9fbb915c5e126804f67de57ee",
+      "verified": true
+    },
+    {
+      "slot": "mobility",
+      "reference": "light",
+      "prompt": "mobility.txt",
+      "uiState": {
+        "last": "모다피",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "모다피": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "mobility",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "A mossy glass botanical atrium at sunrise, warm yellow reflections and dew glints.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, exactly five distinct fingers each. No weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "generated_images/exec-b23c4c25-33b4-4595-9824-aa2c2f2c5fdf.png",
+      "output": "img/모다피_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "d72ead66217d0a4f32a3ec075697318ace3307ac4bc18f82f223f6e0153ed531",
+      "git_blob_sha": "f20a4956e86b36365e3c7df9000deed9dc24e907",
+      "verified": true
+    },
+    {
+      "slot": "light_overdrive",
+      "reference": "light",
+      "prompt": "light_overdrive.txt",
+      "uiState": {
+        "last": "모다피",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "모다피": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "A mossy glass botanical atrium at sunrise, warm yellow reflections and dew glints.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, exactly five distinct fingers each. No weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "generated_images/exec-2babf77a-45e3-4346-b865-bf476d8c6ceb.png",
+      "output": "img/모다피_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "ab2a3e75b56e44d4bd8575eb1226f11aea1af6c0569cd97c9e17d3db38ff4c31",
+      "git_blob_sha": "42cf6f5b6556655e5852eb5b5b68047d72c148e0",
+      "verified": true
+    },
+    {
+      "slot": "heavy_overdrive",
+      "reference": "heavy",
+      "prompt": "heavy_overdrive.txt",
+      "uiState": {
+        "last": "모다피",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "모다피": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "heavy",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "A mossy glass botanical atrium at sunrise, warm yellow reflections and dew glints.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, exactly five distinct fingers each. No weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "generated_images/exec-184951a3-6444-4500-ac1c-795d6bc618a2.png",
+      "output": "img/모다피_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "82d8ce0692af1b6e42915d87dadeaefedfdb5c4fea57e40d973717a0266fc243",
+      "git_blob_sha": "56ff4c7f2c32133a28a23bf46f07c50a23b3e778",
+      "verified": true
+    },
+    {
+      "slot": "mobility_overdrive",
+      "reference": "mobility",
+      "prompt": "mobility_overdrive.txt",
+      "uiState": {
+        "last": "모다피",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "모다피": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "A mossy glass botanical atrium at sunrise, warm yellow reflections and dew glints.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, exactly five distinct fingers each. No weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "generated_images/exec-5b40a06a-5386-4d1c-9517-3de24f020a7c.png",
+      "output": "img/모다피_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "2c5cb77350ab906871f85044c557aa35d80f40018d8b77160a0e30a82d75a315",
+      "git_blob_sha": "df38fedf33033e7f27d0b8f5e1585c4edeee2fda",
+      "verified": true
+    },
+    {
+      "slot": "casual1",
+      "reference": "light",
+      "prompt": "casual1.txt",
+      "uiState": {
+        "last": "모다피",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "모다피": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "casual",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "A mossy glass botanical atrium at sunrise, warm yellow reflections and dew glints.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, exactly five distinct fingers each. No weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "curious",
+                "pose": "leaning_furniture",
+                "orient": "front_3q",
+                "scene": "In a seaside diving lodge equipment room at bright noon, leaning lightly on a dry wooden bench to inspect a pair of clear diving goggles, one hand holds the strap loosely while the other opens beside the lens. Turquoise reflected water light, yellow lockers without lettering.",
+                "outfit": "Fully lined lemon-yellow bikini with secure wide-strapped square-neck top and high-waisted green bottoms, open short white linen cover shirt, bare arms midriff and legs, tiny leaf hair clip.",
+                "frame": "three_quarter",
+                "lens": "portrait85",
+                "camera": "",
+                "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face and haircut. Both hands readable, exactly five anatomically distinct fingers per hand. No armor weapon text logo or other person.",
+                "aspect": "2:3",
+                "cat": "swimwear",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {
+                  "overall_intensity": "strong",
+                  "skin_exposure": "bold"
+                },
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "generated_images/exec-2ccbee0b-67f9-4f76-836e-320246b178fe.png",
+      "output": "img/모다피_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "970297a9fc13219efc779301e0c5f1d359cb64221af025c2b893e5ed47f7aa5a",
+      "git_blob_sha": "2404e2e839f8442c37c1876a4187d8587da0a6d3",
+      "verified": true
+    },
+    {
+      "slot": "casual2",
+      "reference": "light",
+      "prompt": "casual2.txt",
+      "uiState": {
+        "last": "모다피",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "모다피": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "casual",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "A mossy glass botanical atrium at sunrise, warm yellow reflections and dew glints.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, exactly five distinct fingers each. No weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "focused",
+                "pose": "mid_action",
+                "orient": "side",
+                "scene": "In an elevated berry orchard walkway at dawn, reaching one arm up to check a ripe fruit cluster while the other hand rests open on the rail, both feet planted. Cool mist and warm sun strips, full head hands and shoes visible.",
+                "outfit": "Sleeveless brown canvas short overalls over a green fitted cropped tank, yellow waist tie and flat garden shoes, bare shoulders waist sides and legs, small leaf enamel pin.",
+                "frame": "full_body",
+                "lens": "documentary35",
+                "camera": "",
+                "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face and haircut. Both hands readable, exactly five anatomically distinct fingers per hand. No armor weapon text logo or other person.",
+                "aspect": "2:3",
+                "cat": "occupation_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {
+                  "overall_intensity": "strong",
+                  "skin_exposure": "bold"
+                },
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "generated_images/exec-b4a4d482-486c-42e3-9655-5cb177dfc6dc.png",
+      "output": "img/모다피_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c183e83c5e5054b5c82a3521c2d5d9dbbee7e6c783c44db39a40b73b97851591",
+      "git_blob_sha": "8d295ef06bfef509ead41db90e872ff5d8f9af6c",
+      "verified": true
+    },
+    {
+      "slot": "casual3",
+      "reference": "light",
+      "prompt": "casual3.txt",
+      "uiState": {
+        "last": "모다피",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "모다피": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "casual",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "A mossy glass botanical atrium at sunrise, warm yellow reflections and dew glints.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, exactly five distinct fingers each. No weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "amused",
+                "pose": "sitting",
+                "orient": "high_angle",
+                "scene": "Inside a small home record-listening nook on a rainy afternoon, seated on a chair and using a soft record brush on a vinyl disc on the table, hands well separated. Amber lamp and rain-speckled window, head torso and complete hands inside crop.",
+                "outfit": "Cream off-shoulder ribbed knit top with elbow sleeves and a green wrap skirt below crop, exposed shoulders and narrow waist, small leaf necklace.",
+                "frame": "waist_up",
+                "lens": "natural50",
+                "camera": "",
+                "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face and haircut. Both hands readable, exactly five anatomically distinct fingers per hand. No armor weapon text logo or other person.",
+                "aspect": "2:3",
+                "cat": "hobbies_leisure",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {
+                  "overall_intensity": "strong",
+                  "skin_exposure": "bold"
+                },
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "generated_images/exec-312ea037-c6e5-4156-83a0-21ffc1ad5cf7.png",
+      "output": "img/모다피_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "cbfdb4ea9b00e0165de0e50c825ae0ca4ddf817de59dfa4f8e7c3dafd4d92cb6",
+      "git_blob_sha": "cc6b96e229dfa67c50b4cf0b011a137368db6a93",
+      "verified": true
+    }
+  ],
+  "validation": {
+    "visual": "Reviewed nine final images: single adult identity, hands, full-body forms and aligned opened pairs; casual locations, activities and silhouettes distinct.",
+    "filename_check": "register-images.py --check passed",
+    "forms_check": "tests/forms.cjs passed",
+    "generation_mode": "built-in imagegen"
+  }
+}

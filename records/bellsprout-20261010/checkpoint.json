@@ -1,0 +1,178 @@
+{
+  "character": "모다피",
+  "anchor": {
+    "slot": "light",
+    "reference": null,
+    "prompt": "light.txt",
+    "uiState": {
+      "last": "모다피",
+      "cards": {
+        "이상해씨": {
+          "style": "cinematic_semi_real",
+          "identityMode": "create",
+          "form": "light",
+          "baseForm": "light",
+          "motifs": "",
+          "formOverride": "",
+          "headFeature": "",
+          "params": {},
+          "locks": {},
+          "mode": "action",
+          "scenes": {
+            "action": {
+              "expr": "",
+              "pose": "",
+              "orient": "",
+              "scene": "",
+              "outfit": "",
+              "frame": "",
+              "lens": "",
+              "camera": "",
+              "custom": "",
+              "aspect": "2:3",
+              "cat": "everyday_basic",
+              "catCustom": "",
+              "ex": "",
+              "exCustom": "",
+              "axes": {},
+              "action": {
+                "category": "",
+                "example": "",
+                "timing": "",
+                "equipment": "",
+                "power": "",
+                "effects": "",
+                "speed": "",
+                "environment": ""
+              },
+              "randomLocks": {}
+            },
+            "casual": {
+              "expr": "",
+              "pose": "",
+              "orient": "",
+              "scene": "",
+              "outfit": "",
+              "frame": "",
+              "lens": "",
+              "camera": "",
+              "custom": "",
+              "aspect": "2:3",
+              "cat": "everyday_basic",
+              "catCustom": "",
+              "ex": "",
+              "exCustom": "",
+              "axes": {},
+              "action": {
+                "category": "",
+                "example": "",
+                "timing": "",
+                "equipment": "",
+                "power": "",
+                "effects": "",
+                "speed": "",
+                "environment": ""
+              },
+              "randomLocks": {}
+            }
+          }
+        },
+        "모다피": {
+          "style": "glossy_promo",
+          "identityMode": "create",
+          "form": "light",
+          "baseForm": "light",
+          "motifs": "",
+          "formOverride": "",
+          "headFeature": "",
+          "params": {
+            "apparent age": "20s"
+          },
+          "locks": {},
+          "mode": "action",
+          "scenes": {
+            "action": {
+              "expr": "",
+              "pose": "",
+              "orient": "",
+              "scene": "A mossy glass botanical atrium at sunrise, warm yellow reflections and dew glints.",
+              "outfit": "",
+              "frame": "",
+              "lens": "",
+              "camera": "",
+              "custom": "1024x1536 vertical 2:3 full body. Clearly adult woman aged 25 with mature human facial proportions, honey-brown eyes, chestnut chin-length straight bob with soft side fringe, slender adult figure. Yellow bell-shaped petal collar, leaf green slim armor trims, brown stem-like etched seams, two small leaf hair clips, human skin. Both empty hands fully visible, exactly one thumb and four distinct fingers each. No weapons.",
+              "aspect": "2:3",
+              "cat": "everyday_basic",
+              "catCustom": "",
+              "ex": "",
+              "exCustom": "",
+              "axes": {},
+              "action": {
+                "category": "",
+                "example": "",
+                "timing": "",
+                "equipment": "",
+                "power": "",
+                "effects": "",
+                "speed": "",
+                "environment": ""
+              },
+              "randomLocks": {}
+            },
+            "casual": {
+              "expr": "",
+              "pose": "",
+              "orient": "",
+              "scene": "",
+              "outfit": "",
+              "frame": "",
+              "lens": "",
+              "camera": "",
+              "custom": "",
+              "aspect": "2:3",
+              "cat": "everyday_basic",
+              "catCustom": "",
+              "ex": "",
+              "exCustom": "",
+              "axes": {},
+              "action": {
+                "category": "",
+                "example": "",
+                "timing": "",
+                "equipment": "",
+                "power": "",
+                "effects": "",
+                "speed": "",
+                "environment": ""
+              },
+              "randomLocks": {}
+            }
+          }
+        }
+      }
+    },
+    "raw": "generated_images/exec-aa3cff8d-9e45-4274-af64-22c5dd88ee60.png",
+    "output": "img/모다피_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "5d843de99a87af3e4e5df451391d7446d57b313ad2a8c6e986a962ee17d27f54",
+    "git_blob_sha": "73fab815e101c969c06971f31250fdb67180db5e",
+    "verified": true
+  },
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "pending": [],
+  "upload": "pending"
+}
