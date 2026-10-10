@@ -1,0 +1,55 @@
+{
+  "name": "치코리타",
+  "slug": "chikorita",
+  "hair": "mint",
+  "style": "bob",
+  "length": "short",
+  "eye": "red",
+  "body": "slender",
+  "face": "soft",
+  "action": "A quiet white botanical hangar with green glass skylights in morning light. Calm balanced standing guard, two open human hands held separately beside her hips, face toward camera, complete head and feet visible.",
+  "casual": [
+    {
+      "cat": "adult_roleplay",
+      "expr": "playful",
+      "pose": "waving",
+      "orient": "front_3q",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "An empty outdoor woodland theater dressing pavilion at blue hour. Preparing an original forest-fairy adult costume for a festival, she gives a small playful open-hand wave while her other hand rests separately on a low costume table. Warm round bulb lights and deep green curtains, no mirrors or other people.",
+      "outfit": "Original forest-fairy event fashion: opaque structured lime satin sweetheart crop bodice with narrow straps and leaf-edged trim, a layered short cream chiffon skirt over fitted opaque shorts, small leaf earrings. Bare shoulders, arms and midriff; no wings, no armor, no weapons."
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "focused",
+      "pose": "leaning_furniture",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "A small cyanotype-printing art studio in cool afternoon window light. Standing at a waist-high bench in side profile, she lifts one corner of a blue unlettered botanical print with her right hand while the left lies open on the table, hands fully separate. Blue drying prints and shallow ceramic trays make the hobby clear.",
+      "outfit": "A white sleeveless tied-front linen shirt with a wide pointed collar, bare midriff, loose mint high-waisted culotte shorts, a thin tan belt and small leaf pin. Bare arms and legs, everyday artist clothes, no armor."
+    },
+    {
+      "cat": "active",
+      "expr": "laughing_open",
+      "pose": "mid_stride",
+      "orient": "low_angle",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "An empty seaside roller-skating promenade at bright sunrise. She glides slowly on four-wheel skates with one leg stepping forward and both arms spread at waist level for balance, hands open and fingers separate, laughing toward the camera. Peach sky, wooden railings, a clear full-body silhouette.",
+      "outfit": "A coral racerback athletic crop top with cream side panels, lime-green short pleated sports skirt over opaque fitted shorts, ivory socks and coral quad skates. Bare shoulders, midriff and legs; a tiny leaf bracelet, no armor."
+    }
+  ],
+  "generator": "Actual Preact UI controls via repository DOM harness; exact generated textarea captured",
+  "recent_comparison": [
+    "괴력몬",
+    "후딘",
+    "강챙이"
+  ],
+  "comparison_source": "Read submitted casual1-3 prompts in records/machamp-20261010, alakazam-20261010, poliwrath-20261010",
+  "diversity_changes": "Changed place, activity, clothing silhouette and composition relative to recent records; different expressions, poses, orientations, frames and lighting per character. Required categories rotate adult_roleplay, swimwear, lingerie.",
+  "fixed_axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "search": {
+    "value": ""
+  },
+  "group": {
+    "value": "",
+    "label": "전체"
+  },
+  "source": {
+    "value": "치코리타",
+    "label": "0152 · 치코리타"
+  },
+  "style": {
+    "value": "glossy_promo",
+    "label": "글로시 프로모 키아트"
+  },
+  "motifs": {
+    "value": ""
+  },
+  "expression": {
+    "value": "playful",
+    "label": "playful — 장난기"
+  },
+  "category": {
+    "value": "adult_roleplay",
+    "label": "성인 역할극 / 직업풍 이벤트 패션"
+  },
+  "example": {
+    "value": "",
+    "label": "자동"
+  },
+  "pose": {
+    "value": "waving",
+    "label": "가볍게 손 흔들기"
+  },
+  "orientation": {
+    "value": "front_3q",
+    "label": "front three-quarter — 앞 3/4"
+  },
+  "frame": {
+    "value": "waist_up",
+    "label": "허리 위"
+  },
+  "lens": {
+    "value": "portrait85",
+    "label": "준망원 · 85mm 느낌"
+  },
+  "aspect": {
+    "value": "2:3",
+    "label": "2:3"
+  },
+  "camera": {
+    "value": ""
+  },
+  "scene": {
+    "value": "An empty outdoor woodland theater dressing pavilion at blue hour. Preparing an original forest-fairy adult costume for a festival, she gives a small playful open-hand wave while her other hand rests separately on a low costume table. Warm round bulb lights and deep green curtains, no mirrors or other people."
+  },
+  "outfit": {
+    "value": "Original forest-fairy event fashion: opaque structured lime satin sweetheart crop bodice with narrow straps and leaf-edged trim, a layered short cream chiffon skirt over fitted opaque shorts, small leaf earrings. Bare shoulders, arms and midriff; no wings, no armor, no weapons."
+  },
+  "custom": {
+    "value": "One clearly adult woman in her 20s. Both hands fully within the chosen framing, each hand exactly one thumb and four individually separated fingers with coherent knuckles; no fused digits or extra fingers. No weapons, text, logo, border or duplicate figure."
+  },
+  "axis-overall_intensity": {
+    "value": "strong",
+    "label": "가장 강함"
+  },
+  "axis-skin_exposure": {
+    "value": "bold",
+    "label": "많이"
+  },
+  "axis-action_level": {
+    "value": "AUTO",
+    "label": "자동"
+  },
+  "axis-source_influence": {
+    "value": "AUTO",
+    "label": "자동"
+  },
+  "axis-separates_preference": {
+    "value": "AUTO",
+    "label": "자동"
+  }
+}

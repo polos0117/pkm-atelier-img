@@ -1,0 +1,84 @@
+{
+  "search": {
+    "value": ""
+  },
+  "group": {
+    "value": "",
+    "label": "전체"
+  },
+  "source": {
+    "value": "치코리타",
+    "label": "0152 · 치코리타"
+  },
+  "style": {
+    "value": "glossy_promo",
+    "label": "글로시 프로모 키아트"
+  },
+  "motifs": {
+    "value": ""
+  },
+  "expression": {
+    "value": "focused",
+    "label": "focused — 집중"
+  },
+  "category": {
+    "value": "hobbies_leisure",
+    "label": "취미·느긋한 휴식"
+  },
+  "example": {
+    "value": "",
+    "label": "자동 — 이 갈래에 맞는 장면"
+  },
+  "pose": {
+    "value": "leaning_furniture",
+    "label": "가구에 기대기"
+  },
+  "orientation": {
+    "value": "side",
+    "label": "side profile — 측면"
+  },
+  "frame": {
+    "value": "three_quarter",
+    "label": "무릎 위"
+  },
+  "lens": {
+    "value": "natural50",
+    "label": "표준 · 50mm 느낌"
+  },
+  "aspect": {
+    "value": "2:3",
+    "label": "2:3"
+  },
+  "camera": {
+    "value": ""
+  },
+  "scene": {
+    "value": "A small cyanotype-printing art studio in cool afternoon window light. Standing at a waist-high bench in side profile, she lifts one corner of a blue unlettered botanical print with her right hand while the left lies open on the table, hands fully separate. Blue drying prints and shallow ceramic trays make the hobby clear."
+  },
+  "outfit": {
+    "value": "A white sleeveless tied-front linen shirt with a wide pointed collar, bare midriff, loose mint high-waisted culotte shorts, a thin tan belt and small leaf pin. Bare arms and legs, everyday artist clothes, no armor."
+  },
+  "custom": {
+    "value": "One clearly adult woman in her 20s. Both hands fully within the chosen framing, each hand exactly one thumb and four individually separated fingers with coherent knuckles; no fused digits or extra fingers. No weapons, text, logo, border or duplicate figure."
+  },
+  "axis-overall_intensity": {
+    "value": "strong",
+    "label": "가장 강함"
+  },
+  "axis-skin_exposure": {
+    "value": "bold",
+    "label": "많이"
+  },
+  "axis-action_level": {
+    "value": "AUTO",
+    "label": "자동"
+  },
+  "axis-source_influence": {
+    "value": "AUTO",
+    "label": "자동"
+  },
+  "axis-separates_preference": {
+    "value": "AUTO",
+    "label": "자동"
+  }
+}

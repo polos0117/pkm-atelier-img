@@ -1,0 +1,99 @@
+{
+  "search": {
+    "value": ""
+  },
+  "group": {
+    "value": "",
+    "label": "전체"
+  },
+  "source": {
+    "value": "치코리타",
+    "label": "0152 · 치코리타"
+  },
+  "style": {
+    "value": "glossy_promo",
+    "label": "글로시 프로모 키아트"
+  },
+  "identity-mode": {
+    "value": "reference",
+    "label": "확정한 이미지 이어가기"
+  },
+  "form": {
+    "value": "heavy",
+    "label": "중장"
+  },
+  "form-override": {
+    "value": ""
+  },
+  "motifs": {
+    "value": ""
+  },
+  "expression": {
+    "value": "",
+    "label": "AUTO — 자동"
+  },
+  "action-category": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-example": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-timing": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-equipment": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-power": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-effects": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-speed": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-environment": {
+    "value": "",
+    "label": "자동"
+  },
+  "pose": {
+    "value": "",
+    "label": "자동"
+  },
+  "orientation": {
+    "value": "",
+    "label": "AUTO — 자동"
+  },
+  "frame": {
+    "value": "",
+    "label": "자동 — 장면에 맞게"
+  },
+  "lens": {
+    "value": "",
+    "label": "자동 — 장면에 맞게"
+  },
+  "aspect": {
+    "value": "2:3",
+    "label": "2:3"
+  },
+  "camera": {
+    "value": ""
+  },
+  "scene": {
+    "value": "A quiet white botanical hangar with green glass skylights in morning light. Calm balanced standing guard, two open human hands held separately beside her hips, face toward camera, complete head and feet visible."
+  },
+  "outfit": {
+    "value": ""
+  },
+  "custom": {
+    "value": "One clearly adult woman in her 20s. Both hands fully within the chosen framing, each hand exactly one thumb and four individually separated fingers with coherent knuckles; no fused digits or extra fingers. No weapons, text, logo, border or duplicate figure."
+  }
+}

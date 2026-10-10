@@ -1,0 +1,175 @@
+[
+  {
+    "character": "치코리타",
+    "slot": "light",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/390ae91256da/generated_images/exec-950a53a4-40f2-4f07-a80a-5bf35f9ac38a.png",
+    "output": "img/치코리타_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "bb5ba8186bf9f62cf611715cc1f0eb963c00cbc13de21f8d7f68157aeb8a4eb1",
+    "reference": null,
+    "prompt": "records/chikorita-20261010/light.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+    "durable_package_member": "img/치코리타_light_glossy_promo_f.webp",
+    "reference_package_member": null
+  },
+  {
+    "character": "치코리타",
+    "slot": "heavy",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/390ae91256da/generated_images/exec-228819cf-09bc-4f02-8308-c3c20a8be8f1.png",
+    "output": "img/치코리타_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "2f7988eb4b40482bcf66f02b9578af1689769cd054f6a60b2342a319ab6760ac",
+    "reference": "img/치코리타_light_glossy_promo_f.webp",
+    "prompt": "records/chikorita-20261010/heavy.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+    "durable_package_member": "img/치코리타_heavy_glossy_promo_f.webp",
+    "reference_package_member": "img/치코리타_light_glossy_promo_f.webp"
+  },
+  {
+    "character": "치코리타",
+    "slot": "mobility",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/390ae91256da/generated_images/exec-7b8b17d1-da87-4db2-8b94-1ba50d1b46dd.png",
+    "output": "img/치코리타_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "21bf87906196cd85cf2630ea3a32bc750c06c1bcdfa96a73a83393e775776200",
+    "reference": "img/치코리타_light_glossy_promo_f.webp",
+    "prompt": "records/chikorita-20261010/mobility.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+    "durable_package_member": "img/치코리타_mobility_glossy_promo_f.webp",
+    "reference_package_member": "img/치코리타_light_glossy_promo_f.webp"
+  },
+  {
+    "character": "치코리타",
+    "slot": "light_overdrive",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/390ae91256da/generated_images/exec-357252fc-b3e9-4f1d-93d9-df37880903b7.png",
+    "output": "img/치코리타_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "8095695eb9c2de4ba7153d3c2a477ef7f5568a0804c5a7e7d094bb75ea373323",
+    "reference": "img/치코리타_light_glossy_promo_f.webp",
+    "prompt": "records/chikorita-20261010/light_overdrive.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+    "durable_package_member": "img/치코리타_light_overdrive_glossy_promo_f.webp",
+    "reference_package_member": "img/치코리타_light_glossy_promo_f.webp"
+  },
+  {
+    "character": "치코리타",
+    "slot": "heavy_overdrive",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/390ae91256da/generated_images/exec-3eccf895-5756-4b38-9fa9-4cd48d3be5e6.png",
+    "output": "img/치코리타_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "97fb4f038c441b7aeeecb5029430518def513925ddaf2c95afa3d7baf4311896",
+    "reference": "img/치코리타_heavy_glossy_promo_f.webp",
+    "prompt": "records/chikorita-20261010/heavy_overdrive.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+    "durable_package_member": "img/치코리타_heavy_overdrive_glossy_promo_f.webp",
+    "reference_package_member": "img/치코리타_heavy_glossy_promo_f.webp"
+  },
+  {
+    "character": "치코리타",
+    "slot": "mobility_overdrive",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/390ae91256da/generated_images/exec-96d649a3-6646-40e6-9d3a-23545bd805ac.png",
+    "output": "img/치코리타_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "8b0cced3fe66952c5c22d75ff07e8e0757cf22aabb903c7513b01419a534105f",
+    "reference": "img/치코리타_mobility_glossy_promo_f.webp",
+    "prompt": "records/chikorita-20261010/mobility_overdrive.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+    "durable_package_member": "img/치코리타_mobility_overdrive_glossy_promo_f.webp",
+    "reference_package_member": "img/치코리타_mobility_glossy_promo_f.webp"
+  },
+  {
+    "character": "치코리타",
+    "slot": "casual1",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/390ae91256da/generated_images/exec-1282179f-e09d-4537-a8da-b9d78af2186a.png",
+    "output": "img/치코리타_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "049f3c71677aaf422dfa01f00d905dfa99e9443c9eef0801a98ae62836dcf7a0",
+    "reference": "img/치코리타_light_glossy_promo_f.webp",
+    "prompt": "records/chikorita-20261010/casual1.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+    "durable_package_member": "img/치코리타_glossy_promo_f_casual1.webp",
+    "reference_package_member": "img/치코리타_light_glossy_promo_f.webp",
+    "correction_prompt": "records/chikorita-20261010/casual1-correction.txt",
+    "correction_input_original": "/workspace/scratch/390ae91256da/generated_images/exec-0828892b-8cd0-4568-b024-1d5bfdf9c28b.png"
+  },
+  {
+    "character": "치코리타",
+    "slot": "casual2",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/390ae91256da/generated_images/exec-0e3fa284-fbcd-4da4-8512-18de182d80d2.png",
+    "output": "img/치코리타_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "b1065cdaeda99bcb28ebc1038225b0286622d94e0361269174c3f680eb2b2291",
+    "reference": "img/치코리타_light_glossy_promo_f.webp",
+    "prompt": "records/chikorita-20261010/casual2.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+    "durable_package_member": "img/치코리타_glossy_promo_f_casual2.webp",
+    "reference_package_member": "img/치코리타_light_glossy_promo_f.webp"
+  },
+  {
+    "character": "치코리타",
+    "slot": "casual3",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/390ae91256da/generated_images/exec-2c2b54a5-0924-4d7a-87fa-7c0afb63e01f.png",
+    "output": "img/치코리타_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "fadb86cbbf5842b0764004ed9d18ecb61957bbe2ff28bae27635280eff7dcf07",
+    "reference": "img/치코리타_light_glossy_promo_f.webp",
+    "prompt": "records/chikorita-20261010/casual3.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+    "durable_package_member": "img/치코리타_glossy_promo_f_casual3.webp",
+    "reference_package_member": "img/치코리타_light_glossy_promo_f.webp"
+  }
+]

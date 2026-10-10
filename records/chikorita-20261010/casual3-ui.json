@@ -1,0 +1,84 @@
+{
+  "search": {
+    "value": ""
+  },
+  "group": {
+    "value": "",
+    "label": "전체"
+  },
+  "source": {
+    "value": "치코리타",
+    "label": "0152 · 치코리타"
+  },
+  "style": {
+    "value": "glossy_promo",
+    "label": "글로시 프로모 키아트"
+  },
+  "motifs": {
+    "value": ""
+  },
+  "expression": {
+    "value": "laughing_open",
+    "label": "laughing, eyes open — 소리내어 웃는 · 눈 뜬 채"
+  },
+  "category": {
+    "value": "active",
+    "label": "액티브 / 무브먼트 패션"
+  },
+  "example": {
+    "value": "",
+    "label": "자동"
+  },
+  "pose": {
+    "value": "mid_stride",
+    "label": "걸음 중간"
+  },
+  "orientation": {
+    "value": "low_angle",
+    "label": "low angle — 아래에서 올려다본 각도"
+  },
+  "frame": {
+    "value": "full_body",
+    "label": "전신"
+  },
+  "lens": {
+    "value": "documentary35",
+    "label": "준광각 · 35mm 느낌"
+  },
+  "aspect": {
+    "value": "2:3",
+    "label": "2:3"
+  },
+  "camera": {
+    "value": ""
+  },
+  "scene": {
+    "value": "An empty seaside roller-skating promenade at bright sunrise. She glides slowly on four-wheel skates with one leg stepping forward and both arms spread at waist level for balance, hands open and fingers separate, laughing toward the camera. Peach sky, wooden railings, a clear full-body silhouette."
+  },
+  "outfit": {
+    "value": "A coral racerback athletic crop top with cream side panels, lime-green short pleated sports skirt over opaque fitted shorts, ivory socks and coral quad skates. Bare shoulders, midriff and legs; a tiny leaf bracelet, no armor."
+  },
+  "custom": {
+    "value": "One clearly adult woman in her 20s. Both hands fully within the chosen framing, each hand exactly one thumb and four individually separated fingers with coherent knuckles; no fused digits or extra fingers. No weapons, text, logo, border or duplicate figure."
+  },
+  "axis-overall_intensity": {
+    "value": "strong",
+    "label": "가장 강함"
+  },
+  "axis-skin_exposure": {
+    "value": "bold",
+    "label": "많이"
+  },
+  "axis-action_level": {
+    "value": "AUTO",
+    "label": "자동"
+  },
+  "axis-source_influence": {
+    "value": "AUTO",
+    "label": "자동"
+  },
+  "axis-separates_preference": {
+    "value": "AUTO",
+    "label": "자동"
+  }
+}

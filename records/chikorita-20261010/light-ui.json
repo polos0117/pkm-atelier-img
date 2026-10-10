@@ -1,0 +1,231 @@
+{
+  "search": {
+    "value": ""
+  },
+  "group": {
+    "value": "",
+    "label": "전체"
+  },
+  "source": {
+    "value": "치코리타",
+    "label": "0152 · 치코리타"
+  },
+  "style": {
+    "value": "glossy_promo",
+    "label": "글로시 프로모 키아트"
+  },
+  "identity-mode": {
+    "value": "create",
+    "label": "새 인물 만들기"
+  },
+  "form": {
+    "value": "light",
+    "label": "경장"
+  },
+  "form-override": {
+    "value": ""
+  },
+  "motifs": {
+    "value": ""
+  },
+  "head-feature": {
+    "value": "",
+    "label": "자동 — 원본 머리 특징에 맞춰"
+  },
+  "param-apparent-age": {
+    "value": "20s",
+    "label": "20s — 20대 성인"
+  },
+  "param-facial-ethnicity": {
+    "value": "East Asian",
+    "label": "East Asian — 동아시아 계열"
+  },
+  "param-body-type": {
+    "value": "slender",
+    "label": "Slender — 가늘고 슬림한 체형"
+  },
+  "param-height-impression": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-shoulder-build": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-torso---chest-build": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-torso-length": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-waist---hip-silhouette": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-leg-proportion": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-lower-body-build": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-body-measurements--B-W-H-": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-facial-character": {
+    "value": "soft",
+    "label": "Soft — 부드럽고 온화한 인상"
+  },
+  "param-skin-tone": {
+    "value": "light",
+    "label": "Light — 밝은 피부"
+  },
+  "param-face-shape": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-eye-shape": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-eye-color": {
+    "value": "red",
+    "label": "Red — 적색"
+  },
+  "param-second-eye-color": {
+    "value": "",
+    "label": "양쪽 같은 색"
+  },
+  "param-face-length": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-face-width": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-jaw---chin": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-eye-size": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-eye-tilt": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-nose-character": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-lips": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-hair-color": {
+    "value": "mint",
+    "label": "Mint — 민트색"
+  },
+  "param-hairstyle": {
+    "value": "bob",
+    "label": "Bob — 단정한 보브컷"
+  },
+  "param-hair-length": {
+    "value": "short",
+    "label": "Short — 짧은 머리"
+  },
+  "param-bangs": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-hair-accent": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-hair-texture": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-hair-volume": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-parting": {
+    "value": "",
+    "label": "자동"
+  },
+  "expression": {
+    "value": "",
+    "label": "AUTO — 자동"
+  },
+  "action-category": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-example": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-timing": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-equipment": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-power": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-effects": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-speed": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-environment": {
+    "value": "",
+    "label": "자동"
+  },
+  "pose": {
+    "value": "",
+    "label": "자동"
+  },
+  "orientation": {
+    "value": "",
+    "label": "AUTO — 자동"
+  },
+  "frame": {
+    "value": "",
+    "label": "자동 — 장면에 맞게"
+  },
+  "lens": {
+    "value": "",
+    "label": "자동 — 장면에 맞게"
+  },
+  "aspect": {
+    "value": "2:3",
+    "label": "2:3"
+  },
+  "camera": {
+    "value": ""
+  },
+  "scene": {
+    "value": "A quiet white botanical hangar with green glass skylights in morning light. Calm balanced standing guard, two open human hands held separately beside her hips, face toward camera, complete head and feet visible."
+  },
+  "outfit": {
+    "value": ""
+  },
+  "custom": {
+    "value": "One clearly adult woman in her 20s. Both hands fully within the chosen framing, each hand exactly one thumb and four individually separated fingers with coherent knuckles; no fused digits or extra fingers. No weapons, text, logo, border or duplicate figure."
+  }
+}
