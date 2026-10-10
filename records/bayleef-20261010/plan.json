@@ -1,0 +1,56 @@
+{
+  "name": "베이리프",
+  "slug": "bayleef",
+  "hair": "blonde",
+  "style": "high ponytail",
+  "length": "long",
+  "eye": "amber",
+  "body": "athletic",
+  "face": "cool",
+  "action": "An empty cream-colored garden training court at late afternoon. Face toward camera, grounded athletic stance, two open hands separate and clear of torso, all limbs and feet inside portrait. Leaf green accents, organized glossy slim armor.",
+  "casual": [
+    {
+      "cat": "swimwear",
+      "expr": "curious",
+      "pose": "squatting",
+      "orient": "high_angle",
+      "frame": "full_body",
+      "lens": "wide24",
+      "scene": "An empty shallow tidal beach in clear midday sun. She squats steadily on damp sand beside a small tide pool, pointing loosely toward a shell on the sand with one hand while the other rests open on her thigh. Both feet, face and both distinct hands visible, sea foam and turquoise water around her.",
+      "outfit": "Fully lined ochre-yellow two-piece swimwear: secure scoop-neck top with broad crossed back straps, matching high-waisted bottoms with opaque full coverage and green seam piping, small leaf-shaped bracelet. Bare shoulders, waist and legs, no armor."
+    },
+    {
+      "cat": "food_berries",
+      "expr": "amused",
+      "pose": "preparing_food",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "A sunlit farmhouse preserve kitchen at late golden afternoon. Facing the camera at a counter, she places cut red berries into a wide transparent preserving jar with her right hand while her left steadies the jar well away from the right fingers. White tiled walls, copper pans, no readable labels, both hands fully visible.",
+      "outfit": "A cream sleeveless V-neck rib-knit crop vest, a sage linen wrap skirt with side slit, and a small ochre waist apron tied below the bare midriff. Bare shoulders and arms, tiny leaf zipper charm, ordinary cooking fashion."
+    },
+    {
+      "cat": "travel_exploration",
+      "expr": "pensive",
+      "pose": "sitting",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "telephoto135",
+      "scene": "A private scenic cable-car cabin crossing autumn forest at overcast morning. Seated upright on the cabin bench in readable side profile, she holds an unfolded unlettered trail map across her lap, one hand on each separated edge, glancing thoughtfully toward the forest. Soft diffuse window light, no reflections duplicating her.",
+      "outfit": "A rust sleeveless square-neck fitted travel top with cropped hem, cream high-waisted tailored shorts, sturdy low ankle boots, small green leaf pendant. Bare arms, midriff and thighs, practical original travel fashion."
+    }
+  ],
+  "generator": "Actual Preact UI controls via repository DOM harness; exact generated textarea captured",
+  "recent_comparison": [
+    "괴력몬",
+    "후딘",
+    "강챙이",
+    "치코리타"
+  ],
+  "comparison_source": "Read submitted casual1-3 prompts in records/machamp-20261010, alakazam-20261010, poliwrath-20261010",
+  "diversity_changes": "Changed place, activity, clothing silhouette and composition relative to recent records; different expressions, poses, orientations, frames and lighting per character. Required categories rotate adult_roleplay, swimwear, lingerie.",
+  "fixed_axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

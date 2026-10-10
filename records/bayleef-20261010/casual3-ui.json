@@ -1,0 +1,84 @@
+{
+  "search": {
+    "value": ""
+  },
+  "group": {
+    "value": "",
+    "label": "전체"
+  },
+  "source": {
+    "value": "베이리프",
+    "label": "0153 · 베이리프"
+  },
+  "style": {
+    "value": "glossy_promo",
+    "label": "글로시 프로모 키아트"
+  },
+  "motifs": {
+    "value": ""
+  },
+  "expression": {
+    "value": "pensive",
+    "label": "pensive — 생각에 잠긴"
+  },
+  "category": {
+    "value": "travel_exploration",
+    "label": "여행·필드 탐험"
+  },
+  "example": {
+    "value": "",
+    "label": "자동 — 이 갈래에 맞는 장면"
+  },
+  "pose": {
+    "value": "sitting",
+    "label": "의자에 앉기"
+  },
+  "orientation": {
+    "value": "side",
+    "label": "side profile — 측면"
+  },
+  "frame": {
+    "value": "three_quarter",
+    "label": "무릎 위"
+  },
+  "lens": {
+    "value": "telephoto135",
+    "label": "망원 · 135mm 느낌"
+  },
+  "aspect": {
+    "value": "2:3",
+    "label": "2:3"
+  },
+  "camera": {
+    "value": ""
+  },
+  "scene": {
+    "value": "A private scenic cable-car cabin crossing autumn forest at overcast morning. Seated upright on the cabin bench in readable side profile, she holds an unfolded unlettered trail map across her lap, one hand on each separated edge, glancing thoughtfully toward the forest. Soft diffuse window light, no reflections duplicating her."
+  },
+  "outfit": {
+    "value": "A rust sleeveless square-neck fitted travel top with cropped hem, cream high-waisted tailored shorts, sturdy low ankle boots, small green leaf pendant. Bare arms, midriff and thighs, practical original travel fashion."
+  },
+  "custom": {
+    "value": "One clearly adult woman in her 20s. Both hands fully within the chosen framing, each hand exactly one thumb and four individually separated fingers with coherent knuckles; no fused digits or extra fingers. No weapons, text, logo, border or duplicate figure."
+  },
+  "axis-overall_intensity": {
+    "value": "strong",
+    "label": "가장 강함"
+  },
+  "axis-skin_exposure": {
+    "value": "bold",
+    "label": "많이"
+  },
+  "axis-action_level": {
+    "value": "AUTO",
+    "label": "자동"
+  },
+  "axis-source_influence": {
+    "value": "AUTO",
+    "label": "자동"
+  },
+  "axis-separates_preference": {
+    "value": "AUTO",
+    "label": "자동"
+  }
+}

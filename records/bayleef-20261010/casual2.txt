@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Bayleef (베이리프) personified, grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed
+Pose: Work at a kitchen counter, stirring a bowl or arranging ingredients with clearly separated hands and utensils.
+Orientation: torso and pelvis face the camera; gaze is independent
+Scene: A sunlit farmhouse preserve kitchen at late golden afternoon. Facing the camera at a counter, she places cut red berries into a wide transparent preserving jar with her right hand while her left steadies the jar well away from the right fingers. White tiled walls, copper pans, no readable labels, both hands fully visible.
+Outfit and props: A cream sleeveless V-neck rib-knit crop vest, a sage linen wrap skirt with side slit, and a small ochre waist apron tied below the bare midriff. Bare shoulders and arms, tiny leaf zipper charm, ordinary cooking fashion.
+Category: Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.
+Note: One clearly adult woman in her 20s. Both hands fully within the chosen framing, each hand exactly one thumb and four individually separated fingers with coherent knuckles; no fused digits or extra fingers. No weapons, text, logo, border or duplicate figure.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

@@ -1,0 +1,84 @@
+{
+  "search": {
+    "value": ""
+  },
+  "group": {
+    "value": "",
+    "label": "전체"
+  },
+  "source": {
+    "value": "베이리프",
+    "label": "0153 · 베이리프"
+  },
+  "style": {
+    "value": "glossy_promo",
+    "label": "글로시 프로모 키아트"
+  },
+  "motifs": {
+    "value": ""
+  },
+  "expression": {
+    "value": "curious",
+    "label": "curious — 호기심"
+  },
+  "category": {
+    "value": "swimwear",
+    "label": "수영복 라이프스타일"
+  },
+  "example": {
+    "value": "",
+    "label": "자동"
+  },
+  "pose": {
+    "value": "squatting",
+    "label": "쪼그려 앉기"
+  },
+  "orientation": {
+    "value": "high_angle",
+    "label": "high angle — 위에서 내려다본 각도"
+  },
+  "frame": {
+    "value": "full_body",
+    "label": "전신"
+  },
+  "lens": {
+    "value": "wide24",
+    "label": "광각 · 24mm 느낌"
+  },
+  "aspect": {
+    "value": "2:3",
+    "label": "2:3"
+  },
+  "camera": {
+    "value": ""
+  },
+  "scene": {
+    "value": "An empty shallow tidal beach in clear midday sun. She squats steadily on damp sand beside a small tide pool, pointing loosely toward a shell on the sand with one hand while the other rests open on her thigh. Both feet, face and both distinct hands visible, sea foam and turquoise water around her."
+  },
+  "outfit": {
+    "value": "Fully lined ochre-yellow two-piece swimwear: secure scoop-neck top with broad crossed back straps, matching high-waisted bottoms with opaque full coverage and green seam piping, small leaf-shaped bracelet. Bare shoulders, waist and legs, no armor."
+  },
+  "custom": {
+    "value": "One clearly adult woman in her 20s. Both hands fully within the chosen framing, each hand exactly one thumb and four individually separated fingers with coherent knuckles; no fused digits or extra fingers. No weapons, text, logo, border or duplicate figure."
+  },
+  "axis-overall_intensity": {
+    "value": "strong",
+    "label": "가장 강함"
+  },
+  "axis-skin_exposure": {
+    "value": "bold",
+    "label": "많이"
+  },
+  "axis-action_level": {
+    "value": "AUTO",
+    "label": "자동"
+  },
+  "axis-source_influence": {
+    "value": "AUTO",
+    "label": "자동"
+  },
+  "axis-separates_preference": {
+    "value": "AUTO",
+    "label": "자동"
+  }
+}

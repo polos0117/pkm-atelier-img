@@ -1,0 +1,213 @@
+{
+  "character": "베이리프",
+  "reference": {
+    "character": "베이리프",
+    "slot": "light",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/390ae91256da/generated_images/exec-976a4b91-84fb-4f37-a1c4-96326b74aec2.png",
+    "output": "img/베이리프_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "e775ae4c568f224bb982298a7360abc727434dd4cec94ea38b1ac36d0650ce0c",
+    "reference": null,
+    "prompt": "records/bayleef-20261010/light.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+    "durable_package_member": "img/베이리프_light_glossy_promo_f.webp",
+    "reference_package_member": null
+  },
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "count": 9,
+  "target": 9,
+  "upload": "Authorized by user; nine images and records included in the character commit to main; remote commit identity is recorded in Git history.",
+  "files": [
+    {
+      "character": "베이리프",
+      "slot": "light",
+      "style": "glossy_promo",
+      "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+      "original": "/workspace/scratch/390ae91256da/generated_images/exec-976a4b91-84fb-4f37-a1c4-96326b74aec2.png",
+      "output": "img/베이리프_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e775ae4c568f224bb982298a7360abc727434dd4cec94ea38b1ac36d0650ce0c",
+      "reference": null,
+      "prompt": "records/bayleef-20261010/light.txt",
+      "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+      "durable_package_member": "img/베이리프_light_glossy_promo_f.webp",
+      "reference_package_member": null
+    },
+    {
+      "character": "베이리프",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+      "original": "/workspace/scratch/390ae91256da/generated_images/exec-3e212a3e-15e3-4620-a19f-539d1ce77183.png",
+      "output": "img/베이리프_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c91640a48f30546e19f76a1ca5e5f9699348cdcb81627922e043c029bfdc2d86",
+      "reference": "img/베이리프_light_glossy_promo_f.webp",
+      "prompt": "records/bayleef-20261010/heavy.txt",
+      "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+      "durable_package_member": "img/베이리프_heavy_glossy_promo_f.webp",
+      "reference_package_member": "img/베이리프_light_glossy_promo_f.webp"
+    },
+    {
+      "character": "베이리프",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+      "original": "/workspace/scratch/390ae91256da/generated_images/exec-b886b675-6c33-42b2-b3a7-cf7060ac8d4e.png",
+      "output": "img/베이리프_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "8a27af66ff923d8598200965148198150f7aed47afce76394207992cd1e2510b",
+      "reference": "img/베이리프_light_glossy_promo_f.webp",
+      "prompt": "records/bayleef-20261010/mobility.txt",
+      "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+      "durable_package_member": "img/베이리프_mobility_glossy_promo_f.webp",
+      "reference_package_member": "img/베이리프_light_glossy_promo_f.webp"
+    },
+    {
+      "character": "베이리프",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+      "original": "/workspace/scratch/390ae91256da/generated_images/exec-de364797-91e3-4e20-8937-2eff7e46e987.png",
+      "output": "img/베이리프_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "ab920a487d7b940fb89baebcd87e4a39971ddf8eee7993ce67520bc719cfad6f",
+      "reference": "img/베이리프_light_glossy_promo_f.webp",
+      "prompt": "records/bayleef-20261010/light_overdrive.txt",
+      "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+      "durable_package_member": "img/베이리프_light_overdrive_glossy_promo_f.webp",
+      "reference_package_member": "img/베이리프_light_glossy_promo_f.webp"
+    },
+    {
+      "character": "베이리프",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+      "original": "/workspace/scratch/390ae91256da/generated_images/exec-56da022e-e291-43e4-8905-6071445c07f9.png",
+      "output": "img/베이리프_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c22c260d86755876afdc49bbfca4f5e627aee682d279a3eea3e80d521ba3fb99",
+      "reference": "img/베이리프_heavy_glossy_promo_f.webp",
+      "prompt": "records/bayleef-20261010/heavy_overdrive.txt",
+      "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+      "durable_package_member": "img/베이리프_heavy_overdrive_glossy_promo_f.webp",
+      "reference_package_member": "img/베이리프_heavy_glossy_promo_f.webp"
+    },
+    {
+      "character": "베이리프",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+      "original": "/workspace/scratch/390ae91256da/generated_images/exec-cea86968-cd9e-41e6-b1c3-762f51699da6.png",
+      "output": "img/베이리프_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "86cfaf8f4dd5c42c8ad6cf8d6618816dbcc2f21573429f2d63f612073cb5608c",
+      "reference": "img/베이리프_mobility_glossy_promo_f.webp",
+      "prompt": "records/bayleef-20261010/mobility_overdrive.txt",
+      "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+      "durable_package_member": "img/베이리프_mobility_overdrive_glossy_promo_f.webp",
+      "reference_package_member": "img/베이리프_mobility_glossy_promo_f.webp"
+    },
+    {
+      "character": "베이리프",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+      "original": "/workspace/scratch/390ae91256da/generated_images/exec-e0f911d8-52e6-44fa-89e7-7bf390188eee.png",
+      "output": "img/베이리프_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b14c05819b30d98fa7f7c1a15055c998d367675f1d08e595dea13d97d9699f3c",
+      "reference": "img/베이리프_light_glossy_promo_f.webp",
+      "prompt": "records/bayleef-20261010/casual1.txt",
+      "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+      "durable_package_member": "img/베이리프_glossy_promo_f_casual1.webp",
+      "reference_package_member": "img/베이리프_light_glossy_promo_f.webp"
+    },
+    {
+      "character": "베이리프",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+      "original": "/workspace/scratch/390ae91256da/generated_images/exec-9f988b0b-5f07-4df3-b6ed-1b17928c11ff.png",
+      "output": "img/베이리프_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "93d56d95ecde55dd749e93efc8b86fda85d5ecb807fb0000360f2bbf2044c087",
+      "reference": "img/베이리프_light_glossy_promo_f.webp",
+      "prompt": "records/bayleef-20261010/casual2.txt",
+      "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+      "durable_package_member": "img/베이리프_glossy_promo_f_casual2.webp",
+      "reference_package_member": "img/베이리프_light_glossy_promo_f.webp"
+    },
+    {
+      "character": "베이리프",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+      "original": "/workspace/scratch/390ae91256da/generated_images/exec-4cc1a8d0-d679-464d-aaa2-932e4fa19693.png",
+      "output": "img/베이리프_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b1ab6b3f94321e7d1dc0c8a5f8ea68bc4cc4bdd79d46fcdd3271149a01321d81",
+      "reference": "img/베이리프_light_glossy_promo_f.webp",
+      "prompt": "records/bayleef-20261010/casual3.txt",
+      "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked",
+      "durable_package_member": "img/베이리프_glossy_promo_f_casual3.webp",
+      "reference_package_member": "img/베이리프_light_glossy_promo_f.webp"
+    }
+  ],
+  "target_repository": "polos0117/pkm-atelier-img",
+  "branch": "main",
+  "registration": "Automatic thumbnail generation and catalog registration will be verified after publishing.",
+  "casual_diversity_validation": "Tidal beach swimwear observation high-angle full-body, berry kitchen front waist-up, autumn cable-car seated side travel knees-up."
+}

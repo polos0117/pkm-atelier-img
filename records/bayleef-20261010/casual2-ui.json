@@ -1,0 +1,84 @@
+{
+  "search": {
+    "value": ""
+  },
+  "group": {
+    "value": "",
+    "label": "전체"
+  },
+  "source": {
+    "value": "베이리프",
+    "label": "0153 · 베이리프"
+  },
+  "style": {
+    "value": "glossy_promo",
+    "label": "글로시 프로모 키아트"
+  },
+  "motifs": {
+    "value": ""
+  },
+  "expression": {
+    "value": "amused",
+    "label": "amused — 재미있어하는"
+  },
+  "category": {
+    "value": "food_berries",
+    "label": "요리·나무열매"
+  },
+  "example": {
+    "value": "",
+    "label": "자동 — 이 갈래에 맞는 장면"
+  },
+  "pose": {
+    "value": "preparing_food",
+    "label": "음식 준비하기"
+  },
+  "orientation": {
+    "value": "front",
+    "label": "front — 정면"
+  },
+  "frame": {
+    "value": "waist_up",
+    "label": "허리 위"
+  },
+  "lens": {
+    "value": "natural50",
+    "label": "표준 · 50mm 느낌"
+  },
+  "aspect": {
+    "value": "2:3",
+    "label": "2:3"
+  },
+  "camera": {
+    "value": ""
+  },
+  "scene": {
+    "value": "A sunlit farmhouse preserve kitchen at late golden afternoon. Facing the camera at a counter, she places cut red berries into a wide transparent preserving jar with her right hand while her left steadies the jar well away from the right fingers. White tiled walls, copper pans, no readable labels, both hands fully visible."
+  },
+  "outfit": {
+    "value": "A cream sleeveless V-neck rib-knit crop vest, a sage linen wrap skirt with side slit, and a small ochre waist apron tied below the bare midriff. Bare shoulders and arms, tiny leaf zipper charm, ordinary cooking fashion."
+  },
+  "custom": {
+    "value": "One clearly adult woman in her 20s. Both hands fully within the chosen framing, each hand exactly one thumb and four individually separated fingers with coherent knuckles; no fused digits or extra fingers. No weapons, text, logo, border or duplicate figure."
+  },
+  "axis-overall_intensity": {
+    "value": "strong",
+    "label": "가장 강함"
+  },
+  "axis-skin_exposure": {
+    "value": "bold",
+    "label": "많이"
+  },
+  "axis-action_level": {
+    "value": "AUTO",
+    "label": "자동"
+  },
+  "axis-source_influence": {
+    "value": "AUTO",
+    "label": "자동"
+  },
+  "axis-separates_preference": {
+    "value": "AUTO",
+    "label": "자동"
+  }
+}

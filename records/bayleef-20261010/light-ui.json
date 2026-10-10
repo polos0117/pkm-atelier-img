@@ -1,0 +1,231 @@
+{
+  "search": {
+    "value": ""
+  },
+  "group": {
+    "value": "",
+    "label": "전체"
+  },
+  "source": {
+    "value": "베이리프",
+    "label": "0153 · 베이리프"
+  },
+  "style": {
+    "value": "glossy_promo",
+    "label": "글로시 프로모 키아트"
+  },
+  "identity-mode": {
+    "value": "create",
+    "label": "새 인물 만들기"
+  },
+  "form": {
+    "value": "light",
+    "label": "경장"
+  },
+  "form-override": {
+    "value": ""
+  },
+  "motifs": {
+    "value": ""
+  },
+  "head-feature": {
+    "value": "",
+    "label": "자동 — 원본 머리 특징에 맞춰"
+  },
+  "param-apparent-age": {
+    "value": "20s",
+    "label": "20s — 20대 성인"
+  },
+  "param-facial-ethnicity": {
+    "value": "East Asian",
+    "label": "East Asian — 동아시아 계열"
+  },
+  "param-body-type": {
+    "value": "athletic",
+    "label": "Athletic — 탄탄한 운동형 체형"
+  },
+  "param-height-impression": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-shoulder-build": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-torso---chest-build": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-torso-length": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-waist---hip-silhouette": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-leg-proportion": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-lower-body-build": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-body-measurements--B-W-H-": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-facial-character": {
+    "value": "cool",
+    "label": "Cool — 차갑고 세련된 인상"
+  },
+  "param-skin-tone": {
+    "value": "light",
+    "label": "Light — 밝은 피부"
+  },
+  "param-face-shape": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-eye-shape": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-eye-color": {
+    "value": "amber",
+    "label": "Amber — 호박색"
+  },
+  "param-second-eye-color": {
+    "value": "",
+    "label": "양쪽 같은 색"
+  },
+  "param-face-length": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-face-width": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-jaw---chin": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-eye-size": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-eye-tilt": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-nose-character": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-lips": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-hair-color": {
+    "value": "blonde",
+    "label": "Blonde — 금발"
+  },
+  "param-hairstyle": {
+    "value": "high ponytail",
+    "label": "High Ponytail — 높이 묶은 포니테일"
+  },
+  "param-hair-length": {
+    "value": "long",
+    "label": "Long — 긴 머리"
+  },
+  "param-bangs": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-hair-accent": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-hair-texture": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-hair-volume": {
+    "value": "",
+    "label": "자동"
+  },
+  "param-parting": {
+    "value": "",
+    "label": "자동"
+  },
+  "expression": {
+    "value": "",
+    "label": "AUTO — 자동"
+  },
+  "action-category": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-example": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-timing": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-equipment": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-power": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-effects": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-speed": {
+    "value": "",
+    "label": "자동"
+  },
+  "action-environment": {
+    "value": "",
+    "label": "자동"
+  },
+  "pose": {
+    "value": "",
+    "label": "자동"
+  },
+  "orientation": {
+    "value": "",
+    "label": "AUTO — 자동"
+  },
+  "frame": {
+    "value": "",
+    "label": "자동 — 장면에 맞게"
+  },
+  "lens": {
+    "value": "",
+    "label": "자동 — 장면에 맞게"
+  },
+  "aspect": {
+    "value": "2:3",
+    "label": "2:3"
+  },
+  "camera": {
+    "value": ""
+  },
+  "scene": {
+    "value": "An empty cream-colored garden training court at late afternoon. Face toward camera, grounded athletic stance, two open hands separate and clear of torso, all limbs and feet inside portrait. Leaf green accents, organized glossy slim armor."
+  },
+  "outfit": {
+    "value": ""
+  },
+  "custom": {
+    "value": "One clearly adult woman in her 20s. Both hands fully within the chosen framing, each hand exactly one thumb and four individually separated fingers with coherent knuckles; no fused digits or extra fingers. No weapons, text, logo, border or duplicate figure."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "search": {
+    "value": ""
+  },
+  "group": {
+    "value": "",
+    "label": "전체"
+  },
+  "source": {
+    "value": "베이리프",
+    "label": "0153 · 베이리프"
+  },
+  "style": {
+    "value": "glossy_promo",
+    "label": "글로시 프로모 키아트"
+  },
+  "form": {
+    "value": "overdrive",
+    "label": "폭주"
+  },
+  "base-form": {
+    "value": "heavy",
+    "label": "중장"
+  },
+  "form-override": {
+    "value": ""
+  },
+  "motifs": {
+    "value": ""
+  },
+  "custom": {
+    "value": "One clearly adult woman in her 20s. Both hands fully within the chosen framing, each hand exactly one thumb and four individually separated fingers with coherent knuckles; no fused digits or extra fingers. No weapons, text, logo, border or duplicate figure."
+  }
+}
