@@ -1,0 +1,38 @@
+[
+  {
+    "slot": "light",
+    "source": "/workspace/scratch/4167fccfcaa6/generated_images/exec-ed12c7d6-c2a0-498b-9593-59f8a9f7ac10.png"
+  },
+  {
+    "slot": "heavy",
+    "source": "/workspace/scratch/4167fccfcaa6/generated_images/exec-ada353a4-8189-475f-b177-c7208d24dbad.png"
+  },
+  {
+    "slot": "mobility",
+    "source": "/workspace/scratch/4167fccfcaa6/generated_images/exec-0089b312-4978-45f6-b7c7-64e836c7b6d6.png"
+  },
+  {
+    "slot": "light_overdrive",
+    "source": "/workspace/scratch/4167fccfcaa6/generated_images/exec-a367e7f4-5ae0-4d09-a842-692849f59aa6.png"
+  },
+  {
+    "slot": "heavy_overdrive",
+    "source": "/workspace/scratch/4167fccfcaa6/generated_images/exec-d38b47d7-4d95-4d15-96c2-037e2bbe286a.png"
+  },
+  {
+    "slot": "mobility_overdrive",
+    "source": "/workspace/scratch/4167fccfcaa6/generated_images/exec-2518adf6-b995-44cf-abdd-aba7538d2813.png"
+  },
+  {
+    "slot": "casual1",
+    "source": "/workspace/scratch/4167fccfcaa6/generated_images/exec-a9abc2f9-1c63-4ff2-9f96-9cf40c60b6c1.png"
+  },
+  {
+    "slot": "casual2",
+    "source": "/workspace/scratch/4167fccfcaa6/generated_images/exec-bd3ad587-063b-421f-8db3-a3fc0eb6c33b.png"
+  },
+  {
+    "slot": "casual3",
+    "source": "/workspace/scratch/4167fccfcaa6/generated_images/exec-9ee9f233-a340-4580-b35b-e03ae283134c.png"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "generator": "Live prompt-generator UI selections, exact prompt hash verification, and built-in imagegen",
+  "comparison": [
+    "성원숭 casual1-3",
+    "가디 casual1-3",
+    "윈디 casual1-3",
+    "발챙이 casual1-3",
+    "슈륙챙이 casual1-3"
+  ],
+  "comparison_review": "Recent casual thumbnails and prior generated images visually inspected. Distinct clothing silhouettes, activities, framing, poses and places selected.",
+  "casual_choices": [
+    {
+      "slot": "casual1",
+      "category": "lingerie-inspired lounge fashion",
+      "scene": "Travel preparation in vintage hotel",
+      "outfit": "Plum satin lace-trim lounge fashion"
+    },
+    {
+      "slot": "casual2",
+      "scene": "Inspecting buoyancy vest in aquatic rescue equipment workshop",
+      "outfit": "Burnt-orange utility romper"
+    },
+    {
+      "slot": "casual3",
+      "scene": "Solo waltz practice in rainy-night dance studio",
+      "outfit": "Emerald wrap dress"
+    }
+  ]
+}
