@@ -1,0 +1,27 @@
+{
+  "mech": "레디안",
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "At a quiet modern waterfront promenade after rain at blue hour, pausing mid-stride beside glowing geometric sculpture lights, chin lifted and gaze slightly toward the horizon, both empty hands relaxed at her sides. Entire head and shoes visible, wet pavement reflections.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people. Remove the armored circlet, gauntlets, plated mantle and sash. Species only as a tiny accessory or color echo.",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "form": "casual3",
+  "aspect": "2:3",
+  "cat": "source_editorial",
+  "expr": "proud",
+  "pose": "mid_stride",
+  "orient": "looking_away",
+  "frame": "full_body",
+  "lens": "telephoto135",
+  "outfit": "Crimson sleeveless high-neck midi column dress with an opaque fitted bodice, secure side slit to mid-thigh, cream waist belt and black low heels. Bare shoulders arms and visible lower legs. Tiny star brooch, no armor.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

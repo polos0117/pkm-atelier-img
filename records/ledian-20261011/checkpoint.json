@@ -1,0 +1,217 @@
+{
+  "status": "generated_reviewed_ready_for_upload",
+  "anchor": {
+    "card": "레디안",
+    "slot": "light",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+    "source": "/workspace/scratch/1829ac433d95/generated_images/exec-f741c344-6099-4888-80cf-658b05c9a02f.png",
+    "source_sha256": "607dc18c32e552b0c6a6177257c6a316f31856b6d7e0428837283198104183e4",
+    "filename": "레디안_light_glossy_promo_f.webp",
+    "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/레디안_light_glossy_promo_f.webp",
+    "remote_path": "img/레디안_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "730324111ef7694393f5bbe6b302c18bd0fbf72f8a13c377e335d6db81e08323",
+    "refs": []
+  },
+  "files": [
+    {
+      "card": "레디안",
+      "slot": "light",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-f741c344-6099-4888-80cf-658b05c9a02f.png",
+      "source_sha256": "607dc18c32e552b0c6a6177257c6a316f31856b6d7e0428837283198104183e4",
+      "filename": "레디안_light_glossy_promo_f.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/레디안_light_glossy_promo_f.webp",
+      "remote_path": "img/레디안_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "730324111ef7694393f5bbe6b302c18bd0fbf72f8a13c377e335d6db81e08323",
+      "refs": []
+    },
+    {
+      "card": "레디안",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-3dcd4209-3901-4808-bad4-f56cdf1bf19f.png",
+      "source_sha256": "a502e3553a6e42ac27ec1e46f6c965a54f8c2d2bf963e9818cdfa1a132c2ea96",
+      "filename": "레디안_heavy_glossy_promo_f.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/레디안_heavy_glossy_promo_f.webp",
+      "remote_path": "img/레디안_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "04559624c41c9a967194bdcb0e3e1b21207194b36780b65c1b0f5258979deded",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "레디안",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-18fb9435-9575-4432-b9f8-c61abe321605.png",
+      "source_sha256": "f3ebaced6d1be0a9fde1dc45b31214241c6eea15d908c34a1e4400217fa53afc",
+      "filename": "레디안_mobility_glossy_promo_f.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/레디안_mobility_glossy_promo_f.webp",
+      "remote_path": "img/레디안_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "79655e3339f2a21a924a44d4b0565850dc887296e2a972befd9bcfa8f88f5805",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "레디안",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-11ca53d8-dc6f-4d56-b4e5-8d4b6fe0db1f.png",
+      "source_sha256": "d36b6e4e91c2299252116a4bcda0d02fad16b07700c0b29cf2f3b0de282aafbb",
+      "filename": "레디안_light_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/레디안_light_overdrive_glossy_promo_f.webp",
+      "remote_path": "img/레디안_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "7e20a436dbf33399c08b4983acc875e8cd659033f624cbde1d38dc0407d0b796",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "레디안",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-ab35fad8-25b7-4d3b-adc0-dd85eb3eb660.png",
+      "source_sha256": "6f31464d88596e8da18f3ac0f780087a79b44e896434f4a84d30d8a786ebb79e",
+      "filename": "레디안_glossy_promo_f_casual1.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/레디안_glossy_promo_f_casual1.webp",
+      "remote_path": "img/레디안_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "957c15f32d97aaac30a88a1c55d9aa415e5c83f2cb8712456cb5894b6429d2ba",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "레디안",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-824dca93-4d48-42e5-9c15-8589e4e29a24.png",
+      "source_sha256": "38da6430b9057e65a7c4a492388a30dd9238c544663e5e654f3628a6a056d7ed",
+      "filename": "레디안_glossy_promo_f_casual2.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/레디안_glossy_promo_f_casual2.webp",
+      "remote_path": "img/레디안_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "d1d259b3b6758f5e4a45d0e8cbdcbcef836960843cd65566690fc7bc34390ca8",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "레디안",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-f97330bd-fda3-4ae3-b2d3-370721373225.png",
+      "source_sha256": "662d0bbc1bb1e2d8178882cf84727cf971d8122344c51bfc1467284c30b7d399",
+      "filename": "레디안_glossy_promo_f_casual3.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/레디안_glossy_promo_f_casual3.webp",
+      "remote_path": "img/레디안_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "95516f1990f4dd9809cc82e60c458faf20c4a49c6694686f3122ccfd51378826",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "레디안",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-5ebdbc79-2a9a-4cd5-b89f-b34c181d7b6b.png",
+      "source_sha256": "48595a11af28a2bd23f448611311721049afc950ee75468e2d85ebb201178c3a",
+      "filename": "레디안_heavy_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/레디안_heavy_overdrive_glossy_promo_f.webp",
+      "remote_path": "img/레디안_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "ac5713377369a66bc273cc56e9b5480718496c5a9fd9a811795b11780ba2207c",
+      "refs": [
+        "heavy",
+        "light"
+      ]
+    },
+    {
+      "card": "레디안",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-f2d5869d-7bf0-49f2-ac33-76ddf85e772f.png",
+      "source_sha256": "d1ce1119e94b85f2c2d3bee5d05149c31def058e2fc2d57322b640c795a8febf",
+      "filename": "레디안_mobility_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/레디안_mobility_overdrive_glossy_promo_f.webp",
+      "remote_path": "img/레디안_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f1817dd2d52acfb193a1f6fd0c341a45993f81c102d7125503c040002b0057ea",
+      "refs": [
+        "mobility",
+        "light"
+      ]
+    }
+  ],
+  "comparison": {
+    "characters": [
+      "야돈",
+      "부우부",
+      "날쌩마"
+    ],
+    "source": "Remote main plan.json files read for these three recent characters. Compared vanity bracelet, garden dessert, marsh shell walk, planetarium telescope, rooftop pool stretch, harvest fair stool, racing exhibit host, pottery and dawn jogging.",
+    "changes": "New scenes differ in location, activity, outfit silhouette and composition. Compare earlier characters of this batch too.",
+    "batch_characters": [
+      "noctowl",
+      "ledyba"
+    ]
+  },
+  "review": "Images visually inspected for identity, armor form separation, paired open-state composition, anatomy, text and weapons, and distinct off-duty scenes. Corrections recorded separately when needed."
+}

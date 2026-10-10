@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Ledian (레디안) personified, bug / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: chin lifted, brows level, eyes bright and steady, closed-lip smile with a firm mouth
+Pose: Capture a clear mid-stride step with believable weight transfer.
+Orientation: gaze off-camera; body orientation independent
+Scene: At a quiet modern waterfront promenade after rain at blue hour, pausing mid-stride beside glowing geometric sculpture lights, chin lifted and gaze slightly toward the horizon, both empty hands relaxed at her sides. Entire head and shoes visible, wet pavement reflections.
+Outfit and props: Crimson sleeveless high-neck midi column dress with an opaque fitted bodice, secure side slit to mid-thigh, cream waist belt and black low heels. Bare shoulders arms and visible lower legs. Tiny star brooch, no armor.
+Category: This scene should reinterpret the source creature as human editorial fashion. Translate source-specific colors, geometry, silhouette logic, crest language, and equipment symbolism into couture or themed fashion. No literal armor, no pilot suit, no mechanical body, no weapons.
+Note: Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people. Remove the armored circlet, gauntlets, plated mantle and sash. Species only as a tiny accessory or color echo.
+Framing: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.
+Lens / perspective: 135mm-equivalent telephoto perspective from farther away, with compressed background depth and unchanged anatomy.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

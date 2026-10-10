@@ -1,0 +1,27 @@
+{
+  "mech": "레디안",
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "In a private couture fitting studio at late evening, leaning lightly against a velvet cutting table and tying a satin ribbon around a folded garment using two separate visible hands. Soft peach lamps and a deep blue window, no other person or mannequin.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people. Remove the armored circlet, gauntlets, plated mantle and sash. Species only as a tiny accessory or color echo.",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "form": "casual1",
+  "aspect": "2:3",
+  "cat": "lingerie",
+  "expr": "soft_smile",
+  "pose": "leaning_furniture",
+  "orient": "front_3q",
+  "frame": "waist_up",
+  "lens": "portrait85",
+  "outfit": "Opaque lined crimson satin longline bustier with secure cream straps, straight fitted cups and black high-waisted tailored lounge shorts. Bare shoulders arms and narrow midriff gap, tiny star-shaped earrings. Elegant lingerie-inspired fashion, full chest and pelvis coverage, no armor.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

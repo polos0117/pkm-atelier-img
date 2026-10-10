@@ -1,0 +1,27 @@
+{
+  "mech": "레디안",
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "In a small photographic darkroom under deep red safety light, standing side-on while clipping an unlettered abstract photo print onto a hanging drying line at chest height. Both complete hands separated and visible, dark trays and a small amber doorway light.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people. Remove the armored circlet, gauntlets, plated mantle and sash. Species only as a tiny accessory or color echo.",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "form": "casual2",
+  "aspect": "2:3",
+  "cat": "hobbies_leisure",
+  "expr": "pensive",
+  "pose": "mid_action",
+  "orient": "side",
+  "frame": "three_quarter",
+  "lens": "documentary35",
+  "outfit": "Cream fitted short-sleeved boat-neck T-shirt, red high-waisted pleated short skirt over opaque shorts and black sneakers. Bare forearms and legs, tiny black dotted bracelet, no armor.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

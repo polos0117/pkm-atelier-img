@@ -1,0 +1,73 @@
+{
+  "mech": "레디안",
+  "scene": "On a twilight hilltop research landing pad, upright ready stance, two empty hands open and relaxed, red and cream armor against a deep blue starry sky. Full figure unobstructed.",
+  "casual": [
+    {
+      "cat": "lingerie",
+      "expr": "soft_smile",
+      "pose": "leaning_furniture",
+      "orient": "front_3q",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "In a private couture fitting studio at late evening, leaning lightly against a velvet cutting table and tying a satin ribbon around a folded garment using two separate visible hands. Soft peach lamps and a deep blue window, no other person or mannequin.",
+      "outfit": "Opaque lined crimson satin longline bustier with secure cream straps, straight fitted cups and black high-waisted tailored lounge shorts. Bare shoulders arms and narrow midriff gap, tiny star-shaped earrings. Elegant lingerie-inspired fashion, full chest and pelvis coverage, no armor.",
+      "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people. Remove the armored circlet, gauntlets, plated mantle and sash. Species only as a tiny accessory or color echo.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "pensive",
+      "pose": "mid_action",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "documentary35",
+      "scene": "In a small photographic darkroom under deep red safety light, standing side-on while clipping an unlettered abstract photo print onto a hanging drying line at chest height. Both complete hands separated and visible, dark trays and a small amber doorway light.",
+      "outfit": "Cream fitted short-sleeved boat-neck T-shirt, red high-waisted pleated short skirt over opaque shorts and black sneakers. Bare forearms and legs, tiny black dotted bracelet, no armor.",
+      "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people. Remove the armored circlet, gauntlets, plated mantle and sash. Species only as a tiny accessory or color echo.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "cat": "source_editorial",
+      "expr": "proud",
+      "pose": "mid_stride",
+      "orient": "looking_away",
+      "frame": "full_body",
+      "lens": "telephoto135",
+      "scene": "At a quiet modern waterfront promenade after rain at blue hour, pausing mid-stride beside glowing geometric sculpture lights, chin lifted and gaze slightly toward the horizon, both empty hands relaxed at her sides. Entire head and shoes visible, wet pavement reflections.",
+      "outfit": "Crimson sleeveless high-neck midi column dress with an opaque fitted bodice, secure side slit to mid-thigh, cream waist belt and black low heels. Bare shoulders arms and visible lower legs. Tiny star brooch, no armor.",
+      "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people. Remove the armored circlet, gauntlets, plated mantle and sash. Species only as a tiny accessory or color echo.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    }
+  ],
+  "comparison": {
+    "characters": [
+      "야돈",
+      "부우부",
+      "날쌩마"
+    ],
+    "source": "Remote main plan.json files read for these three recent characters. Compared vanity bracelet, garden dessert, marsh shell walk, planetarium telescope, rooftop pool stretch, harvest fair stool, racing exhibit host, pottery and dawn jogging.",
+    "changes": "New scenes differ in location, activity, outfit silhouette and composition. Compare earlier characters of this batch too.",
+    "batch_characters": [
+      "noctowl",
+      "ledyba"
+    ]
+  }
+}

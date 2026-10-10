@@ -1,0 +1,65 @@
+[
+  {
+    "slot": "light",
+    "fnv": "24e220c1",
+    "length": 2667,
+    "verified": true,
+    "evidence": "Real deployed generator UI controls explicitly selected; full output read from prompt-output and matched to submitted prompt."
+  },
+  {
+    "slot": "heavy",
+    "fnv": "6bd04cfd",
+    "length": 2084,
+    "verified": true,
+    "evidence": "Real deployed generator UI controls explicitly selected; full output read from prompt-output and matched to submitted prompt."
+  },
+  {
+    "slot": "mobility",
+    "fnv": "e29cd78e",
+    "length": 2024,
+    "verified": true,
+    "evidence": "Real deployed generator UI controls explicitly selected; full output read from prompt-output and matched to submitted prompt."
+  },
+  {
+    "slot": "light_overdrive",
+    "fnv": "4cfb8d9",
+    "length": 1450,
+    "verified": true,
+    "evidence": "Real deployed generator UI controls explicitly selected; full output read from prompt-output and matched to submitted prompt."
+  },
+  {
+    "slot": "heavy_overdrive",
+    "fnv": "c1d9e6cc",
+    "length": 1487,
+    "verified": true,
+    "evidence": "Real deployed generator UI controls explicitly selected; full output read from prompt-output and matched to submitted prompt."
+  },
+  {
+    "slot": "mobility_overdrive",
+    "fnv": "da372e08",
+    "length": 1458,
+    "verified": true,
+    "evidence": "Real deployed generator UI controls explicitly selected; full output read from prompt-output and matched to submitted prompt."
+  },
+  {
+    "slot": "casual1",
+    "fnv": "c01e69ad",
+    "length": 3144,
+    "verified": true,
+    "evidence": "Real deployed generator UI controls explicitly selected; full output read from prompt-output and matched to submitted prompt."
+  },
+  {
+    "slot": "casual2",
+    "fnv": "ef7ccee3",
+    "length": 2793,
+    "verified": true,
+    "evidence": "Real deployed generator UI controls explicitly selected; full output read from prompt-output and matched to submitted prompt."
+  },
+  {
+    "slot": "casual3",
+    "fnv": "e74019ee",
+    "length": 2901,
+    "verified": true,
+    "evidence": "Real deployed generator UI controls explicitly selected; full output read from prompt-output and matched to submitted prompt."
+  }
+]

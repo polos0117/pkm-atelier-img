@@ -1,0 +1,17 @@
+{
+  "mech": "레디안",
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "On a twilight hilltop research landing pad, upright ready stance, two empty hands open and relaxed, red and cream armor against a deep blue starry sky. Full figure unobstructed.",
+  "custom": "1024x1536. Both empty hands visible, exactly five distinct natural fingers each. No weapons.",
+  "outputMode": "action",
+  "identityMode": "reference",
+  "form": "overdrive",
+  "aspect": "2:3",
+  "baseForm": "mobility"
+}
