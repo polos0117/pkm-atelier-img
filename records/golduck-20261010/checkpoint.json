@@ -1,0 +1,178 @@
+{
+  "character": "골덕",
+  "anchor": {
+    "slot": "light",
+    "reference": null,
+    "prompt": "light.txt",
+    "uiState": {
+      "last": "골덕",
+      "cards": {
+        "이상해씨": {
+          "style": "cinematic_semi_real",
+          "identityMode": "create",
+          "form": "light",
+          "baseForm": "light",
+          "motifs": "",
+          "formOverride": "",
+          "headFeature": "",
+          "params": {},
+          "locks": {},
+          "mode": "action",
+          "scenes": {
+            "action": {
+              "expr": "",
+              "pose": "",
+              "orient": "",
+              "scene": "",
+              "outfit": "",
+              "frame": "",
+              "lens": "",
+              "camera": "",
+              "custom": "",
+              "aspect": "2:3",
+              "cat": "everyday_basic",
+              "catCustom": "",
+              "ex": "",
+              "exCustom": "",
+              "axes": {},
+              "action": {
+                "category": "",
+                "example": "",
+                "timing": "",
+                "equipment": "",
+                "power": "",
+                "effects": "",
+                "speed": "",
+                "environment": ""
+              },
+              "randomLocks": {}
+            },
+            "casual": {
+              "expr": "",
+              "pose": "",
+              "orient": "",
+              "scene": "",
+              "outfit": "",
+              "frame": "",
+              "lens": "",
+              "camera": "",
+              "custom": "",
+              "aspect": "2:3",
+              "cat": "everyday_basic",
+              "catCustom": "",
+              "ex": "",
+              "exCustom": "",
+              "axes": {},
+              "action": {
+                "category": "",
+                "example": "",
+                "timing": "",
+                "equipment": "",
+                "power": "",
+                "effects": "",
+                "speed": "",
+                "environment": ""
+              },
+              "randomLocks": {}
+            }
+          }
+        },
+        "골덕": {
+          "style": "glossy_promo",
+          "identityMode": "create",
+          "form": "light",
+          "baseForm": "light",
+          "motifs": "",
+          "formOverride": "",
+          "headFeature": "",
+          "params": {
+            "apparent age": "20s"
+          },
+          "locks": {},
+          "mode": "action",
+          "scenes": {
+            "action": {
+              "expr": "",
+              "pose": "",
+              "orient": "",
+              "scene": "A river spillway with blue-gray stone at bright early morning, cool reflections, distant waterfall mist.",
+              "outfit": "",
+              "frame": "",
+              "lens": "",
+              "camera": "",
+              "custom": "1024x1536 vertical 2:3 full body. Clearly adult woman aged 27, long sleek deep-blue hair and ruby-red eyes, mature composed face. A red forehead jewel in a slim blue circlet and swept-back blue crest ornaments, webbed shapes become segmented blue fins on plates and cream collar trim. Human skin and ordinary five-finger human hands. Both empty hands fully visible, exactly one thumb and four distinct fingers each. No weapons.",
+              "aspect": "2:3",
+              "cat": "everyday_basic",
+              "catCustom": "",
+              "ex": "",
+              "exCustom": "",
+              "axes": {},
+              "action": {
+                "category": "",
+                "example": "",
+                "timing": "",
+                "equipment": "",
+                "power": "",
+                "effects": "",
+                "speed": "",
+                "environment": ""
+              },
+              "randomLocks": {}
+            },
+            "casual": {
+              "expr": "",
+              "pose": "",
+              "orient": "",
+              "scene": "",
+              "outfit": "",
+              "frame": "",
+              "lens": "",
+              "camera": "",
+              "custom": "",
+              "aspect": "2:3",
+              "cat": "everyday_basic",
+              "catCustom": "",
+              "ex": "",
+              "exCustom": "",
+              "axes": {},
+              "action": {
+                "category": "",
+                "example": "",
+                "timing": "",
+                "equipment": "",
+                "power": "",
+                "effects": "",
+                "speed": "",
+                "environment": ""
+              },
+              "randomLocks": {}
+            }
+          }
+        }
+      }
+    },
+    "raw": "/workspace/scratch/b2d860e182b8/generated_images/exec-ba682255-e1bf-4511-b4c2-e8654b7bea7c.png",
+    "output": "img/골덕_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "7c22e325a9c84a42b9fd76f069218776d422fb21e39bb6209b3da824e571ddbf",
+    "git_blob_sha": "36cf514779d0e0be8f0de2e509914424077947d4",
+    "verified": true
+  },
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "pending": [],
+  "upload": "pending"
+}

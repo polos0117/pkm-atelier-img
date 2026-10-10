@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Golduck (골덕) personified, water type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: level lowered brow, steady unblinking gaze, mouth closed in a straight line, jaw set
+Pose: Hold a folded-out route map in both hands while checking the surroundings.
+Orientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together
+Scene: In a riverside observation hut on a cloudy afternoon, holding a folded river survey map at waist height in both hands, gaze looking past the camera toward the river. Face and complete hands visible, plain map without readable text.
+Outfit and props: Cream sleeveless linen blouse with an open collar and secure opaque chest coverage, cobalt tailored waistcoat worn open, dark shorts below crop, small red gem pendant. Bare arms and neckline.
+Category: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.
+Note: 1024x1536 vertical 2:3. Preserve the same clearly adult woman and haircut. Both hands readable, five distinct fingers each. No armor, weapon, text or logo.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+Lens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Golduck (골덕) personified, water type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: mouth open wide in a laugh with teeth showing and cheeks raised, but the eyes stay open and engaged — lids only slightly narrowed, gaze still readable rather than squeezed shut
+Pose: Take a small rhythmic dance step with coordinated arms and balanced feet.
+Orientation: camera below subject looking upward; obey selected framing
+Scene: At an evening lantern festival market on a dry riverside promenade, taking a playful dance step to distant music, empty hands loosely open beside her waist, entire body and both feet visible. Golden lanterns, no other people in focus.
+Outfit and props: Indigo halter midi dress with a secure V neckline, fully opaque fitted bodice, a side slit backed by opaque knee-length shorts, cream waist sash and simple sandals; tiny ruby pendant. Bare shoulders and lower legs visible during a playful dance.
+Category: Show one moment attending a Pokémon-world festival or contest, with an identifiable activity and event props. Preserve the approved identity and let the selected scene determine clothing and mood.
+Note: 1024x1536 vertical 2:3 full body. Same clearly adult woman aged 27. Both hands readable, five distinct fingers each. Wholesome lantern festival fashion, camera keeps the dress interior and underwear hidden. No armor, weapon, text or logo.
+Framing: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
