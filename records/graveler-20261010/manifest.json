@@ -1,0 +1,132 @@
+{
+  "character": "데구리",
+  "source": "Graveler",
+  "style": "glossy_promo",
+  "generator": "built-in image_gen with prompts verified from actual prompt.html UI",
+  "comparison": [
+    "왕눈해",
+    "독파리",
+    "꼬마돌"
+  ],
+  "diversity": "stage illusionist / rainy mountain train / chess lounge; changed venue, activity, silhouette and framing",
+  "assets": [
+    {
+      "slot": "light",
+      "original": "/workspace/scratch/f1a46ee39be3/generated_images/exec-fcdbb586-a6d0-457c-9faf-2d59eed17e55.png",
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Graveler (데구리), rock / ground type.\n\nPALETTE: brown.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Graveler as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the rocky crest becomes a crest-shaped headpiece; the huge rocks become her armor plates.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: A terraced volcanic quarry at dusk, balanced forward step on solid stone, both arms relaxed and hands fully visible. Warm grazing light and restrained basalt dust.\nNote: 1024x1536 portrait. No weapons. Exactly two human arms and two legs; Graveler four-arm motif appears only as paired geometric plate patterns, never additional limbs. Both hands have five clear anatomical fingers.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "file": "데구리_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "24abc5e147d7f29fa1da4d8213e45810f37624da1f703f37857e5c69440862a2",
+      "archive_file": "img/데구리_light_glossy_promo_f.webp",
+      "archive_anchor": "img/데구리_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "heavy",
+      "original": "/workspace/scratch/f1a46ee39be3/generated_images/exec-c8b0a4d6-fb12-4d2c-9630-1a87a46c0ad3.png",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Graveler (데구리), rock / ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: In the volcanic quarry, braced grounded stance with both feet planted, arms relaxed away from torso, full hands visible; face toward camera. Dusk warm rim light.\nNote: 1024x1536 portrait. No weapons. Exactly two human arms and two legs; Graveler four-arm motif appears only as paired geometric plate patterns, never additional limbs. Both hands have five clear anatomical fingers.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "file": "데구리_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "f66e08079a971990457917081c02d3b20af0b55794bd1e9207f2c10ccf018be1",
+      "archive_file": "img/데구리_heavy_glossy_promo_f.webp",
+      "archive_anchor": "img/데구리_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "mobility",
+      "original": "/workspace/scratch/f1a46ee39be3/generated_images/exec-f61fd6f4-1d1f-4e4e-b922-ca4546826d25.png",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Graveler (데구리), rock / ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On a volcanic quarry terrace, taking a quick balanced lateral step, face toward camera, both hands loosely open and separate at hip height. Dusk rim light, restrained dust behind boots.\nNote: 1024x1536 portrait. No weapons. Exactly two human arms and two legs; Graveler four-arm motif appears only as paired geometric plate patterns, never additional limbs. Both hands have five clear anatomical fingers.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "file": "데구리_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "cf377fe565ab57a2be087ba2f88e9eaf020c0e7fbbc3867d34d4918aebf2a70e",
+      "archive_file": "img/데구리_mobility_glossy_promo_f.webp",
+      "archive_anchor": "img/데구리_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "light_overdrive",
+      "original": "/workspace/scratch/f1a46ee39be3/generated_images/exec-10ee2639-165d-41bd-a39b-98f62f767a5a.png",
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Graveler (데구리), rock / ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a sandy-gold glow with orbiting rock fragments shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536 portrait. No weapons. Exactly two human arms and two legs; Graveler four-arm motif appears only as paired geometric plate patterns, never additional limbs. Both hands have five clear anatomical fingers.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "file": "데구리_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "73c92cac0fbf76c8352af3eb54deb1a5c5ce92635ebd21f31224ef556159622a",
+      "archive_file": "img/데구리_light_overdrive_glossy_promo_f.webp",
+      "archive_anchor": "img/데구리_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "original": "/workspace/scratch/f1a46ee39be3/generated_images/exec-547fb181-b3e1-437d-8ed7-be5d34b9df98.png",
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Graveler (데구리), rock / ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a sandy-gold glow with orbiting rock fragments shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536 portrait. No weapons. Exactly two human arms and two legs; Graveler four-arm motif appears only as paired geometric plate patterns, never additional limbs. Both hands have five clear anatomical fingers.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "file": "데구리_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "6be4899fcd97e2a74240adca6a5d995f702c0d7ed3bb87c0a9f6a3cb67c9db74",
+      "archive_file": "img/데구리_heavy_overdrive_glossy_promo_f.webp",
+      "archive_anchor": "img/데구리_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "original": "/workspace/scratch/f1a46ee39be3/generated_images/exec-7c123226-24cc-4f7a-a9a2-4ae2cc4b3936.png",
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Graveler (데구리), rock / ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a sandy-gold glow with orbiting rock fragments shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536 portrait. No weapons. Exactly two human arms and two legs; Graveler four-arm motif appears only as paired geometric plate patterns, never additional limbs. Both hands have five clear anatomical fingers.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "file": "데구리_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "c0dfe0d2160205fa6d531013aacff5655a51ad3c6618c173e2c0e2fee61be20c",
+      "archive_file": "img/데구리_mobility_overdrive_glossy_promo_f.webp",
+      "archive_anchor": "img/데구리_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual1",
+      "original": "/workspace/scratch/f1a46ee39be3/generated_images/exec-f32f8176-a654-483f-b75d-adbcde7a90b7.png",
+      "prompt": "CHARACTER: the same woman as the attached image — Graveler (데구리) personified, rock / ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: narrowed sparkling eyes, one brow up, closed-lip grin pushed to one side\nPose: Raise one hand near shoulder height in a friendly small wave.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: Backstage at a stone amphitheatre evening magic revue, practicing a small greeting wave beside a velvet curtain before her solo performance; other hand relaxed and open by hip. Magenta stage spill and warm bulb lights.\nOutfit and props: Original adult illusionist event costume: fully opaque bronze sweetheart bustier bodysuit with secure straps and complete chest and pelvis coverage, cropped black tailcoat with rolled sleeves, sheer-look opaque tights and short heeled boots. Bare shoulders upper arms and upper thighs, tiny faceted basalt brooch, no armor.\nCategory: Create playful adult event fashion inspired by occupation or roleplay motifs. It must read as a costume made for a stage presentation or themed event, not as an authentic workplace uniform. Use original colours and decorative details — no real institutional insignia, no weapons, no tactical gear. Describe the costume by its tailoring, trim, and props, and show a believable styling or preparation action.\nNote: Vertical 2:3, 1024x1536. Same clearly adult woman. Both hands visible with five distinct fingers each. No weapon, armor, text or logo.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "file": "데구리_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "eeed6224c58cc6d7ee38fcdee74538ff0f368e5e2afb243163e6662894a15ba0",
+      "archive_file": "img/데구리_glossy_promo_f_casual1.webp",
+      "archive_anchor": "img/데구리_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual2",
+      "original": "/workspace/scratch/f1a46ee39be3/generated_images/exec-777df2b8-7f50-4ff9-a641-889a8d74f870.png",
+      "prompt": "CHARACTER: the same woman as the attached image — Graveler (데구리) personified, rock / ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened\nPose: Adjust a shoulder strap with one hand while supporting the travel bag naturally.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: Inside a mountain train carriage during a rainy morning, adjusting the broad strap of a canvas weekend bag on one shoulder while her other hand rests open on the seatback. Misty mountain landscape through window, cool diffused daylight.\nOutfit and props: Burnt-orange sleeveless ribbed mock-neck top with side waist cutouts, high-waist charcoal wide-leg trousers and canvas bag, small basalt bead earrings. Bare arms shoulders and side midriff, ordinary contemporary travel clothes.\nCategory: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.\nNote: Vertical 2:3, 1024x1536. Same clearly adult woman. Both hands visible with five distinct fingers each. No weapon, armor, text or logo.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "file": "데구리_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "78dac5cb082d9e56eab2f7d06ffe7e9cd41d8aff64743b7beba1b24f1f61b6de",
+      "archive_file": "img/데구리_glossy_promo_f_casual2.webp",
+      "archive_anchor": "img/데구리_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual3",
+      "original": "/workspace/scratch/f1a46ee39be3/generated_images/exec-19b7e82e-eb65-463f-b0f7-8a74ed1979e0.png",
+      "prompt": "CHARACTER: the same woman as the attached image — Graveler (데구리) personified, rock / ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed\nPose: Sit naturally on a chair or bench with supported feet and readable hands.\nOrientation: seated with supported pelvis and a natural torso twist\nScene: In a quiet wood-paneled board-game lounge at blue hour, sitting sideways on a chair and turning naturally toward a low chess table, contemplating a stone chess knight held lightly in one open palm, other hand relaxed on the chair arm. Warm brass lamp, rain-blue window.\nOutfit and props: Ivory asymmetric sleeveless draped blouse with secure neckline and open shoulder, brown high-waist wrap mini skirt with opaque lining, low loafers, tiny basalt stud earrings. Bare arms shoulders and legs, no armor or costume.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: Vertical 2:3, 1024x1536. Same clearly adult woman. Both hands visible with five distinct fingers each. No weapon, armor, text or logo.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "file": "데구리_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "2cf87ac6859b5686d29313903c7e8e50808d5938f767680f613266182bdb6744",
+      "archive_file": "img/데구리_glossy_promo_f_casual3.webp",
+      "archive_anchor": "img/데구리_light_glossy_promo_f.webp"
+    }
+  ],
+  "status": "9/9 generated and validated; default main branch update blocked by automatic approval review; thumbnails and registration pending"
+}

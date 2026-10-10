@@ -1,0 +1,73 @@
+{
+  "character": "데구리",
+  "comparison": [
+    "왕눈해",
+    "독파리",
+    "꼬마돌"
+  ],
+  "diversity": "stage illusionist / rainy mountain train / chess lounge; changed venue, activity, silhouette and framing",
+  "actual_casual_settings": [
+    {
+      "mech": "데구리",
+      "sourceName": "Graveler",
+      "series": "rock / ground",
+      "style": "glossy_promo",
+      "cat": "adult_roleplay",
+      "expr": "mischievous",
+      "pose": "waving",
+      "orient": "front_3q",
+      "frame": "full_body",
+      "lens": "natural50",
+      "scene": "Backstage at a stone amphitheatre evening magic revue, practicing a small greeting wave beside a velvet curtain before her solo performance; other hand relaxed and open by hip. Magenta stage spill and warm bulb lights.",
+      "outfit": "Original adult illusionist event costume: fully opaque bronze sweetheart bustier bodysuit with secure straps and complete chest and pelvis coverage, cropped black tailcoat with rolled sleeves, sheer-look opaque tights and short heeled boots. Bare shoulders upper arms and upper thighs, tiny faceted basalt brooch, no armor.",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both hands visible with five distinct fingers each. No weapon, armor, text or logo.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "aspect": "2:3"
+    },
+    {
+      "mech": "데구리",
+      "sourceName": "Graveler",
+      "series": "rock / ground",
+      "style": "glossy_promo",
+      "cat": "everyday_basic",
+      "expr": "relieved",
+      "pose": "adjusting_bag",
+      "orient": "side",
+      "frame": "waist_up",
+      "lens": "documentary35",
+      "scene": "Inside a mountain train carriage during a rainy morning, adjusting the broad strap of a canvas weekend bag on one shoulder while her other hand rests open on the seatback. Misty mountain landscape through window, cool diffused daylight.",
+      "outfit": "Burnt-orange sleeveless ribbed mock-neck top with side waist cutouts, high-waist charcoal wide-leg trousers and canvas bag, small basalt bead earrings. Bare arms shoulders and side midriff, ordinary contemporary travel clothes.",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both hands visible with five distinct fingers each. No weapon, armor, text or logo.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "aspect": "2:3"
+    },
+    {
+      "mech": "데구리",
+      "sourceName": "Graveler",
+      "series": "rock / ground",
+      "style": "glossy_promo",
+      "cat": "hobbies_leisure",
+      "expr": "focused",
+      "pose": "sitting",
+      "orient": "seated_twist",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "In a quiet wood-paneled board-game lounge at blue hour, sitting sideways on a chair and turning naturally toward a low chess table, contemplating a stone chess knight held lightly in one open palm, other hand relaxed on the chair arm. Warm brass lamp, rain-blue window.",
+      "outfit": "Ivory asymmetric sleeveless draped blouse with secure neckline and open shoulder, brown high-waist wrap mini skirt with opaque lining, low loafers, tiny basalt stud earrings. Bare arms shoulders and legs, no armor or costume.",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both hands visible with five distinct fingers each. No weapon, armor, text or logo.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "aspect": "2:3"
+    }
+  ],
+  "anchor": "img/데구리_light_glossy_promo_f.webp",
+  "status": "9/9 generated and validated; default main branch update blocked by automatic approval review; thumbnails and registration pending"
+}

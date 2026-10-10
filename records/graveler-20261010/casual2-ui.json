@@ -1,0 +1,20 @@
+{
+  "mech": "데구리",
+  "sourceName": "Graveler",
+  "series": "rock / ground",
+  "style": "glossy_promo",
+  "cat": "everyday_basic",
+  "expr": "relieved",
+  "pose": "adjusting_bag",
+  "orient": "side",
+  "frame": "waist_up",
+  "lens": "documentary35",
+  "scene": "Inside a mountain train carriage during a rainy morning, adjusting the broad strap of a canvas weekend bag on one shoulder while her other hand rests open on the seatback. Misty mountain landscape through window, cool diffused daylight.",
+  "outfit": "Burnt-orange sleeveless ribbed mock-neck top with side waist cutouts, high-waist charcoal wide-leg trousers and canvas bag, small basalt bead earrings. Bare arms shoulders and side midriff, ordinary contemporary travel clothes.",
+  "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both hands visible with five distinct fingers each. No weapon, armor, text or logo.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "aspect": "2:3"
+}

@@ -1,0 +1,20 @@
+{
+  "mech": "데구리",
+  "sourceName": "Graveler",
+  "series": "rock / ground",
+  "style": "glossy_promo",
+  "cat": "adult_roleplay",
+  "expr": "mischievous",
+  "pose": "waving",
+  "orient": "front_3q",
+  "frame": "full_body",
+  "lens": "natural50",
+  "scene": "Backstage at a stone amphitheatre evening magic revue, practicing a small greeting wave beside a velvet curtain before her solo performance; other hand relaxed and open by hip. Magenta stage spill and warm bulb lights.",
+  "outfit": "Original adult illusionist event costume: fully opaque bronze sweetheart bustier bodysuit with secure straps and complete chest and pelvis coverage, cropped black tailcoat with rolled sleeves, sheer-look opaque tights and short heeled boots. Bare shoulders upper arms and upper thighs, tiny faceted basalt brooch, no armor.",
+  "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both hands visible with five distinct fingers each. No weapon, armor, text or logo.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "aspect": "2:3"
+}

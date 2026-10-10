@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Graveler (데구리) personified, rock / ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed
+Pose: Sit naturally on a chair or bench with supported feet and readable hands.
+Orientation: seated with supported pelvis and a natural torso twist
+Scene: In a quiet wood-paneled board-game lounge at blue hour, sitting sideways on a chair and turning naturally toward a low chess table, contemplating a stone chess knight held lightly in one open palm, other hand relaxed on the chair arm. Warm brass lamp, rain-blue window.
+Outfit and props: Ivory asymmetric sleeveless draped blouse with secure neckline and open shoulder, brown high-waist wrap mini skirt with opaque lining, low loafers, tiny basalt stud earrings. Bare arms shoulders and legs, no armor or costume.
+Category: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.
+Note: Vertical 2:3, 1024x1536. Same clearly adult woman. Both hands visible with five distinct fingers each. No weapon, armor, text or logo.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+Lens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
