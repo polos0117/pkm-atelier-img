@@ -1,0 +1,17 @@
+{
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "everyday",
+  "expr": "sleepy",
+  "pose": "stretching",
+  "orient": "front",
+  "frame": "three_quarter",
+  "lens": "portrait85",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "A quiet sleeper-train compartment just before dawn. She stands in the aisle after waking, stretching her shoulders with elbows gently outward and relaxed hands below her head. Cool blue window light, warm reading lamp, dark glass without reflections.",
+  "outfit": "A cream short-sleeve cropped button shirt worn over an opaque brown tank, mustard pleated shorts, soft slip-on shoes, tiny triangular bracelet. Bare forearms, midriff and thighs, everyday travel clothing.",
+  "camera": "Both complete hands must be visible beside her shoulders in a gentle shoulder stretch, elbows below shoulder level; no hands behind the head or outside the frame."
+}

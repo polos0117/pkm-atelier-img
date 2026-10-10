@@ -1,0 +1,16 @@
+{
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "hobbies_leisure",
+  "expr": "focused",
+  "pose": "standing_formal",
+  "orient": "side",
+  "frame": "waist_up",
+  "lens": "natural50",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "A home perfume blending desk at late afternoon. She studies a plain fragrance blotter held near her nose in one relaxed hand; her other hand rests beside amber bottles. Amber sidelight and leaf shadows, one adult woman, both hands inside the waist-up frame.",
+  "outfit": "A rust halter-neck wrap top with open shoulders and midriff, cream wide-leg linen trousers, tiny triangular gold earrings. Personal fragrance hobby, no armor."
+}

@@ -1,0 +1,16 @@
+{
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "swimwear",
+  "expr": "relieved",
+  "pose": "side_sitting",
+  "orient": "front_3q",
+  "frame": "full_body",
+  "lens": "documentary35",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "An uncrowded seaside resort at sunrise. She sits upright on a dry striped beach towel with both legs to one side, setting sunscreen beside her with one hand while the other rests loosely on her knee. Coral dawn and soft surf; full head, hands and feet visible.",
+  "outfit": "Fully lined golden-yellow asymmetric one-piece swimsuit with one wide shoulder strap, secure chest and pelvis coverage, a small side-waist cutout, dark-brown piping; bare shoulders and legs, tiny triangular necklace, no armor."
+}
