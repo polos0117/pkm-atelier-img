@@ -1,0 +1,178 @@
+{
+  "character": "고라파덕",
+  "anchor": {
+    "slot": "light",
+    "reference": null,
+    "prompt": "light.txt",
+    "uiState": {
+      "last": "고라파덕",
+      "cards": {
+        "이상해씨": {
+          "style": "cinematic_semi_real",
+          "identityMode": "create",
+          "form": "light",
+          "baseForm": "light",
+          "motifs": "",
+          "formOverride": "",
+          "headFeature": "",
+          "params": {},
+          "locks": {},
+          "mode": "action",
+          "scenes": {
+            "action": {
+              "expr": "",
+              "pose": "",
+              "orient": "",
+              "scene": "",
+              "outfit": "",
+              "frame": "",
+              "lens": "",
+              "camera": "",
+              "custom": "",
+              "aspect": "2:3",
+              "cat": "everyday_basic",
+              "catCustom": "",
+              "ex": "",
+              "exCustom": "",
+              "axes": {},
+              "action": {
+                "category": "",
+                "example": "",
+                "timing": "",
+                "equipment": "",
+                "power": "",
+                "effects": "",
+                "speed": "",
+                "environment": ""
+              },
+              "randomLocks": {}
+            },
+            "casual": {
+              "expr": "",
+              "pose": "",
+              "orient": "",
+              "scene": "",
+              "outfit": "",
+              "frame": "",
+              "lens": "",
+              "camera": "",
+              "custom": "",
+              "aspect": "2:3",
+              "cat": "everyday_basic",
+              "catCustom": "",
+              "ex": "",
+              "exCustom": "",
+              "axes": {},
+              "action": {
+                "category": "",
+                "example": "",
+                "timing": "",
+                "equipment": "",
+                "power": "",
+                "effects": "",
+                "speed": "",
+                "environment": ""
+              },
+              "randomLocks": {}
+            }
+          }
+        },
+        "고라파덕": {
+          "style": "glossy_promo",
+          "identityMode": "create",
+          "form": "light",
+          "baseForm": "light",
+          "motifs": "",
+          "formOverride": "",
+          "headFeature": "",
+          "params": {
+            "apparent age": "20s"
+          },
+          "locks": {},
+          "mode": "action",
+          "scenes": {
+            "action": {
+              "expr": "",
+              "pose": "",
+              "orient": "",
+              "scene": "A misty freshwater pumping station at dawn, cream stone walkway, turquoise water and warm golden rim lighting.",
+              "outfit": "",
+              "frame": "",
+              "lens": "",
+              "camera": "",
+              "custom": "1024x1536 vertical 2:3 full body. Clearly adult woman aged 25, golden-blonde chin-length bob, amber eyes, mature gentle facial proportions. Three small black crown pins echo Psyduck hair; rounded yellow plates and cream beak-shaped collar trim are abstract worn clothing. Both empty hands fully visible, exactly one thumb and four distinct fingers each. No weapons.",
+              "aspect": "2:3",
+              "cat": "everyday_basic",
+              "catCustom": "",
+              "ex": "",
+              "exCustom": "",
+              "axes": {},
+              "action": {
+                "category": "",
+                "example": "",
+                "timing": "",
+                "equipment": "",
+                "power": "",
+                "effects": "",
+                "speed": "",
+                "environment": ""
+              },
+              "randomLocks": {}
+            },
+            "casual": {
+              "expr": "",
+              "pose": "",
+              "orient": "",
+              "scene": "",
+              "outfit": "",
+              "frame": "",
+              "lens": "",
+              "camera": "",
+              "custom": "",
+              "aspect": "2:3",
+              "cat": "everyday_basic",
+              "catCustom": "",
+              "ex": "",
+              "exCustom": "",
+              "axes": {},
+              "action": {
+                "category": "",
+                "example": "",
+                "timing": "",
+                "equipment": "",
+                "power": "",
+                "effects": "",
+                "speed": "",
+                "environment": ""
+              },
+              "randomLocks": {}
+            }
+          }
+        }
+      }
+    },
+    "raw": "generated_images/exec-064155c3-1fb6-490c-969a-3b510895394e.png",
+    "output": "img/고라파덕_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "f4a2d42cd70e5d63828a58238a22dfa2c776d1da4a634357da1d9b5555ec1c4e",
+    "git_blob_sha": "5e9029945f9c850e6597948851de5297cc32e892",
+    "verified": true
+  },
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "pending": [],
+  "upload": "pending"
+}

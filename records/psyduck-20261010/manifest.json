@@ -1,0 +1,1520 @@
+{
+  "character": "고라파덕",
+  "key": "psyduck",
+  "style": "glossy_promo",
+  "generator": "Actual repository Preact UI controls through DOM harness",
+  "recentComparison": {
+    "characters": [
+      "닥트리오",
+      "나옹",
+      "페르시온"
+    ],
+    "records": [
+      "records/dugtrio-20261010/settings.json",
+      "records/meowth-20261010/settings.json",
+      "records/persian-20261010/settings.json"
+    ],
+    "avoid": "pool standing, seated hobby, cafe holding cup; changed place, activity, outfit silhouette and camera; compared all three current plans as well"
+  },
+  "plan": [
+    [
+      "adult_roleplay",
+      "flustered",
+      "hands_in_hair",
+      "front",
+      "waist_up",
+      "portrait85",
+      "In a theatrical dressing room before an adult magic-show event at night, tidying her established bob with one hand beside the cheek and the other holding a small plain ribbon below shoulder level. Warm mirror bulbs. Both hands inside the frame.",
+      "Original yellow satin magician-event costume: opaque structured cream bustier with a low secure neckline, cropped sleeveless yellow waistcoat, separate black wrist cuffs, short tailored black skirt. Small duck-shaped gold pendant. Bare shoulders and midriff. No hat, armor or weapon."
+    ],
+    [
+      "occupation_basic",
+      "curious",
+      "kneeling",
+      "side",
+      "environmental",
+      "documentary35",
+      "Kneeling on a dry wooden platform at an aquatic research hatchery in cool morning light, testing water with a clear vial held at eye level; the other hand rests open on her own knee. Side profile with her whole body, bare hands and the glass tanks readable.",
+      "Ivory sleeveless utility romper with short legs and a zipped yellow belt pouch, low rubber shoes, tiny duck pendant; opaque breathable fabric, bare arms and legs."
+    ],
+    [
+      "everyday",
+      "relieved",
+      "mid_stride",
+      "turning_midmotion",
+      "three_quarter",
+      "natural50",
+      "Returning home through a wet train-station arcade at blue hour, pausing mid-step and turning her shoulders toward warm lights, carrying a closed compact umbrella downward in one hand and lightly holding a bag strap with the other. Head to above knees.",
+      "Mustard short-sleeved button blouse tied at the natural waist over an opaque cream camisole, high-waist navy A-line short skirt and ankle boots, small duck pendant. Bare forearms, a narrow midriff strip and legs."
+    ]
+  ],
+  "images": [
+    {
+      "slot": "light",
+      "reference": null,
+      "prompt": "light.txt",
+      "uiState": {
+        "last": "고라파덕",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "고라파덕": {
+            "style": "glossy_promo",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "A misty freshwater pumping station at dawn, cream stone walkway, turquoise water and warm golden rim lighting.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Clearly adult woman aged 25, golden-blonde chin-length bob, amber eyes, mature gentle facial proportions. Three small black crown pins echo Psyduck hair; rounded yellow plates and cream beak-shaped collar trim are abstract worn clothing. Both empty hands fully visible, exactly one thumb and four distinct fingers each. No weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "generated_images/exec-064155c3-1fb6-490c-969a-3b510895394e.png",
+      "output": "img/고라파덕_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f4a2d42cd70e5d63828a58238a22dfa2c776d1da4a634357da1d9b5555ec1c4e",
+      "git_blob_sha": "5e9029945f9c850e6597948851de5297cc32e892",
+      "verified": true
+    },
+    {
+      "slot": "heavy",
+      "reference": "light",
+      "prompt": "heavy.txt",
+      "uiState": {
+        "last": "고라파덕",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "고라파덕": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "heavy",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "braced_stance",
+                "orient": "",
+                "scene": "A misty freshwater pumping station at dawn, cream stone walkway, turquoise water and warm golden rim lighting.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, five distinct fingers each, no weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "/workspace/scratch/b2d860e182b8/generated_images/exec-7a18825c-498f-4417-ac43-055c673ef125.png",
+      "output": "img/고라파덕_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "899f208ae0ae92b2eff2bc531802e7b57807debdefb8131e71c63e131edd3de3",
+      "git_blob_sha": "47ee90333ece475784f75f88c46baf4167b45516",
+      "verified": true
+    },
+    {
+      "slot": "mobility",
+      "reference": "light",
+      "prompt": "mobility.txt",
+      "uiState": {
+        "last": "고라파덕",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "고라파덕": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "mobility",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "A misty freshwater pumping station at dawn, cream stone walkway, turquoise water and warm golden rim lighting.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, five distinct fingers each, no weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "/workspace/scratch/b2d860e182b8/generated_images/exec-bc2125be-3f40-4ff4-bba4-71762583b247.png",
+      "output": "img/고라파덕_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "d44a597a546c51edb6437c5de604c70c9ed1a8f9a9658d0cc38b545c0dd1d3a1",
+      "git_blob_sha": "b19b7041d5286223688a33d04cc6eaebe3b8b119",
+      "verified": true
+    },
+    {
+      "slot": "light_overdrive",
+      "reference": "light",
+      "prompt": "light_overdrive.txt",
+      "uiState": {
+        "last": "고라파덕",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "고라파덕": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "A misty freshwater pumping station at dawn, cream stone walkway, turquoise water and warm golden rim lighting.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, five distinct fingers each, no weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "/workspace/scratch/b2d860e182b8/generated_images/exec-abe61450-f6fd-4cea-80f0-612bd309c4cb.png",
+      "output": "img/고라파덕_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "842fb6bd5ceb09a91529f8462ad0dc0c3ccaeb449b70fe913567f19932132e1c",
+      "git_blob_sha": "543accec6fc3d2fbb569ad78107ca502ffd47518",
+      "verified": true
+    },
+    {
+      "slot": "heavy_overdrive",
+      "reference": "heavy",
+      "prompt": "heavy_overdrive.txt",
+      "uiState": {
+        "last": "고라파덕",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "고라파덕": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "heavy",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "A misty freshwater pumping station at dawn, cream stone walkway, turquoise water and warm golden rim lighting.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, five distinct fingers each, no weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "/workspace/scratch/b2d860e182b8/generated_images/exec-0e6c994b-135b-40b6-9145-883927091245.png",
+      "output": "img/고라파덕_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b2abff134882bd6fe87f15fb23defebf944238c5bb6b2c60973da58375c5a0df",
+      "git_blob_sha": "fb3a64216251ed4ff18edbd36e29fdb0c9a0472f",
+      "verified": true
+    },
+    {
+      "slot": "mobility_overdrive",
+      "reference": "mobility",
+      "prompt": "mobility_overdrive.txt",
+      "uiState": {
+        "last": "고라파덕",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "고라파덕": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "A misty freshwater pumping station at dawn, cream stone walkway, turquoise water and warm golden rim lighting.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, five distinct fingers each, no weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "/workspace/scratch/b2d860e182b8/generated_images/exec-f00c7664-327e-40d7-90bd-8a246e8afee9.png",
+      "output": "img/고라파덕_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f883e66a2cac67e984c8658f99e9b87a13b5fb00c165b71255c7d786c801ba62",
+      "git_blob_sha": "aee35670b9a2e2e4708d0983ad349d863f7c58bf",
+      "verified": true
+    },
+    {
+      "slot": "casual1",
+      "reference": "light",
+      "prompt": "casual1.txt",
+      "uiState": {
+        "last": "고라파덕",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "고라파덕": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "casual",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "A misty freshwater pumping station at dawn, cream stone walkway, turquoise water and warm golden rim lighting.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, five distinct fingers each, no weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "flustered",
+                "pose": "hands_in_hair",
+                "orient": "front",
+                "scene": "In a theatrical dressing room before an adult magic-show event at night, tidying her established bob with one hand beside the cheek and the other holding a small plain ribbon below shoulder level. Warm mirror bulbs. Both hands inside the frame.",
+                "outfit": "Original yellow satin magician-event costume: opaque structured cream bustier with a low secure neckline, cropped sleeveless yellow waistcoat, separate black wrist cuffs, short tailored black skirt. Small duck-shaped gold pendant. Bare shoulders and midriff. No hat, armor or weapon.",
+                "frame": "waist_up",
+                "lens": "portrait85",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3. Preserve the same clearly adult woman and haircut. Both hands readable, five distinct fingers each. No armor, weapon, text or logo.",
+                "aspect": "2:3",
+                "cat": "adult_roleplay",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {
+                  "overall_intensity": "strong",
+                  "skin_exposure": "bold"
+                },
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "/workspace/scratch/b2d860e182b8/generated_images/exec-4278e5d4-355a-4103-b55c-62cf65f51458.png",
+      "output": "img/고라파덕_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "5da19ad9d2c682eb41f4e25fa253df86bd6f3730ff3445f4ea07bbc012b8d189",
+      "git_blob_sha": "f0bd1f4c3cf2139f655f03da347cc79684f13c70",
+      "verified": true
+    },
+    {
+      "slot": "casual2",
+      "reference": "light",
+      "prompt": "casual2.txt",
+      "uiState": {
+        "last": "고라파덕",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "고라파덕": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "casual",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "A misty freshwater pumping station at dawn, cream stone walkway, turquoise water and warm golden rim lighting.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, five distinct fingers each, no weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "curious",
+                "pose": "kneeling",
+                "orient": "side",
+                "scene": "Kneeling on a dry wooden platform at an aquatic research hatchery in cool morning light, testing water with a clear vial held at eye level; the other hand rests open on her own knee. Side profile with her whole body, bare hands and the glass tanks readable.",
+                "outfit": "Ivory sleeveless utility romper with short legs and a zipped yellow belt pouch, low rubber shoes, tiny duck pendant; opaque breathable fabric, bare arms and legs.",
+                "frame": "environmental",
+                "lens": "documentary35",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3. Preserve the same clearly adult woman and haircut. Both hands readable, five distinct fingers each. No armor, weapon, text or logo.",
+                "aspect": "2:3",
+                "cat": "occupation_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {
+                  "overall_intensity": "strong",
+                  "skin_exposure": "bold"
+                },
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "/workspace/scratch/b2d860e182b8/generated_images/exec-31038c09-0c23-41d8-9585-4c5aa6ad9ee4.png",
+      "output": "img/고라파덕_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "dc1ec762ffbffee8e7ba2cc6f15ce7111089e545194479503489f08c2151bdfa",
+      "git_blob_sha": "6234bd9356472dfc0142d0e14f836f35a5e296b2",
+      "verified": true
+    },
+    {
+      "slot": "casual3",
+      "reference": "light",
+      "prompt": "casual3.txt",
+      "uiState": {
+        "last": "고라파덕",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "고라파덕": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s"
+            },
+            "locks": {},
+            "mode": "casual",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "cross_step",
+                "orient": "",
+                "scene": "A misty freshwater pumping station at dawn, cream stone walkway, turquoise water and warm golden rim lighting.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3 full body. Both empty hands fully visible, five distinct fingers each, no weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "relieved",
+                "pose": "mid_stride",
+                "orient": "turning_midmotion",
+                "scene": "Returning home through a wet train-station arcade at blue hour, pausing mid-step and turning her shoulders toward warm lights, carrying a closed compact umbrella downward in one hand and lightly holding a bag strap with the other. Head to above knees.",
+                "outfit": "Mustard short-sleeved button blouse tied at the natural waist over an opaque cream camisole, high-waist navy A-line short skirt and ankle boots, small duck pendant. Bare forearms, a narrow midriff strip and legs.",
+                "frame": "three_quarter",
+                "lens": "natural50",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3. Preserve the same clearly adult woman and haircut. Both hands readable, five distinct fingers each. No armor, weapon, text or logo.",
+                "aspect": "2:3",
+                "cat": "everyday",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {
+                  "overall_intensity": "strong",
+                  "skin_exposure": "bold"
+                },
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "raw": "/workspace/scratch/b2d860e182b8/generated_images/exec-047fa0f6-0f84-48ca-8790-d79f36426d08.png",
+      "output": "img/고라파덕_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "8e1432c531077e156be64e251a1ccadbdf16597f2b1c77becd4b527d52a859d2",
+      "git_blob_sha": "2c9c8f4becc1434025d1df9335916c32a9933cf4",
+      "verified": true
+    }
+  ]
+}
