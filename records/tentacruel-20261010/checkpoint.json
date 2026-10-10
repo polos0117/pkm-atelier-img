@@ -1,0 +1,538 @@
+{
+  "character": "독파리",
+  "style": "glossy_promo",
+  "generator": "Actual deployed UI selections, full submitted prompt hash matched to repository engine output; built-in imagegen",
+  "comparison": {
+    "characters": [
+      "모다피",
+      "우츠동",
+      "우츠보트"
+    ],
+    "read": "All nine actual casual prompts and manifests",
+    "changes": "Distinct location, activity, outfit and composition. Acoustic laboratory, harbor stage, sewing; lighthouse chart, tidal cove, berry jelly; bouldering, agate, slate lounge. Required category rotates event fashion, swimwear and lingerie."
+  },
+  "images": [
+    {
+      "key": "tentacruel",
+      "name": "독파리",
+      "slot": "light",
+      "filename": "독파리_light_glossy_promo_f.webp",
+      "input": {
+        "mech": "독파리",
+        "sourceName": "Tentacruel",
+        "series": "water / poison",
+        "sourceAppearance": {
+          "name": "독파리",
+          "en": "Tentacruel",
+          "color": "blue",
+          "shape": "tentacles",
+          "features": [
+            {
+              "part": "appendage",
+              "detail": "two blue, beak-like appendages"
+            },
+            {
+              "part": "tentacle",
+              "detail": "numerous grayish tentacles"
+            },
+            {
+              "part": "body",
+              "detail": "clear, light blue body"
+            },
+            {
+              "part": "orb",
+              "detail": "two large, red orbs"
+            },
+            {
+              "part": "eye",
+              "detail": "visible eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Tentacruel_%28Pok%C3%A9mon%29",
+          "revision": 4623367,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "70472221bef70fb5cddbe214d81627e9e8ca2bb7f3da78ca62459fc2fff302a3",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ],
+          [
+            "body type",
+            "tall and lean"
+          ],
+          [
+            "facial character",
+            "elegant"
+          ],
+          [
+            "hair color",
+            "navy"
+          ],
+          [
+            "hairstyle",
+            "straight"
+          ],
+          [
+            "hair length",
+            "long"
+          ],
+          [
+            "eye color",
+            "crimson"
+          ]
+        ],
+        "outputMode": "action",
+        "identityMode": "create",
+        "form": "light",
+        "motifs": "A pale-blue jellyfish dome becomes a sculpted curved shoulder mantle; paired large red orbs become red crystal ornaments at her temples; many gray tentacles become narrow pleated ribbon tails in her layered skirt, never extra limbs; blue beak shapes become angled collar trim.",
+        "custom": "1024x1536 vertical image. Storm-blue marine observation platform at twilight with a distant quiet ocean. Both empty hands held separately beside her hips with natural fingers. Two human arms and legs, human skin."
+      },
+      "hash": -567055928,
+      "reference": null,
+      "uiVerified": true,
+      "originalSha256": "18938acae71228d0386034a8e676b5a3e0bd00a6d251936b4764c6de48b47974",
+      "sha256": "4bfd0be814672fefdf653c0e550b58941f55975cbb17bfaf733af92f583f8951",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "tentacruel",
+      "name": "독파리",
+      "slot": "heavy",
+      "filename": "독파리_heavy_glossy_promo_f.webp",
+      "input": {
+        "mech": "독파리",
+        "sourceName": "Tentacruel",
+        "series": "water / poison",
+        "sourceAppearance": {
+          "name": "독파리",
+          "en": "Tentacruel",
+          "color": "blue",
+          "shape": "tentacles",
+          "features": [
+            {
+              "part": "appendage",
+              "detail": "two blue, beak-like appendages"
+            },
+            {
+              "part": "tentacle",
+              "detail": "numerous grayish tentacles"
+            },
+            {
+              "part": "body",
+              "detail": "clear, light blue body"
+            },
+            {
+              "part": "orb",
+              "detail": "two large, red orbs"
+            },
+            {
+              "part": "eye",
+              "detail": "visible eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Tentacruel_%28Pok%C3%A9mon%29",
+          "revision": 4623367,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "70472221bef70fb5cddbe214d81627e9e8ca2bb7f3da78ca62459fc2fff302a3",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "heavy",
+        "motifs": "",
+        "custom": "Vertical 2:3, 1024x1536. Keep the approved woman and her species costume features. Both empty hands fully visible, relaxed fingers separated. Standing with feet apart in a stable defensive stance, face to camera."
+      },
+      "hash": -289250141,
+      "reference": "img/독파리_light_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "a004a58d10fe0fb51c4f440881be506779c8f5a20ea3d0b2083a28c258e48e9d",
+      "sha256": "cf0474803eb577447e0e1aeeebae9209f4866dfbb37e99f3b36c4680a7e98a80",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "tentacruel",
+      "name": "독파리",
+      "slot": "mobility",
+      "filename": "독파리_mobility_glossy_promo_f.webp",
+      "input": {
+        "mech": "독파리",
+        "sourceName": "Tentacruel",
+        "series": "water / poison",
+        "sourceAppearance": {
+          "name": "독파리",
+          "en": "Tentacruel",
+          "color": "blue",
+          "shape": "tentacles",
+          "features": [
+            {
+              "part": "appendage",
+              "detail": "two blue, beak-like appendages"
+            },
+            {
+              "part": "tentacle",
+              "detail": "numerous grayish tentacles"
+            },
+            {
+              "part": "body",
+              "detail": "clear, light blue body"
+            },
+            {
+              "part": "orb",
+              "detail": "two large, red orbs"
+            },
+            {
+              "part": "eye",
+              "detail": "visible eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Tentacruel_%28Pok%C3%A9mon%29",
+          "revision": 4623367,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "70472221bef70fb5cddbe214d81627e9e8ca2bb7f3da78ca62459fc2fff302a3",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "mobility",
+        "motifs": "",
+        "custom": "Vertical 2:3, 1024x1536. Keep the approved woman and her species costume features. Both empty hands fully visible, relaxed fingers separated. A restrained forward stepping pose, face toward camera, full head and feet inside the frame."
+      },
+      "hash": -1758620450,
+      "reference": "img/독파리_light_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "fc1473a65fdf09c3f9db1801268c7685ad177350448d73d224e534d1dd6e3a6f",
+      "sha256": "792b75c28a54813f1a6f873cf81f0572592ecf16672c910c3ad4e61cc97ca56d",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "tentacruel",
+      "name": "독파리",
+      "slot": "light_overdrive",
+      "filename": "독파리_light_overdrive_glossy_promo_f.webp",
+      "input": {
+        "mech": "독파리",
+        "sourceName": "Tentacruel",
+        "series": "water / poison",
+        "sourceAppearance": {
+          "name": "독파리",
+          "en": "Tentacruel",
+          "color": "blue",
+          "shape": "tentacles",
+          "features": [
+            {
+              "part": "appendage",
+              "detail": "two blue, beak-like appendages"
+            },
+            {
+              "part": "tentacle",
+              "detail": "numerous grayish tentacles"
+            },
+            {
+              "part": "body",
+              "detail": "clear, light blue body"
+            },
+            {
+              "part": "orb",
+              "detail": "two large, red orbs"
+            },
+            {
+              "part": "eye",
+              "detail": "visible eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Tentacruel_%28Pok%C3%A9mon%29",
+          "revision": 4623367,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "70472221bef70fb5cddbe214d81627e9e8ca2bb7f3da78ca62459fc2fff302a3",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "motifs": "",
+        "custom": "Open only existing seams; retain both hands and all five fingers exactly. Vertical 2:3, 1024x1536.",
+        "baseForm": "light"
+      },
+      "hash": -1315674306,
+      "reference": "img/독파리_light_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "0e9b2ddbedd26d4a5e06af79942e9bb5900c2817e0ebab1d301f12a5b4900507",
+      "sha256": "ed89c28bc93184a437323370703a765c5aabbbc74b0c4c572c0bcf6f2e0d337a",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "tentacruel",
+      "name": "독파리",
+      "slot": "heavy_overdrive",
+      "filename": "독파리_heavy_overdrive_glossy_promo_f.webp",
+      "input": {
+        "mech": "독파리",
+        "sourceName": "Tentacruel",
+        "series": "water / poison",
+        "sourceAppearance": {
+          "name": "독파리",
+          "en": "Tentacruel",
+          "color": "blue",
+          "shape": "tentacles",
+          "features": [
+            {
+              "part": "appendage",
+              "detail": "two blue, beak-like appendages"
+            },
+            {
+              "part": "tentacle",
+              "detail": "numerous grayish tentacles"
+            },
+            {
+              "part": "body",
+              "detail": "clear, light blue body"
+            },
+            {
+              "part": "orb",
+              "detail": "two large, red orbs"
+            },
+            {
+              "part": "eye",
+              "detail": "visible eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Tentacruel_%28Pok%C3%A9mon%29",
+          "revision": 4623367,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "70472221bef70fb5cddbe214d81627e9e8ca2bb7f3da78ca62459fc2fff302a3",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "motifs": "",
+        "custom": "Open only existing seams; retain both hands and all five fingers exactly. Vertical 2:3, 1024x1536.",
+        "baseForm": "heavy"
+      },
+      "hash": 164189551,
+      "reference": "img/독파리_heavy_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "f1945462e29825a658eb20ead59ed9489fb02397f978800ebd6f2501595c31f3",
+      "sha256": "2b8e494ce46f0d7ba7eabec657bb83e5732454198f5006e5867caf101ed851ec",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "tentacruel",
+      "name": "독파리",
+      "slot": "mobility_overdrive",
+      "filename": "독파리_mobility_overdrive_glossy_promo_f.webp",
+      "input": {
+        "mech": "독파리",
+        "sourceName": "Tentacruel",
+        "series": "water / poison",
+        "sourceAppearance": {
+          "name": "독파리",
+          "en": "Tentacruel",
+          "color": "blue",
+          "shape": "tentacles",
+          "features": [
+            {
+              "part": "appendage",
+              "detail": "two blue, beak-like appendages"
+            },
+            {
+              "part": "tentacle",
+              "detail": "numerous grayish tentacles"
+            },
+            {
+              "part": "body",
+              "detail": "clear, light blue body"
+            },
+            {
+              "part": "orb",
+              "detail": "two large, red orbs"
+            },
+            {
+              "part": "eye",
+              "detail": "visible eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Tentacruel_%28Pok%C3%A9mon%29",
+          "revision": 4623367,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "70472221bef70fb5cddbe214d81627e9e8ca2bb7f3da78ca62459fc2fff302a3",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "style": "glossy_promo",
+        "params": [],
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "motifs": "",
+        "custom": "Open only existing seams; retain both hands and all five fingers exactly. Vertical 2:3, 1024x1536.",
+        "baseForm": "mobility"
+      },
+      "hash": -1088781053,
+      "reference": "img/독파리_mobility_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "e2924c3597e0ea7d7d6035a92a1a1a228ead337ea6aef2d844d239e2c714f84a",
+      "sha256": "009caabd988b61c970d8ccc764513ab34192914f840dede2707a246419037c82",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "tentacruel",
+      "name": "독파리",
+      "slot": "casual1",
+      "filename": "독파리_glossy_promo_f_casual1.webp",
+      "input": {
+        "mech": "독파리",
+        "sourceName": "Tentacruel",
+        "series": "water / poison",
+        "style": "glossy_promo",
+        "motifs": "",
+        "cat": "travel_exploration",
+        "expr": "curious",
+        "pose": "checking_map",
+        "orient": "front_3q",
+        "frame": "three_quarter",
+        "lens": "wide24",
+        "scene": "Inside a tall white coastal lighthouse at dawn, opening an unlettered folded sea chart on a waist-high stone ledge while looking toward a spiral stair, separated hands supporting opposite paper edges. Cool dawn sky and a thin warm sunbeam.",
+        "outfit": "Navy sleeveless high-neck fitted knit dress with a secure short hem, gray waist belt and low white walking shoes, a light-blue cropped capelet, bare arms and legs, small red orb earrings.",
+        "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face, haircut and natural proportions. Both hands readable with five separate anatomical fingers each. No armor, weapon, text, logo or second person.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "hash": 2124185046,
+      "reference": "img/독파리_light_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "96bf53775cca81585b77cbf1ca944bfcf86be341d95cf469672145640811174d",
+      "sha256": "e29c44735aaf4496fa98fef62bc4fc406b0004812456078a3beb1e9ca3014f2d",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "tentacruel",
+      "name": "독파리",
+      "slot": "casual2",
+      "filename": "독파리_glossy_promo_f_casual2.webp",
+      "input": {
+        "mech": "독파리",
+        "sourceName": "Tentacruel",
+        "series": "water / poison",
+        "style": "glossy_promo",
+        "motifs": "",
+        "cat": "swimwear",
+        "expr": "relieved",
+        "pose": "walking",
+        "orient": "low_angle",
+        "frame": "full_body",
+        "lens": "documentary35",
+        "scene": "At a calm turquoise tidal cove on a bright noon, walking slowly out of ankle-deep water onto pale sand after a swim, both hands relaxed and open at her sides, full head feet and hands inside the frame. Sunlight ripples on shallow water and pale cliffs.",
+        "outfit": "Fully lined blue asymmetric one-piece swimsuit with a secure one-shoulder strap, opaque sculpted panels and modest side waist cutout, high leg line with complete pelvis coverage, red piping and a small red glass bracelet.",
+        "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face, haircut and natural proportions. Both hands readable with five separate anatomical fingers each. No armor, weapon, text, logo or second person.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "hash": -2088823329,
+      "reference": "img/독파리_light_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "368d8d5b79ff5c209e2129bb410867af51cf858e33dcadbf45a262eb873b95f9",
+      "sha256": "bc0e237eb271cf8519b6c41d5ac133c170ac9104233ff6be6217212cf3258373",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    },
+    {
+      "key": "tentacruel",
+      "name": "독파리",
+      "slot": "casual3",
+      "filename": "독파리_glossy_promo_f_casual3.webp",
+      "input": {
+        "mech": "독파리",
+        "sourceName": "Tentacruel",
+        "series": "water / poison",
+        "style": "glossy_promo",
+        "motifs": "",
+        "cat": "food_berries",
+        "expr": "gentle",
+        "pose": "preparing_food",
+        "orient": "side",
+        "frame": "waist_up",
+        "lens": "natural50",
+        "scene": "In a small apartment kitchen at rainy dusk, arranging translucent berry jelly squares on a wide white serving plate with a small flat spatula in one hand while the other hand rests open on the counter. Cool rain window and warm pendant light, separated hands visible.",
+        "outfit": "Gray sleeveless deep-square-neck linen blouse with red piping and blue high-waist skirt, a narrow half apron at the waist; bare shoulders arms and a small midriff gap, tiny red orb pendant.",
+        "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face, haircut and natural proportions. Both hands readable with five separate anatomical fingers each. No armor, weapon, text, logo or second person.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "aspect": "2:3"
+      },
+      "hash": 1436148903,
+      "reference": "img/독파리_light_glossy_promo_f.webp",
+      "uiVerified": true,
+      "originalSha256": "a19fbbb6753a082d6911b5a71fc6c4fedce5b57e765b670f10ca5f0d7811d152",
+      "sha256": "6c9c3c246c3a5f58148a4ba0248170fa22c099a2fef9a3ebcf0a391d72b02c8a",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP"
+    }
+  ],
+  "progress": 9
+}

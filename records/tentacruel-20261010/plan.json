@@ -1,0 +1,65 @@
+[
+  {
+    "mech": "독파리",
+    "sourceName": "Tentacruel",
+    "series": "water / poison",
+    "style": "glossy_promo",
+    "motifs": "",
+    "cat": "travel_exploration",
+    "expr": "curious",
+    "pose": "checking_map",
+    "orient": "front_3q",
+    "frame": "three_quarter",
+    "lens": "wide24",
+    "scene": "Inside a tall white coastal lighthouse at dawn, opening an unlettered folded sea chart on a waist-high stone ledge while looking toward a spiral stair, separated hands supporting opposite paper edges. Cool dawn sky and a thin warm sunbeam.",
+    "outfit": "Navy sleeveless high-neck fitted knit dress with a secure short hem, gray waist belt and low white walking shoes, a light-blue cropped capelet, bare arms and legs, small red orb earrings.",
+    "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face, haircut and natural proportions. Both hands readable with five separate anatomical fingers each. No armor, weapon, text, logo or second person.",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3"
+  },
+  {
+    "mech": "독파리",
+    "sourceName": "Tentacruel",
+    "series": "water / poison",
+    "style": "glossy_promo",
+    "motifs": "",
+    "cat": "swimwear",
+    "expr": "relieved",
+    "pose": "walking",
+    "orient": "low_angle",
+    "frame": "full_body",
+    "lens": "documentary35",
+    "scene": "At a calm turquoise tidal cove on a bright noon, walking slowly out of ankle-deep water onto pale sand after a swim, both hands relaxed and open at her sides, full head feet and hands inside the frame. Sunlight ripples on shallow water and pale cliffs.",
+    "outfit": "Fully lined blue asymmetric one-piece swimsuit with a secure one-shoulder strap, opaque sculpted panels and modest side waist cutout, high leg line with complete pelvis coverage, red piping and a small red glass bracelet.",
+    "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face, haircut and natural proportions. Both hands readable with five separate anatomical fingers each. No armor, weapon, text, logo or second person.",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3"
+  },
+  {
+    "mech": "독파리",
+    "sourceName": "Tentacruel",
+    "series": "water / poison",
+    "style": "glossy_promo",
+    "motifs": "",
+    "cat": "food_berries",
+    "expr": "gentle",
+    "pose": "preparing_food",
+    "orient": "side",
+    "frame": "waist_up",
+    "lens": "natural50",
+    "scene": "In a small apartment kitchen at rainy dusk, arranging translucent berry jelly squares on a wide white serving plate with a small flat spatula in one hand while the other hand rests open on the counter. Cool rain window and warm pendant light, separated hands visible.",
+    "outfit": "Gray sleeveless deep-square-neck linen blouse with red piping and blue high-waist skirt, a narrow half apron at the waist; bare shoulders arms and a small midriff gap, tiny red orb pendant.",
+    "custom": "Vertical 2:3, 1024x1536. Preserve the same clearly adult woman, face, haircut and natural proportions. Both hands readable with five separate anatomical fingers each. No armor, weapon, text, logo or second person.",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "aspect": "2:3"
+  }
+]
