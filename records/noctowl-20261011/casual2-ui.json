@@ -1,0 +1,27 @@
+{
+  "mech": "야부엉",
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "In a quiet historical print archive at rainy afternoon, standing side-on at a wide restoration table, carefully aligning an unlettered botanical print on a flat backing board using two separately visible hands. Cool skylight and warm desk light, face visible.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people. Remove the armored circlet, gauntlets, plated mantle and sash. Species only as a tiny accessory or color echo.",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "form": "casual2",
+  "aspect": "2:3",
+  "cat": "occupation_basic",
+  "expr": "focused",
+  "pose": "carrying_something",
+  "orient": "side",
+  "frame": "waist_up",
+  "lens": "natural50",
+  "outfit": "Ivory sleeveless fitted high-neck knit top tucked into cinnamon linen trousers below crop, a narrow black waist apron, bare shoulders and arms and a small side waist gap. Tiny ring-shaped pendant, no gloves or armor.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

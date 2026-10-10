@@ -1,0 +1,27 @@
+{
+  "mech": "야부엉",
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "In a stone lantern courtyard on a warm summer evening, seated with one knee raised on a low cedar bench, attaching a small tassel to a paper lantern resting beside her thigh. Both hands separated, camera gently above, warm lantern glow and indigo twilight.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people. Remove the armored circlet, gauntlets, plated mantle and sash. Species only as a tiny accessory or color echo.",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "form": "casual3",
+  "aspect": "2:3",
+  "cat": "traditional",
+  "expr": "amused",
+  "pose": "one_knee_up",
+  "orient": "high_angle",
+  "frame": "three_quarter",
+  "lens": "documentary35",
+  "outfit": "Cream modern cotton yukata-inspired short wrap dress with an opaque secure overlapped neckline, short flowing sleeves, brown sash and split side hem over opaque shorts. Bare forearms lower legs and one shoulder. Small feather-shaped hairpin, no armor.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

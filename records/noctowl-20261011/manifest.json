@@ -1,0 +1,214 @@
+{
+  "status": "generated_reviewed_ready_for_upload",
+  "anchor": {
+    "card": "야부엉",
+    "slot": "light",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+    "source": "/workspace/scratch/1829ac433d95/generated_images/exec-b4b618c0-bb91-46e3-8317-d3a04cf945a3.png",
+    "source_sha256": "36aed4313cd27313e22203a2289cb5df26253ca71fa6a663249331178a3dda7e",
+    "filename": "야부엉_light_glossy_promo_f.webp",
+    "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/야부엉_light_glossy_promo_f.webp",
+    "remote_path": "img/야부엉_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "6abb3af38ce215457d241663f2d03c8b5d2dc0714f89b0e2440f62f9303e576c",
+    "refs": []
+  },
+  "files": [
+    {
+      "card": "야부엉",
+      "slot": "light",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-b4b618c0-bb91-46e3-8317-d3a04cf945a3.png",
+      "source_sha256": "36aed4313cd27313e22203a2289cb5df26253ca71fa6a663249331178a3dda7e",
+      "filename": "야부엉_light_glossy_promo_f.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/야부엉_light_glossy_promo_f.webp",
+      "remote_path": "img/야부엉_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "6abb3af38ce215457d241663f2d03c8b5d2dc0714f89b0e2440f62f9303e576c",
+      "refs": []
+    },
+    {
+      "card": "야부엉",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-c84abe35-5dd1-4ae3-bc46-84c471dc08a3.png",
+      "source_sha256": "412b94a590978d6b50ba40ebf50e5fed0b7495ab7d1d86b30a5a7997d7e6f9fc",
+      "filename": "야부엉_heavy_glossy_promo_f.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/야부엉_heavy_glossy_promo_f.webp",
+      "remote_path": "img/야부엉_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "d61bb90b4ec61063411e9f068f4309b4714db796f477b3c13a9af3989e70356c",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "야부엉",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-f1de02e8-6886-4310-b33d-6db83737f206.png",
+      "source_sha256": "e8196dfd7d952d63da3a016cd36e1e9a14a6e55bda43da93b6e534f8870eb2ef",
+      "filename": "야부엉_mobility_glossy_promo_f.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/야부엉_mobility_glossy_promo_f.webp",
+      "remote_path": "img/야부엉_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "935900f9dacd7b4281fff7c5c59312b7500965ff6ccd92257f20ecaf3e06f691",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "야부엉",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-0fb15183-ea3f-4b0a-817d-c310fb8d83a5.png",
+      "source_sha256": "c1258dece592f6c1333100026621cff3e28862727e79a49d3488fc21a77ca203",
+      "filename": "야부엉_light_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/야부엉_light_overdrive_glossy_promo_f.webp",
+      "remote_path": "img/야부엉_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f2ffcee9e795dfcda70ce8c79e758dd701f2dbe7fe27f46694ce076f5265d483",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "야부엉",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-3f69e7c1-2d93-42f5-aa6d-f54966b5c040.png",
+      "source_sha256": "85613a58bc9f7d5ec10bba411728a1fc39b0bdb661bb4c9682b2dced4d7be664",
+      "filename": "야부엉_heavy_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/야부엉_heavy_overdrive_glossy_promo_f.webp",
+      "remote_path": "img/야부엉_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "1d7a69f4bcefa7beaa7b06a234c8be5ca0c11c526817bdd60c762ec18224c014",
+      "refs": [
+        "heavy",
+        "light"
+      ]
+    },
+    {
+      "card": "야부엉",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-ffcd1241-a9df-43c7-a3dc-019a1d278659.png",
+      "source_sha256": "e4d6193b92a95d24ec125957ebf238370c45827cc29e84ed408c786a7d8ea095",
+      "filename": "야부엉_mobility_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/야부엉_mobility_overdrive_glossy_promo_f.webp",
+      "remote_path": "img/야부엉_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "3df15feaa777c95eda7e020bc0592fa5b2670e0991cf07baa2af440daa181ff8",
+      "refs": [
+        "mobility",
+        "light"
+      ]
+    },
+    {
+      "card": "야부엉",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-fa90e253-ecc4-42af-9f38-dd12bedf1cba.png",
+      "source_sha256": "9ebb9d6cb923c7da21d8bb625a721f0ed5ecb4bb32174f9fbad7bcf9a988c02d",
+      "filename": "야부엉_glossy_promo_f_casual1.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/야부엉_glossy_promo_f_casual1.webp",
+      "remote_path": "img/야부엉_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "cc0211d0861ce7fa1d0db703644eb8971b87e20e473701202bf6c10c3842a866",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "야부엉",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-a028d241-ecf2-44ea-af1c-9a0a57548239.png",
+      "source_sha256": "229036a9056770ffe68cd9da37523f6f5c4ca46a31ef9f246ecc793731458871",
+      "filename": "야부엉_glossy_promo_f_casual2.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/야부엉_glossy_promo_f_casual2.webp",
+      "remote_path": "img/야부엉_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "ecb826832d5dca7181aa3f82ffc394b6732efeedf31a735adcda4771b009d439",
+      "refs": [
+        "light"
+      ]
+    },
+    {
+      "card": "야부엉",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "style_evidence": "Actual generator UI selections; submitted prompt verified against UI FNV digest",
+      "source": "/workspace/scratch/1829ac433d95/generated_images/exec-220531d2-1451-47f7-a03f-bfb900c523c6.png",
+      "source_sha256": "8ae175ae20c6573073741dff43c261a79c3f4b91e866eba232aaaf32ddf539c5",
+      "filename": "야부엉_glossy_promo_f_casual3.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier-img/img/야부엉_glossy_promo_f_casual3.webp",
+      "remote_path": "img/야부엉_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4cdae5d864eaeffca865e987b9f99adaa439290056fd088fc70ed962eab57921",
+      "refs": [
+        "light"
+      ]
+    }
+  ],
+  "comparison": {
+    "characters": [
+      "야돈",
+      "부우부",
+      "날쌩마"
+    ],
+    "source": "Remote main plan.json files read for these three recent characters. Compared vanity bracelet, garden dessert, marsh shell walk, planetarium telescope, rooftop pool stretch, harvest fair stool, racing exhibit host, pottery and dawn jogging.",
+    "changes": "New scenes differ in location, activity, outfit silhouette and composition. Compare earlier characters of this batch too.",
+    "batch_characters": []
+  },
+  "review": "Images visually inspected for identity, armor form separation, paired open-state composition, anatomy, text and weapons, and distinct off-duty scenes. Corrections recorded separately when needed."
+}

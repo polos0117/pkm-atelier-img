@@ -1,0 +1,70 @@
+{
+  "mech": "야부엉",
+  "scene": "At a moonlit old stone forest gate, upright poised stance, relaxed open hands beside her hips, warm amber rim light and blue night sky.",
+  "casual": [
+    {
+      "cat": "adult_roleplay",
+      "expr": "confident",
+      "pose": "dance_step",
+      "orient": "turning_midmotion",
+      "frame": "full_body",
+      "lens": "portrait85",
+      "scene": "On an empty art-deco theater stage during a midnight illusion-show rehearsal, taking a small elegant dance step while presenting both open palms at waist height. Golden footlights, burgundy curtains, complete head and shoes visible.",
+      "outfit": "Original adult stage-magician event fashion: fully opaque fitted chocolate halter waistcoat, cream high-waisted tailored shorts, a soft short split-tail cape hanging only from the collar, black heeled ankle shoes. Bare shoulders arms midriff and legs. Tiny feather ear studs, no hat, no armor.",
+      "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people. Remove the armored circlet, gauntlets, plated mantle and sash. Species only as a tiny accessory or color echo.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "cat": "occupation_basic",
+      "expr": "focused",
+      "pose": "carrying_something",
+      "orient": "side",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "In a quiet historical print archive at rainy afternoon, standing side-on at a wide restoration table, carefully aligning an unlettered botanical print on a flat backing board using two separately visible hands. Cool skylight and warm desk light, face visible.",
+      "outfit": "Ivory sleeveless fitted high-neck knit top tucked into cinnamon linen trousers below crop, a narrow black waist apron, bare shoulders and arms and a small side waist gap. Tiny ring-shaped pendant, no gloves or armor.",
+      "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people. Remove the armored circlet, gauntlets, plated mantle and sash. Species only as a tiny accessory or color echo.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "cat": "traditional",
+      "expr": "amused",
+      "pose": "one_knee_up",
+      "orient": "high_angle",
+      "frame": "three_quarter",
+      "lens": "documentary35",
+      "scene": "In a stone lantern courtyard on a warm summer evening, seated with one knee raised on a low cedar bench, attaching a small tassel to a paper lantern resting beside her thigh. Both hands separated, camera gently above, warm lantern glow and indigo twilight.",
+      "outfit": "Cream modern cotton yukata-inspired short wrap dress with an opaque secure overlapped neckline, short flowing sleeves, brown sash and split side hem over opaque shorts. Bare forearms lower legs and one shoulder. Small feather-shaped hairpin, no armor.",
+      "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people. Remove the armored circlet, gauntlets, plated mantle and sash. Species only as a tiny accessory or color echo.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    }
+  ],
+  "comparison": {
+    "characters": [
+      "야돈",
+      "부우부",
+      "날쌩마"
+    ],
+    "source": "Remote main plan.json files read for these three recent characters. Compared vanity bracelet, garden dessert, marsh shell walk, planetarium telescope, rooftop pool stretch, harvest fair stool, racing exhibit host, pottery and dawn jogging.",
+    "changes": "New scenes differ in location, activity, outfit silhouette and composition. Compare earlier characters of this batch too.",
+    "batch_characters": []
+  }
+}
