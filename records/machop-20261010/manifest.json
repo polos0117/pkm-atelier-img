@@ -1,0 +1,155 @@
+[
+  {
+    "character": "알통몬",
+    "slot": "light",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/f8c079e16365/generated_images/exec-ae2ca18d-e4a5-4a1c-ab16-fd225064f71b.png",
+    "output": "img/알통몬_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "6a584caeb05b440b76f0c6708cfa28036e704b9602cd6df28265ef42a513f638",
+    "reference": null,
+    "prompt": "records/machop-20261010/light.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+  },
+  {
+    "character": "알통몬",
+    "slot": "heavy",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/f8c079e16365/generated_images/exec-2af461ce-1589-471e-a44c-409026e8e537.png",
+    "output": "img/알통몬_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "2ac4d47f4ae021c76e16cbdf9c4106d25a0a7dab232003451da7faf7d19fe953",
+    "reference": "img/알통몬_light_glossy_promo_f.webp",
+    "prompt": "records/machop-20261010/heavy.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+  },
+  {
+    "character": "알통몬",
+    "slot": "mobility",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/f8c079e16365/generated_images/exec-f6b2f4db-6866-4dad-b1e1-c949bb184d41.png",
+    "output": "img/알통몬_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "1c810c147be39397d4a7696b76d6768c5654629bbd35909359ed241ab7b27067",
+    "reference": "img/알통몬_light_glossy_promo_f.webp",
+    "prompt": "records/machop-20261010/mobility.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+  },
+  {
+    "character": "알통몬",
+    "slot": "light_overdrive",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/f8c079e16365/generated_images/exec-493c49b9-bdee-49af-8239-73e26ec1307c.png",
+    "output": "img/알통몬_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "f0d94abb6b5bced4dd9f87ec866da660fa009ad97a6b57ac51e2faf90b005def",
+    "reference": "img/알통몬_light_glossy_promo_f.webp",
+    "prompt": "records/machop-20261010/light_overdrive.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+  },
+  {
+    "character": "알통몬",
+    "slot": "heavy_overdrive",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/f8c079e16365/generated_images/exec-3b241cbe-7aa0-430d-a10a-7e6f07c4c991.png",
+    "output": "img/알통몬_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "3608ac4a357a340b9a55450d1561e3ca063c669e4fcd7b95d58165a1c05b6cae",
+    "reference": "img/알통몬_heavy_glossy_promo_f.webp",
+    "prompt": "records/machop-20261010/heavy_overdrive.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+  },
+  {
+    "character": "알통몬",
+    "slot": "mobility_overdrive",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/f8c079e16365/generated_images/exec-efcadf80-56ff-4904-990f-f3e9d90cdfa6.png",
+    "output": "img/알통몬_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "089b6d311bb890cef3016b92de9e044d0809ad25e0018b0921c40d787a101f2d",
+    "reference": "img/알통몬_mobility_glossy_promo_f.webp",
+    "prompt": "records/machop-20261010/mobility_overdrive.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+  },
+  {
+    "character": "알통몬",
+    "slot": "casual1",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/f8c079e16365/generated_images/exec-3402b267-6798-4cd5-87bf-e3b83d0e7243.png",
+    "output": "img/알통몬_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "d7da117f0ce651dbe0d38288dd0dd8dc6e68e903c14fcf162ef70d16b4aef1f7",
+    "reference": "img/알통몬_light_glossy_promo_f.webp",
+    "prompt": "records/machop-20261010/casual1.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+  },
+  {
+    "character": "알통몬",
+    "slot": "casual2",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/f8c079e16365/generated_images/exec-c98c3dd1-a7d6-47aa-89e8-5755283f4cfb.png",
+    "output": "img/알통몬_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "afb082b60f9a872ee2e5e56771a814033b6982befb24905b02614ecf20d7dbdb",
+    "reference": "img/알통몬_light_glossy_promo_f.webp",
+    "prompt": "records/machop-20261010/casual2.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+  },
+  {
+    "character": "알통몬",
+    "slot": "casual3",
+    "style": "glossy_promo",
+    "evidence": "Actual generator UI selections and exact captured prompt submitted to built-in imagegen",
+    "original": "/workspace/scratch/f8c079e16365/generated_images/exec-57fe8082-696c-4770-ac95-2075dfcc67d6.png",
+    "output": "img/알통몬_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "762d465cea22c684db222c1bfaf0ddc5aa2f0e25a8e851f61a6bd5952fb90f58",
+    "reference": "img/알통몬_light_glossy_promo_f.webp",
+    "prompt": "records/machop-20261010/casual3.txt",
+    "validation": "Visually inspected generated output; character identity, form/framing and hand anatomy checked"
+  }
+]

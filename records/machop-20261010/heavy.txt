@@ -1,0 +1,21 @@
+INPUT: the attached image is the approved character; keep her.
+
+SOURCE: Machop (알통몬), fighting type.
+
+STYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.
+
+FORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.
+
+OUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.
+
+Chosen settings below override the default stance and camera; her identity and form stay fixed.
+Expression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed
+Pose: Plant both feet firmly in a grounded bracing stance, using posture rather than a larger body to convey weight.
+Scene: An empty rocky training terrace at sunrise, blue-gray slim armor with brown accents. Grounded balanced martial-arts stance, both open hands separated beside the body, face toward camera; no other figure.
+Note: Exactly one clearly adult woman, both hands fully inside frame, each hand has exactly five anatomically distinct fingers including one thumb. No weapons, text, logos or extra limbs. Vertical 2:3, 1024x1536.
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.

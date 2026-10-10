@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Machop (알통몬) personified, fighting type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: brows pulled down and in, hard forward gaze, jaw clenched, mouth a tight line
+Pose: Stretch the arms and upper back gently in a comfortable everyday motion.
+Orientation: camera below subject looking upward; obey selected framing
+Scene: An empty indoor bouldering gym in crisp morning skylight. She stretches one shoulder before a climb, one hand lightly touching the other upper arm without overlapping fingers; both feet planted, face visible to camera. Colorful climbing holds and chalk bag on floor.
+Outfit and props: Slate blue racerback athletic crop top, terracotta fitted climbing shorts with broad waistband, low climbing shoes. Bare shoulders, midriff and legs; tiny three-ridge hair clip, no armor.
+Category: Show real movement with fashion-forward activewear or movement-oriented clothing. Avoid generic gym snapshots. Prioritize dynamic motion, readable silhouette, waist and hip lines, fabric movement, and varied action.
+Note: One clearly adult woman in her 20s; match the reference face, hairstyle, proportions and human skin. Both hands naturally visible in the chosen framing, each with exactly five distinct fingers. No armor, weapons, text, logos or duplicate person.
+Framing: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.
+Lens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

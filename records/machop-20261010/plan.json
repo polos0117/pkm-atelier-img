@@ -1,0 +1,43 @@
+{
+  "character": "알통몬",
+  "generator": "Real Preact generator UI via repository DOM harness; selections dispatched on the actual controls and exact textarea captured",
+  "recent_comparison": [
+    "발챙이",
+    "슈륙챙이",
+    "강챙이"
+  ],
+  "comparison_source": "Read recent three characters casual1-3 UI records and submitted prompts",
+  "diversity_changes": "Different locations, concrete activities, clothing silhouettes, poses, orientations, framing order, times and lighting. Required categories rotate lingerie, swimwear, adult_roleplay.",
+  "casual": [
+    {
+      "cat": "active",
+      "expr": "determined",
+      "pose": "stretching",
+      "orient": "low_angle",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "An empty indoor bouldering gym in crisp morning skylight. She stretches one shoulder before a climb, one hand lightly touching the other upper arm without overlapping fingers; both feet planted, face visible to camera. Colorful climbing holds and chalk bag on floor.",
+      "outfit": "Slate blue racerback athletic crop top, terracotta fitted climbing shorts with broad waistband, low climbing shoes. Bare shoulders, midriff and legs; tiny three-ridge hair clip, no armor."
+    },
+    {
+      "cat": "lingerie",
+      "expr": "sleepy",
+      "pose": "sitting_floor",
+      "orient": "high_angle",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "Her sunlit apartment bedroom on a lazy late morning. Seated on a soft floor rug with knees bent separately, she sorts clean folded towels into a woven basket, one hand on a towel and the other relaxed on her knee. Soft ivory curtains and warm wooden floor, gentle domestic fashion moment.",
+      "outfit": "Opaque lined copper satin lingerie-inspired camisole with delicate lace neckline trim, matching loose tap shorts, a lightweight open pale-gray short robe resting at her elbows. Bare shoulders, midriff and thighs; secure fabric coverage."
+    },
+    {
+      "cat": "food_berries",
+      "expr": "curious",
+      "pose": "preparing_food",
+      "orient": "side",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "A bright community berry kitchen at golden hour. Seen from the side with her face turned enough to read, she arranges fresh berries in a ceramic tart dish, one hand above the berries and the other on the dish rim. Both hands fully visible; warm side light, no other people.",
+      "outfit": "A sleeveless rust-red halter-neck short dress with open shoulders and a wide square waist cutout, pale-gray waist apron, tiny three-ridge pendant. Opaque casual cooking fashion, no armor."
+    }
+  ]
+}

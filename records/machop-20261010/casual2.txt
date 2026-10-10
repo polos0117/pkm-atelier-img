@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Machop (알통몬) personified, fighting type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: heavy drooping eyelids, unfocused gaze, softened slack mouth, brow low and relaxed
+Pose: Sit comfortably on the floor or a mat with clearly separated legs and hands.
+Orientation: camera above subject looking downward; obey selected framing
+Scene: Her sunlit apartment bedroom on a lazy late morning. Seated on a soft floor rug with knees bent separately, she sorts clean folded towels into a woven basket, one hand on a towel and the other relaxed on her knee. Soft ivory curtains and warm wooden floor, gentle domestic fashion moment.
+Outfit and props: Opaque lined copper satin lingerie-inspired camisole with delicate lace neckline trim, matching loose tap shorts, a lightweight open pale-gray short robe resting at her elbows. Bare shoulders, midriff and thighs; secure fabric coverage.
+Category: Use tasteful adult lingerie-inspired evening fashion with full intimate coverage. Describe the garment by its construction — cut, fabric, trim, straps, closures, layers — rather than by mood words. The garments are securely fitted and fully opaque, and the look is suitable for a mainstream evening-fashion editorial. Build the image through framing, silhouette, posture, and lighting rather than exposure.
+Note: One clearly adult woman in her 20s; match the reference face, hairstyle, proportions and human skin. Both hands naturally visible in the chosen framing, each with exactly five distinct fingers. No armor, weapons, text, logos or duplicate person.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
