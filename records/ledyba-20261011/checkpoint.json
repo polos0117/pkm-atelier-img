@@ -1,5 +1,5 @@
 {
-  "status": "8_confirmed_ready_for_upload_one_opened_slot_blocked",
+  "status": "9_confirmed_ready_for_upload",
   "anchor": {
     "card": "레디바",
     "slot": "light",
@@ -177,6 +177,30 @@
       "refs": [
         "light"
       ]
+    },
+    {
+      "card": "레디바",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "style_evidence": "User supplied and explicitly approved the opened-state image for the existing glossy_promo character; compared with its registered mobility closed state. No new generation in this upload turn.",
+      "source": "/workspace/scratch/1829ac433d95/upload/01-1000023300.png",
+      "source_attachment": "1000023300.png",
+      "source_attachment_citation": "file_0000000041a48209ad48f3230a863514",
+      "source_format": "JPEG",
+      "source_sha256": "0ea65f82292e3676113dd467d73f2e809d393cdfbbf2d5c5063cd1b2a5f47b07",
+      "filename": "레디바_mobility_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/1829ac433d95/pkm-atelier/img/레디바_mobility_overdrive_glossy_promo_f.webp",
+      "remote_path": "img/레디바_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "083d82e159d5d5d29df868c9c52e3cc52cddb6d5e6c6b15bd2e812ec704969aa",
+      "refs": [
+        "mobility"
+      ],
+      "reference_evidence": "Visual comparison with img/레디바_mobility_glossy_promo_f.webp; actual external generation inputs and submitted prompt were not supplied in this turn."
     }
   ],
   "comparison": {
@@ -191,7 +215,7 @@
       "noctowl"
     ]
   },
-  "review": "Eight images match the approved light anchor and are confirmed. Covered replacement pair is not confirmed for identity and remains outside img/; do not register it.",
+  "review": "Eight previously confirmed images preserved. User-supplied ninth mobility opened image visually compared against its closed state and approved for registration. Earlier covered candidate pair remains unconfirmed outside img/.",
   "exception": {
     "reason": "Original mobility opened output rejected; subsequent original mobility and anchor image reference input rejected. Fully covered replacement mobility generated text-only, then corrected for anime rendering and fanned armor panels; opened form edited from that covered mobility.",
     "slots": [
@@ -209,11 +233,19 @@
     },
     "identity_review": "Black and ivory hair, warm-red eyes and adult features retained visually; the replacement did not directly use the approved light anchor and face/body matching is less exact than the other seven images."
   },
-  "pending": [
-    "mobility_overdrive"
-  ],
+  "pending": [],
   "candidate_paths": [
     "records/ledyba-20261011/covered-candidates/mobility.webp",
     "records/ledyba-20261011/covered-candidates/mobility_overdrive.webp"
-  ]
+  ],
+  "resolution": {
+    "date": "2026-10-11",
+    "source": "user_attachment",
+    "request": "레디바 고기동 이걸로 올려줘",
+    "slot": "mobility_overdrive",
+    "preserved_closed_state": "img/레디바_mobility_glossy_promo_f.webp",
+    "source_sha256": "0ea65f82292e3676113dd467d73f2e809d393cdfbbf2d5c5063cd1b2a5f47b07",
+    "converted_sha256": "083d82e159d5d5d29df868c9c52e3cc52cddb6d5e6c6b15bd2e812ec704969aa",
+    "review": "Same face, hair, camera, pose and framing as the existing mobility closed state; opened panels, inner frame and lime-green energy identify the opened slot."
+  }
 }
