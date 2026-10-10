@@ -1,0 +1,23 @@
+CHARACTER: the same woman as the attached image — Poliwhirl (슈륙챙이) personified, water type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: inner brows drawn together, one eye slightly narrowed, mouth pressed flat to one side
+Pose: Squat comfortably to interact at a lower height with balanced feet.
+Orientation: camera above subject looking downward; obey selected framing
+Scene: A covered bicycle shelter after a summer rain, gray daylight reflecting from wet pavement. Squatting beside her commuter bicycle, she reseats a slipped chain with a small cloth while the other hand supports the frame; natural separated hands. Face looks up at the camera with a mildly annoyed expression. No branded bicycle text.
+Outfit and props: A cobalt sleeveless zip-front athletic crop vest, white running shorts, practical sneakers and a loosely tied rain shell at the waist, a tiny spiral zipper charm. Bare arms, midriff and thighs; personal cycling outfit, no armor or mechanical attachments.
+Category: Show real movement with fashion-forward activewear or movement-oriented clothing. Avoid generic gym snapshots. Prioritize dynamic motion, readable silhouette, waist and hip lines, fabric movement, and varied action.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+Lens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

@@ -1,0 +1,23 @@
+CHARACTER: the same woman as the attached image — Poliwhirl (슈륙챙이) personified, water type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: gaze angled down and away, slightly furrowed brow, lips lightly pressed or touched
+Pose: Rest a hand or forearm on a table, counter or railing in a relaxed supported pose.
+Orientation: side body profile, approximately 90 degrees to camera
+Scene: A hilltop observatory visitor terrace at blue hour. She leans lightly beside a public telescope, one relaxed hand on its adjustment ring and the other resting on the railing, pausing to gaze at the rising crescent moon. Violet twilight and a dim amber observatory light on her face, calm traveling moment. Both hands visible in the waist-up composition.
+Outfit and props: A sleeveless white high-neck cropped knit top, navy linen trousers, an open lightweight indigo shawl loosely draped off the shoulders, small spiral earrings. Bare arms and a band of midriff, contemporary travel fashion, no armor.
+Category: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+Lens / perspective: 135mm-equivalent telephoto perspective from farther away, with compressed background depth and unchanged anatomy.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

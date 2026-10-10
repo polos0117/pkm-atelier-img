@@ -1,0 +1,144 @@
+{
+  "card": "슈륙챙이",
+  "style": "glossy_promo",
+  "status": "nine_images_verified_ready_for_upload",
+  "base_image": "img/슈륙챙이_light_glossy_promo_f.webp",
+  "images": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/4167fccfcaa6/generated_images/exec-e4d15f81-0397-4782-ae66-311f58e64509.png",
+      "filename": "슈륙챙이_light_glossy_promo_f.webp",
+      "output": "/workspace/scratch/4167fccfcaa6/pkm-complete/img/슈륙챙이_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "6db2fc261810a78b09dabd93a143f56e2421b2f83e234c810a21f69727fc96e7",
+      "reference": null,
+      "repository_image_path": "img/슈륙챙이_light_glossy_promo_f.webp",
+      "qa": "Face, five-finger anatomy, framing, form differences and identity visually reviewed"
+    },
+    {
+      "slot": "heavy",
+      "source": "/workspace/scratch/4167fccfcaa6/generated_images/exec-d7d4106a-6bf6-458a-a385-06276195a113.png",
+      "filename": "슈륙챙이_heavy_glossy_promo_f.webp",
+      "output": "/workspace/scratch/4167fccfcaa6/pkm-complete/img/슈륙챙이_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "377f27d18678d6c2665c8b1e0f3198228245d976fd47870ff6899afc424586b2",
+      "reference": "/workspace/scratch/4167fccfcaa6/generated_images/exec-e4d15f81-0397-4782-ae66-311f58e64509.png",
+      "repository_image_path": "img/슈륙챙이_heavy_glossy_promo_f.webp",
+      "qa": "Face, five-finger anatomy, framing, form differences and identity visually reviewed"
+    },
+    {
+      "slot": "mobility",
+      "source": "/workspace/scratch/4167fccfcaa6/generated_images/exec-c730e7b2-217b-4562-8965-c43b39678859.png",
+      "filename": "슈륙챙이_mobility_glossy_promo_f.webp",
+      "output": "/workspace/scratch/4167fccfcaa6/pkm-complete/img/슈륙챙이_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "8dc5b99098184e52030487a40a10acaeab63262862eb3a994fb78a08daaf832e",
+      "reference": "/workspace/scratch/4167fccfcaa6/generated_images/exec-e4d15f81-0397-4782-ae66-311f58e64509.png",
+      "repository_image_path": "img/슈륙챙이_mobility_glossy_promo_f.webp",
+      "qa": "Face, five-finger anatomy, framing, form differences and identity visually reviewed"
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "/workspace/scratch/4167fccfcaa6/generated_images/exec-8dd27042-4142-4a6b-a7b8-033ea79b30a5.png",
+      "filename": "슈륙챙이_light_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/4167fccfcaa6/pkm-complete/img/슈륙챙이_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "700e182e49a1e2594da63471b0032456d707fe75889790785c41bdef96c01718",
+      "reference": "/workspace/scratch/4167fccfcaa6/generated_images/exec-e4d15f81-0397-4782-ae66-311f58e64509.png",
+      "repository_image_path": "img/슈륙챙이_light_overdrive_glossy_promo_f.webp",
+      "qa": "Face, five-finger anatomy, framing, form differences and identity visually reviewed"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "source": "/workspace/scratch/4167fccfcaa6/generated_images/exec-8e0c09b3-928d-40dc-8cd4-8c924b632b77.png",
+      "filename": "슈륙챙이_heavy_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/4167fccfcaa6/pkm-complete/img/슈륙챙이_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "c6d0cc5163b32a4a40b7642a8ee82cb4c101353bef21e920281c9b79da77e2d9",
+      "reference": "/workspace/scratch/4167fccfcaa6/generated_images/exec-d7d4106a-6bf6-458a-a385-06276195a113.png",
+      "repository_image_path": "img/슈륙챙이_heavy_overdrive_glossy_promo_f.webp",
+      "qa": "Face, five-finger anatomy, framing, form differences and identity visually reviewed"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "source": "/workspace/scratch/4167fccfcaa6/generated_images/exec-2dcea16e-2784-4d7b-934a-85e66928a9b8.png",
+      "filename": "슈륙챙이_mobility_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/4167fccfcaa6/pkm-complete/img/슈륙챙이_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "679cfeafaa5e03358a2ca155005102240b038bba266c8460481bd96616fde22c",
+      "reference": "/workspace/scratch/4167fccfcaa6/generated_images/exec-c730e7b2-217b-4562-8965-c43b39678859.png",
+      "repository_image_path": "img/슈륙챙이_mobility_overdrive_glossy_promo_f.webp",
+      "qa": "Face, five-finger anatomy, framing, form differences and identity visually reviewed"
+    },
+    {
+      "slot": "casual1",
+      "source": "/workspace/scratch/4167fccfcaa6/generated_images/exec-515731b0-55e3-4ac2-8dc1-7d0c2619f9f5.png",
+      "filename": "슈륙챙이_glossy_promo_f_casual1.webp",
+      "output": "/workspace/scratch/4167fccfcaa6/pkm-complete/img/슈륙챙이_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "c235e8b1803973134ab5178c28563783d5d3e7975b599c125e27689dd41d4685",
+      "reference": "/workspace/scratch/4167fccfcaa6/generated_images/exec-e4d15f81-0397-4782-ae66-311f58e64509.png",
+      "repository_image_path": "img/슈륙챙이_glossy_promo_f_casual1.webp",
+      "qa": "Face, five-finger anatomy, framing, form differences and identity visually reviewed"
+    },
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/4167fccfcaa6/generated_images/exec-482cd124-0af2-48ae-a413-78e445f6fa8a.png",
+      "filename": "슈륙챙이_glossy_promo_f_casual2.webp",
+      "output": "/workspace/scratch/4167fccfcaa6/pkm-complete/img/슈륙챙이_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "32bf0c7914344fac97f2c2d5e2b9cee16598b91beba00c3033e8e19e195d31ec",
+      "reference": "/workspace/scratch/4167fccfcaa6/generated_images/exec-e4d15f81-0397-4782-ae66-311f58e64509.png",
+      "repository_image_path": "img/슈륙챙이_glossy_promo_f_casual2.webp",
+      "qa": "Face, five-finger anatomy, framing, form differences and identity visually reviewed"
+    },
+    {
+      "slot": "casual3",
+      "source": "/workspace/scratch/4167fccfcaa6/generated_images/exec-915e149e-9755-4dc6-98f4-f2b2ec38faa5.png",
+      "filename": "슈륙챙이_glossy_promo_f_casual3.webp",
+      "output": "/workspace/scratch/4167fccfcaa6/pkm-complete/img/슈륙챙이_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "33b53ac0017bab5e722e7b394145b4e4f5fe036bd0748c2c8a7a4b03bf1c693d",
+      "reference": "/workspace/scratch/4167fccfcaa6/generated_images/exec-e4d15f81-0397-4782-ae66-311f58e64509.png",
+      "repository_image_path": "img/슈륙챙이_glossy_promo_f_casual3.webp",
+      "qa": "Face, five-finger anatomy, framing, form differences and identity visually reviewed"
+    }
+  ],
+  "resume": "After upload, use repository_image_path as the durable source; reference images remain the light portrait or corresponding normal form.",
+  "recent_comparison": [
+    "성원숭 casual1-3",
+    "가디 casual1-3",
+    "윈디 casual1-3",
+    "발챙이 casual1-3"
+  ],
+  "comparison_source": "Nine recent existing thumbnail images and three Poliwag generation results visually inspected",
+  "diversity_changes": "Stage magician ribbon performance, bicycle chain maintenance and observatory travel differ in location, activity, outfit silhouette, camera angle and light; required category adult_roleplay instead of preceding Poliwag swimwear",
+  "generator": "Actual live UI selections; submitted prompt text confirmed by FNV-1a hash equality with current prompt engine; all prompts and UI snapshots saved"
+}
