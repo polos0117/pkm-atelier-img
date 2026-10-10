@@ -1,0 +1,17 @@
+{
+  "mech": "다꼬리",
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "On a windswept grassy ridge in warm late-afternoon light, upright poised front three-quarter stance, both empty hands open beside her hips. Long soft clouds and a readable full-body silhouette.",
+  "custom": "1024x1536. Both empty hands visible clear of torso, exactly five distinct natural digits each. No weapon.",
+  "outputMode": "action",
+  "identityMode": "reference",
+  "form": "overdrive",
+  "aspect": "2:3",
+  "baseForm": "light"
+}

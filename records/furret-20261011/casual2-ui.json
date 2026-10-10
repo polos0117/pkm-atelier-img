@@ -1,0 +1,27 @@
+{
+  "mech": "다꼬리",
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "In a sunlit apartment laundry nook on a late morning, seated sideways on a low padded bench and folding a clean ivory towel across her lap. Torso turns naturally toward camera; both complete hands visible on separate towel corners, feet included.",
+  "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people.",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "form": "casual2",
+  "aspect": "2:3",
+  "cat": "lingerie",
+  "expr": "soft_smile",
+  "pose": "side_sitting",
+  "orient": "seated_twist",
+  "frame": "full_body",
+  "lens": "natural50",
+  "outfit": "Fully opaque lined champagne satin camisole with secure straps and fitted cinnamon lounge shorts, a lightweight robe loosely draped over the bench. Bare shoulders arms and legs, full chest and pelvis coverage; small striped hair ribbon.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

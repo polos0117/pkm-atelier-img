@@ -1,0 +1,27 @@
+{
+  "mech": "다꼬리",
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "At a sunny coastal ferry terminal at noon, standing beside an old unlettered route board and unfolding a blank illustrated map with both hands apart. A small suitcase beside her feet below the crop, sea and white boats in background.",
+  "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people.",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "form": "casual1",
+  "aspect": "2:3",
+  "cat": "travel_exploration",
+  "expr": "curious",
+  "pose": "checking_map",
+  "orient": "front_3q",
+  "frame": "three_quarter",
+  "lens": "documentary35",
+  "outfit": "Cream sleeveless V-neck travel blouse with secure placket tucked into cinnamon high-waisted wide-leg trousers, brown narrow belt, bare arms and shoulders; tiny striped scarf tied to suitcase.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

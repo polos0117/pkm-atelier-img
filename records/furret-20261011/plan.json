@@ -1,0 +1,69 @@
+{
+  "mech": "다꼬리",
+  "scene": "On a windswept grassy ridge in warm late-afternoon light, upright poised front three-quarter stance, both empty hands open beside her hips. Long soft clouds and a readable full-body silhouette.",
+  "casual": [
+    {
+      "cat": "travel_exploration",
+      "expr": "curious",
+      "pose": "checking_map",
+      "orient": "front_3q",
+      "frame": "three_quarter",
+      "lens": "documentary35",
+      "scene": "At a sunny coastal ferry terminal at noon, standing beside an old unlettered route board and unfolding a blank illustrated map with both hands apart. A small suitcase beside her feet below the crop, sea and white boats in background.",
+      "outfit": "Cream sleeveless V-neck travel blouse with secure placket tucked into cinnamon high-waisted wide-leg trousers, brown narrow belt, bare arms and shoulders; tiny striped scarf tied to suitcase.",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "cat": "lingerie",
+      "expr": "soft_smile",
+      "pose": "side_sitting",
+      "orient": "seated_twist",
+      "frame": "full_body",
+      "lens": "natural50",
+      "scene": "In a sunlit apartment laundry nook on a late morning, seated sideways on a low padded bench and folding a clean ivory towel across her lap. Torso turns naturally toward camera; both complete hands visible on separate towel corners, feet included.",
+      "outfit": "Fully opaque lined champagne satin camisole with secure straps and fitted cinnamon lounge shorts, a lightweight robe loosely draped over the bench. Bare shoulders arms and legs, full chest and pelvis coverage; small striped hair ribbon.",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "determined",
+      "pose": "mid_action",
+      "orient": "leaning_forward",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "Inside a compact pottery studio in soft rainy afternoon light, leaning forward slightly and pressing a coil of clay onto a small bowl on a tabletop, both hands separate and readable. Shelves of undecorated ceramics, no apron text.",
+      "outfit": "Sleeveless dark cocoa square-neck work jumpsuit with fitted secure bodice and cream waist tie, bare arms shoulders and upper back. Small striped bracelet, no gloves or armor.",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    }
+  ],
+  "comparison": {
+    "characters": [
+      "리아코",
+      "엘리게이",
+      "장크로다일"
+    ],
+    "source": "Remote main plan.json and generation-record.json read. Prior scenes: vinyl lounge, greenhouse, surfboard waxing, fossil gala, rooftop kite, railway shelter, lake goggles, bakery dough, riverside dance.",
+    "changes": "All nine new scenes differ in location, concrete activity, outfit silhouette and camera. Compare preceding characters within this batch as well."
+  }
+}

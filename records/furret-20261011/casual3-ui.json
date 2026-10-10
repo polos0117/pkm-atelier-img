@@ -1,0 +1,27 @@
+{
+  "mech": "다꼬리",
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "Inside a compact pottery studio in soft rainy afternoon light, leaning forward slightly and pressing a coil of clay onto a small bowl on a tabletop, both hands separate and readable. Shelves of undecorated ceramics, no apron text.",
+  "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each. No armor, weapons, text, logos or other people.",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "form": "casual3",
+  "aspect": "2:3",
+  "cat": "hobbies_leisure",
+  "expr": "determined",
+  "pose": "mid_action",
+  "orient": "leaning_forward",
+  "frame": "waist_up",
+  "lens": "portrait85",
+  "outfit": "Sleeveless dark cocoa square-neck work jumpsuit with fitted secure bodice and cream waist tie, bare arms shoulders and upper back. Small striped bracelet, no gloves or armor.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
