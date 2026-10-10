@@ -1,0 +1,73 @@
+{
+  "character": "딱구리",
+  "comparison": [
+    "독파리",
+    "꼬마돌",
+    "데구리"
+  ],
+  "diversity": "gym preparation / sunrise lingerie home fashion / basalt garden photography; places, actions, outfit silhouettes, cameras differ",
+  "actual_casual_settings": [
+    {
+      "mech": "딱구리",
+      "sourceName": "Golem",
+      "series": "rock / ground",
+      "style": "glossy_promo",
+      "cat": "occupation_basic",
+      "expr": "determined",
+      "pose": "carrying_something",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "In a bright rock-type training gym before opening, checking the tension of a broad elastic exercise loop held gently between two clearly separated hands at waist height. Morning skylight, wooden equipment shelves and exercise mats, no other people.",
+      "outfit": "Olive sleeveless fitted athletic wrap tunic with secure V neckline and side waist opening, brown full-length fitted leggings, simple wrist sweatbands and tiny stone pendant. Bare shoulders arms and side midriff, original practical training clothes.",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both hands visible with five distinct fingers each. No weapon, armor, text or logo.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "aspect": "2:3"
+    },
+    {
+      "mech": "딱구리",
+      "sourceName": "Golem",
+      "series": "rock / ground",
+      "style": "glossy_promo",
+      "cat": "lingerie",
+      "expr": "sleepy",
+      "pose": "stretching",
+      "orient": "high_angle",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "In an airy linen-draped apartment bedroom at sunrise, standing on a soft rug beside an unmade bed and stretching both arms gently upward after waking. Both hands fully in frame with relaxed separated fingers; warm window stripes and pale plaster walls, camera gently above eye level.",
+      "outfit": "Opaque lined olive satin camisole with narrow secure shoulder straps and lace-trim neckline, matching high-waisted short tap pants with complete pelvis coverage, lightweight ivory robe slipping only from shoulders and draped at elbows. Bare shoulders arms midriff and legs; tiny stone pendant. Adult mainstream lingerie-inspired home fashion, no armor.",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both hands visible with five distinct fingers each. No weapon, armor, text or logo.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "aspect": "2:3"
+    },
+    {
+      "mech": "딱구리",
+      "sourceName": "Golem",
+      "series": "rock / ground",
+      "style": "glossy_promo",
+      "cat": "travel_exploration",
+      "expr": "curious",
+      "pose": "taking_photo",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "In a landscaped basalt column garden on a cloudy afternoon, studying a moss-covered stone arch before taking a photo. Small compact camera held below her face at chest height, hands separated on opposite sides of the camera with natural finger placement, visible face and both hands. Soft green reflected light.",
+      "outfit": "Mustard sleeveless collared linen romper with secure button front, belted waist and tailored short legs, light brown hiking sandals, small crossbody pouch and green stone earrings. Bare shoulders arms and legs, original travel clothing, no armor.",
+      "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both hands visible with five distinct fingers each. No weapon, armor, text or logo.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "aspect": "2:3"
+    }
+  ],
+  "anchor": "img/딱구리_light_glossy_promo_f.webp",
+  "status": "9/9 generated and validated; default main branch update blocked by automatic approval review; thumbnails and registration pending"
+}

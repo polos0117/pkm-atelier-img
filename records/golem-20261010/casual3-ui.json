@@ -1,0 +1,20 @@
+{
+  "mech": "딱구리",
+  "sourceName": "Golem",
+  "series": "rock / ground",
+  "style": "glossy_promo",
+  "cat": "travel_exploration",
+  "expr": "curious",
+  "pose": "taking_photo",
+  "orient": "side",
+  "frame": "three_quarter",
+  "lens": "portrait85",
+  "scene": "In a landscaped basalt column garden on a cloudy afternoon, studying a moss-covered stone arch before taking a photo. Small compact camera held below her face at chest height, hands separated on opposite sides of the camera with natural finger placement, visible face and both hands. Soft green reflected light.",
+  "outfit": "Mustard sleeveless collared linen romper with secure button front, belted waist and tailored short legs, light brown hiking sandals, small crossbody pouch and green stone earrings. Bare shoulders arms and legs, original travel clothing, no armor.",
+  "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both hands visible with five distinct fingers each. No weapon, armor, text or logo.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "aspect": "2:3"
+}

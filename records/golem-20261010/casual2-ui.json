@@ -1,0 +1,20 @@
+{
+  "mech": "딱구리",
+  "sourceName": "Golem",
+  "series": "rock / ground",
+  "style": "glossy_promo",
+  "cat": "lingerie",
+  "expr": "sleepy",
+  "pose": "stretching",
+  "orient": "high_angle",
+  "frame": "full_body",
+  "lens": "documentary35",
+  "scene": "In an airy linen-draped apartment bedroom at sunrise, standing on a soft rug beside an unmade bed and stretching both arms gently upward after waking. Both hands fully in frame with relaxed separated fingers; warm window stripes and pale plaster walls, camera gently above eye level.",
+  "outfit": "Opaque lined olive satin camisole with narrow secure shoulder straps and lace-trim neckline, matching high-waisted short tap pants with complete pelvis coverage, lightweight ivory robe slipping only from shoulders and draped at elbows. Bare shoulders arms midriff and legs; tiny stone pendant. Adult mainstream lingerie-inspired home fashion, no armor.",
+  "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both hands visible with five distinct fingers each. No weapon, armor, text or logo.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "aspect": "2:3"
+}

@@ -1,0 +1,20 @@
+{
+  "mech": "딱구리",
+  "sourceName": "Golem",
+  "series": "rock / ground",
+  "style": "glossy_promo",
+  "cat": "occupation_basic",
+  "expr": "determined",
+  "pose": "carrying_something",
+  "orient": "front",
+  "frame": "waist_up",
+  "lens": "natural50",
+  "scene": "In a bright rock-type training gym before opening, checking the tension of a broad elastic exercise loop held gently between two clearly separated hands at waist height. Morning skylight, wooden equipment shelves and exercise mats, no other people.",
+  "outfit": "Olive sleeveless fitted athletic wrap tunic with secure V neckline and side waist opening, brown full-length fitted leggings, simple wrist sweatbands and tiny stone pendant. Bare shoulders arms and side midriff, original practical training clothes.",
+  "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman. Both hands visible with five distinct fingers each. No weapon, armor, text or logo.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "aspect": "2:3"
+}
