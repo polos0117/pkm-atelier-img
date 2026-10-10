@@ -1,0 +1,18 @@
+{
+  "cat": "adult_roleplay",
+  "expr": "confident",
+  "pose": "hand_on_hip",
+  "orient": "front_3q",
+  "frame": "three_quarter",
+  "lens": "portrait85",
+  "scene": "At a nighttime motorsport exhibition pit pavilion, introducing a silent racing display with one hand resting at her hip and the other open at waist level. Cool violet spotlights and warm rim light, no audience or other people.",
+  "outfit": "Original adult racing-event host fashion: opaque ivory zip-front sleeveless short romper with black side panels, orange waist belt and fitted short legs, ankle boots and one tiny flame-shaped pendant. Secure chest and pelvis coverage, bare shoulders arms and legs, no logos.",
+  "mech": "날쌩마",
+  "outputMode": "casual",
+  "aspect": "2:3",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "custom": "Vertical 2:3 1024x1536. Same adult woman. Both hands clearly visible with five separate natural fingers. No armor, weapons, text or logos."
+}

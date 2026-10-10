@@ -1,0 +1,66 @@
+{
+  "recent_comparison": [
+    "포니타",
+    "딱구리",
+    "데구리"
+  ],
+  "source": "read actual plans and submitted prompt records from image repository main",
+  "changes": "locations, concrete activities, clothing silhouettes and compositions changed; mandatory categories rotated",
+  "casual": [
+    {
+      "cat": "adult_roleplay",
+      "expr": "confident",
+      "pose": "hand_on_hip",
+      "orient": "front_3q",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "At a nighttime motorsport exhibition pit pavilion, introducing a silent racing display with one hand resting at her hip and the other open at waist level. Cool violet spotlights and warm rim light, no audience or other people.",
+      "outfit": "Original adult racing-event host fashion: opaque ivory zip-front sleeveless short romper with black side panels, orange waist belt and fitted short legs, ankle boots and one tiny flame-shaped pendant. Secure chest and pelvis coverage, bare shoulders arms and legs, no logos.",
+      "mech": "날쌩마",
+      "outputMode": "casual",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "Vertical 2:3 1024x1536. Same adult woman. Both hands clearly visible with five separate natural fingers. No armor, weapons, text or logos."
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "focused",
+      "pose": "sitting",
+      "orient": "side",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "In a sunlit pottery workshop at late afternoon, sitting side-on on a stool while shaping the rim of a clay bowl on a slow wheel. Both hands rest gently on opposite sides of the broad bowl, face and fingers visible. Warm amber dust beams and terracotta shelves.",
+      "outfit": "Black square-neck sleeveless linen dress with secure bodice, short hem and ivory waist apron, orange enamel earrings. Bare shoulders and arms, a side waist opening, ordinary craft clothing, no armor.",
+      "mech": "날쌩마",
+      "outputMode": "casual",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "Vertical 2:3 1024x1536. Same adult woman. Both hands clearly visible with five separate natural fingers. No armor, weapons, text or logos. Remove the horn circlet and all ear armor. Hair is ordinary silky hair in the reference color, without literal flames. Species appears only as small jewelry."
+    },
+    {
+      "cat": "active",
+      "expr": "determined",
+      "pose": "small_jog",
+      "orient": "front",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "On a misty grassland running trail at dawn, taking a light jogging step toward camera with relaxed naturally bent arms and both empty hands visible. Entire head and shoes within frame, pale sunrise and dew, no other people.",
+      "outfit": "Coral-orange opaque racerback sports crop top with secure broad straps, ivory high-waisted running shorts with black piping and white running shoes, tiny flame-shaped ear studs. Bare shoulders arms midriff and legs, no armor.",
+      "mech": "날쌩마",
+      "outputMode": "casual",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "Vertical 2:3 1024x1536. Same adult woman. Both hands clearly visible with five separate natural fingers. No armor, weapons, text or logos. Remove the horn circlet and all ear armor. Hair is ordinary silky hair in the reference color, without literal flames. Species appears only as small jewelry."
+    }
+  ],
+  "status": "9/9 generated; upload pending"
+}

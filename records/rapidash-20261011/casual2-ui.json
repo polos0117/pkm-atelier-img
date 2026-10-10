@@ -1,0 +1,18 @@
+{
+  "cat": "hobbies_leisure",
+  "expr": "focused",
+  "pose": "sitting",
+  "orient": "side",
+  "frame": "waist_up",
+  "lens": "natural50",
+  "scene": "In a sunlit pottery workshop at late afternoon, sitting side-on on a stool while shaping the rim of a clay bowl on a slow wheel. Both hands rest gently on opposite sides of the broad bowl, face and fingers visible. Warm amber dust beams and terracotta shelves.",
+  "outfit": "Black square-neck sleeveless linen dress with secure bodice, short hem and ivory waist apron, orange enamel earrings. Bare shoulders and arms, a side waist opening, ordinary craft clothing, no armor.",
+  "mech": "날쌩마",
+  "outputMode": "casual",
+  "aspect": "2:3",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "custom": "Vertical 2:3 1024x1536. Same adult woman. Both hands clearly visible with five separate natural fingers. No armor, weapons, text or logos. Remove the horn circlet and all ear armor. Hair is ordinary silky hair in the reference color, without literal flames. Species appears only as small jewelry."
+}
