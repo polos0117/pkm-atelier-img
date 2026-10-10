@@ -1,0 +1,16 @@
+{
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "lingerie",
+  "expr": "half_smile",
+  "pose": "leaning_wall",
+  "orient": "front",
+  "frame": "full_body",
+  "lens": "telephoto135",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "A private open-air courtyard lounge on a warm evening. She rests her shoulder lightly against a stone column, one relaxed hand touching a hanging wind chime below shoulder level and the other resting at her waist. Soft paper-lantern light and blue moonlit foliage; full head, hands and feet visible.",
+  "outfit": "An opaque crimson satin lingerie-inspired midi slip dress with securely lined fitted bust panels, lace trim limited to the neckline, thin doubled straps and a modest side slit; low ivory sandals and a small star pendant. Bare shoulders, arms and lower legs; refined evening fashion with complete chest and pelvis coverage, no armor."
+}

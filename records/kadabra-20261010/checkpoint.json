@@ -1,0 +1,244 @@
+{
+  "card": "윤겔라",
+  "species": "kadabra",
+  "generator": "Actual live UI selections; exact prompt FNV-1a verified against local current prompt engine; built-in imagegen",
+  "comparison": [
+    "발챙이 casual1-3 submitted prompts",
+    "슈륙챙이 casual1-3 submitted prompts",
+    "강챙이 casual1-3 submitted prompts",
+    "캐이시 casual1-3"
+  ],
+  "diversity": "Location, activity, outfit silhouette, expression, pose, orientation, framing and light differ from recent sets. Required category varied: Abra swimwear, Kadabra lingerie-inspired fashion, Alakazam adult event costume.",
+  "files": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/29173839627d/generated_images/exec-1e634ca1-104d-4b31-9f5e-eaf7d3d74cee.png",
+      "filename": "윤겔라_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "97483c2d3cad196d9f1491222d42efffa27cebcc2977b2b040c0c19e3ac6a20b",
+      "canonical_reference": "/workspace/scratch/29173839627d/generated_images/exec-1e634ca1-104d-4b31-9f5e-eaf7d3d74cee.png",
+      "generation_reference": null,
+      "source_sha256": "929cd3e75f99337f2cb0bd85e66c3e0310230c827cf6fca376a02f5f2f98623d",
+      "style": "glossy_promo",
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Kadabra (윤겔라), psychic type.\n\nPALETTE: red, white.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Kadabra as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the large, thick tail becomes a long sash hanging from the back of her belt, in the same shape and colors; the white claws become claw-shaped guards on her gauntlets, her hands still human hands; the two long, pointed ears become a headpiece or hair ornament of the same shape; its markings (red star; three red, wavy lines) become painted lines and patterns on her plates and undersuit.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Keep both hands relaxed — a loose fist, an open palm or resting on something; no clawed spread fingers, no hand thrust at the camera. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "ui": {
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ]
+      },
+      "review": "Face, hair, anatomy, hands, single figure, form separation and framing visually inspected; no lettering or weapons."
+    },
+    {
+      "slot": "heavy",
+      "source": "/workspace/scratch/29173839627d/generated_images/exec-04cf3b89-744e-4e45-bf7e-2d640179bcc4.png",
+      "filename": "윤겔라_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "02965c6790f95a60e4e8cbc424aa08f8a2b22223460905018a12d2c3fcf0972a",
+      "canonical_reference": "/workspace/scratch/29173839627d/generated_images/exec-1e634ca1-104d-4b31-9f5e-eaf7d3d74cee.png",
+      "generation_reference": "/workspace/scratch/29173839627d/generated_images/exec-1e634ca1-104d-4b31-9f5e-eaf7d3d74cee.png",
+      "source_sha256": "1c7f3c1d3499666efb946f9482c80c0f53f5f6e7a462f9cb04b7a3287c95ab79",
+      "style": "glossy_promo",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Kadabra (윤겔라), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Keep both hands relaxed — a loose fist, an open palm or resting on something; no clawed spread fingers, no hand thrust at the camera. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "ui": {
+        "identityMode": "reference",
+        "form": "heavy"
+      },
+      "review": "Face, hair, anatomy, hands, single figure, form separation and framing visually inspected; no lettering or weapons."
+    },
+    {
+      "slot": "mobility",
+      "source": "/workspace/scratch/29173839627d/generated_images/exec-61d16c88-00a2-42b0-8f87-a1520add050a.png",
+      "filename": "윤겔라_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "abefc27535fee3a00c99740cf862c301203142a86a51574bd84c8aeabdbe824c",
+      "canonical_reference": "/workspace/scratch/29173839627d/generated_images/exec-1e634ca1-104d-4b31-9f5e-eaf7d3d74cee.png",
+      "generation_reference": "/workspace/scratch/29173839627d/generated_images/exec-1e634ca1-104d-4b31-9f5e-eaf7d3d74cee.png",
+      "source_sha256": "18a08a0590f9b5c06dd48c43e20cfe8a9425c82ee57b40ca975c9df0d35568c7",
+      "style": "glossy_promo",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Kadabra (윤겔라), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Keep both hands relaxed — a loose fist, an open palm or resting on something; no clawed spread fingers, no hand thrust at the camera. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "ui": {
+        "identityMode": "reference",
+        "form": "mobility"
+      },
+      "review": "Face, hair, anatomy, hands, single figure, form separation and framing visually inspected; no lettering or weapons."
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "/workspace/scratch/29173839627d/generated_images/exec-00aa929c-d8af-4267-8053-b636196cea2b.png",
+      "filename": "윤겔라_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "890a5a5d62cb0ad4f3f228464413584902c0ebad0749e31fdd7509194f5bbdab",
+      "canonical_reference": "/workspace/scratch/29173839627d/generated_images/exec-1e634ca1-104d-4b31-9f5e-eaf7d3d74cee.png",
+      "generation_reference": "/workspace/scratch/29173839627d/generated_images/exec-1e634ca1-104d-4b31-9f5e-eaf7d3d74cee.png",
+      "source_sha256": "9303c17cb864d8daa5c629209f37a94e5cc12b3008d890abaa889b4a926b36cb",
+      "style": "glossy_promo",
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Kadabra (윤겔라), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a magenta glow with floating rings of light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui": {
+        "form": "overdrive",
+        "baseForm": "light"
+      },
+      "review": "Face, hair, anatomy, hands, single figure, form separation and framing visually inspected; no lettering or weapons."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "source": "/workspace/scratch/29173839627d/generated_images/exec-c22c70f2-ad6a-4040-8990-29eecdf1fb65.png",
+      "filename": "윤겔라_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "becc4bca5d1b10a2098a3b5d8fc2c04bdd61243900ccd288ed7b421f269de284",
+      "canonical_reference": "/workspace/scratch/29173839627d/generated_images/exec-1e634ca1-104d-4b31-9f5e-eaf7d3d74cee.png",
+      "generation_reference": "/workspace/scratch/29173839627d/generated_images/exec-04cf3b89-744e-4e45-bf7e-2d640179bcc4.png",
+      "source_sha256": "2edb3c3d796fe492b4e474da39b768af95aab9a50f19885c76cdfcc08c98548b",
+      "style": "glossy_promo",
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Kadabra (윤겔라), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a magenta glow with floating rings of light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui": {
+        "form": "overdrive",
+        "baseForm": "heavy"
+      },
+      "review": "Face, hair, anatomy, hands, single figure, form separation and framing visually inspected; no lettering or weapons."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "source": "/workspace/scratch/29173839627d/generated_images/exec-34356506-5b1a-4731-a023-ccdf193b69b2.png",
+      "filename": "윤겔라_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "5e718618b7eed6a84963f91987c29470350e16c0a52091ad58d5be9a4ada79f8",
+      "canonical_reference": "/workspace/scratch/29173839627d/generated_images/exec-1e634ca1-104d-4b31-9f5e-eaf7d3d74cee.png",
+      "generation_reference": "/workspace/scratch/29173839627d/generated_images/exec-61d16c88-00a2-42b0-8f87-a1520add050a.png",
+      "source_sha256": "8034f5f54b1b6fe140b7ce6cc5e3bcb1e3982224d3273aaba833b848d747bf37",
+      "style": "glossy_promo",
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Kadabra (윤겔라), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a magenta glow with floating rings of light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui": {
+        "form": "overdrive",
+        "baseForm": "mobility"
+      },
+      "review": "Face, hair, anatomy, hands, single figure, form separation and framing visually inspected; no lettering or weapons."
+    },
+    {
+      "slot": "casual1",
+      "source": "/workspace/scratch/29173839627d/generated_images/exec-8779bed9-56cb-46ee-8288-db8ebb56b5b3.png",
+      "filename": "윤겔라_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "d990add428f4b53592e9e35ca903e0debe874ef80c25f5e7ed5cf37470bbdaf6",
+      "canonical_reference": "/workspace/scratch/29173839627d/generated_images/exec-1e634ca1-104d-4b31-9f5e-eaf7d3d74cee.png",
+      "generation_reference": "/workspace/scratch/29173839627d/generated_images/exec-1e634ca1-104d-4b31-9f5e-eaf7d3d74cee.png",
+      "source_sha256": "62c29640c5c7fd716cc84de48019922ac5b61934632225eb6c04588c6a1d62f4",
+      "style": "glossy_promo",
+      "prompt": "CHARACTER: the same woman as the attached image — Kadabra (윤겔라) personified, psychic type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: chin lifted, brows level, eyes bright and steady, closed-lip smile with a firm mouth\nPose: Work at a kitchen counter, stirring a bowl or arranging ingredients with clearly separated hands and utensils.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: A berry pastry kitchen before opening at dawn. She pipes cream onto one tart at a marble counter, hands naturally separated on the pastry bag; berry trays and flour bowls behind her. Cool morning window light with warm oven glow, no text or other workers.\nOutfit and props: A sleeveless white cropped chef blouse with red buttons, a burgundy half apron over tailored gold shorts, tiny star brooch. Bare arms and a band of midriff; practical original confectioner workwear, no armor.\nCategory: Show one believable working moment in the Pokémon world. Choose care, research, conservation, berry cultivation, crafts, travel, contests or battle support. Make the profession readable through a concrete task, practical clothing and relevant tools. Preserve the approved woman; invent her own workwear instead of copying an existing trainer, Gym Leader or Pokémon Center character.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui": {
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "cat": "occupation_basic",
+        "expr": "proud",
+        "pose": "preparing_food",
+        "orient": "front_3q",
+        "frame": "waist_up",
+        "lens": "documentary35",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "scene": "A berry pastry kitchen before opening at dawn. She pipes cream onto one tart at a marble counter, hands naturally separated on the pastry bag; berry trays and flour bowls behind her. Cool morning window light with warm oven glow, no text or other workers.",
+        "outfit": "A sleeveless white cropped chef blouse with red buttons, a burgundy half apron over tailored gold shorts, tiny star brooch. Bare arms and a band of midriff; practical original confectioner workwear, no armor."
+      },
+      "review": "Face, hair, anatomy, hands, single figure, form separation and framing visually inspected; no lettering or weapons."
+    },
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/29173839627d/generated_images/exec-2e648819-639c-4271-943a-9f0e466ba919.png",
+      "filename": "윤겔라_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "06391febd07150fc5eb16fae68db0b9d3e9a8694bb687dcaf77adb7959e3c662",
+      "canonical_reference": "/workspace/scratch/29173839627d/generated_images/exec-1e634ca1-104d-4b31-9f5e-eaf7d3d74cee.png",
+      "generation_reference": "/workspace/scratch/29173839627d/generated_images/exec-1e634ca1-104d-4b31-9f5e-eaf7d3d74cee.png",
+      "source_sha256": "93365f403e11de0353b05a34e5873864c7120f21b268c4ab7b3c8c55657b2500",
+      "style": "glossy_promo",
+      "prompt": "CHARACTER: the same woman as the attached image — Kadabra (윤겔라) personified, psychic type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one mouth corner lifted higher than the other, lips closed, gaze slightly to the side\nPose: Lean a shoulder or the back lightly against a wall while keeping balance through the feet.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: A private open-air courtyard lounge on a warm evening. She rests her shoulder lightly against a stone column, one relaxed hand touching a hanging wind chime below shoulder level and the other resting at her waist. Soft paper-lantern light and blue moonlit foliage; full head, hands and feet visible.\nOutfit and props: An opaque crimson satin lingerie-inspired midi slip dress with securely lined fitted bust panels, lace trim limited to the neckline, thin doubled straps and a modest side slit; low ivory sandals and a small star pendant. Bare shoulders, arms and lower legs; refined evening fashion with complete chest and pelvis coverage, no armor.\nCategory: Use tasteful adult lingerie-inspired evening fashion with full intimate coverage. Describe the garment by its construction — cut, fabric, trim, straps, closures, layers — rather than by mood words. The garments are securely fitted and fully opaque, and the look is suitable for a mainstream evening-fashion editorial. Build the image through framing, silhouette, posture, and lighting rather than exposure.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 135mm-equivalent telephoto perspective from farther away, with compressed background depth and unchanged anatomy.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui": {
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "cat": "lingerie",
+        "expr": "half_smile",
+        "pose": "leaning_wall",
+        "orient": "front",
+        "frame": "full_body",
+        "lens": "telephoto135",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "scene": "A private open-air courtyard lounge on a warm evening. She rests her shoulder lightly against a stone column, one relaxed hand touching a hanging wind chime below shoulder level and the other resting at her waist. Soft paper-lantern light and blue moonlit foliage; full head, hands and feet visible.",
+        "outfit": "An opaque crimson satin lingerie-inspired midi slip dress with securely lined fitted bust panels, lace trim limited to the neckline, thin doubled straps and a modest side slit; low ivory sandals and a small star pendant. Bare shoulders, arms and lower legs; refined evening fashion with complete chest and pelvis coverage, no armor."
+      },
+      "review": "Face, hair, anatomy, hands, single figure, form separation and framing visually inspected; no lettering or weapons."
+    },
+    {
+      "slot": "casual3",
+      "source": "/workspace/scratch/29173839627d/generated_images/exec-2cb5eb64-84f5-4734-ba06-b12987b04fb2.png",
+      "filename": "윤겔라_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "9b209c3e403dab745cb2f792a15e74c3215eb7f904eda4e19e52bb3f53ff4ef6",
+      "canonical_reference": "/workspace/scratch/29173839627d/generated_images/exec-1e634ca1-104d-4b31-9f5e-eaf7d3d74cee.png",
+      "generation_reference": "/workspace/scratch/29173839627d/generated_images/exec-1e634ca1-104d-4b31-9f5e-eaf7d3d74cee.png",
+      "source_sha256": "0d9b82d897ab048d6af5ea1333800be375cbd27b74be872cece656b3ab071e70",
+      "style": "glossy_promo",
+      "prompt": "CHARACTER: the same woman as the attached image — Kadabra (윤겔라) personified, psychic type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted\nPose: Sit cross-legged on a floor cushion with relaxed shoulders and readable hands.\nOrientation: camera above subject looking downward; obey selected framing\nScene: A sunlit attic hobby room during a windy afternoon. She sits cross-legged on a rug, arranging unlettered collectible postcards beside an open album, one hand lifting a plain postcard and the other on an album corner. High camera angle includes both hands and her face as she looks up with curiosity; no readable writing.\nOutfit and props: A butter-yellow sleeveless fitted knit vest and high-waisted white cotton shorts, soft red socks and a tiny star hair clip. Bare arms and thighs, relaxed personal collecting outfit, no armor.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui": {
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "cat": "hobbies_leisure",
+        "expr": "curious",
+        "pose": "cross_legged",
+        "orient": "high_angle",
+        "frame": "three_quarter",
+        "lens": "natural50",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "scene": "A sunlit attic hobby room during a windy afternoon. She sits cross-legged on a rug, arranging unlettered collectible postcards beside an open album, one hand lifting a plain postcard and the other on an album corner. High camera angle includes both hands and her face as she looks up with curiosity; no readable writing.",
+        "outfit": "A butter-yellow sleeveless fitted knit vest and high-waisted white cotton shorts, soft red socks and a tiny star hair clip. Bare arms and thighs, relaxed personal collecting outfit, no armor."
+      },
+      "review": "Face, hair, anatomy, hands, single figure, form separation and framing visually inspected; no lettering or weapons."
+    }
+  ],
+  "status": "validated, prepared for main upload"
+}

@@ -1,0 +1,16 @@
+{
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "hobbies_leisure",
+  "expr": "curious",
+  "pose": "cross_legged",
+  "orient": "high_angle",
+  "frame": "three_quarter",
+  "lens": "natural50",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "A sunlit attic hobby room during a windy afternoon. She sits cross-legged on a rug, arranging unlettered collectible postcards beside an open album, one hand lifting a plain postcard and the other on an album corner. High camera angle includes both hands and her face as she looks up with curiosity; no readable writing.",
+  "outfit": "A butter-yellow sleeveless fitted knit vest and high-waisted white cotton shorts, soft red socks and a tiny star hair clip. Bare arms and thighs, relaxed personal collecting outfit, no armor."
+}

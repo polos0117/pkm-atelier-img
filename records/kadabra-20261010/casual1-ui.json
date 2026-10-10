@@ -1,0 +1,16 @@
+{
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "occupation_basic",
+  "expr": "proud",
+  "pose": "preparing_food",
+  "orient": "front_3q",
+  "frame": "waist_up",
+  "lens": "documentary35",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "A berry pastry kitchen before opening at dawn. She pipes cream onto one tart at a marble counter, hands naturally separated on the pastry bag; berry trays and flour bowls behind her. Cool morning window light with warm oven glow, no text or other workers.",
+  "outfit": "A sleeveless white cropped chef blouse with red buttons, a burgundy half apron over tailored gold shorts, tiny star brooch. Bare arms and a band of midriff; practical original confectioner workwear, no armor."
+}
