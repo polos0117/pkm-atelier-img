@@ -1,0 +1,160 @@
+[
+  {
+    "card": "네이티오",
+    "slot": "light",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-d3897e7b-9340-444e-a6ea-9b0c48688ede.png",
+    "source_sha256": "16484e9843c649aaf74250751eedf61a21787fd59b40d4252a31538afe6a16a3",
+    "filename": "네이티오_light_glossy_promo_f.webp",
+    "sha256": "7760c6fcbcd1749129ed837ba99c8426634040e311da1fe029f511734007687e",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": null,
+    "prompt_path": "prompts/light.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "네이티오",
+    "slot": "heavy",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-6df791ac-29a8-4130-a8a4-f8d44b81e5b3.png",
+    "source_sha256": "0b1c328de63595b97c52bd3c51685eff426ebbd82440a4695c877ded83e8afd9",
+    "filename": "네이티오_heavy_glossy_promo_f.webp",
+    "sha256": "33212b29aadc16143fb98e86d19d78ee6b5af193b133703c58be5ecca2f57ce6",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "prompt_path": "prompts/heavy.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "네이티오",
+    "slot": "mobility",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-e399976f-4188-44f0-9136-69d8e2b0f448.png",
+    "source_sha256": "d884bfdbd78a7f08a6262e06b305083819adb9e09af1d53e9befe76eae06e857",
+    "filename": "네이티오_mobility_glossy_promo_f.webp",
+    "sha256": "0250c36784b8f458382e5b2860a9107152a0a0d70001d00f79cb92df18b077d7",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "prompt_path": "prompts/mobility.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "네이티오",
+    "slot": "light_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-1452098b-d091-4df6-b6cd-fd63634a03ba.png",
+    "source_sha256": "93ffd6c9db5f237d817f16666c23bf99fcff984c64c30d8822460432abcf5a14",
+    "filename": "네이티오_light_overdrive_glossy_promo_f.webp",
+    "sha256": "da988f5f0c7e7d506db6fa563e3652712cec6301d424f94bef26ce48ff9907c9",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "prompt_path": "prompts/light_overdrive.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "네이티오",
+    "slot": "heavy_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-adddb681-1fae-4f5c-a03c-ffea0fde12db.png",
+    "source_sha256": "e8d08d23949862aad33c70d6cb74688fe865346a626b3204950ad4da3334b9a9",
+    "filename": "네이티오_heavy_overdrive_glossy_promo_f.webp",
+    "sha256": "cf7daa6340fb696786428f2884085f8c0a51be530e0bc4a08f3a9b087fea0970",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "heavy",
+    "prompt_path": "prompts/heavy_overdrive.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "네이티오",
+    "slot": "mobility_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-bd12676c-3dbc-43c3-9388-97393d5b9814.png",
+    "source_sha256": "3d2086f93a500661d72ff8606dfa7c0e809b4a0abbc709e9a59d9dd8479f3e0a",
+    "filename": "네이티오_mobility_overdrive_glossy_promo_f.webp",
+    "sha256": "5f3da25cb1ddc5ef103dac6ed1c5067269e58111d414d6b10978487534e46a05",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "mobility",
+    "prompt_path": "prompts/mobility_overdrive.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "네이티오",
+    "slot": "casual1",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-9dc5ed33-d1a2-4e65-a55f-f63186a6c7f2.png",
+    "source_sha256": "5a67147f69508bedf30d0ab79caa8743752fc0c13474f7069633b57a5d18229c",
+    "filename": "네이티오_glossy_promo_f_casual1.webp",
+    "sha256": "e5a9f78195962a8c5002053badd2efd8ef3a37ede067bd64d7f6935cf55b4dc4",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "prompt_path": "prompts/casual1.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed.",
+    "correction_prompt_path": "prompts/casual1-correction.txt",
+    "correction_reference": "Previously generated casual image from canonical light reference; targeted removal of large head ornaments."
+  },
+  {
+    "card": "네이티오",
+    "slot": "casual2",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-09936b65-1d19-4c94-a83b-abbbe28c2cb6.png",
+    "source_sha256": "5e1b59f9535297d11a4a2c67306719fa598e5cb19bd8071b993d51ccd8a4a261",
+    "filename": "네이티오_glossy_promo_f_casual2.webp",
+    "sha256": "9346786fc37e28abe3809573dfef1cab041d6d032b612025aed6133d00fc9072",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "prompt_path": "prompts/casual2.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "네이티오",
+    "slot": "casual3",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-d300e724-42e7-4077-838b-3cc11f8e9c3e.png",
+    "source_sha256": "7528de6c10699ee2bd63849f1ee0ccf06b2c3927e7dcd11d2d32c098cdd3a544",
+    "filename": "네이티오_glossy_promo_f_casual3.webp",
+    "sha256": "847fb099b8a0588b6c5fb49b5bb056fb663691cbdcd2528a045f1e49bce55f90",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "prompt_path": "prompts/casual3.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed.",
+    "correction_prompt_path": "prompts/casual3-correction.txt",
+    "correction_reference": "Previously generated casual image from canonical light reference; targeted removal of large head ornaments.",
+    "correction_note": "An initial crest-only edit was rejected during output safety moderation; a more covered opaque skirt version was generated successfully with crest removed."
+  }
+]

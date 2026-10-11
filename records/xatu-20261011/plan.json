@@ -1,0 +1,67 @@
+{
+  "name": "네이티오",
+  "lightCustom": "Clearly adult woman in her twenties with long emerald-green straight hair, red eyes and serene adult features. Emerald armor with clean yellow stripe bands, a white split shoulder mantle ending in red and black feather-shaped panels, two slender red feather hair ornaments. At an ancient stone observatory above an arid canyon at golden dawn, calm upright three-quarter stance with both open human hands clearly visible apart beside her hips. Full body including shoes with clear margins. No weapons.",
+  "casual": [
+    [
+      "lingerie",
+      "pensive",
+      "sitting",
+      "seated_twist",
+      "waist_up",
+      "portrait85",
+      "In a quiet home dressing alcove beneath a moonlit skylight at midnight, seated on a velvet stool and twisting gently toward viewer while selecting a small earring from an open jewelry box on her lap. Both hands visible separated above the box, no mirror, cool moonlight and a dim amber lamp.",
+      "Opaque fully lined emerald satin longline bralette with secure wide straps and matching high-waisted lounge tap shorts, red short satin robe loosely draped around elbows. Bare shoulders arms upper chest and midriff with complete intimate coverage, tiny yellow-striped bracelet. No armor or oversized crest."
+    ],
+    [
+      "occupation_basic",
+      "serious",
+      "leaning_wall",
+      "front",
+      "three_quarter",
+      "documentary35",
+      "Inside a glass-roofed urban weather station on a rainy late afternoon, leaning lightly against a dry interior pillar while taking a reading from a small unlettered handheld weather meter at waist height. One hand holds the meter and the other turns its side dial, both hands separate and visible; rainy city rooftops beyond the glass.",
+      "Opaque white sleeveless cropped high-collar technical vest with black piping, high-waisted forest-green fitted utility shorts, black ankle boots. Bare arms shoulders midriff and legs, tiny red feather-shaped earrings. No armor or large decorative panels."
+    ],
+    [
+      "traditional",
+      "nostalgic",
+      "carrying_something",
+      "low_angle",
+      "environmental",
+      "wide24",
+      "On the broad sandstone steps of a quiet desert heritage museum at warm sunset, carrying a plain closed clothbound journal with both separated hands at waist level, upright relaxed stance looking pensively toward viewer. Wide environmental view with entire head hands and sandal-clad feet inside frame, carved stone arches and long shadows, no other figures.",
+      "Modern emerald silk draped heritage-inspired wrap dress with secure opaque red fitted bodice, one bare shoulder, yellow border embroidery and a long skirt with a high side opening over opaque shorts, flat leather sandals. Bare shoulder arms side waist and one leg; only tiny white-black feather pendant recalls the species. No armor."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "삐",
+      "푸푸린",
+      "토게피",
+      "토게틱",
+      "네이티"
+    ],
+    "changed": [
+      "location",
+      "activity",
+      "clothing silhouette",
+      "pose and framing order"
+    ],
+    "scope": "Reviewed recent three plan and stored prompt records plus all earlier scenes in this batch; selected lingerie rather than repeat earlier mandatory categories."
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "ui_hashes": {
+    "light": "6da3e3f4",
+    "heavy": "557e7a40",
+    "mobility": "1873f1a7",
+    "light_overdrive": "efc12e92",
+    "heavy_overdrive": "c8e3e3cf",
+    "mobility_overdrive": "6c20462f",
+    "casual1": "3dabc5f0",
+    "casual2": "82200696",
+    "casual3": "71f32b8d"
+  }
+}
