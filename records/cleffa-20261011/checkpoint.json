@@ -1,0 +1,139 @@
+{
+  "character": "삐",
+  "status": "registered_complete",
+  "generated": 9,
+  "requested": 9,
+  "style": "glossy_promo",
+  "canonicalLight": "img/삐_light_glossy_promo_f.webp",
+  "manifest": "records/cleffa-20261011/manifest.json",
+  "results": [
+    {
+      "slot": "casual2",
+      "original_sha256": "9e230bbf3199281ae7ce62fca329f211bfa666897527d1f9d7a56246f7c8f5e6",
+      "file": "img/삐_glossy_promo_f_casual2.webp",
+      "sha256": "5f60a1c92ac7f6f13741e16a8c11bb6d64ec1184ee76eeee53c880d5272aed76",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "img/삐_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "light",
+      "original_sha256": "da4a5b57e979d5487175c58df4d3f2bd722475a310638d404f4a3b01f2197edd",
+      "file": "img/삐_light_glossy_promo_f.webp",
+      "sha256": "641a4de66ec3d75ef8d7ef94ebf58a72cc70ae1b65df23b851b7326fe7102f10",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "none"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "original_sha256": "988171a52708c4b115c412002482c8874e6bbb259a874de8ab7d3f25b402a50f",
+      "file": "img/삐_mobility_overdrive_glossy_promo_f.webp",
+      "sha256": "38af803dcaad9d0f9da3e30886917d4e54a1f5106c8e07d3bc7d6c09394218c5",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "img/삐_mobility_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual1",
+      "original_sha256": "188d20035ae13f38568bc81d044d61908f5a33ce1cffe418dd91d005364b362e",
+      "file": "img/삐_glossy_promo_f_casual1.webp",
+      "sha256": "c31f2280b02b236266ab576d040affd92d4b7794eb89433f5c29d6725678da15",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "img/삐_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "heavy",
+      "original_sha256": "738d2e493b3ac0f4b53ccc30c050bd519634441d1d2585fa177204bf63b90137",
+      "file": "img/삐_heavy_glossy_promo_f.webp",
+      "sha256": "fda5be22ea85ea74be7470ad772b8371b8101c6651faccc6dd9ef4b82c1a247e",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "img/삐_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "mobility",
+      "original_sha256": "7da3667eebec8d6380f782a1df6f1989e1509c7e903a72c0fe254ece7bdb02d8",
+      "file": "img/삐_mobility_glossy_promo_f.webp",
+      "sha256": "c1d8b6f226569797ca9074205006a1f7dc9faf5c29240634237a1b9688bf1c2f",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "img/삐_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "original_sha256": "ff725768e6ab07965444b6a4c808513a99e1eb78cd26e719aabca08aaf51c148",
+      "file": "img/삐_heavy_overdrive_glossy_promo_f.webp",
+      "sha256": "8623e5673dba6804a304e28e4543f8cd7ae3f6079a4558235caeb6d4c99162a3",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "img/삐_heavy_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual3",
+      "original_sha256": "4883115f1be1738924f17978639b1d65cb2ca4ce6622d170dd229b66922a3eee",
+      "file": "img/삐_glossy_promo_f_casual3.webp",
+      "sha256": "52a0d670041baa540d697c947db98c2064c3a8be73b53b3cdffa9507c6d8541b",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "img/삐_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "light_overdrive",
+      "original_sha256": "9c43e7e2bf9ea9fc093e6fd05f012d7840349f32ddb3368dc0438967f6327f96",
+      "file": "img/삐_light_overdrive_glossy_promo_f.webp",
+      "sha256": "6405dc032219b6ce509e183da796ff34705b6fef30c368dc7302375097eff57e",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "img/삐_light_glossy_promo_f.webp"
+    }
+  ],
+  "imageRepo": {
+    "repository": "polos0117/pkm-atelier-img",
+    "uploadCommit": "8ce170ffa6289d9d8277faec8baba2bae4f2f652",
+    "repairCommit": "6ddefc3f06a8e7f51c65e2a516e7e86e8b2a950c",
+    "thumbnailCommit": "545a3a5fe994e81347d75d7b9572fa06415b326d"
+  },
+  "codeRepo": {
+    "repository": "polos0117/pkm-atelier",
+    "registrationCommit": "1d535fcab48aeb03f6c4386f647f1723a217dc29"
+  },
+  "verification": {
+    "originals": 9,
+    "thumbnails": 9,
+    "registeredForms": 6,
+    "registeredCasual": 3,
+    "remoteHashesMatch": true,
+    "thumbnailWorkflow": "success",
+    "registrationWorkflow": "success"
+  },
+  "repairNote": "An empty converted WebP was replaced from its intact generated PNG; all final files fully decoded and matched remote Git blobs."
+}

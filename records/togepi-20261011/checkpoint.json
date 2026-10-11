@@ -1,0 +1,139 @@
+{
+  "character": "토게피",
+  "status": "registered_complete",
+  "generated": 9,
+  "requested": 9,
+  "style": "glossy_promo",
+  "canonicalLight": "img/토게피_light_glossy_promo_f.webp",
+  "manifest": "records/togepi-20261011/manifest.json",
+  "results": [
+    {
+      "slot": "light",
+      "original_sha256": "f87d450e4a1875116a9b43ab08ec60dba4ab7368be91cf68cce9cf222c26b8dc",
+      "file": "img/토게피_light_glossy_promo_f.webp",
+      "sha256": "01361e7ddfa30034188d0f4ca7cd9b983b1c2ed231476a4a65185d0870a2fb60",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "none"
+    },
+    {
+      "slot": "heavy",
+      "original_sha256": "8ff1867d3e6404e074f1082aaacdbe14e17c5889d87293e4fb8cef8b184824af",
+      "file": "img/토게피_heavy_glossy_promo_f.webp",
+      "sha256": "d257e2bc36cf0d7359c8168e89c39f29053e7f5fbae7df4db5b43285d34ec4e8",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "img/토게피_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "mobility",
+      "original_sha256": "1a5100c277f4c118354b9a5bcf2ed840dee78de11fbbacc609094d49cdd12403",
+      "file": "img/토게피_mobility_glossy_promo_f.webp",
+      "sha256": "373d714d1c55ba59e393cc82ec1e119e917b36e73604b13358e68a10fe9d262b",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "img/토게피_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "light_overdrive",
+      "original_sha256": "137b8ae9be5253a37d93fd27829ab09a13ba2062df668fd528a027bc8877e8a4",
+      "file": "img/토게피_light_overdrive_glossy_promo_f.webp",
+      "sha256": "939d10b76af373641aaf05d80aee531e5ce1ccf664a28c7808aec13020181956",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "img/토게피_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "original_sha256": "ad9d0ee24cfb33e4fb031bc9cca4d693058a0b3e3e3386a0fb06fba9c9083a2a",
+      "file": "img/토게피_heavy_overdrive_glossy_promo_f.webp",
+      "sha256": "706562d99cd768724f7a208edfe7bd8e0ad1300ee1e6dd4ebbdb993c16ca8469",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "img/토게피_heavy_glossy_promo_f.webp"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "original_sha256": "064ac5d54b4ba5d77b985cc61dab957a463e3e2bc470c86700135d68498d242e",
+      "file": "img/토게피_mobility_overdrive_glossy_promo_f.webp",
+      "sha256": "abcf69f1de89f311ed0ebd0226837380a6b2232af6fcf8ce8d55fb2f2a3c03ae",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "img/토게피_mobility_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual1",
+      "original_sha256": "ab40b4f7db0b61d86e6db9948501e9627928715ecc9cb0815c9c336b11858365",
+      "file": "img/토게피_glossy_promo_f_casual1.webp",
+      "sha256": "359c983f0173a9c715067e0fb5f407aeea1ce9965ab611feefd2b65db6e3f351",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "img/토게피_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual2",
+      "original_sha256": "88356c0ec894f337dd7bc713bdff4d7eda3b842f9ff3dbe8d400bf088125d4e3",
+      "file": "img/토게피_glossy_promo_f_casual2.webp",
+      "sha256": "6493b189e4b39b795c0011fe9581ee968fdb2f9e64a9125ca5469c2d8055dcd3",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "img/토게피_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual3",
+      "original_sha256": "8028ded7ce1b31613214548f1cffdab05943efb37f858f7c157c3e03886ddc9f",
+      "file": "img/토게피_glossy_promo_f_casual3.webp",
+      "sha256": "89066e687d82d1ee75c4810c8854121817d488863bd9199d715965c341f1631d",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "img/토게피_light_glossy_promo_f.webp"
+    }
+  ],
+  "imageRepo": {
+    "repository": "polos0117/pkm-atelier-img",
+    "uploadCommit": "d33b4a8accaa2f57cf9928217ef8341442c5c2e3",
+    "repairCommit": null,
+    "thumbnailCommit": "545a3a5fe994e81347d75d7b9572fa06415b326d"
+  },
+  "codeRepo": {
+    "repository": "polos0117/pkm-atelier",
+    "registrationCommit": "1d535fcab48aeb03f6c4386f647f1723a217dc29"
+  },
+  "verification": {
+    "originals": 9,
+    "thumbnails": 9,
+    "registeredForms": 6,
+    "registeredCasual": 3,
+    "remoteHashesMatch": true,
+    "thumbnailWorkflow": "success",
+    "registrationWorkflow": "success"
+  },
+  "repairNote": null
+}
