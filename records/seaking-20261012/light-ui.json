@@ -1,0 +1,79 @@
+{
+  "selected": {
+    "style": "glossy_promo",
+    "identityMode": "create",
+    "form": "light",
+    "baseForm": "light",
+    "motifs": "Orange and black-spotted enamel armor, cream fin-shaped plate edges and split fin-like waist drape; a cream horn-shaped crown ornament on a slim headband. Interpret fins as clothing trims and shoulder cape panels, never actual butterfly wings. Human lips, skin and anatomy.",
+    "formOverride": "",
+    "headFeature": "",
+    "params": {
+      "apparent age": "20s",
+      "body type": "curvy",
+      "hair color": "red",
+      "eye color": "amber",
+      "hairstyle": "high ponytail"
+    },
+    "locks": {},
+    "mode": "action",
+    "scenes": {
+      "action": {
+        "expr": "",
+        "pose": "",
+        "orient": "",
+        "scene": "",
+        "outfit": "",
+        "frame": "",
+        "lens": "",
+        "camera": "",
+        "custom": "In a broad autumn river-lock courtyard in warm late morning, confident adult woman facing camera in a front three-quarter stance. Rich orange slim plates with rounded black spots, cream fin-shaped shoulder trim and a small cream horn crown, short split cream waist drape. Both open hands apart and unobstructed, entire head and boots with margins, human face and skin. Keep the entire cream crown horn tip and all hair fully inside the image with at least 60 pixels of clear sky above them. Compose the woman slightly smaller to secure top and bottom margins. Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+        "aspect": "2:3",
+        "cat": "everyday_basic",
+        "catCustom": "",
+        "ex": "",
+        "exCustom": "",
+        "axes": {},
+        "action": {
+          "category": "",
+          "example": "",
+          "timing": "",
+          "equipment": "",
+          "power": "",
+          "effects": "",
+          "speed": "",
+          "environment": ""
+        },
+        "randomLocks": {}
+      },
+      "casual": {
+        "expr": "",
+        "pose": "",
+        "orient": "",
+        "scene": "",
+        "outfit": "",
+        "frame": "",
+        "lens": "",
+        "camera": "",
+        "custom": "",
+        "aspect": "2:3",
+        "cat": "everyday_basic",
+        "catCustom": "",
+        "ex": "",
+        "exCustom": "",
+        "axes": {},
+        "action": {
+          "category": "",
+          "example": "",
+          "timing": "",
+          "equipment": "",
+          "power": "",
+          "effects": "",
+          "speed": "",
+          "environment": ""
+        },
+        "randomLocks": {}
+      }
+    }
+  },
+  "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Seaking (왕콘치), water type.\n\nPALETTE: cream, black, pink.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Seaking as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): Orange and black-spotted enamel armor, cream fin-shaped plate edges and split fin-like waist drape; a cream horn-shaped crown ornament on a slim headband. Interpret fins as clothing trims and shoulder cape panels, never actual butterfly wings. Human lips, skin and anatomy..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: In a broad autumn river-lock courtyard in warm late morning, confident adult woman facing camera in a front three-quarter stance. Rich orange slim plates with rounded black spots, cream fin-shaped shoulder trim and a small cream horn crown, short split cream waist drape. Both open hands apart and unobstructed, entire head and boots with margins, human face and skin. Keep the entire cream crown horn tip and all hair fully inside the image with at least 60 pixels of clear sky above them. Compose the woman slightly smaller to secure top and bottom margins. Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nbody type: curvy — flowing bust-to-waist and hip-to-waist curves\nhair color: red\neye color: amber\nhairstyle: high ponytail — single ponytail tied high on the head\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\neye color consistency: both eyes are amber\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers."
+}

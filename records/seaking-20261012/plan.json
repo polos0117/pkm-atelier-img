@@ -1,0 +1,62 @@
+{
+  "name": "왕콘치",
+  "slug": "seaking",
+  "hair": "red",
+  "eye": "amber",
+  "cut": "high ponytail",
+  "body": "curvy",
+  "motifs": "Orange and black-spotted enamel armor, cream fin-shaped plate edges and split fin-like waist drape; a cream horn-shaped crown ornament on a slim headband. Interpret fins as clothing trims and shoulder cape panels, never actual butterfly wings. Human lips, skin and anatomy.",
+  "light": "In a broad autumn river-lock courtyard in warm late morning, confident adult woman facing camera in a front three-quarter stance. Rich orange slim plates with rounded black spots, cream fin-shaped shoulder trim and a small cream horn crown, short split cream waist drape. Both open hands apart and unobstructed, entire head and boots with margins, human face and skin. Keep the entire cream crown horn tip and all hair fully inside the image with at least 60 pixels of clear sky above them. Compose the woman slightly smaller to secure top and bottom margins.",
+  "casual": [
+    [
+      "occupation_basic",
+      "determined",
+      "squatting",
+      "high_angle",
+      "environmental",
+      "wide24",
+      "On an empty terraced herb garden beside a stone river mill at cool dawn, squatting between low herb beds to place a fresh sprig in an open wicker basket with one hand while the other open hand rests on her opposite knee. Full woman and feet, gentle high camera angle and misty river below.",
+      "Opaque cream racerback cropped utility tank, orange high-waisted pleated shorts and brown ankle boots. Bare shoulders arms midriff legs, tiny black-spotted ceramic bracelet."
+    ],
+    [
+      "lingerie",
+      "half_smile",
+      "leaning_wall",
+      "front_3q",
+      "three_quarter",
+      "telephoto135",
+      "Inside a luxurious empty overnight railway cabin at late blue hour, leaning lightly against the padded wall beside a broad window, one open hand touching the window ledge and the other relaxed beside her waist. Head to above knees, both hands visible, distant city lights and warm amber reading lamp.",
+      "Opaque fully lined burnt-orange satin longline bustier with broad secure cream straps, cream high-waisted tailored tap shorts, short black sheer outer shawl draped at elbows. Chest and pelvis fully opaque and covered, bare shoulders arms upper waist thighs, small cream horn pendant. Mainstream evening fashion editorial."
+    ],
+    [
+      "food_berries",
+      "gentle",
+      "preparing_food",
+      "side",
+      "waist_up",
+      "natural50",
+      "In an airy citrus farm kitchen at sunny late morning, standing side-on at a wooden counter arranging peeled mandarin segments onto a wide ceramic plate, one hand placing a segment and the other steadying the opposite plate edge. Both complete hands clearly separated, face turned toward viewer, lemon-colored curtains and baskets.",
+      "Opaque orange sleeveless secure V-neck wrap blouse with cream tie and high-waisted black skirt below crop. Bare shoulders arms upper chest and side waist, small cream stud earrings, no apron or armor."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "덩쿠리",
+      "캥카",
+      "쏘드라",
+      "시드라",
+      "콘치"
+    ],
+    "scope": "Read latest three completed plans and submitted casual prompts on image remote main; compare earlier characters in this batch too.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

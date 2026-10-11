@@ -1,0 +1,82 @@
+{
+  "selected": {
+    "style": "glossy_promo",
+    "identityMode": "reference",
+    "form": "overdrive",
+    "baseForm": "mobility",
+    "motifs": "",
+    "formOverride": "",
+    "headFeature": "",
+    "params": {
+      "apparent age": "20s",
+      "body type": "curvy",
+      "hair color": "red",
+      "eye color": "amber",
+      "hairstyle": "high ponytail"
+    },
+    "locks": {},
+    "mode": "casual",
+    "scenes": {
+      "action": {
+        "expr": "",
+        "pose": "",
+        "orient": "",
+        "scene": "",
+        "outfit": "",
+        "frame": "",
+        "lens": "",
+        "camera": "",
+        "custom": "",
+        "aspect": "2:3",
+        "cat": "everyday_basic",
+        "catCustom": "",
+        "ex": "",
+        "exCustom": "",
+        "axes": {},
+        "action": {
+          "category": "",
+          "example": "",
+          "timing": "",
+          "equipment": "",
+          "power": "",
+          "effects": "",
+          "speed": "",
+          "environment": ""
+        },
+        "randomLocks": {}
+      },
+      "casual": {
+        "expr": "determined",
+        "pose": "squatting",
+        "orient": "high_angle",
+        "scene": "On an empty terraced herb garden beside a stone river mill at cool dawn, squatting between low herb beds to place a fresh sprig in an open wicker basket with one hand while the other open hand rests on her opposite knee. Full woman and feet, gentle high camera angle and misty river below.",
+        "outfit": "Opaque cream racerback cropped utility tank, orange high-waisted pleated shorts and brown ankle boots. Bare shoulders arms midriff legs, tiny black-spotted ceramic bracelet.",
+        "frame": "environmental",
+        "lens": "wide24",
+        "camera": "",
+        "custom": "Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+        "aspect": "2:3",
+        "cat": "occupation_basic",
+        "catCustom": "",
+        "ex": "",
+        "exCustom": "",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "action": {
+          "category": "",
+          "example": "",
+          "timing": "",
+          "equipment": "",
+          "power": "",
+          "effects": "",
+          "speed": "",
+          "environment": ""
+        },
+        "randomLocks": {}
+      }
+    }
+  },
+  "prompt": "CHARACTER: the same woman as the attached image — Seaking (왕콘치) personified, water type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: brows pulled down and in, hard forward gaze, jaw clenched, mouth a tight line\nPose: Squat comfortably to interact at a lower height with balanced feet.\nOrientation: camera above subject looking downward; obey selected framing\nScene: On an empty terraced herb garden beside a stone river mill at cool dawn, squatting between low herb beds to place a fresh sprig in an open wicker basket with one hand while the other open hand rests on her opposite knee. Full woman and feet, gentle high camera angle and misty river below.\nOutfit and props: Opaque cream racerback cropped utility tank, orange high-waisted pleated shorts and brown ankle boots. Bare shoulders arms midriff legs, tiny black-spotted ceramic bracelet.\nCategory: Show one believable working moment in the Pokémon world. Choose care, research, conservation, berry cultivation, crafts, travel, contests or battle support. Make the profession readable through a concrete task, practical clothing and relevant tools. Preserve the approved woman; invent her own workwear instead of copying an existing trainer, Gym Leader or Pokémon Center character.\nNote: Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\nFraming: Environmental long shot: show the complete woman and enough surroundings to establish the activity and location.\nLens / perspective: 24mm-equivalent wide-angle impression with spacious environmental depth; use enough camera distance to avoid stretching the face or limbs.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+}

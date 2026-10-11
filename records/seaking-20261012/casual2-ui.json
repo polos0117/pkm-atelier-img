@@ -1,0 +1,82 @@
+{
+  "selected": {
+    "style": "glossy_promo",
+    "identityMode": "reference",
+    "form": "overdrive",
+    "baseForm": "mobility",
+    "motifs": "",
+    "formOverride": "",
+    "headFeature": "",
+    "params": {
+      "apparent age": "20s",
+      "body type": "curvy",
+      "hair color": "red",
+      "eye color": "amber",
+      "hairstyle": "high ponytail"
+    },
+    "locks": {},
+    "mode": "casual",
+    "scenes": {
+      "action": {
+        "expr": "",
+        "pose": "",
+        "orient": "",
+        "scene": "",
+        "outfit": "",
+        "frame": "",
+        "lens": "",
+        "camera": "",
+        "custom": "",
+        "aspect": "2:3",
+        "cat": "everyday_basic",
+        "catCustom": "",
+        "ex": "",
+        "exCustom": "",
+        "axes": {},
+        "action": {
+          "category": "",
+          "example": "",
+          "timing": "",
+          "equipment": "",
+          "power": "",
+          "effects": "",
+          "speed": "",
+          "environment": ""
+        },
+        "randomLocks": {}
+      },
+      "casual": {
+        "expr": "half_smile",
+        "pose": "leaning_wall",
+        "orient": "front_3q",
+        "scene": "Inside a luxurious empty overnight railway cabin at late blue hour, leaning lightly against the padded wall beside a broad window, one open hand touching the window ledge and the other relaxed beside her waist. Head to above knees, both hands visible, distant city lights and warm amber reading lamp.",
+        "outfit": "Opaque fully lined burnt-orange satin longline bustier with broad secure cream straps, cream high-waisted tailored tap shorts, short black sheer outer shawl draped at elbows. Chest and pelvis fully opaque and covered, bare shoulders arms upper waist thighs, small cream horn pendant. Mainstream evening fashion editorial.",
+        "frame": "three_quarter",
+        "lens": "telephoto135",
+        "camera": "",
+        "custom": "Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+        "aspect": "2:3",
+        "cat": "lingerie",
+        "catCustom": "",
+        "ex": "",
+        "exCustom": "",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "action": {
+          "category": "",
+          "example": "",
+          "timing": "",
+          "equipment": "",
+          "power": "",
+          "effects": "",
+          "speed": "",
+          "environment": ""
+        },
+        "randomLocks": {}
+      }
+    }
+  },
+  "prompt": "CHARACTER: the same woman as the attached image — Seaking (왕콘치) personified, water type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one mouth corner lifted higher than the other, lips closed, gaze slightly to the side\nPose: Lean a shoulder or the back lightly against a wall while keeping balance through the feet.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: Inside a luxurious empty overnight railway cabin at late blue hour, leaning lightly against the padded wall beside a broad window, one open hand touching the window ledge and the other relaxed beside her waist. Head to above knees, both hands visible, distant city lights and warm amber reading lamp.\nOutfit and props: Opaque fully lined burnt-orange satin longline bustier with broad secure cream straps, cream high-waisted tailored tap shorts, short black sheer outer shawl draped at elbows. Chest and pelvis fully opaque and covered, bare shoulders arms upper waist thighs, small cream horn pendant. Mainstream evening fashion editorial.\nCategory: Use tasteful adult lingerie-inspired evening fashion with full intimate coverage. Describe the garment by its construction — cut, fabric, trim, straps, closures, layers — rather than by mood words. The garments are securely fitted and fully opaque, and the look is suitable for a mainstream evening-fashion editorial. Build the image through framing, silhouette, posture, and lighting rather than exposure.\nNote: Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 135mm-equivalent telephoto perspective from farther away, with compressed background depth and unchanged anatomy.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+}
