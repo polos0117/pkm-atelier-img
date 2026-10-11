@@ -1,0 +1,49 @@
+{
+  "name": "토게피",
+  "scene": "At an empty white-stone garden pavilion in clear morning light, balanced upright card stance, face toward camera, both empty hands open at her sides and fully separate from the torso.",
+  "casual": [
+    [
+      "travel_exploration",
+      "gentle",
+      "checking_map",
+      "front",
+      "three_quarter",
+      "natural50",
+      "Inside a sunlit hillside botanical conservatory at noon, standing and unfolding a plain illustrated trail map below her face, both hands separated at the paper edges. Cream stone arches and broad green foliage.",
+      "Opaque ivory sleeveless sailor-collar blouse with blue piping, red high-waisted tailored culottes and tan walking sandals, bare arms shoulders and legs, tiny red-blue triangle brooch."
+    ],
+    [
+      "swimwear",
+      "relieved",
+      "perched_seat",
+      "low_angle",
+      "full_body",
+      "wide24",
+      "On a dry wooden jetty at a secluded lake at golden dawn, seated comfortably on the low edge after a swim, both hands resting openly beside her hips, legs and bare feet fully visible above the clear water. Low camera, distant reeds and warm mist.",
+      "Fully lined ivory two-piece swimsuit: secure wide-strap scoop-neck top and high-waisted opaque swim briefs with full intimate coverage, tiny red and blue geometric trim. Bare shoulders arms midriff and legs, small triangle anklet."
+    ],
+    [
+      "occupation_basic",
+      "determined",
+      "leaning_furniture",
+      "side",
+      "waist_up",
+      "portrait85",
+      "In a bright community terrarium workshop at late afternoon, leaning lightly against a waist-high bench while placing a broad leaf onto a gravel bed inside an open glass vessel. One hand holds leaf stem, other rests open on bench, clear fingers, golden window light.",
+      "Opaque cobalt-blue sleeveless fitted wrap work top with secure neckline and white high-waisted utility trousers below crop, short red waist apron. Bare arms shoulders and narrow side-waist opening, tiny ivory triangle earrings."
+    ]
+  ],
+  "comparison": {
+    "scope": "Latest three lifestyle plans reviewed locally; unrelated record paths and contents omitted from upload.",
+    "changed": [
+      "venue",
+      "activity",
+      "clothing silhouette",
+      "pose and framing"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

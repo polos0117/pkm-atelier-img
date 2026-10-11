@@ -1,0 +1,684 @@
+{
+  "character": "토게피",
+  "style": "glossy_promo",
+  "selection_evidence": "Actual live generator UI selections. All original 9 prompt outputs matched local engine FNV; built-in imagegen used.",
+  "results": [
+    {
+      "slot": "light",
+      "file": "img/토게피_light_glossy_promo_f.webp",
+      "source_sha256": "f87d450e4a1875116a9b43ab08ec60dba4ab7368be91cf68cce9cf222c26b8dc",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "01361e7ddfa30034188d0f4ca7cd9b983b1c2ed231476a4a65185d0870a2fb60",
+      "identity_anchor": "img/토게피_light_glossy_promo_f.webp",
+      "reference": "none",
+      "ui": {
+        "mech": "토게피",
+        "sourceName": "Togepi",
+        "series": "fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "토게피",
+          "en": "Togepi",
+          "color": "white",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "spike",
+              "detail": "five round-tipped, conical spikes"
+            },
+            {
+              "part": "body",
+              "detail": "rounded, egg-shaped body"
+            },
+            {
+              "part": "arm",
+              "detail": "stubby, rounded cone arms"
+            },
+            {
+              "part": "foot",
+              "detail": "round feet"
+            },
+            {
+              "part": "eye",
+              "detail": "thin, black, oval eyes"
+            },
+            {
+              "part": "toe",
+              "detail": "two toes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Togepi_%28Pok%C3%A9mon%29",
+          "revision": 4626295,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "67e895327dde0574645fcfd4289b4b94ae9b8083b5375b96a90fedff0725d139",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "action",
+        "identityMode": "create",
+        "form": "light",
+        "scene": "At an empty white-stone garden pavilion in clear morning light, balanced upright card stance, face toward camera, both empty hands open at her sides and fully separate from the torso.",
+        "custom": "1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon."
+      },
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Togepi (토게피), fairy type.\n\nPALETTE: white.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Togepi as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the five round-tipped, conical spikes become pointed edges on her plates.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: At an empty white-stone garden pavilion in clear morning light, balanced upright card stance, face toward camera, both empty hands open at her sides and fully separate from the torso.\nNote: 1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers."
+    },
+    {
+      "slot": "heavy",
+      "file": "img/토게피_heavy_glossy_promo_f.webp",
+      "source_sha256": "8ff1867d3e6404e074f1082aaacdbe14e17c5889d87293e4fb8cef8b184824af",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "d257e2bc36cf0d7359c8168e89c39f29053e7f5fbae7df4db5b43285d34ec4e8",
+      "identity_anchor": "img/토게피_light_glossy_promo_f.webp",
+      "reference": "img/토게피_light_glossy_promo_f.webp",
+      "ui": {
+        "mech": "토게피",
+        "sourceName": "Togepi",
+        "series": "fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "토게피",
+          "en": "Togepi",
+          "color": "white",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "spike",
+              "detail": "five round-tipped, conical spikes"
+            },
+            {
+              "part": "body",
+              "detail": "rounded, egg-shaped body"
+            },
+            {
+              "part": "arm",
+              "detail": "stubby, rounded cone arms"
+            },
+            {
+              "part": "foot",
+              "detail": "round feet"
+            },
+            {
+              "part": "eye",
+              "detail": "thin, black, oval eyes"
+            },
+            {
+              "part": "toe",
+              "detail": "two toes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Togepi_%28Pok%C3%A9mon%29",
+          "revision": 4626295,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "67e895327dde0574645fcfd4289b4b94ae9b8083b5375b96a90fedff0725d139",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "heavy",
+        "scene": "At an empty white-stone garden pavilion in clear morning light, balanced upright card stance, face toward camera, both empty hands open at her sides and fully separate from the torso.",
+        "custom": "1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon."
+      },
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Togepi (토게피), fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: At an empty white-stone garden pavilion in clear morning light, balanced upright card stance, face toward camera, both empty hands open at her sides and fully separate from the torso.\nNote: 1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers."
+    },
+    {
+      "slot": "mobility",
+      "file": "img/토게피_mobility_glossy_promo_f.webp",
+      "source_sha256": "1a5100c277f4c118354b9a5bcf2ed840dee78de11fbbacc609094d49cdd12403",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "373d714d1c55ba59e393cc82ec1e119e917b36e73604b13358e68a10fe9d262b",
+      "identity_anchor": "img/토게피_light_glossy_promo_f.webp",
+      "reference": "img/토게피_light_glossy_promo_f.webp",
+      "ui": {
+        "mech": "토게피",
+        "sourceName": "Togepi",
+        "series": "fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "토게피",
+          "en": "Togepi",
+          "color": "white",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "spike",
+              "detail": "five round-tipped, conical spikes"
+            },
+            {
+              "part": "body",
+              "detail": "rounded, egg-shaped body"
+            },
+            {
+              "part": "arm",
+              "detail": "stubby, rounded cone arms"
+            },
+            {
+              "part": "foot",
+              "detail": "round feet"
+            },
+            {
+              "part": "eye",
+              "detail": "thin, black, oval eyes"
+            },
+            {
+              "part": "toe",
+              "detail": "two toes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Togepi_%28Pok%C3%A9mon%29",
+          "revision": 4626295,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "67e895327dde0574645fcfd4289b4b94ae9b8083b5375b96a90fedff0725d139",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "mobility",
+        "scene": "At an empty white-stone garden pavilion in clear morning light, balanced upright card stance, face toward camera, both empty hands open at her sides and fully separate from the torso.",
+        "custom": "1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon."
+      },
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Togepi (토게피), fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: At an empty white-stone garden pavilion in clear morning light, balanced upright card stance, face toward camera, both empty hands open at her sides and fully separate from the torso.\nNote: 1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.\nCOSTUME NOTE: Fully opaque high-neck protective undersuit under all plates, covered chest and pelvis, practical non-erotic adult mecha uniform. Preserve the adult woman's face, hairstyle and natural proportions; only protective armor and undersuit adaptation. No lingerie, transparent fabric or cutouts."
+    },
+    {
+      "slot": "light_overdrive",
+      "file": "img/토게피_light_overdrive_glossy_promo_f.webp",
+      "source_sha256": "137b8ae9be5253a37d93fd27829ab09a13ba2062df668fd528a027bc8877e8a4",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "939d10b76af373641aaf05d80aee531e5ce1ccf664a28c7808aec13020181956",
+      "identity_anchor": "img/토게피_light_glossy_promo_f.webp",
+      "reference": "img/토게피_light_glossy_promo_f.webp",
+      "ui": {
+        "mech": "토게피",
+        "sourceName": "Togepi",
+        "series": "fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "토게피",
+          "en": "Togepi",
+          "color": "white",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "spike",
+              "detail": "five round-tipped, conical spikes"
+            },
+            {
+              "part": "body",
+              "detail": "rounded, egg-shaped body"
+            },
+            {
+              "part": "arm",
+              "detail": "stubby, rounded cone arms"
+            },
+            {
+              "part": "foot",
+              "detail": "round feet"
+            },
+            {
+              "part": "eye",
+              "detail": "thin, black, oval eyes"
+            },
+            {
+              "part": "toe",
+              "detail": "two toes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Togepi_%28Pok%C3%A9mon%29",
+          "revision": 4626295,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "67e895327dde0574645fcfd4289b4b94ae9b8083b5375b96a90fedff0725d139",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "light",
+        "scene": "At an empty white-stone garden pavilion in clear morning light, balanced upright card stance, face toward camera, both empty hands open at her sides and fully separate from the torso.",
+        "custom": "1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon."
+      },
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Togepi (토게피), fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a soft pink glow with sparkles shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.\nEDIT CONSTRAINT: Openings reveal only mechanical inner frame and opaque undersuit. All chest and pelvis remain fully covered; no exposed skin in armor openings, no erotic emphasis. Change only armor seam opening and fairy glow; preserve original pose, camera, adult face and body."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "file": "img/토게피_heavy_overdrive_glossy_promo_f.webp",
+      "source_sha256": "ad9d0ee24cfb33e4fb031bc9cca4d693058a0b3e3e3386a0fb06fba9c9083a2a",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "706562d99cd768724f7a208edfe7bd8e0ad1300ee1e6dd4ebbdb993c16ca8469",
+      "identity_anchor": "img/토게피_light_glossy_promo_f.webp",
+      "reference": "img/토게피_heavy_glossy_promo_f.webp",
+      "ui": {
+        "mech": "토게피",
+        "sourceName": "Togepi",
+        "series": "fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "토게피",
+          "en": "Togepi",
+          "color": "white",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "spike",
+              "detail": "five round-tipped, conical spikes"
+            },
+            {
+              "part": "body",
+              "detail": "rounded, egg-shaped body"
+            },
+            {
+              "part": "arm",
+              "detail": "stubby, rounded cone arms"
+            },
+            {
+              "part": "foot",
+              "detail": "round feet"
+            },
+            {
+              "part": "eye",
+              "detail": "thin, black, oval eyes"
+            },
+            {
+              "part": "toe",
+              "detail": "two toes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Togepi_%28Pok%C3%A9mon%29",
+          "revision": 4626295,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "67e895327dde0574645fcfd4289b4b94ae9b8083b5375b96a90fedff0725d139",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "heavy",
+        "scene": "At an empty white-stone garden pavilion in clear morning light, balanced upright card stance, face toward camera, both empty hands open at her sides and fully separate from the torso.",
+        "custom": "1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon."
+      },
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Togepi (토게피), fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a soft pink glow with sparkles shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.\nEDIT CONSTRAINT: Openings reveal mechanical inner frame and opaque undersuit only. Preserve full chest and pelvis coverage and all original anatomy. Do not turn plate gaps into exposed skin."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "file": "img/토게피_mobility_overdrive_glossy_promo_f.webp",
+      "source_sha256": "064ac5d54b4ba5d77b985cc61dab957a463e3e2bc470c86700135d68498d242e",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "abcf69f1de89f311ed0ebd0226837380a6b2232af6fcf8ce8d55fb2f2a3c03ae",
+      "identity_anchor": "img/토게피_light_glossy_promo_f.webp",
+      "reference": "img/토게피_mobility_glossy_promo_f.webp",
+      "ui": {
+        "mech": "토게피",
+        "sourceName": "Togepi",
+        "series": "fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "토게피",
+          "en": "Togepi",
+          "color": "white",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "spike",
+              "detail": "five round-tipped, conical spikes"
+            },
+            {
+              "part": "body",
+              "detail": "rounded, egg-shaped body"
+            },
+            {
+              "part": "arm",
+              "detail": "stubby, rounded cone arms"
+            },
+            {
+              "part": "foot",
+              "detail": "round feet"
+            },
+            {
+              "part": "eye",
+              "detail": "thin, black, oval eyes"
+            },
+            {
+              "part": "toe",
+              "detail": "two toes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Togepi_%28Pok%C3%A9mon%29",
+          "revision": 4626295,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "67e895327dde0574645fcfd4289b4b94ae9b8083b5375b96a90fedff0725d139",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "scene": "At an empty white-stone garden pavilion in clear morning light, balanced upright card stance, face toward camera, both empty hands open at her sides and fully separate from the torso.",
+        "custom": "1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon."
+      },
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Togepi (토게피), fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a soft pink glow with sparkles shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "repair_prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Togepi (토게피), fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a soft pink glow with sparkles shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.\nEDIT CONSTRAINT: Openings reveal mechanical inner frame and opaque undersuit only. Preserve full chest and pelvis coverage and all original anatomy. Do not turn plate gaps into exposed skin.",
+      "repair_scope": "Same generated scene; targeted non-destructive correction preserving identity, pose, clothing and framing."
+    },
+    {
+      "slot": "casual1",
+      "file": "img/토게피_glossy_promo_f_casual1.webp",
+      "source_sha256": "ab40b4f7db0b61d86e6db9948501e9627928715ecc9cb0815c9c336b11858365",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "359c983f0173a9c715067e0fb5f407aeea1ce9965ab611feefd2b65db6e3f351",
+      "identity_anchor": "img/토게피_light_glossy_promo_f.webp",
+      "reference": "img/토게피_light_glossy_promo_f.webp",
+      "ui": {
+        "mech": "토게피",
+        "sourceName": "Togepi",
+        "series": "fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "토게피",
+          "en": "Togepi",
+          "color": "white",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "spike",
+              "detail": "five round-tipped, conical spikes"
+            },
+            {
+              "part": "body",
+              "detail": "rounded, egg-shaped body"
+            },
+            {
+              "part": "arm",
+              "detail": "stubby, rounded cone arms"
+            },
+            {
+              "part": "foot",
+              "detail": "round feet"
+            },
+            {
+              "part": "eye",
+              "detail": "thin, black, oval eyes"
+            },
+            {
+              "part": "toe",
+              "detail": "two toes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Togepi_%28Pok%C3%A9mon%29",
+          "revision": 4626295,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "67e895327dde0574645fcfd4289b4b94ae9b8083b5375b96a90fedff0725d139",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "cat": "travel_exploration",
+        "expr": "gentle",
+        "pose": "checking_map",
+        "orient": "front",
+        "frame": "three_quarter",
+        "lens": "natural50",
+        "scene": "Inside a sunlit hillside botanical conservatory at noon, standing and unfolding a plain illustrated trail map below her face, both hands separated at the paper edges. Cream stone arches and broad green foliage.",
+        "outfit": "Opaque ivory sleeveless sailor-collar blouse with blue piping, red high-waisted tailored culottes and tan walking sandals, bare arms shoulders and legs, tiny red-blue triangle brooch.",
+        "custom": "Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        }
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Togepi (토게피) personified, fairy type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere\nPose: Hold a folded-out route map in both hands while checking the surroundings.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: Inside a sunlit hillside botanical conservatory at noon, standing and unfolding a plain illustrated trail map below her face, both hands separated at the paper edges. Cream stone arches and broad green foliage.\nOutfit and props: Opaque ivory sleeveless sailor-collar blouse with blue piping, red high-waisted tailored culottes and tan walking sandals, bare arms shoulders and legs, tiny red-blue triangle brooch.\nCategory: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.\nNote: Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "repair_prompt": "Change only the paper map: remove every tiny letter, word, number and glyph printed on it. Keep an illustrated trail map made only of unlabeled green plant shapes, simple paths, blue ponds and pictograms, with absolutely zero writing. Preserve the identical clearly adult woman, face, hair, pose, clothing, hand anatomy, framing, lighting and entire background. No other changes.",
+      "repair_scope": "Same generated scene; targeted non-destructive correction preserving identity, pose, clothing and framing."
+    },
+    {
+      "slot": "casual2",
+      "file": "img/토게피_glossy_promo_f_casual2.webp",
+      "source_sha256": "88356c0ec894f337dd7bc713bdff4d7eda3b842f9ff3dbe8d400bf088125d4e3",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "6493b189e4b39b795c0011fe9581ee968fdb2f9e64a9125ca5469c2d8055dcd3",
+      "identity_anchor": "img/토게피_light_glossy_promo_f.webp",
+      "reference": "img/토게피_light_glossy_promo_f.webp",
+      "ui": {
+        "mech": "토게피",
+        "sourceName": "Togepi",
+        "series": "fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "토게피",
+          "en": "Togepi",
+          "color": "white",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "spike",
+              "detail": "five round-tipped, conical spikes"
+            },
+            {
+              "part": "body",
+              "detail": "rounded, egg-shaped body"
+            },
+            {
+              "part": "arm",
+              "detail": "stubby, rounded cone arms"
+            },
+            {
+              "part": "foot",
+              "detail": "round feet"
+            },
+            {
+              "part": "eye",
+              "detail": "thin, black, oval eyes"
+            },
+            {
+              "part": "toe",
+              "detail": "two toes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Togepi_%28Pok%C3%A9mon%29",
+          "revision": 4626295,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "67e895327dde0574645fcfd4289b4b94ae9b8083b5375b96a90fedff0725d139",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "cat": "swimwear",
+        "expr": "relieved",
+        "pose": "perched_seat",
+        "orient": "low_angle",
+        "frame": "full_body",
+        "lens": "wide24",
+        "scene": "On a dry wooden jetty at a secluded lake at golden dawn, seated comfortably on the low edge after a swim, both hands resting openly beside her hips, legs and bare feet fully visible above the clear water. Low camera, distant reeds and warm mist.",
+        "outfit": "Fully lined ivory two-piece swimsuit: secure wide-strap scoop-neck top and high-waisted opaque swim briefs with full intimate coverage, tiny red and blue geometric trim. Bare shoulders arms midriff and legs, small triangle anklet.",
+        "custom": "Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        }
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Togepi (토게피) personified, fairy type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened\nPose: Perch on a low ledge or bench with the feet resting naturally below.\nOrientation: camera below subject looking upward; obey selected framing\nScene: On a dry wooden jetty at a secluded lake at golden dawn, seated comfortably on the low edge after a swim, both hands resting openly beside her hips, legs and bare feet fully visible above the clear water. Low camera, distant reeds and warm mist.\nOutfit and props: Fully lined ivory two-piece swimsuit: secure wide-strap scoop-neck top and high-waisted opaque swim briefs with full intimate coverage, tiny red and blue geometric trim. Bare shoulders arms midriff and legs, small triangle anklet.\nCategory: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.\nNote: Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 24mm-equivalent wide-angle impression with spacious environmental depth; use enough camera distance to avoid stretching the face or limbs.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+    },
+    {
+      "slot": "casual3",
+      "file": "img/토게피_glossy_promo_f_casual3.webp",
+      "source_sha256": "8028ded7ce1b31613214548f1cffdab05943efb37f858f7c157c3e03886ddc9f",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "89066e687d82d1ee75c4810c8854121817d488863bd9199d715965c341f1631d",
+      "identity_anchor": "img/토게피_light_glossy_promo_f.webp",
+      "reference": "img/토게피_light_glossy_promo_f.webp",
+      "ui": {
+        "mech": "토게피",
+        "sourceName": "Togepi",
+        "series": "fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "토게피",
+          "en": "Togepi",
+          "color": "white",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "spike",
+              "detail": "five round-tipped, conical spikes"
+            },
+            {
+              "part": "body",
+              "detail": "rounded, egg-shaped body"
+            },
+            {
+              "part": "arm",
+              "detail": "stubby, rounded cone arms"
+            },
+            {
+              "part": "foot",
+              "detail": "round feet"
+            },
+            {
+              "part": "eye",
+              "detail": "thin, black, oval eyes"
+            },
+            {
+              "part": "toe",
+              "detail": "two toes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Togepi_%28Pok%C3%A9mon%29",
+          "revision": 4626295,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "67e895327dde0574645fcfd4289b4b94ae9b8083b5375b96a90fedff0725d139",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "cat": "occupation_basic",
+        "expr": "determined",
+        "pose": "leaning_furniture",
+        "orient": "side",
+        "frame": "waist_up",
+        "lens": "portrait85",
+        "scene": "In a bright community terrarium workshop at late afternoon, leaning lightly against a waist-high bench while placing a broad leaf onto a gravel bed inside an open glass vessel. One hand holds leaf stem, other rests open on bench, clear fingers, golden window light.",
+        "outfit": "Opaque cobalt-blue sleeveless fitted wrap work top with secure neckline and white high-waisted utility trousers below crop, short red waist apron. Bare arms shoulders and narrow side-waist opening, tiny ivory triangle earrings.",
+        "custom": "Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        }
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Togepi (토게피) personified, fairy type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: brows pulled down and in, hard forward gaze, jaw clenched, mouth a tight line\nPose: Rest a hand or forearm on a table, counter or railing in a relaxed supported pose.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: In a bright community terrarium workshop at late afternoon, leaning lightly against a waist-high bench while placing a broad leaf onto a gravel bed inside an open glass vessel. One hand holds leaf stem, other rests open on bench, clear fingers, golden window light.\nOutfit and props: Opaque cobalt-blue sleeveless fitted wrap work top with secure neckline and white high-waisted utility trousers below crop, short red waist apron. Bare arms shoulders and narrow side-waist opening, tiny ivory triangle earrings.\nCategory: Show one believable working moment in the Pokémon world. Choose care, research, conservation, berry cultivation, crafts, travel, contests or battle support. Make the profession readable through a concrete task, practical clothing and relevant tools. Preserve the approved woman; invent her own workwear instead of copying an existing trainer, Gym Leader or Pokémon Center character.\nNote: Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+    }
+  ],
+  "qa": "Viewed all generated results: identity, full-body card framing, hands, opening pairs and lifestyle diversity. Targeted repairs removed map lettering and mechanical headgear from everyday scenes."
+}
