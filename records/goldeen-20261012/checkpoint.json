@@ -1,0 +1,18 @@
+{
+  "stage": "9/9 generated, verified; awaiting image main push and automatic registration",
+  "baseline": "img/콘치_light_glossy_promo_f.webp",
+  "baseline_sha256": "f67d3a3d3cfb713ede984a00e1f69492c68a0ba0682bf10d6e588801b656066f",
+  "images": {
+    "light": "img/콘치_light_glossy_promo_f.webp",
+    "heavy": "img/콘치_heavy_glossy_promo_f.webp",
+    "mobility": "img/콘치_mobility_glossy_promo_f.webp",
+    "light_overdrive": "img/콘치_light_overdrive_glossy_promo_f.webp",
+    "heavy_overdrive": "img/콘치_heavy_overdrive_glossy_promo_f.webp",
+    "mobility_overdrive": "img/콘치_mobility_overdrive_glossy_promo_f.webp",
+    "casual1": "img/콘치_glossy_promo_f_casual1.webp",
+    "casual2": "img/콘치_glossy_promo_f_casual2.webp",
+    "casual3": "img/콘치_glossy_promo_f_casual3.webp"
+  },
+  "expected_thumbnail_workflow": "썸네일",
+  "expected_registration_workflow": "그림 등록"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "콘치",
+  "slug": "goldeen",
+  "hair": "orange",
+  "eye": "blue",
+  "cut": "straight",
+  "body": "slender",
+  "motifs": "White smooth armor with flowing orange-edged fin-shaped trim and a compact cream horn-shaped hair ornament; orange patches become painted plate patterns, flowing tail fin becomes a short white and orange split waist drape. Human lips, face and limbs, no fish costume.",
+  "light": "In an airy white stone river pavilion at sunrise, graceful front three-quarter adult woman. Predominantly pearl-white slim armor with vivid orange patches and rippling orange-edged skirt panels, compact cream horn ornament above brow. Human face and skin entirely clear, both open hands beside hips, full head and boots with margins.",
+  "casual": [
+    [
+      "hobbies_leisure",
+      "playful",
+      "dance_step",
+      "front",
+      "full_body",
+      "documentary35",
+      "In an empty sunlit dance rehearsal studio at midday, taking a light dance step with one foot pointed and both arms extending separately in a graceful curve, both hands readable. Entire figure and bare feet, plain tall windows, no mirrors or reflections.",
+      "Opaque white fitted cap-sleeve cropped dance top with secure scoop neckline and orange high-waisted flowing wrap skirt over opaque short dance shorts. Bare forearms midriff and legs, tiny cream horn hairclip."
+    ],
+    [
+      "swimwear",
+      "amused",
+      "kneeling",
+      "front_3q",
+      "three_quarter",
+      "natural50",
+      "At the clear sandy edge of a quiet inland river on a golden late afternoon, kneeling on dry sand at the waterline to cup a little water in one hand while the other open hand rests separately on her knee. Head to above knees, both hands clear, gentle current and willow shadows.",
+      "Fully lined opaque orange two-piece swimsuit with broad white-edged straps, securely fitted full-coverage top and high-waisted white-panel bottoms. Chest and pelvis fully covered, bare shoulders arms midriff legs, small pearl earrings."
+    ],
+    [
+      "occupation_basic",
+      "focused",
+      "mid_action",
+      "side",
+      "waist_up",
+      "portrait85",
+      "In a quiet handmade paper studio at blue dawn, side-on at a table pulling a blank orange paper print from a flat press, two hands holding opposite wide corners with separated fingers. Face turned slightly toward viewer, damp paper stacks and cool window light.",
+      "Opaque white sleeveless square-neck tailored waistcoat with secure buttons and orange high-waisted loose trousers below crop, minimal cream pendant. Bare shoulders arms upper chest and small midriff, no apron or armor."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "덩쿠리",
+      "캥카",
+      "쏘드라",
+      "시드라"
+    ],
+    "scope": "Read latest three completed plans and submitted casual prompts on image remote main; compare earlier characters in this batch too.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
