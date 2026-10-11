@@ -1,0 +1,57 @@
+{
+  "mech": "슬리프",
+  "sourceName": "Drowzee",
+  "series": "psychic",
+  "style": "glossy_promo",
+  "sourceAppearance": {
+    "name": "슬리프",
+    "en": "Drowzee",
+    "color": "yellow",
+    "shape": "humanoid",
+    "features": [
+      {
+        "part": "trunk",
+        "detail": "short trunk"
+      },
+      {
+        "part": "ear",
+        "detail": "triangular ears"
+      },
+      {
+        "part": "belly",
+        "detail": "round belly"
+      },
+      {
+        "part": "leg",
+        "detail": "short legs"
+      },
+      {
+        "part": "foot",
+        "detail": "brown feet"
+      },
+      {
+        "part": "eye",
+        "detail": "tired-looking eyes"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Drowzee_%28Pok%C3%A9mon%29",
+    "revision": 4631751,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "8125ceb24a36b8360763ef5fe16fbbc2b7602a6c9b2ac66080a1353585c3fd51",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "outputMode": "action",
+  "identityMode": "reference",
+  "form": "mobility",
+  "scene": "At a quiet amber-lit sleep research atrium at dusk, balanced upright standing pose facing camera, both empty hands relaxed open beside her hips, full body and boots visible.",
+  "custom": "1024x1536. Both complete hands visible, exactly five distinct natural digits each with natural arm connections. No weapon."
+}

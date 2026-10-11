@@ -1,0 +1,67 @@
+{
+  "mech": "슬리프",
+  "sourceName": "Drowzee",
+  "series": "psychic",
+  "style": "glossy_promo",
+  "sourceAppearance": {
+    "name": "슬리프",
+    "en": "Drowzee",
+    "color": "yellow",
+    "shape": "humanoid",
+    "features": [
+      {
+        "part": "trunk",
+        "detail": "short trunk"
+      },
+      {
+        "part": "ear",
+        "detail": "triangular ears"
+      },
+      {
+        "part": "belly",
+        "detail": "round belly"
+      },
+      {
+        "part": "leg",
+        "detail": "short legs"
+      },
+      {
+        "part": "foot",
+        "detail": "brown feet"
+      },
+      {
+        "part": "eye",
+        "detail": "tired-looking eyes"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Drowzee_%28Pok%C3%A9mon%29",
+    "revision": 4631751,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "8125ceb24a36b8360763ef5fe16fbbc2b7602a6c9b2ac66080a1353585c3fd51",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "lingerie",
+  "expr": "pensive",
+  "pose": "sitting",
+  "orient": "side",
+  "frame": "waist_up",
+  "lens": "portrait85",
+  "scene": "In a quiet vintage sleeper-train compartment at blue hour, seated side-on near the window while folding a soft sleep mask between both separated hands above her lap. Warm reading lamp and dark passing scenery, face and complete hands inside crop.",
+  "outfit": "Opaque chocolate satin longline camisole with secure narrow straps and golden piping, matching high-waisted lounge shorts below the crop, loose mustard silk robe around elbows. Bare shoulders arms and upper waist, fully covered chest and pelvis, tiny amber ear studs. Lingerie-inspired lounge fashion.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people. Species only as a tiny accessory or color echo.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

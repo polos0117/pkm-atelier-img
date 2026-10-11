@@ -1,0 +1,67 @@
+{
+  "mech": "슬리프",
+  "sourceName": "Drowzee",
+  "series": "psychic",
+  "style": "glossy_promo",
+  "sourceAppearance": {
+    "name": "슬리프",
+    "en": "Drowzee",
+    "color": "yellow",
+    "shape": "humanoid",
+    "features": [
+      {
+        "part": "trunk",
+        "detail": "short trunk"
+      },
+      {
+        "part": "ear",
+        "detail": "triangular ears"
+      },
+      {
+        "part": "belly",
+        "detail": "round belly"
+      },
+      {
+        "part": "leg",
+        "detail": "short legs"
+      },
+      {
+        "part": "foot",
+        "detail": "brown feet"
+      },
+      {
+        "part": "eye",
+        "detail": "tired-looking eyes"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Drowzee_%28Pok%C3%A9mon%29",
+    "revision": 4631751,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "8125ceb24a36b8360763ef5fe16fbbc2b7602a6c9b2ac66080a1353585c3fd51",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "hobbies_leisure",
+  "expr": "sleepy",
+  "pose": "stretching",
+  "orient": "front_3q",
+  "frame": "three_quarter",
+  "lens": "natural50",
+  "scene": "Inside a sunlit rooftop hammock nook at late morning, standing beside the hammock and gently stretching both arms sideways below shoulder height, hands open and clearly visible. Soft striped canopy shadows.",
+  "outfit": "Opaque mustard sleeveless rib-knit romper with a secure square neckline, short legs and brown waist tie, barefoot, bare shoulders arms and legs, tiny triangular amber earrings.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people. Species only as a tiny accessory or color echo.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
