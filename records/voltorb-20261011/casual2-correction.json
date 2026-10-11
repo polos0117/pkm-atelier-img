@@ -1,0 +1,6 @@
+{
+  "target": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-3dafd8f0-4895-4daa-8bca-d688965dac09.png",
+  "prompt": "Precise local object edit only. Remove every tiny letter, numeral, brand mark or writing from the RADIO tuning dial and radio front face in this image. Replace these with plain dark glass, simple abstract thin horizontal unlettered lines, and blank metal. Preserve the woman, face, hair, both hands, outfit, pose, framing, camera, background, lighting and every other detail exactly. Keep 1024x1536.",
+  "output": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-38fb3a6e-1481-455e-bb93-a99a747e06f3.png",
+  "reason": "Remove unintended tiny radio markings, preserving the character and scene."
+}

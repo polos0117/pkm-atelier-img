@@ -1,0 +1,142 @@
+{
+  "name": "찌리리공",
+  "style": "glossy_promo",
+  "tool": "built-in image_gen",
+  "assets": {
+    "light": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-030163da-383e-4283-9e9c-f879e6680c64.png",
+      "source_sha256": "ce15cc96b6affa2177b9b25af0f704f919e0e70c800794b003b497864ce25330",
+      "filename": "찌리리공_light_glossy_promo_f.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/찌리리공_light_glossy_promo_f.webp",
+      "sha256": "78b706120ceeab3ccbd449f9afa82fdf9fad22f41c1e24175b601c4ab43a98ca",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": null,
+      "prompt": "light.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "heavy": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-a179641f-ff01-456e-bbd3-0eaf2d95e978.png",
+      "source_sha256": "0bb1d48149a3e8d9bf28fd674b6d08b628c45259521ffb54293aef2fd3a5cfb0",
+      "filename": "찌리리공_heavy_glossy_promo_f.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/찌리리공_heavy_glossy_promo_f.webp",
+      "sha256": "df6f59f9fb7957669ae95eece9cb815354fc0a3b52840d7c911c145adb7e9ca7",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "prompt": "heavy.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "mobility": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-c2e14ba5-d077-43e4-bb82-7983c8c3c33c.png",
+      "source_sha256": "36729955e5e1d657bca177de5b5c957c3b63225bda2b9a8b99892ccdf308217b",
+      "filename": "찌리리공_mobility_glossy_promo_f.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/찌리리공_mobility_glossy_promo_f.webp",
+      "sha256": "8c5950b6f44aacf5532d3cc3357d4862a570b0cf6044d1d28d306b9aba5433be",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "prompt": "mobility.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "light_overdrive": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-4e417128-ec4a-4cfc-af62-28b86327a83d.png",
+      "source_sha256": "07765d32d42d4e2801314ad278a31c90229d39a4321cec79694ba171d9420a57",
+      "filename": "찌리리공_light_overdrive_glossy_promo_f.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/찌리리공_light_overdrive_glossy_promo_f.webp",
+      "sha256": "b3eb1af11be62c2b61583290a22d227ed2deee09f3895de776971f9364e9ef66",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "prompt": "light_overdrive.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "heavy_overdrive": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-1c68c9c9-e9a7-4bb4-b786-17a0fa86b94b.png",
+      "source_sha256": "28ba71af571af159f19607ee94cfa90cd1c32e70c82bbd77a042a8df0c61d641",
+      "filename": "찌리리공_heavy_overdrive_glossy_promo_f.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/찌리리공_heavy_overdrive_glossy_promo_f.webp",
+      "sha256": "03c611476b2f2dcd1bb0ccfc58638fbe61e809c245c51938a48eacd75bd60907",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "heavy",
+      "prompt": "heavy_overdrive.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "mobility_overdrive": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-f0a01073-5eda-4545-bd96-841065144212.png",
+      "source_sha256": "cafde8c38b9dda7b82004eb6bc4323f2249ff9c895f6970d0f67d489d951514c",
+      "filename": "찌리리공_mobility_overdrive_glossy_promo_f.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/찌리리공_mobility_overdrive_glossy_promo_f.webp",
+      "sha256": "a28b77157bc3e22c48ab846ccf6e8bc2b2705ae4a4aebb343da2ca74da3dbfd4",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "mobility",
+      "prompt": "mobility_overdrive.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "casual1": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-81346b81-1f52-42c4-9106-6720e3fab268.png",
+      "source_sha256": "f6eaf5f4b15680379cf9acb194cbb32a35aad44948771c87c8e677a4a3dbb204",
+      "filename": "찌리리공_glossy_promo_f_casual1.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/찌리리공_glossy_promo_f_casual1.webp",
+      "sha256": "55be96740632eb54d795670bc71eed27e9103ab5019019873bbf06beefb2a874",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "prompt": "casual1.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "casual2": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-38fb3a6e-1481-455e-bb93-a99a747e06f3.png",
+      "source_sha256": "a0c1b62765b9df497b3b0d5725d7d250c8526287f6e07f6f18ebe6d3fb774fed",
+      "filename": "찌리리공_glossy_promo_f_casual2.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/찌리리공_glossy_promo_f_casual2.webp",
+      "sha256": "c1887793ee9381de3f0e6c138802a5e5b202bd48ad5f531db63e1dbf845bb974",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "prompt": "casual2.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "casual3": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-077fc5a0-0b6b-4104-a4c0-b966483026f1.png",
+      "source_sha256": "2dadec8611861257aca6ae44d7c68a54d99fb68feeae41df79dd20b97ce5b1d8",
+      "filename": "찌리리공_glossy_promo_f_casual3.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/찌리리공_glossy_promo_f_casual3.webp",
+      "sha256": "70d548ab7724d90109575f456043181fd7e01094c4d45b1a30a86570e07cb4f9",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "prompt": "casual3.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    }
+  }
+}

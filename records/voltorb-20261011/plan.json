@@ -1,0 +1,49 @@
+{
+  "name": "찌리리공",
+  "hair": "red",
+  "eye": "gray",
+  "hairstyle": "bob",
+  "wear": "The spherical red upper half and white lower half become smoothly curved red upper-body plates and white hip and leg armor with a narrow black equatorial trim line. Angular eye shapes become small black chevron markings on the shoulder plates. Human woman, no ball costume, no central button, no handheld orb.",
+  "scene": "On a deserted white ceramic power-station terrace under overcast daylight, stable front-facing standing card pose, both empty hands relaxed open outside silhouette, full head and feet visible.",
+  "casual": [
+    [
+      "active",
+      "determined",
+      "mid_stride",
+      "low_angle",
+      "environmental",
+      "wide24",
+      "On an empty red-clay tennis practice court at dawn, taking a controlled lateral warm-up step with knees flexed and both empty hands open for balance; tennis net and white court lines, no racket.",
+      "Opaque white racerback athletic crop top with secure red underband, red high-waisted pleated tennis skort over opaque shorts, white trainers, bare arms midriff and legs; small red-white ear studs."
+    ],
+    [
+      "occupation_basic",
+      "curious",
+      "leaning_furniture",
+      "front",
+      "waist_up",
+      "telephoto135",
+      "Inside a quiet vintage radio restoration workshop on a rainy afternoon, standing behind a bench and presenting an unlabeled small rectangular radio with both hands supporting its opposite ends; old speakers and amber bench lamp behind.",
+      "Opaque red sleeveless collared short waistcoat with secure button closure, white high-waisted wide-leg trousers below crop, bare arms shoulders and narrow midriff gap; tiny angular silver hair clip."
+    ],
+    [
+      "lingerie",
+      "amused",
+      "sitting_floor",
+      "seated_twist",
+      "three_quarter",
+      "natural50",
+      "Inside a private minimalist apartment dressing alcove at blue hour, seated on a thick ivory floor cushion with knees bent naturally to one side and a slight torso twist, sorting two satin ribbons in her open hands over her lap; soft red lamp, mirror without reflected people.",
+      "Opaque fully lined white satin longline bralette with secure broad straps and red seam piping, red high-waisted tap shorts, short translucent dressing cape resting behind shoulders; chest and pelvis fully covered, bare arms shoulders midriff and legs. Lingerie-inspired fashion editorial."
+    ]
+  ],
+  "comparison": {
+    "characters": [
+      "크랩",
+      "슬리퍼",
+      "슬리프"
+    ],
+    "source": "Read current records krabby, hypno, drowzee plans: tidal survey, harbor preserves, shower pavilion, clock gala, stair fitness, acoustic lab, hammock, sleeper train, lantern dance.",
+    "changes": "Changed place, concrete activity, clothing silhouette and composition. Rotated adult_roleplay, lingerie, swimwear and compared all nine current plans."
+  }
+}

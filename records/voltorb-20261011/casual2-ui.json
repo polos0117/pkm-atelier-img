@@ -1,0 +1,176 @@
+{
+  "controls": [
+    {
+      "id": "search",
+      "value": ""
+    },
+    {
+      "id": "group",
+      "value": ""
+    },
+    {
+      "id": "source",
+      "value": "찌리리공"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo"
+    },
+    {
+      "id": "motifs",
+      "value": ""
+    },
+    {
+      "id": "expression",
+      "value": "curious"
+    },
+    {
+      "id": "category",
+      "value": "occupation_basic"
+    },
+    {
+      "id": "example",
+      "value": ""
+    },
+    {
+      "id": "pose",
+      "value": "leaning_furniture"
+    },
+    {
+      "id": "orientation",
+      "value": "front"
+    },
+    {
+      "id": "frame",
+      "value": "waist_up"
+    },
+    {
+      "id": "lens",
+      "value": "telephoto135"
+    },
+    {
+      "id": "aspect",
+      "value": "2:3"
+    },
+    {
+      "id": "camera",
+      "value": ""
+    },
+    {
+      "id": "scene",
+      "value": "Inside a quiet vintage radio restoration workshop on a rainy afternoon, standing behind a bench and presenting an unlabeled small rectangular radio with both hands supporting its opposite ends; old speakers and amber bench lamp behind."
+    },
+    {
+      "id": "outfit",
+      "value": "Opaque red sleeveless collared short waistcoat with secure button closure, white high-waisted wide-leg trousers below crop, bare arms shoulders and narrow midriff gap; tiny angular silver hair clip."
+    },
+    {
+      "id": "custom",
+      "value": "Vertical 2:3, 1024x1536. Same clearly adult woman, both complete hands visible with exactly five distinct natural fingers each. No armor, weapons, text, logos or other people."
+    },
+    {
+      "id": "axis-overall_intensity",
+      "value": "strong"
+    },
+    {
+      "id": "axis-skin_exposure",
+      "value": "bold"
+    },
+    {
+      "id": "axis-action_level",
+      "value": "AUTO"
+    },
+    {
+      "id": "axis-source_influence",
+      "value": "AUTO"
+    },
+    {
+      "id": "axis-separates_preference",
+      "value": "AUTO"
+    }
+  ],
+  "storage": {
+    "last": "찌리리공",
+    "cards": {
+      "찌리리공": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "hair color": "red",
+          "eye color": "gray",
+          "hairstyle": "bob"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "On a deserted white ceramic power-station terrace under overcast daylight, stable front-facing standing card pose, both empty hands relaxed open outside silhouette, full head and feet visible.",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "1024x1536. Clearly adult woman in her twenties. Both complete human hands visible, exactly five distinct natural fingers each, no fused or extra digits. No weapon.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "curious",
+            "pose": "leaning_furniture",
+            "orient": "front",
+            "scene": "Inside a quiet vintage radio restoration workshop on a rainy afternoon, standing behind a bench and presenting an unlabeled small rectangular radio with both hands supporting its opposite ends; old speakers and amber bench lamp behind.",
+            "outfit": "Opaque red sleeveless collared short waistcoat with secure button closure, white high-waisted wide-leg trousers below crop, bare arms shoulders and narrow midriff gap; tiny angular silver hair clip.",
+            "frame": "waist_up",
+            "lens": "telephoto135",
+            "camera": "",
+            "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman, both complete hands visible with exactly five distinct natural fingers each. No armor, weapons, text, logos or other people.",
+            "aspect": "2:3",
+            "cat": "occupation_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  },
+  "prompt": "CHARACTER: the same woman as the attached image — Voltorb (찌리리공) personified, electric type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted\nPose: Rest a hand or forearm on a table, counter or railing in a relaxed supported pose.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: Inside a quiet vintage radio restoration workshop on a rainy afternoon, standing behind a bench and presenting an unlabeled small rectangular radio with both hands supporting its opposite ends; old speakers and amber bench lamp behind.\nOutfit and props: Opaque red sleeveless collared short waistcoat with secure button closure, white high-waisted wide-leg trousers below crop, bare arms shoulders and narrow midriff gap; tiny angular silver hair clip.\nCategory: Show one believable working moment in the Pokémon world. Choose care, research, conservation, berry cultivation, crafts, travel, contests or battle support. Make the profession readable through a concrete task, practical clothing and relevant tools. Preserve the approved woman; invent her own workwear instead of copying an existing trainer, Gym Leader or Pokémon Center character.\nNote: Vertical 2:3, 1024x1536. Same clearly adult woman, both complete hands visible with exactly five distinct natural fingers each. No armor, weapons, text, logos or other people.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 135mm-equivalent telephoto perspective from farther away, with compressed background depth and unchanged anatomy.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+}

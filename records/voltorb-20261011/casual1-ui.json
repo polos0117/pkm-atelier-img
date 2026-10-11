@@ -1,0 +1,176 @@
+{
+  "controls": [
+    {
+      "id": "search",
+      "value": ""
+    },
+    {
+      "id": "group",
+      "value": ""
+    },
+    {
+      "id": "source",
+      "value": "찌리리공"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo"
+    },
+    {
+      "id": "motifs",
+      "value": ""
+    },
+    {
+      "id": "expression",
+      "value": "determined"
+    },
+    {
+      "id": "category",
+      "value": "active"
+    },
+    {
+      "id": "example",
+      "value": ""
+    },
+    {
+      "id": "pose",
+      "value": "mid_stride"
+    },
+    {
+      "id": "orientation",
+      "value": "low_angle"
+    },
+    {
+      "id": "frame",
+      "value": "environmental"
+    },
+    {
+      "id": "lens",
+      "value": "wide24"
+    },
+    {
+      "id": "aspect",
+      "value": "2:3"
+    },
+    {
+      "id": "camera",
+      "value": ""
+    },
+    {
+      "id": "scene",
+      "value": "On an empty red-clay tennis practice court at dawn, taking a controlled lateral warm-up step with knees flexed and both empty hands open for balance; tennis net and white court lines, no racket."
+    },
+    {
+      "id": "outfit",
+      "value": "Opaque white racerback athletic crop top with secure red underband, red high-waisted pleated tennis skort over opaque shorts, white trainers, bare arms midriff and legs; small red-white ear studs."
+    },
+    {
+      "id": "custom",
+      "value": "Vertical 2:3, 1024x1536. Same clearly adult woman, both complete hands visible with exactly five distinct natural fingers each. No armor, weapons, text, logos or other people."
+    },
+    {
+      "id": "axis-overall_intensity",
+      "value": "strong"
+    },
+    {
+      "id": "axis-skin_exposure",
+      "value": "bold"
+    },
+    {
+      "id": "axis-action_level",
+      "value": "AUTO"
+    },
+    {
+      "id": "axis-source_influence",
+      "value": "AUTO"
+    },
+    {
+      "id": "axis-separates_preference",
+      "value": "AUTO"
+    }
+  ],
+  "storage": {
+    "last": "찌리리공",
+    "cards": {
+      "찌리리공": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "hair color": "red",
+          "eye color": "gray",
+          "hairstyle": "bob"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "On a deserted white ceramic power-station terrace under overcast daylight, stable front-facing standing card pose, both empty hands relaxed open outside silhouette, full head and feet visible.",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "1024x1536. Clearly adult woman in her twenties. Both complete human hands visible, exactly five distinct natural fingers each, no fused or extra digits. No weapon.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "determined",
+            "pose": "mid_stride",
+            "orient": "low_angle",
+            "scene": "On an empty red-clay tennis practice court at dawn, taking a controlled lateral warm-up step with knees flexed and both empty hands open for balance; tennis net and white court lines, no racket.",
+            "outfit": "Opaque white racerback athletic crop top with secure red underband, red high-waisted pleated tennis skort over opaque shorts, white trainers, bare arms midriff and legs; small red-white ear studs.",
+            "frame": "environmental",
+            "lens": "wide24",
+            "camera": "",
+            "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman, both complete hands visible with exactly five distinct natural fingers each. No armor, weapons, text, logos or other people.",
+            "aspect": "2:3",
+            "cat": "active",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  },
+  "prompt": "CHARACTER: the same woman as the attached image — Voltorb (찌리리공) personified, electric type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: brows pulled down and in, hard forward gaze, jaw clenched, mouth a tight line\nPose: Capture a clear mid-stride step with believable weight transfer.\nOrientation: camera below subject looking upward; obey selected framing\nScene: On an empty red-clay tennis practice court at dawn, taking a controlled lateral warm-up step with knees flexed and both empty hands open for balance; tennis net and white court lines, no racket.\nOutfit and props: Opaque white racerback athletic crop top with secure red underband, red high-waisted pleated tennis skort over opaque shorts, white trainers, bare arms midriff and legs; small red-white ear studs.\nCategory: Show real movement with fashion-forward activewear or movement-oriented clothing. Avoid generic gym snapshots. Prioritize dynamic motion, readable silhouette, waist and hip lines, fabric movement, and varied action.\nNote: Vertical 2:3, 1024x1536. Same clearly adult woman, both complete hands visible with exactly five distinct natural fingers each. No armor, weapons, text, logos or other people.\nFraming: Environmental long shot: show the complete woman and enough surroundings to establish the activity and location.\nLens / perspective: 24mm-equivalent wide-angle impression with spacious environmental depth; use enough camera distance to avoid stretching the face or limbs.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+}
