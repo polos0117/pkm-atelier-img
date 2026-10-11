@@ -1,0 +1,54 @@
+{
+  "mech": "크랩",
+  "sourceName": "Krabby",
+  "series": "water",
+  "style": "glossy_promo",
+  "sourceAppearance": {
+    "name": "크랩",
+    "en": "Krabby",
+    "color": "red",
+    "shape": "armor",
+    "features": [
+      {
+        "part": "shell",
+        "detail": "strong outer shell"
+      },
+      {
+        "part": "spike",
+        "detail": "two small spikes"
+      },
+      {
+        "part": "arm",
+        "detail": "light tan arms"
+      },
+      {
+        "part": "leg",
+        "detail": "four long, thin legs"
+      },
+      {
+        "part": "foot",
+        "detail": "single, claw-like foot"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Krabby_%28Pok%C3%A9mon%29",
+    "revision": 4631754,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "7ba8f939dc8f82a7aec64c3c44e8e412768a3617c16c4e9788b3487be59982b8",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "outputMode": "action",
+  "identityMode": "reference",
+  "form": "overdrive",
+  "baseForm": "mobility",
+  "scene": "On a deserted dry red-rock tidal promenade in clear morning light, stable upright card pose facing camera, both empty hands relaxed open outside her silhouette, head and boots fully visible.",
+  "custom": "1024x1536. Both complete hands visible, exactly five distinct natural digits each with natural arm connections. No weapon."
+}

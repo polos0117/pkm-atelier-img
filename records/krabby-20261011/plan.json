@@ -1,0 +1,57 @@
+{
+  "name": "크랩",
+  "scene": "On a deserted dry red-rock tidal promenade in clear morning light, stable upright card pose facing camera, both empty hands relaxed open outside her silhouette, head and boots fully visible.",
+  "casual": [
+    [
+      "occupation_basic",
+      "curious",
+      "squatting",
+      "high_angle",
+      "full_body",
+      "documentary35",
+      "At a shallow rocky tidal survey area at noon, crouching on a broad dry rock and placing a smooth shell onto a wide sample tray between both separated hands, face readable, complete body and boots visible. Pale tide pools and weathered red rocks.",
+      "Opaque coral-red sleeveless utility jumpsuit with short legs, secure front zip and cream waist belt, rubber ankle boots. Bare shoulders arms and legs, tiny shell-shaped earrings."
+    ],
+    [
+      "food_berries",
+      "proud",
+      "preparing_food",
+      "front_3q",
+      "waist_up",
+      "natural50",
+      "At a bright harbor citrus-preserve kitchen at early morning, presenting two small glazed fruit tarts on a broad cream platter held at opposite edges with both hands. Open window toward sea and copper pots, no text.",
+      "Opaque cream off-shoulder wrap blouse with secure folded neckline, coral high-waisted skirt below crop and short tan waist apron. Bare shoulders arms and waist gap, tiny shell pendant."
+    ],
+    [
+      "swimwear",
+      "playful",
+      "kneeling",
+      "side",
+      "three_quarter",
+      "portrait85",
+      "At an empty seaside shower pavilion after sunset, kneeling comfortably on a dry wooden mat while shaking sand from a folded towel held between both hands at hip level. Warm coral lamps and distant blue surf; face and both complete hands visible.",
+      "Fully lined coral-red asymmetrical one-piece swimsuit with secure broad single shoulder strap, cream side panel, modest diagonal waist opening and full pelvis coverage; a sheer cream sarong draped loose over one hip. Bare arms shoulders waist opening and legs, tiny shell anklet."
+    ]
+  ],
+  "comparison": {
+    "characters": [
+      "삐",
+      "푸푸린",
+      "토게피"
+    ],
+    "source": "Read current remote records for Cleffa, Igglybuff, Togepi: planetarium hostess, ceramic glazing, roller rink, listening alcove, dressing room lounge, orchard popsicles, conservatory map, lake jetty swim, terrarium workshop.",
+    "changes": "New location, concrete activity, silhouette and camera. Compared preceding characters in current batch.",
+    "current_batch": {
+      "슬리프": [
+        "rooftop hammock",
+        "sleeper train",
+        "lantern rehearsal"
+      ],
+      "슬리퍼": [
+        "antique clock gala",
+        "stair fitness",
+        "acoustic lab"
+      ]
+    }
+  }
+}

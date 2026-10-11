@@ -1,0 +1,63 @@
+{
+  "mech": "크랩",
+  "sourceName": "Krabby",
+  "series": "water",
+  "style": "glossy_promo",
+  "sourceAppearance": {
+    "name": "크랩",
+    "en": "Krabby",
+    "color": "red",
+    "shape": "armor",
+    "features": [
+      {
+        "part": "shell",
+        "detail": "strong outer shell"
+      },
+      {
+        "part": "spike",
+        "detail": "two small spikes"
+      },
+      {
+        "part": "arm",
+        "detail": "light tan arms"
+      },
+      {
+        "part": "leg",
+        "detail": "four long, thin legs"
+      },
+      {
+        "part": "foot",
+        "detail": "single, claw-like foot"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Krabby_%28Pok%C3%A9mon%29",
+    "revision": 4631754,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "7ba8f939dc8f82a7aec64c3c44e8e412768a3617c16c4e9788b3487be59982b8",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "occupation_basic",
+  "expr": "curious",
+  "pose": "squatting",
+  "orient": "high_angle",
+  "frame": "full_body",
+  "lens": "documentary35",
+  "scene": "At a shallow rocky tidal survey area at noon, crouching on a broad dry rock and placing a smooth shell onto a wide sample tray between both separated hands, face readable, complete body and boots visible. Pale tide pools and weathered red rocks.",
+  "outfit": "Opaque coral-red sleeveless utility jumpsuit with short legs, secure front zip and cream waist belt, rubber ankle boots. Bare shoulders arms and legs, tiny shell-shaped earrings.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people. Species only as a tiny accessory or color echo.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

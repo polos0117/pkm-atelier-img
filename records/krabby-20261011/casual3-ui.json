@@ -1,0 +1,63 @@
+{
+  "mech": "크랩",
+  "sourceName": "Krabby",
+  "series": "water",
+  "style": "glossy_promo",
+  "sourceAppearance": {
+    "name": "크랩",
+    "en": "Krabby",
+    "color": "red",
+    "shape": "armor",
+    "features": [
+      {
+        "part": "shell",
+        "detail": "strong outer shell"
+      },
+      {
+        "part": "spike",
+        "detail": "two small spikes"
+      },
+      {
+        "part": "arm",
+        "detail": "light tan arms"
+      },
+      {
+        "part": "leg",
+        "detail": "four long, thin legs"
+      },
+      {
+        "part": "foot",
+        "detail": "single, claw-like foot"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Krabby_%28Pok%C3%A9mon%29",
+    "revision": 4631754,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "7ba8f939dc8f82a7aec64c3c44e8e412768a3617c16c4e9788b3487be59982b8",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "swimwear",
+  "expr": "playful",
+  "pose": "kneeling",
+  "orient": "side",
+  "frame": "three_quarter",
+  "lens": "portrait85",
+  "scene": "At an empty seaside shower pavilion after sunset, kneeling comfortably on a dry wooden mat while shaking sand from a folded towel held between both hands at hip level. Warm coral lamps and distant blue surf; face and both complete hands visible.",
+  "outfit": "Fully lined coral-red asymmetrical one-piece swimsuit with secure broad single shoulder strap, cream side panel, modest diagonal waist opening and full pelvis coverage; a sheer cream sarong draped loose over one hip. Bare arms shoulders waist opening and legs, tiny shell anklet.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people. Species only as a tiny accessory or color echo.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

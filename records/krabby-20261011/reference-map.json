@@ -1,0 +1,76 @@
+[
+  {
+    "slot": "light",
+    "approved_identity_anchor": "크랩_light_glossy_promo_f.webp",
+    "input_reference": null,
+    "input_reference_original_sha256": null,
+    "output": "크랩_light_glossy_promo_f.webp",
+    "output_sha256": "5f968a3bcd5ab69f0be07368bedcc6e09d51fad777ad5c438642a0539f710af0"
+  },
+  {
+    "slot": "heavy",
+    "approved_identity_anchor": "크랩_light_glossy_promo_f.webp",
+    "input_reference": "크랩_light_glossy_promo_f.webp",
+    "input_reference_original_sha256": "5fb497131d668761cf97568f9d4b649484f6fcc2d6a8d70fab83fb10c00c337b",
+    "output": "크랩_heavy_glossy_promo_f.webp",
+    "output_sha256": "abce8afd9662303c5396f687153f46b6cdaf956c01a87f786e6c6c54c26ede72"
+  },
+  {
+    "slot": "mobility",
+    "approved_identity_anchor": "크랩_light_glossy_promo_f.webp",
+    "input_reference": "크랩_light_glossy_promo_f.webp",
+    "input_reference_original_sha256": "5fb497131d668761cf97568f9d4b649484f6fcc2d6a8d70fab83fb10c00c337b",
+    "output": "크랩_mobility_glossy_promo_f.webp",
+    "output_sha256": "3ee209c10f851b68bb16af58735bdf59428e2d23ee09d0df01eeb09532205fc0"
+  },
+  {
+    "slot": "casual1",
+    "approved_identity_anchor": "크랩_light_glossy_promo_f.webp",
+    "input_reference": "크랩_light_glossy_promo_f.webp",
+    "input_reference_original_sha256": "5fb497131d668761cf97568f9d4b649484f6fcc2d6a8d70fab83fb10c00c337b",
+    "output": "크랩_glossy_promo_f_casual1.webp",
+    "output_sha256": "2073472988e93a544a44ed2dc4c2343474f40a1019782e1f355e48800442803b",
+    "correction_input_original_sha256": "4d05e08ae1a88af30295d98848b3694a1679d3bc87b72696555390a0476a70c6",
+    "correction_prompt": "casual1-correction.txt"
+  },
+  {
+    "slot": "casual2",
+    "approved_identity_anchor": "크랩_light_glossy_promo_f.webp",
+    "input_reference": "크랩_light_glossy_promo_f.webp",
+    "input_reference_original_sha256": "5fb497131d668761cf97568f9d4b649484f6fcc2d6a8d70fab83fb10c00c337b",
+    "output": "크랩_glossy_promo_f_casual2.webp",
+    "output_sha256": "70cedc94c8633c5a90314f24f1655e6ece447ee9b618cc8b35af55e04d741496"
+  },
+  {
+    "slot": "casual3",
+    "approved_identity_anchor": "크랩_light_glossy_promo_f.webp",
+    "input_reference": "크랩_light_glossy_promo_f.webp",
+    "input_reference_original_sha256": "5fb497131d668761cf97568f9d4b649484f6fcc2d6a8d70fab83fb10c00c337b",
+    "output": "크랩_glossy_promo_f_casual3.webp",
+    "output_sha256": "d7231d8d026846078337168a24e0778d0b95fb1fe9acfc77efc246411dd191d9"
+  },
+  {
+    "slot": "light_overdrive",
+    "approved_identity_anchor": "크랩_light_glossy_promo_f.webp",
+    "input_reference": "크랩_light_glossy_promo_f.webp",
+    "input_reference_original_sha256": "5fb497131d668761cf97568f9d4b649484f6fcc2d6a8d70fab83fb10c00c337b",
+    "output": "크랩_light_overdrive_glossy_promo_f.webp",
+    "output_sha256": "8269ce0fc587995427eb3643b6288eedd0bea849374d9e50f20ed1dc008870b3"
+  },
+  {
+    "slot": "heavy_overdrive",
+    "approved_identity_anchor": "크랩_light_glossy_promo_f.webp",
+    "input_reference": "크랩_heavy_glossy_promo_f.webp",
+    "input_reference_original_sha256": "47b37b5dd5d736e6e7be91266a4f036d4782b4857aa64fead854f5f5b353a45d",
+    "output": "크랩_heavy_overdrive_glossy_promo_f.webp",
+    "output_sha256": "8c14bb34238b2e9f16c55e9ffb1681f02f1bbc2887f18ac114b5d49f5ed9469e"
+  },
+  {
+    "slot": "mobility_overdrive",
+    "approved_identity_anchor": "크랩_light_glossy_promo_f.webp",
+    "input_reference": "크랩_mobility_glossy_promo_f.webp",
+    "input_reference_original_sha256": "7a694b59bd73d754df7b80b0381369ea98985d077c18a04cb2d733b1bd9f3e1e",
+    "output": "크랩_mobility_overdrive_glossy_promo_f.webp",
+    "output_sha256": "c04914becf75fa6fec8278a0e90f55a0942f77371bc06d1b49efba7e729cb95e"
+  }
+]
