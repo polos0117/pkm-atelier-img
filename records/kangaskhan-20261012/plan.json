@@ -1,0 +1,63 @@
+{
+  "name": "캥카",
+  "slug": "kangaskhan",
+  "hair": "brown",
+  "eye": "green",
+  "cut": "high ponytail",
+  "body": "athletic",
+  "light": "In a broad sunlit stone rescue-station courtyard, adult woman in a grounded front three-quarter stance. Brown enamel slim plates, cream layered abdominal breastplate with a shallow curved pouch-like seam integrated into armor, dark gray crown trim and cream ear-shaped head ornaments. Thick tail shape becomes short layered brown waist sash, human anatomy and uncovered face. No infant, no companion, no second figure. Both open empty hands apart; full head and boots.",
+  "casual": [
+    [
+      "active",
+      "determined",
+      "bending_over",
+      "front_3q",
+      "three_quarter",
+      "documentary35",
+      "At an empty indoor bouldering gym in bright noon light, bending forward slightly to tighten a red climbing-shoe lace on a low bench, hands clearly separated at opposite lace ends, one knee bent and face lifted toward viewer. No other climbers.",
+      "Opaque cream wide-strap athletic cropped tank with secure neckline, brown high-waisted fitted climbing shorts, low climbing shoes. Bare arms shoulders midriff and legs, tiny dark geometric ear studs."
+    ],
+    [
+      "adult_roleplay",
+      "confident",
+      "standing_formal",
+      "low_angle",
+      "full_body",
+      "natural50",
+      "At an empty motorsport paddock presentation platform at orange sunset, standing confidently with one open hand gesturing to a plain unlettered podium and the other relaxed away from her body. Entire woman and boots, warm track lights and empty pit buildings.",
+      "Original adult motorsport event-host fashion: opaque brown fitted sleeveless high-collar zip-front mini dress with cream side panels and securely covered chest, a short cropped cream bolero hanging over shoulders, tall dark ankle boots. Bare arms legs and small waist panels, tiny pouch-shaped pendant. No logos."
+    ],
+    [
+      "occupation_basic",
+      "gentle",
+      "sitting",
+      "side",
+      "waist_up",
+      "portrait85",
+      "Inside an empty mountain rescue supply room on a cold rainy evening, seated at a workbench placing a rolled bandage into an open canvas first-aid kit with one hand while the other steadies its opposite rim. Head and both hands clear, warm task lamp and folded blankets.",
+      "Opaque cream deep but secure V-neck short-sleeve fitted wrap blouse with a brown waist tie and tailored brown shorts below crop. Bare forearms neck upper chest and narrow midriff, small black bead bracelet."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "텅구리",
+      "럭키",
+      "통통코",
+      "또도가스",
+      "코뿌리",
+      "꼬지모",
+      "덩쿠리"
+    ],
+    "scope": "Compared latest three completed characters on main: visually inspected all three Marowak casual images because no generation plan was present; read Chansey/Hoppip plans and six submitted prompts. Also reviewed Weezing/Rhydon/Sudowoodo and earlier batch characters.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

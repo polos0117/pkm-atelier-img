@@ -1,0 +1,18 @@
+{
+  "stage": "9/9 generated, verified; awaiting image main push and automatic registration",
+  "baseline": "img/캥카_light_glossy_promo_f.webp",
+  "baseline_sha256": "6a1bae0a83340175dc1a6db455c4279b7a1babd47c039883d4f69772a2d6b570",
+  "images": {
+    "light": "img/캥카_light_glossy_promo_f.webp",
+    "heavy": "img/캥카_heavy_glossy_promo_f.webp",
+    "mobility": "img/캥카_mobility_glossy_promo_f.webp",
+    "light_overdrive": "img/캥카_light_overdrive_glossy_promo_f.webp",
+    "heavy_overdrive": "img/캥카_heavy_overdrive_glossy_promo_f.webp",
+    "mobility_overdrive": "img/캥카_mobility_overdrive_glossy_promo_f.webp",
+    "casual1": "img/캥카_glossy_promo_f_casual1.webp",
+    "casual3": "img/캥카_glossy_promo_f_casual3.webp",
+    "casual2": "img/캥카_glossy_promo_f_casual2.webp"
+  },
+  "expected_thumbnail_workflow": "썸네일",
+  "expected_registration_workflow": "그림 등록"
+}
