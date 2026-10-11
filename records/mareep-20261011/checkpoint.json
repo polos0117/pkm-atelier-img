@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-11",
+  "slug": "mareep",
+  "count": 9,
+  "requested": 9,
+  "canonical": "img/메리프_light_glossy_promo_f.webp",
+  "files": [
+    {
+      "card": "메리프",
+      "slot": "light",
+      "style": "glossy_promo",
+      "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-00746faa-8e66-4459-b1da-292bee624e12.png",
+      "reference": null,
+      "source_sha256": "4d0ce9a9211590490e19f055c05b1690fd8dae2ea5e5430de1434a497ee6d071",
+      "filename": "메리프_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e13ed2a0fc9d34d5ffd7ff6612bea4e4376a0692a281e9a70a3705bfb9891365",
+      "prompt_file": "light.txt",
+      "ui_file": "light-ui.json",
+      "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+    },
+    {
+      "card": "메리프",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-111c322a-b6a5-4b57-b9bb-3375a81c8e97.png",
+      "reference": "exec-00746faa-8e66-4459-b1da-292bee624e12.png",
+      "source_sha256": "769b2a17a4090c768a411b7713f72d3eaf4714ba240328ba69228245e3de5690",
+      "filename": "메리프_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "38cf487dcc2afdc198d93d808264dd4add52e6cb94c003ba2f59324917c491ca",
+      "prompt_file": "heavy.txt",
+      "ui_file": "heavy-ui.json",
+      "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+    },
+    {
+      "card": "메리프",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-240191fd-7da5-4c25-8dfb-d0614328798a.png",
+      "reference": "exec-00746faa-8e66-4459-b1da-292bee624e12.png",
+      "source_sha256": "7ae6f2fec0fc1e60e854e295ef8517b352f2325ea4589de7ac267ce6150472c7",
+      "filename": "메리프_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f32e645b1f5c80c2d639d20f2e05cf299095ab5e84810e5f4346016ef3dbd9d1",
+      "prompt_file": "mobility.txt",
+      "ui_file": "mobility-ui.json",
+      "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+    },
+    {
+      "card": "메리프",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-03c94fc9-6ec0-4138-9339-a6ff6520a9e1.png",
+      "reference": "exec-00746faa-8e66-4459-b1da-292bee624e12.png",
+      "source_sha256": "fd3746ab8787b0ba43b5cb57a73ff1161f0aa4a683d6ec22ce184ff8b3d99272",
+      "filename": "메리프_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "56517c54e74c7674904b388a27a7612437a583178e1358141d86f0608148ab94",
+      "prompt_file": "light_overdrive.txt",
+      "ui_file": "light_overdrive-ui.json",
+      "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+    },
+    {
+      "card": "메리프",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-f9e07b0b-c938-481f-8923-315ede841890.png",
+      "reference": "exec-111c322a-b6a5-4b57-b9bb-3375a81c8e97.png",
+      "source_sha256": "37ab21c0438d317398125ca3ec0082fcb80a850c0303cd692fb63284bc5aba13",
+      "filename": "메리프_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "db0317b8df59a4e33e1acbb30a2e06492e4dbc08345538fb6d0d55c7a05b9bdb",
+      "prompt_file": "heavy_overdrive.txt",
+      "ui_file": "heavy_overdrive-ui.json",
+      "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+    },
+    {
+      "card": "메리프",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-288517ff-d665-4e49-9d85-623b37164588.png",
+      "reference": "exec-240191fd-7da5-4c25-8dfb-d0614328798a.png",
+      "source_sha256": "05d18ba489c24aee1d201c2dfd62be6fdd444ff199f02beecb1c1f70fa38d4ea",
+      "filename": "메리프_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e0cec2510f7e7a41d963aadb8c8f3feb91a8254b74b3aead16bd171e2950ba48",
+      "prompt_file": "mobility_overdrive.txt",
+      "ui_file": "mobility_overdrive-ui.json",
+      "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+    },
+    {
+      "card": "메리프",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-a8683148-3c1d-4e1b-bf30-2c4c6e62619f.png",
+      "reference": "exec-00746faa-8e66-4459-b1da-292bee624e12.png",
+      "source_sha256": "43ae81bff814449ff0db87c876868bb661dea55a438d2244b98a3bac3781707b",
+      "filename": "메리프_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "473dd5aac9250614ee34371c2b7b4fad074647cbd2a6e63e2664c31aa86e79d1",
+      "prompt_file": "casual1.txt",
+      "ui_file": "casual1-ui.json",
+      "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+    },
+    {
+      "card": "메리프",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-9ccdf5a7-e480-4660-be3d-3b3d4a559404.png",
+      "reference": "exec-00746faa-8e66-4459-b1da-292bee624e12.png",
+      "source_sha256": "318d4c6c1a4beaaf411ed2aab1422e6f7a759ee4b4d48afe0468f6e53700a666",
+      "filename": "메리프_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "406a4a3a3c95c7950a702ee0781e30eb4f72e4f04abe87f63d0114a6f6c5e5d5",
+      "prompt_file": "casual2.txt",
+      "ui_file": "casual2-ui.json",
+      "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+    },
+    {
+      "card": "메리프",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-f7b43c6b-604a-4387-b2b7-e509dbad9d02.png",
+      "reference": "exec-00746faa-8e66-4459-b1da-292bee624e12.png",
+      "source_sha256": "bc884658180b0200cb23ad05da96fcd995708d8361003a66f07620a1a2c20033",
+      "filename": "메리프_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c8f2c16e552ddf1dd732f3b37cd6951672e1da90ce20bae8d4052b72862f7690",
+      "prompt_file": "casual3.txt",
+      "ui_file": "casual3-ui.json",
+      "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+    }
+  ],
+  "status": "ready_for_upload",
+  "generation_method": "Built-in imagegen, one call per asset; actual live generator UI values selected and submitted prompt inspected."
+}

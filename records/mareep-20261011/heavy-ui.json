@@ -1,0 +1,58 @@
+{
+  "mech": "메리프",
+  "sourceName": "Mareep",
+  "series": "electric",
+  "style": "glossy_promo",
+  "sourceAppearance": {
+    "name": "메리프",
+    "en": "Mareep",
+    "color": "white",
+    "shape": "quadruped",
+    "features": [
+      {
+        "part": "pattern",
+        "detail": "yellow-and-black striped pattern"
+      },
+      {
+        "part": "sphere",
+        "detail": "orange sphere"
+      },
+      {
+        "part": "body",
+        "detail": "entire body"
+      },
+      {
+        "part": "foot",
+        "detail": "four feet"
+      },
+      {
+        "part": "ear",
+        "detail": "conical ears"
+      },
+      {
+        "part": "head",
+        "detail": "blue head"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Mareep_%28Pok%C3%A9mon%29",
+    "revision": 4626296,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "da946427c323a24a80fd9d3427be9690397eae9339063bf21d33109aab087de3",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "outputMode": "action",
+  "identityMode": "reference",
+  "form": "heavy",
+  "scene": "On a quiet grassy electrical research terrace at dawn, standing comfortably with both empty hands relaxed open outside her hips, face toward camera, full head and boots visible.",
+  "custom": "1024x1536. Both complete hands visible with exactly five clear natural digits per hand and natural wrist and arm connections. No weapons.",
+  "motifs": ""
+}

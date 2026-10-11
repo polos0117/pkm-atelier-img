@@ -1,0 +1,67 @@
+{
+  "mech": "메리프",
+  "sourceName": "Mareep",
+  "series": "electric",
+  "style": "glossy_promo",
+  "sourceAppearance": {
+    "name": "메리프",
+    "en": "Mareep",
+    "color": "white",
+    "shape": "quadruped",
+    "features": [
+      {
+        "part": "pattern",
+        "detail": "yellow-and-black striped pattern"
+      },
+      {
+        "part": "sphere",
+        "detail": "orange sphere"
+      },
+      {
+        "part": "body",
+        "detail": "entire body"
+      },
+      {
+        "part": "foot",
+        "detail": "four feet"
+      },
+      {
+        "part": "ear",
+        "detail": "conical ears"
+      },
+      {
+        "part": "head",
+        "detail": "blue head"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Mareep_%28Pok%C3%A9mon%29",
+    "revision": 4626296,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "da946427c323a24a80fd9d3427be9690397eae9339063bf21d33109aab087de3",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "hobbies_leisure",
+  "expr": "curious",
+  "pose": "leaning_furniture",
+  "orient": "side",
+  "frame": "waist_up",
+  "lens": "natural50",
+  "scene": "In a bright fiber-dye studio at midday, leaning over a broad table sorting two fluffy yarn skeins into a shallow tray; complete hands visible separately on the table, head turned gently toward viewer. Soft skylight and jars of colored fiber, no labels.",
+  "outfit": "Cream sleeveless linen vest tied at the waist over opaque blue fitted shorts, open sides secured over an opaque bralette, bare shoulders arms and a narrow midriff gap; tiny orange bead earrings.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people. Species only as a tiny accessory or color echo.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

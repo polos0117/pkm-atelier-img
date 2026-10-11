@@ -1,0 +1,67 @@
+{
+  "mech": "메리프",
+  "sourceName": "Mareep",
+  "series": "electric",
+  "style": "glossy_promo",
+  "sourceAppearance": {
+    "name": "메리프",
+    "en": "Mareep",
+    "color": "white",
+    "shape": "quadruped",
+    "features": [
+      {
+        "part": "pattern",
+        "detail": "yellow-and-black striped pattern"
+      },
+      {
+        "part": "sphere",
+        "detail": "orange sphere"
+      },
+      {
+        "part": "body",
+        "detail": "entire body"
+      },
+      {
+        "part": "foot",
+        "detail": "four feet"
+      },
+      {
+        "part": "ear",
+        "detail": "conical ears"
+      },
+      {
+        "part": "head",
+        "detail": "blue head"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Mareep_%28Pok%C3%A9mon%29",
+    "revision": 4626296,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "da946427c323a24a80fd9d3427be9690397eae9339063bf21d33109aab087de3",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "adult_roleplay",
+  "expr": "confident",
+  "pose": "waving",
+  "orient": "front_3q",
+  "frame": "full_body",
+  "lens": "portrait85",
+  "scene": "At an empty velvet-curtained vintage music revue rehearsal stage at night, taking a balanced small stage step and waving one open hand, other hand relaxed by hip; warm amber spotlight, entire head hands and shoes visible.",
+  "outfit": "Original adult cabaret usher event fashion: opaque cobalt fitted waistcoat with cream satin lapels and secure neckline, high-waisted cream short skirt over opaque dance shorts, small black-gold bow tie, ankle-strap heels. Bare arms shoulders upper legs and a small waist gap. Tiny orange gemstone brooch.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people. Species only as a tiny accessory or color echo.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

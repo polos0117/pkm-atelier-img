@@ -1,0 +1,67 @@
+{
+  "mech": "메리프",
+  "sourceName": "Mareep",
+  "series": "electric",
+  "style": "glossy_promo",
+  "sourceAppearance": {
+    "name": "메리프",
+    "en": "Mareep",
+    "color": "white",
+    "shape": "quadruped",
+    "features": [
+      {
+        "part": "pattern",
+        "detail": "yellow-and-black striped pattern"
+      },
+      {
+        "part": "sphere",
+        "detail": "orange sphere"
+      },
+      {
+        "part": "body",
+        "detail": "entire body"
+      },
+      {
+        "part": "foot",
+        "detail": "four feet"
+      },
+      {
+        "part": "ear",
+        "detail": "conical ears"
+      },
+      {
+        "part": "head",
+        "detail": "blue head"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Mareep_%28Pok%C3%A9mon%29",
+    "revision": 4626296,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "da946427c323a24a80fd9d3427be9690397eae9339063bf21d33109aab087de3",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "travel_exploration",
+  "expr": "amused",
+  "pose": "walking",
+  "orient": "low_angle",
+  "frame": "three_quarter",
+  "lens": "documentary35",
+  "scene": "Along a quiet hillside wool-market lane in late afternoon wind, walking with a woven tote supported naturally by one hand and the other open, face turning to the viewer with amused raised eyebrow. Warm stone cottages, linen awnings, empty background.",
+  "outfit": "Opaque mustard square-neck short sundress with broad straps and fitted blue waist sash, lightweight open cream cardigan slipping loosely around elbows, flat sandals, bare shoulders arms and legs; tiny orange bead charm on tote.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people. Species only as a tiny accessory or color echo.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
