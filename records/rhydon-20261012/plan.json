@@ -1,0 +1,59 @@
+{
+  "name": "코뿌리",
+  "body": "toned",
+  "hair": "platinum",
+  "eye": "red",
+  "cut": "high ponytail",
+  "light": "At an industrial canyon transit station under afternoon light, front three-quarter standing pose with open empty hands. Silver gray segmented armor and cream chest accent, conical drill-horn motif worn as narrow headband crest; fully human face and hands. Entire head and feet inside frame.",
+  "casual": [
+    [
+      "travel_exploration",
+      "curious",
+      "checking_map",
+      "front_3q",
+      "waist_up",
+      "portrait85",
+      "Inside a subterranean cave visitor station at cool midday, inspecting an unlettered topographic relief map on a waist-high table, one open hand indicating a ridge, the other resting beside the map. Amber cave lamps.",
+      "Opaque sand cropped sleeveless utility vest over a secure gray fitted bandeau, charcoal cargo trousers below crop, tiny triangular earrings. Bare shoulders arms and midriff."
+    ],
+    [
+      "swimwear",
+      "relieved",
+      "perched_seat",
+      "side",
+      "three_quarter",
+      "natural50",
+      "At an empty ocean rock terrace at golden sunset, sitting sideways on a smooth low rock after a snorkeling trip, one hand setting a compact mask beside her and other hand resting open on her knee, face turned toward viewer, ocean waves below.",
+      "Opaque fully lined dark gray athletic two-piece swimsuit with secure wide-strap square-neck top and high-waisted brief, small cream piping and a tiny conical pendant. Bare shoulders arms waist and legs, full intimate coverage."
+    ],
+    [
+      "festivals_contests",
+      "laughing_open",
+      "dance_step",
+      "turning_midmotion",
+      "environmental",
+      "wide24",
+      "At an empty outdoor stone amphitheater under blue-hour festoon lights, rehearsing one energetic dance step, both hands open and apart, complete woman and boots visible, tiered stone seating and glowing lanterns.",
+      "Opaque cream asymmetric sleeveless short dance dress with fitted gray waistband and angular overlapping skirt panels, charcoal ankle boots; bare shoulders arms upper chest and legs. Tiny silver crest brooch."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "아르코",
+      "마릴",
+      "마릴리",
+      "뿔카노"
+    ],
+    "scope": "Read recent three characters plans and all nine submitted casual prompts; compared earlier characters in this batch.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

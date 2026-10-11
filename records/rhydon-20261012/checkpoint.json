@@ -1,0 +1,145 @@
+{
+  "name": "코뿌리",
+  "style": "glossy_promo",
+  "outputs": {
+    "light": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-c8261ce3-29a8-4b42-b77d-050e40bf64d1.png",
+      "repository_path": "img/코뿌리_light_glossy_promo_f.webp",
+      "sha256": "037a019880e8fac46794164a6a72c476ba2d522909eb8b6179c629697af6ddfd",
+      "source_sha256": "5343a0954c2df337149973404bbbeadcc9580e423a65d81fe6959884592d5df8",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": null,
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "heavy": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-38017fc0-fc72-460e-9c32-a9f445f19e7a.png",
+      "repository_path": "img/코뿌리_heavy_glossy_promo_f.webp",
+      "sha256": "fb3ab34e3f6a2e3b8dd26ae73241a0bc154f0958f8b3917fe845cb0a4f0c3ab8",
+      "source_sha256": "8476411b73b99d5fb1afa882edfe08943af7f23a8e7452e7af39c60f1d7da737",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "mobility": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-e90e37d7-b999-4615-b251-394f9c6906e8.png",
+      "repository_path": "img/코뿌리_mobility_glossy_promo_f.webp",
+      "sha256": "3a2db60cf62c0d3116cd8082c9bf01c038fe2e4cbd79fe8c5a37366f47f0bb85",
+      "source_sha256": "cc69bcb1690b1a70acc6249c8d81e2b05e924f8adf4a0188c96d853d885987c2",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "light_overdrive": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-3295dea1-a55b-438c-bd59-e68bebcfffff.png",
+      "repository_path": "img/코뿌리_light_overdrive_glossy_promo_f.webp",
+      "sha256": "9889daac01c1d18ff2c9846e9a4dfe985ba4b70cd1d1ac1dcecdaacd64c789c2",
+      "source_sha256": "8d4f93cdb9f86e35c50fdc6c9d49e2e9f89356a0e5d63d812c8ff3fec95e5e36",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "heavy_overdrive": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-4b02f335-6f0a-4090-9e6b-c9e2c780855e.png",
+      "repository_path": "img/코뿌리_heavy_overdrive_glossy_promo_f.webp",
+      "sha256": "1c1c13c9a3e47290dec278b2bd50591497c3c4b0b6bb769eb943787ce76b1ca1",
+      "source_sha256": "e62435cb64739dc5e4682b02e0b0072a96447aa86649b332c53c3a29b6b008a9",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "heavy",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "mobility_overdrive": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-0380f16a-ee9c-4fec-ba2e-55c9883f3904.png",
+      "repository_path": "img/코뿌리_mobility_overdrive_glossy_promo_f.webp",
+      "sha256": "562f6a37d475afc7459d0f88c9ca0983cbb35d66df7ff7203350807dcf8c4418",
+      "source_sha256": "2646af9654677f4f9924f4ea9dc26413727062b72b61cca37e1d5c03d319d3ed",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "mobility",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "casual1": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-1b6f57d6-56e5-4878-9d9c-fc4e61cbf1fc.png",
+      "repository_path": "img/코뿌리_glossy_promo_f_casual1.webp",
+      "sha256": "7d0002619ab126dc59b64ec15cf5d8fe9a5db41e563a100b01d17607605cd129",
+      "source_sha256": "b9602c8aa905279999d26acaa47965964b6d3ed2f8729bea4aaa7e0b0c65b641",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "casual2": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-260a0bf5-cfef-4564-ad74-e3fe4202a9b6.png",
+      "repository_path": "img/코뿌리_glossy_promo_f_casual2.webp",
+      "sha256": "bf060cf5c3c21b50b45f748a0f77ddfe4dec16cf89f2aa1d9cdb92d3fb82512f",
+      "source_sha256": "87aa834b22cf2f650aad4e47dcb7aa1e0e6e0c8d920942977c9240791326a59c",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "casual3": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-39d3830a-038e-4cf4-aa94-b4032c55409a.png",
+      "repository_path": "img/코뿌리_glossy_promo_f_casual3.webp",
+      "sha256": "5384a1fda761495044ffd354fd3ab45c1f3d0ace455200efb98fb9bea18a7798",
+      "source_sha256": "68c590c6c7e7f548d4a79370371fe2426856f420047387539ad5b11f6e680a1d",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    }
+  },
+  "status": "images_complete",
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "canonical_repository_path": "img/코뿌리_light_glossy_promo_f.webp"
+}
