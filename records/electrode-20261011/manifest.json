@@ -1,0 +1,142 @@
+{
+  "name": "붐볼",
+  "style": "glossy_promo",
+  "tool": "built-in image_gen",
+  "assets": {
+    "light": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-c3b6b203-4bb9-40cb-855f-034d4e7b7b86.png",
+      "source_sha256": "7392cd445a7a26c5c46c6feca0115f8617f7a3ca2bc75cdd14f90b07378b8d1a",
+      "filename": "붐볼_light_glossy_promo_f.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/붐볼_light_glossy_promo_f.webp",
+      "sha256": "90fe113b2600837e0c8d328935c260fd9e68afc62cdb918db6daf98710e3d90e",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": null,
+      "prompt": "light.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "heavy": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-f8491e2d-32ec-4caf-9b1e-153bda22d624.png",
+      "source_sha256": "87560a962d62d605b43abb7a999bb9c7194c9aa92ab14b4c708046a22f0b6fef",
+      "filename": "붐볼_heavy_glossy_promo_f.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/붐볼_heavy_glossy_promo_f.webp",
+      "sha256": "5fa21a35fac9082dcfad05ae8c8d4786e24ce0b91605e3175a1b35fc1e675424",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "prompt": "heavy.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "mobility": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-104b4c9d-55a9-424e-9db8-dc0f6e1b3847.png",
+      "source_sha256": "024b526211e51c4a7656beb8fea5be3ca9fad00abafff10a7aebee4b036125ce",
+      "filename": "붐볼_mobility_glossy_promo_f.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/붐볼_mobility_glossy_promo_f.webp",
+      "sha256": "fc3761e281cb94697b614e93f88efa3da775a6639776dd07b0f3504a8418d281",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "prompt": "mobility.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "light_overdrive": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-b0e87384-3434-4402-9842-2b358a3c553b.png",
+      "source_sha256": "7acf024536ea3c51a7fcb34515e2af0f0cca8ccb64195cf9c42b1ef4f0acdbbf",
+      "filename": "붐볼_light_overdrive_glossy_promo_f.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/붐볼_light_overdrive_glossy_promo_f.webp",
+      "sha256": "01f12b9dd1a4e2750452f680e9a5c17a5f368f38d6b065da9de63ab358400b05",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "prompt": "light_overdrive.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "heavy_overdrive": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-e0390c19-42a0-4b6b-870c-7a873588fdfc.png",
+      "source_sha256": "e908e12b22be3079e1573368a975a6f22734e88278fdefa960ac7555c86cc043",
+      "filename": "붐볼_heavy_overdrive_glossy_promo_f.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/붐볼_heavy_overdrive_glossy_promo_f.webp",
+      "sha256": "ff6b91631a5640fd883d914ad74bb1b7ea54a9d21608a2afc32b698d67c01a1c",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "heavy",
+      "prompt": "heavy_overdrive.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "mobility_overdrive": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-192e9cef-6cc7-4fd6-8c99-4d154c908b75.png",
+      "source_sha256": "42c29eeeb8db469dea0d97182369472ab8cde12b9daa58fd13651ed69ac54d80",
+      "filename": "붐볼_mobility_overdrive_glossy_promo_f.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/붐볼_mobility_overdrive_glossy_promo_f.webp",
+      "sha256": "0d0ad19856d0ad1052b8547791516cb03f9820817aaa1cdcd3b86cb9dfd6a641",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "mobility",
+      "prompt": "mobility_overdrive.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "casual1": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-98a43050-c97c-4e93-b574-f114481d52b9.png",
+      "source_sha256": "372a1c6a084d2399f3e3a7deb8bba2acf86d24fb711ae3858d9d94471e85b752",
+      "filename": "붐볼_glossy_promo_f_casual1.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/붐볼_glossy_promo_f_casual1.webp",
+      "sha256": "d364e48f7aaef8f1bdee3acf5dddbf066fe13c9a8138f3cc67d44ab5fc9109eb",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "prompt": "casual1.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "casual2": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-191a27ec-3d3c-4467-a876-90f35000a41b.png",
+      "source_sha256": "709e7aded7cfcb3c76d81a0644d1e44cbee43379778fcffd89e18440939c89f8",
+      "filename": "붐볼_glossy_promo_f_casual2.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/붐볼_glossy_promo_f_casual2.webp",
+      "sha256": "872310de4090521c07943278146fc551c27c640b9c4d6f3ace6fc21c06605711",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "prompt": "casual2.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "casual3": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-0d8022a9-e4a7-46eb-88a0-91b6be811445.png",
+      "source_sha256": "edab6981e99efef378aec4a4d18d188741d11a279ebb8d20fe4334e8fb1761d8",
+      "filename": "붐볼_glossy_promo_f_casual3.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/붐볼_glossy_promo_f_casual3.webp",
+      "sha256": "9293aa50143150b2644ff7773fe70485ee8bf16df5f9a73dd9bb2afc6d8dd69c",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "prompt": "casual3.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    }
+  }
+}

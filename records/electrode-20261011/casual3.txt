@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Electrode (붐볼) personified, electric type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere
+Pose: Sit naturally on a chair or bench with supported feet and readable hands.
+Orientation: side body profile, approximately 90 degrees to camera
+Scene: At a bright greenhouse seed-sorting table on a quiet morning, seated side profile separating large berry seeds between two shallow ceramic trays with both complete hands unobstructed on the tabletop; diffuse green light and plants behind.
+Outfit and props: Opaque red sleeveless wrap crop blouse with a secure V neckline, white high-waisted linen midi skirt below crop, bare arms shoulders and waist gap; tiny silver circle hair clip.
+Category: Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.
+Note: Vertical 2:3, 1024x1536. Same clearly adult woman, both complete hands visible with exactly five distinct natural fingers each. No armor, weapons, text, logos or other people.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

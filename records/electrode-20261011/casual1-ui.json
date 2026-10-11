@@ -1,0 +1,176 @@
+{
+  "controls": [
+    {
+      "id": "search",
+      "value": ""
+    },
+    {
+      "id": "group",
+      "value": ""
+    },
+    {
+      "id": "source",
+      "value": "붐볼"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo"
+    },
+    {
+      "id": "motifs",
+      "value": ""
+    },
+    {
+      "id": "expression",
+      "value": "playful"
+    },
+    {
+      "id": "category",
+      "value": "swimwear"
+    },
+    {
+      "id": "example",
+      "value": ""
+    },
+    {
+      "id": "pose",
+      "value": "kneeling"
+    },
+    {
+      "id": "orientation",
+      "value": "front"
+    },
+    {
+      "id": "frame",
+      "value": "three_quarter"
+    },
+    {
+      "id": "lens",
+      "value": "documentary35"
+    },
+    {
+      "id": "aspect",
+      "value": "2:3"
+    },
+    {
+      "id": "camera",
+      "value": ""
+    },
+    {
+      "id": "scene",
+      "value": "At a secluded geothermal rock spa in winter midday sunlight, kneeling on a dry timber deck and opening a folded red towel with both hands clearly separate at opposite corners; steam and dark boulders behind, no people."
+    },
+    {
+      "id": "outfit",
+      "value": "Fully lined white halter bikini top with secure wide underband, red high-waisted swim bottoms with full pelvis coverage, bare shoulders arms midriff and legs, tiny black chevron earrings."
+    },
+    {
+      "id": "custom",
+      "value": "Vertical 2:3, 1024x1536. Same clearly adult woman, both complete hands visible with exactly five distinct natural fingers each. No armor, weapons, text, logos or other people."
+    },
+    {
+      "id": "axis-overall_intensity",
+      "value": "strong"
+    },
+    {
+      "id": "axis-skin_exposure",
+      "value": "bold"
+    },
+    {
+      "id": "axis-action_level",
+      "value": "AUTO"
+    },
+    {
+      "id": "axis-source_influence",
+      "value": "AUTO"
+    },
+    {
+      "id": "axis-separates_preference",
+      "value": "AUTO"
+    }
+  ],
+  "storage": {
+    "last": "붐볼",
+    "cards": {
+      "붐볼": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "hair color": "white",
+          "eye color": "red",
+          "hairstyle": "pixie cut"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "On a deserted basalt induction-test platform at dusk, grounded slightly wide standing stance with face toward camera, both empty hands open beside thighs outside armor silhouette, full head and boots visible.",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "1024x1536. Clearly adult woman in her twenties. Both complete human hands visible, exactly five distinct natural fingers each, no fused or extra digits. No weapon.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "playful",
+            "pose": "kneeling",
+            "orient": "front",
+            "scene": "At a secluded geothermal rock spa in winter midday sunlight, kneeling on a dry timber deck and opening a folded red towel with both hands clearly separate at opposite corners; steam and dark boulders behind, no people.",
+            "outfit": "Fully lined white halter bikini top with secure wide underband, red high-waisted swim bottoms with full pelvis coverage, bare shoulders arms midriff and legs, tiny black chevron earrings.",
+            "frame": "three_quarter",
+            "lens": "documentary35",
+            "camera": "",
+            "custom": "Vertical 2:3, 1024x1536. Same clearly adult woman, both complete hands visible with exactly five distinct natural fingers each. No armor, weapons, text, logos or other people.",
+            "aspect": "2:3",
+            "cat": "swimwear",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  },
+  "prompt": "CHARACTER: the same woman as the attached image — Electrode (붐볼) personified, electric type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement\nPose: Kneel in a stable supported position suited to a low task or interaction.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: At a secluded geothermal rock spa in winter midday sunlight, kneeling on a dry timber deck and opening a folded red towel with both hands clearly separate at opposite corners; steam and dark boulders behind, no people.\nOutfit and props: Fully lined white halter bikini top with secure wide underband, red high-waisted swim bottoms with full pelvis coverage, bare shoulders arms midriff and legs, tiny black chevron earrings.\nCategory: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.\nNote: Vertical 2:3, 1024x1536. Same clearly adult woman, both complete hands visible with exactly five distinct natural fingers each. No armor, weapons, text, logos or other people.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+}
