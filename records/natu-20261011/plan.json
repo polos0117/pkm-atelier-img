@@ -1,0 +1,58 @@
+{
+  "name": "네이티",
+  "lightCustom": "Clearly adult woman in her twenties, emerald-green short layered hair, amber eyes, athletic natural adult proportions. Green armor with yellow-and-red short split shoulder mantle, thick black enamel bands, small red crest hair ornament. On a sunlit ancient stone forest terrace, balanced stance with both open human hands clearly outside the torso silhouette, full body and shoes inside frame. No weapons.",
+  "casual": [
+    [
+      "swimwear",
+      "curious",
+      "kneeling",
+      "front_3q",
+      "full_body",
+      "natural50",
+      "At a secluded rocky tidal cove on a clear afternoon, kneeling comfortably on a dry broad flat rock to examine a small polished pebble, one hand holds it at chest height and the other rests openly on a raised knee. Both knees feet and five-fingered hands visible, distant shallow turquoise water and sandstone cliffs.",
+      "Fully lined emerald two-piece athletic swimsuit: secure yellow-edged asymmetric cross-strap top and opaque high-waisted red-trim swim briefs with full intimate coverage. Bare shoulders arms midriff and legs, tiny black-striped bead anklet. No armor or large feather accessories."
+    ],
+    [
+      "occupation_basic",
+      "focused",
+      "standing_relaxed",
+      "high_angle",
+      "waist_up",
+      "documentary35",
+      "Inside a conservation field station at bright noon, standing at a worktable sorting pressed botanical leaf samples into unlettered paper envelopes. One hand holds an envelope open and the other places a dry leaf inside, hands widely separated and face readable; overhead camera, shelves and sunlit louvers.",
+      "Opaque yellow sleeveless fitted utility vest with secure deep V closure over a green wrap bandeau, high-waisted black linen trousers below crop. Bare shoulders arms and midriff, tiny red crest-shaped hairpin. No armor."
+    ],
+    [
+      "festivals_contests",
+      "amused",
+      "offering_food",
+      "side",
+      "three_quarter",
+      "portrait85",
+      "At a quiet lantern-lit berry festival stall after sunset, side profile turning her smiling face slightly toward viewer while presenting a small open paper tray of colorful berry dumplings at waist height. Both hands support opposite tray edges, no other figures, warm hanging lanterns and red awning.",
+      "Opaque red sleeveless cheongsam-inspired modern festival mini dress with yellow stand collar, secure side closure, black piping and short side slit over lined shorts, flat green sandals. Bare shoulders arms and legs, tiny green bead earrings. No armor."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "삐",
+      "푸푸린",
+      "토게피",
+      "토게틱"
+    ],
+    "changed": [
+      "location",
+      "activity",
+      "clothing silhouette",
+      "composition"
+    ],
+    "scope": "Read latest three completed plans and their stored submitted prompt records; compared this batch's earlier Togetic scenes."
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "ui_hashes": {
+    "light": "714935de"
+  }
+}

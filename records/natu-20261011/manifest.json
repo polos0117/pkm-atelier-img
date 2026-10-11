@@ -1,0 +1,155 @@
+[
+  {
+    "card": "네이티",
+    "slot": "light",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-4bc8a1c8-31f4-413c-970e-cb3781ec4312.png",
+    "source_sha256": "490f120b0116ad765e78672061d1e9aacae05b71ababf32734cd02b3b6486e82",
+    "filename": "네이티_light_glossy_promo_f.webp",
+    "sha256": "ade7495d4d363d46f6c758b621707808861eb6b1a8fa750a7279fe45409d4aba",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": null,
+    "prompt_path": "prompts/light.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "네이티",
+    "slot": "heavy",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-b1ae9f2f-5ab3-4b27-96e5-2f107670f2b1.png",
+    "source_sha256": "c2f648b090e51ca991c6876d9531c78cb03167c90e456f15dca804c255cedad1",
+    "filename": "네이티_heavy_glossy_promo_f.webp",
+    "sha256": "a35b44f0da655704b33968e6b8f8befba4aee9750e52a67ee2c4c4d71f8c5dd3",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "prompt_path": "prompts/heavy.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "네이티",
+    "slot": "mobility",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-55ae4cf7-8c80-44a1-ad77-42011af78521.png",
+    "source_sha256": "af7e010094ea7f3d731b43747e09ec14d390e6dc821d724772aa3810a4e9ea81",
+    "filename": "네이티_mobility_glossy_promo_f.webp",
+    "sha256": "de2a712bed5ba2b8968465cc955a15f552debb87f2fd2b622255c4ac5f3414f0",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "prompt_path": "prompts/mobility.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "네이티",
+    "slot": "light_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-ce0f2a88-20be-4ccb-a0b5-f480c3537c9d.png",
+    "source_sha256": "b7dd6db3ba4a71ff19a067b1132f53f8d4bbd7c6b4d510c6c19b9b3340924065",
+    "filename": "네이티_light_overdrive_glossy_promo_f.webp",
+    "sha256": "f7aec60b6e24adfbacf6a9d5c2c451ec9df0a9f61e360a08cc1c870962895fdb",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "prompt_path": "prompts/light_overdrive.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "네이티",
+    "slot": "heavy_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-1475c7b7-c29d-42d4-9d38-74668f495d44.png",
+    "source_sha256": "b15edb54f1af265c9bef1520a7ed59ba508bdb82fd7f3abae8f7e93b1fa26e13",
+    "filename": "네이티_heavy_overdrive_glossy_promo_f.webp",
+    "sha256": "160e13048445529674a3f6c41be661294e9b9d8283d91917ae2d752523c3f0d5",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "heavy",
+    "prompt_path": "prompts/heavy_overdrive.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "네이티",
+    "slot": "mobility_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-f6d20418-852b-4117-bd51-47e22415bea4.png",
+    "source_sha256": "b413ccc0ab8ef30b963984f08d27c7cb2acc4af0ad74d9018fe445d9ed3aecf0",
+    "filename": "네이티_mobility_overdrive_glossy_promo_f.webp",
+    "sha256": "7703bc57dd4add23beb95484dc392a75d40ac6c7d00a40c23bb398c81752d9da",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "mobility",
+    "prompt_path": "prompts/mobility_overdrive.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "네이티",
+    "slot": "casual1",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-d6d457a0-1349-40ea-bc0f-6e638b65d080.png",
+    "source_sha256": "17591721a92ad13e1dcadf4f83e6d5b9505baae286f1706cb4e1c0c3db77a776",
+    "filename": "네이티_glossy_promo_f_casual1.webp",
+    "sha256": "fa536cb5bcc5f11b9679aa945edcbb3aa0e23e223bfca68e09ed14def1a748a1",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "prompt_path": "prompts/casual1.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "네이티",
+    "slot": "casual2",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-5a1bf7a3-a0a9-494f-bf40-3267ba3bce04.png",
+    "source_sha256": "2420df122a41fac371de20415bfd1908fbda7e32b971ca0a4da01f3ee6b8079d",
+    "filename": "네이티_glossy_promo_f_casual2.webp",
+    "sha256": "0c6b7f0be71dccdc69d4b4dcfc137cac49fc277b6d0a83e95dd7eac5fab272f3",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "prompt_path": "prompts/casual2.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "네이티",
+    "slot": "casual3",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-aa0616e4-d2d4-45df-89d9-7a91f5c31059.png",
+    "source_sha256": "f888e9a45b5e6aba484a318de6289f58ac8aae6a957a5390e6732bd0f114668d",
+    "filename": "네이티_glossy_promo_f_casual3.webp",
+    "sha256": "d91fc9c2f77e0f3851336804b7c511fc657962b0e0b064e968e8048066909226",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "prompt_path": "prompts/casual3.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "character": "네이티",
+  "count": 9,
+  "status": "generated_verified_ready_for_upload",
+  "canonical_reference": "img/네이티_light_glossy_promo_f.webp",
+  "canonical_sha256": "ade7495d4d363d46f6c758b621707808861eb6b1a8fa750a7279fe45409d4aba",
+  "assets": [
+    "네이티_light_glossy_promo_f.webp",
+    "네이티_heavy_glossy_promo_f.webp",
+    "네이티_mobility_glossy_promo_f.webp",
+    "네이티_light_overdrive_glossy_promo_f.webp",
+    "네이티_heavy_overdrive_glossy_promo_f.webp",
+    "네이티_mobility_overdrive_glossy_promo_f.webp",
+    "네이티_glossy_promo_f_casual1.webp",
+    "네이티_glossy_promo_f_casual2.webp",
+    "네이티_glossy_promo_f_casual3.webp"
+  ],
+  "ui_selected_and_verified": true,
+  "generated_with": "built-in imagegen",
+  "retained_source": "Generated PNG images plus final WebP files in image repository; canonical continuing reference is the uploaded light WebP."
+}
