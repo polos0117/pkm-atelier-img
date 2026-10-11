@@ -1,7 +1,7 @@
 {
   "character": "네이티오",
   "count": 9,
-  "status": "generated_verified_ready_for_upload",
+  "status": "complete_uploaded_thumbnails_registered",
   "canonical_reference": "img/네이티오_light_glossy_promo_f.webp",
   "canonical_sha256": "7760c6fcbcd1749129ed837ba99c8426634040e311da1fe029f511734007687e",
   "assets": [
@@ -17,5 +17,18 @@
   ],
   "ui_selected_and_verified": true,
   "generated_with": "built-in imagegen",
-  "retained_source": "Generated PNG images plus final WebP files in image repository; canonical continuing reference is the uploaded light WebP."
+  "retained_source": "Generated PNG output is retained by image generation; all 9 final WebP assets and the canonical light reference are accessible in the image repository. Source and final hashes are recorded in manifest.json.",
+  "image_repository": "polos0117/pkm-atelier-img",
+  "code_repository": "polos0117/pkm-atelier",
+  "remote_commits": {
+    "upload": "b33055be8b36f12a5c9abc1805fc3a390bc8f305",
+    "thumbRun": 38142374337,
+    "thumbnail_commit": "949a44d8352e4f4e558f501ad0b137386e97d419",
+    "registry_commit": "539b3c7de69251594135fa37ec915334668efefe",
+    "thumbnail_workflow_conclusion": "success"
+  },
+  "verified_remote_images": 9,
+  "verified_remote_thumbnails": 9,
+  "verified_registered_slots": 9,
+  "canonical_durable_path": "polos0117/pkm-atelier-img:main:img/네이티오_light_glossy_promo_f.webp"
 }

@@ -50,5 +50,10 @@
   "axes": {
     "overall_intensity": "strong",
     "skin_exposure": "bold"
+  },
+  "ui_hashes": {
+    "casual1": "93d52e5e",
+    "casual2": "12502939",
+    "casual3": "6ac840ce"
   }
 }

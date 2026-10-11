@@ -53,6 +53,14 @@
     "skin_exposure": "bold"
   },
   "ui_hashes": {
-    "light": "714935de"
+    "light": "714935de",
+    "heavy": "5452384e",
+    "mobility": "4b1fbe35",
+    "light_overdrive": "d8e918c4",
+    "heavy_overdrive": "8d1bbfef",
+    "mobility_overdrive": "4ac55c37",
+    "casual1": "a409bfd0",
+    "casual2": "2f20ca80",
+    "casual3": "8769b428"
   }
 }

@@ -1,7 +1,7 @@
 {
   "character": "토게틱",
   "count": 9,
-  "status": "generated_verified_ready_for_upload",
+  "status": "complete_uploaded_thumbnails_registered",
   "canonical_reference": "img/토게틱_light_glossy_promo_f.webp",
   "canonical_sha256": "7970e5663f22643b86f8e766fa15b972f73c5ee01793e68ce497e19e2879ad3a",
   "assets": [
@@ -17,5 +17,19 @@
   ],
   "ui_selected_and_verified": true,
   "generated_with": "built-in imagegen",
-  "retained_source": "Generated PNG images plus final WebP files in image repository; canonical continuing reference is the uploaded light WebP."
+  "retained_source": "Generated PNG output is retained by image generation; all 9 final WebP assets and the canonical light reference are accessible in the image repository. Source and final hashes are recorded in manifest.json.",
+  "image_repository": "polos0117/pkm-atelier-img",
+  "code_repository": "polos0117/pkm-atelier",
+  "remote_commits": {
+    "upload": "a394a477ddd85a2a1a4cd2d0b76d792f436bc9b2",
+    "repair": "043127eaf2c3810fbb0d4a1547d4ff9386f1c118",
+    "thumbRun": 38139997275,
+    "thumbnail_commit": "32e5b9721beb3bc56720b6631d0b31a9d361f0cc",
+    "registry_commit": "539b3c7de69251594135fa37ec915334668efefe",
+    "thumbnail_workflow_conclusion": "success"
+  },
+  "verified_remote_images": 9,
+  "verified_remote_thumbnails": 9,
+  "verified_registered_slots": 9,
+  "canonical_durable_path": "polos0117/pkm-atelier-img:main:img/토게틱_light_glossy_promo_f.webp"
 }

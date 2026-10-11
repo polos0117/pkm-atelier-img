@@ -14,7 +14,11 @@
     ],
     "reference": null,
     "prompt_path": "prompts/light.txt",
-    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed.",
+    "durable_path": "polos0117/pkm-atelier-img:main:img/토게틱_light_glossy_promo_f.webp",
+    "git_blob_sha": "06bd713554c5a1af53eececa6eae666f510f9c5e",
+    "submitted_prompt_sha256": "7c2938c03e7f19eebd38d4e84137c835ca45d9b6907bf7e20bdfdbc140be8aad",
+    "generation_reference": []
   },
   {
     "card": "토게틱",
@@ -31,7 +35,13 @@
     ],
     "reference": "light",
     "prompt_path": "prompts/heavy.txt",
-    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed.",
+    "durable_path": "polos0117/pkm-atelier-img:main:img/토게틱_heavy_glossy_promo_f.webp",
+    "git_blob_sha": "098f42de78b92f1531e397435283efb915765113",
+    "submitted_prompt_sha256": "613baf3ea53bc80062f13ca7adc8661a61ab9b9f3bada0a2640e246721c65b4c",
+    "generation_reference": [
+      "img/토게틱_light_glossy_promo_f.webp"
+    ]
   },
   {
     "card": "토게틱",
@@ -48,7 +58,13 @@
     ],
     "reference": "light",
     "prompt_path": "prompts/mobility.txt",
-    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed.",
+    "durable_path": "polos0117/pkm-atelier-img:main:img/토게틱_mobility_glossy_promo_f.webp",
+    "git_blob_sha": "79bd72d0edde369f06d6ba1a833530de5ac51688",
+    "submitted_prompt_sha256": "45ecc86e42693ed1d5a26c4dbc3f86ec84c537829337e9f8672b19ff1a700479",
+    "generation_reference": [
+      "img/토게틱_light_glossy_promo_f.webp"
+    ]
   },
   {
     "card": "토게틱",
@@ -65,7 +81,13 @@
     ],
     "reference": "light",
     "prompt_path": "prompts/light_overdrive.txt",
-    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed.",
+    "durable_path": "polos0117/pkm-atelier-img:main:img/토게틱_light_overdrive_glossy_promo_f.webp",
+    "git_blob_sha": "5da68d526777beb8f48f145ed07ca485850b519f",
+    "submitted_prompt_sha256": "945ef88b68d30a2f5c4cf4aff57d7823d820a48cd01c6c34c5249ad6e4ca689c",
+    "generation_reference": [
+      "img/토게틱_light_glossy_promo_f.webp"
+    ]
   },
   {
     "card": "토게틱",
@@ -82,7 +104,14 @@
     ],
     "reference": "heavy",
     "prompt_path": "prompts/heavy_overdrive.txt",
-    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed.",
+    "durable_path": "polos0117/pkm-atelier-img:main:img/토게틱_heavy_overdrive_glossy_promo_f.webp",
+    "git_blob_sha": "18dd6ff47ec6d0138615a9a46cb8c56013825354",
+    "submitted_prompt_sha256": "e76f85deb2f45c889b0f78e69b00b41e67be37f2af234e499389778d6997712d",
+    "generation_reference": [
+      "img/토게틱_heavy_glossy_promo_f.webp",
+      "img/토게틱_light_glossy_promo_f.webp"
+    ]
   },
   {
     "card": "토게틱",
@@ -99,7 +128,14 @@
     ],
     "reference": "mobility",
     "prompt_path": "prompts/mobility_overdrive.txt",
-    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed.",
+    "durable_path": "polos0117/pkm-atelier-img:main:img/토게틱_mobility_overdrive_glossy_promo_f.webp",
+    "git_blob_sha": "3e355ce4370f09ea24dffe204c988957e7ce1b7f",
+    "submitted_prompt_sha256": "033c491a48d467e6f92b7453f4212bfae614a0bc9437c74d2eace7b0cb288e10",
+    "generation_reference": [
+      "img/토게틱_mobility_glossy_promo_f.webp",
+      "img/토게틱_light_glossy_promo_f.webp"
+    ]
   },
   {
     "card": "토게틱",
@@ -116,7 +152,13 @@
     ],
     "reference": "light",
     "prompt_path": "prompts/casual1.txt",
-    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed.",
+    "durable_path": "polos0117/pkm-atelier-img:main:img/토게틱_glossy_promo_f_casual1.webp",
+    "git_blob_sha": "4f621b2d1ba377a08b4c78d30e852b6efd48a000",
+    "submitted_prompt_sha256": "599edfab62e09eeffa382a3f8e16e914a749780225b833b4cf5b407639ee7ef5",
+    "generation_reference": [
+      "img/토게틱_light_glossy_promo_f.webp"
+    ]
   },
   {
     "card": "토게틱",
@@ -133,7 +175,13 @@
     ],
     "reference": "light",
     "prompt_path": "prompts/casual2.txt",
-    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed.",
+    "durable_path": "polos0117/pkm-atelier-img:main:img/토게틱_glossy_promo_f_casual2.webp",
+    "git_blob_sha": "d55c85d7886d43d47483a1cd194cbe9f80d21e73",
+    "submitted_prompt_sha256": "88e1687fd775502686bb29d6387b1134d64c40064918ca4a3d02afcfbfe9f8f1",
+    "generation_reference": [
+      "img/토게틱_light_glossy_promo_f.webp"
+    ]
   },
   {
     "card": "토게틱",
@@ -150,6 +198,12 @@
     ],
     "reference": "light",
     "prompt_path": "prompts/casual3.txt",
-    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed.",
+    "durable_path": "polos0117/pkm-atelier-img:main:img/토게틱_glossy_promo_f_casual3.webp",
+    "git_blob_sha": "e6ffdf97336e181660267f62b2e22324e7c9f17c",
+    "submitted_prompt_sha256": "9695c02b07e2560216ba5dee269e389f810d6e4b6446bed6347812d7cdb95738",
+    "generation_reference": [
+      "img/토게틱_light_glossy_promo_f.webp"
+    ]
   }
 ]

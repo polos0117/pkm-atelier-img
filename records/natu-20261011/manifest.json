@@ -14,7 +14,11 @@
     ],
     "reference": null,
     "prompt_path": "prompts/light.txt",
-    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed.",
+    "durable_path": "polos0117/pkm-atelier-img:main:img/네이티_light_glossy_promo_f.webp",
+    "git_blob_sha": "2180830ddf99a7a1480bad16f67e57e1c873f6b5",
+    "submitted_prompt_sha256": "f8a47c83ebbc91aa709067f633806e0a214b411f580d5e798a6cef48c7e73a01",
+    "generation_reference": []
   },
   {
     "card": "네이티",
@@ -31,7 +35,13 @@
     ],
     "reference": "light",
     "prompt_path": "prompts/heavy.txt",
-    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed.",
+    "durable_path": "polos0117/pkm-atelier-img:main:img/네이티_heavy_glossy_promo_f.webp",
+    "git_blob_sha": "c1efd69efa58be8f4becb633ade3ff81edbb50cd",
+    "submitted_prompt_sha256": "80b3d95362ba9aa6add325a19e23be58a065b87d1f8140d64dcfd8af15e0ac4f",
+    "generation_reference": [
+      "img/네이티_light_glossy_promo_f.webp"
+    ]
   },
   {
     "card": "네이티",
@@ -48,7 +58,13 @@
     ],
     "reference": "light",
     "prompt_path": "prompts/mobility.txt",
-    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed.",
+    "durable_path": "polos0117/pkm-atelier-img:main:img/네이티_mobility_glossy_promo_f.webp",
+    "git_blob_sha": "0a45a1f2df70515f103142bf717fd27378c08b58",
+    "submitted_prompt_sha256": "4991f0f944c91889b12b045eb92134ee88692e2b90507f5c07a3922abca54813",
+    "generation_reference": [
+      "img/네이티_light_glossy_promo_f.webp"
+    ]
   },
   {
     "card": "네이티",
@@ -65,7 +81,13 @@
     ],
     "reference": "light",
     "prompt_path": "prompts/light_overdrive.txt",
-    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed.",
+    "durable_path": "polos0117/pkm-atelier-img:main:img/네이티_light_overdrive_glossy_promo_f.webp",
+    "git_blob_sha": "c186f1f242be86b18beffad54bfa606d78bf97c4",
+    "submitted_prompt_sha256": "05e761abf7fcadc654423b3697f7dddad6088874c4ae10c9949d113cef2a8a5c",
+    "generation_reference": [
+      "img/네이티_light_glossy_promo_f.webp"
+    ]
   },
   {
     "card": "네이티",
@@ -82,7 +104,14 @@
     ],
     "reference": "heavy",
     "prompt_path": "prompts/heavy_overdrive.txt",
-    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed.",
+    "durable_path": "polos0117/pkm-atelier-img:main:img/네이티_heavy_overdrive_glossy_promo_f.webp",
+    "git_blob_sha": "9b271220bb48faf7ce3ad136bcf46ce3a0c356c2",
+    "submitted_prompt_sha256": "505ba7f9acea3dc2d5003446d0cae611ce70efba3e81cefff51e004a429b9476",
+    "generation_reference": [
+      "img/네이티_heavy_glossy_promo_f.webp",
+      "img/네이티_light_glossy_promo_f.webp"
+    ]
   },
   {
     "card": "네이티",
@@ -99,7 +128,14 @@
     ],
     "reference": "mobility",
     "prompt_path": "prompts/mobility_overdrive.txt",
-    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed.",
+    "durable_path": "polos0117/pkm-atelier-img:main:img/네이티_mobility_overdrive_glossy_promo_f.webp",
+    "git_blob_sha": "2457ed9376ef968c9a2fa657a32e79ed3144ecdd",
+    "submitted_prompt_sha256": "539b1619bda80e1fb5344b37057e31abeb121ccb0eb543ad1b9343299a85f4e7",
+    "generation_reference": [
+      "img/네이티_mobility_glossy_promo_f.webp",
+      "img/네이티_light_glossy_promo_f.webp"
+    ]
   },
   {
     "card": "네이티",
@@ -116,7 +152,13 @@
     ],
     "reference": "light",
     "prompt_path": "prompts/casual1.txt",
-    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed.",
+    "durable_path": "polos0117/pkm-atelier-img:main:img/네이티_glossy_promo_f_casual1.webp",
+    "git_blob_sha": "11104797baec79e6343223d5ef65eddaddb20221",
+    "submitted_prompt_sha256": "9c0719661df5faee6129010edeabe38f0407183700fa774e44c5efb275d46df5",
+    "generation_reference": [
+      "img/네이티_light_glossy_promo_f.webp"
+    ]
   },
   {
     "card": "네이티",
@@ -133,7 +175,13 @@
     ],
     "reference": "light",
     "prompt_path": "prompts/casual2.txt",
-    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed.",
+    "durable_path": "polos0117/pkm-atelier-img:main:img/네이티_glossy_promo_f_casual2.webp",
+    "git_blob_sha": "e8ba9223c0e114d977b9f70b894b1acc82070f03",
+    "submitted_prompt_sha256": "3849fb6df93072fc0bfe1401535f252b024c6c608649a1a5368526066d6dd59a",
+    "generation_reference": [
+      "img/네이티_light_glossy_promo_f.webp"
+    ]
   },
   {
     "card": "네이티",
@@ -150,6 +198,12 @@
     ],
     "reference": "light",
     "prompt_path": "prompts/casual3.txt",
-    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed.",
+    "durable_path": "polos0117/pkm-atelier-img:main:img/네이티_glossy_promo_f_casual3.webp",
+    "git_blob_sha": "c02b316305be5eecb5322ef3da8708b7bf071d16",
+    "submitted_prompt_sha256": "7f329346675e0ebe799b71f5b2a8c2e08fc373e9bb757f57bdd54890fc5947b6",
+    "generation_reference": [
+      "img/네이티_light_glossy_promo_f.webp"
+    ]
   }
 ]
