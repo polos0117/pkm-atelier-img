@@ -1,0 +1,610 @@
+{
+  "character": "푸푸린",
+  "style": "glossy_promo",
+  "selection_evidence": "Actual live generator UI selections. All original 9 prompt outputs matched local engine FNV; built-in imagegen used.",
+  "results": [
+    {
+      "slot": "light",
+      "file": "img/푸푸린_light_glossy_promo_f.webp",
+      "source_sha256": "8d255ed5163c18d66cda6ea90e9ec2a8ded3bb3e16817bb268c8163ca831ce93",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "2619dde2e0a4b72bdef558491e6d8cec44c7a3de28f1060b6eda6255179bdcfa",
+      "identity_anchor": "img/푸푸린_light_glossy_promo_f.webp",
+      "reference": "none",
+      "ui": {
+        "mech": "푸푸린",
+        "sourceName": "Igglybuff",
+        "series": "normal / fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "푸푸린",
+          "en": "Igglybuff",
+          "color": "pink",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "pattern",
+              "detail": "small swirl-like pattern"
+            },
+            {
+              "part": "tuft",
+              "detail": "rounded tuft"
+            },
+            {
+              "part": "limb",
+              "detail": "small, stubby limbs"
+            },
+            {
+              "part": "eye",
+              "detail": "red eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Igglybuff_%28Pok%C3%A9mon%29",
+          "revision": 4628739,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "ca598ff5225a10211954261f6291d54804ce33b266a34aba666c3e27fe18a344",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "action",
+        "identityMode": "create",
+        "form": "light",
+        "scene": "On a quiet concert-hall terrace in soft rose dawn light, balanced standing pose facing camera, both empty hands relaxed open beside her hips and fully distinct from the torso.",
+        "custom": "1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon."
+      },
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Igglybuff (푸푸린), normal / fairy type.\n\nPALETTE: pink.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Igglybuff as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the rounded tuft becomes a feathered or ruffled collar and trim; its markings (small swirl-like pattern) become painted lines and patterns on her plates and undersuit.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On a quiet concert-hall terrace in soft rose dawn light, balanced standing pose facing camera, both empty hands relaxed open beside her hips and fully distinct from the torso.\nNote: 1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers."
+    },
+    {
+      "slot": "heavy",
+      "file": "img/푸푸린_heavy_glossy_promo_f.webp",
+      "source_sha256": "9dfe9e7e8fc61394b077721ab7aaaa9de4a1088ed8672562057ade89e680ce71",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "40d074c60f86a81ac29ef0185657375b72a219336a07554d1f59a49ec9edfc3f",
+      "identity_anchor": "img/푸푸린_light_glossy_promo_f.webp",
+      "reference": "img/푸푸린_light_glossy_promo_f.webp",
+      "ui": {
+        "mech": "푸푸린",
+        "sourceName": "Igglybuff",
+        "series": "normal / fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "푸푸린",
+          "en": "Igglybuff",
+          "color": "pink",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "pattern",
+              "detail": "small swirl-like pattern"
+            },
+            {
+              "part": "tuft",
+              "detail": "rounded tuft"
+            },
+            {
+              "part": "limb",
+              "detail": "small, stubby limbs"
+            },
+            {
+              "part": "eye",
+              "detail": "red eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Igglybuff_%28Pok%C3%A9mon%29",
+          "revision": 4628739,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "ca598ff5225a10211954261f6291d54804ce33b266a34aba666c3e27fe18a344",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "heavy",
+        "scene": "On a quiet concert-hall terrace in soft rose dawn light, balanced standing pose facing camera, both empty hands relaxed open beside her hips and fully distinct from the torso.",
+        "custom": "1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon."
+      },
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Igglybuff (푸푸린), normal / fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On a quiet concert-hall terrace in soft rose dawn light, balanced standing pose facing camera, both empty hands relaxed open beside her hips and fully distinct from the torso.\nNote: 1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers."
+    },
+    {
+      "slot": "mobility",
+      "file": "img/푸푸린_mobility_glossy_promo_f.webp",
+      "source_sha256": "c6738f48b7378e2a47df79c4d697909d0d27526b30ae320aee1e2356fb08eba2",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "201b3df5a1a4eace8c243ab44111237fab75f49c20f3fcf6dcffd7f59ee58c7d",
+      "identity_anchor": "img/푸푸린_light_glossy_promo_f.webp",
+      "reference": "img/푸푸린_light_glossy_promo_f.webp",
+      "ui": {
+        "mech": "푸푸린",
+        "sourceName": "Igglybuff",
+        "series": "normal / fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "푸푸린",
+          "en": "Igglybuff",
+          "color": "pink",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "pattern",
+              "detail": "small swirl-like pattern"
+            },
+            {
+              "part": "tuft",
+              "detail": "rounded tuft"
+            },
+            {
+              "part": "limb",
+              "detail": "small, stubby limbs"
+            },
+            {
+              "part": "eye",
+              "detail": "red eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Igglybuff_%28Pok%C3%A9mon%29",
+          "revision": 4628739,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "ca598ff5225a10211954261f6291d54804ce33b266a34aba666c3e27fe18a344",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "mobility",
+        "scene": "On a quiet concert-hall terrace in soft rose dawn light, balanced standing pose facing camera, both empty hands relaxed open beside her hips and fully distinct from the torso.",
+        "custom": "1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon."
+      },
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Igglybuff (푸푸린), normal / fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On a quiet concert-hall terrace in soft rose dawn light, balanced standing pose facing camera, both empty hands relaxed open beside her hips and fully distinct from the torso.\nNote: 1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers."
+    },
+    {
+      "slot": "light_overdrive",
+      "file": "img/푸푸린_light_overdrive_glossy_promo_f.webp",
+      "source_sha256": "5cf12dab2fed09716913a36239b3004c65391db62245b1c1c159b502fecd894a",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "0e0a6b4f46b541511bd610a4597848894f6d32904795c6f9a642b61bce84a67e",
+      "identity_anchor": "img/푸푸린_light_glossy_promo_f.webp",
+      "reference": "img/푸푸린_light_glossy_promo_f.webp",
+      "ui": {
+        "mech": "푸푸린",
+        "sourceName": "Igglybuff",
+        "series": "normal / fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "푸푸린",
+          "en": "Igglybuff",
+          "color": "pink",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "pattern",
+              "detail": "small swirl-like pattern"
+            },
+            {
+              "part": "tuft",
+              "detail": "rounded tuft"
+            },
+            {
+              "part": "limb",
+              "detail": "small, stubby limbs"
+            },
+            {
+              "part": "eye",
+              "detail": "red eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Igglybuff_%28Pok%C3%A9mon%29",
+          "revision": 4628739,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "ca598ff5225a10211954261f6291d54804ce33b266a34aba666c3e27fe18a344",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "light",
+        "scene": "On a quiet concert-hall terrace in soft rose dawn light, balanced standing pose facing camera, both empty hands relaxed open beside her hips and fully distinct from the torso.",
+        "custom": "1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon."
+      },
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Igglybuff (푸푸린), normal / fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a warm white-gold light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "file": "img/푸푸린_heavy_overdrive_glossy_promo_f.webp",
+      "source_sha256": "50028af4eba4a9761cc571f4e163eed602f5e6feea2325c77fe52902c44724c5",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "087e78c87e65d20cd677fc3cc4e25f72a6fa1a9485da0bfec43b9dc4d3cc70de",
+      "identity_anchor": "img/푸푸린_light_glossy_promo_f.webp",
+      "reference": "img/푸푸린_heavy_glossy_promo_f.webp",
+      "ui": {
+        "mech": "푸푸린",
+        "sourceName": "Igglybuff",
+        "series": "normal / fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "푸푸린",
+          "en": "Igglybuff",
+          "color": "pink",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "pattern",
+              "detail": "small swirl-like pattern"
+            },
+            {
+              "part": "tuft",
+              "detail": "rounded tuft"
+            },
+            {
+              "part": "limb",
+              "detail": "small, stubby limbs"
+            },
+            {
+              "part": "eye",
+              "detail": "red eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Igglybuff_%28Pok%C3%A9mon%29",
+          "revision": 4628739,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "ca598ff5225a10211954261f6291d54804ce33b266a34aba666c3e27fe18a344",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "heavy",
+        "scene": "On a quiet concert-hall terrace in soft rose dawn light, balanced standing pose facing camera, both empty hands relaxed open beside her hips and fully distinct from the torso.",
+        "custom": "1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon."
+      },
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Igglybuff (푸푸린), normal / fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a warm white-gold light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.\nEDIT CONSTRAINT: Openings reveal mechanical inner frame and opaque undersuit only. Preserve full chest and pelvis coverage and all original anatomy. Do not turn plate gaps into exposed skin."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "file": "img/푸푸린_mobility_overdrive_glossy_promo_f.webp",
+      "source_sha256": "cbe7e604cf1a9e8e71a2393a5ffb14513b4e9f9fc8e58f70a4adb99f1118ff4e",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4dcb6d914794c311bb1d262d67631eeb591e0aa11b25fe73220c3d38bd7f5967",
+      "identity_anchor": "img/푸푸린_light_glossy_promo_f.webp",
+      "reference": "img/푸푸린_mobility_glossy_promo_f.webp",
+      "ui": {
+        "mech": "푸푸린",
+        "sourceName": "Igglybuff",
+        "series": "normal / fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "푸푸린",
+          "en": "Igglybuff",
+          "color": "pink",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "pattern",
+              "detail": "small swirl-like pattern"
+            },
+            {
+              "part": "tuft",
+              "detail": "rounded tuft"
+            },
+            {
+              "part": "limb",
+              "detail": "small, stubby limbs"
+            },
+            {
+              "part": "eye",
+              "detail": "red eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Igglybuff_%28Pok%C3%A9mon%29",
+          "revision": 4628739,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "ca598ff5225a10211954261f6291d54804ce33b266a34aba666c3e27fe18a344",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "scene": "On a quiet concert-hall terrace in soft rose dawn light, balanced standing pose facing camera, both empty hands relaxed open beside her hips and fully distinct from the torso.",
+        "custom": "1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon."
+      },
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Igglybuff (푸푸린), normal / fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a warm white-gold light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.\nEDIT CONSTRAINT: Openings reveal mechanical inner frame and opaque undersuit only. Preserve full chest and pelvis coverage and all original anatomy. Do not turn plate gaps into exposed skin."
+    },
+    {
+      "slot": "casual1",
+      "file": "img/푸푸린_glossy_promo_f_casual1.webp",
+      "source_sha256": "8de1a4b6e77bf183c1c7da081234f7e1277534478a0b721b1c3a00a2112f657e",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "6572c6643cf551a53ced70d2e5b24c7bc8c8f5ad1dd206a868e22a5756699ac7",
+      "identity_anchor": "img/푸푸린_light_glossy_promo_f.webp",
+      "reference": "img/푸푸린_light_glossy_promo_f.webp",
+      "ui": {
+        "mech": "푸푸린",
+        "sourceName": "Igglybuff",
+        "series": "normal / fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "푸푸린",
+          "en": "Igglybuff",
+          "color": "pink",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "pattern",
+              "detail": "small swirl-like pattern"
+            },
+            {
+              "part": "tuft",
+              "detail": "rounded tuft"
+            },
+            {
+              "part": "limb",
+              "detail": "small, stubby limbs"
+            },
+            {
+              "part": "eye",
+              "detail": "red eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Igglybuff_%28Pok%C3%A9mon%29",
+          "revision": 4628739,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "ca598ff5225a10211954261f6291d54804ce33b266a34aba666c3e27fe18a344",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "cat": "hobbies_leisure",
+        "expr": "curious",
+        "pose": "reading_book",
+        "orient": "seated_twist",
+        "frame": "waist_up",
+        "lens": "telephoto135",
+        "scene": "In a cozy soundproof listening alcove at dusk, seated twisting gently toward camera while examining an open unlettered album booklet at waist height. Both hands support opposite edges, warm wall lamps and acoustic panels.",
+        "outfit": "Opaque blush-pink sleeveless cowl-neck silk blouse, black high-waisted wide-leg pants below crop, tiny red orb earrings. Bare shoulders arms and a side-waist gap.",
+        "custom": "Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        }
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Igglybuff (푸푸린) personified, normal / fairy type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted\nPose: Hold an open book with readable finger placement and look toward its pages.\nOrientation: seated with supported pelvis and a natural torso twist\nScene: In a cozy soundproof listening alcove at dusk, seated twisting gently toward camera while examining an open unlettered album booklet at waist height. Both hands support opposite edges, warm wall lamps and acoustic panels.\nOutfit and props: Opaque blush-pink sleeveless cowl-neck silk blouse, black high-waisted wide-leg pants below crop, tiny red orb earrings. Bare shoulders arms and a side-waist gap.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 135mm-equivalent telephoto perspective from farther away, with compressed background depth and unchanged anatomy.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "repair_prompt": "Change only the large mechanical circular ornament in the woman's hair: replace it with a small simple soft pink cloth ribbon hair tie. Preserve the same clearly adult woman in her twenties, exact face, eyes, pink hair color, hair length, tied-up hairstyle silhouette, pose, hands, outfit, open album booklet, lighting, composition and background. This is ordinary everyday clothing, no armor or mechanical headgear. No text. No other changes.",
+      "repair_scope": "Same generated scene; targeted non-destructive correction preserving identity, pose, clothing and framing."
+    },
+    {
+      "slot": "casual2",
+      "file": "img/푸푸린_glossy_promo_f_casual2.webp",
+      "source_sha256": "2d9fdafc79d6c84e1a6d28822a75a714f8f092b85d5586fe004cfaf668627653",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "2f73fb1316f5c4ca2a94472b652183de0587ce0bf96ebdc487e53a1f93a053ce",
+      "identity_anchor": "img/푸푸린_light_glossy_promo_f.webp",
+      "reference": "img/푸푸린_light_glossy_promo_f.webp",
+      "ui": {
+        "mech": "푸푸린",
+        "sourceName": "Igglybuff",
+        "series": "normal / fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "푸푸린",
+          "en": "Igglybuff",
+          "color": "pink",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "pattern",
+              "detail": "small swirl-like pattern"
+            },
+            {
+              "part": "tuft",
+              "detail": "rounded tuft"
+            },
+            {
+              "part": "limb",
+              "detail": "small, stubby limbs"
+            },
+            {
+              "part": "eye",
+              "detail": "red eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Igglybuff_%28Pok%C3%A9mon%29",
+          "revision": 4628739,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "ca598ff5225a10211954261f6291d54804ce33b266a34aba666c3e27fe18a344",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "cat": "lingerie",
+        "expr": "amused",
+        "pose": "standing_relaxed",
+        "orient": "front",
+        "frame": "full_body",
+        "lens": "natural50",
+        "scene": "In an airy home dressing room on a sunny late morning, standing beside a clothes rail and selecting a soft folded scarf from a low basket, scarf across both separated open hands. No mirror, entire head hands and bare feet visible.",
+        "outfit": "Opaque fully lined dusty-rose satin longline bralette with secure broad straps and ivory high-waisted lounge tap shorts, a short sheer-edged ivory robe draped from the elbows. Bare shoulders midriff and legs, complete intimate coverage, tiny red bead pendant.",
+        "custom": "Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        }
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Igglybuff (푸푸린) personified, normal / fairy type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed\nPose: Stand at ease with relaxed shoulders and naturally balanced feet.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: In an airy home dressing room on a sunny late morning, standing beside a clothes rail and selecting a soft folded scarf from a low basket, scarf across both separated open hands. No mirror, entire head hands and bare feet visible.\nOutfit and props: Opaque fully lined dusty-rose satin longline bralette with secure broad straps and ivory high-waisted lounge tap shorts, a short sheer-edged ivory robe draped from the elbows. Bare shoulders midriff and legs, complete intimate coverage, tiny red bead pendant.\nCategory: Use tasteful adult lingerie-inspired evening fashion with full intimate coverage. Describe the garment by its construction — cut, fabric, trim, straps, closures, layers — rather than by mood words. The garments are securely fitted and fully opaque, and the look is suitable for a mainstream evening-fashion editorial. Build the image through framing, silhouette, posture, and lighting rather than exposure.\nNote: Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+    },
+    {
+      "slot": "casual3",
+      "file": "img/푸푸린_glossy_promo_f_casual3.webp",
+      "source_sha256": "be6b09d8248c95933de62fe2603c90b73771150e830305425570726bfc11dc16",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "0c045c56d296a86e5e3544c43f2a52f01d1938cd22cd8060b5ba4cb862ffa802",
+      "identity_anchor": "img/푸푸린_light_glossy_promo_f.webp",
+      "reference": "img/푸푸린_light_glossy_promo_f.webp",
+      "ui": {
+        "mech": "푸푸린",
+        "sourceName": "Igglybuff",
+        "series": "normal / fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "푸푸린",
+          "en": "Igglybuff",
+          "color": "pink",
+          "shape": "humanoid",
+          "features": [
+            {
+              "part": "pattern",
+              "detail": "small swirl-like pattern"
+            },
+            {
+              "part": "tuft",
+              "detail": "rounded tuft"
+            },
+            {
+              "part": "limb",
+              "detail": "small, stubby limbs"
+            },
+            {
+              "part": "eye",
+              "detail": "red eyes"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Igglybuff_%28Pok%C3%A9mon%29",
+          "revision": 4628739,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "ca598ff5225a10211954261f6291d54804ce33b266a34aba666c3e27fe18a344",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "cat": "food_berries",
+        "expr": "proud",
+        "pose": "carrying_something",
+        "orient": "high_angle",
+        "frame": "three_quarter",
+        "lens": "documentary35",
+        "scene": "At a quiet orchard picnic shelter in bright afternoon light, standing and carrying a light rectangular tray of berry popsicles with two hands at opposite handles. Camera slightly above, face and hands clear, wooden trellis and fruit trees.",
+        "outfit": "Opaque pale-pink sleeveless collared peplum dress with secure button closure and short flared hem, narrow ivory sash, flat red sandals. Bare arms shoulders and legs, small red bead bracelet.",
+        "custom": "Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        }
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Igglybuff (푸푸린) personified, normal / fairy type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: chin lifted, brows level, eyes bright and steady, closed-lip smile with a firm mouth\nPose: Carry the scene's bag, basket or box with believable hand contact and weight.\nOrientation: camera above subject looking downward; obey selected framing\nScene: At a quiet orchard picnic shelter in bright afternoon light, standing and carrying a light rectangular tray of berry popsicles with two hands at opposite handles. Camera slightly above, face and hands clear, wooden trellis and fruit trees.\nOutfit and props: Opaque pale-pink sleeveless collared peplum dress with secure button closure and short flared hem, narrow ivory sash, flat red sandals. Bare arms shoulders and legs, small red bead bracelet.\nCategory: Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.\nNote: Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+    }
+  ],
+  "qa": "Viewed all generated results: identity, full-body card framing, hands, opening pairs and lifestyle diversity. Targeted repairs removed map lettering and mechanical headgear from everyday scenes."
+}

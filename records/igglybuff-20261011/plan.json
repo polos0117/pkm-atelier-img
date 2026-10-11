@@ -1,0 +1,49 @@
+{
+  "name": "푸푸린",
+  "scene": "On a quiet concert-hall terrace in soft rose dawn light, balanced standing pose facing camera, both empty hands relaxed open beside her hips and fully distinct from the torso.",
+  "casual": [
+    [
+      "hobbies_leisure",
+      "curious",
+      "reading_book",
+      "seated_twist",
+      "waist_up",
+      "telephoto135",
+      "In a cozy soundproof listening alcove at dusk, seated twisting gently toward camera while examining an open unlettered album booklet at waist height. Both hands support opposite edges, warm wall lamps and acoustic panels.",
+      "Opaque blush-pink sleeveless cowl-neck silk blouse, black high-waisted wide-leg pants below crop, tiny red orb earrings. Bare shoulders arms and a side-waist gap."
+    ],
+    [
+      "lingerie",
+      "amused",
+      "standing_relaxed",
+      "front",
+      "full_body",
+      "natural50",
+      "In an airy home dressing room on a sunny late morning, standing beside a clothes rail and selecting a soft folded scarf from a low basket, scarf across both separated open hands. No mirror, entire head hands and bare feet visible.",
+      "Opaque fully lined dusty-rose satin longline bralette with secure broad straps and ivory high-waisted lounge tap shorts, a short sheer-edged ivory robe draped from the elbows. Bare shoulders midriff and legs, complete intimate coverage, tiny red bead pendant."
+    ],
+    [
+      "food_berries",
+      "proud",
+      "carrying_something",
+      "high_angle",
+      "three_quarter",
+      "documentary35",
+      "At a quiet orchard picnic shelter in bright afternoon light, standing and carrying a light rectangular tray of berry popsicles with two hands at opposite handles. Camera slightly above, face and hands clear, wooden trellis and fruit trees.",
+      "Opaque pale-pink sleeveless collared peplum dress with secure button closure and short flared hem, narrow ivory sash, flat red sandals. Bare arms shoulders and legs, small red bead bracelet."
+    ]
+  ],
+  "comparison": {
+    "scope": "Latest three lifestyle plans reviewed locally; unrelated record paths and contents omitted from upload.",
+    "changed": [
+      "venue",
+      "activity",
+      "clothing silhouette",
+      "pose and framing"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
