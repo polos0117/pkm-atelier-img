@@ -1,0 +1,62 @@
+{
+  "name": "마릴리",
+  "slug": "azumarill",
+  "hair": "navy",
+  "eye": "red",
+  "cut": "high ponytail",
+  "body": "toned",
+  "motifs": "Long blue rabbit-ear shapes with red inset panels become a pair of elegant narrow headpiece fins; white bubble-like spots become enamel markings on blue plates; the white belly becomes a white breastplate, and a short black zigzag waist sash ends in a blue spherical ornament.",
+  "light": "At a white coastal pavilion at clear sunrise, a confident adult woman in an upright front three-quarter stance, both empty open hands away from the hips. Cobalt and white slim armor with small circular white markings. Human proportions and human skin. Full body and footwear with clear margins. Both human hands fully visible and anatomically connected to their own forearms, one thumb and four separate natural fingers per hand. No weapons, text or logos. Portrait 2:3.",
+  "casual": [
+    [
+      "lingerie",
+      "sleepy",
+      "stretching",
+      "front",
+      "full_body",
+      "natural50",
+      "In a bright seaside hotel sunroom just after sunrise, standing barefoot beside an open curtain and making a gentle morning stretch with both arms bent outward at shoulder height, open hands clearly visible and separate. Entire head hands and feet inside frame, warm floorboards and blue sea beyond glass.",
+      "Opaque fully lined navy satin slip dress with secure wide shoulder straps, white lace trim over opaque fabric at the neckline and hem, fitted waist and high side opening with an opaque inner panel that fully covers pelvis; short white satin robe tied loosely at waist. Bare shoulders arms upper chest and legs, tiny blue bead pendant. Lingerie-inspired fashion with complete intimate coverage, no armor."
+    ],
+    [
+      "travel_exploration",
+      "confident",
+      "mid_stride",
+      "front_3q",
+      "environmental",
+      "wide24",
+      "On an empty curved train platform in a seaside town at blue hour before evening departure, taking a measured step toward the viewer while pulling a small rolling suitcase with one hand, the other holding an unlettered ticket at chest level. Both hands and shoes fully visible, warm platform lamps and sea horizon.",
+      "Opaque white sleeveless tailored short jumpsuit with a secure deep blue wrap collar and navy waist sash, blue low-heel sandals, tiny round white earrings. Bare shoulders arms upper chest and legs. No armor, bunny costume or large headpiece."
+    ],
+    [
+      "food_berries",
+      "amused",
+      "preparing_food",
+      "side",
+      "waist_up",
+      "portrait85",
+      "Inside a sunlit berry bakery workshop at late morning, side-on with face turned slightly toward viewer, pressing a neat round berry pastry on a floured counter. Both hands rest widely apart on opposite edges of the dough, each finger visible; copper mixing bowl and bright window light, no other figures.",
+      "Opaque powder-blue sleeveless apron dress with broad white shoulder straps, secure squared neckline, fitted waist and an above-knee skirt below the crop. Bare shoulders arms and upper chest, small round cobalt hair clip. No armor."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "토게틱",
+      "네이티",
+      "네이티오",
+      "아르코",
+      "마릴"
+    ],
+    "scope": "Read three previous plans and all nine submitted casual prompts. Compared earlier planned scenes in this batch.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
