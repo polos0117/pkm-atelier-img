@@ -1,0 +1,18 @@
+{
+  "stage": "9/9 generated, verified; awaiting image main push and automatic registration",
+  "baseline": "img/쏘드라_light_glossy_promo_f.webp",
+  "baseline_sha256": "a60bab115a60566eb8de418142a63266678d6fe9206d738b15b23379c48d6b8b",
+  "images": {
+    "light": "img/쏘드라_light_glossy_promo_f.webp",
+    "heavy": "img/쏘드라_heavy_glossy_promo_f.webp",
+    "mobility": "img/쏘드라_mobility_glossy_promo_f.webp",
+    "light_overdrive": "img/쏘드라_light_overdrive_glossy_promo_f.webp",
+    "heavy_overdrive": "img/쏘드라_heavy_overdrive_glossy_promo_f.webp",
+    "mobility_overdrive": "img/쏘드라_mobility_overdrive_glossy_promo_f.webp",
+    "casual1": "img/쏘드라_glossy_promo_f_casual1.webp",
+    "casual2": "img/쏘드라_glossy_promo_f_casual2.webp",
+    "casual3": "img/쏘드라_glossy_promo_f_casual3.webp"
+  },
+  "expected_thumbnail_workflow": "썸네일",
+  "expected_registration_workflow": "그림 등록"
+}

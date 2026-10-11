@@ -1,0 +1,82 @@
+{
+  "selected": {
+    "style": "glossy_promo",
+    "identityMode": "reference",
+    "form": "overdrive",
+    "baseForm": "mobility",
+    "motifs": "",
+    "formOverride": "",
+    "headFeature": "",
+    "params": {
+      "apparent age": "20s",
+      "body type": "slender",
+      "hair color": "",
+      "eye color": "red",
+      "hairstyle": "bob"
+    },
+    "locks": {},
+    "mode": "casual",
+    "scenes": {
+      "action": {
+        "expr": "",
+        "pose": "",
+        "orient": "",
+        "scene": "",
+        "outfit": "",
+        "frame": "",
+        "lens": "",
+        "camera": "",
+        "custom": "",
+        "aspect": "2:3",
+        "cat": "everyday_basic",
+        "catCustom": "",
+        "ex": "",
+        "exCustom": "",
+        "axes": {},
+        "action": {
+          "category": "",
+          "example": "",
+          "timing": "",
+          "equipment": "",
+          "power": "",
+          "effects": "",
+          "speed": "",
+          "environment": ""
+        },
+        "randomLocks": {}
+      },
+      "casual": {
+        "expr": "curious",
+        "pose": "leaning_wall",
+        "orient": "front",
+        "scene": "Inside an empty maritime sound archive at cloudy midday, leaning gently against a wall listening to over-ear headphones, one hand touching the outside of one earcup and the other open at chest level apart from the first. Face toward camera, plain shelves and soft cool windows.",
+        "outfit": "Opaque pale-blue sleeveless high-neck cropped ribbed knit top with a cream high-waisted skirt below crop. Bare shoulders arms midriff, tiny red coral-like stud earrings. No armor.",
+        "frame": "waist_up",
+        "lens": "portrait85",
+        "camera": "",
+        "custom": "Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+        "aspect": "2:3",
+        "cat": "hobbies_leisure",
+        "catCustom": "",
+        "ex": "",
+        "exCustom": "",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "action": {
+          "category": "",
+          "example": "",
+          "timing": "",
+          "equipment": "",
+          "power": "",
+          "effects": "",
+          "speed": "",
+          "environment": ""
+        },
+        "randomLocks": {}
+      }
+    }
+  },
+  "prompt": "CHARACTER: the same woman as the attached image — Horsea (쏘드라) personified, water type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted\nPose: Lean a shoulder or the back lightly against a wall while keeping balance through the feet.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: Inside an empty maritime sound archive at cloudy midday, leaning gently against a wall listening to over-ear headphones, one hand touching the outside of one earcup and the other open at chest level apart from the first. Face toward camera, plain shelves and soft cool windows.\nOutfit and props: Opaque pale-blue sleeveless high-neck cropped ribbed knit top with a cream high-waisted skirt below crop. Bare shoulders arms midriff, tiny red coral-like stud earrings. No armor.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+}

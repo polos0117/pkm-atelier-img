@@ -1,0 +1,64 @@
+{
+  "name": "쏘드라",
+  "slug": "horsea",
+  "hair": "light blue",
+  "eye": "red",
+  "cut": "bob",
+  "body": "slender",
+  "light": "On a pale waterfront maintenance deck at clear morning, adult woman with short light-blue hair and red eyes, front three-quarter graceful stance. Light-blue enamel slim armor, cream ribbed breastplate, three small spike-like fin ornaments along hairband and plate edges, curled tail motif as narrow curved waist ribbon. Tubular mouth abstracted as tiny round blue collar detail, never animal snout or weapon. Human skin, fully clear face. Both empty open hands apart; entire head and footwear with margins.",
+  "casual": [
+    [
+      "hobbies_leisure",
+      "curious",
+      "leaning_wall",
+      "front",
+      "waist_up",
+      "portrait85",
+      "Inside an empty maritime sound archive at cloudy midday, leaning gently against a wall listening to over-ear headphones, one hand touching the outside of one earcup and the other open at chest level apart from the first. Face toward camera, plain shelves and soft cool windows.",
+      "Opaque pale-blue sleeveless high-neck cropped ribbed knit top with a cream high-waisted skirt below crop. Bare shoulders arms midriff, tiny red coral-like stud earrings. No armor."
+    ],
+    [
+      "travel_exploration",
+      "amused",
+      "one_knee_up",
+      "side",
+      "three_quarter",
+      "documentary35",
+      "On a quiet ferry upper deck at golden dawn, seated sideways on a broad wooden bench with one knee raised, hands separated resting naturally on the knee and bench. Face turned to viewer, empty sea and distant island cliffs. Head to knees and both hands clear.",
+      "Opaque cream short-sleeve sailor-inspired tie-front blouse with secure blue underlayer, blue high-waisted wide short culottes and white deck shoes. Bare forearms legs and waist, tiny curled silver pendant. No lettering."
+    ],
+    [
+      "swimwear",
+      "relieved",
+      "stretching",
+      "front_3q",
+      "environmental",
+      "wide24",
+      "At an empty white-stone sea grotto bathing terrace at late-afternoon turquoise light, standing on dry stone gently stretching both arms outward after a swim, hands open separate against rock and water. Entire body and bare feet, reflective ripples under the arch, no other figures.",
+      "Fully lined opaque pale-blue asymmetrical one-piece swimsuit with secure broad shoulder strap and cream side band, high waist side openings and fully covered chest and pelvis, no sheer panels. Bare shoulders arms side waist and legs, tiny red wrist bead."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "텅구리",
+      "럭키",
+      "통통코",
+      "또도가스",
+      "코뿌리",
+      "꼬지모",
+      "덩쿠리",
+      "캥카"
+    ],
+    "scope": "Compared latest three completed characters on main: visually inspected all three Marowak casual images because no generation plan was present; read Chansey/Hoppip plans and six submitted prompts. Also reviewed Weezing/Rhydon/Sudowoodo and earlier batch characters.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
