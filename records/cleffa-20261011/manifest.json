@@ -1,0 +1,653 @@
+{
+  "character": "삐",
+  "style": "glossy_promo",
+  "selection_evidence": "Actual live generator UI selections; exact output FNV matched local engine for all 9 prompts. active and reading_book keys verified from DOM. Built-in imagegen used.",
+  "results": [
+    {
+      "slot": "casual2",
+      "source": "generated original casual2.png; canonical durable reference is img/삐_glossy_promo_f_casual2.webp",
+      "source_sha256": "9e230bbf3199281ae7ce62fca329f211bfa666897527d1f9d7a56246f7c8f5e6",
+      "file": "img/삐_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "5f60a1c92ac7f6f13741e16a8c11bb6d64ec1184ee76eeee53c880d5272aed76",
+      "identity_anchor": "img/삐_light_glossy_promo_f.webp",
+      "reference": "img/삐_light_glossy_promo_f.webp",
+      "ui": {
+        "mech": "삐",
+        "sourceName": "Cleffa",
+        "series": "fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "삐",
+          "en": "Cleffa",
+          "color": "pink",
+          "shape": "upright",
+          "features": [
+            {
+              "part": "tail",
+              "detail": "curled-up tail"
+            },
+            {
+              "part": "ear",
+              "detail": "brown ears"
+            },
+            {
+              "part": "eye",
+              "detail": "two small black eyes"
+            },
+            {
+              "part": "star",
+              "detail": "twinkling star"
+            },
+            {
+              "part": "mouth",
+              "detail": "small mouth"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Cleffa_%28Pok%C3%A9mon%29",
+          "revision": 4610922,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "bfb2ba921ebce42a20351f6ad7f23f026c985c0ec82a1f426fd1ae0126563e02",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "cat": "occupation_basic",
+        "expr": "focused",
+        "pose": "bending_over",
+        "orient": "side",
+        "frame": "waist_up",
+        "lens": "natural50",
+        "scene": "In a bright ceramics studio on a rainy afternoon, side profile leaning over a raised workbench to gently brush glaze on a small unlettered ceramic star tile. Both hands visible apart at bench height, diffuse skylight and clay shelves.",
+        "outfit": "Opaque cream sleeveless deep-square-neck linen blouse, high-waisted rust work trousers below crop, narrow brown waist apron. Bare arms shoulders and side waist, tiny pink bead bracelet.",
+        "custom": "Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        }
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Cleffa (삐) personified, fairy type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed\nPose: Bend forward slightly to examine or reach a low object with a balanced stance.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: In a bright ceramics studio on a rainy afternoon, side profile leaning over a raised workbench to gently brush glaze on a small unlettered ceramic star tile. Both hands visible apart at bench height, diffuse skylight and clay shelves.\nOutfit and props: Opaque cream sleeveless deep-square-neck linen blouse, high-waisted rust work trousers below crop, narrow brown waist apron. Bare arms shoulders and side waist, tiny pink bead bracelet.\nCategory: Show one believable working moment in the Pokémon world. Choose care, research, conservation, berry cultivation, crafts, travel, contests or battle support. Make the profession readable through a concrete task, practical clothing and relevant tools. Preserve the approved woman; invent her own workwear instead of copying an existing trainer, Gym Leader or Pokémon Center character.\nNote: Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+    },
+    {
+      "slot": "light",
+      "source": "generated original light.png; canonical durable reference is img/삐_light_glossy_promo_f.webp",
+      "source_sha256": "da4a5b57e979d5487175c58df4d3f2bd722475a310638d404f4a3b01f2197edd",
+      "file": "img/삐_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "641a4de66ec3d75ef8d7ef94ebf58a72cc70ae1b65df23b851b7326fe7102f10",
+      "identity_anchor": "img/삐_light_glossy_promo_f.webp",
+      "reference": "none",
+      "ui": {
+        "mech": "삐",
+        "sourceName": "Cleffa",
+        "series": "fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "삐",
+          "en": "Cleffa",
+          "color": "pink",
+          "shape": "upright",
+          "features": [
+            {
+              "part": "tail",
+              "detail": "curled-up tail"
+            },
+            {
+              "part": "ear",
+              "detail": "brown ears"
+            },
+            {
+              "part": "eye",
+              "detail": "two small black eyes"
+            },
+            {
+              "part": "star",
+              "detail": "twinkling star"
+            },
+            {
+              "part": "mouth",
+              "detail": "small mouth"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Cleffa_%28Pok%C3%A9mon%29",
+          "revision": 4610922,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "bfb2ba921ebce42a20351f6ad7f23f026c985c0ec82a1f426fd1ae0126563e02",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "action",
+        "identityMode": "create",
+        "form": "light",
+        "scene": "On an empty hilltop observatory terrace under a clear violet night sky, upright balanced stance, face toward camera, both empty hands relaxed open beside her hips and fully outside the torso silhouette.",
+        "custom": "1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon."
+      },
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Cleffa (삐), fairy type.\n\nPALETTE: brown, pink.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Cleffa as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the curled-up tail becomes a long sash hanging from the back of her belt, in the same shape and colors; the brown ears become a headpiece or hair ornament of the same shape; its markings (twinkling star) become painted lines and patterns on her plates and undersuit.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On an empty hilltop observatory terrace under a clear violet night sky, upright balanced stance, face toward camera, both empty hands relaxed open beside her hips and fully outside the torso silhouette.\nNote: 1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "source": "generated original mobility_overdrive.png; canonical durable reference is img/삐_mobility_overdrive_glossy_promo_f.webp",
+      "source_sha256": "988171a52708c4b115c412002482c8874e6bbb259a874de8ab7d3f25b402a50f",
+      "file": "img/삐_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "38af803dcaad9d0f9da3e30886917d4e54a1f5106c8e07d3bc7d6c09394218c5",
+      "identity_anchor": "img/삐_light_glossy_promo_f.webp",
+      "reference": "img/삐_mobility_glossy_promo_f.webp",
+      "ui": {
+        "mech": "삐",
+        "sourceName": "Cleffa",
+        "series": "fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "삐",
+          "en": "Cleffa",
+          "color": "pink",
+          "shape": "upright",
+          "features": [
+            {
+              "part": "tail",
+              "detail": "curled-up tail"
+            },
+            {
+              "part": "ear",
+              "detail": "brown ears"
+            },
+            {
+              "part": "eye",
+              "detail": "two small black eyes"
+            },
+            {
+              "part": "star",
+              "detail": "twinkling star"
+            },
+            {
+              "part": "mouth",
+              "detail": "small mouth"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Cleffa_%28Pok%C3%A9mon%29",
+          "revision": 4610922,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "bfb2ba921ebce42a20351f6ad7f23f026c985c0ec82a1f426fd1ae0126563e02",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "scene": "On an empty hilltop observatory terrace under a clear violet night sky, upright balanced stance, face toward camera, both empty hands relaxed open beside her hips and fully outside the torso silhouette.",
+        "custom": "1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon."
+      },
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Cleffa (삐), fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a soft pink glow with sparkles shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.\nEDIT CONSTRAINT: Openings reveal mechanical inner frame and opaque undersuit only. Preserve full chest and pelvis coverage and all original anatomy. Do not turn plate gaps into exposed skin."
+    },
+    {
+      "slot": "casual1",
+      "source": "generated original casual1.png; canonical durable reference is img/삐_glossy_promo_f_casual1.webp",
+      "source_sha256": "188d20035ae13f38568bc81d044d61908f5a33ce1cffe418dd91d005364b362e",
+      "file": "img/삐_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c31f2280b02b236266ab576d040affd92d4b7794eb89433f5c29d6725678da15",
+      "identity_anchor": "img/삐_light_glossy_promo_f.webp",
+      "reference": "img/삐_light_glossy_promo_f.webp",
+      "ui": {
+        "mech": "삐",
+        "sourceName": "Cleffa",
+        "series": "fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "삐",
+          "en": "Cleffa",
+          "color": "pink",
+          "shape": "upright",
+          "features": [
+            {
+              "part": "tail",
+              "detail": "curled-up tail"
+            },
+            {
+              "part": "ear",
+              "detail": "brown ears"
+            },
+            {
+              "part": "eye",
+              "detail": "two small black eyes"
+            },
+            {
+              "part": "star",
+              "detail": "twinkling star"
+            },
+            {
+              "part": "mouth",
+              "detail": "small mouth"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Cleffa_%28Pok%C3%A9mon%29",
+          "revision": 4610922,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "bfb2ba921ebce42a20351f6ad7f23f026c985c0ec82a1f426fd1ae0126563e02",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "cat": "adult_roleplay",
+        "expr": "confident",
+        "pose": "waving",
+        "orient": "front_3q",
+        "frame": "three_quarter",
+        "lens": "portrait85",
+        "scene": "In an empty art-deco planetarium foyer at blue hour, rehearsing a welcome gesture for an original adult celestial gala hostess event, one small wave beside her shoulder and the other hand relaxed near the waist. Brass lamps and a dark domed ceiling.",
+        "outfit": "Original adult gala event costume: opaque rose satin corset-style halter bodice, short chocolate-brown asymmetrical skirt over lined fitted shorts, detached slim wrist cuffs and low heels. Bare shoulders, back, midriff and legs, secure chest and pelvis coverage, tiny star earrings.",
+        "custom": "Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        }
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Cleffa (삐) personified, fairy type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed\nPose: Raise one hand near shoulder height in a friendly small wave.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: In an empty art-deco planetarium foyer at blue hour, rehearsing a welcome gesture for an original adult celestial gala hostess event, one small wave beside her shoulder and the other hand relaxed near the waist. Brass lamps and a dark domed ceiling.\nOutfit and props: Original adult gala event costume: opaque rose satin corset-style halter bodice, short chocolate-brown asymmetrical skirt over lined fitted shorts, detached slim wrist cuffs and low heels. Bare shoulders, back, midriff and legs, secure chest and pelvis coverage, tiny star earrings.\nCategory: Create playful adult event fashion inspired by occupation or roleplay motifs. It must read as a costume made for a stage presentation or themed event, not as an authentic workplace uniform. Use original colours and decorative details — no real institutional insignia, no weapons, no tactical gear. Describe the costume by its tailoring, trim, and props, and show a believable styling or preparation action.\nNote: Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+    },
+    {
+      "slot": "heavy",
+      "source": "generated original heavy.png; canonical durable reference is img/삐_heavy_glossy_promo_f.webp",
+      "source_sha256": "738d2e493b3ac0f4b53ccc30c050bd519634441d1d2585fa177204bf63b90137",
+      "file": "img/삐_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "fda5be22ea85ea74be7470ad772b8371b8101c6651faccc6dd9ef4b82c1a247e",
+      "identity_anchor": "img/삐_light_glossy_promo_f.webp",
+      "reference": "img/삐_light_glossy_promo_f.webp",
+      "ui": {
+        "mech": "삐",
+        "sourceName": "Cleffa",
+        "series": "fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "삐",
+          "en": "Cleffa",
+          "color": "pink",
+          "shape": "upright",
+          "features": [
+            {
+              "part": "tail",
+              "detail": "curled-up tail"
+            },
+            {
+              "part": "ear",
+              "detail": "brown ears"
+            },
+            {
+              "part": "eye",
+              "detail": "two small black eyes"
+            },
+            {
+              "part": "star",
+              "detail": "twinkling star"
+            },
+            {
+              "part": "mouth",
+              "detail": "small mouth"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Cleffa_%28Pok%C3%A9mon%29",
+          "revision": 4610922,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "bfb2ba921ebce42a20351f6ad7f23f026c985c0ec82a1f426fd1ae0126563e02",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "heavy",
+        "scene": "On an empty hilltop observatory terrace under a clear violet night sky, upright balanced stance, face toward camera, both empty hands relaxed open beside her hips and fully outside the torso silhouette.",
+        "custom": "1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon."
+      },
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Cleffa (삐), fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On an empty hilltop observatory terrace under a clear violet night sky, upright balanced stance, face toward camera, both empty hands relaxed open beside her hips and fully outside the torso silhouette.\nNote: 1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers."
+    },
+    {
+      "slot": "mobility",
+      "source": "generated original mobility.png; canonical durable reference is img/삐_mobility_glossy_promo_f.webp",
+      "source_sha256": "7da3667eebec8d6380f782a1df6f1989e1509c7e903a72c0fe254ece7bdb02d8",
+      "file": "img/삐_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c1d8b6f226569797ca9074205006a1f7dc9faf5c29240634237a1b9688bf1c2f",
+      "identity_anchor": "img/삐_light_glossy_promo_f.webp",
+      "reference": "img/삐_light_glossy_promo_f.webp",
+      "ui": {
+        "mech": "삐",
+        "sourceName": "Cleffa",
+        "series": "fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "삐",
+          "en": "Cleffa",
+          "color": "pink",
+          "shape": "upright",
+          "features": [
+            {
+              "part": "tail",
+              "detail": "curled-up tail"
+            },
+            {
+              "part": "ear",
+              "detail": "brown ears"
+            },
+            {
+              "part": "eye",
+              "detail": "two small black eyes"
+            },
+            {
+              "part": "star",
+              "detail": "twinkling star"
+            },
+            {
+              "part": "mouth",
+              "detail": "small mouth"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Cleffa_%28Pok%C3%A9mon%29",
+          "revision": 4610922,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "bfb2ba921ebce42a20351f6ad7f23f026c985c0ec82a1f426fd1ae0126563e02",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "mobility",
+        "scene": "On an empty hilltop observatory terrace under a clear violet night sky, upright balanced stance, face toward camera, both empty hands relaxed open beside her hips and fully outside the torso silhouette.",
+        "custom": "1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon."
+      },
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Cleffa (삐), fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On an empty hilltop observatory terrace under a clear violet night sky, upright balanced stance, face toward camera, both empty hands relaxed open beside her hips and fully outside the torso silhouette.\nNote: 1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "source": "generated original heavy_overdrive.png; canonical durable reference is img/삐_heavy_overdrive_glossy_promo_f.webp",
+      "source_sha256": "ff725768e6ab07965444b6a4c808513a99e1eb78cd26e719aabca08aaf51c148",
+      "file": "img/삐_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "8623e5673dba6804a304e28e4543f8cd7ae3f6079a4558235caeb6d4c99162a3",
+      "identity_anchor": "img/삐_light_glossy_promo_f.webp",
+      "reference": "img/삐_heavy_glossy_promo_f.webp",
+      "ui": {
+        "mech": "삐",
+        "sourceName": "Cleffa",
+        "series": "fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "삐",
+          "en": "Cleffa",
+          "color": "pink",
+          "shape": "upright",
+          "features": [
+            {
+              "part": "tail",
+              "detail": "curled-up tail"
+            },
+            {
+              "part": "ear",
+              "detail": "brown ears"
+            },
+            {
+              "part": "eye",
+              "detail": "two small black eyes"
+            },
+            {
+              "part": "star",
+              "detail": "twinkling star"
+            },
+            {
+              "part": "mouth",
+              "detail": "small mouth"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Cleffa_%28Pok%C3%A9mon%29",
+          "revision": 4610922,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "bfb2ba921ebce42a20351f6ad7f23f026c985c0ec82a1f426fd1ae0126563e02",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "heavy",
+        "scene": "On an empty hilltop observatory terrace under a clear violet night sky, upright balanced stance, face toward camera, both empty hands relaxed open beside her hips and fully outside the torso silhouette.",
+        "custom": "1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon."
+      },
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Cleffa (삐), fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a soft pink glow with sparkles shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.\nEDIT CONSTRAINT: Openings reveal mechanical inner frame and opaque undersuit only. Preserve full chest and pelvis coverage and all original anatomy. Do not turn plate gaps into exposed skin."
+    },
+    {
+      "slot": "casual3",
+      "source": "generated original casual3.png; canonical durable reference is img/삐_glossy_promo_f_casual3.webp",
+      "source_sha256": "4883115f1be1738924f17978639b1d65cb2ca4ce6622d170dd229b66922a3eee",
+      "file": "img/삐_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "52a0d670041baa540d697c947db98c2064c3a8be73b53b3cdffa9507c6d8541b",
+      "identity_anchor": "img/삐_light_glossy_promo_f.webp",
+      "reference": "img/삐_light_glossy_promo_f.webp",
+      "ui": {
+        "mech": "삐",
+        "sourceName": "Cleffa",
+        "series": "fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "삐",
+          "en": "Cleffa",
+          "color": "pink",
+          "shape": "upright",
+          "features": [
+            {
+              "part": "tail",
+              "detail": "curled-up tail"
+            },
+            {
+              "part": "ear",
+              "detail": "brown ears"
+            },
+            {
+              "part": "eye",
+              "detail": "two small black eyes"
+            },
+            {
+              "part": "star",
+              "detail": "twinkling star"
+            },
+            {
+              "part": "mouth",
+              "detail": "small mouth"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Cleffa_%28Pok%C3%A9mon%29",
+          "revision": 4610922,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "bfb2ba921ebce42a20351f6ad7f23f026c985c0ec82a1f426fd1ae0126563e02",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "casual",
+        "identityMode": "reference",
+        "cat": "active",
+        "expr": "laughing_open",
+        "pose": "mid_stride",
+        "orient": "turning_midmotion",
+        "frame": "full_body",
+        "lens": "documentary35",
+        "scene": "In a quiet roller-skating rink at late morning, taking one slow balanced skating step while gently turning toward camera, both empty hands open beside the body. Warm daylight on polished wooden floor, entire head hands and skates visible.",
+        "outfit": "Opaque pink sleeveless zip-front athletic crop vest and chocolate-brown high-waisted pleated tennis skirt over fitted shorts, white roller skates. Bare arms midriff and legs, tiny star hairpin.",
+        "custom": "Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        }
+      },
+      "prompt": "CHARACTER: the same woman as the attached image — Cleffa (삐) personified, fairy type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: mouth open wide in a laugh with teeth showing and cheeks raised, but the eyes stay open and engaged — lids only slightly narrowed, gaze still readable rather than squeezed shut\nPose: Capture a clear mid-stride step with believable weight transfer.\nOrientation: mid-turn body motion with equipment following its body mounts\nScene: In a quiet roller-skating rink at late morning, taking one slow balanced skating step while gently turning toward camera, both empty hands open beside the body. Warm daylight on polished wooden floor, entire head hands and skates visible.\nOutfit and props: Opaque pink sleeveless zip-front athletic crop vest and chocolate-brown high-waisted pleated tennis skirt over fitted shorts, white roller skates. Bare arms midriff and legs, tiny star hairpin.\nCategory: Show real movement with fashion-forward activewear or movement-oriented clothing. Avoid generic gym snapshots. Prioritize dynamic motion, readable silhouette, waist and hip lines, fabric movement, and varied action.\nNote: Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "generated original light_overdrive.png; canonical durable reference is img/삐_light_overdrive_glossy_promo_f.webp",
+      "source_sha256": "9c43e7e2bf9ea9fc093e6fd05f012d7840349f32ddb3368dc0438967f6327f96",
+      "file": "img/삐_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "6405dc032219b6ce509e183da796ff34705b6fef30c368dc7302375097eff57e",
+      "identity_anchor": "img/삐_light_glossy_promo_f.webp",
+      "reference": "img/삐_light_glossy_promo_f.webp",
+      "ui": {
+        "mech": "삐",
+        "sourceName": "Cleffa",
+        "series": "fairy",
+        "style": "glossy_promo",
+        "sourceAppearance": {
+          "name": "삐",
+          "en": "Cleffa",
+          "color": "pink",
+          "shape": "upright",
+          "features": [
+            {
+              "part": "tail",
+              "detail": "curled-up tail"
+            },
+            {
+              "part": "ear",
+              "detail": "brown ears"
+            },
+            {
+              "part": "eye",
+              "detail": "two small black eyes"
+            },
+            {
+              "part": "star",
+              "detail": "twinkling star"
+            },
+            {
+              "part": "mouth",
+              "detail": "small mouth"
+            }
+          ],
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Cleffa_%28Pok%C3%A9mon%29",
+          "revision": 4610922,
+          "retrieved": "2026-09-20",
+          "sourceTextHash": "bfb2ba921ebce42a20351f6ad7f23f026c985c0ec82a1f426fd1ae0126563e02",
+          "method": "text-descriptor-extraction-v1",
+          "formScope": "base/species overview",
+          "status": "extracted"
+        },
+        "params": [
+          [
+            "apparent age",
+            "20s"
+          ]
+        ],
+        "aspect": "2:3",
+        "outputMode": "action",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "light",
+        "scene": "On an empty hilltop observatory terrace under a clear violet night sky, upright balanced stance, face toward camera, both empty hands relaxed open beside her hips and fully outside the torso silhouette.",
+        "custom": "1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon."
+      },
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Cleffa (삐), fairy type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a soft pink glow with sparkles shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536. A clearly adult human woman in her twenties, mature face and natural adult proportions. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.\nEDIT CONSTRAINT: Openings reveal only mechanical inner frame and opaque undersuit. All chest and pelvis remain fully covered; no exposed skin in armor openings, no erotic emphasis. Change only armor seam opening and fairy glow; preserve original pose, camera, adult face and body."
+    }
+  ],
+  "qa": "Viewed generated outputs: adult identity, full body card framing, hands, armor opening matched poses, and three distinct lifestyle scenes."
+}

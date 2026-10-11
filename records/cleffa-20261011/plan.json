@@ -1,0 +1,49 @@
+{
+  "name": "삐",
+  "scene": "On an empty hilltop observatory terrace under a clear violet night sky, upright balanced stance, face toward camera, both empty hands relaxed open beside her hips and fully outside the torso silhouette.",
+  "casual": [
+    [
+      "adult_roleplay",
+      "confident",
+      "waving",
+      "front_3q",
+      "three_quarter",
+      "portrait85",
+      "In an empty art-deco planetarium foyer at blue hour, rehearsing a welcome gesture for an original adult celestial gala hostess event, one small wave beside her shoulder and the other hand relaxed near the waist. Brass lamps and a dark domed ceiling.",
+      "Original adult gala event costume: opaque rose satin corset-style halter bodice, short chocolate-brown asymmetrical skirt over lined fitted shorts, detached slim wrist cuffs and low heels. Bare shoulders, back, midriff and legs, secure chest and pelvis coverage, tiny star earrings."
+    ],
+    [
+      "occupation_basic",
+      "focused",
+      "bending_over",
+      "side",
+      "waist_up",
+      "natural50",
+      "In a bright ceramics studio on a rainy afternoon, side profile leaning over a raised workbench to gently brush glaze on a small unlettered ceramic star tile. Both hands visible apart at bench height, diffuse skylight and clay shelves.",
+      "Opaque cream sleeveless deep-square-neck linen blouse, high-waisted rust work trousers below crop, narrow brown waist apron. Bare arms shoulders and side waist, tiny pink bead bracelet."
+    ],
+    [
+      "active",
+      "laughing_open",
+      "mid_stride",
+      "turning_midmotion",
+      "full_body",
+      "documentary35",
+      "In a quiet roller-skating rink at late morning, taking one slow balanced skating step while gently turning toward camera, both empty hands open beside the body. Warm daylight on polished wooden floor, entire head hands and skates visible.",
+      "Opaque pink sleeveless zip-front athletic crop vest and chocolate-brown high-waisted pleated tennis skirt over fitted shorts, white roller skates. Bare arms midriff and legs, tiny star hairpin."
+    ]
+  ],
+  "comparison": {
+    "scope": "Latest three completed lifestyle plans reviewed locally; prior private paths and contents omitted from upload.",
+    "changed": [
+      "venue",
+      "activity",
+      "clothing silhouette",
+      "pose and framing"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
