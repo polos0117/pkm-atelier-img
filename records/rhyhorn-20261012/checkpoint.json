@@ -112,7 +112,7 @@
       "format": "WEBP",
       "reference": "light",
       "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
-      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration. Fixed empty WebP encoding after workflow caught it; decoded pixel verification passed."
     },
     "casual3": {
       "original": "/workspace/scratch/f552c883aba4/generated_images/exec-791a13a1-449b-4306-a019-aa14ab92642a.png",
