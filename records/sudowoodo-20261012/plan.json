@@ -1,0 +1,55 @@
+{
+  "name": "꼬지모",
+  "slug": "sudowoodo",
+  "hair": "brown",
+  "eye": "green",
+  "cut": "braid",
+  "body": "toned",
+  "light": "At a dry ochre rock garden, a grounded adult woman with a poised front three-quarter stance, face toward camera. Rich brown rock-enamel plates, yellow oval markings and small green spherical ornamental details, branch-like hair ornaments as costume, human skin. No tree creature beside her. Full head and boots inside the frame.",
+  "comparison": {
+    "reviewed": [
+      "마릴리",
+      "마릴",
+      "아르코"
+    ],
+    "scope": "Read current main three latest completed character plans: Azumarill, Marill, Bellossom. Avoid seaside sunroom, railway suitcase, berry bakery, bouquet boutique, pavilion hairclip, rainforest map, lake dock, model workshop, canal inspection.",
+    "changed": [
+      "location",
+      "specific activity",
+      "outfit silhouette",
+      "composition"
+    ]
+  },
+  "casual": [
+    {
+      "category": "adult_roleplay",
+      "expression": "confident",
+      "pose": "standing_formal",
+      "orientation": "low_angle",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "At an empty desert geology museum evening event, standing beside a waist-high stone plinth and presenting a polished geode with one open palm, the other hand relaxed beside her thigh. Full figure and heels, warmly lit amber glass walls, no visitors.",
+      "outfit": "Original adult museum gala hostess fashion: opaque bronze halter mini dress with asymmetrical structured hem and secure fitted neckline, dark brown ankle-strap heels, small green bead earrings. Bare shoulders back arms and legs. Tiny oval yellow brooch, no large costume ornaments."
+    },
+    {
+      "category": "hobbies_leisure",
+      "expression": "focused",
+      "pose": "mid_action",
+      "orientation": "side",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "In a daylight printmaking loft, standing at a worktable pressing a small wooden stamp onto plain cream paper, her other hand resting well apart on the paper edge. Readable face in profile, both wrists and five-finger hands shown, warm noon window light and ink rollers.",
+      "outfit": "Opaque yellow square-neck short camisole with broad brown straps and high-waisted wide linen pants below crop. Bare shoulders arms and a strip of midriff. A tiny green bead bracelet only."
+    },
+    {
+      "category": "travel_exploration",
+      "expression": "curious",
+      "pose": "sitting_floor",
+      "orientation": "front_3q",
+      "frame": "three_quarter",
+      "lens": "wide24",
+      "scene": "At a dry sandstone canyon lookout at sunrise, seated on a woven mat with legs folded loosely to one side, sorting three smooth pebbles by shape on a low flat rock. Hands separated with palms readable, full head to above knees. Sandy canyon depth and long warm shadows.",
+      "outfit": "Opaque terracotta sleeveless utility short romper with secure cream front zipper, short legs, open light yellow scarf over one shoulder and flat trail sandals. Bare arms shoulders legs. Small green spherical zipper charm."
+    }
+  ]
+}
