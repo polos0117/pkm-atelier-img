@@ -1,0 +1,175 @@
+{
+  "assets": [
+    {
+      "slot": "light",
+      "card": "고오스",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-9ab02ccc-92e4-4189-ac04-ed2bdc0670d9.png",
+      "reference": null,
+      "output": "img/고오스_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 552972,
+      "sha256": "38c9569c0bdd77db64930452a1197980c88fce129939209710ce0ae63223bfab",
+      "prompt": "records/gastly-20261011/light.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "heavy",
+      "card": "고오스",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-62fa17de-6053-4a31-9c64-b7a763360f3c.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-9ab02ccc-92e4-4189-ac04-ed2bdc0670d9.png",
+      "output": "img/고오스_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 557620,
+      "sha256": "032434a0cc5ddae8a9acc75a18e38e1a1aa8e9d7e8c443c5cc29ba1afa1f33e4",
+      "prompt": "records/gastly-20261011/heavy.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "mobility",
+      "card": "고오스",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-efd011a9-3c34-4279-a6a8-10ba341ac7fe.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-9ab02ccc-92e4-4189-ac04-ed2bdc0670d9.png",
+      "output": "img/고오스_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 556712,
+      "sha256": "343fdc61c48317ddd7b2cf9a2bd13ab590189817c6be43674459cd215a717a64",
+      "prompt": "records/gastly-20261011/mobility.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "light_overdrive",
+      "card": "고오스",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-bebe9a59-6590-404a-927e-9be23c8c0a78.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-9ab02ccc-92e4-4189-ac04-ed2bdc0670d9.png",
+      "output": "img/고오스_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 557902,
+      "sha256": "690e6665747c7c1e6f9e164be547ee9592ebfc0d69b1d289057a6a017ac65912",
+      "prompt": "records/gastly-20261011/light_overdrive.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "card": "고오스",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-bcac0dfe-495e-4d0e-b9dd-68f2aa31f654.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-62fa17de-6053-4a31-9c64-b7a763360f3c.png",
+      "output": "img/고오스_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 613638,
+      "sha256": "6503c42650172e08e8f9b4700206adc1f9df5a0540491fad606c30701bcf7d41",
+      "prompt": "records/gastly-20261011/heavy_overdrive.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "card": "고오스",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-b9b42ab6-2170-4970-b847-d88cb2aeca5f.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-efd011a9-3c34-4279-a6a8-10ba341ac7fe.png",
+      "output": "img/고오스_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 591998,
+      "sha256": "a3494a8ebfee9795ba1e294032ff8446775927471fc990ab44f6f22db568d788",
+      "prompt": "records/gastly-20261011/mobility_overdrive.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "casual1",
+      "card": "고오스",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-19a6dfda-e8a3-4d9c-92e4-aa332c2dea75.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-9ab02ccc-92e4-4189-ac04-ed2bdc0670d9.png",
+      "output": "img/고오스_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 447192,
+      "sha256": "7ef6ac756d0b805eed35d00b15fd9a18901a089f9830fa0aace7ec719efa53fe",
+      "prompt": "records/gastly-20261011/casual1.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "casual2",
+      "card": "고오스",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-74a7bbab-27cf-471b-b77a-434a452d8d2d.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-9ab02ccc-92e4-4189-ac04-ed2bdc0670d9.png",
+      "output": "img/고오스_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 420144,
+      "sha256": "25f825a45e12058955b67e09eed5bdde45e3dce5cd7a5a98fcc43ff2d645a8d0",
+      "prompt": "records/gastly-20261011/casual2.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "casual3",
+      "card": "고오스",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-26cff5ff-78cd-4400-8cad-e22f23378d28.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-9ab02ccc-92e4-4189-ac04-ed2bdc0670d9.png",
+      "output": "img/고오스_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 676286,
+      "sha256": "5d6bfb4a22a7f5847261bfefec7cef7dff88aa44f53ebee0049027c0879073fc",
+      "prompt": "records/gastly-20261011/casual3.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "고오스",
+  "slug": "gastly",
+  "scene": "At a quiet moonlit stone observatory terrace with violet atmospheric haze well behind her, upright standing card pose, face toward camera, both empty hands open beside her hips and separate from her torso.",
+  "casual": [
+    {
+      "cat": "lingerie",
+      "expr": "soft_smile",
+      "pose": "sitting_floor",
+      "orient": "front_3q",
+      "frame": "three_quarter",
+      "lens": "documentary35",
+      "scene": "In a cozy home cinema corner at dusk, seated comfortably on a rug beside a small vintage film projector on a low stand, carefully turning the focus knob with one hand while the other supports a loose film reel on her lap. Violet window light and a warm floor lamp, both hands distinct.",
+      "outfit": "Fully opaque lined black satin midi lounge slip with a secure high neckline and broad straps, under a loose violet cotton robe with three-quarter sleeves. Violet lace trims over opaque backing, bare forearms and lower legs; tiny violet ribbon hairpin replacing armored hair fins, no armor."
+    },
+    {
+      "cat": "occupation_basic",
+      "expr": "curious",
+      "pose": "carrying_something",
+      "orient": "leaning_forward",
+      "frame": "waist_up",
+      "lens": "telephoto135",
+      "scene": "In a botanical fragrance laboratory at bright midday, leaning forward slightly at a low workbench and evaluating a blank paper scent strip held at chest height, while her other hand steadies a small unlabelled glass bottle. Face visible in three-quarter view; leafy window, amber bottles, clean daylight, both hands readable.",
+      "outfit": "Opaque sleeveless charcoal high-neck fitted blouse with a plum high-waisted pleated skirt below crop and a narrow waist apron. Bare arms shoulders and a small side waist gap, two tiny fang-shaped pendant accents, no armor or metallic hair fins."
+    },
+    {
+      "cat": "travel_exploration",
+      "expr": "half_smile",
+      "pose": "adjusting_bag",
+      "orient": "turning_midmotion",
+      "frame": "environmental",
+      "lens": "wide24",
+      "scene": "At a covered old-city tram platform in a rainy neon-lit evening, mid-turn while adjusting the strap of a compact crossbody travel bag, the other hand relaxed open near her side. Wide environmental view includes her entire body and boots, tram headlights and rain behind the shelter, no other people or signage.",
+      "outfit": "Opaque sleeveless plum fit-and-flare knee-length travel dress with secure boat neckline, black ankle boots and a compact soft black crossbody bag. Bare shoulders arms and lower legs, tiny violet ribbon in her unchanged hairstyle, no armor or metallic hair fins."
+    }
+  ],
+  "style": "glossy_promo",
+  "casualAxes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "characters": [
+      "레어코일",
+      "꼬리선",
+      "야부엉"
+    ],
+    "records": [
+      "records/magneton-20261011",
+      "records/furret-20261011",
+      "records/noctowl-20261011"
+    ],
+    "avoided": [
+      "railway yard travel",
+      "jewelry sorting in dressing alcove",
+      "aerial yoga stretch",
+      "ferry terminal map",
+      "laundry towel folding",
+      "pottery workshop",
+      "midnight stage magic",
+      "print archive restoration",
+      "lantern tassel courtyard"
+    ],
+    "changes": [
+      "venue",
+      "concrete activity",
+      "clothing silhouette",
+      "pose and framing"
+    ],
+    "additionalBatchComparison": [
+      "셀러",
+      "파르셀"
+    ]
+  }
+}

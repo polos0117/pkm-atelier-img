@@ -1,0 +1,37 @@
+{
+  "character": "고오스",
+  "slug": "gastly",
+  "approvedLight": {
+    "slot": "light",
+    "card": "고오스",
+    "style": "glossy_promo",
+    "gender": "f",
+    "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-9ab02ccc-92e4-4189-ac04-ed2bdc0670d9.png",
+    "reference": null,
+    "output": "img/고오스_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "bytes": 552972,
+    "sha256": "38c9569c0bdd77db64930452a1197980c88fce129939209710ce0ae63223bfab",
+    "prompt": "records/gastly-20261011/light.txt",
+    "uiVerified": true,
+    "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+  },
+  "generated": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "status": "reviewed, upload pending",
+  "imageRepo": "polos0117/pkm-atelier-img",
+  "codeRepo": "polos0117/pkm-atelier"
+}
