@@ -1,0 +1,21 @@
+{
+  "character": "토게틱",
+  "count": 9,
+  "status": "generated_verified_ready_for_upload",
+  "canonical_reference": "img/토게틱_light_glossy_promo_f.webp",
+  "canonical_sha256": "7970e5663f22643b86f8e766fa15b972f73c5ee01793e68ce497e19e2879ad3a",
+  "assets": [
+    "토게틱_light_glossy_promo_f.webp",
+    "토게틱_heavy_glossy_promo_f.webp",
+    "토게틱_mobility_glossy_promo_f.webp",
+    "토게틱_light_overdrive_glossy_promo_f.webp",
+    "토게틱_heavy_overdrive_glossy_promo_f.webp",
+    "토게틱_mobility_overdrive_glossy_promo_f.webp",
+    "토게틱_glossy_promo_f_casual1.webp",
+    "토게틱_glossy_promo_f_casual2.webp",
+    "토게틱_glossy_promo_f_casual3.webp"
+  ],
+  "ui_selected_and_verified": true,
+  "generated_with": "built-in imagegen",
+  "retained_source": "Generated PNG images plus final WebP files in image repository; canonical continuing reference is the uploaded light WebP."
+}

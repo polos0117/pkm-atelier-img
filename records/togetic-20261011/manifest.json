@@ -1,0 +1,155 @@
+[
+  {
+    "card": "토게틱",
+    "slot": "light",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-fab04f61-25e3-422e-89a9-e347d7c391bc.png",
+    "source_sha256": "1ac3a4d4248aeeb6b8ccccdb0174451693c689afd43253621322a11f5db1b5c3",
+    "filename": "토게틱_light_glossy_promo_f.webp",
+    "sha256": "7970e5663f22643b86f8e766fa15b972f73c5ee01793e68ce497e19e2879ad3a",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": null,
+    "prompt_path": "prompts/light.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "토게틱",
+    "slot": "heavy",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-9bf41795-55bf-418c-82b1-7964578c9c20.png",
+    "source_sha256": "0f196e9ce1ae2fc1622abab8d15066e49502b5245f8184120b10069c46aaff78",
+    "filename": "토게틱_heavy_glossy_promo_f.webp",
+    "sha256": "e641a31d6665774e1b060be65faeee212cc1d73fcf3f3f47382fecb666241e20",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "prompt_path": "prompts/heavy.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "토게틱",
+    "slot": "mobility",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-5fa51b45-66d7-4095-9f7d-825956f9f338.png",
+    "source_sha256": "0cc37f8e57056dd01e5b71f1f71f454f3c9a3c736f517cf52dc32396514cf3b4",
+    "filename": "토게틱_mobility_glossy_promo_f.webp",
+    "sha256": "3b118db13d4078021fd97b0e4d4b53d6c61ec3cfdda9403dece1e0f49221e7bc",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "prompt_path": "prompts/mobility.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "토게틱",
+    "slot": "light_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-b7fc9da0-13f6-47f5-b54c-655faf2e68df.png",
+    "source_sha256": "78c28ab6e9fd1871823f413a1f668542417a9dbc0cc97e3f61f1f00206685ba2",
+    "filename": "토게틱_light_overdrive_glossy_promo_f.webp",
+    "sha256": "723d6ab6d729c6beaeff808361e13dcfa18d9e94bf54f5e69f3dde2b95892c97",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "prompt_path": "prompts/light_overdrive.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "토게틱",
+    "slot": "heavy_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-c561526a-4030-4fbe-859e-24aace44b246.png",
+    "source_sha256": "f5f845b12e154f1efc4be75689a91d29087fb8ca874bfc8dc1298fafc1393672",
+    "filename": "토게틱_heavy_overdrive_glossy_promo_f.webp",
+    "sha256": "bc53f3de4045502450fff53800e860ec28e3afa39a7b985689d9449a573859d1",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "heavy",
+    "prompt_path": "prompts/heavy_overdrive.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "토게틱",
+    "slot": "mobility_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-348f5a91-a05a-45df-b619-a692df7bbc12.png",
+    "source_sha256": "4932ad385bc25e0a6c3b691bc046c9ec05331370245009484acfac15e33095a5",
+    "filename": "토게틱_mobility_overdrive_glossy_promo_f.webp",
+    "sha256": "12517d5d560a4e40c4a93ffc1021388566b22c74a9642358c433941b0f459b91",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "mobility",
+    "prompt_path": "prompts/mobility_overdrive.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "토게틱",
+    "slot": "casual1",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-a13bbe68-0781-4879-a08a-f3e18d5feb62.png",
+    "source_sha256": "e7e56b594a0dd108ddd2d867aad9b4693918aebe6dbb4be0d33a2e8257d047f4",
+    "filename": "토게틱_glossy_promo_f_casual1.webp",
+    "sha256": "95422c6d1d18e7c2836a2892594c804815a2a4505032a7878d43617cc7885450",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "prompt_path": "prompts/casual1.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "토게틱",
+    "slot": "casual2",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-4d46da23-c48d-4527-80d5-d69dd735a956.png",
+    "source_sha256": "ab224a4e9e422e13adceea7bcb4f913859b7c8c67ac43067253ccb851d274064",
+    "filename": "토게틱_glossy_promo_f_casual2.webp",
+    "sha256": "8ab21b6cbcb1bed5190beefdea9269fd896042d7800325c05af9f734fada682f",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "prompt_path": "prompts/casual2.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  },
+  {
+    "card": "토게틱",
+    "slot": "casual3",
+    "style": "glossy_promo",
+    "gender": "f",
+    "generated_source": "exec-60a70a47-0a91-4337-b4e8-c7bf382c327b.png",
+    "source_sha256": "12aac0bee9031ec879430f3319ad6b1928e50dcc84ad23f3a9aae26d215b0d91",
+    "filename": "토게틱_glossy_promo_f_casual3.webp",
+    "sha256": "219d2be8a4919a2be8ff9f219443dbb5315f520e3dff96063e9a3b135fdf6846",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "prompt_path": "prompts/casual3.txt",
+    "inspection": "Single adult woman; matching identity; no weapon/text/logo; hands and framing visually reviewed."
+  }
+]

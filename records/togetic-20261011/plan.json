@@ -1,0 +1,54 @@
+{
+  "name": "토게틱",
+  "lightCustom": "Clearly adult woman in her twenties. Pearl-white sleek armor with crisp red and blue hollow triangular enamel markings and a small wing-shaped shoulder mantle. Silver-white bob haircut, blue eyes, elegant adult features. Both human hands entirely visible with five distinct fingers each. No weapons.",
+  "casual": [
+    [
+      "adult_roleplay",
+      "playful",
+      "dance_step",
+      "turning_midmotion",
+      "full_body",
+      "documentary35",
+      "On an empty white-marble theater stage during evening dress rehearsal, taking a small graceful dance step for a wind-themed adult stage event. Warm spotlights and blue curtains; both empty hands open away from the body, entire head hands and shoes visible.",
+      "Original adult sky-courier event fashion: opaque fitted white halter bodice with a secure plunging neckline, red high-waisted short split overskirt over fully lined blue fitted shorts, white ankle boots. Bare shoulders arms back side waist and legs. Tiny red-blue triangle hairclip. No armor, wings or workplace logos."
+    ],
+    [
+      "hobbies_leisure",
+      "focused",
+      "sitting",
+      "side",
+      "waist_up",
+      "portrait85",
+      "Inside a sunny window-seat music room at late morning, seated side-on playing a small wooden tabletop keyboard, both hands separately resting on widely separated keys with natural fingers. Cream curtains and sheetless music stand; face unobstructed.",
+      "Opaque ivory sleeveless square-neck knit top with a red tie waist opening, cobalt wide-leg linen trousers below the crop, small triangle pendant. Bare shoulders arms and side waist. No armor."
+    ],
+    [
+      "travel_exploration",
+      "surprised",
+      "taking_photo",
+      "front_3q",
+      "three_quarter",
+      "wide24",
+      "At a quiet coastal lighthouse balcony at windy sunrise, raising a compact camera at chest height to photograph the horizon while looking toward the viewer with delighted surprise. Both hands grip opposite camera edges, face and fingers visible, weathered stone and deep blue sea.",
+      "Opaque cobalt-blue sleeveless wrap mini dress with secure cross-over neckline and ivory piping, tan sandals, tiny red triangle earrings. Bare shoulders arms legs and narrow side-waist gap. No armor."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "삐",
+      "푸푸린",
+      "토게피"
+    ],
+    "changed": [
+      "location",
+      "activity",
+      "clothing silhouette",
+      "composition"
+    ],
+    "scope": "Reviewed all three latest completed plans and submitted prompts; this batch also compared between characters."
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
