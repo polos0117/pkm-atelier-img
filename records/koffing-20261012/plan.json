@@ -1,0 +1,60 @@
+{
+  "name": "또가스",
+  "slug": "koffing",
+  "hair": "lavender",
+  "eye": "teal",
+  "cut": "bob",
+  "body": "athletic",
+  "motifs": "Rounded purple shell shapes become curved shoulder plates, a sculpted breastplate and hip panels; short geyser-shaped protrusions become small blunt vent ridges on plate edges. Its cream skull-and-crossbones marking is a decorative painted motif across the breastplate, not lettering. No creature head or carried sphere.",
+  "light": "In an empty atmospheric industrial courtyard at violet dusk, the adult woman stands in a balanced front three-quarter guard, open empty hands well apart. Glossy violet curved slim armor with cream decorative markings and subtle small vent ridges. Full body and footwear with margins.",
+  "casual": [
+    [
+      "adult_roleplay",
+      "mischievous",
+      "dance_step",
+      "front_3q",
+      "three_quarter",
+      "natural50",
+      "In an empty neon cabaret rehearsal room, marking a lively dance step beside a velvet curtain, both hands open at different heights clear of her body. Late-night magenta and cyan stage light.",
+      "Original stage-assistant event fashion: securely lined purple satin corset-style bodice, short cream asymmetrical skirt over fitted opaque shorts, sheer black tights and ankle boots. Bare shoulders arms and upper chest, tiny skull earring."
+    ],
+    [
+      "occupation_basic",
+      "focused",
+      "bending_over",
+      "side",
+      "waist_up",
+      "documentary35",
+      "At a screen-printing workshop on a cloudy afternoon, leaning slightly toward an ink tray while lifting a blank print frame with two hands at widely separated corners. Side torso, face turned to viewer, hands fully readable; lavender ink, concrete and diffuse windows.",
+      "Opaque charcoal sleeveless zip-front fitted top, low-slung lavender utility trousers and cream waist apron. Bare arms shoulders and a narrow midriff, small round pin."
+    ],
+    [
+      "active",
+      "relieved",
+      "stretching",
+      "front",
+      "environmental",
+      "wide24",
+      "On an empty urban rooftop at sunrise after a workout, stretching the arms outward at chest height with open relaxed hands, feet planted, face toward camera. Skyline under amber dawn. Whole body and ample rooftop context.",
+      "Opaque lavender racerback sports bra with secure cream band, high-waisted charcoal cycling shorts, white sneakers. Bare midriff arms and lower legs; small violet wristband."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "아르코",
+      "아라리",
+      "탕구리"
+    ],
+    "scope": "Bellossom plan read; six Exeggcute and Cubone casual images visually compared. Earlier plans in this batch also compared.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
