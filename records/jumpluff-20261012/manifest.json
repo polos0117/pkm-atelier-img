@@ -1,0 +1,128 @@
+[
+  {
+    "slot": "light",
+    "source": "exec-cf508670-1b03-41f4-ab82-2497fc2c159d.png",
+    "file": "솜솜코_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "7c9f4f32fed16084ea9d710134c0e9423e0ef95bd12691076de1dfbd7d9284c8",
+    "reference": null,
+    "prompt": "light-prompt.txt",
+    "review": "single adult woman, identity and framing checked, hands readable, paired pose retained"
+  },
+  {
+    "slot": "heavy",
+    "source": "exec-739efca8-6273-4013-8403-1b4e70fea988.png",
+    "file": "솜솜코_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "449175a2557321c44d824665cb744e3ffc72f1fb0d2792baabb47c66cf68a9ae",
+    "reference": "light",
+    "prompt": "heavy-prompt.txt",
+    "review": "single adult woman, identity and framing checked, hands readable, paired pose retained"
+  },
+  {
+    "slot": "mobility",
+    "source": "exec-4a2c9bc1-69d5-4317-8f96-e31ad3fa92fe.png",
+    "file": "솜솜코_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "8627bd99bdf1e3a26a7b01b7a26d74564da1830d7ff4670dc4ac9b5bac67d1e2",
+    "reference": "light",
+    "prompt": "mobility-prompt.txt",
+    "review": "single adult woman, identity and framing checked, hands readable, paired pose retained"
+  },
+  {
+    "slot": "light_overdrive",
+    "source": "exec-21a22942-306b-4b93-b8cd-d39a549a821d.png",
+    "file": "솜솜코_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "b0258a265c3cdb1cf2615fa7897fd0390a8c2d5f93177cd370705ed4a7c08674",
+    "reference": "light",
+    "prompt": "light_overdrive-prompt.txt",
+    "review": "single adult woman, identity and framing checked, hands readable, paired pose retained"
+  },
+  {
+    "slot": "heavy_overdrive",
+    "source": "exec-58fb1342-583c-4328-a49a-9a2403d9b56c.png",
+    "file": "솜솜코_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "85dcc639bee16736ff587be3c14139fbebf844d7acff18186dc7c4d2f9fbe05a",
+    "reference": "heavy",
+    "prompt": "heavy_overdrive-prompt.txt",
+    "review": "single adult woman, identity and framing checked, hands readable, paired pose retained"
+  },
+  {
+    "slot": "mobility_overdrive",
+    "source": "exec-16b7c129-ede5-4529-b2db-fff40412b5ef.png",
+    "file": "솜솜코_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "ca25c3a295c7e37f79146820776b7deb5933c855902575a4f58f09b33db42c39",
+    "reference": "mobility",
+    "prompt": "mobility_overdrive-prompt.txt",
+    "review": "single adult woman, identity and framing checked, hands readable, paired pose retained"
+  },
+  {
+    "slot": "casual1",
+    "source": "exec-04a8ead4-b9ba-4e67-9d24-e6e1b62deee6.png",
+    "file": "솜솜코_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "6cb5311afee826368089056e74f2690be2154e215be6d2302fed233276075d0f",
+    "reference": "light",
+    "prompt": "casual1-prompt.txt",
+    "review": "single adult woman, identity and framing checked, hands readable, paired pose retained"
+  },
+  {
+    "slot": "casual2",
+    "source": "exec-fde6f52b-445b-459d-8479-f2b85c7c4ab9.png",
+    "file": "솜솜코_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "cd18f93201857a58e4c469d09752c349f92ded302b6aad932fa62c6954d3c51d",
+    "reference": "light",
+    "prompt": "casual2-prompt.txt",
+    "review": "single adult woman, identity and framing checked, hands readable, paired pose retained"
+  },
+  {
+    "slot": "casual3",
+    "source": "exec-2aa27c19-7cf7-41ce-984e-359e92193968.png",
+    "file": "솜솜코_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "7a79765e62eaf7aca154dbe1ca2e88c206f49653bcbfea729aa0bf931cceefb2",
+    "reference": "light",
+    "prompt": "casual3-prompt.txt",
+    "review": "single adult woman, identity and framing checked, hands readable, paired pose retained"
+  }
+]

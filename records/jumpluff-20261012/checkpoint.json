@@ -1,0 +1,20 @@
+{
+  "complete": 9,
+  "requested": 9,
+  "canonical": {
+    "slot": "light",
+    "source": "exec-cf508670-1b03-41f4-ab82-2497fc2c159d.png",
+    "file": "솜솜코_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "7c9f4f32fed16084ea9d710134c0e9423e0ef95bd12691076de1dfbd7d9284c8",
+    "reference": null,
+    "prompt": "light-prompt.txt",
+    "review": "single adult woman, identity and framing checked, hands readable, paired pose retained"
+  },
+  "status": "validated before upload",
+  "reference_recovery": "use canonical file in the image repository"
+}

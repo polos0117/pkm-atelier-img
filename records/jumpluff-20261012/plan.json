@@ -1,0 +1,63 @@
+{
+  "name": "솜솜코",
+  "slug": "jumpluff",
+  "style": "glossy_promo",
+  "age": "20s",
+  "source": "actual prompt generator UI",
+  "comparison": {
+    "reviewed": [
+      "통통코",
+      "럭키",
+      "코뿌리",
+      "두코"
+    ],
+    "changed": [
+      "location",
+      "activity",
+      "silhouette",
+      "composition"
+    ]
+  },
+  "casual": [
+    {
+      "category": "occupation_basic",
+      "expression": "focused",
+      "pose": "carrying_something",
+      "orientation": "side",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "time": "morning",
+      "lighting": "cool window light",
+      "scene": "At a seed archive counter inside a bright botanical research library in cool morning light, carefully placing a small closed seed jar beside a wooden tray with one hand while the other rests separately on the counter. Side profile with readable face and both hands, blank jar without lettering, no other figures.",
+      "outfit": "Opaque cobalt sleeveless cropped high-neck utility vest with cream piping, white high-waisted linen trousers, tiny cotton-puff stud earrings. Bare shoulders arms and midriff; no armor or giant pompom decorations."
+    },
+    {
+      "category": "swimwear",
+      "expression": "relieved",
+      "pose": "mid_stride",
+      "orientation": "front_3q",
+      "frame": "environmental",
+      "lens": "wide24",
+      "time": "sunrise",
+      "lighting": "peach sunlight",
+      "scene": "Walking barefoot at the waterline of an empty wide sandbar at peach sunrise, after a peaceful swim, one hand carrying a small rolled cotton towel low beside her hip and the other relaxed apart. Wide environmental frame with entire woman head hands and feet, gentle ripples, no other people or creatures.",
+      "outfit": "Opaque fully lined cobalt blue halter two-piece swimsuit with cream narrow trim, secure top and high-waisted full-coverage swim briefs. Bare shoulders arms midriff and legs; tiny cotton-puff pendant, no armor."
+    },
+    {
+      "category": "hobbies_leisure",
+      "expression": "amused",
+      "pose": "kneeling",
+      "orientation": "high_angle",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "time": "evening",
+      "lighting": "warm lamp",
+      "scene": "On a thick rug in a private wood-lined listening room at warm evening, kneeling comfortably while choosing an unlettered vinyl record from its sleeve, one hand touching the outer rim and the other holding the plain sleeve apart. High camera angle showing face hands and above knees, amber floor lamp and record player, no reflection or other figures.",
+      "outfit": "Opaque cream short-sleeve open-collar fitted cropped shirt, cobalt high-waisted soft lounge shorts, tiny blue seed-shaped hairclip. Bare arms midriff and legs; no armor."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
