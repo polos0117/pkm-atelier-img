@@ -1,0 +1,49 @@
+{
+  "name": "킹크랩",
+  "hair": "red",
+  "eye": "amber",
+  "hairstyle": "ponytail",
+  "wear": "Coral-red and warm ivory armor: six slender shell-spike accents become a small crown-like hair ornament; crab shell curves become shoulder and hip plate contours; the large left claw becomes a broad rounded LEFT forearm guard around a fully separate normal human hand, the right guard stays slimmer. Keep both human hands with five fingers; no pincers or carried claws.",
+  "scene": "On a deserted salt-white coastal breakwater at sunrise, balanced upright card stance, face toward camera, both empty open hands separated from torso, complete boots visible.",
+  "casual": [
+    [
+      "adult_roleplay",
+      "confident",
+      "contrapposto",
+      "front_3q",
+      "full_body",
+      "portrait85",
+      "At an empty art-deco ocean-liner cabaret stage before an evening performance, standing in contrapposto and presenting both open hands at hip height; coral velvet curtains, ivory spotlight and brass floor trim.",
+      "Original adult nautical revue costume: opaque ivory halter-neck fitted bodice with coral curved seams, bare shoulders and a secure waist cutout, coral high-waisted asymmetric short skirt over opaque shorts, tall ivory boots and small crown-shaped hair clip."
+    ],
+    [
+      "hobbies_leisure",
+      "focused",
+      "bending_over",
+      "side",
+      "waist_up",
+      "natural50",
+      "In a bright coastal sculpture studio at noon, side profile leaning over a waist-high bench to smooth the rim of a large unfired ceramic bowl; both complete hands visible at opposite sides of its rim, kiln and clay shelves behind.",
+      "Coral sleeveless square-neck crop top with opaque lining, ivory wide-leg linen trousers below crop, short waist apron, bare arms shoulders and midriff, tiny shell stud earrings."
+    ],
+    [
+      "travel_exploration",
+      "surprised",
+      "walking",
+      "high_angle",
+      "three_quarter",
+      "documentary35",
+      "In a deserted windswept dune flower reserve after late afternoon rain, walking toward a flowering patch while looking at a butterfly outside the frame, both open hands lifted slightly for balance; sand path and pale beach grass.",
+      "Ivory sleeveless utility romper with secure front zip, short legs, coral sash and open short linen vest, bare arms shoulders legs and small side waist openings; tiny crown pendant."
+    ]
+  ],
+  "comparison": {
+    "characters": [
+      "크랩",
+      "슬리퍼",
+      "슬리프"
+    ],
+    "source": "Read current records krabby, hypno, drowzee plans: tidal survey, harbor preserves, shower pavilion, clock gala, stair fitness, acoustic lab, hammock, sleeper train, lantern dance.",
+    "changes": "Changed place, concrete activity, clothing silhouette and composition. Rotated adult_roleplay, lingerie, swimwear and compared all nine current plans."
+  }
+}

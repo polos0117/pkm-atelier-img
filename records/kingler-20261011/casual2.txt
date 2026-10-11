@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Kingler (킹크랩) personified, water type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed
+Pose: Bend forward slightly to examine or reach a low object with a balanced stance.
+Orientation: side body profile, approximately 90 degrees to camera
+Scene: In a bright coastal sculpture studio at noon, side profile leaning over a waist-high bench to smooth the rim of a large unfired ceramic bowl; both complete hands visible at opposite sides of its rim, kiln and clay shelves behind.
+Outfit and props: Coral sleeveless square-neck crop top with opaque lining, ivory wide-leg linen trousers below crop, short waist apron, bare arms shoulders and midriff, tiny shell stud earrings.
+Category: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.
+Note: Vertical 2:3, 1024x1536. Same clearly adult woman, both complete hands visible with exactly five distinct natural fingers each. No armor, weapons, text, logos or other people.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

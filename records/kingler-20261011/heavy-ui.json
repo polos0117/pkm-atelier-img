@@ -1,0 +1,189 @@
+{
+  "controls": [
+    {
+      "id": "search",
+      "value": ""
+    },
+    {
+      "id": "group",
+      "value": ""
+    },
+    {
+      "id": "source",
+      "value": "킹크랩"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo"
+    },
+    {
+      "id": "identity-mode",
+      "value": "reference"
+    },
+    {
+      "id": "form",
+      "value": "heavy"
+    },
+    {
+      "id": "form-override",
+      "value": ""
+    },
+    {
+      "id": "motifs",
+      "value": ""
+    },
+    {
+      "id": "expression",
+      "value": ""
+    },
+    {
+      "id": "action-category",
+      "value": ""
+    },
+    {
+      "id": "action-example",
+      "value": ""
+    },
+    {
+      "id": "action-timing",
+      "value": ""
+    },
+    {
+      "id": "action-equipment",
+      "value": ""
+    },
+    {
+      "id": "action-power",
+      "value": ""
+    },
+    {
+      "id": "action-effects",
+      "value": ""
+    },
+    {
+      "id": "action-speed",
+      "value": ""
+    },
+    {
+      "id": "action-environment",
+      "value": ""
+    },
+    {
+      "id": "pose",
+      "value": ""
+    },
+    {
+      "id": "orientation",
+      "value": ""
+    },
+    {
+      "id": "frame",
+      "value": ""
+    },
+    {
+      "id": "lens",
+      "value": ""
+    },
+    {
+      "id": "aspect",
+      "value": "2:3"
+    },
+    {
+      "id": "camera",
+      "value": ""
+    },
+    {
+      "id": "scene",
+      "value": "On a deserted salt-white coastal breakwater at sunrise, balanced upright card stance, face toward camera, both empty open hands separated from torso, complete boots visible."
+    },
+    {
+      "id": "outfit",
+      "value": ""
+    },
+    {
+      "id": "custom",
+      "value": "1024x1536. Clearly adult woman in her twenties. Both complete human hands visible, exactly five distinct natural fingers each, no fused or extra digits. No weapon."
+    }
+  ],
+  "storage": {
+    "last": "킹크랩",
+    "cards": {
+      "킹크랩": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "heavy",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "hair color": "red",
+          "eye color": "amber",
+          "hairstyle": "ponytail"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "On a deserted salt-white coastal breakwater at sunrise, balanced upright card stance, face toward camera, both empty open hands separated from torso, complete boots visible.",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "1024x1536. Clearly adult woman in her twenties. Both complete human hands visible, exactly five distinct natural fingers each, no fused or extra digits. No weapon.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  },
+  "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Kingler (킹크랩), water type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On a deserted salt-white coastal breakwater at sunrise, balanced upright card stance, face toward camera, both empty open hands separated from torso, complete boots visible.\nNote: 1024x1536. Clearly adult woman in her twenties. Both complete human hands visible, exactly five distinct natural fingers each, no fused or extra digits. No weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers."
+}

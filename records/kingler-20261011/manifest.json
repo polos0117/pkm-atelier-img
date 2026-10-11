@@ -1,0 +1,142 @@
+{
+  "name": "킹크랩",
+  "style": "glossy_promo",
+  "tool": "built-in image_gen",
+  "assets": {
+    "light": {
+      "source": "generated_images/exec-ea395703-cd4d-4afa-bf36-6c43b78950d4.png",
+      "source_sha256": "170c7b2333b420baf0cbdf094efb8667b3df3b96326767c2febb9c4c4f7f209a",
+      "filename": "킹크랩_light_glossy_promo_f.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/킹크랩_light_glossy_promo_f.webp",
+      "sha256": "c59bca608163d64788056f254bfc9d5e8c89f6ea66152dd638df543747214c2f",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": null,
+      "prompt": "light.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "heavy": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-f2d699a7-2604-4aed-906e-3d1dd77b15b7.png",
+      "source_sha256": "e96b5deb651beca6b0183645e66772d46806ab78b719e79e5538b258125cb752",
+      "filename": "킹크랩_heavy_glossy_promo_f.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/킹크랩_heavy_glossy_promo_f.webp",
+      "sha256": "5c7eddab75cf1d40fabc87c6200f33cba99081e52279a6876d7e52d149b77742",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "prompt": "heavy.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "mobility": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-0d87becd-3c90-4788-b62b-cbaddd1cbb23.png",
+      "source_sha256": "9caf3022322a4da60d55b801692c520b872279c3482b7accc742f5892da72b9a",
+      "filename": "킹크랩_mobility_glossy_promo_f.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/킹크랩_mobility_glossy_promo_f.webp",
+      "sha256": "be484441d86fd882b7f4c90190d6f33bbc6b34326acdcedd0255ed04b9b86038",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "prompt": "mobility.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "light_overdrive": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-85299ef7-66c1-4516-baf2-a35ca30736f1.png",
+      "source_sha256": "27b13b0be2dd2b199229c4294fdf17e9a20a4ff35ef8544176afe2c7f9fd6956",
+      "filename": "킹크랩_light_overdrive_glossy_promo_f.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/킹크랩_light_overdrive_glossy_promo_f.webp",
+      "sha256": "9ecddeadaa3d2ed4cdca7f500261cd37231b350cc3a88e77e177e30c79b6b8bb",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "prompt": "light_overdrive.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "heavy_overdrive": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-06266ffe-75ce-44a9-a895-96f804a6bd08.png",
+      "source_sha256": "4f2ef03e48f57881ab28fa7fa223fa19899786d5bfd62bc6b0dbb5ea6da25b96",
+      "filename": "킹크랩_heavy_overdrive_glossy_promo_f.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/킹크랩_heavy_overdrive_glossy_promo_f.webp",
+      "sha256": "a6b8af4066b34ca1dab67840155310c9c97ebddc32cf5da1daa9384dc2569881",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "heavy",
+      "prompt": "heavy_overdrive.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "mobility_overdrive": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-2995daf6-a76a-4842-9971-25b7e031e074.png",
+      "source_sha256": "7dba6260a7f607ec95827c8f3f677a1d8bcd153cbcb59b9374592e1d68559ae5",
+      "filename": "킹크랩_mobility_overdrive_glossy_promo_f.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/킹크랩_mobility_overdrive_glossy_promo_f.webp",
+      "sha256": "9a08a8f6346ff97ef65e70fb374ab296ae6430d73431b6d8b17c2af625b55602",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "mobility",
+      "prompt": "mobility_overdrive.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "casual1": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-244a0ad9-bd17-4844-96cd-55fcbf78862e.png",
+      "source_sha256": "f8393654e9e64a7aee30e9f4e7d120f35f401af8cfd4ec7d06b62478fc81fd1a",
+      "filename": "킹크랩_glossy_promo_f_casual1.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/킹크랩_glossy_promo_f_casual1.webp",
+      "sha256": "03ff74f774f4d9f8d85042e5a450b3fa0120484574d6fe94e57dbdd93e8e6834",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "prompt": "casual1.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "casual2": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-be103d5f-d46c-4522-a48c-0ae9517681b9.png",
+      "source_sha256": "a048fd2a864f6117c9f7005195b4cd3d2ba7896287bf85c866d34adc15e1db6d",
+      "filename": "킹크랩_glossy_promo_f_casual2.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/킹크랩_glossy_promo_f_casual2.webp",
+      "sha256": "74133693191064db3803c87bf47cba05b23441f9178bcab60cdc9aa1b34be874",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "prompt": "casual2.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    },
+    "casual3": {
+      "source": "/workspace/scratch/9c6f6cb87c92/generated_images/exec-c4054bad-c79d-4454-aaf6-e44743b95f11.png",
+      "source_sha256": "fa6407675fad0be3aa177419621e9a4de30354abcd52a5d26bf92decc6b35a68",
+      "filename": "킹크랩_glossy_promo_f_casual3.webp",
+      "output_path": "/workspace/scratch/9c6f6cb87c92/pkm-atelier-img/img/킹크랩_glossy_promo_f_casual3.webp",
+      "sha256": "9967a7c24c3fccb4acfcb5f105b755ab9eec4cffdc6d9b4268459ce4163d9e3f",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "prompt": "casual3.txt",
+      "inspection": "Visually reviewed identity, form, framing, hands and scene. Actual Preact UI controls captured before submission."
+    }
+  }
+}
