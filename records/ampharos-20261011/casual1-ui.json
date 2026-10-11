@@ -1,0 +1,67 @@
+{
+  "mech": "전룡",
+  "sourceName": "Ampharos",
+  "series": "electric",
+  "style": "glossy_promo",
+  "sourceAppearance": {
+    "name": "전룡",
+    "en": "Ampharos",
+    "color": "yellow",
+    "shape": "upright",
+    "features": [
+      {
+        "part": "stripe",
+        "detail": "black stripes"
+      },
+      {
+        "part": "tail",
+        "detail": "long, black-striped tail"
+      },
+      {
+        "part": "belly",
+        "detail": "white belly"
+      },
+      {
+        "part": "orb",
+        "detail": "red orb"
+      },
+      {
+        "part": "ring",
+        "detail": "several black rings"
+      },
+      {
+        "part": "ear",
+        "detail": "conical ears"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Ampharos_%28Pok%C3%A9mon%29",
+    "revision": 4615437,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "56c925b57aa2daa1c8a720ee79ded112e89c99651a12c7b3e379bd2d4ad5a8aa",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "travel_exploration",
+  "expr": "determined",
+  "pose": "checking_map",
+  "orient": "front_3q",
+  "frame": "environmental",
+  "lens": "documentary35",
+  "scene": "At an empty cliff-top coastal trail viewpoint in crisp sunrise light, standing upright studying a plain folded map supported at its two outer edges by both visible hands, face angled toward viewer, entire body and sandals visible with lighthouse far away.",
+  "outfit": "Yellow sleeveless fitted hiking tank with a secure high neck, black short utility skirt over opaque shorts, light open white long vest, flat hiking sandals. Bare arms shoulders and legs, tiny red bead compass charm.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people. Species only as a tiny accessory or color echo.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

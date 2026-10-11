@@ -1,0 +1,164 @@
+[
+  {
+    "card": "전룡",
+    "slot": "light",
+    "style": "glossy_promo",
+    "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-7f25532b-ff9c-4876-ab3e-51f89b7ae730.png",
+    "reference": null,
+    "source_sha256": "9ea9fedf06d762e9e202fe475cc30eb7046f4d12b59c31f4bd27b0a861bad6a0",
+    "filename": "전룡_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "d49a3f34c73899f1e168846b2eec2fea089c02b2603457f37384a3aeb0dc6bfc",
+    "prompt_file": "light.txt",
+    "ui_file": "light-ui.json",
+    "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+  },
+  {
+    "card": "전룡",
+    "slot": "heavy",
+    "style": "glossy_promo",
+    "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-920607e0-17af-4ea3-bdb2-0038809db370.png",
+    "reference": "exec-7f25532b-ff9c-4876-ab3e-51f89b7ae730.png",
+    "source_sha256": "32b943f95d5a12d694d357592f02edd89a2e6864acfb6b3a26b3a0a6e56d6566",
+    "filename": "전룡_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "ca102ab923a0c2ee31986440c803d853201be850165cbcda99302e00a796e51a",
+    "prompt_file": "heavy.txt",
+    "ui_file": "heavy-ui.json",
+    "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+  },
+  {
+    "card": "전룡",
+    "slot": "mobility",
+    "style": "glossy_promo",
+    "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-f58b56f5-971a-488b-9a33-39a2ef5131c5.png",
+    "reference": "exec-7f25532b-ff9c-4876-ab3e-51f89b7ae730.png",
+    "source_sha256": "1a8805ce84f192bc376ef8b52cde6ce9963bf69758260a4cbe0810b257225c1b",
+    "filename": "전룡_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "b67566444ab8ddb141b85ed0f4f7c1da912abaf1a67e1ff7a5ccdaed96906f5c",
+    "prompt_file": "mobility.txt",
+    "ui_file": "mobility-ui.json",
+    "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+  },
+  {
+    "card": "전룡",
+    "slot": "light_overdrive",
+    "style": "glossy_promo",
+    "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-e3190c9a-e6ac-4050-a876-0adafdc2bd61.png",
+    "reference": "exec-7f25532b-ff9c-4876-ab3e-51f89b7ae730.png",
+    "source_sha256": "84beb83f2f294682a781786ee922ce06ef17a003cf832c86ff19ef33a138f254",
+    "filename": "전룡_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "2edc9bf026999f1c5a826cd81d4826f8cef738927b4644aee261df3340d8b74b",
+    "prompt_file": "light_overdrive.txt",
+    "ui_file": "light_overdrive-ui.json",
+    "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+  },
+  {
+    "card": "전룡",
+    "slot": "casual1",
+    "style": "glossy_promo",
+    "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-c69cc62c-c5b3-4c1a-97a7-1e684960c106.png",
+    "reference": "exec-7f25532b-ff9c-4876-ab3e-51f89b7ae730.png",
+    "source_sha256": "4479a46c52d1c9884c51c4a3e10153265dcf4b5af9c06240159d444d3f6dbffa",
+    "filename": "전룡_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "d618a0b05ed8991a06e1415e95564cd56ab30959bc51418a43b22edea29a0db3",
+    "prompt_file": "casual1.txt",
+    "ui_file": "casual1-ui.json",
+    "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+  },
+  {
+    "card": "전룡",
+    "slot": "casual2",
+    "style": "glossy_promo",
+    "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-b4cc1614-4142-45da-9a93-573d48c2fbd8.png",
+    "reference": "exec-7f25532b-ff9c-4876-ab3e-51f89b7ae730.png",
+    "source_sha256": "147c4eb26ae4715df7e8f11256fbc58ec3da6985f876bef6e52f24d5b6759aba",
+    "filename": "전룡_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "8cd409201278022b0530b613b367afa43cd45a14e705d96744fab7c9bdbcd1a0",
+    "prompt_file": "casual2.txt",
+    "ui_file": "casual2-ui.json",
+    "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+  },
+  {
+    "card": "전룡",
+    "slot": "casual3",
+    "style": "glossy_promo",
+    "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-e0a426f5-ce24-4819-9d57-f759e74c7354.png",
+    "reference": "exec-7f25532b-ff9c-4876-ab3e-51f89b7ae730.png",
+    "source_sha256": "c25578e7876efca8029ee51bf7fb8fc869b25c4eb03d1a88b1c1ccf72bc8c7de",
+    "filename": "전룡_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "ca8ae9f86bc7272284410b9632089258406449f6c0903a821b5be4e2da3c4752",
+    "prompt_file": "casual3.txt",
+    "ui_file": "casual3-ui.json",
+    "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+  },
+  {
+    "card": "전룡",
+    "slot": "heavy_overdrive",
+    "style": "glossy_promo",
+    "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-656a30fc-c2dc-4c63-974d-da2f9e0fc4c0.png",
+    "reference": "exec-920607e0-17af-4ea3-bdb2-0038809db370.png",
+    "source_sha256": "f7915567e5d6d9a6dcc65cfeda1c3938f2995cc5acfa00683df341574c3720f4",
+    "filename": "전룡_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "510f287dd05a4e350a17419bd56168e4ef9d556a5b842daa83a39948d6331a34",
+    "prompt_file": "heavy_overdrive.txt",
+    "ui_file": "heavy_overdrive-ui.json",
+    "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+  },
+  {
+    "card": "전룡",
+    "slot": "mobility_overdrive",
+    "style": "glossy_promo",
+    "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-51e3d7eb-c01e-4a4e-b963-9403646ce5d0.png",
+    "reference": "exec-f58b56f5-971a-488b-9a33-39a2ef5131c5.png",
+    "source_sha256": "da31c7e537e3cf2aaa0b882bb02ad5fab5d62f02701da375ea6169683be3d0c9",
+    "filename": "전룡_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "e585645e977f493141b14411875d6b73ce5935c312a9a7404de932ad20378afa",
+    "prompt_file": "mobility_overdrive.txt",
+    "ui_file": "mobility_overdrive-ui.json",
+    "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+  }
+]

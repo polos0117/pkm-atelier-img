@@ -1,0 +1,67 @@
+{
+  "mech": "전룡",
+  "sourceName": "Ampharos",
+  "series": "electric",
+  "style": "glossy_promo",
+  "sourceAppearance": {
+    "name": "전룡",
+    "en": "Ampharos",
+    "color": "yellow",
+    "shape": "upright",
+    "features": [
+      {
+        "part": "stripe",
+        "detail": "black stripes"
+      },
+      {
+        "part": "tail",
+        "detail": "long, black-striped tail"
+      },
+      {
+        "part": "belly",
+        "detail": "white belly"
+      },
+      {
+        "part": "orb",
+        "detail": "red orb"
+      },
+      {
+        "part": "ring",
+        "detail": "several black rings"
+      },
+      {
+        "part": "ear",
+        "detail": "conical ears"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Ampharos_%28Pok%C3%A9mon%29",
+    "revision": 4615437,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "56c925b57aa2daa1c8a720ee79ded112e89c99651a12c7b3e379bd2d4ad5a8aa",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "hobbies_leisure",
+  "expr": "gentle",
+  "pose": "carrying_something",
+  "orient": "front",
+  "frame": "waist_up",
+  "lens": "natural50",
+  "scene": "In a sunlit coastal veranda craft nook at late morning, holding a small wooden wind-chime bar in both separated hands above a worktable while checking the translucent sea-glass pieces hanging from it; complete hands and glass pieces inside crop, sea breeze through linen curtains.",
+  "outfit": "Opaque ivory linen V-neck strappy jumpsuit with yellow sash and secure fitted bodice, an open lightweight black mesh cardigan around elbows. Bare shoulders arms and side-waist cutouts, tiny red gemstone ear studs.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people. Species only as a tiny accessory or color echo.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

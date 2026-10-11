@@ -1,0 +1,51 @@
+{
+  "name": "전룡",
+  "scene": "On an empty coastal beacon platform at blue hour, grounded upright full-body card stance facing camera, both empty hands open and clear beside hips, complete head and boots visible.",
+  "casual": [
+    [
+      "travel_exploration",
+      "determined",
+      "checking_map",
+      "front_3q",
+      "environmental",
+      "documentary35",
+      "At an empty cliff-top coastal trail viewpoint in crisp sunrise light, standing upright studying a plain folded map supported at its two outer edges by both visible hands, face angled toward viewer, entire body and sandals visible with lighthouse far away.",
+      "Yellow sleeveless fitted hiking tank with a secure high neck, black short utility skirt over opaque shorts, light open white long vest, flat hiking sandals. Bare arms shoulders and legs, tiny red bead compass charm."
+    ],
+    [
+      "swimwear",
+      "relieved",
+      "leaning_wall",
+      "side",
+      "three_quarter",
+      "telephoto135",
+      "At a quiet thermal spa courtyard at evening, leaning lightly against a dry warm stone pillar and holding a folded towel at waist height with separated hands, face in readable three-quarter turn; warm lantern reflection and steam far behind.",
+      "Fully lined golden yellow two-piece swimwear: secure wide-strap square-neck top with black edging and supportive opaque underband, high-waisted opaque full-coverage bottoms, white wrap sarong with side slit. Bare shoulders arms midriff legs, small red orb pendant."
+    ],
+    [
+      "hobbies_leisure",
+      "gentle",
+      "carrying_something",
+      "front",
+      "waist_up",
+      "natural50",
+      "In a sunlit coastal veranda craft nook at late morning, holding a small wooden wind-chime bar in both separated hands above a worktable while checking the translucent sea-glass pieces hanging from it; complete hands and glass pieces inside crop, sea breeze through linen curtains.",
+      "Opaque ivory linen V-neck strappy jumpsuit with yellow sash and secure fitted bodice, an open lightweight black mesh cardigan around elbows. Bare shoulders arms and side-waist cutouts, tiny red gemstone ear studs."
+    ]
+  ],
+  "motifs": "Golden yellow armor with white abdominal plating, crisp black ring patterns and conical hair ornaments; small red orb jewels in the forehead ornament and long striped belt sash, human skin remains natural",
+  "comparison_previous_batch": [
+    "mareep",
+    "flaaffy"
+  ],
+  "comparison_changes": "Replaced a bakery candidate with veranda sea-glass wind-chime craft: location, concrete activity and outfit silhouette changed versus Krabby kitchen; thermal spa uses pillar-supported side pose and telephoto crop versus Krabby seaside kneeling towel. Coastal map scene changes location, task, outfit and camera from Mareep market walking.",
+  "comparison": {
+    "characters": [
+      "슬리프",
+      "슬리퍼",
+      "크랩"
+    ],
+    "source": "Read recent generated plans and prompts for Drowzee, Hypno, Krabby: hammock stretch, sleeper train loungewear, lantern dance, clock hostess, stair fitness, acoustic research, tide survey, pastry kitchen, seaside towel.",
+    "changes": "New location, concrete activity, silhouette and camera. Compared preceding characters in current batch."
+  }
+}

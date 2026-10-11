@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Ampharos (전룡) personified, electric type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: brows pulled down and in, hard forward gaze, jaw clenched, mouth a tight line
+Pose: Hold a folded-out route map in both hands while checking the surroundings.
+Orientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together
+Scene: At an empty cliff-top coastal trail viewpoint in crisp sunrise light, standing upright studying a plain folded map supported at its two outer edges by both visible hands, face angled toward viewer, entire body and sandals visible with lighthouse far away.
+Outfit and props: Yellow sleeveless fitted hiking tank with a secure high neck, black short utility skirt over opaque shorts, light open white long vest, flat hiking sandals. Bare arms shoulders and legs, tiny red bead compass charm.
+Category: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.
+Note: Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people. Species only as a tiny accessory or color echo.
+Framing: Environmental long shot: show the complete woman and enough surroundings to establish the activity and location.
+Lens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
