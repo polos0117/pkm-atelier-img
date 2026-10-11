@@ -1,0 +1,896 @@
+{
+  "name": "시드라",
+  "slug": "seadra",
+  "style": "glossy_promo",
+  "gender": "f",
+  "date": "2026-10-12",
+  "requested": 9,
+  "generation_mode": "built-in image_gen",
+  "generator_ui": "actual Preact controls through repository prompt-dom-harness",
+  "comparison": {
+    "reviewed": [
+      "덩쿠리",
+      "캥카",
+      "쏘드라"
+    ],
+    "scope": "Read latest three completed plans and submitted casual prompts on image remote main; compare earlier characters in this batch too.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "images": {
+    "light": {
+      "source": "generated_images/exec-18028523-d7f3-458c-9c5f-c725c9407dfd.png",
+      "card": "시드라",
+      "slot": "light",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": null,
+      "output": "img/시드라_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "39941f2f3fc94e692f0e219f2dd06d183dc3aea8b963a27a516e899eb3c79172",
+      "source_sha256": "19bae27d5302def520a0e48d06ca17ccd9344fc6404dcc1273265c8d6675de3b",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "athletic",
+          "hair color": "blue",
+          "eye color": "purple",
+          "hairstyle": "wavy"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "On a rocky tidal causeway in clear cool morning light, poised front three-quarter adult woman. Deep blue enamel slim plates, cream ribbed breastplate and small cream-tipped spiny fin-shaped shoulder and forearm edges. Coiled tail becomes a layered curled blue waist sash, tiny fin crown, face unobstructed. Human skin. Full head and boots with margins, both empty open hands held separately beside hips. Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Seadra (시드라), water type.\n\nPALETTE: cream, blue.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Seadra as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the spiny pectoral fins become fin-shaped edges on her plates; the large, coiled tail becomes a long sash hanging from the back of her belt, in the same shape and colors; the fin-like ridge becomes pointed edges on her plates; its markings (rough scales) become painted lines and patterns on her plates and undersuit.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: On a rocky tidal causeway in clear cool morning light, poised front three-quarter adult woman. Deep blue enamel slim plates, cream ribbed breastplate and small cream-tipped spiny fin-shaped shoulder and forearm edges. Coiled tail becomes a layered curled blue waist sash, tiny fin crown, face unobstructed. Human skin. Full head and boots with margins, both empty open hands held separately beside hips. Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nbody type: athletic — moderate frame with developed functional muscles\nhair color: blue\neye color: purple\nhairstyle: wavy — loose S-shaped waves\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\neye color consistency: both eyes are purple\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "repository_path": "img/시드라_light_glossy_promo_f.webp"
+    },
+    "heavy": {
+      "source": "generated_images/exec-855602fb-a6e7-42a8-95f0-59a768fde74e.png",
+      "card": "시드라",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/시드라_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4c48938ec1b47d479ec2048aece9a013ed3b9ac8ee69de05c308a6565e66007b",
+      "source_sha256": "b3aa4ade267888b32b53b1ea31404116183c1dab3bf17a07c9d5f54223f7a448",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "heavy",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "athletic",
+          "hair color": "blue",
+          "eye color": "purple",
+          "hairstyle": "wavy"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "A balanced full-body front three-quarter stance in the same setting, both empty open hands well apart and completely visible. Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Seadra (시드라), water type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: A balanced full-body front three-quarter stance in the same setting, both empty open hands well apart and completely visible. Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "repository_path": "img/시드라_heavy_glossy_promo_f.webp",
+      "reference_repository_path": "img/시드라_light_glossy_promo_f.webp"
+    },
+    "mobility": {
+      "source": "generated_images/exec-484bcc1e-bc8a-44a0-819f-8e3fdf942d43.png",
+      "card": "시드라",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/시드라_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c60a9fb3fbbfda8ff607a6bbffb3ea57d139559a9a359af91cb571b4a864f5f1",
+      "source_sha256": "ee4e819270abdbeafbf82faca3605d669517673d428fb4ec0adb849deaad1e0f",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "mobility",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "athletic",
+          "hair color": "blue",
+          "eye color": "purple",
+          "hairstyle": "wavy"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "A balanced full-body front three-quarter stance in the same setting, both empty open hands well apart and completely visible. Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Seadra (시드라), water type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: A balanced full-body front three-quarter stance in the same setting, both empty open hands well apart and completely visible. Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "repository_path": "img/시드라_mobility_glossy_promo_f.webp",
+      "reference_repository_path": "img/시드라_light_glossy_promo_f.webp"
+    },
+    "light_overdrive": {
+      "source": "/workspace/scratch/1678c5ec5702/generated_images/exec-468a26d8-2dd9-43f2-964c-760620a46292.png",
+      "card": "시드라",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/시드라_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "d94b3a427d0110ad3f84058a805d688aafffedd80c4ad310d8e08989ca3718bf",
+      "source_sha256": "8f0d6da1cbdac07275aa3751e931d4dc16dba242b2df5f2138f9afa383e6f7c8",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "athletic",
+          "hair color": "blue",
+          "eye color": "purple",
+          "hairstyle": "wavy"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Seadra (시드라), water type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a cyan-blue water glow with spray and sheen shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "repository_path": "img/시드라_light_overdrive_glossy_promo_f.webp",
+      "reference_repository_path": "img/시드라_light_glossy_promo_f.webp"
+    },
+    "heavy_overdrive": {
+      "source": "/workspace/scratch/1678c5ec5702/generated_images/exec-ead210d5-ca9f-4487-92f7-eb4bb12020da.png",
+      "card": "시드라",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "heavy",
+      "output": "img/시드라_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "2b8a59b62fbffd991addd96569871e19bb238139713a59b92af710bc9b5fc9ec",
+      "source_sha256": "2e984fa58f899d3c90da9cba916b9b5981ade4238d28961cf8e93e53fda23d75",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "heavy",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "athletic",
+          "hair color": "blue",
+          "eye color": "purple",
+          "hairstyle": "wavy"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Seadra (시드라), water type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a cyan-blue water glow with spray and sheen shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "repository_path": "img/시드라_heavy_overdrive_glossy_promo_f.webp",
+      "reference_repository_path": "img/시드라_heavy_glossy_promo_f.webp"
+    },
+    "mobility_overdrive": {
+      "source": "/workspace/scratch/1678c5ec5702/generated_images/exec-726b0475-ad9c-4bd6-8a76-559d3ddd7da2.png",
+      "card": "시드라",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "mobility",
+      "output": "img/시드라_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "fd0d8265b876fc3ae571768331d59e004f4e0efb016deab089ecb2b0126ad88f",
+      "source_sha256": "b4d8cbecfbae96c830af0fd115370c12716aadae0e494958c8355aaf8fd2c11e",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "athletic",
+          "hair color": "blue",
+          "eye color": "purple",
+          "hairstyle": "wavy"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Seadra (시드라), water type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a cyan-blue water glow with spray and sheen shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "repository_path": "img/시드라_mobility_overdrive_glossy_promo_f.webp",
+      "reference_repository_path": "img/시드라_mobility_glossy_promo_f.webp"
+    },
+    "casual1": {
+      "source": "/workspace/scratch/1678c5ec5702/generated_images/exec-3ba5a559-eae8-4736-a0f1-52344baa5ed2.png",
+      "card": "시드라",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/시드라_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "10f850860d763c3c5e0e4dd517f452115ff3cb4a8b437e0f6f42396f74645e08",
+      "source_sha256": "74a5833858498635814e4bbe1b150980b3bc49f077457eebccebca0446e04d0b",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "athletic",
+          "hair color": "blue",
+          "eye color": "purple",
+          "hairstyle": "wavy"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "confident",
+            "pose": "standing_formal",
+            "orient": "front_3q",
+            "scene": "In an empty hilltop observatory demonstration alcove at violet dusk, standing beside a brass telescope, one open hand indicating its lens and the other relaxed away from her waist. Knees included, face toward viewer, dome slit and a few stars behind.",
+            "outfit": "Original adult astronomy event-guide outfit: fully opaque navy halter-neck fitted mini dress with cream geometric side openings at waist, secure chest coverage, narrow silver belt and ankle boots. Bare shoulders arms legs and side waist, tiny fin-shaped silver earrings. No words or insignia.",
+            "frame": "three_quarter",
+            "lens": "portrait85",
+            "camera": "",
+            "custom": "Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+            "aspect": "2:3",
+            "cat": "adult_roleplay",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Seadra (시드라) personified, water type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed\nPose: Stand upright with a balanced stance and a composed posture.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: In an empty hilltop observatory demonstration alcove at violet dusk, standing beside a brass telescope, one open hand indicating its lens and the other relaxed away from her waist. Knees included, face toward viewer, dome slit and a few stars behind.\nOutfit and props: Original adult astronomy event-guide outfit: fully opaque navy halter-neck fitted mini dress with cream geometric side openings at waist, secure chest coverage, narrow silver belt and ankle boots. Bare shoulders arms legs and side waist, tiny fin-shaped silver earrings. No words or insignia.\nCategory: Create playful adult event fashion inspired by occupation or roleplay motifs. It must read as a costume made for a stage presentation or themed event, not as an authentic workplace uniform. Use original colours and decorative details — no real institutional insignia, no weapons, no tactical gear. Describe the costume by its tailoring, trim, and props, and show a believable styling or preparation action.\nNote: Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "repository_path": "img/시드라_glossy_promo_f_casual1.webp",
+      "reference_repository_path": "img/시드라_light_glossy_promo_f.webp"
+    },
+    "casual2": {
+      "source": "/workspace/scratch/1678c5ec5702/generated_images/exec-c137cbcf-d848-4db5-9299-f4fa2d0cc541.png",
+      "card": "시드라",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/시드라_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "56aad6c3772811691435b1b484153363fe993b209cdebdc2538c48b1c4514bfa",
+      "source_sha256": "8af59a0d777fdcf77d2cf3b71e8b9a7dabff0fb065bc20e0f3ea3d8b3a8a4f8c",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "athletic",
+          "hair color": "blue",
+          "eye color": "purple",
+          "hairstyle": "wavy"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "relieved",
+            "pose": "mid_stride",
+            "orient": "front",
+            "scene": "On an empty salt-marsh boardwalk at bright windy noon, taking a slow step toward camera after a long walk, both empty hands swinging apart naturally. Entire figure and shoes with ample reed beds and distant dunes, hair moving in breeze.",
+            "outfit": "Opaque cream sleeveless button-front cropped shirt with secure blue bandeau underlayer and deep-blue high-waisted wide-leg hiking shorts, open sandals. Bare shoulders arms midriff and legs, small curled-tail pendant.",
+            "frame": "environmental",
+            "lens": "wide24",
+            "camera": "",
+            "custom": "Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+            "aspect": "2:3",
+            "cat": "travel_exploration",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Seadra (시드라) personified, water type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened\nPose: Capture a clear mid-stride step with believable weight transfer.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: On an empty salt-marsh boardwalk at bright windy noon, taking a slow step toward camera after a long walk, both empty hands swinging apart naturally. Entire figure and shoes with ample reed beds and distant dunes, hair moving in breeze.\nOutfit and props: Opaque cream sleeveless button-front cropped shirt with secure blue bandeau underlayer and deep-blue high-waisted wide-leg hiking shorts, open sandals. Bare shoulders arms midriff and legs, small curled-tail pendant.\nCategory: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.\nNote: Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\nFraming: Environmental long shot: show the complete woman and enough surroundings to establish the activity and location.\nLens / perspective: 24mm-equivalent wide-angle impression with spacious environmental depth; use enough camera distance to avoid stretching the face or limbs.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "repository_path": "img/시드라_glossy_promo_f_casual2.webp",
+      "reference_repository_path": "img/시드라_light_glossy_promo_f.webp"
+    },
+    "casual3": {
+      "source": "generated_images/exec-b34ae7e2-bdaa-4d6f-ad1e-2ab07667ffff.png",
+      "card": "시드라",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/시드라_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "05a2f711c5afe46ca9a4033fea8ddd957a5734e938f37577555f4e6a1272ad24",
+      "source_sha256": "db0bac9bef34c9a9cc34369e0bae57c0ae22fe335fec539dd745ae78a4f89137",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "athletic",
+          "hair color": "blue",
+          "eye color": "purple",
+          "hairstyle": "wavy"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "curious",
+            "pose": "sitting",
+            "orient": "side",
+            "scene": "Inside a quiet antique music-box workshop on a rainy evening, sitting side-on at a low worktable, one hand gently turning a large music-box winding key while the other rests open beside the wooden case. Face turned slightly to viewer, both complete hands visible, warm bench lamp.",
+            "outfit": "Opaque blue off-shoulder ribbed fitted top with elbow-length sleeves and secure neckline, cream high-waisted skirt below crop. Bare shoulders upper chest and a narrow midriff, tiny cream bead bracelet.",
+            "frame": "waist_up",
+            "lens": "natural50",
+            "camera": "",
+            "custom": "Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+            "aspect": "2:3",
+            "cat": "hobbies_leisure",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Seadra (시드라) personified, water type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted\nPose: Sit naturally on a chair or bench with supported feet and readable hands.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: Inside a quiet antique music-box workshop on a rainy evening, sitting side-on at a low worktable, one hand gently turning a large music-box winding key while the other rests open beside the wooden case. Face turned slightly to viewer, both complete hands visible, warm bench lamp.\nOutfit and props: Opaque blue off-shoulder ribbed fitted top with elbow-length sleeves and secure neckline, cream high-waisted skirt below crop. Bare shoulders upper chest and a narrow midriff, tiny cream bead bracelet.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "repository_path": "img/시드라_glossy_promo_f_casual3.webp",
+      "reference_repository_path": "img/시드라_light_glossy_promo_f.webp"
+    }
+  },
+  "generated": 9,
+  "verification": {
+    "adult_identity": "Same face, hair and build compared against original light image",
+    "anatomy": "All images visually inspected, arms attached and hands readable",
+    "opened_pairs": "Same camera, pose and scale checked against each closed form",
+    "casual_diversity": "Different places, activities, clothing silhouette, expressions, poses, directions and crops checked"
+  }
+}

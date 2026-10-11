@@ -1,0 +1,59 @@
+{
+  "name": "시드라",
+  "slug": "seadra",
+  "hair": "blue",
+  "eye": "purple",
+  "cut": "wavy",
+  "body": "athletic",
+  "light": "On a rocky tidal causeway in clear cool morning light, poised front three-quarter adult woman. Deep blue enamel slim plates, cream ribbed breastplate and small cream-tipped spiny fin-shaped shoulder and forearm edges. Coiled tail becomes a layered curled blue waist sash, tiny fin crown, face unobstructed. Human skin. Full head and boots with margins, both empty open hands held separately beside hips.",
+  "casual": [
+    [
+      "adult_roleplay",
+      "confident",
+      "standing_formal",
+      "front_3q",
+      "three_quarter",
+      "portrait85",
+      "In an empty hilltop observatory demonstration alcove at violet dusk, standing beside a brass telescope, one open hand indicating its lens and the other relaxed away from her waist. Knees included, face toward viewer, dome slit and a few stars behind.",
+      "Original adult astronomy event-guide outfit: fully opaque navy halter-neck fitted mini dress with cream geometric side openings at waist, secure chest coverage, narrow silver belt and ankle boots. Bare shoulders arms legs and side waist, tiny fin-shaped silver earrings. No words or insignia."
+    ],
+    [
+      "travel_exploration",
+      "relieved",
+      "mid_stride",
+      "front",
+      "environmental",
+      "wide24",
+      "On an empty salt-marsh boardwalk at bright windy noon, taking a slow step toward camera after a long walk, both empty hands swinging apart naturally. Entire figure and shoes with ample reed beds and distant dunes, hair moving in breeze.",
+      "Opaque cream sleeveless button-front cropped shirt with secure blue bandeau underlayer and deep-blue high-waisted wide-leg hiking shorts, open sandals. Bare shoulders arms midriff and legs, small curled-tail pendant."
+    ],
+    [
+      "hobbies_leisure",
+      "curious",
+      "sitting",
+      "side",
+      "waist_up",
+      "natural50",
+      "Inside a quiet antique music-box workshop on a rainy evening, sitting side-on at a low worktable, one hand gently turning a large music-box winding key while the other rests open beside the wooden case. Face turned slightly to viewer, both complete hands visible, warm bench lamp.",
+      "Opaque blue off-shoulder ribbed fitted top with elbow-length sleeves and secure neckline, cream high-waisted skirt below crop. Bare shoulders upper chest and a narrow midriff, tiny cream bead bracelet."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "덩쿠리",
+      "캥카",
+      "쏘드라"
+    ],
+    "scope": "Read latest three completed plans and submitted casual prompts on image remote main; compare earlier characters in this batch too.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
