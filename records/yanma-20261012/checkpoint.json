@@ -1,0 +1,18 @@
+{
+  "stage": "9/9 generated, verified; awaiting image main push and automatic registration",
+  "baseline": "img/왕자리_light_glossy_promo_f.webp",
+  "baseline_sha256": "353c8f9e2fc05644c6c56cd17369d27d91697bf932aee25d767209e929d272d8",
+  "images": {
+    "light": "img/왕자리_light_glossy_promo_f.webp",
+    "heavy": "img/왕자리_heavy_glossy_promo_f.webp",
+    "mobility": "img/왕자리_mobility_glossy_promo_f.webp",
+    "light_overdrive": "img/왕자리_light_overdrive_glossy_promo_f.webp",
+    "heavy_overdrive": "img/왕자리_heavy_overdrive_glossy_promo_f.webp",
+    "mobility_overdrive": "img/왕자리_mobility_overdrive_glossy_promo_f.webp",
+    "casual1": "img/왕자리_glossy_promo_f_casual1.webp",
+    "casual2": "img/왕자리_glossy_promo_f_casual2.webp",
+    "casual3": "img/왕자리_glossy_promo_f_casual3.webp"
+  },
+  "expected_thumbnail_workflow": "썸네일",
+  "expected_registration_workflow": "그림 등록"
+}

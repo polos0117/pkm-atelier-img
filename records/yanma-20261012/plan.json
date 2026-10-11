@@ -1,0 +1,62 @@
+{
+  "name": "왕자리",
+  "slug": "yanma",
+  "hair": "red",
+  "eye": "green",
+  "cut": "high ponytail",
+  "body": "athletic",
+  "wear": "Red enamel armor with emerald green eye-shaped temple ornaments that leave both eyes and face fully clear; two short gray sensor-like hair fins; translucent pale dragonfly wing shapes become four narrow divided shoulder-cape panels, red band markings on suit and gray plate edges; slender red tail shape becomes waist sash. No actual insect limbs or handheld equipment.",
+  "light": "On a misty reedland landing terrace, adult woman facing camera in front three-quarter stance, both empty open hands apart. Entire head boots and narrow cape panels fit the vertical 1024x1536 canvas.",
+  "casual": [
+    [
+      "lingerie",
+      "confident",
+      "contrapposto",
+      "front_3q",
+      "full_body",
+      "telephoto135",
+      "On a private rooftop fashion terrace at luminous blue hour, standing in relaxed contrapposto with one open hand lightly on a broad parapet and the other lifted loosely beside her shoulder. Entire head both hands and shoes, distant skyline, no other figures.",
+      "Opaque fully lined scarlet satin structured longline bustier with broad secure straps and gray tailored high-waisted tap shorts, short translucent emerald chiffon capelet fluttering from shoulders; covered chest and pelvis, bare midriff arms and legs, small green dragonfly pendant."
+    ],
+    [
+      "active",
+      "playful",
+      "mid_stride",
+      "side",
+      "environmental",
+      "wide24",
+      "At an empty grassy model-flight field in crisp breezy morning, stepping sideways after launching a small unpowered balsa glider, both open hands apart at chest height, the plain wooden glider visible in distant air. Face turns toward viewer, entire head and running shoes, no people.",
+      "Opaque green racerback fitted crop tank, red high-waisted running skort over secure shorts and gray trainers; bare shoulders arms midriff legs, tiny wing-shaped earrings."
+    ],
+    [
+      "hobbies_leisure",
+      "focused",
+      "leaning_furniture",
+      "high_angle",
+      "waist_up",
+      "portrait85",
+      "At a private clockmaking workbench under warm evening task light, leaning gently toward a plain opened mechanical clock, one hand uses a short fine screwdriver while the other steadies a separate clock rim. Both entire hands clearly attached to forearms, face readable from slightly above.",
+      "Opaque gray short-sleeve cropped fitted work shirt with secure open collar and red high-waisted trousers, bare forearms upper chest and narrow midriff; small green hair clasp."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "에이팜",
+      "솜솜코",
+      "쏘드라",
+      "해너츠",
+      "해루미"
+    ],
+    "scope": "Read the latest three completed characters plans and all nine submitted casual prompts; also compare earlier characters of this batch.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
