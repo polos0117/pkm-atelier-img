@@ -1,0 +1,58 @@
+{
+  "mech": "슬리퍼",
+  "sourceName": "Hypno",
+  "series": "psychic",
+  "style": "glossy_promo",
+  "sourceAppearance": {
+    "name": "슬리퍼",
+    "en": "Hypno",
+    "color": "yellow",
+    "shape": "humanoid",
+    "features": [
+      {
+        "part": "ring",
+        "detail": "flat, silver ring"
+      },
+      {
+        "part": "ear",
+        "detail": "triangular ears"
+      },
+      {
+        "part": "nose",
+        "detail": "large nose"
+      },
+      {
+        "part": "eye",
+        "detail": "sleepy-looking eyes"
+      },
+      {
+        "part": "finger",
+        "detail": "five fingers"
+      },
+      {
+        "part": "toe",
+        "detail": "three toes"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Hypno_%28Pok%C3%A9mon%29",
+    "revision": 4631753,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "a6050e2321696636524dcebd9f3298a17f3486263a43620a6b21cf1564456ed5",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "outputMode": "action",
+  "identityMode": "reference",
+  "form": "overdrive",
+  "baseForm": "heavy",
+  "scene": "On a deserted circular brass observatory floor under evening skylight, grounded standing pose facing camera, both empty hands relaxed open at her sides and fully separate from body.",
+  "custom": "1024x1536. Both complete hands visible, exactly five distinct natural digits each with natural arm connections. No weapon."
+}

@@ -1,0 +1,2 @@
+The original mobility generation was rejected at output moderation. Submitted the generator prompt with this additional clarification:
+Treat this as a fully clothed armored game character: keep chest and pelvis securely covered by opaque fitted armor and undersuit, ordinary standing card pose. Do not expose intimate areas.

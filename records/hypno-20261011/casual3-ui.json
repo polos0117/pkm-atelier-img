@@ -1,0 +1,67 @@
+{
+  "mech": "슬리퍼",
+  "sourceName": "Hypno",
+  "series": "psychic",
+  "style": "glossy_promo",
+  "sourceAppearance": {
+    "name": "슬리퍼",
+    "en": "Hypno",
+    "color": "yellow",
+    "shape": "humanoid",
+    "features": [
+      {
+        "part": "ring",
+        "detail": "flat, silver ring"
+      },
+      {
+        "part": "ear",
+        "detail": "triangular ears"
+      },
+      {
+        "part": "nose",
+        "detail": "large nose"
+      },
+      {
+        "part": "eye",
+        "detail": "sleepy-looking eyes"
+      },
+      {
+        "part": "finger",
+        "detail": "five fingers"
+      },
+      {
+        "part": "toe",
+        "detail": "three toes"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Hypno_%28Pok%C3%A9mon%29",
+    "revision": 4631753,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "a6050e2321696636524dcebd9f3298a17f3486263a43620a6b21cf1564456ed5",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "occupation_basic",
+  "expr": "focused",
+  "pose": "leaning_furniture",
+  "orient": "side",
+  "frame": "three_quarter",
+  "lens": "natural50",
+  "scene": "In an airy acoustic research room on a rainy afternoon, leaning lightly toward a broad console and adjusting a small tuning dial with one hand while the other rests open on the wooden surface. Plain wave-shaped objects and sound panels, no writing, both complete hands visible.",
+  "outfit": "Ivory sleeveless tailored high-neck vest with secure side-waist openings and long yellow high-waisted wrap culottes with side slits, flat shoes, bare arms shoulders side waist and calves, tiny ring necklace.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people. Species only as a tiny accessory or color echo.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
