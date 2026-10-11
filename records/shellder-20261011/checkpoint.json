@@ -1,0 +1,37 @@
+{
+  "character": "셀러",
+  "slug": "shellder",
+  "approvedLight": {
+    "slot": "light",
+    "card": "셀러",
+    "style": "glossy_promo",
+    "gender": "f",
+    "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-404e2da8-9860-4b4c-a809-8d5a08b44d27.png",
+    "reference": null,
+    "output": "img/셀러_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "bytes": 559722,
+    "sha256": "0c275338e7204cbf06855b0547b86596e65cca4b95d39e89c2ce466334b3d3e3",
+    "prompt": "records/shellder-20261011/light.txt",
+    "uiVerified": true,
+    "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+  },
+  "generated": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "status": "reviewed, upload pending",
+  "imageRepo": "polos0117/pkm-atelier-img",
+  "codeRepo": "polos0117/pkm-atelier"
+}

@@ -1,0 +1,72 @@
+{
+  "name": "셀러",
+  "slug": "shellder",
+  "scene": "On a quiet tidal stone terrace at dawn, balanced standing pose, face toward camera, both empty hands open beside her hips and separated from her torso.",
+  "casual": [
+    {
+      "cat": "swimwear",
+      "expr": "playful",
+      "pose": "walking",
+      "orient": "front_3q",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "On a quiet crescent beach in bright late-morning sun, walking out of ankle-deep surf, both hands relaxed open away from her sides; clear water, distant sea cliffs, complete head and feet visible.",
+      "outfit": "Fully lined opaque violet two-piece swimsuit with a secure scoop-neck top, broad straps and high-waisted bottoms with full intimate coverage; bare shoulders midriff and legs, one tiny shell bracelet."
+    },
+    {
+      "cat": "occupation_basic",
+      "expr": "focused",
+      "pose": "mid_action",
+      "orient": "side",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "At a marine field-station laboratory during rainy afternoon, standing side-on at a shallow specimen tray and sorting empty mollusc shells with two separately visible hands. Cool skylight and a warm task lamp; face visible in profile.",
+      "outfit": "Ivory sleeveless high-neck fitted work top with violet linen waist apron and high-waisted shorts below crop; bare shoulders arms and a small waist gap, small shell ear studs, no gloves."
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "pensive",
+      "pose": "sitting",
+      "orient": "seated_twist",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "In an intimate empty jazz-listening lounge at late evening, seated sideways in a low velvet chair with her torso turned toward camera, placing a headphone ear cup beside her ear with one hand while the other rests open on the armrest. Amber lamps, unlettered records on a shelf, both hands readable.",
+      "outfit": "Opaque navy satin halter mini dress with secure neckline, an asymmetrical violet wrap panel and a small shell pendant. Bare shoulders upper back and legs, no armor."
+    }
+  ],
+  "style": "glossy_promo",
+  "casualAxes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "characters": [
+      "레어코일",
+      "꼬리선",
+      "야부엉"
+    ],
+    "records": [
+      "records/magneton-20261011",
+      "records/furret-20261011",
+      "records/noctowl-20261011"
+    ],
+    "avoided": [
+      "railway yard travel",
+      "jewelry sorting in dressing alcove",
+      "aerial yoga stretch",
+      "ferry terminal map",
+      "laundry towel folding",
+      "pottery workshop",
+      "midnight stage magic",
+      "print archive restoration",
+      "lantern tassel courtyard"
+    ],
+    "changes": [
+      "venue",
+      "concrete activity",
+      "clothing silhouette",
+      "pose and framing"
+    ],
+    "additionalBatchComparison": []
+  }
+}

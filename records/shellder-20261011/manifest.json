@@ -1,0 +1,175 @@
+{
+  "assets": [
+    {
+      "slot": "light",
+      "card": "셀러",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-404e2da8-9860-4b4c-a809-8d5a08b44d27.png",
+      "reference": null,
+      "output": "img/셀러_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 559722,
+      "sha256": "0c275338e7204cbf06855b0547b86596e65cca4b95d39e89c2ce466334b3d3e3",
+      "prompt": "records/shellder-20261011/light.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "heavy",
+      "card": "셀러",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-58814fdf-5e85-4e49-be0e-298e1a4e689e.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-404e2da8-9860-4b4c-a809-8d5a08b44d27.png",
+      "output": "img/셀러_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 557276,
+      "sha256": "a329da28557e4c0ac1278417d03d1011a03e195b29f81bf31df41fb695f27b4e",
+      "prompt": "records/shellder-20261011/heavy.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "mobility",
+      "card": "셀러",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-60192b7c-951b-4b41-b3de-8a047e6f515b.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-404e2da8-9860-4b4c-a809-8d5a08b44d27.png",
+      "output": "img/셀러_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 599694,
+      "sha256": "1d0c3dc7e6f4b9b0b116a3d6af8d5cd7b91b194cabfe0f651835583b308dd333",
+      "prompt": "records/shellder-20261011/mobility.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "light_overdrive",
+      "card": "셀러",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-3ba09ad1-6b96-4312-a1ad-cdc57be95fd8.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-404e2da8-9860-4b4c-a809-8d5a08b44d27.png",
+      "output": "img/셀러_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 631226,
+      "sha256": "c65f5ddbde9760e4d6c579f6d28340e45ea5b92809dcd51e87e1b31aa780ea30",
+      "prompt": "records/shellder-20261011/light_overdrive.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "card": "셀러",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-83babd61-9088-476f-a7fd-0f420c2cb7a2.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-58814fdf-5e85-4e49-be0e-298e1a4e689e.png",
+      "output": "img/셀러_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 649196,
+      "sha256": "b8b6434138fa7234b722d9cde5c3d3f2476278540cbc5cd3983f8c6525204836",
+      "prompt": "records/shellder-20261011/heavy_overdrive.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "card": "셀러",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-25b6d1cf-a160-4a91-8258-0de5974d5904.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-60192b7c-951b-4b41-b3de-8a047e6f515b.png",
+      "output": "img/셀러_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 692416,
+      "sha256": "f691667b8773b603ad4d3a15726a24a085936bf7a3698ae3cf30ad337d78483e",
+      "prompt": "records/shellder-20261011/mobility_overdrive.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "casual1",
+      "card": "셀러",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-a0e1d66c-bce9-4f37-9a9b-46262127efc0.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-404e2da8-9860-4b4c-a809-8d5a08b44d27.png",
+      "output": "img/셀러_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 531240,
+      "sha256": "f93d028f3a7c3b197f159ba7d641c43958da7b24f9f1db04651ca7ea9447cd15",
+      "prompt": "records/shellder-20261011/casual1.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "casual2",
+      "card": "셀러",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-35835fe7-9754-4933-912f-c6b88d3eb925.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-404e2da8-9860-4b4c-a809-8d5a08b44d27.png",
+      "output": "img/셀러_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 409424,
+      "sha256": "b3c81a24be18c30b6e760b60ff6c6f26c14199956e1ba14ba97d23897fd77843",
+      "prompt": "records/shellder-20261011/casual2.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "casual3",
+      "card": "셀러",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-17f8f927-f114-475d-b5fe-149b54029f6b.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-404e2da8-9860-4b4c-a809-8d5a08b44d27.png",
+      "output": "img/셀러_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 389882,
+      "sha256": "1bb70177f492ba69a4202e009e31b7a2722a5ef70e51d749a65d3eb96e9efe00",
+      "prompt": "records/shellder-20261011/casual3.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    }
+  ]
+}
