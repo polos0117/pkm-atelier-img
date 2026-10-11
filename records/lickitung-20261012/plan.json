@@ -1,0 +1,60 @@
+{
+  "name": "내루미",
+  "slug": "lickitung",
+  "hair": "pink",
+  "eye": "amber",
+  "cut": "wavy",
+  "body": "curvy",
+  "motifs": "A thick pink tail becomes a curved layered sash of fabric and slim plates behind her waist; yellow curved lines and concentric circles become enamel trim across pink armor. A long tongue is abstracted as a rounded pink ribbon collar, never an animal tongue or held object.",
+  "light": "In a pastel stone plaza, a poised adult woman faces the camera in a front three-quarter stance, both open empty hands separated beside her hips. Pink enamel slim armor with warm yellow curved trim and a sweeping pink waist sash. Full body, feet and hair with margins.",
+  "casual": [
+    [
+      "food_berries",
+      "amused",
+      "preparing_food",
+      "front",
+      "waist_up",
+      "natural50",
+      "At a bright retro ice-cream workshop, using two widely separated hands to place colorful berries onto a tall parfait on the counter. Midday soft skylight, chrome and blush tile. Face and both hands entirely visible.",
+      "Opaque yellow square-neck sleeveless fitted top and high-waisted pink shorts with a short waist apron. Bare arms and shoulders, small curved ribbon earring; no armor."
+    ],
+    [
+      "swimwear",
+      "confident",
+      "mid_stride",
+      "front_3q",
+      "full_body",
+      "documentary35",
+      "Walking along an empty sunlit sandy beach carrying nothing, one arm gently swinging and the other open beside her hip. Wind ripples a narrow waist wrap, clear morning turquoise surf. Entire body and both hands visible.",
+      "Secure fully lined coral-pink two-piece swimsuit with broad yellow straps, structured opaque cups and high-waisted bottoms, a small airy sarong tied at the side. Bare midriff arms and legs, tiny ring pendant."
+    ],
+    [
+      "hobbies_leisure",
+      "curious",
+      "one_knee_up",
+      "seated_twist",
+      "three_quarter",
+      "portrait85",
+      "On a cushioned window bench in a quiet attic at rainy blue hour, one knee raised while examining a plain vinyl record held at its separated left and right outer edges. Torso and pelvis rotate together toward camera, warm lamp and rain outside. Both hands fully seen.",
+      "Opaque cream sleeveless fitted knit vest with deep secure neckline, pink wrap mini skirt with yellow seam piping. Bare shoulders arms and legs; tiny circular hairclip."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "아르코",
+      "아라리",
+      "탕구리"
+    ],
+    "scope": "Bellossom plan read; six Exeggcute and Cubone casual images visually compared. Earlier plans in this batch also compared.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
