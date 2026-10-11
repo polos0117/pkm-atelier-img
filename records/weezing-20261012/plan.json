@@ -1,0 +1,60 @@
+{
+  "name": "또도가스",
+  "slug": "weezing",
+  "hair": "purple",
+  "eye": "gold",
+  "cut": "asymmetric cut",
+  "body": "tall and lean",
+  "motifs": "Its two connected spherical shapes become unequal rounded shoulder armor lobes joined by a curved collar seam, with slim flexible hose-like piping worn as trim. Geyser-like protrusions become small blunt vent fins on plate edges. Purple and muted cream enamel surfaces. These are clothing shapes, never creature heads, floating balls or extra faces.",
+  "light": "In a cool stone service hall, an adult woman in elegant dark-purple slim curved armor faces the camera in a stable three-quarter stance. Unequal rounded shoulder plates connected by curved collar trim, tiny vent ridges. Both empty open hands apart at hip level. Full body with clear feet and hair margins.",
+  "casual": [
+    [
+      "travel_exploration",
+      "pensive",
+      "leaning_wall",
+      "front_3q",
+      "environmental",
+      "telephoto135",
+      "At an empty historic railway platform on a misty morning, leaning her shoulder gently against a brick pillar, both arms down with open hands clearly in view, watching the empty tracks while her face remains visible. Entire woman and long compressed platform perspective.",
+      "Opaque plum sleeveless high-neck fitted top with cream tailored high-waisted short shorts and leather loafers. Bare arms and legs, tiny paired-circle pendant."
+    ],
+    [
+      "lingerie",
+      "half_smile",
+      "perched_seat",
+      "front",
+      "three_quarter",
+      "portrait85",
+      "In a fashion atelier fitting alcove at warm evening, perched upright on a padded stool, feet apart naturally, one open hand on each separate side of the seat. Looking directly toward camera; warm side lamp and folded fabrics.",
+      "Fashion editorial lingerie-inspired outfit: opaque lined plum longline bustier with secure cups, high-waisted cream satin shorts and a sheer loose dressing robe resting around the elbows. Bare shoulders arms upper chest and thighs. No nudity, no transparent intimate panels."
+    ],
+    [
+      "hobbies_leisure",
+      "determined",
+      "carrying_something",
+      "side",
+      "waist_up",
+      "natural50",
+      "At an empty glassblowing gallery workbench in crisp afternoon window light, carrying a finished cool glass bowl using opposite outer sides with widely separated hands. Side-on torso with head turned toward viewer, reflections and amber glass exhibits.",
+      "Opaque cream cross-wrap halter top tied securely behind the neck with plum fitted wide-leg trousers. Bare shoulders arms and upper back; tiny linked-circle bracelet. No armor."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "아르코",
+      "아라리",
+      "탕구리"
+    ],
+    "scope": "Bellossom plan read; six Exeggcute and Cubone casual images visually compared. Earlier plans in this batch also compared.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

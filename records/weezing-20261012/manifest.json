@@ -1,0 +1,888 @@
+{
+  "name": "또도가스",
+  "slug": "weezing",
+  "style": "glossy_promo",
+  "gender": "f",
+  "date": "2026-10-12",
+  "requested": 9,
+  "generation_mode": "built-in image_gen",
+  "generator_ui": "actual Preact controls through repository prompt-dom-harness",
+  "comparison": {
+    "reviewed": [
+      "아르코",
+      "아라리",
+      "탕구리"
+    ],
+    "scope": "Bellossom plan read; six Exeggcute and Cubone casual images visually compared. Earlier plans in this batch also compared.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "images": {
+    "light": {
+      "source": "/workspace/scratch/6baab6e18485/generated_images/exec-7dc1e191-5a9a-4de5-ba5b-0dc5fc49fad2.png",
+      "card": "또도가스",
+      "slot": "light",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": null,
+      "output": "img/또도가스_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "508b515ce2952489e7fe001f7175abb5b98611e5ae4ec6ab59fd5a725b835398",
+      "source_sha256": "52fb4b9f1ac4abb729454855c68a0aaa1167212b345aa898e851acd0b9432abe",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "Its two connected spherical shapes become unequal rounded shoulder armor lobes joined by a curved collar seam, with slim flexible hose-like piping worn as trim. Geyser-like protrusions become small blunt vent fins on plate edges. Purple and muted cream enamel surfaces. These are clothing shapes, never creature heads, floating balls or extra faces.",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "tall and lean",
+          "hair color": "purple",
+          "eye color": "gold",
+          "hairstyle": "asymmetric cut"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "In a cool stone service hall, an adult woman in elegant dark-purple slim curved armor faces the camera in a stable three-quarter stance. Unequal rounded shoulder plates connected by curved collar trim, tiny vent ridges. Both empty open hands apart at hip level. Full body with clear feet and hair margins. Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Weezing (또도가스), poison type.\n\nPALETTE: purple.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Weezing as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): Its two connected spherical shapes become unequal rounded shoulder armor lobes joined by a curved collar seam, with slim flexible hose-like piping worn as trim. Geyser-like protrusions become small blunt vent fins on plate edges. Purple and muted cream enamel surfaces. These are clothing shapes, never creature heads, floating balls or extra faces..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: In a cool stone service hall, an adult woman in elegant dark-purple slim curved armor faces the camera in a stable three-quarter stance. Unequal rounded shoulder plates connected by curved collar trim, tiny vent ridges. Both empty open hands apart at hip level. Full body with clear feet and hair margins. Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nbody type: tall and lean — tall stature, lean torso and long slender limbs\nhair color: purple\neye color: gold\nhairstyle: asymmetric cut — unequal left and right cut lengths\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\neye color consistency: both eyes are gold\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers."
+    },
+    "heavy": {
+      "source": "/workspace/scratch/6baab6e18485/generated_images/exec-a461ed90-2477-4068-8cff-2742061be291.png",
+      "card": "또도가스",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/또도가스_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4c8d5c3167d5b26c9f4448e80535538898e37937397f8c1c27867b17caeff0a1",
+      "source_sha256": "b128fd266caabf75f0a218b52326a1600c99e67262fa09f1993355c933eeacd5",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "heavy",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "tall and lean",
+          "hair color": "purple",
+          "eye color": "gold",
+          "hairstyle": "asymmetric cut"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "A balanced full-body front three-quarter stance in the same setting, both empty open hands well apart and completely visible. Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Weezing (또도가스), poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: A balanced full-body front three-quarter stance in the same setting, both empty open hands well apart and completely visible. Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers."
+    },
+    "mobility": {
+      "source": "/workspace/scratch/6baab6e18485/generated_images/exec-1b8c2764-a166-4fb8-9866-09bfb10b0b63.png",
+      "card": "또도가스",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/또도가스_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "a669c4629e621d479365ae76c54c59965897b62fcaae45252743761e049e0665",
+      "source_sha256": "e728003df3d232bd873f61392b7db9975062bee45e2f279ebd0b86ea05098354",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "mobility",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "tall and lean",
+          "hair color": "purple",
+          "eye color": "gold",
+          "hairstyle": "asymmetric cut"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "A balanced full-body front three-quarter stance in the same setting, both empty open hands well apart and completely visible. Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Weezing (또도가스), poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: A balanced full-body front three-quarter stance in the same setting, both empty open hands well apart and completely visible. Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers."
+    },
+    "light_overdrive": {
+      "source": "/workspace/scratch/6baab6e18485/generated_images/exec-35a62805-90e6-4b2c-80a7-708c316981de.png",
+      "card": "또도가스",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/또도가스_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "03b73b468c1c0ea8bcf414cf96b524f4c3105d9d91d241ed509f7ed5f6bb8a25",
+      "source_sha256": "c90114aba38ba9c3bcef0225dac6c28cc03f0ee82112fc0629234eb43b02039c",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "tall and lean",
+          "hair color": "purple",
+          "eye color": "gold",
+          "hairstyle": "asymmetric cut"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Weezing (또도가스), poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers."
+    },
+    "casual1": {
+      "source": "/workspace/scratch/6baab6e18485/generated_images/exec-b94287dc-3b21-4704-b83d-994e5b6551a2.png",
+      "card": "또도가스",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/또도가스_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e33d7cad0bcfefc838a6b6f264e39372d01b14e9b451dbcd1fb3f6e940eea555",
+      "source_sha256": "4893c6a7de267c321368722cf8e3716742533fb0acc195eb7d4faaa486cf990b",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "tall and lean",
+          "hair color": "purple",
+          "eye color": "gold",
+          "hairstyle": "asymmetric cut"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "pensive",
+            "pose": "leaning_wall",
+            "orient": "front_3q",
+            "scene": "At an empty historic railway platform on a misty morning, leaning her shoulder gently against a brick pillar, both arms down with open hands clearly in view, watching the empty tracks while her face remains visible. Entire woman and long compressed platform perspective.",
+            "outfit": "Opaque plum sleeveless high-neck fitted top with cream tailored high-waisted short shorts and leather loafers. Bare arms and legs, tiny paired-circle pendant.",
+            "frame": "environmental",
+            "lens": "telephoto135",
+            "camera": "",
+            "custom": "Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+            "aspect": "2:3",
+            "cat": "travel_exploration",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Weezing (또도가스) personified, poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: gaze angled down and away, slightly furrowed brow, lips lightly pressed or touched\nPose: Lean a shoulder or the back lightly against a wall while keeping balance through the feet.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: At an empty historic railway platform on a misty morning, leaning her shoulder gently against a brick pillar, both arms down with open hands clearly in view, watching the empty tracks while her face remains visible. Entire woman and long compressed platform perspective.\nOutfit and props: Opaque plum sleeveless high-neck fitted top with cream tailored high-waisted short shorts and leather loafers. Bare arms and legs, tiny paired-circle pendant.\nCategory: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.\nNote: Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\nFraming: Environmental long shot: show the complete woman and enough surroundings to establish the activity and location.\nLens / perspective: 135mm-equivalent telephoto perspective from farther away, with compressed background depth and unchanged anatomy.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+    },
+    "heavy_overdrive": {
+      "source": "/workspace/scratch/6baab6e18485/generated_images/exec-c1528959-49fc-4456-a8aa-4b62c0fc7873.png",
+      "card": "또도가스",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "heavy",
+      "output": "img/또도가스_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "ff4030335eff3c0ed824e1b8077010eeb5fba2e8af7ec48bc0abf4fc366ee283",
+      "source_sha256": "66ca2fb8afcb31cacb8d678234f00853a3595577bfe0191ab4b4220a6b295aa8",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "heavy",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "tall and lean",
+          "hair color": "purple",
+          "eye color": "gold",
+          "hairstyle": "asymmetric cut"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Weezing (또도가스), poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers."
+    },
+    "casual2": {
+      "source": "/workspace/scratch/6baab6e18485/generated_images/exec-6d1390f0-d58a-4aec-9edc-be3dd1c33a41.png",
+      "card": "또도가스",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/또도가스_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "74c5037937d025bf347c89dcb74f00d1b53e0921966d8a6a4c86492e51a1a2e0",
+      "source_sha256": "3739b5611d42cefd5720f1cfb3ac2cf0d2928a0454a82dd5b1e7781e19079d04",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "tall and lean",
+          "hair color": "purple",
+          "eye color": "gold",
+          "hairstyle": "asymmetric cut"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "half_smile",
+            "pose": "perched_seat",
+            "orient": "front",
+            "scene": "In a fashion atelier fitting alcove at warm evening, perched upright on a padded stool, feet apart naturally, one open hand on each separate side of the seat. Looking directly toward camera; warm side lamp and folded fabrics.",
+            "outfit": "Fashion editorial lingerie-inspired outfit: opaque lined plum longline bustier with secure cups, high-waisted cream satin shorts and a sheer loose dressing robe resting around the elbows. Bare shoulders arms upper chest and thighs. No nudity, no transparent intimate panels.",
+            "frame": "three_quarter",
+            "lens": "portrait85",
+            "camera": "",
+            "custom": "EDIT TARGET is image 1, the existing completed fitting-alcove picture. Image 2 is the approved light image for identity only. Preserve image 1 exactly: camera, crop, face, body, outfit, seat, lighting and all background. Change ONLY the hand at the right edge of the picture: shift that hand inward toward her hip, resting naturally on the stool, so the entire hand and all fingertips are at least 70 pixels inside the right edge. Keep the wrist and elbow naturally connected. Show one thumb plus four distinct fingers, correct five-finger anatomy, no cropping. Keep the other hand unchanged.",
+            "aspect": "2:3",
+            "cat": "lingerie",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Weezing (또도가스) personified, poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one mouth corner lifted higher than the other, lips closed, gaze slightly to the side\nPose: Perch on a low ledge or bench with the feet resting naturally below.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: In a fashion atelier fitting alcove at warm evening, perched upright on a padded stool, feet apart naturally, one open hand on each separate side of the seat. Looking directly toward camera; warm side lamp and folded fabrics.\nOutfit and props: Fashion editorial lingerie-inspired outfit: opaque lined plum longline bustier with secure cups, high-waisted cream satin shorts and a sheer loose dressing robe resting around the elbows. Bare shoulders arms upper chest and thighs. No nudity, no transparent intimate panels.\nCategory: Use tasteful adult lingerie-inspired evening fashion with full intimate coverage. Describe the garment by its construction — cut, fabric, trim, straps, closures, layers — rather than by mood words. The garments are securely fitted and fully opaque, and the look is suitable for a mainstream evening-fashion editorial. Build the image through framing, silhouette, posture, and lighting rather than exposure.\nNote: EDIT TARGET is image 1, the existing completed fitting-alcove picture. Image 2 is the approved light image for identity only. Preserve image 1 exactly: camera, crop, face, body, outfit, seat, lighting and all background. Change ONLY the hand at the right edge of the picture: shift that hand inward toward her hip, resting naturally on the stool, so the entire hand and all fingertips are at least 70 pixels inside the right edge. Keep the wrist and elbow naturally connected. Show one thumb plus four distinct fingers, correct five-finger anatomy, no cropping. Keep the other hand unchanged.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "repair": "EDIT TARGET is image 1, the existing completed fitting-alcove picture. Image 2 is the approved light image for identity only. Preserve image 1 exactly: camera, crop, face, body, outfit, seat, lighting and all background. Change ONLY the hand at the right edge of the picture: shift that hand inward toward her hip, resting naturally on the stool, so the entire hand and all fingertips are at least 70 pixels inside the right edge. Keep the wrist and elbow naturally connected. Show one thumb plus four distinct fingers, correct five-finger anatomy, no cropping. Keep the other hand unchanged."
+    },
+    "mobility_overdrive": {
+      "source": "/workspace/scratch/6baab6e18485/generated_images/exec-0a7b5878-fcc7-46cf-9417-225ad5b081b9.png",
+      "card": "또도가스",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "mobility",
+      "output": "img/또도가스_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "dcfaa625b0ad1d2b15fb86b54b92aca0fb19a56d9e80884627e3a18692253c1e",
+      "source_sha256": "9c5f95c82afa7d6612a16a3af35ac7e95f0b4bfbd42ecd32a30cabce8ddbfb16",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "tall and lean",
+          "hair color": "purple",
+          "eye color": "gold",
+          "hairstyle": "asymmetric cut"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Weezing (또도가스), poison type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a violet glow with toxic vapor shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers."
+    },
+    "casual3": {
+      "source": "/workspace/scratch/6baab6e18485/generated_images/exec-8633202e-ca6f-4e06-94ff-864ae3e0b31b.png",
+      "card": "또도가스",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/또도가스_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "7d8f623e16e8ed7ea04f9cb7a3a84ada19c631cc70dfc2559108922e757dbefd",
+      "source_sha256": "b40937d3cf89a7d16ae5b362d53d68d6361f5640a25330171e5077f3f647f463",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "tall and lean",
+          "hair color": "purple",
+          "eye color": "gold",
+          "hairstyle": "asymmetric cut"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "determined",
+            "pose": "carrying_something",
+            "orient": "side",
+            "scene": "At an empty glassblowing gallery workbench in crisp afternoon window light, carrying a finished cool glass bowl using opposite outer sides with widely separated hands. Side-on torso with head turned toward viewer, reflections and amber glass exhibits.",
+            "outfit": "Opaque cream cross-wrap halter top tied securely behind the neck with plum fitted wide-leg trousers. Bare shoulders arms and upper back; tiny linked-circle bracelet. No armor.",
+            "frame": "waist_up",
+            "lens": "natural50",
+            "camera": "",
+            "custom": "EDIT target is image 1. Preserve its face, hair, outfit, camera, torso, gallery, light, near hand and both continuous arms. Change ONLY the far hand at the LEFT side of the glass bowl: rotate its palm and grip so FOUR separate fingers rest on the OUTWARD FRONT LEFT wall of the bowl, visibly readable to the camera with four distinct nails; thumb rests over the rim. Do not place the four fingers behind the bowl. Retain the existing far forearm connected to her own far elbow. It should clearly show ONE THUMB PLUS FOUR FINGERS without transparent glass obscuring them. Keep the entire hand inside the frame. No extra limbs.",
+            "aspect": "2:3",
+            "cat": "hobbies_leisure",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Weezing (또도가스) personified, poison type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: brows pulled down and in, hard forward gaze, jaw clenched, mouth a tight line\nPose: Carry the scene's bag, basket or box with believable hand contact and weight.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: At an empty glassblowing gallery workbench in crisp afternoon window light, carrying a finished cool glass bowl using opposite outer sides with widely separated hands. Side-on torso with head turned toward viewer, reflections and amber glass exhibits.\nOutfit and props: Opaque cream cross-wrap halter top tied securely behind the neck with plum fitted wide-leg trousers. Bare shoulders arms and upper back; tiny linked-circle bracelet. No armor.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: EDIT target is image 1. Preserve its face, hair, outfit, camera, torso, gallery, light, near hand and both continuous arms. Change ONLY the far hand at the LEFT side of the glass bowl: rotate its palm and grip so FOUR separate fingers rest on the OUTWARD FRONT LEFT wall of the bowl, visibly readable to the camera with four distinct nails; thumb rests over the rim. Do not place the four fingers behind the bowl. Retain the existing far forearm connected to her own far elbow. It should clearly show ONE THUMB PLUS FOUR FINGERS without transparent glass obscuring them. Keep the entire hand inside the frame. No extra limbs.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "repair": "EDIT target is image 1. Preserve its face, hair, outfit, camera, torso, gallery, light, near hand and both continuous arms. Change ONLY the far hand at the LEFT side of the glass bowl: rotate its palm and grip so FOUR separate fingers rest on the OUTWARD FRONT LEFT wall of the bowl, visibly readable to the camera with four distinct nails; thumb rests over the rim. Do not place the four fingers behind the bowl. Retain the existing far forearm connected to her own far elbow. It should clearly show ONE THUMB PLUS FOUR FINGERS without transparent glass obscuring them. Keep the entire hand inside the frame. No extra limbs."
+    }
+  },
+  "generated": 9,
+  "upload_status": "Explicit public disclosure approved; prepared for a single main commit.",
+  "qa": {
+    "review": "Visual inspection of every selected output",
+    "same_identity": true,
+    "card_full_body_2_3": true,
+    "opened_pose_camera_pair": true,
+    "both_hands_checked": true,
+    "casual_locations_activities_silhouettes_distinct": true,
+    "weapons_text_logos_absent": true
+  },
+  "status": "Generation complete; nine selected images and this record are prepared for one main commit.",
+  "persistent_baseline": "img/또도가스_light_glossy_promo_f.webp",
+  "public_upload_approved": true
+}
