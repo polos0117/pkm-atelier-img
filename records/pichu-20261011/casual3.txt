@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Pichu (피츄) personified, electric type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement
+Pose: Work at a kitchen counter, stirring a bowl or arranging ingredients with clearly separated hands and utensils.
+Orientation: side body profile, approximately 90 degrees to camera
+Scene: At a quiet open-air berry preserve stall in rosy evening light, side-on spooning a berry mixture into a small glass jar with one hand while the other steadies the jar on the counter. Face readable in profile, both hands distinct, unlabelled jars and fruit baskets.
+Outfit and props: Opaque ivory sleeveless peplum blouse with secure scoop neckline, pale-yellow high-waisted skirt with a short black waist apron. Bare shoulders arms and lower legs, tiny pink circular pendant, no armor.
+Category: Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.
+Note: Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

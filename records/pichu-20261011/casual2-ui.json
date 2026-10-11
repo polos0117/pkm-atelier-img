@@ -1,0 +1,55 @@
+{
+  "mech": "피츄",
+  "sourceName": "Pichu",
+  "series": "electric",
+  "sourceAppearance": {
+    "name": "피츄",
+    "en": "Pichu",
+    "color": "yellow",
+    "shape": "quadruped",
+    "features": [
+      {
+        "part": "rodent",
+        "detail": "small, ground-dwelling rodent"
+      },
+      {
+        "part": "fur",
+        "detail": "pale yellow fur"
+      },
+      {
+        "part": "nose",
+        "detail": "tiny nose"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Pichu_%28Pok%C3%A9mon%29",
+    "revision": 4626294,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "8f4f605250b5bfd6416411cec1d6f5429b218320586ace2cd1d4bfbabc8e39fb",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "style": "glossy_promo",
+  "outputMode": "casual",
+  "scene": "In a bright community bicycle-repair courtyard at midday, kneeling beside a plain bicycle with both hands clearly visible as she seats a small tire pump hose on a valve. Balanced supported posture, full head and feet inside frame, no other people or signage.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "cat": "occupation_basic",
+  "expr": "determined",
+  "pose": "kneeling",
+  "orient": "low_angle",
+  "frame": "full_body",
+  "lens": "documentary35",
+  "outfit": "Opaque black sleeveless fitted utility top, yellow high-waisted work shorts and flat canvas shoes. Bare arms shoulders and legs, tiny pink ear studs, no gloves, no armor.",
+  "identityMode": "reference",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

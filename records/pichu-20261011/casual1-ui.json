@@ -1,0 +1,55 @@
+{
+  "mech": "피츄",
+  "sourceName": "Pichu",
+  "series": "electric",
+  "sourceAppearance": {
+    "name": "피츄",
+    "en": "Pichu",
+    "color": "yellow",
+    "shape": "quadruped",
+    "features": [
+      {
+        "part": "rodent",
+        "detail": "small, ground-dwelling rodent"
+      },
+      {
+        "part": "fur",
+        "detail": "pale yellow fur"
+      },
+      {
+        "part": "nose",
+        "detail": "tiny nose"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Pichu_%28Pok%C3%A9mon%29",
+    "revision": 4626294,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "8f4f605250b5bfd6416411cec1d6f5429b218320586ace2cd1d4bfbabc8e39fb",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "style": "glossy_promo",
+  "outputMode": "casual",
+  "scene": "In a sunlit home sewing room in late morning, standing beside a dressing table and tying a small ribbon into her hair with both hands beside her head. Face fully unobstructed, warm window light, fabric rolls behind her, no mirror.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "cat": "lingerie",
+  "expr": "soft_smile",
+  "pose": "hands_in_hair",
+  "orient": "front_3q",
+  "frame": "waist_up",
+  "lens": "portrait85",
+  "outfit": "Opaque lined pale-yellow satin camisole with secure square neckline and broad straps, matching high-waisted lounge shorts below crop, an open soft black cotton robe draped below the shoulders. Bare shoulders arms and a small midriff gap; tiny pink ribbon hair accessory, no armor.",
+  "identityMode": "reference",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

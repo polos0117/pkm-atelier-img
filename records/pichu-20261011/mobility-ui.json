@@ -1,0 +1,46 @@
+{
+  "mech": "피츄",
+  "sourceName": "Pichu",
+  "series": "electric",
+  "sourceAppearance": {
+    "name": "피츄",
+    "en": "Pichu",
+    "color": "yellow",
+    "shape": "quadruped",
+    "features": [
+      {
+        "part": "rodent",
+        "detail": "small, ground-dwelling rodent"
+      },
+      {
+        "part": "fur",
+        "detail": "pale yellow fur"
+      },
+      {
+        "part": "nose",
+        "detail": "tiny nose"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Pichu_%28Pok%C3%A9mon%29",
+    "revision": 4626294,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "8f4f605250b5bfd6416411cec1d6f5429b218320586ace2cd1d4bfbabc8e39fb",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "style": "glossy_promo",
+  "outputMode": "action",
+  "scene": "At a sunlit urban power-station rooftop with clean yellow railings and distant city skyline, upright balanced card stance, face toward camera, both empty hands relaxed open beside her hips and fully separate from the torso.",
+  "custom": "Vertical 2:3, 1024x1536. Clearly adult woman in her twenties. Both full hands visible with exactly five distinct natural digits each. No weapons.",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "form": "mobility",
+  "identityMode": "reference",
+  "motifs": ""
+}

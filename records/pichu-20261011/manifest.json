@@ -1,0 +1,147 @@
+{
+  "name": "피츄",
+  "slug": "pichu",
+  "style": "glossy_promo",
+  "tool": "built-in image_gen",
+  "assets": {
+    "light": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-8777050f-1056-4e91-8a16-f3d06407bd5d.png",
+      "filename": "피츄_light_glossy_promo_f.webp",
+      "repositoryPath": "img/피츄_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "2b8b39025614fb9f88bee8f9fe946decbb5eae907332374f3d554b030a47af2f",
+      "referenceSlot": null,
+      "prompt": "light.txt",
+      "uiSelection": "light-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "heavy": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-69eb0f9f-85f1-4c35-9d88-718a6d68639e.png",
+      "filename": "피츄_heavy_glossy_promo_f.webp",
+      "repositoryPath": "img/피츄_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e17e124b2065c2316c31758eac51707fbe3ac817a9e114fe89a5bd4b32904483",
+      "referenceSlot": "light",
+      "prompt": "heavy.txt",
+      "uiSelection": "heavy-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "mobility": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-97c34d43-79a3-4622-b8a2-5ef81a16d92f.png",
+      "filename": "피츄_mobility_glossy_promo_f.webp",
+      "repositoryPath": "img/피츄_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "285f30b5d8347e2090976d18e1c33e6e1e53542ef5b1b5d740b484f4bb4a4fb4",
+      "referenceSlot": "light",
+      "prompt": "mobility.txt",
+      "uiSelection": "mobility-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "casual1": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-000f324e-2f14-40e4-83fa-53c31af0e4cf.png",
+      "filename": "피츄_glossy_promo_f_casual1.webp",
+      "repositoryPath": "img/피츄_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4bc080d06ff23afd183a192a0051fa38bdfcc2603780d7967138bec36204928e",
+      "referenceSlot": "light",
+      "prompt": "casual1.txt",
+      "uiSelection": "casual1-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "casual2": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-59b2a5de-5ec0-4f66-886d-0542f8d8514a.png",
+      "filename": "피츄_glossy_promo_f_casual2.webp",
+      "repositoryPath": "img/피츄_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "cb5d3aaec23563f1328d82b4274846215126e170f791edd93603d86442d4178c",
+      "referenceSlot": "light",
+      "prompt": "casual2.txt",
+      "uiSelection": "casual2-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "casual3": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-2798dc8a-d731-443d-a995-958d397d4a1b.png",
+      "filename": "피츄_glossy_promo_f_casual3.webp",
+      "repositoryPath": "img/피츄_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "3239abcf2049c432b8e7f35debb502d0163e1ae97cf6e21823e7758f8a31ade7",
+      "referenceSlot": "light",
+      "prompt": "casual3.txt",
+      "uiSelection": "casual3-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "light_overdrive": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-65ff29a0-3d08-4717-86c1-6a503c14ef8a.png",
+      "filename": "피츄_light_overdrive_glossy_promo_f.webp",
+      "repositoryPath": "img/피츄_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "540a8d4b537e4612b11403884f0a54e0d70391340dc7bf4898bae9ac1a337e5e",
+      "referenceSlot": "light",
+      "prompt": "light_overdrive.txt",
+      "uiSelection": "light_overdrive-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "heavy_overdrive": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-853e09ac-c828-4c8f-a9d2-973dec393a68.png",
+      "filename": "피츄_heavy_overdrive_glossy_promo_f.webp",
+      "repositoryPath": "img/피츄_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "17a9e1f2626016cf5f3cf63282f575889db0ba6772a02018078a63b4fe948e79",
+      "referenceSlot": "heavy",
+      "prompt": "heavy_overdrive.txt",
+      "uiSelection": "heavy_overdrive-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "mobility_overdrive": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-82827fa8-0625-4d40-b419-bd0ec6d95ccc.png",
+      "filename": "피츄_mobility_overdrive_glossy_promo_f.webp",
+      "repositoryPath": "img/피츄_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "21403b736dff6902af0880e21017e8fa1af1b76bb5d54d82493b91b3cdf65130",
+      "referenceSlot": "mobility",
+      "prompt": "mobility_overdrive.txt",
+      "uiSelection": "mobility_overdrive-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    }
+  },
+  "status": "generation_complete",
+  "generationCount": 9,
+  "requestedCount": 9,
+  "uiVerified": true
+}
