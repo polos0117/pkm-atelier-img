@@ -1,0 +1,63 @@
+{
+  "name": "덩쿠리",
+  "slug": "tangela",
+  "hair": "blue",
+  "eye": "amber",
+  "cut": "curly",
+  "body": "curvy",
+  "light": "In a misty botanical conservatory at dawn, front three-quarter poised adult woman. Periwinkle-blue curling vine-shaped slim armor trims and ribbon collar leave her human face entirely clear, red ankle armor and boots, dark charcoal undersuit. Blue curled shoulder ornaments are worn decorative plate edges, no living vines or tentacles. Both open hands separate beside hips; full head and boots with margins.",
+  "casual": [
+    [
+      "occupation_basic",
+      "focused",
+      "mid_action",
+      "side",
+      "waist_up",
+      "natural50",
+      "At an empty rooftop seed-drying terrace on a bright breezy late morning, spreading a handful of tiny seeds over a shallow wooden mesh tray with one open hand while the other holds its opposite edge. Side torso, face gently turned toward viewer; both complete hands, city roof garden and sunlit mesh screens.",
+      "Opaque red sleeveless high-collar cropped utility vest with a secure blue front zipper and high-waisted charcoal wide linen trousers. Bare shoulders arms and midriff, tiny blue glass earrings. No apron or armor."
+    ],
+    [
+      "lingerie",
+      "half_smile",
+      "sitting",
+      "front_3q",
+      "three_quarter",
+      "portrait85",
+      "In an airy greenhouse fashion showroom after dusk, reclining upright against the raised end of a broad wicker chaise, one hand open on the side cushion and the other lifted loosely beside her shoulder. Face toward camera, knees included, blue-hour glass roof and warm lamps.",
+      "Opaque fully lined blue satin longline bustier with secure cups and broad straps, matching high-waisted tap shorts, a short translucent chiffon outer robe around the elbows. Intimate areas fully opaque and covered, bare shoulders midriff and thighs. Small red bead pendant."
+    ],
+    [
+      "travel_exploration",
+      "laughing",
+      "mid_stride",
+      "front",
+      "environmental",
+      "wide24",
+      "On a quiet elevated bamboo forest walkway in bright afternoon after rain, walking toward the camera with both empty hands swinging separately, delighted by a breeze in her curls. Entire figure and boots, wet wood reflections and tall bamboo.",
+      "Opaque red sleeveless square-neck short utility romper with blue waistband and securely fitted torso, cream hiking sandals, tiny blue vine bracelet. Bare arms shoulders and legs, small waist cutouts fully above hips."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "텅구리",
+      "럭키",
+      "통통코",
+      "또도가스",
+      "코뿌리",
+      "꼬지모"
+    ],
+    "scope": "Compared latest three completed characters on main: visually inspected all three Marowak casual images because no generation plan was present; read Chansey/Hoppip plans and six submitted prompts. Also reviewed Weezing/Rhydon/Sudowoodo and earlier batch characters.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition",
+      "Tangela casual1 revised after newest Marowak perfume scene: changed rooftop location, seed-drying activity and high-collar utility silhouette."
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

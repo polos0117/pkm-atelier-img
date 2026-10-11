@@ -1,0 +1,82 @@
+{
+  "selected": {
+    "style": "glossy_promo",
+    "identityMode": "reference",
+    "form": "overdrive",
+    "baseForm": "mobility",
+    "motifs": "",
+    "formOverride": "",
+    "headFeature": "",
+    "params": {
+      "apparent age": "20s",
+      "body type": "curvy",
+      "hair color": "blue",
+      "eye color": "amber",
+      "hairstyle": "curly"
+    },
+    "locks": {},
+    "mode": "casual",
+    "scenes": {
+      "action": {
+        "expr": "",
+        "pose": "",
+        "orient": "",
+        "scene": "",
+        "outfit": "",
+        "frame": "",
+        "lens": "",
+        "camera": "",
+        "custom": "",
+        "aspect": "2:3",
+        "cat": "everyday_basic",
+        "catCustom": "",
+        "ex": "",
+        "exCustom": "",
+        "axes": {},
+        "action": {
+          "category": "",
+          "example": "",
+          "timing": "",
+          "equipment": "",
+          "power": "",
+          "effects": "",
+          "speed": "",
+          "environment": ""
+        },
+        "randomLocks": {}
+      },
+      "casual": {
+        "expr": "focused",
+        "pose": "mid_action",
+        "orient": "side",
+        "scene": "At an empty rooftop seed-drying terrace on a bright breezy late morning, spreading a handful of tiny seeds over a shallow wooden mesh tray with one open hand while the other holds its opposite edge. Side torso, face gently turned toward viewer; both complete hands, city roof garden and sunlit mesh screens.",
+        "outfit": "Opaque red sleeveless high-collar cropped utility vest with a secure blue front zipper and high-waisted charcoal wide linen trousers. Bare shoulders arms and midriff, tiny blue glass earrings. No apron or armor.",
+        "frame": "waist_up",
+        "lens": "natural50",
+        "camera": "",
+        "custom": "Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+        "aspect": "2:3",
+        "cat": "occupation_basic",
+        "catCustom": "",
+        "ex": "",
+        "exCustom": "",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "action": {
+          "category": "",
+          "example": "",
+          "timing": "",
+          "equipment": "",
+          "power": "",
+          "effects": "",
+          "speed": "",
+          "environment": ""
+        },
+        "randomLocks": {}
+      }
+    }
+  },
+  "prompt": "CHARACTER: the same woman as the attached image — Tangela (덩쿠리) personified, grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed\nPose: Capture the selected activity already in progress with a readable natural gesture.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: At an empty rooftop seed-drying terrace on a bright breezy late morning, spreading a handful of tiny seeds over a shallow wooden mesh tray with one open hand while the other holds its opposite edge. Side torso, face gently turned toward viewer; both complete hands, city roof garden and sunlit mesh screens.\nOutfit and props: Opaque red sleeveless high-collar cropped utility vest with a secure blue front zipper and high-waisted charcoal wide linen trousers. Bare shoulders arms and midriff, tiny blue glass earrings. No apron or armor.\nCategory: Show one believable working moment in the Pokémon world. Choose care, research, conservation, berry cultivation, crafts, travel, contests or battle support. Make the profession readable through a concrete task, practical clothing and relevant tools. Preserve the approved woman; invent her own workwear instead of copying an existing trainer, Gym Leader or Pokémon Center character.\nNote: Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+}

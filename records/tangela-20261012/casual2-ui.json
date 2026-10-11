@@ -1,0 +1,82 @@
+{
+  "selected": {
+    "style": "glossy_promo",
+    "identityMode": "reference",
+    "form": "overdrive",
+    "baseForm": "mobility",
+    "motifs": "",
+    "formOverride": "",
+    "headFeature": "",
+    "params": {
+      "apparent age": "20s",
+      "body type": "curvy",
+      "hair color": "blue",
+      "eye color": "amber",
+      "hairstyle": "curly"
+    },
+    "locks": {},
+    "mode": "casual",
+    "scenes": {
+      "action": {
+        "expr": "",
+        "pose": "",
+        "orient": "",
+        "scene": "",
+        "outfit": "",
+        "frame": "",
+        "lens": "",
+        "camera": "",
+        "custom": "",
+        "aspect": "2:3",
+        "cat": "everyday_basic",
+        "catCustom": "",
+        "ex": "",
+        "exCustom": "",
+        "axes": {},
+        "action": {
+          "category": "",
+          "example": "",
+          "timing": "",
+          "equipment": "",
+          "power": "",
+          "effects": "",
+          "speed": "",
+          "environment": ""
+        },
+        "randomLocks": {}
+      },
+      "casual": {
+        "expr": "half_smile",
+        "pose": "sitting",
+        "orient": "front_3q",
+        "scene": "In an airy greenhouse fashion showroom after dusk, reclining upright against the raised end of a broad wicker chaise, one hand open on the side cushion and the other lifted loosely beside her shoulder. Face toward camera, knees included, blue-hour glass roof and warm lamps.",
+        "outfit": "Opaque fully lined blue satin longline bustier with secure cups and broad straps, matching high-waisted tap shorts, a short translucent chiffon outer robe around the elbows. Intimate areas fully opaque and covered, bare shoulders midriff and thighs. Small red bead pendant.",
+        "frame": "three_quarter",
+        "lens": "portrait85",
+        "camera": "",
+        "custom": "Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+        "aspect": "2:3",
+        "cat": "lingerie",
+        "catCustom": "",
+        "ex": "",
+        "exCustom": "",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "action": {
+          "category": "",
+          "example": "",
+          "timing": "",
+          "equipment": "",
+          "power": "",
+          "effects": "",
+          "speed": "",
+          "environment": ""
+        },
+        "randomLocks": {}
+      }
+    }
+  },
+  "prompt": "CHARACTER: the same woman as the attached image — Tangela (덩쿠리) personified, grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one mouth corner lifted higher than the other, lips closed, gaze slightly to the side\nPose: Sit naturally on a chair or bench with supported feet and readable hands.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: In an airy greenhouse fashion showroom after dusk, reclining upright against the raised end of a broad wicker chaise, one hand open on the side cushion and the other lifted loosely beside her shoulder. Face toward camera, knees included, blue-hour glass roof and warm lamps.\nOutfit and props: Opaque fully lined blue satin longline bustier with secure cups and broad straps, matching high-waisted tap shorts, a short translucent chiffon outer robe around the elbows. Intimate areas fully opaque and covered, bare shoulders midriff and thighs. Small red bead pendant.\nCategory: Use tasteful adult lingerie-inspired evening fashion with full intimate coverage. Describe the garment by its construction — cut, fabric, trim, straps, closures, layers — rather than by mood words. The garments are securely fitted and fully opaque, and the look is suitable for a mainstream evening-fashion editorial. Build the image through framing, silhouette, posture, and lighting rather than exposure.\nNote: Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+}

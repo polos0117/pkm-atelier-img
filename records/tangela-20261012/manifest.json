@@ -1,0 +1,900 @@
+{
+  "name": "덩쿠리",
+  "slug": "tangela",
+  "style": "glossy_promo",
+  "gender": "f",
+  "date": "2026-10-12",
+  "requested": 9,
+  "generation_mode": "built-in image_gen",
+  "generator_ui": "actual Preact controls through repository prompt-dom-harness",
+  "comparison": {
+    "reviewed": [
+      "텅구리",
+      "럭키",
+      "통통코",
+      "또도가스",
+      "코뿌리",
+      "꼬지모"
+    ],
+    "scope": "Compared latest three completed characters on main: visually inspected all three Marowak casual images because no generation plan was present; read Chansey/Hoppip plans and six submitted prompts. Also reviewed Weezing/Rhydon/Sudowoodo and earlier batch characters.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition",
+      "Tangela casual1 revised after newest Marowak perfume scene: changed rooftop location, seed-drying activity and high-collar utility silhouette."
+    ]
+  },
+  "images": {
+    "light": {
+      "source": "generated_images/exec-a086a96d-b907-40be-9c51-472579a008fb.png",
+      "card": "덩쿠리",
+      "slot": "light",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": null,
+      "output": "img/덩쿠리_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "10020b9dfefb5d522eda93673aa45bf4bd17b7e16fe6ecd84867052b5706e9ac",
+      "source_sha256": "d2b10f72ba68448e4b92bd0686bc852cac66ea20160665b5150b8d5738dfc42c",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "curvy",
+          "hair color": "blue",
+          "eye color": "amber",
+          "hairstyle": "curly"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "In a misty botanical conservatory at dawn, front three-quarter poised adult woman. Periwinkle-blue curling vine-shaped slim armor trims and ribbon collar leave her human face entirely clear, red ankle armor and boots, dark charcoal undersuit. Blue curled shoulder ornaments are worn decorative plate edges, no living vines or tentacles. Both open hands separate beside hips; full head and boots with margins. Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Tangela (덩쿠리), grass type.\n\nPALETTE: blue, red.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Tangela as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the tangled periwinkle-blue vines become leaf-shaped plates and trim.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: In a misty botanical conservatory at dawn, front three-quarter poised adult woman. Periwinkle-blue curling vine-shaped slim armor trims and ribbon collar leave her human face entirely clear, red ankle armor and boots, dark charcoal undersuit. Blue curled shoulder ornaments are worn decorative plate edges, no living vines or tentacles. Both open hands separate beside hips; full head and boots with margins. Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nbody type: curvy — flowing bust-to-waist and hip-to-waist curves\nhair color: blue\neye color: amber\nhairstyle: curly — broad loose curls\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\neye color consistency: both eyes are amber\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "repository_path": "img/덩쿠리_light_glossy_promo_f.webp"
+    },
+    "heavy": {
+      "source": "generated_images/exec-1caa7ede-565f-4ebc-914b-f1601952b639.png",
+      "card": "덩쿠리",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/덩쿠리_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "9549115f66f11222fbbe385aee2e9a1d2285be1691143ebce6e723cc4fc1f402",
+      "source_sha256": "ca803458a28d8175866c2b1635a9d1b5c7d5c868c46858c958ebb079b23f0873",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "heavy",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "curvy",
+          "hair color": "blue",
+          "eye color": "amber",
+          "hairstyle": "curly"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "A balanced full-body front three-quarter stance in the same setting, both empty open hands well apart and completely visible. Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Tangela (덩쿠리), grass type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: A balanced full-body front three-quarter stance in the same setting, both empty open hands well apart and completely visible. Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "repository_path": "img/덩쿠리_heavy_glossy_promo_f.webp",
+      "reference_repository_path": "img/덩쿠리_light_glossy_promo_f.webp"
+    },
+    "light_overdrive": {
+      "source": "generated_images/exec-3ae64739-b316-47f2-8e90-c5e6f65f1447.png",
+      "card": "덩쿠리",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/덩쿠리_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "04eed701e9b47241f45d7e95cf28ccd3484d1a8aaec0a73e40b85b834c32fb8b",
+      "source_sha256": "96991c28d3ab49c0c5b90fdaf364dc74837c3a8993f15df5969af7b5b71cab36",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "curvy",
+          "hair color": "blue",
+          "eye color": "amber",
+          "hairstyle": "curly"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Tangela (덩쿠리), grass type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a green glow with drifting leaves and pollen sparks shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "repository_path": "img/덩쿠리_light_overdrive_glossy_promo_f.webp",
+      "reference_repository_path": "img/덩쿠리_light_glossy_promo_f.webp"
+    },
+    "mobility": {
+      "source": "generated_images/exec-63ca19d4-f951-476e-a8b8-81c124270222.png",
+      "card": "덩쿠리",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/덩쿠리_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "406d85ecfe8c0ed497b43cf598c6caeaa0399cdf707655c49180cb6b290d8034",
+      "source_sha256": "0cc09556c476bff690205c8022aa8d1013a99a7345dab30b98e7f44fdc3931bb",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "mobility",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "curvy",
+          "hair color": "blue",
+          "eye color": "amber",
+          "hairstyle": "curly"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "A balanced full-body front three-quarter stance in the same setting, both empty open hands well apart and completely visible. Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Tangela (덩쿠리), grass type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: A balanced full-body front three-quarter stance in the same setting, both empty open hands well apart and completely visible. Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "repository_path": "img/덩쿠리_mobility_glossy_promo_f.webp",
+      "reference_repository_path": "img/덩쿠리_light_glossy_promo_f.webp"
+    },
+    "heavy_overdrive": {
+      "source": "generated_images/exec-c4385392-6911-46bb-8565-0605a1cc5de7.png",
+      "card": "덩쿠리",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "heavy",
+      "output": "img/덩쿠리_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "5b876af08c1ff7e156e41ce25e7cec96ddd7739e0d5f140c2c16743bb8967352",
+      "source_sha256": "31aae8e20e1f801fd1464d964b40637797b4dda9ccbe5e06087d9e3516a60273",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "heavy",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "curvy",
+          "hair color": "blue",
+          "eye color": "amber",
+          "hairstyle": "curly"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Tangela (덩쿠리), grass type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a green glow with drifting leaves and pollen sparks shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "repository_path": "img/덩쿠리_heavy_overdrive_glossy_promo_f.webp",
+      "reference_repository_path": "img/덩쿠리_heavy_glossy_promo_f.webp"
+    },
+    "mobility_overdrive": {
+      "source": "generated_images/exec-4f3b0a4c-f61b-4abd-99b7-dbb51e4f3019.png",
+      "card": "덩쿠리",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "mobility",
+      "output": "img/덩쿠리_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "744e0e2c3288136891498672e7a31da663b4b201613fff41062ad14dc1a50908",
+      "source_sha256": "91cbf6072ea653028a54a934992f8820fed66c046e76d44d565d02359920a494",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "curvy",
+          "hair color": "blue",
+          "eye color": "amber",
+          "hairstyle": "curly"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Tangela (덩쿠리), grass type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a green glow with drifting leaves and pollen sparks shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "repository_path": "img/덩쿠리_mobility_overdrive_glossy_promo_f.webp",
+      "reference_repository_path": "img/덩쿠리_mobility_glossy_promo_f.webp"
+    },
+    "casual3": {
+      "source": "generated_images/exec-5d39244a-856b-490b-8771-99b929936044.png",
+      "card": "덩쿠리",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/덩쿠리_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "2164c515e9dce4b8340509eb1cb77ad2df1df13ad150ac9605fda9c454955a4f",
+      "source_sha256": "06e167c5d916f4c31d69a009572997b3d75f902e4d944fbcaec769e10fb5bc66",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "curvy",
+          "hair color": "blue",
+          "eye color": "amber",
+          "hairstyle": "curly"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "laughing",
+            "pose": "mid_stride",
+            "orient": "front",
+            "scene": "On a quiet elevated bamboo forest walkway in bright afternoon after rain, walking toward the camera with both empty hands swinging separately, delighted by a breeze in her curls. Entire figure and boots, wet wood reflections and tall bamboo.",
+            "outfit": "Opaque red sleeveless square-neck short utility romper with blue waistband and securely fitted torso, cream hiking sandals, tiny blue vine bracelet. Bare arms shoulders and legs, small waist cutouts fully above hips.",
+            "frame": "environmental",
+            "lens": "wide24",
+            "camera": "",
+            "custom": "Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+            "aspect": "2:3",
+            "cat": "travel_exploration",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Tangela (덩쿠리) personified, grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: head tipped back slightly, eyes squeezed nearly shut, mouth open wide with teeth showing, cheeks raised high\nPose: Capture a clear mid-stride step with believable weight transfer.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: On a quiet elevated bamboo forest walkway in bright afternoon after rain, walking toward the camera with both empty hands swinging separately, delighted by a breeze in her curls. Entire figure and boots, wet wood reflections and tall bamboo.\nOutfit and props: Opaque red sleeveless square-neck short utility romper with blue waistband and securely fitted torso, cream hiking sandals, tiny blue vine bracelet. Bare arms shoulders and legs, small waist cutouts fully above hips.\nCategory: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.\nNote: Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\nFraming: Environmental long shot: show the complete woman and enough surroundings to establish the activity and location.\nLens / perspective: 24mm-equivalent wide-angle impression with spacious environmental depth; use enough camera distance to avoid stretching the face or limbs.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "repository_path": "img/덩쿠리_glossy_promo_f_casual3.webp",
+      "reference_repository_path": "img/덩쿠리_light_glossy_promo_f.webp"
+    },
+    "casual1": {
+      "source": "generated_images/exec-b3141bea-ed80-4ae8-ad57-4e66fd5466f9.png",
+      "card": "덩쿠리",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/덩쿠리_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "127083337f7e8393dd68b639fb0475694c1e6fc86e78dd39b07effa8aab1fde9",
+      "source_sha256": "e9fb23011bd8d33800cf895ba9dc6a1f3d33327c3794155bbaa4e5c0eb9c84e3",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "curvy",
+          "hair color": "blue",
+          "eye color": "amber",
+          "hairstyle": "curly"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "focused",
+            "pose": "mid_action",
+            "orient": "side",
+            "scene": "At an empty rooftop seed-drying terrace on a bright breezy late morning, spreading a handful of tiny seeds over a shallow wooden mesh tray with one open hand while the other holds its opposite edge. Side torso, face gently turned toward viewer; both complete hands, city roof garden and sunlit mesh screens.",
+            "outfit": "Opaque red sleeveless high-collar cropped utility vest with a secure blue front zipper and high-waisted charcoal wide linen trousers. Bare shoulders arms and midriff, tiny blue glass earrings. No apron or armor.",
+            "frame": "waist_up",
+            "lens": "natural50",
+            "camera": "",
+            "custom": "Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+            "aspect": "2:3",
+            "cat": "occupation_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Tangela (덩쿠리) personified, grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed\nPose: Capture the selected activity already in progress with a readable natural gesture.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: At an empty rooftop seed-drying terrace on a bright breezy late morning, spreading a handful of tiny seeds over a shallow wooden mesh tray with one open hand while the other holds its opposite edge. Side torso, face gently turned toward viewer; both complete hands, city roof garden and sunlit mesh screens.\nOutfit and props: Opaque red sleeveless high-collar cropped utility vest with a secure blue front zipper and high-waisted charcoal wide linen trousers. Bare shoulders arms and midriff, tiny blue glass earrings. No apron or armor.\nCategory: Show one believable working moment in the Pokémon world. Choose care, research, conservation, berry cultivation, crafts, travel, contests or battle support. Make the profession readable through a concrete task, practical clothing and relevant tools. Preserve the approved woman; invent her own workwear instead of copying an existing trainer, Gym Leader or Pokémon Center character.\nNote: Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "repository_path": "img/덩쿠리_glossy_promo_f_casual1.webp",
+      "reference_repository_path": "img/덩쿠리_light_glossy_promo_f.webp"
+    },
+    "casual2": {
+      "source": "generated_images/exec-03d2d0f8-868e-410b-b26d-7f171beb6511.png",
+      "card": "덩쿠리",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/덩쿠리_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "48169863e0a3e180a79fa8db2fce02cdcf56e4c506d707f676e9fd1281a139c3",
+      "source_sha256": "57448b6f055957acdd4f65b108d1c0b7fbc8c0a13506afc091be67893f3d6f12",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "curvy",
+          "hair color": "blue",
+          "eye color": "amber",
+          "hairstyle": "curly"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "half_smile",
+            "pose": "sitting",
+            "orient": "front_3q",
+            "scene": "In an airy greenhouse fashion showroom after dusk, reclining upright against the raised end of a broad wicker chaise, one hand open on the side cushion and the other lifted loosely beside her shoulder. Face toward camera, knees included, blue-hour glass roof and warm lamps.",
+            "outfit": "Opaque fully lined blue satin longline bustier with secure cups and broad straps, matching high-waisted tap shorts, a short translucent chiffon outer robe around the elbows. Intimate areas fully opaque and covered, bare shoulders midriff and thighs. Small red bead pendant.",
+            "frame": "three_quarter",
+            "lens": "portrait85",
+            "camera": "",
+            "custom": "Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.",
+            "aspect": "2:3",
+            "cat": "lingerie",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Tangela (덩쿠리) personified, grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one mouth corner lifted higher than the other, lips closed, gaze slightly to the side\nPose: Sit naturally on a chair or bench with supported feet and readable hands.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: In an airy greenhouse fashion showroom after dusk, reclining upright against the raised end of a broad wicker chaise, one hand open on the side cushion and the other lifted loosely beside her shoulder. Face toward camera, knees included, blue-hour glass roof and warm lamps.\nOutfit and props: Opaque fully lined blue satin longline bustier with secure cups and broad straps, matching high-waisted tap shorts, a short translucent chiffon outer robe around the elbows. Intimate areas fully opaque and covered, bare shoulders midriff and thighs. Small red bead pendant.\nCategory: Use tasteful adult lingerie-inspired evening fashion with full intimate coverage. Describe the garment by its construction — cut, fabric, trim, straps, closures, layers — rather than by mood words. The garments are securely fitted and fully opaque, and the look is suitable for a mainstream evening-fashion editorial. Build the image through framing, silhouette, posture, and lighting rather than exposure.\nNote: Both hands fully inside the frame, visibly connected to their own forearms; each hand has one thumb and four distinct natural fingers, with clear gaps and correct joints. No fused, missing, extra or detached fingers. Single adult woman only; no weapons, text, lettering, logos or watermark.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "repository_path": "img/덩쿠리_glossy_promo_f_casual2.webp",
+      "reference_repository_path": "img/덩쿠리_light_glossy_promo_f.webp"
+    }
+  },
+  "generated": 9,
+  "verification": {
+    "adult_identity": "Same face, hair and build compared against original light image",
+    "anatomy": "All images visually inspected, arms attached and hands readable",
+    "opened_pairs": "Same camera, pose and scale checked against each closed form",
+    "casual_diversity": "Different places, activities, clothing silhouette, expressions, poses, directions and crops checked"
+  }
+}

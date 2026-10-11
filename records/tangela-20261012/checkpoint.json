@@ -1,0 +1,18 @@
+{
+  "stage": "9/9 generated, verified; awaiting image main push and automatic registration",
+  "baseline": "img/덩쿠리_light_glossy_promo_f.webp",
+  "baseline_sha256": "10020b9dfefb5d522eda93673aa45bf4bd17b7e16fe6ecd84867052b5706e9ac",
+  "images": {
+    "light": "img/덩쿠리_light_glossy_promo_f.webp",
+    "heavy": "img/덩쿠리_heavy_glossy_promo_f.webp",
+    "light_overdrive": "img/덩쿠리_light_overdrive_glossy_promo_f.webp",
+    "mobility": "img/덩쿠리_mobility_glossy_promo_f.webp",
+    "heavy_overdrive": "img/덩쿠리_heavy_overdrive_glossy_promo_f.webp",
+    "mobility_overdrive": "img/덩쿠리_mobility_overdrive_glossy_promo_f.webp",
+    "casual3": "img/덩쿠리_glossy_promo_f_casual3.webp",
+    "casual1": "img/덩쿠리_glossy_promo_f_casual1.webp",
+    "casual2": "img/덩쿠리_glossy_promo_f_casual2.webp"
+  },
+  "expected_thumbnail_workflow": "썸네일",
+  "expected_registration_workflow": "그림 등록"
+}
