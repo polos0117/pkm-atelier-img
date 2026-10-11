@@ -1,0 +1,166 @@
+{
+  "name": "아르코",
+  "canonical": "/workspace/scratch/d3347632e784/generated_images/exec-65838af7-afcc-4940-b7ac-dfd98f48c5f5.png",
+  "canonical_sha256": "2c642e301642be8c7ef9130c0a5926c99d383457355d828d8efc3d5f69a0e847",
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "outputs": {
+    "light": {
+      "original": "/workspace/scratch/d3347632e784/generated_images/exec-65838af7-afcc-4940-b7ac-dfd98f48c5f5.png",
+      "file": "/workspace/scratch/d3347632e784/deliverables/img/아르코_light_glossy_promo_f.webp",
+      "repository_path": "img/아르코_light_glossy_promo_f.webp",
+      "sha256": "2c642e301642be8c7ef9130c0a5926c99d383457355d828d8efc3d5f69a0e847",
+      "source_sha256": "2658cc617dcb6fe361ac310d8f3c0d5a70b367fcc040528155bfa174db415f6d",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": null,
+      "style": "glossy_promo",
+      "classification_evidence": "Actual Preact generator UI selections and saved submitted output",
+      "review": "Accepted after visual review: same identity, readable hands, requested framing, no extra figure/text/weapon."
+    },
+    "heavy": {
+      "original": "/workspace/scratch/d3347632e784/generated_images/exec-a102479d-eb60-42d0-ad9d-57b210b0f789.png",
+      "file": "/workspace/scratch/d3347632e784/deliverables/img/아르코_heavy_glossy_promo_f.webp",
+      "repository_path": "img/아르코_heavy_glossy_promo_f.webp",
+      "sha256": "fbb71537b3930cd2141b7e1ab900a4c94c1770eab473e70c6441f0f3b12de2d4",
+      "source_sha256": "76633a75b8e4ce79a2bc051dfc218f307db545f8e9ec42cdbe057b3257ee4bc5",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "style": "glossy_promo",
+      "classification_evidence": "Actual Preact generator UI selections and saved submitted output",
+      "review": "Accepted after visual review: same identity, readable hands, requested framing, no extra figure/text/weapon."
+    },
+    "mobility": {
+      "original": "/workspace/scratch/d3347632e784/generated_images/exec-89c1b79a-cf99-4924-be32-b6851366c631.png",
+      "file": "/workspace/scratch/d3347632e784/deliverables/img/아르코_mobility_glossy_promo_f.webp",
+      "repository_path": "img/아르코_mobility_glossy_promo_f.webp",
+      "sha256": "4ef1d0f4e0a0f4fc732fc09f76908f18f676224c1f5576ee5a2889885db1a932",
+      "source_sha256": "a99b2d52003f96d6d012a5792dd61513aa6d891ec6339effc7c38e5206ff48d9",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "style": "glossy_promo",
+      "classification_evidence": "Actual Preact generator UI selections and saved submitted output",
+      "review": "Accepted after visual review: same identity, readable hands, requested framing, no extra figure/text/weapon."
+    },
+    "light_overdrive": {
+      "original": "/workspace/scratch/d3347632e784/generated_images/exec-5f1e04e9-acdd-4074-9776-e86bb72a603d.png",
+      "file": "/workspace/scratch/d3347632e784/deliverables/img/아르코_light_overdrive_glossy_promo_f.webp",
+      "repository_path": "img/아르코_light_overdrive_glossy_promo_f.webp",
+      "sha256": "c47c2feb4ac48474c025bbf01548f539736880632ba522b22e865c88a9e76ffe",
+      "source_sha256": "254009690e92c796698d0465a4b37afd87e8d290cc39e3f094da94c808961b5a",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "style": "glossy_promo",
+      "classification_evidence": "Actual Preact generator UI selections and saved submitted output",
+      "review": "Accepted after visual review: same identity, readable hands, requested framing, no extra figure/text/weapon."
+    },
+    "heavy_overdrive": {
+      "original": "/workspace/scratch/d3347632e784/generated_images/exec-4829bb37-5e6b-4ebe-b8ed-57e45e737047.png",
+      "file": "/workspace/scratch/d3347632e784/deliverables/img/아르코_heavy_overdrive_glossy_promo_f.webp",
+      "repository_path": "img/아르코_heavy_overdrive_glossy_promo_f.webp",
+      "sha256": "2e9be56a49175efac24a184f9aac1ca0864091c82e761dc8e39f5e7eb7565f65",
+      "source_sha256": "20714b9281da8297f79c652b94ed83ba9cbb2e2661334f6e039739fd48c9ba1c",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "heavy",
+      "style": "glossy_promo",
+      "classification_evidence": "Actual Preact generator UI selections and saved submitted output",
+      "review": "Accepted after visual review: same identity, readable hands, requested framing, no extra figure/text/weapon."
+    },
+    "mobility_overdrive": {
+      "original": "/workspace/scratch/d3347632e784/generated_images/exec-28e3414d-3bbf-4cff-b528-75be59bbd643.png",
+      "file": "/workspace/scratch/d3347632e784/deliverables/img/아르코_mobility_overdrive_glossy_promo_f.webp",
+      "repository_path": "img/아르코_mobility_overdrive_glossy_promo_f.webp",
+      "sha256": "abf42c0f3cc84da36d4f3db17b20459085e3fd5ec190d9a77141120947d13e48",
+      "source_sha256": "f91a7168be17f8dae3d1849cbaac1f071432aca15f8f4e1a2a0d80cd16b5a01e",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "mobility",
+      "style": "glossy_promo",
+      "classification_evidence": "Actual Preact generator UI selections and saved submitted output",
+      "review": "Accepted after visual review: same identity, readable hands, requested framing, no extra figure/text/weapon."
+    },
+    "casual1": {
+      "original": "/workspace/scratch/d3347632e784/generated_images/exec-8dd131c7-4606-4342-bf01-cc3ccb8157b6.png",
+      "file": "/workspace/scratch/d3347632e784/deliverables/img/아르코_glossy_promo_f_casual1.webp",
+      "repository_path": "img/아르코_glossy_promo_f_casual1.webp",
+      "sha256": "a7ee319658397fac0256a1012f90b48f979f2c80940f0de9dbeabd1a379a6238",
+      "source_sha256": "50c726bfc4892485faf25e61a1123d193c171ff8a47d56b3961f01ac3d2c23d5",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "style": "glossy_promo",
+      "classification_evidence": "Actual Preact generator UI selections and saved submitted output",
+      "review": "Accepted after visual review: same identity, readable hands, requested framing, no extra figure/text/weapon."
+    },
+    "casual2": {
+      "original": "/workspace/scratch/d3347632e784/generated_images/exec-04d4741e-2682-402e-8e0d-522209209bca.png",
+      "file": "/workspace/scratch/d3347632e784/deliverables/img/아르코_glossy_promo_f_casual2.webp",
+      "repository_path": "img/아르코_glossy_promo_f_casual2.webp",
+      "sha256": "a7fcce54fd9412b6a19b7a2fe337355f400ef5cd773a85214020499a5cbaffdc",
+      "source_sha256": "c6170fb2b6e89fea59b29d989e9db4594a8add097e0c512b74485f65af6e0dcd",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "style": "glossy_promo",
+      "classification_evidence": "Actual Preact generator UI selections and saved submitted output",
+      "review": "Accepted after visual review: same identity, readable hands, requested framing, no extra figure/text/weapon."
+    },
+    "casual3": {
+      "original": "/workspace/scratch/d3347632e784/generated_images/exec-0bed3637-8c54-44ac-9aad-605ca65447de.png",
+      "file": "/workspace/scratch/d3347632e784/deliverables/img/아르코_glossy_promo_f_casual3.webp",
+      "repository_path": "img/아르코_glossy_promo_f_casual3.webp",
+      "sha256": "f41c296e61191bbfd4014f462f4668df056b3c4ac7f5c05c8baaa02642182e56",
+      "source_sha256": "efa2fc3316c4258d8e5eb3b29e57cc82aef13f8685b5d78a29f7a6e9452cb869",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "style": "glossy_promo",
+      "classification_evidence": "Actual Preact generator UI selections and saved submitted output",
+      "review": "Accepted after visual review: same identity, readable hands, requested framing, no extra figure/text/weapon."
+    }
+  },
+  "upload": "included_in_this_character_commit",
+  "canonical_repository_path": "img/아르코_light_glossy_promo_f.webp",
+  "parent_sha": "6e16fbf61068081c70bb19d2cb2a1ee15276e04f",
+  "repository": "polos0117/pkm-atelier-img"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "아르코",
+  "slug": "bellossom",
+  "hair": "green",
+  "eye": "blue",
+  "cut": "wavy",
+  "body": "slender",
+  "light": "On a sunlit tropical stone garden terrace, an adult woman in a balanced front three-quarter stance, face toward camera, both empty open hands apart beside her hips. Two red flower hair ornaments, green and yellow overlapping leaf-shaped skirt plates, slim green enamel armor and red accents. Full body and footwear with clear margins. Both human hands fully visible and anatomically connected to their own forearms, one thumb and four separate natural fingers per hand. No weapons, text or logos. Portrait 2:3.",
+  "casual": [
+    [
+      "occupation_basic",
+      "focused",
+      "bending_over",
+      "side",
+      "waist_up",
+      "portrait85",
+      "In a flower boutique under a glass conservatory roof on a rainy morning, leaning slightly over the counter and arranging a red-and-white bouquet in a wide ceramic vase. One hand steadies a stem, the other separates a leaf; both hands widely apart and completely readable. Soft diffuse light and tropical foliage.",
+      "Opaque cream backless halter blouse with a secure fitted neckline, high-waisted green linen midi skirt below the crop, small red flower stud earrings. Bare shoulders arms and back. No armor."
+    ],
+    [
+      "adult_roleplay",
+      "mischievous",
+      "hands_in_hair",
+      "front_3q",
+      "three_quarter",
+      "natural50",
+      "In a bamboo-walled event preparation pavilion at warm sunset, standing while placing a tiny flower hairclip beside her ear with one hand, the other open near shoulder level. Looking playfully toward camera. Empty room, woven screens and amber light.",
+      "Original botanical hostess event costume: fitted opaque red corset-style bodice with securely lined sweetheart neckline, green asymmetrical short draped overskirt over yellow fitted shorts, gold sandals. Bare shoulders arms upper chest and legs. Tiny floral brooch, no authentic institutional uniform or armor."
+    ],
+    [
+      "travel_exploration",
+      "surprised",
+      "checking_map",
+      "front",
+      "environmental",
+      "wide24",
+      "On an empty elevated wooden footbridge in a tall rainforest at crisp dawn, standing square to the viewer while opening a plain unlettered folded trail map at waist level and reacting to a distant waterfall. Both hands hold opposite outer map corners. Entire woman and shoes visible amid mist and immense trees.",
+      "Opaque yellow sleeveless fitted hiking romper with secure green zip front, a tied red lightweight shirt at her waist, tan trail sandals and small flower pin. Bare shoulders arms and legs. No armor."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "토게틱",
+      "네이티",
+      "네이티오"
+    ],
+    "scope": "Read three previous plans and all nine submitted casual prompts. Compared earlier planned scenes in this batch.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
