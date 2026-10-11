@@ -1,0 +1,18 @@
+{
+  "stage": "9/9 generated, verified; awaiting image main push and automatic registration",
+  "baseline": "img/해너츠_light_glossy_promo_f.webp",
+  "baseline_sha256": "5d2910bfce7428aa0fa5cf55958bada45985aa27bdf1699f9361537a60b476c3",
+  "images": {
+    "light": "img/해너츠_light_glossy_promo_f.webp",
+    "heavy": "img/해너츠_heavy_glossy_promo_f.webp",
+    "mobility": "img/해너츠_mobility_glossy_promo_f.webp",
+    "light_overdrive": "img/해너츠_light_overdrive_glossy_promo_f.webp",
+    "heavy_overdrive": "img/해너츠_heavy_overdrive_glossy_promo_f.webp",
+    "mobility_overdrive": "img/해너츠_mobility_overdrive_glossy_promo_f.webp",
+    "casual1": "img/해너츠_glossy_promo_f_casual1.webp",
+    "casual2": "img/해너츠_glossy_promo_f_casual2.webp",
+    "casual3": "img/해너츠_glossy_promo_f_casual3.webp"
+  },
+  "expected_thumbnail_workflow": "썸네일",
+  "expected_registration_workflow": "그림 등록"
+}

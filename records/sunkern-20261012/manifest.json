@@ -1,0 +1,896 @@
+{
+  "name": "해너츠",
+  "slug": "sunkern",
+  "style": "glossy_promo",
+  "gender": "f",
+  "date": "2026-10-12",
+  "requested": 9,
+  "generation_mode": "built-in image_gen",
+  "generator_ui": "actual Preact controls through repository prompt-dom-harness",
+  "comparison": {
+    "reviewed": [
+      "에이팜",
+      "솜솜코",
+      "쏘드라"
+    ],
+    "scope": "Read the latest three completed characters plans and all nine submitted casual prompts; also compare earlier characters of this batch.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "images": {
+    "light": {
+      "source": "generated_images/exec-b4c85307-4eee-46ef-8b37-f10a052adb12.png",
+      "card": "해너츠",
+      "slot": "light",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": null,
+      "output": "img/해너츠_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "5d2910bfce7428aa0fa5cf55958bada45985aa27bdf1699f9361537a60b476c3",
+      "source_sha256": "25e51cef796dc2a601e4a139cdddfed79e780c191189260ec4c15a2218b85011",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "Yellow seed-shaped enamel breastplate and shin plates with three broad vertical brown stripes; tiny green sprout hair ornament, brown triangular plate-edge trim. All features are worn clothing details, human skin and unobstructed human face.",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "slender",
+          "hair color": "brown",
+          "eye color": "amber",
+          "hairstyle": "bob"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "At a dew-lit garden stone terrace at dawn, front three-quarter adult woman with both empty open hands apart beside hips. Complete head and boots within a vertical 1024x1536 image. Both hands fully visible and attached to their own arms, five separate natural fingers per hand.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Sunkern (해너츠), grass type.\n\nPALETTE: brown, yellow.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Sunkern as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): Yellow seed-shaped enamel breastplate and shin plates with three broad vertical brown stripes; tiny green sprout hair ornament, brown triangular plate-edge trim. All features are worn clothing details, human skin and unobstructed human face..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: At a dew-lit garden stone terrace at dawn, front three-quarter adult woman with both empty open hands apart beside hips. Complete head and boots within a vertical 1024x1536 image. Both hands fully visible and attached to their own arms, five separate natural fingers per hand.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nbody type: slender — narrow frame and slim limbs, low soft-tissue volume\nhair color: brown\neye color: amber\nhairstyle: bob — bob outline ending between below-ear and neck level\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\neye color consistency: both eyes are amber\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "repository_path": "img/해너츠_light_glossy_promo_f.webp"
+    },
+    "heavy": {
+      "source": "/workspace/scratch/cd7e6cacfc5a/generated_images/exec-9218b4ef-c563-42cd-8074-50985cbe9a37.png",
+      "card": "해너츠",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/해너츠_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c690f9f3df863ff60c80db761661e1e5bedee7352c0e3a3932ce23cbcc00cffb",
+      "source_sha256": "429dab4c72122045d31127ae573b2c9727e337f9fc0d8f9e3b35159fb6ceed18",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "heavy",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "slender",
+          "hair color": "brown",
+          "eye color": "amber",
+          "hairstyle": "bob"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "Full body 1024x1536 vertical. Both empty open hands fully visible beside the body, five distinct fingers on each, no weapon. Choose a different balanced action stance, face toward camera.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Sunkern (해너츠), grass type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: Full body 1024x1536 vertical. Both empty open hands fully visible beside the body, five distinct fingers on each, no weapon. Choose a different balanced action stance, face toward camera.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "repository_path": "img/해너츠_heavy_glossy_promo_f.webp",
+      "reference_repository_path": "img/해너츠_light_glossy_promo_f.webp"
+    },
+    "mobility": {
+      "source": "/workspace/scratch/cd7e6cacfc5a/generated_images/exec-407f79d1-88a5-4593-9295-f50467d8b1f1.png",
+      "card": "해너츠",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/해너츠_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "cfae3f5141de450189ba73b4f5a8a3a4f42219d8604e2282118bd87a614097d5",
+      "source_sha256": "12a1f3b4db4dec40b041330273235a15be95534962f5e4ee68491c3bd67704d2",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "mobility",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "slender",
+          "hair color": "brown",
+          "eye color": "amber",
+          "hairstyle": "bob"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "Full body 1024x1536 vertical. Both empty open hands fully visible beside the body, five distinct fingers on each, no weapon. Choose a different balanced action stance, face toward camera.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Sunkern (해너츠), grass type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: Full body 1024x1536 vertical. Both empty open hands fully visible beside the body, five distinct fingers on each, no weapon. Choose a different balanced action stance, face toward camera.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "repository_path": "img/해너츠_mobility_glossy_promo_f.webp",
+      "reference_repository_path": "img/해너츠_light_glossy_promo_f.webp"
+    },
+    "light_overdrive": {
+      "source": "generated_images/exec-7a2fe4d7-b737-4b5a-8144-fa55b916c913.png",
+      "card": "해너츠",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/해너츠_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "ed4f27cf56da68b6e3a2759bbdd1b4e655684cc6f3214291de52015ea69cc48f",
+      "source_sha256": "ca556e6a3514b4a4094a6f97f2169cc890923673d8fb4257f82dcc5fe09374ee",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "slender",
+          "hair color": "brown",
+          "eye color": "amber",
+          "hairstyle": "bob"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "Full body 1024x1536 vertical. Both empty open hands fully visible beside the body, five distinct fingers on each, no weapon. Choose a different balanced action stance, face toward camera.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Sunkern (해너츠), grass type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a green glow with drifting leaves and pollen sparks shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: Full body 1024x1536 vertical. Both empty open hands fully visible beside the body, five distinct fingers on each, no weapon. Choose a different balanced action stance, face toward camera.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "repository_path": "img/해너츠_light_overdrive_glossy_promo_f.webp",
+      "reference_repository_path": "img/해너츠_light_glossy_promo_f.webp"
+    },
+    "heavy_overdrive": {
+      "source": "/workspace/scratch/cd7e6cacfc5a/generated_images/exec-a932c82b-8bcd-4283-abf3-522840071fd7.png",
+      "card": "해너츠",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "heavy",
+      "output": "img/해너츠_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "69d78d2b72d3c396d0dd9209144c0fc7e115743f384bdcfac24aeb92c5035bf5",
+      "source_sha256": "9c6764a9b4ca0a20036df285dd765685ad0f608b55110464763cd58ffe5b78db",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "heavy",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "slender",
+          "hair color": "brown",
+          "eye color": "amber",
+          "hairstyle": "bob"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Sunkern (해너츠), grass type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a green glow with drifting leaves and pollen sparks shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "repository_path": "img/해너츠_heavy_overdrive_glossy_promo_f.webp",
+      "reference_repository_path": "img/해너츠_heavy_glossy_promo_f.webp"
+    },
+    "mobility_overdrive": {
+      "source": "/workspace/scratch/cd7e6cacfc5a/generated_images/exec-07c37088-b87c-4243-8a65-d8d72131190b.png",
+      "card": "해너츠",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "mobility",
+      "output": "img/해너츠_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "34e14d4252d65c7de5e27600d5479aed03e019bb6d54a29832b016df9fe88dd0",
+      "source_sha256": "dfc74b56bfa81e8a7578c1b9ed3d362ef2a171a455beb8ea23664cddabe0f9af",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "slender",
+          "hair color": "brown",
+          "eye color": "amber",
+          "hairstyle": "bob"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Sunkern (해너츠), grass type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a green glow with drifting leaves and pollen sparks shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "repository_path": "img/해너츠_mobility_overdrive_glossy_promo_f.webp",
+      "reference_repository_path": "img/해너츠_mobility_glossy_promo_f.webp"
+    },
+    "casual1": {
+      "source": "generated_images/exec-9760a826-0dea-4f0b-a96b-70148a268aa5.png",
+      "card": "해너츠",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/해너츠_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "bcda87c15a45b1b71fd6bede9262da4a06b5d2fd03bd94bb1096c0921b4ddfa7",
+      "source_sha256": "9b01703afea3f8cc2e7a9c63dff04147ffbe2823e098e754d20d9c45c623fe8e",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "slender",
+          "hair color": "brown",
+          "eye color": "amber",
+          "hairstyle": "bob"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "Full body 1024x1536 vertical. Both empty open hands fully visible beside the body, five distinct fingers on each, no weapon. Choose a different balanced action stance, face toward camera.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "focused",
+            "pose": "preparing_food",
+            "orient": "front",
+            "scene": "In an empty rustic bakery demonstration kitchen at warm early morning, pressing a wooden dough stamp with one hand onto a loaf while the other rests flat separately on the flour-dusted counter. Both entire hands visible.",
+            "outfit": "Adult culinary event fashion: opaque yellow sleeveless square-neck fitted crop blouse, brown high-waisted short apron skirt over secure fitted shorts. Bare shoulders arms and midriff, tiny sprout stud earrings.",
+            "frame": "waist_up",
+            "lens": "natural50",
+            "camera": "",
+            "custom": "Both entire hands inside the crop with readable wrists and five distinct fingers on each. Single adult woman only; no text, no logos, no weapons.",
+            "aspect": "2:3",
+            "cat": "adult_roleplay",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Sunkern (해너츠) personified, grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed\nPose: Work at a kitchen counter, stirring a bowl or arranging ingredients with clearly separated hands and utensils.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: In an empty rustic bakery demonstration kitchen at warm early morning, pressing a wooden dough stamp with one hand onto a loaf while the other rests flat separately on the flour-dusted counter. Both entire hands visible.\nOutfit and props: Adult culinary event fashion: opaque yellow sleeveless square-neck fitted crop blouse, brown high-waisted short apron skirt over secure fitted shorts. Bare shoulders arms and midriff, tiny sprout stud earrings.\nCategory: Create playful adult event fashion inspired by occupation or roleplay motifs. It must read as a costume made for a stage presentation or themed event, not as an authentic workplace uniform. Use original colours and decorative details — no real institutional insignia, no weapons, no tactical gear. Describe the costume by its tailoring, trim, and props, and show a believable styling or preparation action.\nNote: Both entire hands inside the crop with readable wrists and five distinct fingers on each. Single adult woman only; no text, no logos, no weapons.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "repository_path": "img/해너츠_glossy_promo_f_casual1.webp",
+      "reference_repository_path": "img/해너츠_light_glossy_promo_f.webp"
+    },
+    "casual2": {
+      "source": "/workspace/scratch/cd7e6cacfc5a/generated_images/exec-88747c8d-4891-4cc8-932d-c3fc4987f77a.png",
+      "card": "해너츠",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/해너츠_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e8e2e3854afa362f4923664563898f83328e26b0ba0a377e3c2ed60782544acd",
+      "source_sha256": "24631456762440f847f0560053a2d1baf9259ccd93d633413265cfd85984ba4e",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "slender",
+          "hair color": "brown",
+          "eye color": "amber",
+          "hairstyle": "bob"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "Full body 1024x1536 vertical. Both empty open hands fully visible beside the body, five distinct fingers on each, no weapon. Choose a different balanced action stance, face toward camera.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "amused",
+            "pose": "side_sitting",
+            "orient": "high_angle",
+            "scene": "At an empty outdoor pottery studio courtyard in soft overcast noon, sitting sideways on a low bench painting a plain ceramic tile; one hand holds a broad brush and the other steadies the opposite tile corner. Face lifted toward viewer, both hands and knees clear.",
+            "outfit": "Opaque brown halter wrap top and yellow high-waisted wide culottes, bare arms shoulders upper back and midriff; small seed bead bracelet.",
+            "frame": "three_quarter",
+            "lens": "portrait85",
+            "camera": "",
+            "custom": "Both entire hands inside the crop with readable wrists and five distinct fingers on each. Single adult woman only; no text, no logos, no weapons.",
+            "aspect": "2:3",
+            "cat": "hobbies_leisure",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Sunkern (해너츠) personified, grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed\nPose: Sit on a mat with both legs folded to one side and a relaxed upright torso.\nOrientation: camera above subject looking downward; obey selected framing\nScene: At an empty outdoor pottery studio courtyard in soft overcast noon, sitting sideways on a low bench painting a plain ceramic tile; one hand holds a broad brush and the other steadies the opposite tile corner. Face lifted toward viewer, both hands and knees clear.\nOutfit and props: Opaque brown halter wrap top and yellow high-waisted wide culottes, bare arms shoulders upper back and midriff; small seed bead bracelet.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: Both entire hands inside the crop with readable wrists and five distinct fingers on each. Single adult woman only; no text, no logos, no weapons.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "repository_path": "img/해너츠_glossy_promo_f_casual2.webp",
+      "reference_repository_path": "img/해너츠_light_glossy_promo_f.webp"
+    },
+    "casual3": {
+      "source": "/workspace/scratch/cd7e6cacfc5a/generated_images/exec-9259d037-d516-4c37-863f-56611d13c11f.png",
+      "card": "해너츠",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/해너츠_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "9e3282d4ab479879da65d8419585bf52f8ba3592f0222218917cc6052fa26ac7",
+      "source_sha256": "57d2660213a366aab003046759c94c6eee781272f418805903a61346567190c0",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "slender",
+          "hair color": "brown",
+          "eye color": "amber",
+          "hairstyle": "bob"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "Full body 1024x1536 vertical. Both empty open hands fully visible beside the body, five distinct fingers on each, no weapon. Choose a different balanced action stance, face toward camera.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "laughing",
+            "pose": "dance_step",
+            "orient": "low_angle",
+            "scene": "In a wide empty hillside wildflower meadow at amber sunset, taking a light playful dance step into the breeze, both arms open naturally apart. Whole woman and sandals, distant windmills, flowers are scenery only.",
+            "outfit": "Opaque pale-yellow one-shoulder short sundress with secure lined bodice, brown waist sash and flat sandals, bare shoulder arms legs and narrow side waist cutout; tiny sprout pendant.",
+            "frame": "environmental",
+            "lens": "wide24",
+            "camera": "",
+            "custom": "Both entire hands inside the crop with readable wrists and five distinct fingers on each. Single adult woman only; no text, no logos, no weapons.",
+            "aspect": "2:3",
+            "cat": "travel_exploration",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Sunkern (해너츠) personified, grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: head tipped back slightly, eyes squeezed nearly shut, mouth open wide with teeth showing, cheeks raised high\nPose: Take a small rhythmic dance step with coordinated arms and balanced feet.\nOrientation: camera below subject looking upward; obey selected framing\nScene: In a wide empty hillside wildflower meadow at amber sunset, taking a light playful dance step into the breeze, both arms open naturally apart. Whole woman and sandals, distant windmills, flowers are scenery only.\nOutfit and props: Opaque pale-yellow one-shoulder short sundress with secure lined bodice, brown waist sash and flat sandals, bare shoulder arms legs and narrow side waist cutout; tiny sprout pendant.\nCategory: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.\nNote: Both entire hands inside the crop with readable wrists and five distinct fingers on each. Single adult woman only; no text, no logos, no weapons.\nFraming: Environmental long shot: show the complete woman and enough surroundings to establish the activity and location.\nLens / perspective: 24mm-equivalent wide-angle impression with spacious environmental depth; use enough camera distance to avoid stretching the face or limbs.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "repository_path": "img/해너츠_glossy_promo_f_casual3.webp",
+      "reference_repository_path": "img/해너츠_light_glossy_promo_f.webp"
+    }
+  },
+  "generated": 9,
+  "verification": {
+    "adult_identity": "Same face, hair and build compared against original light image",
+    "anatomy": "All images visually inspected, arms attached and hands readable",
+    "opened_pairs": "Same camera, pose and scale checked against each closed form",
+    "casual_diversity": "Different places, activities, clothing silhouette, expressions, poses, directions and crops checked"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "해너츠",
+  "slug": "sunkern",
+  "hair": "brown",
+  "eye": "amber",
+  "cut": "bob",
+  "body": "slender",
+  "wear": "Yellow seed-shaped enamel breastplate and shin plates with three broad vertical brown stripes; tiny green sprout hair ornament, brown triangular plate-edge trim. All features are worn clothing details, human skin and unobstructed human face.",
+  "light": "At a dew-lit garden stone terrace at dawn, front three-quarter adult woman with both empty open hands apart beside hips. Complete head and boots within a vertical 1024x1536 image.",
+  "casual": [
+    [
+      "adult_roleplay",
+      "focused",
+      "preparing_food",
+      "front",
+      "waist_up",
+      "natural50",
+      "In an empty rustic bakery demonstration kitchen at warm early morning, pressing a wooden dough stamp with one hand onto a loaf while the other rests flat separately on the flour-dusted counter. Both entire hands visible.",
+      "Adult culinary event fashion: opaque yellow sleeveless square-neck fitted crop blouse, brown high-waisted short apron skirt over secure fitted shorts. Bare shoulders arms and midriff, tiny sprout stud earrings."
+    ],
+    [
+      "hobbies_leisure",
+      "amused",
+      "side_sitting",
+      "high_angle",
+      "three_quarter",
+      "portrait85",
+      "At an empty outdoor pottery studio courtyard in soft overcast noon, sitting sideways on a low bench painting a plain ceramic tile; one hand holds a broad brush and the other steadies the opposite tile corner. Face lifted toward viewer, both hands and knees clear.",
+      "Opaque brown halter wrap top and yellow high-waisted wide culottes, bare arms shoulders upper back and midriff; small seed bead bracelet."
+    ],
+    [
+      "travel_exploration",
+      "laughing",
+      "dance_step",
+      "low_angle",
+      "environmental",
+      "wide24",
+      "In a wide empty hillside wildflower meadow at amber sunset, taking a light playful dance step into the breeze, both arms open naturally apart. Whole woman and sandals, distant windmills, flowers are scenery only.",
+      "Opaque pale-yellow one-shoulder short sundress with secure lined bodice, brown waist sash and flat sandals, bare shoulder arms legs and narrow side waist cutout; tiny sprout pendant."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "에이팜",
+      "솜솜코",
+      "쏘드라"
+    ],
+    "scope": "Read the latest three completed characters plans and all nine submitted casual prompts; also compare earlier characters of this batch.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
