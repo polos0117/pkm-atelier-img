@@ -1,0 +1,16 @@
+[
+  {
+    "slot": "light",
+    "initial": "exec-4ab00cc0-becb-4104-8bc8-c9577a336447.png",
+    "final": "exec-5ebaada8-67d5-4751-a49d-fa96bed4a8aa.png",
+    "reason": "raised hand obscured by hair; lowered for readable anatomy",
+    "prompt": "light-correction-prompt.txt"
+  },
+  {
+    "slot": "casual2",
+    "initial": "exec-93bb7ff2-c438-47c4-b90c-3d2487e613bc.png",
+    "final": "exec-ba4181a2-b35b-4220-99b1-31f6af400397.png",
+    "reason": "far hand obscured; moved forward holding camera",
+    "prompt": "casual2-correction-prompt.txt"
+  }
+]

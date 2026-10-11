@@ -1,0 +1,20 @@
+{
+  "complete": 9,
+  "requested": 9,
+  "canonical": {
+    "slot": "light",
+    "source": "exec-5ebaada8-67d5-4751-a49d-fa96bed4a8aa.png",
+    "file": "에이팜_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "ee0fce82a26853d91a744c4276610d85627764c3fa2683611431702b2180071f",
+    "reference": null,
+    "prompt": "light-prompt.txt",
+    "review": "single adult woman, identity and framing checked, hands readable, paired pose retained"
+  },
+  "status": "validated before upload",
+  "reference_recovery": "use canonical file in the image repository"
+}

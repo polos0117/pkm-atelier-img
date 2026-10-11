@@ -1,0 +1,128 @@
+[
+  {
+    "slot": "light",
+    "source": "exec-5ebaada8-67d5-4751-a49d-fa96bed4a8aa.png",
+    "file": "에이팜_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "ee0fce82a26853d91a744c4276610d85627764c3fa2683611431702b2180071f",
+    "reference": null,
+    "prompt": "light-prompt.txt",
+    "review": "single adult woman, identity and framing checked, hands readable, paired pose retained"
+  },
+  {
+    "slot": "heavy",
+    "source": "exec-b647b16b-31cd-43b7-9554-15d74caec16b.png",
+    "file": "에이팜_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "9ed947dee88aec7566f0289fb647f492f31c361caf7775a2510dade21c243ed8",
+    "reference": "light",
+    "prompt": "heavy-prompt.txt",
+    "review": "single adult woman, identity and framing checked, hands readable, paired pose retained"
+  },
+  {
+    "slot": "mobility",
+    "source": "exec-c2a59d30-c2a3-4e9c-8b6b-6da9dc1f9312.png",
+    "file": "에이팜_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "c65b004a811b66867a4dd92e31b5e5da9784adf0d285bc9b6e8020bc1718b8fa",
+    "reference": "light",
+    "prompt": "mobility-prompt.txt",
+    "review": "single adult woman, identity and framing checked, hands readable, paired pose retained"
+  },
+  {
+    "slot": "light_overdrive",
+    "source": "exec-13dad6cf-6ab5-4717-b4a1-c905f0011f75.png",
+    "file": "에이팜_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "ae648b382c7b6d6cd3d0f6812f191122c5ee61dc856d0212e6f9fd7f329d6bbe",
+    "reference": "light",
+    "prompt": "light_overdrive-prompt.txt",
+    "review": "single adult woman, identity and framing checked, hands readable, paired pose retained"
+  },
+  {
+    "slot": "heavy_overdrive",
+    "source": "exec-ec61f3a7-7277-47d0-897a-4438afa1de1d.png",
+    "file": "에이팜_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "ffead14f7bc4e45fc6d5a8c615d223e068af2fac94345e9ac974b50361dd4e33",
+    "reference": "heavy",
+    "prompt": "heavy_overdrive-prompt.txt",
+    "review": "single adult woman, identity and framing checked, hands readable, paired pose retained"
+  },
+  {
+    "slot": "mobility_overdrive",
+    "source": "exec-31bea88c-1dfa-4f4c-a2d2-ffe7199ab8e3.png",
+    "file": "에이팜_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "3240f8c8c1fbfeb340c6252635932d068d36cae80d8bb695c0bf2d73ef25a5f8",
+    "reference": "mobility",
+    "prompt": "mobility_overdrive-prompt.txt",
+    "review": "single adult woman, identity and framing checked, hands readable, paired pose retained"
+  },
+  {
+    "slot": "casual1",
+    "source": "aipom-casual1.png",
+    "file": "에이팜_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "c15d90cbc409638534515cee3d085b9af06ab57a99de301674bed167314216b8",
+    "reference": "light",
+    "prompt": "casual1-prompt.txt",
+    "review": "single adult woman, identity and framing checked, hands readable, paired pose retained"
+  },
+  {
+    "slot": "casual2",
+    "source": "exec-ba4181a2-b35b-4220-99b1-31f6af400397.png",
+    "file": "에이팜_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "56117c6caac27b81a0d7ca913e4f03f74a6c2a37c86f2c2db4aecb1dce83ec5b",
+    "reference": "light",
+    "prompt": "casual2-prompt.txt",
+    "review": "single adult woman, identity and framing checked, hands readable, paired pose retained"
+  },
+  {
+    "slot": "casual3",
+    "source": "exec-f52dda8c-a46c-4938-85b7-a99af3cb5979.png",
+    "file": "에이팜_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "85136c0771d81f92dfa6ee8d09fa8a119170266e6e025e89a34d17a2a94e3fd8",
+    "reference": "light",
+    "prompt": "casual3-prompt.txt",
+    "review": "single adult woman, identity and framing checked, hands readable, paired pose retained"
+  }
+]
