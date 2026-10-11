@@ -1,0 +1,58 @@
+{
+  "name": "뿔카노",
+  "body": "athletic",
+  "hair": "silver",
+  "eye": "amber",
+  "cut": "wolf cut",
+  "light": "In a basalt quarry maintenance hall at dawn, steady front three-quarter standing pose, both empty hands open beside her hips. Angular charcoal and silver rocky armor edges; a small single conical horn-shaped crest on a slim forehead band. Human skin. Entire head and feet visible.",
+  "casual": [
+    [
+      "adult_roleplay",
+      "proud",
+      "standing_formal",
+      "front",
+      "three_quarter",
+      "portrait85",
+      "In an empty mineral auction salon at evening, presenting a small polished geode on a velvet tray at waist height, both hands supporting opposite sides. Warm spotlights and stone plinths.",
+      "Original auction-host event costume: opaque graphite strapless fitted bodice, silver asymmetric short tailored skirt, slim ankle boots, tiny crystal earrings; bare shoulders arms and legs. No workplace insignia."
+    ],
+    [
+      "active",
+      "determined",
+      "mid_action",
+      "side",
+      "full_body",
+      "documentary35",
+      "In an indoor bouldering gym at late afternoon, standing side-on while lightly dusting chalk from two separated open palms before a climb. Both feet on the padded floor, colorful climbing holds behind her, empty gym.",
+      "Opaque slate racerback sports bra with secure broad straps, high-waisted charcoal athletic shorts, climbing shoes. Bare arms shoulders midriff and legs; tiny horn-shaped zipper pull."
+    ],
+    [
+      "hobbies_leisure",
+      "pensive",
+      "sitting",
+      "seated_twist",
+      "waist_up",
+      "natural50",
+      "In a ceramic glazing atelier on a rainy morning, seated twisting gently toward a table, applying a glaze brush to a small ceramic bowl with one hand, other hand steadying its outer rim. Both hands fully visible and apart, cool skylight.",
+      "Opaque ivory sleeveless cropped work blouse with a square neckline, high-waisted slate linen trousers below crop, narrow apron tied at waist; bare arms shoulders and small midriff."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "아르코",
+      "마릴",
+      "마릴리"
+    ],
+    "scope": "Read recent three characters plans and all nine submitted casual prompts; compared earlier characters in this batch.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

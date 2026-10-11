@@ -1,0 +1,145 @@
+{
+  "name": "뿔카노",
+  "style": "glossy_promo",
+  "outputs": {
+    "light": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-64bf2c0b-7403-4bf7-9e4e-4b7d7a98440c.png",
+      "repository_path": "img/뿔카노_light_glossy_promo_f.webp",
+      "sha256": "f32979201c43dd0558860b4bf249832f9b885762201438a8499418d95c788329",
+      "source_sha256": "6feb3b519631593da7ac354a47a709df04cf33699ef17e8f6569139b1ea5504f",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": null,
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "heavy": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-d8c5f628-4be2-48d0-a62c-8d13e67fa6b8.png",
+      "repository_path": "img/뿔카노_heavy_glossy_promo_f.webp",
+      "sha256": "aed9f418e62b0ea97cb9203a10c2bb52d5168ffc6a91b5426c921c01f2b61fa1",
+      "source_sha256": "0d27a3fe99925fd76c37f4180501d712a009f717897287e7f5f7086f962930be",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "mobility": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-60fa0ec2-9ff9-4214-b7b8-79a55efc2640.png",
+      "repository_path": "img/뿔카노_mobility_glossy_promo_f.webp",
+      "sha256": "3ad6d1fc583ca015345e06ab5a0b7a12c446ed25a5860bae7cc0ad24ae76b7a7",
+      "source_sha256": "efb7f028342dac66c98aa9d93d26ed5e499d53113211344c0acdae8e96e870ad",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "light_overdrive": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-2a1278b8-572c-49f1-bf32-2fdd9a824e9c.png",
+      "repository_path": "img/뿔카노_light_overdrive_glossy_promo_f.webp",
+      "sha256": "9f709e244df75d489e91c1f76854e3304a733423ad423f647ac00be0d3b97342",
+      "source_sha256": "4d45ca8ff192d1c06818c28263d8358955c947243ec0c149eab5104f3cba8330",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "heavy_overdrive": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-0f2349d2-0d8d-4c9d-a5f7-d2aa51881475.png",
+      "repository_path": "img/뿔카노_heavy_overdrive_glossy_promo_f.webp",
+      "sha256": "5088d43989c99fbce454809d0fddd9338d457f70f8ec89143922532b0cbdf619",
+      "source_sha256": "01028a69bcd9b54f3d3dbe327d040020eff29ebaa6624c48b1efa6ac147acffe",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "heavy",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "mobility_overdrive": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-4d30cc33-1ae5-46bc-a7d3-e956cc8581a4.png",
+      "repository_path": "img/뿔카노_mobility_overdrive_glossy_promo_f.webp",
+      "sha256": "1988d4a778cff2a273361a6016ef4aca0772a18cf88a3d1a0e3fc129656df484",
+      "source_sha256": "dfcc0e7d9177c59ba626a46ecd832a46b8285df163b86508750130d2de80fa14",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "mobility",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "casual1": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-d84b3924-e296-403d-80ec-0c64a6289737.png",
+      "repository_path": "img/뿔카노_glossy_promo_f_casual1.webp",
+      "sha256": "6df86319f88bf6aa56c57db8887686e4a34a8738b743083851076ce2904dc725",
+      "source_sha256": "0b4f86795d3fda41253e5c77d8ae1ef077c35a26113387825f8cc4183429f9eb",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "casual2": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-f1d02020-0906-48bc-923d-32188780174f.png",
+      "repository_path": "img/뿔카노_glossy_promo_f_casual2.webp",
+      "sha256": "d585a35aa8e28bdfa1469b3362eef0833d43a488ba0de33f7bb1203c6c7f3181",
+      "source_sha256": "12e7d2e6ccf8a17b014ba225d1f29aaf2661dcab62e9982a55a3720408625c77",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "casual3": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-791a13a1-449b-4306-a019-aa14ab92642a.png",
+      "repository_path": "img/뿔카노_glossy_promo_f_casual3.webp",
+      "sha256": "51b6d5d0a9732138fc9963860a23f241f2f28296dbfb350dc5fcbe6c2d18fb71",
+      "source_sha256": "8b2b79032ef387f8b39e4ec8c230540c72ee26189211ddd8d4e668230cb163f2",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    }
+  },
+  "status": "images_complete",
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "canonical_repository_path": "img/뿔카노_light_glossy_promo_f.webp"
+}
