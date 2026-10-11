@@ -1,0 +1,11 @@
+{
+  "first_light_attempt": {
+    "result": "output-stage moderation rejection; no image returned",
+    "request_id": "9ff65901-9afb-46aa-a0ca-59b5779b86e1",
+    "submitted_prompt": "light-rejected.txt"
+  },
+  "retry": {
+    "submitted_prompt": "light.txt",
+    "change": "Clarified adult age and opaque mechanical torso/abdomen/pelvis coverage. Casual intensity and skin exposure settings unchanged."
+  }
+}

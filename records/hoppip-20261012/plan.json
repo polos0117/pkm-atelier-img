@@ -1,0 +1,57 @@
+{
+  "name": "통통코",
+  "slug": "hoppip",
+  "hair": "pink",
+  "eye": "green",
+  "cut": "bob",
+  "body": "slender",
+  "light": "On a breezy grassy hill under high pale clouds, a poised adult woman in front three-quarter card stance, face toward camera. Pink slim armor with vivid green leaf-shaped shoulder trim and a pair of small jagged leaf head ornaments, a short pink tail-shaped belt sash. Human skin, no creature costume, full head and boots visible, both hands open apart. Clearly a 25-year-old adult with mature adult facial structure. An opaque pink and green fitted mechanical undersuit covers her torso, abdomen and pelvis. Nonsexual professional game character artwork.",
+  "comparison": {
+    "reviewed": [
+      "마릴리",
+      "마릴",
+      "아르코",
+      "꼬지모",
+      "왕구리"
+    ],
+    "scope": "Read current main three latest completed plans plus both earlier batch plans; avoid bakery, map, flower arranging, rail suitcase, workshop models, repeat pool or seated café scenes.",
+    "changed": [
+      "location",
+      "specific activity",
+      "outfit silhouette",
+      "composition"
+    ]
+  },
+  "casual": [
+    {
+      "category": "active",
+      "expression": "playful",
+      "pose": "small_jog",
+      "orientation": "turning_midmotion",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "On an empty grassy kite hill in bright windy afternoon, taking a small playful jog while holding one short kite spool at waist height with one hand and guiding its thin line with the other. A plain green diamond kite small in the far sky, both hands visible. Full head and sneakers, pink hair blown gently.",
+      "outfit": "Opaque white cropped zip-front sleeveless athletic vest, pink high-waisted flared running shorts with secure inner shorts, white sneakers. Bare shoulders midriff legs, one tiny green leaf hairpin, no armor."
+    },
+    {
+      "category": "lingerie",
+      "expression": "gentle",
+      "pose": "leaning_furniture",
+      "orientation": "profile_close",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "At an airy private balcony sewing table in warm evening light, leaning lightly against its edge and winding cream cotton thread between two hands held widely apart above the table. Readable face in profile, woven screens and potted ferns softly behind, no mirror or other figure.",
+      "outfit": "Opaque fully lined blush satin lingerie-inspired bralette with secure broad straps and small scalloped trim over opaque fabric, high-waisted cream linen wrap lounge skirt below the crop. Chest and pelvis fully covered, bare shoulders back arms and midriff. Tiny green leaf stud earrings, no armor."
+    },
+    {
+      "category": "occupation_basic",
+      "expression": "curious",
+      "pose": "squatting",
+      "orientation": "front",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "At an open-air weather field station in crisp dawn light, squatting beside a low analog airflow display to release a tiny cotton tuft from one hand while the other open hand rests beside her knee. Facing camera with curiosity, both arms visibly connected, head to above knees, sunrise lighting white reeds. Instruments have blank dials and no letters.",
+      "outfit": "Opaque mint sleeveless short utility dress with secure pink zip front and fitted waist, cream belt, mid-thigh hem with concealed opaque shorts, ankle boots. Bare shoulders arms legs, tiny pink bead bracelet. No lab coat, helmet or armor."
+    }
+  ]
+}

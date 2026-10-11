@@ -1,0 +1,1544 @@
+{
+  "name": "통통코",
+  "style": "glossy_promo",
+  "date": "2026-10-12",
+  "status": "9/9 accepted; commit pending",
+  "comparison": {
+    "reviewed": [
+      "마릴리",
+      "마릴",
+      "아르코",
+      "꼬지모",
+      "왕구리"
+    ],
+    "scope": "Read current main three latest completed plans plus both earlier batch plans; avoid bakery, map, flower arranging, rail suitcase, workshop models, repeat pool or seated café scenes.",
+    "changed": [
+      "location",
+      "specific activity",
+      "outfit silhouette",
+      "composition"
+    ]
+  },
+  "entries": [
+    {
+      "slot": "light",
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Hoppip (통통코), grass / flying type.\n\nPALETTE: green, pink.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Hoppip as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the long green leaves become leaf-shaped plates and trim; the short tail becomes a long sash hanging from the back of her belt, in the same shape and colors.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: On a breezy grassy hill under high pale clouds, a poised adult woman in front three-quarter card stance, face toward camera. Pink slim armor with vivid green leaf-shaped shoulder trim and a pair of small jagged leaf head ornaments, a short pink tail-shaped belt sash. Human skin, no creature costume, full head and boots visible, both hands open apart. Clearly a 25-year-old adult with mature adult facial structure. An opaque pink and green fitted mechanical undersuit covers her torso, abdomen and pelvis. Nonsexual professional game character artwork. 1024x1536 vertical 2:3. Both empty hands visible, each with one thumb and four separate fingers. No weapons.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nhair color: pink\neye color: green\nhairstyle: bob — bob outline ending between below-ear and neck level\nbody type: slender — narrow frame and slim limbs, low soft-tissue volume\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\neye color consistency: both eyes are green\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "ui_verified": true,
+      "settings": {
+        "last": "통통코",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "통통코": {
+            "style": "glossy_promo",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "pink",
+              "eye color": "green",
+              "hairstyle": "bob",
+              "body type": "slender"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "On a breezy grassy hill under high pale clouds, a poised adult woman in front three-quarter card stance, face toward camera. Pink slim armor with vivid green leaf-shaped shoulder trim and a pair of small jagged leaf head ornaments, a short pink tail-shaped belt sash. Human skin, no creature costume, full head and boots visible, both hands open apart. Clearly a 25-year-old adult with mature adult facial structure. An opaque pink and green fitted mechanical undersuit covers her torso, abdomen and pelvis. Nonsexual professional game character artwork. 1024x1536 vertical 2:3. Both empty hands visible, each with one thumb and four separate fingers. No weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "source_png": "/workspace/scratch/06b39c92be67/generated_images/exec-6eac7176-6c5f-4448-b6a5-32f39fc163cd.png",
+      "output": "img/통통코_light_glossy_promo_f.webp",
+      "sha256": "d3f5c8c13060d59327b4e5cc350b17612b02e527424551d23f1e2ee213b9b723",
+      "size": [
+        1024,
+        1536
+      ],
+      "references": [],
+      "tool": "built-in image_gen",
+      "review": "Visually inspected: single adult identity, natural hand connections and fingers, requested silhouette and framing, no weapons/text; opened pair matches original camera/pose"
+    },
+    {
+      "slot": "heavy",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Hoppip (통통코), grass / flying type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: 1024x1536 vertical 2:3. One adult woman, full body and all boots visible, face toward camera, both empty open hands separated beside hips, exactly five natural fingers each. No weapons.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "ui_verified": true,
+      "settings": {
+        "last": "통통코",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "통통코": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "heavy",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "pink",
+              "eye color": "green",
+              "hairstyle": "bob",
+              "body type": "slender"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3. One adult woman, full body and all boots visible, face toward camera, both empty open hands separated beside hips, exactly five natural fingers each. No weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "source_png": "/workspace/scratch/06b39c92be67/generated_images/exec-e50772f7-2217-438a-8734-98b3de885f06.png",
+      "output": "img/통통코_heavy_glossy_promo_f.webp",
+      "sha256": "bb648767a6d2d4de4ea57ae12bffad39cb723a97f72a5fdb356d8d7f1b90e745",
+      "size": [
+        1024,
+        1536
+      ],
+      "references": [
+        "/workspace/scratch/06b39c92be67/generated_images/exec-6eac7176-6c5f-4448-b6a5-32f39fc163cd.png"
+      ],
+      "tool": "built-in image_gen",
+      "review": "Visually inspected: single adult identity, natural hand connections and fingers, requested silhouette and framing, no weapons/text; opened pair matches original camera/pose"
+    },
+    {
+      "slot": "mobility",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Hoppip (통통코), grass / flying type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: 1024x1536 vertical 2:3. One adult woman, full body and all boots visible, face toward camera, both empty open hands separated beside hips, exactly five natural fingers each. No weapons.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "ui_verified": true,
+      "settings": {
+        "last": "통통코",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "통통코": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "mobility",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "pink",
+              "eye color": "green",
+              "hairstyle": "bob",
+              "body type": "slender"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3. One adult woman, full body and all boots visible, face toward camera, both empty open hands separated beside hips, exactly five natural fingers each. No weapons.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "source_png": "/workspace/scratch/06b39c92be67/generated_images/exec-3c012893-40b9-44b2-9641-f55d57454163.png",
+      "output": "img/통통코_mobility_glossy_promo_f.webp",
+      "sha256": "bfb3f24f981240b6677406ac774ac1eb0c7ef1c59b98cc37dbe19d5b5d0bb426",
+      "size": [
+        1024,
+        1536
+      ],
+      "references": [
+        "/workspace/scratch/06b39c92be67/generated_images/exec-6eac7176-6c5f-4448-b6a5-32f39fc163cd.png"
+      ],
+      "tool": "built-in image_gen",
+      "review": "Visually inspected: single adult identity, natural hand connections and fingers, requested silhouette and framing, no weapons/text; opened pair matches original camera/pose"
+    },
+    {
+      "slot": "light_overdrive",
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Hoppip (통통코), grass / flying type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a green glow with drifting leaves and pollen sparks shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536 vertical 2:3. Keep both hands with five clearly separated natural fingers, empty hands.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_verified": true,
+      "settings": {
+        "last": "통통코",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "통통코": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "pink",
+              "eye color": "green",
+              "hairstyle": "bob",
+              "body type": "slender"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3. Keep both hands with five clearly separated natural fingers, empty hands.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "source_png": "/workspace/scratch/06b39c92be67/generated_images/exec-41c2db4f-b4e7-4d2b-aa15-92e234a929aa.png",
+      "output": "img/통통코_light_overdrive_glossy_promo_f.webp",
+      "sha256": "d8c789d3ea2f5c4364e58b4734e665d4fd7851559d07695c4949cfa79f75dca0",
+      "size": [
+        1024,
+        1536
+      ],
+      "references": [
+        "/workspace/scratch/06b39c92be67/generated_images/exec-6eac7176-6c5f-4448-b6a5-32f39fc163cd.png"
+      ],
+      "tool": "built-in image_gen",
+      "review": "Visually inspected: single adult identity, natural hand connections and fingers, requested silhouette and framing, no weapons/text; opened pair matches original camera/pose"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Hoppip (통통코), grass / flying type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a green glow with drifting leaves and pollen sparks shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536 vertical 2:3. Keep both hands with five clearly separated natural fingers, empty hands.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_verified": true,
+      "settings": {
+        "last": "통통코",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "통통코": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "heavy",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "pink",
+              "eye color": "green",
+              "hairstyle": "bob",
+              "body type": "slender"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3. Keep both hands with five clearly separated natural fingers, empty hands.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "source_png": "/workspace/scratch/06b39c92be67/generated_images/exec-87bc3f8a-30e5-4fe3-9905-da9042b83b78.png",
+      "output": "img/통통코_heavy_overdrive_glossy_promo_f.webp",
+      "sha256": "3cb5ae93cce94caf6b967114d01d820ed37cd8865608775a32f0021bbec53e98",
+      "size": [
+        1024,
+        1536
+      ],
+      "references": [
+        "/workspace/scratch/06b39c92be67/generated_images/exec-e50772f7-2217-438a-8734-98b3de885f06.png"
+      ],
+      "tool": "built-in image_gen",
+      "review": "Visually inspected: single adult identity, natural hand connections and fingers, requested silhouette and framing, no weapons/text; opened pair matches original camera/pose"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Hoppip (통통코), grass / flying type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a green glow with drifting leaves and pollen sparks shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536 vertical 2:3. Keep both hands with five clearly separated natural fingers, empty hands.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "ui_verified": true,
+      "settings": {
+        "last": "통통코",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "통통코": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "pink",
+              "eye color": "green",
+              "hairstyle": "bob",
+              "body type": "slender"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3. Keep both hands with five clearly separated natural fingers, empty hands.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "source_png": "/workspace/scratch/06b39c92be67/generated_images/exec-8886426c-b1ce-40fe-80b6-e7eb18dfd395.png",
+      "output": "img/통통코_mobility_overdrive_glossy_promo_f.webp",
+      "sha256": "92959cce42cc43c16243d3b7aad54a50c6c42a1ed3f6038046093e56da8611c6",
+      "size": [
+        1024,
+        1536
+      ],
+      "references": [
+        "/workspace/scratch/06b39c92be67/generated_images/exec-3c012893-40b9-44b2-9641-f55d57454163.png"
+      ],
+      "tool": "built-in image_gen",
+      "review": "Visually inspected: single adult identity, natural hand connections and fingers, requested silhouette and framing, no weapons/text; opened pair matches original camera/pose"
+    },
+    {
+      "slot": "casual1",
+      "prompt": "CHARACTER: the same woman as the attached image — Hoppip (통통코) personified, grass / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement\nPose: Jog lightly with compact arm movement and a believable running step.\nOrientation: mid-turn body motion with equipment following its body mounts\nScene: On an empty grassy kite hill in bright windy afternoon, taking a small playful jog while holding one short kite spool at waist height with one hand and guiding its thin line with the other. A plain green diamond kite small in the far sky, both hands visible. Full head and sneakers, pink hair blown gently.\nOutfit and props: Opaque white cropped zip-front sleeveless athletic vest, pink high-waisted flared running shorts with secure inner shorts, white sneakers. Bare shoulders midriff legs, one tiny green leaf hairpin, no armor.\nCategory: Show real movement with fashion-forward activewear or movement-oriented clothing. Avoid generic gym snapshots. Prioritize dynamic motion, readable silhouette, waist and hip lines, fabric movement, and varied action.\nNote: 1024x1536 vertical 2:3. Both human hands visible and anatomically joined to their own forearms, one thumb and four clearly separate fingers each. Clearly adult, opaque clothing covering chest and pelvis. Remove large headpieces and all armor; retain only the tiny accessories explicitly specified in this outfit. No weapons or lettering.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_verified": true,
+      "settings": {
+        "last": "통통코",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "통통코": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "pink",
+              "eye color": "green",
+              "hairstyle": "bob",
+              "body type": "slender"
+            },
+            "locks": {},
+            "mode": "casual",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3. Keep both hands with five clearly separated natural fingers, empty hands.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "playful",
+                "pose": "small_jog",
+                "orient": "turning_midmotion",
+                "scene": "On an empty grassy kite hill in bright windy afternoon, taking a small playful jog while holding one short kite spool at waist height with one hand and guiding its thin line with the other. A plain green diamond kite small in the far sky, both hands visible. Full head and sneakers, pink hair blown gently.",
+                "outfit": "Opaque white cropped zip-front sleeveless athletic vest, pink high-waisted flared running shorts with secure inner shorts, white sneakers. Bare shoulders midriff legs, one tiny green leaf hairpin, no armor.",
+                "frame": "full_body",
+                "lens": "documentary35",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3. Both human hands visible and anatomically joined to their own forearms, one thumb and four clearly separate fingers each. Clearly adult, opaque clothing covering chest and pelvis. Remove large headpieces and all armor; retain only the tiny accessories explicitly specified in this outfit. No weapons or lettering.",
+                "aspect": "2:3",
+                "cat": "active",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {
+                  "overall_intensity": "strong",
+                  "skin_exposure": "bold"
+                },
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "source_png": "/workspace/scratch/06b39c92be67/generated_images/exec-26a4196b-c3f2-4a08-aa89-b3d31e8bb575.png",
+      "output": "img/통통코_glossy_promo_f_casual1.webp",
+      "sha256": "4a1a21f3ed3e5d395ab8bebcbeb856e51904e453e98590d82753b8b05c9831d1",
+      "size": [
+        1024,
+        1536
+      ],
+      "references": [
+        "/workspace/scratch/06b39c92be67/generated_images/exec-6eac7176-6c5f-4448-b6a5-32f39fc163cd.png"
+      ],
+      "tool": "built-in image_gen",
+      "review": "Visually inspected: single adult identity, natural hand connections and fingers, requested silhouette and framing, no weapons/text; opened pair matches original camera/pose"
+    },
+    {
+      "slot": "casual2",
+      "prompt": "CHARACTER: the same woman as the attached image — Hoppip (통통코) personified, grass / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere\nPose: Rest a hand or forearm on a table, counter or railing in a relaxed supported pose.\nOrientation: side profile, close only when no explicit framing is selected\nScene: At an airy private balcony sewing table in warm evening light, leaning lightly against its edge and winding cream cotton thread between two hands held widely apart above the table. Readable face in profile, woven screens and potted ferns softly behind, no mirror or other figure.\nOutfit and props: Opaque fully lined blush satin lingerie-inspired bralette with secure broad straps and small scalloped trim over opaque fabric, high-waisted cream linen wrap lounge skirt below the crop. Chest and pelvis fully covered, bare shoulders back arms and midriff. Tiny green leaf stud earrings, no armor.\nCategory: Use tasteful adult lingerie-inspired evening fashion with full intimate coverage. Describe the garment by its construction — cut, fabric, trim, straps, closures, layers — rather than by mood words. The garments are securely fitted and fully opaque, and the look is suitable for a mainstream evening-fashion editorial. Build the image through framing, silhouette, posture, and lighting rather than exposure.\nNote: 1024x1536 vertical 2:3. Both human hands visible and anatomically joined to their own forearms, one thumb and four clearly separate fingers each. Clearly adult, opaque clothing covering chest and pelvis. Remove large headpieces and all armor; retain only the tiny accessories explicitly specified in this outfit. No weapons or lettering.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_verified": true,
+      "settings": {
+        "last": "통통코",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "통통코": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "pink",
+              "eye color": "green",
+              "hairstyle": "bob",
+              "body type": "slender"
+            },
+            "locks": {},
+            "mode": "casual",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3. Keep both hands with five clearly separated natural fingers, empty hands.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "gentle",
+                "pose": "leaning_furniture",
+                "orient": "profile_close",
+                "scene": "At an airy private balcony sewing table in warm evening light, leaning lightly against its edge and winding cream cotton thread between two hands held widely apart above the table. Readable face in profile, woven screens and potted ferns softly behind, no mirror or other figure.",
+                "outfit": "Opaque fully lined blush satin lingerie-inspired bralette with secure broad straps and small scalloped trim over opaque fabric, high-waisted cream linen wrap lounge skirt below the crop. Chest and pelvis fully covered, bare shoulders back arms and midriff. Tiny green leaf stud earrings, no armor.",
+                "frame": "waist_up",
+                "lens": "portrait85",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3. Both human hands visible and anatomically joined to their own forearms, one thumb and four clearly separate fingers each. Clearly adult, opaque clothing covering chest and pelvis. Remove large headpieces and all armor; retain only the tiny accessories explicitly specified in this outfit. No weapons or lettering.",
+                "aspect": "2:3",
+                "cat": "lingerie",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {
+                  "overall_intensity": "strong",
+                  "skin_exposure": "bold"
+                },
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "source_png": "/workspace/scratch/06b39c92be67/generated_images/exec-0dc9893b-8b0a-4af8-8792-f7e2efeec22f.png",
+      "output": "img/통통코_glossy_promo_f_casual2.webp",
+      "sha256": "577a11c511f405a55677d123046f1b1916c3f568bd19947a78ea751660f002d6",
+      "size": [
+        1024,
+        1536
+      ],
+      "references": [
+        "/workspace/scratch/06b39c92be67/generated_images/exec-6eac7176-6c5f-4448-b6a5-32f39fc163cd.png"
+      ],
+      "tool": "built-in image_gen",
+      "review": "Visually inspected: single adult identity, natural hand connections and fingers, requested silhouette and framing, no weapons/text; opened pair matches original camera/pose"
+    },
+    {
+      "slot": "casual3",
+      "prompt": "CHARACTER: the same woman as the attached image — Hoppip (통통코) personified, grass / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted\nPose: Squat comfortably to interact at a lower height with balanced feet.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: At an open-air weather field station in crisp dawn light, squatting beside a low analog airflow display to release a tiny cotton tuft from one hand while the other open hand rests beside her knee. Facing camera with curiosity, both arms visibly connected, head to above knees, sunrise lighting white reeds. Instruments have blank dials and no letters.\nOutfit and props: Opaque mint sleeveless short utility dress with secure pink zip front and fitted waist, cream belt, mid-thigh hem with concealed opaque shorts, ankle boots. Bare shoulders arms legs, tiny pink bead bracelet. No lab coat, helmet or armor.\nCategory: Show one believable working moment in the Pokémon world. Choose care, research, conservation, berry cultivation, crafts, travel, contests or battle support. Make the profession readable through a concrete task, practical clothing and relevant tools. Preserve the approved woman; invent her own workwear instead of copying an existing trainer, Gym Leader or Pokémon Center character.\nNote: 1024x1536 vertical 2:3. Both human hands visible and anatomically joined to their own forearms, one thumb and four clearly separate fingers each. Clearly adult, opaque clothing covering chest and pelvis. Remove large headpieces and all armor; retain only the tiny accessories explicitly specified in this outfit. No weapons or lettering.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "ui_verified": true,
+      "settings": {
+        "last": "통통코",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "통통코": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "pink",
+              "eye color": "green",
+              "hairstyle": "bob",
+              "body type": "slender"
+            },
+            "locks": {},
+            "mode": "casual",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3. Keep both hands with five clearly separated natural fingers, empty hands.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "curious",
+                "pose": "squatting",
+                "orient": "front",
+                "scene": "At an open-air weather field station in crisp dawn light, squatting beside a low analog airflow display to release a tiny cotton tuft from one hand while the other open hand rests beside her knee. Facing camera with curiosity, both arms visibly connected, head to above knees, sunrise lighting white reeds. Instruments have blank dials and no letters.",
+                "outfit": "Opaque mint sleeveless short utility dress with secure pink zip front and fitted waist, cream belt, mid-thigh hem with concealed opaque shorts, ankle boots. Bare shoulders arms legs, tiny pink bead bracelet. No lab coat, helmet or armor.",
+                "frame": "three_quarter",
+                "lens": "natural50",
+                "camera": "",
+                "custom": "1024x1536 vertical 2:3. Both human hands visible and anatomically joined to their own forearms, one thumb and four clearly separate fingers each. Clearly adult, opaque clothing covering chest and pelvis. Remove large headpieces and all armor; retain only the tiny accessories explicitly specified in this outfit. No weapons or lettering.",
+                "aspect": "2:3",
+                "cat": "occupation_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {
+                  "overall_intensity": "strong",
+                  "skin_exposure": "bold"
+                },
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      },
+      "source_png": "/workspace/scratch/06b39c92be67/generated_images/exec-9e0e2795-48bd-4e4a-ae91-296ae538fb0b.png",
+      "output": "img/통통코_glossy_promo_f_casual3.webp",
+      "sha256": "8293ac7e3c583dfd2b7e6f9526431788ee773aa985a6eec456046aa88ee1be2e",
+      "size": [
+        1024,
+        1536
+      ],
+      "references": [
+        "/workspace/scratch/06b39c92be67/generated_images/exec-6eac7176-6c5f-4448-b6a5-32f39fc163cd.png"
+      ],
+      "tool": "built-in image_gen",
+      "review": "Visually inspected: single adult identity, natural hand connections and fingers, requested silhouette and framing, no weapons/text; opened pair matches original camera/pose"
+    }
+  ],
+  "canonical": "img/통통코_light_glossy_promo_f.webp"
+}
