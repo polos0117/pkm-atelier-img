@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Chansey (럭키) personified, normal type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed
+Pose: Rest a hand or forearm on a table, counter or railing in a relaxed supported pose.
+Orientation: torso and pelvis face the camera; gaze is independent
+Scene: In an empty fashion showroom under warm late-evening lamps, lightly leaning against a cream dressing console while fastening a small pearl bracelet on one wrist, both hands clearly readable at waist height. No mirror or reflections.
+Outfit and props: Opaque fully lined blush satin corset-style evening camisole with secure wide straps and cream lace trim over opaque fabric, matching high-waisted tailored satin shorts with scalloped opaque hems. Bare arms shoulders and legs; tiny oval pearl earrings.
+Category: Use tasteful adult lingerie-inspired evening fashion with full intimate coverage. Describe the garment by its construction — cut, fabric, trim, straps, closures, layers — rather than by mood words. The garments are securely fitted and fully opaque, and the look is suitable for a mainstream evening-fashion editorial. Build the image through framing, silhouette, posture, and lighting rather than exposure.
+Note: Both hands completely visible, naturally attached to their own wrists; one thumb and four distinctly separate fingers on each hand. No weapons. 1024 x 1536 vertical 2:3. Remove all armor and large headpieces for this off-duty image; species motifs remain only tiny jewelry or color echoes.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+Lens / perspective: 135mm-equivalent telephoto perspective from farther away, with compressed background depth and unchanged anatomy.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

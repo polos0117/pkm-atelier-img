@@ -1,0 +1,60 @@
+{
+  "name": "럭키",
+  "body": "soft-figured",
+  "hair": "pink",
+  "eye": "blue",
+  "cut": "bob",
+  "light": "In a bright rose-white wellness atrium, front three-quarter standing pose, empty open hands relaxed apart. Rounded pink and cream slim armor plates, an oval pearl inset on the abdominal plate echoing the egg pouch, small soft fin-shaped hair ornaments. Clearly adult human woman, entire head and feet inside frame.",
+  "casual": [
+    [
+      "hobbies_leisure",
+      "amused",
+      "mid_action",
+      "front_3q",
+      "waist_up",
+      "natural50",
+      "Inside a bright craft-room in late morning, sewing a small cream fabric pouch with a blunt needle, one hand holding its side while the other draws a thread gently, both hands separate and visible, rose-colored notions in background.",
+      "Opaque pink sleeveless tailored crop blouse with a shallow V neckline and broad straps, cream high-waisted skirt below crop. Bare arms shoulders and small midriff, tiny oval pearl pendant."
+    ],
+    [
+      "lingerie",
+      "confident",
+      "leaning_furniture",
+      "front",
+      "three_quarter",
+      "telephoto135",
+      "In an empty fashion showroom under warm late-evening lamps, lightly leaning against a cream dressing console while fastening a small pearl bracelet on one wrist, both hands clearly readable at waist height. No mirror or reflections.",
+      "Opaque fully lined blush satin corset-style evening camisole with secure wide straps and cream lace trim over opaque fabric, matching high-waisted tailored satin shorts with scalloped opaque hems. Bare arms shoulders and legs; tiny oval pearl earrings."
+    ],
+    [
+      "food_berries",
+      "gentle",
+      "walking",
+      "low_angle",
+      "full_body",
+      "documentary35",
+      "At a quiet orchard picnic path on a crisp autumn afternoon, walking carefully with a shallow wicker basket of berries held at waist level by both handles, both hands visible apart, complete woman and shoes visible beneath golden trees.",
+      "Opaque cream sleeveless wrap mini dress with secure pink waist tie, fitted neckline and lined skirt, rose walking sandals, tiny oval pocket ornament. Bare shoulders arms upper chest and legs."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "아르코",
+      "마릴",
+      "마릴리",
+      "뿔카노",
+      "코뿌리"
+    ],
+    "scope": "Read recent three characters plans and all nine submitted casual prompts; compared earlier characters in this batch.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

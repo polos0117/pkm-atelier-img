@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Chansey (럭키) personified, normal type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere
+Pose: Walk at a comfortable pace with a natural step and arm swing.
+Orientation: camera below subject looking upward; obey selected framing
+Scene: At a quiet orchard picnic path on a crisp autumn afternoon, walking carefully with a shallow wicker basket of berries held at waist level by both handles, both hands visible apart, complete woman and shoes visible beneath golden trees.
+Outfit and props: Opaque cream sleeveless wrap mini dress with secure pink waist tie, fitted neckline and lined skirt, rose walking sandals, tiny oval pocket ornament. Bare shoulders arms upper chest and legs.
+Category: Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.
+Note: Both hands completely visible, naturally attached to their own wrists; one thumb and four distinctly separate fingers on each hand. No weapons. 1024 x 1536 vertical 2:3. Remove all armor and large headpieces for this off-duty image; species motifs remain only tiny jewelry or color echoes.
+Framing: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.
+Lens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

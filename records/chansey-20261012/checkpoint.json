@@ -1,0 +1,145 @@
+{
+  "name": "럭키",
+  "style": "glossy_promo",
+  "outputs": {
+    "light": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-3fc9c1e8-7a31-40b4-9e31-2b516b0153d8.png",
+      "repository_path": "img/럭키_light_glossy_promo_f.webp",
+      "sha256": "20fefd4607879f78c68e9f7736f8ad158bbd82aacb5edc6d1435a437f9f35581",
+      "source_sha256": "e311552410083d126c6bd94c324ce007281cc341d752c28a16f891293baa28cc",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": null,
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "heavy": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-3a5d1b7d-9872-402b-afc2-eaff953973f9.png",
+      "repository_path": "img/럭키_heavy_glossy_promo_f.webp",
+      "sha256": "57c9c913a56434b37d514ddbfca941426d4f788633b79c34e5d80879d835cc43",
+      "source_sha256": "8b5a2c5cd7f2a2d4cc50f77bb13c6f3c7cff7a710e40647b1a1a53316b70bd4a",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "mobility": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-ba945a82-d4d6-4bee-9a1c-19e3118288d5.png",
+      "repository_path": "img/럭키_mobility_glossy_promo_f.webp",
+      "sha256": "f4e842a201de3b4a776777ef3cffcf65022bf6e465206b21c37c305ecc91fdc1",
+      "source_sha256": "875fa758272e1ff901cd2a4c0e023e8810a77ff5d78e56344e2a64de16e8a270",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "light_overdrive": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-68ba4c53-f9a6-412d-a430-3ab277ac1fb1.png",
+      "repository_path": "img/럭키_light_overdrive_glossy_promo_f.webp",
+      "sha256": "79e8fb8cb24dfd11cccd439e83c504607e70df88631bf5be4014a539fa239e48",
+      "source_sha256": "0c34bc8c95043bbe6d60eb1acff84e9e9b0076fac4b4596c6882c614eb422557",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "heavy_overdrive": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-503e67db-bf2f-4596-a7cf-c9b17f473f33.png",
+      "repository_path": "img/럭키_heavy_overdrive_glossy_promo_f.webp",
+      "sha256": "4dc03310714c6e4018d7dbc769e69e6223ef656dcfcfab9a2a279210b29b76cd",
+      "source_sha256": "83ddc6d913e77f0860895246f841b3a5e69a39e307d0dfea5e3e3d9f9f851b51",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "heavy",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "mobility_overdrive": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-ac6a8afd-25a4-4c50-8583-45975080dd28.png",
+      "repository_path": "img/럭키_mobility_overdrive_glossy_promo_f.webp",
+      "sha256": "440b1373533629d731fce50a349c526a71ea203263ea95cb9952877b52bde0e4",
+      "source_sha256": "95a0ded315dd5b82a2e16695d8f632dfdd7ca2a8f153443b048a6451e67158e6",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "mobility",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "casual1": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-19fa8608-b5e0-4c7e-90bb-be18db3360ef.png",
+      "repository_path": "img/럭키_glossy_promo_f_casual1.webp",
+      "sha256": "9c307bfb5d3c67a7c575a9c387b6611da0e7c036e8cdd5e7d07828770e3cdb0d",
+      "source_sha256": "29560f990d685a16a26723f33f0fbb03f3afb44964d5d3a0102d51ef5a81f32b",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "casual2": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-cb76aeda-ff1c-4ec7-9669-f623141b4995.png",
+      "repository_path": "img/럭키_glossy_promo_f_casual2.webp",
+      "sha256": "eaa76cce4a3d748167999dc228fa1144661ea61e9d70c919074cd8cda3cde009",
+      "source_sha256": "d13f447015ba3eea914935aca0ef7e1dc118a77b8ee45c5fc0b708b0d60c4a86",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    },
+    "casual3": {
+      "original": "/workspace/scratch/f552c883aba4/generated_images/exec-2f73cd59-3ac9-43ca-9a38-634946df5aa1.png",
+      "repository_path": "img/럭키_glossy_promo_f_casual3.webp",
+      "sha256": "e1353bcdd4928e9dd93e00ede9e33314265a2197f9445ba9db90e6e8f7de4bbd",
+      "source_sha256": "9d6f648315c52c50f99d765d9e027a148c04d3349b7cd536487db70f3b0ca013",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "evidence": "Actual Preact generator UI selections, saved submitted prompt, built-in imagegen",
+      "review": "Visually reviewed: adult identity, framing, hands, no extra figure or text; approved for registration."
+    }
+  },
+  "status": "images_complete",
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "canonical_repository_path": "img/럭키_light_glossy_promo_f.webp"
+}
