@@ -1,0 +1,23 @@
+CHARACTER: the same woman as the attached image — Skiploom (두코) personified, grass / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted
+Pose: Rest a hand or forearm on a table, counter or railing in a relaxed supported pose.
+Orientation: side body profile, approximately 90 degrees to camera
+Scene: Inside a sunlit glass-craft studio in the quiet early morning, lightly leaning at a waist-high workbench and inspecting a small green glass sun-catcher held between two widely separated hands. Side profile with face visible, warm light through tall windows, no mirrors or other figures.
+Outfit and props: Opaque pale-yellow cropped linen sleeveless wrap blouse with a secure neckline and emerald high-waisted trousers below the crop. Bare shoulders arms and midriff, tiny flower pendant. No apron or armor.
+Category: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

@@ -1,0 +1,55 @@
+{
+  "name": "두코",
+  "style": "glossy_promo",
+  "age": "20s",
+  "source": "actual prompt generator UI",
+  "comparison": {
+    "reviewed": [
+      "통통코",
+      "럭키",
+      "코뿌리"
+    ],
+    "changed": [
+      "location",
+      "activity",
+      "silhouette",
+      "composition"
+    ]
+  },
+  "casual": [
+    {
+      "category": "adult_roleplay",
+      "expression": "confident",
+      "pose": "waving",
+      "orientation": "front",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "time": "blue hour",
+      "lighting": "warm lanterns"
+    },
+    {
+      "category": "active",
+      "expression": "determined",
+      "pose": "mid_action",
+      "orientation": "turning_midmotion",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "time": "noon",
+      "lighting": "bright daylight"
+    },
+    {
+      "category": "hobbies_leisure",
+      "expression": "curious",
+      "pose": "leaning_furniture",
+      "orientation": "side",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "time": "morning",
+      "lighting": "window sunlight"
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

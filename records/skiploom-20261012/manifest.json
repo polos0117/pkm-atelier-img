@@ -1,0 +1,128 @@
+[
+  {
+    "slot": "light",
+    "source": "exec-c1d64946-a0ae-42cc-a653-9c64b870be8a.png",
+    "file": "두코_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "3188c6439359b6ec828d641d27507e1841ffd55d1db412a4ebe1c35bf0c9ab99",
+    "reference": null,
+    "prompt": "light-prompt.txt",
+    "review": "single adult woman, identity retained, readable hands, framing checked; opened pair pose retained"
+  },
+  {
+    "slot": "heavy",
+    "source": "exec-65742ca2-104d-4490-bcb4-044eb442a140.png",
+    "file": "두코_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "ef33b928f57a4faf2fd8ecf78cabd768ff5bbc44c1526bfe633c4fefac8d0ea8",
+    "reference": "light",
+    "prompt": "heavy-prompt.txt",
+    "review": "single adult woman, identity retained, readable hands, framing checked; opened pair pose retained"
+  },
+  {
+    "slot": "mobility",
+    "source": "exec-a0cf54ac-f9b6-4bf5-94d8-b89d19e2a317.png",
+    "file": "두코_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "7a153c1e2ae26f378a54794f8bffd237da2b8c904081f890d01ed96d2c747c6e",
+    "reference": "light",
+    "prompt": "mobility-prompt.txt",
+    "review": "single adult woman, identity retained, readable hands, framing checked; opened pair pose retained"
+  },
+  {
+    "slot": "light_overdrive",
+    "source": "exec-5fe1eb02-e235-40c0-b061-d24ac1b4df30.png",
+    "file": "두코_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "7e7e5a1591547a49355bd6e8fcbc3f00f89636786e809050f09d97d4805393c7",
+    "reference": "light",
+    "prompt": "light_overdrive-prompt.txt",
+    "review": "single adult woman, identity retained, readable hands, framing checked; opened pair pose retained"
+  },
+  {
+    "slot": "heavy_overdrive",
+    "source": "exec-f3273bf8-d819-4f72-8c18-4e56dfc1711b.png",
+    "file": "두코_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "8edfd20faf2bc1d0f1819cd38c8b13c96997de1e8a804c74e23770597451c713",
+    "reference": "heavy",
+    "prompt": "heavy_overdrive-prompt.txt",
+    "review": "single adult woman, identity retained, readable hands, framing checked; opened pair pose retained"
+  },
+  {
+    "slot": "mobility_overdrive",
+    "source": "exec-9379ee03-ae72-49d7-99a2-bdeba0859f2b.png",
+    "file": "두코_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "2446df0eccacd8f62cee49d1a8b993f9914fa2b9b8aeddc5798677955dbe02a3",
+    "reference": "mobility",
+    "prompt": "mobility_overdrive-prompt.txt",
+    "review": "single adult woman, identity retained, readable hands, framing checked; opened pair pose retained"
+  },
+  {
+    "slot": "casual1",
+    "source": "exec-2bdd626f-35b4-4356-8eca-8d24e30540f1.png",
+    "file": "두코_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "2c4aae8b687f14f98340d71049204cb480e08fe74089c747d7f0248164c89b63",
+    "reference": "light",
+    "prompt": "casual1-prompt.txt",
+    "review": "single adult woman, identity retained, readable hands, framing checked; opened pair pose retained"
+  },
+  {
+    "slot": "casual2",
+    "source": "exec-dfec7a39-dd36-4538-9fd3-827968cfb664.png",
+    "file": "두코_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "083de50b9e592e8513450a6a73dcea61086c0ee4f54750eead3d005465aa5f66",
+    "reference": "light",
+    "prompt": "casual2-prompt.txt",
+    "review": "single adult woman, identity retained, readable hands, framing checked; opened pair pose retained"
+  },
+  {
+    "slot": "casual3",
+    "source": "exec-d9e4d77a-abe7-47a6-b60f-0122044010cf.png",
+    "file": "두코_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "75d0097dcc3fe40ca754cc8d42c96ab980e2acaaa7c440ce165106432313dcde",
+    "reference": "light",
+    "prompt": "casual3-prompt.txt",
+    "review": "single adult woman, identity retained, readable hands, framing checked; opened pair pose retained"
+  }
+]

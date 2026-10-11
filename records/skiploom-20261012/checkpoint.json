@@ -1,0 +1,19 @@
+{
+  "complete": 9,
+  "requested": 9,
+  "canonical": {
+    "slot": "light",
+    "source": "exec-c1d64946-a0ae-42cc-a653-9c64b870be8a.png",
+    "file": "두코_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "3188c6439359b6ec828d641d27507e1841ffd55d1db412a4ebe1c35bf0c9ab99",
+    "reference": null,
+    "prompt": "light-prompt.txt",
+    "review": "single adult woman, identity retained, readable hands, framing checked; opened pair pose retained"
+  },
+  "status": "validated before upload"
+}
