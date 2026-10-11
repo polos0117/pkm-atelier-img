@@ -1,0 +1,164 @@
+[
+  {
+    "card": "보송송",
+    "slot": "light",
+    "style": "glossy_promo",
+    "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-532eb31f-3671-4033-9478-f1cd3e82c892.png",
+    "reference": null,
+    "source_sha256": "d8ee8fdaff2ea51cc7f0cb7a5062361f4f5adbf226afaf0c1ebd568545a4c660",
+    "filename": "보송송_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "f1928b762ae6d6c66904679bd4cdd7128c4bdb4cf0f8fb78f0577b8458d6305d",
+    "prompt_file": "light.txt",
+    "ui_file": "light-ui.json",
+    "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+  },
+  {
+    "card": "보송송",
+    "slot": "heavy",
+    "style": "glossy_promo",
+    "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-ca0d8705-0329-4be5-8e4d-14aa0261ff5a.png",
+    "reference": "exec-532eb31f-3671-4033-9478-f1cd3e82c892.png",
+    "source_sha256": "10c0791ebac839e35570ad6502c6a915a0756fb66eda4f9a9674773a673721fe",
+    "filename": "보송송_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "a137037ac230f267538bf8d2381625a98978bf791bc7bb47a80220dd1ab1a233",
+    "prompt_file": "heavy.txt",
+    "ui_file": "heavy-ui.json",
+    "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+  },
+  {
+    "card": "보송송",
+    "slot": "mobility",
+    "style": "glossy_promo",
+    "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-1377fae5-05eb-4b93-b5d2-159937764f1d.png",
+    "reference": "exec-532eb31f-3671-4033-9478-f1cd3e82c892.png",
+    "source_sha256": "b12db44e076d911c0d12e0f02e7778d64bf83f1f63568ee4f4420f4e638d035a",
+    "filename": "보송송_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "bfd83ae3b9b21e6e4736494016d7761456ba10d6b155b3db1ffc74e2a4618edf",
+    "prompt_file": "mobility.txt",
+    "ui_file": "mobility-ui.json",
+    "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+  },
+  {
+    "card": "보송송",
+    "slot": "light_overdrive",
+    "style": "glossy_promo",
+    "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-dfc1a7ca-3e75-4e41-a202-7a872271a803.png",
+    "reference": "exec-532eb31f-3671-4033-9478-f1cd3e82c892.png",
+    "source_sha256": "09ab28dc37a92a123d79495aa8a7cca1cb7bd877766300c7387f6f464c5e7b3d",
+    "filename": "보송송_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "372ca5ee739e3cebc80157d3667d064cb2ffa807dccc05550b99fc06117ea7d1",
+    "prompt_file": "light_overdrive.txt",
+    "ui_file": "light_overdrive-ui.json",
+    "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+  },
+  {
+    "card": "보송송",
+    "slot": "heavy_overdrive",
+    "style": "glossy_promo",
+    "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-28f9dfba-6cfd-4913-80a1-646a4b097347.png",
+    "reference": "exec-ca0d8705-0329-4be5-8e4d-14aa0261ff5a.png",
+    "source_sha256": "527e315db81e07dead54e08b27a614f8f2ba5cc289c4660610340c7a1ddba642",
+    "filename": "보송송_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "eb030302bc337ada3b9418f963293bb090e75855ff84f513aac6639ed002e81a",
+    "prompt_file": "heavy_overdrive.txt",
+    "ui_file": "heavy_overdrive-ui.json",
+    "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+  },
+  {
+    "card": "보송송",
+    "slot": "mobility_overdrive",
+    "style": "glossy_promo",
+    "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-6d432df9-a252-40f5-9d64-0bc2bca6d78d.png",
+    "reference": "exec-1377fae5-05eb-4b93-b5d2-159937764f1d.png",
+    "source_sha256": "4d9be6e76aee8a15cea7b5450d9f6cd274e2a411094df713ee06b8ccf4e862b3",
+    "filename": "보송송_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "7399693c800b37b898e7f8c45410544f73a3d729c7feba3036d20e52fccfff4b",
+    "prompt_file": "mobility_overdrive.txt",
+    "ui_file": "mobility_overdrive-ui.json",
+    "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+  },
+  {
+    "card": "보송송",
+    "slot": "casual1",
+    "style": "glossy_promo",
+    "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-cc033932-45fe-417d-b6fa-f93057b21b5b.png",
+    "reference": "exec-532eb31f-3671-4033-9478-f1cd3e82c892.png",
+    "source_sha256": "dcaa702adc457daf72cdefbb7001c812449dcf9c826d6bea1fe603269efd4e0f",
+    "filename": "보송송_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "a02fcdc355c356dda12e7b2f62b3c83b88e27829ec8bfef136e6ace09b3ac572",
+    "prompt_file": "casual1.txt",
+    "ui_file": "casual1-ui.json",
+    "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+  },
+  {
+    "card": "보송송",
+    "slot": "casual2",
+    "style": "glossy_promo",
+    "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-2e17528f-c653-4872-9171-3c10fbf69e65.png",
+    "reference": "exec-532eb31f-3671-4033-9478-f1cd3e82c892.png",
+    "source_sha256": "1999971d2e76feb3a567552893af81ea60abe8d27297c91de50ae83bd3e87af2",
+    "filename": "보송송_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "d3bf392fbb56336e522a1a081030f553c20c90f82d449e7aeee0d398551e9ba1",
+    "prompt_file": "casual2.txt",
+    "ui_file": "casual2-ui.json",
+    "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+  },
+  {
+    "card": "보송송",
+    "slot": "casual3",
+    "style": "glossy_promo",
+    "source": "/workspace/scratch/13d0c6c5b95f/generated_images/exec-03136a82-421c-4b8b-bd1e-92f39e395b06.png",
+    "reference": "exec-532eb31f-3671-4033-9478-f1cd3e82c892.png",
+    "source_sha256": "db7d083f184d940ae1589009a97ddfa7a6f52fa25345b5715a5c345323a98f51",
+    "filename": "보송송_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "edf8e8bab121a8566882f9434f2e6452dd1b55cdb516e36dd7328773ed7d8bfe",
+    "prompt_file": "casual3.txt",
+    "ui_file": "casual3-ui.json",
+    "validation": "Viewed generated result: identity, full card framing, separate hands, form silhouette, opened pair and distinct lifestyle scene."
+  }
+]

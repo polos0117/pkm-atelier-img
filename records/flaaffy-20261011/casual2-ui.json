@@ -1,0 +1,67 @@
+{
+  "mech": "보송송",
+  "sourceName": "Flaaffy",
+  "series": "electric",
+  "style": "glossy_promo",
+  "sourceAppearance": {
+    "name": "보송송",
+    "en": "Flaaffy",
+    "color": "pink",
+    "shape": "upright",
+    "features": [
+      {
+        "part": "stripe",
+        "detail": "black stripes"
+      },
+      {
+        "part": "mane",
+        "detail": "white mane"
+      },
+      {
+        "part": "tail",
+        "detail": "long tail"
+      },
+      {
+        "part": "ear",
+        "detail": "thick, conical ears"
+      },
+      {
+        "part": "curl",
+        "detail": "sideways curls"
+      },
+      {
+        "part": "arm",
+        "detail": "stubby arms"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Flaaffy_%28Pok%C3%A9mon%29",
+    "revision": 4623359,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "a2304ec3540b2388a0d68ccfdcff46d112f4f76c716eb0bc7e7f690899a5c0ac",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "occupation_basic",
+  "expr": "focused",
+  "pose": "watering",
+  "orient": "front",
+  "frame": "waist_up",
+  "lens": "natural50",
+  "scene": "In a sunny balcony herb nursery at early morning, gently watering a small basil pot with a small clear watering vessel held naturally in one hand while the other steadies the pot, both complete hands in crop, dappled leaf shadows.",
+  "outfit": "White sleeveless high-neck fitted blouse with pink high-waisted shorts below crop, secure side-waist openings, short utility apron. Bare arms shoulders and narrow waist, tiny blue bead pendant.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman. Both complete hands visible with exactly five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people. Species only as a tiny accessory or color echo.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

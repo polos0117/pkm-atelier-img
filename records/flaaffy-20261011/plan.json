@@ -1,0 +1,49 @@
+{
+  "name": "보송송",
+  "scene": "In an empty rosy-lit glass greenhouse terrace at twilight, stable full-body card stance facing the camera, both empty hands open and fully separate beside her hips, complete boots visible.",
+  "casual": [
+    [
+      "lingerie",
+      "pensive",
+      "sitting_floor",
+      "high_angle",
+      "three_quarter",
+      "portrait85",
+      "In a softly lit blush dressing atelier after sunset, seated on a broad rug beside a low mirror, folding a satin ribbon with both hands clearly separate above her lap; high camera showing face knees and complete hands, quiet warm lamp glow.",
+      "Lingerie-inspired fashion: opaque rose satin structured camisole with secure wide straps, matching high-waisted short bloomers, a loose ivory sheer overshirt around elbows. Fully covered chest and pelvis, bare shoulders arms thighs and waist. Tiny blue orb earrings."
+    ],
+    [
+      "occupation_basic",
+      "focused",
+      "watering",
+      "front",
+      "waist_up",
+      "natural50",
+      "In a sunny balcony herb nursery at early morning, gently watering a small basil pot with a small clear watering vessel held naturally in one hand while the other steadies the pot, both complete hands in crop, dappled leaf shadows.",
+      "White sleeveless high-neck fitted blouse with pink high-waisted shorts below crop, secure side-waist openings, short utility apron. Bare arms shoulders and narrow waist, tiny blue bead pendant."
+    ],
+    [
+      "active",
+      "playful",
+      "mid_action",
+      "turning_midmotion",
+      "full_body",
+      "wide24",
+      "At an empty pastel rooftop badminton practice court under overcast afternoon light, performing a light sideways warmup step without any equipment, arms extended modestly for balance, both open hands clear, face turns toward camera and entire feet visible.",
+      "Pink secure racerback sports crop with opaque broad underband, white high-waisted pleated sports skirt over fitted pink shorts and simple sneakers. Bare shoulders arms midriff legs, tiny blue hair clip."
+    ]
+  ],
+  "motifs": "Rose-pink plates and white wool-like ruffled collar trim, conical striped hair ornaments, a long black-ringed sash with a small blue orb-shaped hem jewel, and blue gem accents; human skin remains natural",
+  "comparison_previous_batch": [
+    "mareep"
+  ],
+  "comparison": {
+    "characters": [
+      "슬리프",
+      "슬리퍼",
+      "크랩"
+    ],
+    "source": "Read recent generated plans and prompts for Drowzee, Hypno, Krabby: hammock stretch, sleeper train loungewear, lantern dance, clock hostess, stair fitness, acoustic research, tide survey, pastry kitchen, seaside towel.",
+    "changes": "New location, concrete activity, silhouette and camera. Compared preceding characters in current batch."
+  }
+}
