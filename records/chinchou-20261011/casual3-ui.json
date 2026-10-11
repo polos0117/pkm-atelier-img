@@ -1,0 +1,63 @@
+{
+  "mech": "초라기",
+  "sourceName": "Chinchou",
+  "series": "water / electric",
+  "sourceAppearance": {
+    "name": "초라기",
+    "en": "Chinchou",
+    "color": "blue",
+    "shape": "fish",
+    "features": [
+      {
+        "part": "fin",
+        "detail": "transparent, light blue pectoral fins"
+      },
+      {
+        "part": "body",
+        "detail": "round, blue body"
+      },
+      {
+        "part": "orb",
+        "detail": "yellow, teardrop-shaped orbs"
+      },
+      {
+        "part": "foot",
+        "detail": "stubby feet"
+      },
+      {
+        "part": "eye",
+        "detail": "large yellow eyes"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Chinchou_%28Pok%C3%A9mon%29",
+    "revision": 4630309,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "fdec685db794860aabfce54bbad48c91141bea106d1bd393808537f8127f1a86",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "style": "glossy_promo",
+  "outputMode": "casual",
+  "scene": "In a dark aquarium maintenance gallery at afternoon, leaning slightly over a counter and using one hand to turn a small unlabelled lighting dimmer while the other rests open on the counter. Empty blue-lit glass tanks behind her; warm task light on face and hands.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "cat": "occupation_basic",
+  "expr": "focused",
+  "pose": "leaning_furniture",
+  "orient": "leaning_forward",
+  "frame": "three_quarter",
+  "lens": "natural50",
+  "outfit": "Opaque white sleeveless fitted work blouse with a secure V-neck, navy high-waisted straight shorts and a narrow yellow tool belt. Bare arms and legs, small yellow teardrop hair clip replacing armored headgear.",
+  "identityMode": "reference",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

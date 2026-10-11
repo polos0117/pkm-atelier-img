@@ -1,0 +1,148 @@
+{
+  "name": "초라기",
+  "slug": "chinchou",
+  "style": "glossy_promo",
+  "tool": "built-in image_gen",
+  "assets": {
+    "light": {
+      "source": "generated_images/exec-56317d23-6fe2-4391-bc4c-d350be023631.png",
+      "filename": "초라기_light_glossy_promo_f.webp",
+      "repositoryPath": "img/초라기_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "af075ae052516349ad4f7999a17ce3c3d5836ad76cf3b5baf723886c4168ed0e",
+      "referenceSlot": null,
+      "prompt": "light.txt",
+      "uiSelection": "light-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "heavy": {
+      "source": "generated_images/exec-4e38eb76-e950-46b6-b500-f333e474bb8c.png",
+      "filename": "초라기_heavy_glossy_promo_f.webp",
+      "repositoryPath": "img/초라기_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "497513cd0f385d3a2c61d3691fb08bda20d560f0c8e2c7d546c1b84d15074416",
+      "referenceSlot": "light",
+      "prompt": "heavy.txt",
+      "uiSelection": "heavy-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "mobility": {
+      "source": "generated_images/exec-521cae38-fe3f-4ef7-8500-46a020600557.png",
+      "filename": "초라기_mobility_glossy_promo_f.webp",
+      "repositoryPath": "img/초라기_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "27efe23c7e1cef57e5821218b2dbd0a162bbe29b3e8fffa00ad11d28e2a3ff1b",
+      "referenceSlot": "light",
+      "prompt": "mobility.txt",
+      "uiSelection": "mobility-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "light_overdrive": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-38a231e8-c3c2-43b8-9fa7-e15d9edee2f9.png",
+      "filename": "초라기_light_overdrive_glossy_promo_f.webp",
+      "repositoryPath": "img/초라기_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "bbd905ac0d4e159abbdd8b6310600857ef589ee1c605283c822da5d25ddcc956",
+      "referenceSlot": "light",
+      "prompt": "light_overdrive.txt",
+      "uiSelection": "light_overdrive-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "heavy_overdrive": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-3cff6e9a-725b-447e-a8ba-f0329bf7b8cc.png",
+      "filename": "초라기_heavy_overdrive_glossy_promo_f.webp",
+      "repositoryPath": "img/초라기_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b24ece275ea27023fe023aaafee0a53174d0883ee47aa645999ff3fe725e085b",
+      "referenceSlot": "heavy",
+      "prompt": "heavy_overdrive.txt",
+      "uiSelection": "heavy_overdrive-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "mobility_overdrive": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-9c15f61e-a44a-4c2c-a182-d2a64ada4204.png",
+      "filename": "초라기_mobility_overdrive_glossy_promo_f.webp",
+      "repositoryPath": "img/초라기_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "8ae51d2b137c24af6d799cf3f0ccd76f2bf2b6d4f8d730ca581e140a69d789c4",
+      "referenceSlot": "mobility",
+      "prompt": "mobility_overdrive.txt",
+      "uiSelection": "mobility_overdrive-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "casual1": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-756f54c9-3fd9-4b6b-bb7d-d263fcf74b60.png",
+      "filename": "초라기_glossy_promo_f_casual1.webp",
+      "repositoryPath": "img/초라기_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "9845cfcb1f20ffe2d5725fd2f0ee5222ff209ab90d9ba2ccc0867390a41326ff",
+      "referenceSlot": "light",
+      "prompt": "casual1.txt",
+      "uiSelection": "casual1-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "casual3": {
+      "source": "generated_images/exec-ee56ebf2-79cc-4c63-a8ed-abab22187030.png",
+      "filename": "초라기_glossy_promo_f_casual3.webp",
+      "repositoryPath": "img/초라기_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4871f0a49f2d67f05b2520633669a117b06fb1e05ed989320c0e234456bfa6e4",
+      "referenceSlot": "light",
+      "prompt": "casual3.txt",
+      "uiSelection": "casual3-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "casual2": {
+      "source": "generated_images/exec-2a85856d-49e2-478a-b225-fe7ab1665f8e.png",
+      "filename": "초라기_glossy_promo_f_casual2.webp",
+      "repositoryPath": "img/초라기_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "0af5ead1902d2e1e2126fe60826a8841784f61072a949d619f8c3baafad72848",
+      "referenceSlot": "light",
+      "prompt": "casual2.txt",
+      "uiSelection": "casual2-ui.json",
+      "qa": "Camera markings removed; hands, identity, scene and framing preserved.",
+      "correction": "casual2-correction.txt"
+    }
+  },
+  "status": "generation_complete",
+  "generationCount": 9,
+  "requestedCount": 9,
+  "uiVerified": true
+}

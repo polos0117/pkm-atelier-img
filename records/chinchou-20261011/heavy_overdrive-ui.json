@@ -1,0 +1,54 @@
+{
+  "mech": "초라기",
+  "sourceName": "Chinchou",
+  "series": "water / electric",
+  "sourceAppearance": {
+    "name": "초라기",
+    "en": "Chinchou",
+    "color": "blue",
+    "shape": "fish",
+    "features": [
+      {
+        "part": "fin",
+        "detail": "transparent, light blue pectoral fins"
+      },
+      {
+        "part": "body",
+        "detail": "round, blue body"
+      },
+      {
+        "part": "orb",
+        "detail": "yellow, teardrop-shaped orbs"
+      },
+      {
+        "part": "foot",
+        "detail": "stubby feet"
+      },
+      {
+        "part": "eye",
+        "detail": "large yellow eyes"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Chinchou_%28Pok%C3%A9mon%29",
+    "revision": 4630309,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "fdec685db794860aabfce54bbad48c91141bea106d1bd393808537f8127f1a86",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "style": "glossy_promo",
+  "outputMode": "action",
+  "scene": "At a dark marine research dock at blue hour, blue light reflected on wet stone, balanced standing card pose, face toward camera, both empty hands relaxed open beside her hips and clearly separate from her torso.",
+  "custom": "Vertical 2:3, 1024x1536. Clearly adult woman in her twenties. Both full hands visible with exactly five distinct natural digits each. No weapons.",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "form": "overdrive",
+  "baseForm": "heavy",
+  "identityMode": "reference"
+}

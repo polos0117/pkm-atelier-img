@@ -1,0 +1,30 @@
+{
+  "status": "ready_to_upload",
+  "completedSlots": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual3",
+    "casual2"
+  ],
+  "canonicalLight": {
+    "source": "generated_images/exec-56317d23-6fe2-4391-bc4c-d350be023631.png",
+    "filename": "초라기_light_glossy_promo_f.webp",
+    "repositoryPath": "img/초라기_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "af075ae052516349ad4f7999a17ce3c3d5836ad76cf3b5baf723886c4168ed0e",
+    "referenceSlot": null,
+    "prompt": "light.txt",
+    "uiSelection": "light-ui.json",
+    "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+  },
+  "manifest": "manifest.json"
+}
