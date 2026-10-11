@@ -1,0 +1,59 @@
+{
+  "mech": "랜턴",
+  "sourceName": "Lanturn",
+  "series": "water / electric",
+  "sourceAppearance": {
+    "name": "랜턴",
+    "en": "Lanturn",
+    "color": "blue",
+    "shape": "fish",
+    "features": [
+      {
+        "part": "fin",
+        "detail": "small, light blue pectoral fins"
+      },
+      {
+        "part": "antenna",
+        "detail": "y-shaped antenna"
+      },
+      {
+        "part": "orb",
+        "detail": "spherical orb"
+      },
+      {
+        "part": "eye",
+        "detail": "big, red eyes"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Lanturn_%28Pok%C3%A9mon%29",
+    "revision": 4631737,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "de912409e014742ff11109b2f37688d39afc42d7ca30b756d1a03d7865773485",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "style": "glossy_promo",
+  "outputMode": "casual",
+  "scene": "In an empty seaside kite meadow in golden evening light, mid-step and gently turning toward camera while guiding the thin line of a small plain kite overhead. The kite stays in the distant background, both hands at waist height, complete body and shoes visible.",
+  "custom": "Vertical 2:3 1024x1536. Same clearly adult woman in her twenties. Both complete hands visible with five distinct natural digits each and natural arm connections. No armor, weapons, text, logos or other people; remove all armored headgear. Species only as a tiny accessory or color echo.",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "cat": "hobbies_leisure",
+  "expr": "amused",
+  "pose": "mid_stride",
+  "orient": "turning_midmotion",
+  "frame": "environmental",
+  "lens": "wide24",
+  "outfit": "Opaque pale-yellow sleeveless buttoned romper with tailored shorts and broad waist tie, simple blue canvas sandals. Bare shoulders arms and legs, tiny orb earrings, no armor.",
+  "identityMode": "reference",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "mech": "랜턴",
+  "sourceName": "Lanturn",
+  "series": "water / electric",
+  "sourceAppearance": {
+    "name": "랜턴",
+    "en": "Lanturn",
+    "color": "blue",
+    "shape": "fish",
+    "features": [
+      {
+        "part": "fin",
+        "detail": "small, light blue pectoral fins"
+      },
+      {
+        "part": "antenna",
+        "detail": "y-shaped antenna"
+      },
+      {
+        "part": "orb",
+        "detail": "spherical orb"
+      },
+      {
+        "part": "eye",
+        "detail": "big, red eyes"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Lanturn_%28Pok%C3%A9mon%29",
+    "revision": 4631737,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "de912409e014742ff11109b2f37688d39afc42d7ca30b756d1a03d7865773485",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "style": "glossy_promo",
+  "outputMode": "action",
+  "scene": "On a quiet ocean-breakwater platform under clear early morning light, balanced upright card stance, face toward camera, both empty open hands relaxed beside her hips and away from the torso.",
+  "custom": "Vertical 2:3, 1024x1536. Clearly adult woman in her twenties. Both full hands visible with exactly five distinct natural digits each. No weapons.",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "aspect": "2:3",
+  "form": "light",
+  "identityMode": "create"
+}

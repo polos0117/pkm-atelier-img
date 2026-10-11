@@ -1,0 +1,147 @@
+{
+  "name": "랜턴",
+  "slug": "lanturn",
+  "style": "glossy_promo",
+  "tool": "built-in image_gen",
+  "assets": {
+    "light": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-50019846-ab51-4650-9cb3-cffe8c627cc2.png",
+      "filename": "랜턴_light_glossy_promo_f.webp",
+      "repositoryPath": "img/랜턴_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "8ecffd1691bf3aa758b5684841b37d5c6b698e6cce735a4833e79f2496b08bcb",
+      "referenceSlot": null,
+      "prompt": "light.txt",
+      "uiSelection": "light-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "heavy": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-052ca319-a2ae-4e69-bbb1-ee4bcfe1e2b8.png",
+      "filename": "랜턴_heavy_glossy_promo_f.webp",
+      "repositoryPath": "img/랜턴_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4ebcd693b0457292edb615e38fc067f531f497a2dee1511167d15fa25ae16ba9",
+      "referenceSlot": "light",
+      "prompt": "heavy.txt",
+      "uiSelection": "heavy-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "mobility": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-5309fa36-26f1-4b9d-8b64-dfad944fcd5c.png",
+      "filename": "랜턴_mobility_glossy_promo_f.webp",
+      "repositoryPath": "img/랜턴_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "aef1ccdd82f0d220a986a1184f68dab25c8e2db5e2199a412f2706a18b325e5e",
+      "referenceSlot": "light",
+      "prompt": "mobility.txt",
+      "uiSelection": "mobility-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "light_overdrive": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-507c0482-c23a-48a5-a92d-868e4f5f9d89.png",
+      "filename": "랜턴_light_overdrive_glossy_promo_f.webp",
+      "repositoryPath": "img/랜턴_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "6b5c55443e59128c2be844212533d1b0e127af05d99f25650f1fb3ddcca49c81",
+      "referenceSlot": "light",
+      "prompt": "light_overdrive.txt",
+      "uiSelection": "light_overdrive-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "heavy_overdrive": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-7e7fe5dd-923b-4319-af4c-9788e61dbedc.png",
+      "filename": "랜턴_heavy_overdrive_glossy_promo_f.webp",
+      "repositoryPath": "img/랜턴_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f3f10cf7976ec98a746f3ba0cd78f9272ab6c078c9463685b8ac6f222e00e895",
+      "referenceSlot": "heavy",
+      "prompt": "heavy_overdrive.txt",
+      "uiSelection": "heavy_overdrive-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "mobility_overdrive": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-8c86161d-6860-4e6a-ab5e-2493215450d1.png",
+      "filename": "랜턴_mobility_overdrive_glossy_promo_f.webp",
+      "repositoryPath": "img/랜턴_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "ff2444c8b158e1d93d88c154820cc39d7d6fa0133dbb5fd0dba693005ac8b51c",
+      "referenceSlot": "mobility",
+      "prompt": "mobility_overdrive.txt",
+      "uiSelection": "mobility_overdrive-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "casual1": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-b16d2234-d8f2-4ca6-bc28-0027388bfeca.png",
+      "filename": "랜턴_glossy_promo_f_casual1.webp",
+      "repositoryPath": "img/랜턴_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "a9037daa3379c122b33bbad6d637de5079765c0d0203f06dd02794b3e2c25568",
+      "referenceSlot": "light",
+      "prompt": "casual1.txt",
+      "uiSelection": "casual1-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "casual2": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-e6b795ff-cdf6-46dd-9acf-faf353ef59d1.png",
+      "filename": "랜턴_glossy_promo_f_casual2.webp",
+      "repositoryPath": "img/랜턴_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "37f5aa466f1db9e6b6bf8cb827cd88003f4244dbe79aaed7cf4d68fa464044c4",
+      "referenceSlot": "light",
+      "prompt": "casual2.txt",
+      "uiSelection": "casual2-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    },
+    "casual3": {
+      "source": "/workspace/scratch/84433b33b0fa/generated_images/exec-61671bf1-57ff-459a-ae8a-3ed4105bb567.png",
+      "filename": "랜턴_glossy_promo_f_casual3.webp",
+      "repositoryPath": "img/랜턴_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "35c500344d7bdfb8b9fcff611b20e86e7fbb3bc83e4bfb68025294ee50d6ae04",
+      "referenceSlot": "light",
+      "prompt": "casual3.txt",
+      "uiSelection": "casual3-ui.json",
+      "qa": "Visually inspected: single adult woman, anatomy, hands, framing and identity; opened pairs checked against closed form."
+    }
+  },
+  "status": "generation_complete",
+  "generationCount": 9,
+  "requestedCount": 9,
+  "uiVerified": true
+}

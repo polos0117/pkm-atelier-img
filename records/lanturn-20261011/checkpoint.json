@@ -1,0 +1,16 @@
+{
+  "status": "ready_to_upload",
+  "completedSlots": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "canonicalLight": "/workspace/scratch/84433b33b0fa/generated_images/exec-50019846-ab51-4650-9cb3-cffe8c627cc2.png",
+  "manifest": "manifest.json"
+}
