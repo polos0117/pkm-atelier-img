@@ -1,0 +1,166 @@
+{
+  "name": "마릴",
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "outputs": {
+    "light": {
+      "original": "/workspace/scratch/d3347632e784/generated_images/exec-d932fecb-c9ab-42df-8316-2a4b7aa16b85.png",
+      "file": "/workspace/scratch/d3347632e784/deliverables/img/마릴_light_glossy_promo_f.webp",
+      "repository_path": "img/마릴_light_glossy_promo_f.webp",
+      "sha256": "03982912223dcc7e38de2190b75c1b45ff880656f4800fc045b80c1d0ef18647",
+      "source_sha256": "57a2d1d3b624be020a64a854041279044ae86ab6c7dd74fc90eab96a14cf90a2",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": null,
+      "style": "glossy_promo",
+      "classification_evidence": "Actual Preact generator UI selections and saved submitted output",
+      "review": "Accepted after visual review: same identity, readable hands, requested framing, no extra figure/text/weapon."
+    },
+    "heavy": {
+      "original": "/workspace/scratch/d3347632e784/generated_images/exec-05828660-5dd7-4d1a-92d8-851aaac500d5.png",
+      "file": "/workspace/scratch/d3347632e784/deliverables/img/마릴_heavy_glossy_promo_f.webp",
+      "repository_path": "img/마릴_heavy_glossy_promo_f.webp",
+      "sha256": "6b436377d605e21dff49a1e5b98b2e7ba2d9698c8156bbf72cd0f09ef8f955be",
+      "source_sha256": "47db25bfe5826489231bd78b3e8c51d06e0dac256c4317ab1592292e4a4f4f72",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "style": "glossy_promo",
+      "classification_evidence": "Actual Preact generator UI selections and saved submitted output",
+      "review": "Accepted after visual review: same identity, readable hands, requested framing, no extra figure/text/weapon."
+    },
+    "mobility": {
+      "original": "/workspace/scratch/d3347632e784/generated_images/exec-f8d43a30-b3ed-4f6e-831f-005a84edf206.png",
+      "file": "/workspace/scratch/d3347632e784/deliverables/img/마릴_mobility_glossy_promo_f.webp",
+      "repository_path": "img/마릴_mobility_glossy_promo_f.webp",
+      "sha256": "ba4bdcd8b4018b4eb163e28686872bb37c905a805967c27648fcd6a784e30362",
+      "source_sha256": "e77eadad0b588199927bc3e4494b33e1cea7f3757e65b78d48e0350bdc7c2ea8",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "style": "glossy_promo",
+      "classification_evidence": "Actual Preact generator UI selections and saved submitted output",
+      "review": "Accepted after visual review: same identity, readable hands, requested framing, no extra figure/text/weapon."
+    },
+    "light_overdrive": {
+      "original": "/workspace/scratch/d3347632e784/generated_images/exec-54189e5a-7bac-49ba-a186-ded634cbf994.png",
+      "file": "/workspace/scratch/d3347632e784/deliverables/img/마릴_light_overdrive_glossy_promo_f.webp",
+      "repository_path": "img/마릴_light_overdrive_glossy_promo_f.webp",
+      "sha256": "c00f1940b83e409fedaafb4825d7bea279d74e4cd16b20060c06910b8268021e",
+      "source_sha256": "7a93d7546dbe62b191dd80c7ff68c373bcb6e16acb40943960b1c8e8c25a9634",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "style": "glossy_promo",
+      "classification_evidence": "Actual Preact generator UI selections and saved submitted output",
+      "review": "Accepted after visual review: same identity, readable hands, requested framing, no extra figure/text/weapon."
+    },
+    "heavy_overdrive": {
+      "original": "/workspace/scratch/d3347632e784/generated_images/exec-6e8516c9-b499-4f7c-9b15-bcfe4f8722c0.png",
+      "file": "/workspace/scratch/d3347632e784/deliverables/img/마릴_heavy_overdrive_glossy_promo_f.webp",
+      "repository_path": "img/마릴_heavy_overdrive_glossy_promo_f.webp",
+      "sha256": "b092effcb47ccf1d585c7d000d39b337efd8b9280ddc3fea2c6858665d0cd260",
+      "source_sha256": "105f487ebd1a6a25f6263cdc6c26de260adac41a7dac8ffd9561502e6bad59c2",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "heavy",
+      "style": "glossy_promo",
+      "classification_evidence": "Actual Preact generator UI selections and saved submitted output",
+      "review": "Accepted after visual review: same identity, readable hands, requested framing, no extra figure/text/weapon."
+    },
+    "mobility_overdrive": {
+      "original": "/workspace/scratch/d3347632e784/generated_images/exec-c45f7c15-4b16-4566-9433-e16d2a328e18.png",
+      "file": "/workspace/scratch/d3347632e784/deliverables/img/마릴_mobility_overdrive_glossy_promo_f.webp",
+      "repository_path": "img/마릴_mobility_overdrive_glossy_promo_f.webp",
+      "sha256": "b660b4e1fb52b859ffd4eac8a24ee055e1bb1903c752eddeb2bd34a838b32868",
+      "source_sha256": "64083be1be9971d7e9a3f6ff886bf3dd6fd98b9b0b962b2a4f74be052015bf74",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "mobility",
+      "style": "glossy_promo",
+      "classification_evidence": "Actual Preact generator UI selections and saved submitted output",
+      "review": "Accepted after visual review: same identity, readable hands, requested framing, no extra figure/text/weapon."
+    },
+    "casual1": {
+      "original": "/workspace/scratch/d3347632e784/generated_images/exec-014d901b-7f29-4870-b2c0-37dabc95acb1.png",
+      "file": "/workspace/scratch/d3347632e784/deliverables/img/마릴_glossy_promo_f_casual1.webp",
+      "repository_path": "img/마릴_glossy_promo_f_casual1.webp",
+      "sha256": "0eb6385c546d04bc297e4529958e4bf8385bd08a902a3536e3dcba438e11340c",
+      "source_sha256": "749488ece448286b641ac7c8334d4f4b4e65f286edfcb4b172582c27bda11641",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "style": "glossy_promo",
+      "classification_evidence": "Actual Preact generator UI selections and saved submitted output",
+      "review": "Accepted after visual review: same identity, readable hands, requested framing, no extra figure/text/weapon."
+    },
+    "casual2": {
+      "original": "/workspace/scratch/d3347632e784/generated_images/exec-7c24179f-96f7-4408-85bb-92938cf4c200.png",
+      "file": "/workspace/scratch/d3347632e784/deliverables/img/마릴_glossy_promo_f_casual2.webp",
+      "repository_path": "img/마릴_glossy_promo_f_casual2.webp",
+      "sha256": "21dd34b63b61c45f98cd0a72f08f3807a30b1767a60b645d4b5c30163f1b720d",
+      "source_sha256": "cc0055e1b6643e87b24a9e5eefa7568f0732d25ec0eb9431f7da75494352b60d",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "style": "glossy_promo",
+      "classification_evidence": "Actual Preact generator UI selections and saved submitted output",
+      "review": "Accepted after visual review: same identity, readable hands, requested framing, no extra figure/text/weapon."
+    },
+    "casual3": {
+      "original": "/workspace/scratch/d3347632e784/generated_images/exec-c9859494-7f7c-41d5-90e8-434e08e6053e.png",
+      "file": "/workspace/scratch/d3347632e784/deliverables/img/마릴_glossy_promo_f_casual3.webp",
+      "repository_path": "img/마릴_glossy_promo_f_casual3.webp",
+      "sha256": "5fda46bb307376cf7c3fd839014be9f23a2eaae0bbdf8fce29237ae2e9b63c6f",
+      "source_sha256": "0bdc6b4471cfebf43990b0367fac7169bdc41c6ce357a67b84b00854df67a73d",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "reference": "light",
+      "style": "glossy_promo",
+      "classification_evidence": "Actual Preact generator UI selections and saved submitted output",
+      "review": "Accepted after visual review: same identity, readable hands, requested framing, no extra figure/text/weapon."
+    }
+  },
+  "upload": "included_in_this_character_commit",
+  "canonical": "/workspace/scratch/d3347632e784/generated_images/exec-d932fecb-c9ab-42df-8316-2a4b7aa16b85.png",
+  "canonical_repository_path": "img/마릴_light_glossy_promo_f.webp",
+  "canonical_sha256": "03982912223dcc7e38de2190b75c1b45ff880656f4800fc045b80c1d0ef18647",
+  "parent_sha": "452bf3a8b29bd1a0138e9bf7d0de0454993b5cd2",
+  "repository": "polos0117/pkm-atelier-img"
+}

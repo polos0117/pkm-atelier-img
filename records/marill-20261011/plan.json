@@ -1,0 +1,60 @@
+{
+  "name": "마릴",
+  "slug": "marill",
+  "hair": "blue",
+  "eye": "brown",
+  "cut": "bob",
+  "body": "athletic",
+  "light": "At a bright lakeside promenade, balanced lively front three-quarter stance, face toward camera and both empty open hands separated outside the torso. Blue enamel slim plates, white abdominal breastplate, small circular ear-inspired head ornaments, a short black zigzag hem sash ending in a blue spherical charm. Human skin, not a mascot suit. Full body and footwear with clear margins. Both human hands fully visible and anatomically connected to their own forearms, one thumb and four separate natural fingers per hand. No weapons, text or logos. Portrait 2:3.",
+  "casual": [
+    [
+      "swimwear",
+      "relieved",
+      "walking",
+      "low_angle",
+      "full_body",
+      "documentary35",
+      "At a quiet freshwater lake floating dock on a bright windy afternoon, taking a careful walking step along dry wooden planks after a swim, both empty hands lifted apart for balance. Full woman and bare feet visible, reeds and sparkling water, no other figures.",
+      "Fully lined opaque cobalt one-piece swimsuit with secure white cross-back straps, white side panels and a high leg line, fully covering chest and pelvis. Bare shoulders back arms and legs, tiny blue spherical bracelet. No armor."
+    ],
+    [
+      "hobbies_leisure",
+      "curious",
+      "mid_action",
+      "seated_twist",
+      "waist_up",
+      "portrait85",
+      "Inside a warmly lit miniature-building hobby studio late at night, seated with a gentle torso twist, assembling a small unlettered wooden sailboat model on the workbench. One hand holds its mast upright, the other rests open beside the model. Both hands separate and visible, shelves of wood supplies, no mirror.",
+      "Opaque white fitted sleeveless ribbed scoop-neck top with wide blue waist band, navy high-waisted wide-leg trousers below the crop, small round blue earrings. Bare shoulders arms and narrow side waist. No armor."
+    ],
+    [
+      "occupation_basic",
+      "serious",
+      "standing_formal",
+      "high_angle",
+      "three_quarter",
+      "natural50",
+      "At a canal lock inspection platform on an overcast early morning, standing with balanced feet while checking a plain water-measurement dial at waist height. One hand supports the instrument, the other points to its dial without crossing. Both hands visible, calm water and stone lock gates behind her.",
+      "Opaque navy sleeveless utility romper with secure white front zipper and mid-thigh shorts, thin blue webbing belt, practical rubber ankle boots. Bare arms shoulders and legs. A tiny round blue zipper pull recalls her motif. No armor or weapons."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "토게틱",
+      "네이티",
+      "네이티오",
+      "아르코"
+    ],
+    "scope": "Read three previous plans and all nine submitted casual prompts. Compared earlier planned scenes in this batch.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
