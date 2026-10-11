@@ -1,0 +1,74 @@
+{
+  "name": "파르셀",
+  "slug": "cloyster",
+  "scene": "On a frozen coastal basalt platform beneath pale morning light, composed upright standing card pose with face toward camera, both empty hands relaxed open and separated from her torso.",
+  "casual": [
+    {
+      "cat": "adult_roleplay",
+      "expr": "confident",
+      "pose": "standing_formal",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "In a lantern-lit winter masquerade pavilion at blue hour, standing upright at a dressing counter and fastening a soft short shoulder cape with both clearly separate hands. Frosted glass and violet festive lights, no mirror or other people.",
+      "outfit": "Original adult ice-hostess event fashion: opaque lined silver corset-style tailored bodice with secure sweetheart neckline, high-waisted violet velvet skirt below crop, short translucent organza cape, bare shoulders and arms. One tiny pearl hair clip, no crown, no armored spikes or institutional emblems."
+    },
+    {
+      "cat": "active",
+      "expr": "determined",
+      "pose": "contrapposto",
+      "orient": "low_angle",
+      "frame": "full_body",
+      "lens": "wide24",
+      "scene": "At an empty indoor bouldering gym in warm afternoon light, standing grounded on a thick safety mat beneath a wall of colored holds, rubbing a small amount of climbing chalk between two separately visible hands at waist height. Low camera angle, complete body and shoes, no suspended pose.",
+      "outfit": "Opaque plum sleeveless athletic tank with secure high neckline and high-waisted silver-gray fitted climbing shorts, flat climbing shoes; bare arms shoulders and legs, tiny pearl bracelet, no harness or armor."
+    },
+    {
+      "cat": "food_berries",
+      "expr": "amused",
+      "pose": "preparing_food",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "At a shaded open-air garden kitchen in late summer morning, standing side-on and scooping violet berry sorbet into a glass dessert dish with one hand while the other steadies the dish on the countertop. Face in profile, both hands readable, bright fruit and leafy dappled light.",
+      "outfit": "Opaque lavender sleeveless wrap blouse with secure cross-over neckline, white high-waisted linen shorts and a narrow plum waist apron. Bare shoulders arms and legs, tiny pearl earrings, no armor."
+    }
+  ],
+  "style": "glossy_promo",
+  "casualAxes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "characters": [
+      "레어코일",
+      "꼬리선",
+      "야부엉"
+    ],
+    "records": [
+      "records/magneton-20261011",
+      "records/furret-20261011",
+      "records/noctowl-20261011"
+    ],
+    "avoided": [
+      "railway yard travel",
+      "jewelry sorting in dressing alcove",
+      "aerial yoga stretch",
+      "ferry terminal map",
+      "laundry towel folding",
+      "pottery workshop",
+      "midnight stage magic",
+      "print archive restoration",
+      "lantern tassel courtyard"
+    ],
+    "changes": [
+      "venue",
+      "concrete activity",
+      "clothing silhouette",
+      "pose and framing"
+    ],
+    "additionalBatchComparison": [
+      "셀러"
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "assets": [
+    {
+      "slot": "light",
+      "card": "파르셀",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-685a8114-e7c3-4d1e-9ff5-806dc7000941.png",
+      "reference": null,
+      "output": "img/파르셀_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 594544,
+      "sha256": "9116584aa1b96929a1f4f4ae03e5dcc79aabce46dc9ea2b4c20e6b4bf424ffbb",
+      "prompt": "records/cloyster-20261011/light.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "heavy",
+      "card": "파르셀",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-57746102-ab52-4855-a277-1854c06f7b64.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-685a8114-e7c3-4d1e-9ff5-806dc7000941.png",
+      "output": "img/파르셀_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 604022,
+      "sha256": "61766d431bc304f48ce98f2f822c36f93630be147c3d7f513337790ecf80bbc4",
+      "prompt": "records/cloyster-20261011/heavy.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "mobility",
+      "card": "파르셀",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-eebc5cb0-d3e2-49f9-baad-e26c484638fb.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-685a8114-e7c3-4d1e-9ff5-806dc7000941.png",
+      "output": "img/파르셀_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 614984,
+      "sha256": "f06b3624dd10dde7b389ca3d2e8e51b56e7b6f6fdd20b6852a9cc80f3fc25c28",
+      "prompt": "records/cloyster-20261011/mobility.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "light_overdrive",
+      "card": "파르셀",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-1a9de893-db5c-4f20-93da-57ee4995bec1.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-685a8114-e7c3-4d1e-9ff5-806dc7000941.png",
+      "output": "img/파르셀_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 688096,
+      "sha256": "9d4758b6560b640d8aa01fb6f74b2921cb2dc103bbd623721237979b9fde1737",
+      "prompt": "records/cloyster-20261011/light_overdrive.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "card": "파르셀",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-700c1e0f-f3e2-48a7-992f-bdc21176e878.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-57746102-ab52-4855-a277-1854c06f7b64.png",
+      "output": "img/파르셀_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 733464,
+      "sha256": "2101f5a7ce62ff3d9490a2e412657a03fa2b6001cde5e3a5ca49d3a1f0791240",
+      "prompt": "records/cloyster-20261011/heavy_overdrive.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "card": "파르셀",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-f60790d0-af3b-4633-82dc-d7286d9d70ca.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-eebc5cb0-d3e2-49f9-baad-e26c484638fb.png",
+      "output": "img/파르셀_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 749262,
+      "sha256": "978eacd55da82a29bef25c06baea5a8b706909d4d9ef0278d91d345c0c50d6a1",
+      "prompt": "records/cloyster-20261011/mobility_overdrive.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "casual1",
+      "card": "파르셀",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-91f1d77c-5a2c-43b2-967b-9070b4129c3e.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-685a8114-e7c3-4d1e-9ff5-806dc7000941.png",
+      "output": "img/파르셀_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 514618,
+      "sha256": "2009cadaef086e9c89d0bbf9114d7d1386490eb5280b279099d320089d3cb3f4",
+      "prompt": "records/cloyster-20261011/casual1.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "casual2",
+      "card": "파르셀",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-1c931c89-2f74-433f-aeb6-89ee90d13442.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-685a8114-e7c3-4d1e-9ff5-806dc7000941.png",
+      "output": "img/파르셀_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 368336,
+      "sha256": "f4258d267d2fdad3ceb4c5494107f0cb6f86cdaf28b48e8a6e489fc604695195",
+      "prompt": "records/cloyster-20261011/casual2.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    },
+    {
+      "slot": "casual3",
+      "card": "파르셀",
+      "style": "glossy_promo",
+      "gender": "f",
+      "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-5f9f31b7-6df0-454a-bfc8-e5a99c7201c4.png",
+      "reference": "/workspace/scratch/9ae3696894d2/generated_images/exec-685a8114-e7c3-4d1e-9ff5-806dc7000941.png",
+      "output": "img/파르셀_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "bytes": 433856,
+      "sha256": "61cc23eeb7493b364b624bd96ca32e9cf952f547ae470751407c7dea0845ac5e",
+      "prompt": "records/cloyster-20261011/casual3.txt",
+      "uiVerified": true,
+      "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+    }
+  ]
+}

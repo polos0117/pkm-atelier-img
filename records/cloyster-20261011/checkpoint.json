@@ -1,0 +1,37 @@
+{
+  "character": "파르셀",
+  "slug": "cloyster",
+  "approvedLight": {
+    "slot": "light",
+    "card": "파르셀",
+    "style": "glossy_promo",
+    "gender": "f",
+    "original": "/workspace/scratch/9ae3696894d2/generated_images/exec-685a8114-e7c3-4d1e-9ff5-806dc7000941.png",
+    "reference": null,
+    "output": "img/파르셀_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "bytes": 594544,
+    "sha256": "9116584aa1b96929a1f4f4ae03e5dcc79aabce46dc9ea2b4c20e6b4bf424ffbb",
+    "prompt": "records/cloyster-20261011/light.txt",
+    "uiVerified": true,
+    "review": "face/hair/body match; complete natural arms and readable hands; single figure; no text or weapon; opened preserves source framing"
+  },
+  "generated": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "status": "reviewed, upload pending",
+  "imageRepo": "polos0117/pkm-atelier-img",
+  "codeRepo": "polos0117/pkm-atelier"
+}
