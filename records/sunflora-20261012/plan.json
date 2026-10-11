@@ -1,0 +1,61 @@
+{
+  "name": "해루미",
+  "slug": "sunflora",
+  "hair": "blonde",
+  "eye": "green",
+  "cut": "wavy",
+  "body": "curvy",
+  "wear": "Bright yellow sunflower petals form a slim radial hair ornament and layered collar trim; emerald green leaf-shaped armor plates and long split waist sash; round yellow breastplate center. Human face and skin visible, no flower creature or handheld blossom.",
+  "light": "On an empty sunlit greenhouse entrance plaza at noon, front three-quarter adult woman in confident balanced stance, two empty open hands visible beside hips. Complete head and boots, vertical 1024x1536.",
+  "casual": [
+    [
+      "swimwear",
+      "relieved",
+      "perched_seat",
+      "front_3q",
+      "three_quarter",
+      "documentary35",
+      "On the broad dry launch dock of an empty clear lake resort at bright late morning, perched on a low wooden seat drying her hair with a small folded towel held loosely in one raised hand, the other open on the seat away from her hip. Both hands and knees included, lake behind.",
+      "Opaque fully lined emerald green halter one-piece swimsuit with yellow piping, securely covered bust and pelvis, narrow side waist cutouts; tiny sunflower stud earrings, bare shoulders arms legs."
+    ],
+    [
+      "hobbies_leisure",
+      "curious",
+      "standing_relaxed",
+      "side",
+      "full_body",
+      "natural50",
+      "At an empty hilltop observatory terrace beneath a deep blue starry night, standing beside a small brass telescope adjusting its focus knob with one hand while the other rests on a separate railing. Face turned toward viewer, whole head hands and ankle boots.",
+      "Opaque ivory sleeveless V-neck tied crop blouse with secure neckline, emerald high-waisted split maxi skirt over opaque fitted shorts, bare shoulders arms midriff and one leg; small yellow pendant."
+    ],
+    [
+      "occupation_basic",
+      "soft_smile",
+      "mid_action",
+      "front",
+      "waist_up",
+      "portrait85",
+      "At an empty flower market kiosk during cool rainy afternoon, arranging cut orange flowers into a shallow glass bowl with one hand while the other supports the bowl on the counter. Rain bokeh behind, both complete hands with visible wrists.",
+      "Opaque yellow short-sleeve open-collar cropped wrap blouse and green high-waisted tailored trousers, bare forearms upper chest and midriff; tiny sunflower hair pin."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "에이팜",
+      "솜솜코",
+      "쏘드라",
+      "해너츠"
+    ],
+    "scope": "Read the latest three completed characters plans and all nine submitted casual prompts; also compare earlier characters of this batch.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

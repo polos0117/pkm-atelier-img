@@ -1,0 +1,897 @@
+{
+  "name": "해루미",
+  "slug": "sunflora",
+  "style": "glossy_promo",
+  "gender": "f",
+  "date": "2026-10-12",
+  "requested": 9,
+  "generation_mode": "built-in image_gen",
+  "generator_ui": "actual Preact controls through repository prompt-dom-harness",
+  "comparison": {
+    "reviewed": [
+      "에이팜",
+      "솜솜코",
+      "쏘드라",
+      "해너츠"
+    ],
+    "scope": "Read the latest three completed characters plans and all nine submitted casual prompts; also compare earlier characters of this batch.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "images": {
+    "light": {
+      "source": "/workspace/scratch/cd7e6cacfc5a/generated_images/exec-b853a2a0-4d96-471a-ae9e-990fb0eb20c8.png",
+      "card": "해루미",
+      "slot": "light",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": null,
+      "output": "img/해루미_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e671f728778de5e5e606bc3869cd17dfc434218160ed45e040ae6b426ae78ead",
+      "source_sha256": "71ec0903778ed5e58ed201b10d18b3be3126424f365b5392681923ba17c8bee2",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "Bright yellow sunflower petals form a slim radial hair ornament and layered collar trim; emerald green leaf-shaped armor plates and long split waist sash; round yellow breastplate center. Human face and skin visible, no flower creature or handheld blossom.",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "curvy",
+          "hair color": "blonde",
+          "eye color": "green",
+          "hairstyle": "wavy"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "On an empty sunlit greenhouse entrance plaza at noon, front three-quarter adult woman in confident balanced stance, two empty open hands visible beside hips. Complete head and boots, vertical 1024x1536. Both hands fully visible and attached to their own arms, five separate natural fingers per hand.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Sunflora (해루미), grass type.\n\nPALETTE: green, yellow.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Sunflora as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): Bright yellow sunflower petals form a slim radial hair ornament and layered collar trim; emerald green leaf-shaped armor plates and long split waist sash; round yellow breastplate center. Human face and skin visible, no flower creature or handheld blossom..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: On an empty sunlit greenhouse entrance plaza at noon, front three-quarter adult woman in confident balanced stance, two empty open hands visible beside hips. Complete head and boots, vertical 1024x1536. Both hands fully visible and attached to their own arms, five separate natural fingers per hand.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nbody type: curvy — flowing bust-to-waist and hip-to-waist curves\nhair color: blonde\neye color: green\nhairstyle: wavy — loose S-shaped waves\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\neye color consistency: both eyes are green\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "repository_path": "img/해루미_light_glossy_promo_f.webp"
+    },
+    "heavy": {
+      "source": "/workspace/scratch/cd7e6cacfc5a/generated_images/exec-206f1096-190c-46c0-85a3-ab786c800c31.png",
+      "card": "해루미",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/해루미_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "2653b27b097618a74e0bc2d4adb3ffd9c4f2f2dd3c411abe6376962bb16f3514",
+      "source_sha256": "fe08693be076d0f7ae1b43cf40c11a8a4ab2189c9e6d6575580b7b5ab99b0b92",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "heavy",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "curvy",
+          "hair color": "blonde",
+          "eye color": "green",
+          "hairstyle": "wavy"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "Full body 1024x1536 vertical. Both empty open hands fully visible beside the body, five distinct fingers on each, no weapon. Choose a different balanced action stance, face toward camera.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Sunflora (해루미), grass type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: Full body 1024x1536 vertical. Both empty open hands fully visible beside the body, five distinct fingers on each, no weapon. Choose a different balanced action stance, face toward camera.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "repository_path": "img/해루미_heavy_glossy_promo_f.webp",
+      "reference_repository_path": "img/해루미_light_glossy_promo_f.webp"
+    },
+    "mobility": {
+      "source": "/workspace/scratch/cd7e6cacfc5a/generated_images/exec-9a0d1edd-49ac-48b6-9f1f-bc942223297a.png",
+      "card": "해루미",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/해루미_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "a71b3637466344d49700114e009fb862bf9a6378d7a09411eb630b0c451d3905",
+      "source_sha256": "202cbd70abcdba27b5f2b4842cd8b74368e25e1728b1985b980f09b5cb5e5f4f",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "mobility",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "curvy",
+          "hair color": "blonde",
+          "eye color": "green",
+          "hairstyle": "wavy"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "Full body 1024x1536 vertical. Both empty open hands fully visible beside the body, five distinct fingers on each, no weapon. Choose a different balanced action stance, face toward camera.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Sunflora (해루미), grass type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: Full body 1024x1536 vertical. Both empty open hands fully visible beside the body, five distinct fingers on each, no weapon. Choose a different balanced action stance, face toward camera.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "repository_path": "img/해루미_mobility_glossy_promo_f.webp",
+      "reference_repository_path": "img/해루미_light_glossy_promo_f.webp"
+    },
+    "light_overdrive": {
+      "source": "/workspace/scratch/cd7e6cacfc5a/generated_images/exec-1094bcde-0001-4712-a052-863701a25967.png",
+      "card": "해루미",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/해루미_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b830a3c18aa90e2097a812096d98e5f6314cacd98c1ec634db9afbdbe8fa26de",
+      "source_sha256": "fed161c1970eb0d2e223e73e6a8b615be396f615f2cedf73c0545c7793a9fec2",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "curvy",
+          "hair color": "blonde",
+          "eye color": "green",
+          "hairstyle": "wavy"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Sunflora (해루미), grass type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a green glow with drifting leaves and pollen sparks shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "repository_path": "img/해루미_light_overdrive_glossy_promo_f.webp",
+      "reference_repository_path": "img/해루미_light_glossy_promo_f.webp"
+    },
+    "heavy_overdrive": {
+      "source": "/workspace/scratch/cd7e6cacfc5a/generated_images/exec-a3b0d6f7-00a9-4995-bb69-0f381073bf2c.png",
+      "card": "해루미",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "heavy",
+      "output": "img/해루미_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c78985fc41baf5e0717dc18bab6cc71a2c55b3a95505fa49686875d56a3dfbbd",
+      "source_sha256": "9a7d538e51c1c523275ec315999b5d0b36af1803517eac747779f9124b6988aa",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "heavy",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "curvy",
+          "hair color": "blonde",
+          "eye color": "green",
+          "hairstyle": "wavy"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Sunflora (해루미), grass type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a green glow with drifting leaves and pollen sparks shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "repository_path": "img/해루미_heavy_overdrive_glossy_promo_f.webp",
+      "reference_repository_path": "img/해루미_heavy_glossy_promo_f.webp"
+    },
+    "mobility_overdrive": {
+      "source": "/workspace/scratch/cd7e6cacfc5a/generated_images/exec-11490f4e-8dc4-4476-9474-a6034f077f87.png",
+      "card": "해루미",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "mobility",
+      "output": "img/해루미_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "810076eff601777a936f174b32b1a2f7bba10d7d8ab728113625ff8ba4a04bd4",
+      "source_sha256": "f0f5d5827d236626c34dbc6bfc689fe4efb02a359e5866f5028405b6e50cc32e",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "curvy",
+          "hair color": "blonde",
+          "eye color": "green",
+          "hairstyle": "wavy"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Sunflora (해루미), grass type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a green glow with drifting leaves and pollen sparks shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "repository_path": "img/해루미_mobility_overdrive_glossy_promo_f.webp",
+      "reference_repository_path": "img/해루미_mobility_glossy_promo_f.webp"
+    },
+    "casual1": {
+      "source": "/workspace/scratch/cd7e6cacfc5a/generated_images/exec-78dad702-3b75-41c3-870b-1be511db8d8c.png",
+      "card": "해루미",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/해루미_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "5b32ba68633160ebb220a9981f0cb8a704875973b5f9e8bab0ff3148b618b972",
+      "source_sha256": "ee224368355647131dd5d9ca9422f32270c4917c25f5a290418e932302efaa8e",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "curvy",
+          "hair color": "blonde",
+          "eye color": "green",
+          "hairstyle": "wavy"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "relieved",
+            "pose": "perched_seat",
+            "orient": "front_3q",
+            "scene": "On the broad dry launch dock of an empty clear lake resort at bright late morning, perched on a low wooden seat drying her hair with a small folded towel held loosely in one raised hand, the other open on the seat away from her hip. Both hands and knees included, lake behind.",
+            "outfit": "Opaque fully lined emerald green halter one-piece swimsuit with yellow piping, securely covered bust and pelvis, narrow side waist cutouts; tiny sunflower stud earrings, bare shoulders arms legs.",
+            "frame": "three_quarter",
+            "lens": "documentary35",
+            "camera": "",
+            "custom": "Both entire hands inside the crop with readable wrists and five distinct fingers on each. Single adult woman only; no text, no logos, no weapons.",
+            "aspect": "2:3",
+            "cat": "swimwear",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Sunflora (해루미) personified, grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened\nPose: Perch on a low ledge or bench with the feet resting naturally below.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: On the broad dry launch dock of an empty clear lake resort at bright late morning, perched on a low wooden seat drying her hair with a small folded towel held loosely in one raised hand, the other open on the seat away from her hip. Both hands and knees included, lake behind.\nOutfit and props: Opaque fully lined emerald green halter one-piece swimsuit with yellow piping, securely covered bust and pelvis, narrow side waist cutouts; tiny sunflower stud earrings, bare shoulders arms legs.\nCategory: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.\nNote: Both entire hands inside the crop with readable wrists and five distinct fingers on each. Single adult woman only; no text, no logos, no weapons.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "repository_path": "img/해루미_glossy_promo_f_casual1.webp",
+      "reference_repository_path": "img/해루미_light_glossy_promo_f.webp"
+    },
+    "casual2": {
+      "source": "/workspace/scratch/cd7e6cacfc5a/generated_images/exec-83bdcbc8-3d0c-4dd4-9845-d4c29cc46810.png",
+      "card": "해루미",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/해루미_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "623a9f375d4b42d12fd52c0664d96258a2d0477e901a78a50947e28405cd514e",
+      "source_sha256": "cad3a1e060291b45927da0cd63f5fe9dfb435e09ecfe2951753086f81e0fd68b",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "curvy",
+          "hair color": "blonde",
+          "eye color": "green",
+          "hairstyle": "wavy"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "curious",
+            "pose": "standing_relaxed",
+            "orient": "side",
+            "scene": "At an empty hilltop observatory terrace beneath a deep blue starry night, standing beside a small brass telescope adjusting its focus knob with one hand while the other rests on a separate railing. Face turned toward viewer, whole head hands and ankle boots.",
+            "outfit": "Opaque ivory sleeveless V-neck tied crop blouse with secure neckline, emerald high-waisted split maxi skirt over opaque fitted shorts, bare shoulders arms midriff and one leg; small yellow pendant.",
+            "frame": "full_body",
+            "lens": "natural50",
+            "camera": "",
+            "custom": "Both entire hands inside the crop with readable wrists and five distinct fingers on each. Single adult woman only; no text, no logos, no weapons.",
+            "aspect": "2:3",
+            "cat": "hobbies_leisure",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Sunflora (해루미) personified, grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted\nPose: Stand at ease with relaxed shoulders and naturally balanced feet.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: At an empty hilltop observatory terrace beneath a deep blue starry night, standing beside a small brass telescope adjusting its focus knob with one hand while the other rests on a separate railing. Face turned toward viewer, whole head hands and ankle boots.\nOutfit and props: Opaque ivory sleeveless V-neck tied crop blouse with secure neckline, emerald high-waisted split maxi skirt over opaque fitted shorts, bare shoulders arms midriff and one leg; small yellow pendant.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: Both entire hands inside the crop with readable wrists and five distinct fingers on each. Single adult woman only; no text, no logos, no weapons.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "repository_path": "img/해루미_glossy_promo_f_casual2.webp",
+      "reference_repository_path": "img/해루미_light_glossy_promo_f.webp"
+    },
+    "casual3": {
+      "source": "/workspace/scratch/cd7e6cacfc5a/generated_images/exec-84c7f498-4f53-4712-a8d2-3d99294aedae.png",
+      "card": "해루미",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "evidence": "generator UI choice",
+      "reference_slot": "light",
+      "output": "img/해루미_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "eb2b3a2bc552e7c423162520e50aa0d8b288e4f7e69b5bd9cd0042f2a0fa45a6",
+      "source_sha256": "aa05e0a6c3058c7b61b4685d0300697578cdd31b4305d39a9eb026f330cc30f7",
+      "ui_selected": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "body type": "curvy",
+          "hair color": "blonde",
+          "eye color": "green",
+          "hairstyle": "wavy"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "soft_smile",
+            "pose": "mid_action",
+            "orient": "front",
+            "scene": "At an empty flower market kiosk during cool rainy afternoon, arranging cut orange flowers into a shallow glass bowl with one hand while the other supports the bowl on the counter. Rain bokeh behind, both complete hands with visible wrists.",
+            "outfit": "Opaque yellow short-sleeve open-collar cropped wrap blouse and green high-waisted tailored trousers, bare forearms upper chest and midriff; tiny sunflower hair pin.",
+            "frame": "waist_up",
+            "lens": "portrait85",
+            "camera": "",
+            "custom": "Both entire hands inside the crop with readable wrists and five distinct fingers on each. Single adult woman only; no text, no logos, no weapons.",
+            "aspect": "2:3",
+            "cat": "occupation_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "submitted_prompt": "CHARACTER: the same woman as the attached image — Sunflora (해루미) personified, grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids\nPose: Capture the selected activity already in progress with a readable natural gesture.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: At an empty flower market kiosk during cool rainy afternoon, arranging cut orange flowers into a shallow glass bowl with one hand while the other supports the bowl on the counter. Rain bokeh behind, both complete hands with visible wrists.\nOutfit and props: Opaque yellow short-sleeve open-collar cropped wrap blouse and green high-waisted tailored trousers, bare forearms upper chest and midriff; tiny sunflower hair pin.\nCategory: Show one believable working moment in the Pokémon world. Choose care, research, conservation, berry cultivation, crafts, travel, contests or battle support. Make the profession readable through a concrete task, practical clothing and relevant tools. Preserve the approved woman; invent her own workwear instead of copying an existing trainer, Gym Leader or Pokémon Center character.\nNote: Both entire hands inside the crop with readable wrists and five distinct fingers on each. Single adult woman only; no text, no logos, no weapons.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "repository_path": "img/해루미_glossy_promo_f_casual3.webp",
+      "reference_repository_path": "img/해루미_light_glossy_promo_f.webp"
+    }
+  },
+  "generated": 9,
+  "verification": {
+    "adult_identity": "Same face, hair and build compared against original light image",
+    "anatomy": "All images visually inspected, arms attached and hands readable",
+    "opened_pairs": "Same camera, pose and scale checked against each closed form",
+    "casual_diversity": "Different places, activities, clothing silhouette, expressions, poses, directions and crops checked"
+  }
+}
