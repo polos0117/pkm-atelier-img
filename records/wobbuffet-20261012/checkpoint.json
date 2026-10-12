@@ -1,0 +1,257 @@
+{
+  "assets": [
+    {
+      "key": "light",
+      "record": "wobbuffet-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-e4433ccd-1fff-4e09-949e-9ed97acb8042.png",
+      "filename": "마자용_light_glossy_promo_f.webp",
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Wobbuffet (마자용), psychic type.\n\nPALETTE: black, blue.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Misdreavus as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): The smooth rounded blue silhouette becomes broad curved blue armor plates; the flat black tail becomes a short black waist sash with two small white oval studs. Human skin and a normal human face, no creature mask or extra limbs..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: 1024x1536. Full figure fills 88% image height, small margins above head and below boots, equal scale across armor forms. A woman in her twenties with a short bright azure bob, small swept-up forelock, blue eyes and an approachable confident expression. Azure blue armor with black undersuit and white accents, rounded defensive panel edges. Standing front three-quarter on an empty clean training terrace in morning sun, both empty hands relaxed and clearly separated with five distinct digits. No handheld shield or weapon.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "reference": [],
+      "ui_selected": {
+        "source": "0202 · 마자용",
+        "style": "glossy_promo",
+        "mode": "action",
+        "form": "light",
+        "base_form": null
+      },
+      "axes": null,
+      "source_sha256": "4640115ff999e31a97340138234160b6d169b7f7cc86a2974c70365d9f3caf2e",
+      "sha256": "7f814ed4db021d52233f475bfb7de14cc3db7f20342b5ad2bb3172475227a7e0",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "heavy",
+      "record": "wobbuffet-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-0a69e8ac-9274-4437-afb9-6daa0a096b51.png",
+      "filename": "마자용_heavy_glossy_promo_f.webp",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Wobbuffet (마자용), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nMOTIFS to keep: The smooth rounded blue silhouette becomes broad curved blue armor plates; the flat black tail becomes a short black waist sash with two small white oval studs. Human skin and a normal human face, no creature mask or extra limbs..\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: 1024x1536. Keep light-card figure scale, entire head and boots visible with small margins, approximately 88% image height. Same empty morning training terrace. Broad rounded blue stacked defensive plates, steady grounded guard stance with both empty hands relaxed and clearly visible away from torso. No handheld shield or weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "reference": [
+        "마자용_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "source": "0202 · 마자용",
+        "style": "glossy_promo",
+        "mode": "action",
+        "form": "heavy",
+        "base_form": null
+      },
+      "axes": null,
+      "source_sha256": "cbe035ab8a9aa741bd5d31405f3f7fb5e7bb0060a3ed7a98042dcb0991cd64cf",
+      "sha256": "a420cefa4dde742849c01e5bbe3516280c79a008874b6c24ed1da8bd4dadf4b5",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "mobility",
+      "record": "wobbuffet-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-5d2bb0dc-b81a-4240-94ce-21ca21e303ef.png",
+      "filename": "마자용_mobility_glossy_promo_f.webp",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Wobbuffet (마자용), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nMOTIFS to keep: The smooth rounded blue silhouette becomes broad curved blue armor plates; the flat black tail becomes a short black waist sash with two small white oval studs. Human skin and a normal human face, no creature mask or extra limbs..\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: 1024x1536. Keep light-card figure scale, entire head and boots visible with small margins, approximately 88% image height. Same empty morning training terrace. Rounded blue panels split backward with compact thrusters, a light forward step facing camera, both empty hands relaxed and fully visible. No giant wings, handheld shield or weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "reference": [
+        "마자용_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "source": "0202 · 마자용",
+        "style": "glossy_promo",
+        "mode": "action",
+        "form": "mobility",
+        "base_form": null
+      },
+      "axes": null,
+      "source_sha256": "3aad975efd232a38759bd353a3ff9d4c0935727895c49e3978bd2c48ee5f16cb",
+      "sha256": "85b9192cb71c87098533eb042a59981226265fb77141ddfd0b15861b84a36620",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "light_overdrive",
+      "record": "wobbuffet-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-ca189863-a47b-4d21-89de-89136ec23e0b.png",
+      "filename": "마자용_light_overdrive_glossy_promo_f.webp",
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Wobbuffet (마자용), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a magenta glow with floating rings of light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "reference": [
+        "마자용_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "source": "0202 · 마자용",
+        "style": "glossy_promo",
+        "mode": "action",
+        "form": "overdrive",
+        "base_form": "light"
+      },
+      "axes": null,
+      "source_sha256": "ef60bb78f2f536635a95257e243ea40d0f3c2c2ae2e340ab89f4c9ae8e1a2981",
+      "sha256": "32b493ff07aac3d301d2add572631aa4d31e2088e55fc71939331dfd52b0dd40",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "casual1",
+      "record": "wobbuffet-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-618f4c7a-b785-4078-8314-da1dc0471964.png",
+      "filename": "마자용_glossy_promo_f_casual1.webp",
+      "prompt": "CHARACTER: the same woman as the attached image — Wobbuffet (마자용) personified, psychic type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: mouth open wide in a laugh with teeth showing and cheeks raised, but the eyes stay open and engaged — lids only slightly narrowed, gaze still readable rather than squeezed shut\nPose: Capture a clear mid-stride step with believable weight transfer.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: At an empty clear freshwater lagoon in bright summer noon, stepping gently from ankle-deep water onto a pebbled shore after a swim, laughing naturally toward camera with both open hands relaxed away from torso. Complete head, bare feet and hands visible, gentle waterfall far behind, sparkling blue water with no people or animals.\nOutfit and props: Fully lined opaque azure blue wide-strap square-neck swim crop top and matching high-waisted swim bottoms, white gauze sarong secured around the hips with a modest side slit. Bare shoulders arms midriff and lower legs, tiny paired white oval earrings, no armor.\nCategory: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.\nNote: 1024x1536. One adult woman in her twenties, same approved light identity. Both whole hands attached naturally to their own forearms, five clearly separated digits each. No text or logos.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "reference": [
+        "마자용_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "category": "swimwear",
+        "expression": "laughing, eyes open",
+        "pose": "mid_stride",
+        "orientation": "front",
+        "frame": "full_body",
+        "lens": "documentary35"
+      },
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "source_sha256": "f5536847c2cb7acb393780f86e87a8d959a4d5208037d0cb0fa30a78a52c215e",
+      "sha256": "5cc86fbaecb42cdd65e13772d35a99b4b1ade026f55900c6634fffe9bfa3a1c2",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "casual2",
+      "record": "wobbuffet-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-ccfe391c-0ff4-439f-8cec-2f7dac7c7d9e.png",
+      "filename": "마자용_glossy_promo_f_casual2.webp",
+      "prompt": "CHARACTER: the same woman as the attached image — Wobbuffet (마자용) personified, psychic type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed\nPose: Work at a kitchen counter, stirring a bowl or arranging ingredients with clearly separated hands and utensils.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: Inside an empty brick bakery at warm dawn, standing at a flour-dusted wooden counter shaping a small round berry bun with gentle relaxed fingers; the other whole hand rests separately on a parchment edge. Both forearms and hands fully inside the waist-up crop. Warm oven glow, blue morning window, no writing on tools or jars.\nOutfit and props: Opaque sky-blue puff-sleeved square-neck blouse with secure covered chest and shoulder cutouts, white waist apron over high-waisted black linen trousers, sleeves short above elbow, small paired white oval pendant. Bare shoulders and forearms, original practical kitchen clothes, no armor.\nCategory: Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.\nNote: 1024x1536. One adult woman in her twenties, same approved light identity. Both whole hands attached naturally to their own forearms, five clearly separated digits each. No text or logos.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "reference": [
+        "마자용_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "category": "cooking_berries",
+        "expression": "focused",
+        "pose": "food_preparation",
+        "orientation": "front_3q",
+        "frame": "waist_up",
+        "lens": "natural50"
+      },
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "source_sha256": "c30541fc185beca2ba075a25d5ad4a0a8ace58208bf00219cb4c1237e6148619",
+      "sha256": "1bc7ad3feb3d5fc44fa337966eebc6ccdd3f6114353798fb368416cc5811ea65",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "casual3",
+      "record": "wobbuffet-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-2a8af06d-12c2-4cc1-a909-4060cc3ae775.png",
+      "filename": "마자용_glossy_promo_f_casual3.webp",
+      "prompt": "CHARACTER: the same woman as the attached image — Wobbuffet (마자용) personified, psychic type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed\nPose: Carry the scene's bag, basket or box with believable hand contact and weight.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: On an empty grassy hill at a kite festival in breezy late afternoon, standing side-on with face turned toward camera, holding a plain small kite reel in one whole hand at waist height while the other relaxed open hand guides the loose line. The blue diamond kite appears high behind her without symbols, head to knees, soft golden grasses, no people or signage.\nOutfit and props: Opaque white asymmetric sleeveless halter blouse with a short azure shoulder scarf, black high-waisted wide-leg cropped trousers and simple white belt, small blue stud earrings. Bare arms one shoulder and narrow midriff, breezy contemporary festival fashion, no armor.\nCategory: Show one moment attending a Pokémon-world festival or contest, with an identifiable activity and event props. Preserve the approved identity and let the selected scene determine clothing and mood.\nNote: 1024x1536. One adult woman in her twenties, same approved light identity. Both whole hands attached naturally to their own forearms, five clearly separated digits each. No text or logos.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 135mm-equivalent telephoto perspective from farther away, with compressed background depth and unchanged anatomy.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "reference": [
+        "마자용_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "category": "festivals_contests",
+        "expression": "amused",
+        "pose": "holding_object",
+        "orientation": "side",
+        "frame": "three_quarter",
+        "lens": "telephoto135"
+      },
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "source_sha256": "e92f732c1258bc4c34589a91f257cde0ed7d8034dbc5568a228bb6cc44fbb1c0",
+      "sha256": "d6dc14647ebbaf895b785d630f79dedaa161c6d0868fc19356e1367c498c6fc4",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "heavy_overdrive",
+      "record": "wobbuffet-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-aa2c65e3-be9a-461b-a095-ba1a88f66bc4.png",
+      "filename": "마자용_heavy_overdrive_glossy_promo_f.webp",
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Wobbuffet (마자용), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a magenta glow with floating rings of light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "reference": [
+        "마자용_heavy_glossy_promo_f.webp",
+        "마자용_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "source": "0202 · 마자용",
+        "style": "glossy_promo",
+        "mode": "action",
+        "form": "overdrive",
+        "base_form": "heavy"
+      },
+      "source_sha256": "557acb961bc28e9522cc674e13c30727d4371f7a36a0ae181dbd757f69a480f7",
+      "sha256": "36705427899f4acb1094bfa13f7382c772baf1b91d2ed5932e7e7cf212014619",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "mobility_overdrive",
+      "record": "wobbuffet-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-8c61869d-8477-45dc-927d-81a5fa154701.png",
+      "filename": "마자용_mobility_overdrive_glossy_promo_f.webp",
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Wobbuffet (마자용), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a magenta glow with floating rings of light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "reference": [
+        "마자용_mobility_glossy_promo_f.webp",
+        "마자용_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "source": "0202 · 마자용",
+        "style": "glossy_promo",
+        "mode": "action",
+        "form": "overdrive",
+        "base_form": "mobility"
+      },
+      "source_sha256": "48b04b912738eca314fd50d280c2ada0f9b6d0f746720e774c25331d0633a5a1",
+      "sha256": "e5663df075821eace4ba93e134455b4897a30abb2dc972c1dbbd72d98844a294",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    }
+  ]
+}

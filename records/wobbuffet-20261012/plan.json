@@ -1,0 +1,84 @@
+{
+  "name": "마자용",
+  "style": "glossy_promo",
+  "canonical": "마자용_light_glossy_promo_f.webp",
+  "comparison": {
+    "reviewed": [
+      "야도킹 plan and submitted prompts",
+      "에레브 submitted prompts",
+      "니로우 plan and submitted prompts",
+      "무우마 current batch",
+      "안농 current batch"
+    ],
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "casual": [
+    {
+      "key": "casual1",
+      "ui": {
+        "category": "swimwear",
+        "expression": "laughing, eyes open",
+        "pose": "mid_stride",
+        "orientation": "front",
+        "frame": "full_body",
+        "lens": "documentary35"
+      },
+      "expression": "mouth open wide in a laugh with teeth showing and cheeks raised, but the eyes stay open and engaged — lids only slightly narrowed, gaze still readable rather than squeezed shut",
+      "pose": "Capture a clear mid-stride step with believable weight transfer.",
+      "orientation": "torso and pelvis face the camera; gaze is independent",
+      "scene": "At an empty clear freshwater lagoon in bright summer noon, stepping gently from ankle-deep water onto a pebbled shore after a swim, laughing naturally toward camera with both open hands relaxed away from torso. Complete head, bare feet and hands visible, gentle waterfall far behind, sparkling blue water with no people or animals.",
+      "outfit": "Fully lined opaque azure blue wide-strap square-neck swim crop top and matching high-waisted swim bottoms, white gauze sarong secured around the hips with a modest side slit. Bare shoulders arms midriff and lower legs, tiny paired white oval earrings, no armor.",
+      "category": "This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.",
+      "framing": "Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.",
+      "lens": "35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth."
+    },
+    {
+      "key": "casual2",
+      "ui": {
+        "category": "cooking_berries",
+        "expression": "focused",
+        "pose": "food_preparation",
+        "orientation": "front_3q",
+        "frame": "waist_up",
+        "lens": "natural50"
+      },
+      "expression": "slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed",
+      "pose": "Work at a kitchen counter, stirring a bowl or arranging ingredients with clearly separated hands and utensils.",
+      "orientation": "front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together",
+      "scene": "Inside an empty brick bakery at warm dawn, standing at a flour-dusted wooden counter shaping a small round berry bun with gentle relaxed fingers; the other whole hand rests separately on a parchment edge. Both forearms and hands fully inside the waist-up crop. Warm oven glow, blue morning window, no writing on tools or jars.",
+      "outfit": "Opaque sky-blue puff-sleeved square-neck blouse with secure covered chest and shoulder cutouts, white waist apron over high-waisted black linen trousers, sleeves short above elbow, small paired white oval pendant. Bare shoulders and forearms, original practical kitchen clothes, no armor.",
+      "category": "Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.",
+      "framing": "Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.",
+      "lens": "50mm-equivalent natural perspective with balanced proportions and modest depth compression."
+    },
+    {
+      "key": "casual3",
+      "ui": {
+        "category": "festivals_contests",
+        "expression": "amused",
+        "pose": "holding_object",
+        "orientation": "side",
+        "frame": "three_quarter",
+        "lens": "telephoto135"
+      },
+      "expression": "crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed",
+      "pose": "Carry the scene's bag, basket or box with believable hand contact and weight.",
+      "orientation": "side body profile, approximately 90 degrees to camera",
+      "scene": "On an empty grassy hill at a kite festival in breezy late afternoon, standing side-on with face turned toward camera, holding a plain small kite reel in one whole hand at waist height while the other relaxed open hand guides the loose line. The blue diamond kite appears high behind her without symbols, head to knees, soft golden grasses, no people or signage.",
+      "outfit": "Opaque white asymmetric sleeveless halter blouse with a short azure shoulder scarf, black high-waisted wide-leg cropped trousers and simple white belt, small blue stud earrings. Bare arms one shoulder and narrow midriff, breezy contemporary festival fashion, no armor.",
+      "category": "Show one moment attending a Pokémon-world festival or contest, with an identifiable activity and event props. Preserve the approved identity and let the selected scene determine clothing and mood.",
+      "framing": "Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.",
+      "lens": "135mm-equivalent telephoto perspective from farther away, with compressed background depth and unchanged anatomy."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "verification": "Actual generator UI selections made and submitted prompts read before each image. Same approved light reference throughout."
+}
