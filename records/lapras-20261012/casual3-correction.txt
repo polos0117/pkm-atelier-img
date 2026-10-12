@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Lapras (라프라스) personified, water / ice type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed
+Pose: Capture the selected activity already in progress with a readable natural gesture.
+Orientation: torso and pelvis face the camera; gaze is independent
+Scene: Inside an empty marine-audio recording booth at blue evening, facing camera while adjusting one knob on an unlabelled mixing panel with one relaxed hand, other open hand on a separate panel edge. Both complete hands visible within waist-up crop. Dim cyan indicator lamps and warm face light, no text.
+Outfit and props: Opaque gray sleeveless collared cropped vest over a secure cream fitted bandeau, high-waisted blue tailored trousers, tiny silver horn-shaped necklace. Bare shoulders, arms and small midriff, fully covered chest and pelvis. Original sound-technician workwear, no uniform insignia or armor.
+Category: Show one believable working moment in the Pokémon world. Choose care, research, conservation, berry cultivation, crafts, travel, contests or battle support. Make the profession readable through a concrete task, practical clothing and relevant tools. Preserve the approved woman; invent her own workwear instead of copying an existing trainer, Gym Leader or Pokémon Center character.
+Note: Image 1 is the edit target; image 2 is the canonical face and hair reference only. CORRECTION: remove BOTH large curled blue ear/horn armor ornaments from her head, including their metal band. Keep only her natural long loose blue wavy hair, no horns, no hair buns, no armor. Retain the existing small earrings and necklace. Preserve the target face, expression, pose, outfit, scene, light and framing. HAND CORRECTION: zoom the camera out just enough and bring the right-edge hand inward so BOTH complete hands, including every fingertip, are fully inside the image with a visible margin. Show exactly five separate natural fingers on each hand, correctly joined to their own forearms. No finger crosses the border.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

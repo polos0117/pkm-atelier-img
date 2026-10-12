@@ -14,7 +14,7 @@
     "잉어킹"
   ],
   "recovery": "Final WebP and exact prompts are committed together. Use repository canonical, not a later variant. Raw scratch PNGs are incidental.",
-  "status": "9/9 generated, awaiting upload",
+  "status": "9/9 main uploaded; thumbnail workflow succeeded and all nine dex slots verified",
   "images": [
     {
       "slot": "light",
@@ -207,5 +207,7 @@
     "generator": "built-in image_gen",
     "qa": "Inspected single adult identity, framing, hands, form and no text."
   },
-  "facePrompt": "FACE (her own structure, not the style's default face): elongated face, long length, medium width; angular defined jaw; sharp eyes, medium size, upturned outer corners, average spacing; thick low brows; long nose with low tip; wide mouth."
+  "facePrompt": "FACE (her own structure, not the style's default face): elongated face, long length, medium width; angular defined jaw; sharp eyes, medium size, upturned outer corners, average spacing; thick low brows; long nose with low tip; wide mouth.",
+  "imageCommit": "a5d47918c187d249307285557be2aa76d7a7aab2",
+  "thumbnailWorkflow": 38230455827
 }

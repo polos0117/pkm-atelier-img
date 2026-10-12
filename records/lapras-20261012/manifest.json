@@ -1,0 +1,177 @@
+{
+  "card": "라프라스",
+  "images": [
+    {
+      "slot": "light",
+      "file": "라프라스_light_glossy_promo_f.webp",
+      "repositoryPath": "img/라프라스_light_glossy_promo_f.webp",
+      "source": "/workspace/scratch/9bb5d870b849/generated_images/exec-5be8f83d-cc89-4df2-a98e-f163a111610e.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4a5832c51d3b1dda0ac797ca2bd2a692eb883d26b75697e5010829c2a303a5ab",
+      "reference": null,
+      "prompt": "light.txt",
+      "ui": "light-ui.json",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual selection in real Preact editor via repository DOM harness",
+      "generator": "built-in image_gen",
+      "qa": "Inspected single adult identity, framing, hands, form and no text."
+    },
+    {
+      "slot": "heavy",
+      "file": "라프라스_heavy_glossy_promo_f.webp",
+      "repositoryPath": "img/라프라스_heavy_glossy_promo_f.webp",
+      "source": "/workspace/scratch/9bb5d870b849/generated_images/exec-8fcf725f-a9f4-4031-ab5e-653727564af8.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "6561f4a79681c644673af2f0d64bae3597c625e3546620cbfdd2465a50a2810c",
+      "reference": "img/라프라스_light_glossy_promo_f.webp",
+      "prompt": "heavy-submitted.txt",
+      "ui": "heavy-submitted-ui.json",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual selection in real Preact editor via repository DOM harness",
+      "generator": "built-in image_gen",
+      "qa": "Inspected single adult identity, framing, hands, form and no text."
+    },
+    {
+      "slot": "mobility",
+      "file": "라프라스_mobility_glossy_promo_f.webp",
+      "repositoryPath": "img/라프라스_mobility_glossy_promo_f.webp",
+      "source": "/workspace/scratch/9bb5d870b849/generated_images/exec-6bc32b53-90db-4aea-8359-9b5a02c06a80.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4eb192ca116598f05ef1be74d2e500f8a417543e84fe220372fb04ccf6b61a6f",
+      "reference": "img/라프라스_light_glossy_promo_f.webp",
+      "prompt": "mobility-submitted.txt",
+      "ui": "mobility-submitted-ui.json",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual selection in real Preact editor via repository DOM harness",
+      "generator": "built-in image_gen",
+      "qa": "Inspected single adult identity, framing, hands, form and no text."
+    },
+    {
+      "slot": "light_overdrive",
+      "file": "라프라스_light_overdrive_glossy_promo_f.webp",
+      "repositoryPath": "img/라프라스_light_overdrive_glossy_promo_f.webp",
+      "source": "/workspace/scratch/9bb5d870b849/generated_images/exec-a3d4053e-4475-4dd4-8f26-a7fbbd2e14d4.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "d5abf2aaff05c0b7984e4b51dc126f59022b4e0470dfc4f1dc2c161f212f4d22",
+      "reference": "img/라프라스_light_glossy_promo_f.webp",
+      "prompt": "light_overdrive.txt",
+      "ui": "light_overdrive-ui.json",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual selection in real Preact editor via repository DOM harness",
+      "generator": "built-in image_gen",
+      "qa": "Inspected single adult identity, framing, hands, form and no text."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "file": "라프라스_heavy_overdrive_glossy_promo_f.webp",
+      "repositoryPath": "img/라프라스_heavy_overdrive_glossy_promo_f.webp",
+      "source": "/workspace/scratch/9bb5d870b849/generated_images/exec-35c90e7f-56f8-4632-9a34-f3c5e1e14c98.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "dac6828875f3512a54f1218525a6bdc02d38bf2fe3d609cb0fbc91a4afcf2d65",
+      "reference": "img/라프라스_heavy_glossy_promo_f.webp",
+      "prompt": "heavy_overdrive.txt",
+      "ui": "heavy_overdrive-ui.json",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual selection in real Preact editor via repository DOM harness",
+      "generator": "built-in image_gen",
+      "qa": "Inspected single adult identity, framing, hands, form and no text."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "file": "라프라스_mobility_overdrive_glossy_promo_f.webp",
+      "repositoryPath": "img/라프라스_mobility_overdrive_glossy_promo_f.webp",
+      "source": "/workspace/scratch/9bb5d870b849/generated_images/exec-b916beb1-85bb-45b4-8394-239c725659e3.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "1dcae9614eb7c31f92a85a3c9237be46e8040072592520dcc05380483b131a2c",
+      "reference": "img/라프라스_mobility_glossy_promo_f.webp",
+      "prompt": "mobility_overdrive.txt",
+      "ui": "mobility_overdrive-ui.json",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual selection in real Preact editor via repository DOM harness",
+      "generator": "built-in image_gen",
+      "qa": "Inspected single adult identity, framing, hands, form and no text."
+    },
+    {
+      "slot": "casual1",
+      "file": "라프라스_glossy_promo_f_casual1.webp",
+      "repositoryPath": "img/라프라스_glossy_promo_f_casual1.webp",
+      "source": "/workspace/scratch/9bb5d870b849/generated_images/exec-7a3dc7ec-7fe5-4f52-ae30-50a8a691d065.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "fa316695783d4c119d037d53742ac93ab20a39bfc3f88271f88f0590849de207",
+      "reference": "img/라프라스_light_glossy_promo_f.webp",
+      "prompt": "casual1.txt",
+      "ui": "casual1-ui.json",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual selection in real Preact editor via repository DOM harness",
+      "generator": "built-in image_gen",
+      "qa": "Inspected single adult identity, framing, hands, form and no text."
+    },
+    {
+      "slot": "casual2",
+      "file": "라프라스_glossy_promo_f_casual2.webp",
+      "repositoryPath": "img/라프라스_glossy_promo_f_casual2.webp",
+      "source": "/workspace/scratch/9bb5d870b849/generated_images/exec-51c6fbc7-3181-4d5b-9110-b91abfad2561.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "2797d3d713a11509bdfceeb3cb7da3c86a8928c242ad0270ab74695c1fd8267d",
+      "reference": "img/라프라스_light_glossy_promo_f.webp",
+      "prompt": "casual2-correction.txt",
+      "ui": "casual2-correction-ui.json",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual selection in real Preact editor via repository DOM harness",
+      "generator": "built-in image_gen",
+      "qa": "Inspected retained adult identity, natural hair without armor ornaments, correct framing and full hands."
+    },
+    {
+      "slot": "casual3",
+      "file": "라프라스_glossy_promo_f_casual3.webp",
+      "repositoryPath": "img/라프라스_glossy_promo_f_casual3.webp",
+      "source": "/workspace/scratch/9bb5d870b849/generated_images/exec-3c5e32c9-7954-4f8a-9549-bac3468ea2cd.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "229e646c7e1fc7664d7e318fb91996c093207153407937691cde097a10690f54",
+      "reference": "img/라프라스_light_glossy_promo_f.webp",
+      "prompt": "casual3-correction.txt",
+      "ui": "casual3-correction-ui.json",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual selection in real Preact editor via repository DOM harness",
+      "generator": "built-in image_gen",
+      "qa": "Inspected retained adult identity, natural hair without armor ornaments, correct framing and full hands."
+    }
+  ],
+  "count": 9
+}

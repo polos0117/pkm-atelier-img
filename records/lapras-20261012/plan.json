@@ -1,0 +1,62 @@
+{
+  "name": "라프라스",
+  "en": "lapras",
+  "hair": "blue",
+  "style": "wavy",
+  "len": "long",
+  "body": "tall and lean",
+  "eye": "teal",
+  "scene": "An empty arctic marine laboratory with frosted windows, blue-gray floor and soft cream skylight. Calm card-ready balanced stance, hands separated from torso. Full figure occupies 86 percent of image height, head and feet clear.",
+  "casual": [
+    {
+      "cat": "travel_exploration",
+      "expr": "wistful",
+      "pose": "leaning_furniture",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "Standing side-on at the handrail of an empty coastal observation pavilion at soft winter sunset, face turned toward viewer, both open hands on separate rail sections. Head through knees, whole hands visible. Distant icy sea and rose-blue horizon.",
+      "outfit": "Opaque cream sleeveless fitted mock-neck mini dress over secure gray shorts, light blue long open cardigan with sleeves folded behind arms, gray walking boots, tiny spiral-ear shell brooch. Bare arms and legs, soft travel clothing, no armor."
+    },
+    {
+      "cat": "lingerie",
+      "expr": "gentle",
+      "pose": "sitting_floor",
+      "orient": "front_3q",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "Sitting on a soft cream rug in an empty sunlit home reading nook on a quiet morning, knees folded comfortably beside her; arranging two unlabelled books on a low table with separate relaxed hands. Complete head, hands and bare feet visible, warm window light and blue fabric cushions.",
+      "outfit": "Opaque lined ice-blue satin broad-strap cropped camisole with delicate cream lace trim and secure chest, matching high-waisted mid-thigh lounge shorts, light open gray robe behind elbows, small curled-ear stud earrings. Bare shoulders, arms, midriff and legs, fully covered chest and pelvis. Tasteful adult lingerie-inspired fashion, no armor."
+    },
+    {
+      "cat": "occupation_basic",
+      "expr": "focused",
+      "pose": "mid_action",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "Inside an empty marine-audio recording booth at blue evening, facing camera while adjusting one knob on an unlabelled mixing panel with one relaxed hand, other open hand on a separate panel edge. Both complete hands visible within waist-up crop. Dim cyan indicator lamps and warm face light, no text.",
+      "outfit": "Opaque gray sleeveless collared cropped vest over a secure cream fitted bandeau, high-waisted blue tailored trousers, tiny silver horn-shaped necklace. Bare shoulders, arms and small midriff, fully covered chest and pelvis. Original sound-technician workwear, no uniform insignia or armor."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "reviewed": [
+      "마그마",
+      "쁘사이저",
+      "켄타로스",
+      "잉어킹",
+      "갸라도스"
+    ],
+    "scope": "Read recent plans and all three submitted casual prompts; compare this batch in sequence.",
+    "changed": [
+      "location",
+      "activity",
+      "garment silhouette",
+      "composition"
+    ]
+  }
+}
