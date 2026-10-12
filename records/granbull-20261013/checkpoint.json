@@ -1,0 +1,24 @@
+{
+  "card": "그랑블루",
+  "state": "9/9 generated and inspected; pending remote publication",
+  "authoritative_light": "img/그랑블루_light_glossy_promo_f.webp",
+  "authoritative_light_sha256": "24adf215a10f2d8dfdfb5c6fffdea53846dfdcc220eb68c19539750dea15a449",
+  "recoverable_assets": [
+    "img/그랑블루_light_glossy_promo_f.webp",
+    "img/그랑블루_heavy_glossy_promo_f.webp",
+    "img/그랑블루_mobility_glossy_promo_f.webp",
+    "img/그랑블루_light_overdrive_glossy_promo_f.webp",
+    "img/그랑블루_heavy_overdrive_glossy_promo_f.webp",
+    "img/그랑블루_mobility_overdrive_glossy_promo_f.webp",
+    "img/그랑블루_glossy_promo_f_casual1.webp",
+    "img/그랑블루_glossy_promo_f_casual2.webp",
+    "img/그랑블루_glossy_promo_f_casual3.webp"
+  ],
+  "stages": [
+    "light approved",
+    "heavy and mobility approved",
+    "three opened pairs approved",
+    "three casual scenes approved"
+  ],
+  "remote_commits": []
+}

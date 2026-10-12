@@ -1,0 +1,63 @@
+{
+  "name": "그랑블루",
+  "slug": "granbull",
+  "no": 210,
+  "params": {
+    "hair color": "lavender",
+    "eye color": "amber",
+    "hairstyle": "wolf cut",
+    "hair length": "medium",
+    "body type": "broad-shouldered",
+    "apparent age": "20s"
+  },
+  "expr": "serious",
+  "motifs": "Lavender-purple armor, black collar trim, two small white plate markings; flat curved ears become subtle curved hair clips, short tail becomes a short belt sash, and paired fangs become small ivory plate-edge accents. Fully human face.",
+  "scene": "Violet maintenance hangar with black structural beams and soft white overhead reflection. Centered complete figure fills 86 percent of height, face toward camera, both arms slightly away from hips and hands visible.",
+  "casual": [
+    {
+      "cat": "travel_exploration",
+      "expr": "curious",
+      "pose": "walking",
+      "orient": "front_3q",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "Empty orchard footpath in cool dawn, walking slowly and looking toward camera, one hand brushing a low leaf and the other open beside waist. Complete figure, lavender mist and amber sunrise.",
+      "outfit": "Opaque lavender open-neck sleeveless utility shirt tucked into black high-waisted walking shorts, white trainers, small silver fang pendant. Bare arms and legs."
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "proud",
+      "pose": "leaning_furniture",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "Private ceramics glazing counter at late afternoon, showing a freshly glazed small lavender bowl sitting on the table between separated hands. Broad shoulders relaxed, warm kiln room bounce and cool skylight.",
+      "outfit": "Opaque black halter-neck cropped work top, high-waisted ivory canvas trousers and tiny white enamel earrings. Bare shoulders, arms and midriff, no armor."
+    },
+    {
+      "cat": "lingerie",
+      "expr": "sleepy",
+      "pose": "perched_seat",
+      "orient": "seated_twist",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "Private vanity dressing room at blue hour, perched upright on a stool and turning torso gently toward camera, smoothing a folded black satin ribbon on her lap with separated hands. Soft violet lamp, mirror reflects only room and never another person.",
+      "outfit": "Fully lined opaque lavender satin camisole with black broad straps and matching high-waisted satin lounge shorts, tiny white stud earrings. Bare shoulders and legs, chest and pelvis covered."
+    }
+  ],
+  "comparison": {
+    "reviewed": [
+      "노고치",
+      "글라이거",
+      "강철톤",
+      "블루"
+    ],
+    "read": "plans and submitted casual prompts from accessible most recent image repository records",
+    "changed": [
+      "location",
+      "specific activity",
+      "outfit silhouette",
+      "composition"
+    ]
+  }
+}
