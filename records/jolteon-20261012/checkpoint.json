@@ -1,0 +1,17 @@
+{
+  "approved": 9,
+  "canonical": {
+    "slot": "light",
+    "source": "generated_images/exec-283c6f26-206c-47d9-b213-2e098c51d21f.png",
+    "path": "pkm-atelier-img/img/쥬피썬더_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "5fcaa30bc163ca92c22059f0c76071b896746223d75fabf94638ebfae44dc17d",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  "phase": "ready_to_commit"
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "slot": "light",
+    "source": "generated_images/exec-283c6f26-206c-47d9-b213-2e098c51d21f.png",
+    "path": "pkm-atelier-img/img/쥬피썬더_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "5fcaa30bc163ca92c22059f0c76071b896746223d75fabf94638ebfae44dc17d",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "heavy",
+    "source": "generated_images/exec-4f9c7d87-1a8c-43e9-a7cb-d84f302dc493.png",
+    "path": "pkm-atelier-img/img/쥬피썬더_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "ab76dc2cf7c58356c2afef40519a9fc00b1b78a8eccb0b1397080cb3b03f25e7",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "mobility",
+    "source": "generated_images/exec-14cfb947-deec-4397-850f-8af9d0ccf818.png",
+    "path": "pkm-atelier-img/img/쥬피썬더_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "8eec57ff7068c3b721df57e29bd3a38c1608e1f68233aba943a7976e5da634a8",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "light_overdrive",
+    "source": "generated_images/exec-a32252d8-63cb-4c86-9271-121aa44df7df.png",
+    "path": "pkm-atelier-img/img/쥬피썬더_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "215fb686667a6827d167947d928e70a8d9a108b05e2b50e2a9bd9db91e8bc6d0",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "heavy_overdrive",
+    "source": "generated_images/exec-c295d120-870d-4317-86a1-b5973a0e635e.png",
+    "path": "pkm-atelier-img/img/쥬피썬더_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "161031c195fc1e5c86f6384f50f16f949b11a25feee873f1a653023360f80ed0",
+    "reference": "heavy",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "mobility_overdrive",
+    "source": "generated_images/exec-c9b5de4e-5507-4b06-8ac6-2e30face6efa.png",
+    "path": "pkm-atelier-img/img/쥬피썬더_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "52e70bab6f66216a25396dd637a9b3f8de0ba8f70611a42af5d8c69f5dc6be71",
+    "reference": "mobility",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "casual1",
+    "source": "generated_images/exec-b410a8f1-8da1-43ed-a024-60095b944804.png",
+    "path": "pkm-atelier-img/img/쥬피썬더_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "25e0b91620b4c1cc3a8919832fb967d730e9ae170916d52ed36de369236b9607",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "casual2",
+    "source": "generated_images/exec-6ee249be-c6fd-404d-b0bf-b7c379a094b7.png",
+    "path": "pkm-atelier-img/img/쥬피썬더_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "0dbe73903562b9fdca52ebdb38765221d5523afcaa8c3bd59dbe13c3e3d0f48c",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "casual3",
+    "source": "generated_images/exec-895937b3-63f7-4ded-8802-6569a870b199.png",
+    "path": "pkm-atelier-img/img/쥬피썬더_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "6e500bd6ac4a735348baa16de55d836b61c4c5b715cd76a47978fe5ba5a41e35",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  }
+]

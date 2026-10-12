@@ -1,0 +1,20 @@
+{
+  "mech": "쥬피썬더",
+  "style": "glossy_promo",
+  "aspect": "2:3",
+  "identityMode": "reference",
+  "cat": "everyday_basic",
+  "expr": "curious",
+  "pose": "carrying_something",
+  "orient": "side",
+  "frame": "three_quarter",
+  "lens": "natural50",
+  "scene": "At an empty parcel pickup shelf in a sunlit neighborhood shop in the morning, body side-on and face turned toward viewer, lifting a small unmarked cardboard parcel with both hands well separated under its left and right corners. Head through knees with complete fingers visible around the package edges, soft window light, no labels or written signs.",
+  "outfit": "Opaque ivory square-neck sleeveless blouse, yellow high-waisted A-line miniskirt, flat black sandals and tiny lightning stud earrings. Bare arms and legs, securely covered chest and pelvis, ordinary summer clothing, no armor.",
+  "outputMode": "casual",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "custom": "1024x1536 vertical. Preserve the approved adult identity, face, haircut and body proportions. Both complete hands visibly attached to their respective forearms with one thumb and four separate natural fingers each. No armor, weapons, text, logos or extra figures."
+}

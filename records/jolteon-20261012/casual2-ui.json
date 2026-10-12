@@ -1,0 +1,20 @@
+{
+  "mech": "쥬피썬더",
+  "style": "glossy_promo",
+  "aspect": "2:3",
+  "identityMode": "reference",
+  "cat": "active_movement",
+  "expr": "playful",
+  "pose": "mid_action",
+  "orient": "front_3q",
+  "frame": "full_body",
+  "lens": "documentary35",
+  "scene": "On an empty outdoor roller rink at blue hour, balancing through a gentle roller-skating curve with both arms held low and separate, relaxed fingers visible. Complete head, hands and skates in frame, smooth concrete and small warm rink lamps, no lettering or extra people.",
+  "outfit": "Opaque bright-yellow short-sleeve cropped athletic jersey, charcoal high-waisted fitted bike shorts, white socks and white roller skates with yellow wheels. Tiny lightning pendant, bare forearms, midriff and legs, secure chest and pelvis coverage, no armor.",
+  "outputMode": "casual",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "custom": "1024x1536 vertical. Preserve the approved adult identity, face, haircut and body proportions. Both complete hands visibly attached to their respective forearms with one thumb and four separate natural fingers each. No armor, weapons, text, logos or extra figures."
+}

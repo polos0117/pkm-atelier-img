@@ -1,0 +1,23 @@
+CHARACTER: the same woman as the attached image — Jolteon (쥬피썬더) personified, electric type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement
+Pose: Capture the selected activity already in progress with a readable natural gesture.
+Orientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together
+Scene: On an empty outdoor roller rink at blue hour, balancing through a gentle roller-skating curve with both arms held low and separate, relaxed fingers visible. Complete head, hands and skates in frame, smooth concrete and small warm rink lamps, no lettering or extra people.
+Outfit and props: Opaque bright-yellow short-sleeve cropped athletic jersey, charcoal high-waisted fitted bike shorts, white socks and white roller skates with yellow wheels. Tiny lightning pendant, bare forearms, midriff and legs, secure chest and pelvis coverage, no armor.
+Note: 1024x1536 vertical. Preserve the approved adult identity, face, haircut and body proportions. Both complete hands visibly attached to their respective forearms with one thumb and four separate natural fingers each. No armor, weapons, text, logos or extra figures.
+Framing: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.
+Lens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

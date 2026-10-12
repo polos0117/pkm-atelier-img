@@ -1,0 +1,20 @@
+{
+  "mech": "쥬피썬더",
+  "style": "glossy_promo",
+  "aspect": "2:3",
+  "identityMode": "reference",
+  "cat": "adult_roleplay",
+  "expr": "confident",
+  "pose": "standing_formal",
+  "orient": "front",
+  "frame": "waist_up",
+  "lens": "portrait85",
+  "scene": "At an empty music venue during sound-check, standing beside a microphone stand and testing its height with one relaxed hand while the other rests open on a separate mixing console. Head through waist, both complete hands visible, violet backstage lights and warm face light, no audience, signs or lettering.",
+  "outfit": "Opaque black sleeveless tailored halter waistcoat with a deep but secured V neckline and bright yellow piping, high-waisted white tailored shorts, slim yellow belt and tiny lightning earrings. Adult stage-host event fashion, bare shoulders, arms and midriff, fully covered chest and pelvis, no armor.",
+  "outputMode": "casual",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "custom": "1024x1536 vertical. Preserve the approved adult identity, face, haircut and body proportions. Both complete hands visibly attached to their respective forearms with one thumb and four separate natural fingers each. No armor, weapons, text, logos or extra figures."
+}

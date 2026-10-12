@@ -1,0 +1,68 @@
+{
+  "name": "쥬피썬더",
+  "casual": [
+    {
+      "cat": "adult_roleplay",
+      "expr": "confident",
+      "pose": "standing_formal",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "At an empty music venue during sound-check, standing beside a microphone stand and testing its height with one relaxed hand while the other rests open on a separate mixing console. Head through waist, both complete hands visible, violet backstage lights and warm face light, no audience, signs or lettering.",
+      "outfit": "Opaque black sleeveless tailored halter waistcoat with a deep but secured V neckline and bright yellow piping, high-waisted white tailored shorts, slim yellow belt and tiny lightning earrings. Adult stage-host event fashion, bare shoulders, arms and midriff, fully covered chest and pelvis, no armor."
+    },
+    {
+      "cat": "active_movement",
+      "expr": "playful",
+      "pose": "mid_action",
+      "orient": "front_3q",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "On an empty outdoor roller rink at blue hour, balancing through a gentle roller-skating curve with both arms held low and separate, relaxed fingers visible. Complete head, hands and skates in frame, smooth concrete and small warm rink lamps, no lettering or extra people.",
+      "outfit": "Opaque bright-yellow short-sleeve cropped athletic jersey, charcoal high-waisted fitted bike shorts, white socks and white roller skates with yellow wheels. Tiny lightning pendant, bare forearms, midriff and legs, secure chest and pelvis coverage, no armor."
+    },
+    {
+      "cat": "everyday_basic",
+      "expr": "curious",
+      "pose": "carrying_something",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "At an empty parcel pickup shelf in a sunlit neighborhood shop in the morning, body side-on and face turned toward viewer, lifting a small unmarked cardboard parcel with both hands well separated under its left and right corners. Head through knees with complete fingers visible around the package edges, soft window light, no labels or written signs.",
+      "outfit": "Opaque ivory square-neck sleeveless blouse, yellow high-waisted A-line miniskirt, flat black sandals and tiny lightning stud earrings. Bare arms and legs, securely covered chest and pelvis, ordinary summer clothing, no armor."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "reviewed": [
+      "샤미드",
+      "쏘콘",
+      "피콘"
+    ],
+    "read": "plans and casual1 prompts; faces also compared with 이브이, 키링키",
+    "changed": [
+      "location",
+      "activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "face": {
+    "reason": "뾰족한 전기 털과 번개 선을 각진 광대와 올라간 눈꼬리로 해석",
+    "source": [
+      "data/face-design.json#135",
+      "data/source-appearance.json#135"
+    ],
+    "comparison": [
+      "샤미드",
+      "이브이",
+      "쏘콘",
+      "피콘",
+      "키링키"
+    ],
+    "canonical_sha256": "5fcaa30bc163ca92c22059f0c76071b896746223d75fabf94638ebfae44dc17d"
+  }
+}
