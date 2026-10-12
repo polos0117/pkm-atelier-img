@@ -1,0 +1,60 @@
+{
+  "name": "잉어킹",
+  "en": "magikarp",
+  "hair": "orange",
+  "style": "bob",
+  "len": "short",
+  "body": "soft-figured",
+  "eye": "brown",
+  "scene": "An empty sunlit aquatic hangar with pale blue tiled floor and still shallow water channels. Standing card-ready, both relaxed hands clear of torso. Full figure occupies 86 percent of image height, head and feet clear.",
+  "casual": [
+    {
+      "cat": "adult_roleplay",
+      "expr": "playful",
+      "pose": "waving",
+      "orient": "front",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "At an empty indoor maritime festival dressing area at noon, playfully waving with one relaxed hand while the other rests open on a separate hip. Head through knees, both complete hands clear. Orange bunting, softly diffused skylight, no letters.",
+      "outfit": "Original nautical stage-event fashion: opaque coral-orange halter crop top with a broad cream sailor collar and small yellow ribbon, high-waisted ivory pleated skort, orange ankle boots, tiny yellow fin hairclip. Bare shoulders, arms, midriff and legs, chest and pelvis fully covered. Costume for an event, no authentic institutional insignia."
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "curious",
+      "pose": "sitting",
+      "orient": "front_3q",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "Seated at a sunny window in an empty pottery studio in late afternoon, gently shaping a small clay bowl resting on a stationary pottery wheel, fingers separately touching opposite sides. Head through waist, both forearms and complete hands visible. Warm bounced light and softly blurred shelves.",
+      "outfit": "Opaque pink fitted sleeveless scoop-neck cropped knit top, high-waisted orange wide-leg trousers, small waist apron and tiny fin-shaped earrings. Bare shoulders, arms and midriff, fully covered chest and pelvis."
+    },
+    {
+      "cat": "active",
+      "expr": "determined",
+      "pose": "small_jog",
+      "orient": "side",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "On an empty riverside running path at fresh dawn, a light jogging step in side view, face turned naturally toward camera, relaxed empty hands with visible fingers. Complete head and sneakers in frame, cool mist over river and soft peach dawn light.",
+      "outfit": "Opaque yellow broad-strap athletic crop top, coral-orange high-waisted fitted running shorts, white running shoes and a tiny orange fin pendant. Bare shoulders, arms, midriff and legs, secure sports clothing, no armor."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "reviewed": [
+      "마그마",
+      "쁘사이저",
+      "켄타로스"
+    ],
+    "scope": "Read recent plans and all three submitted casual prompts; compare this batch in sequence.",
+    "changed": [
+      "location",
+      "activity",
+      "garment silhouette",
+      "composition"
+    ]
+  }
+}

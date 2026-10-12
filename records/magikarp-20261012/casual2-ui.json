@@ -1,0 +1,172 @@
+{
+  "surface": "real Preact editor through repository DOM harness",
+  "selected": [
+    {
+      "id": "group",
+      "value": "",
+      "label": "전체"
+    },
+    {
+      "id": "source",
+      "value": "잉어킹",
+      "label": "0129 · 잉어킹"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo",
+      "label": "글로시 프로모 키아트"
+    },
+    {
+      "id": "expression",
+      "value": "curious",
+      "label": "curious — 호기심"
+    },
+    {
+      "id": "category",
+      "value": "hobbies_leisure",
+      "label": "취미·느긋한 휴식"
+    },
+    {
+      "id": "example",
+      "value": "",
+      "label": "자동 — 이 갈래에 맞는 장면"
+    },
+    {
+      "id": "pose",
+      "value": "sitting",
+      "label": "의자에 앉기"
+    },
+    {
+      "id": "orientation",
+      "value": "front_3q",
+      "label": "front three-quarter — 앞 3/4"
+    },
+    {
+      "id": "frame",
+      "value": "waist_up",
+      "label": "허리 위"
+    },
+    {
+      "id": "lens",
+      "value": "portrait85",
+      "label": "준망원 · 85mm 느낌"
+    },
+    {
+      "id": "aspect",
+      "value": "2:3",
+      "label": "2:3"
+    },
+    {
+      "id": "axis-overall_intensity",
+      "value": "strong",
+      "label": "가장 강함"
+    },
+    {
+      "id": "axis-skin_exposure",
+      "value": "bold",
+      "label": "많이"
+    },
+    {
+      "id": "axis-action_level",
+      "value": "AUTO",
+      "label": "자동"
+    },
+    {
+      "id": "axis-source_influence",
+      "value": "AUTO",
+      "label": "자동"
+    },
+    {
+      "id": "axis-separates_preference",
+      "value": "AUTO",
+      "label": "자동"
+    }
+  ],
+  "storage": {
+    "last": "잉어킹",
+    "cards": {
+      "잉어킹": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "faceDesignOn": true,
+        "params": {
+          "apparent age": "20s",
+          "hair color": "orange",
+          "hairstyle": "bob",
+          "hair length": "short",
+          "body type": "soft-figured",
+          "eye color": "brown"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "An empty sunlit aquatic hangar with pale blue tiled floor and still shallow water channels. Standing card-ready, both relaxed hands clear of torso. Full figure occupies 86 percent of image height, head and feet clear.",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "1024x1536. Precisely preserve the attached closed image camera, pose, framing, figure scale, face and all pieces. Only open the original plate seams and reveal type light. Both complete hands remain unchanged, five fingers per hand.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "curious",
+            "pose": "sitting",
+            "orient": "front_3q",
+            "scene": "Seated at a sunny window in an empty pottery studio in late afternoon, gently shaping a small clay bowl resting on a stationary pottery wheel, fingers separately touching opposite sides. Head through waist, both forearms and complete hands visible. Warm bounced light and softly blurred shelves.",
+            "outfit": "Opaque pink fitted sleeveless scoop-neck cropped knit top, high-waisted orange wide-leg trousers, small waist apron and tiny fin-shaped earrings. Bare shoulders, arms and midriff, fully covered chest and pelvis.",
+            "frame": "waist_up",
+            "lens": "portrait85",
+            "camera": "",
+            "custom": "1024x1536 vertical. Both complete hands visibly attached to their own forearms, each one thumb and four distinct natural fingers. Preserve the approved adult identity. No armor, weapons, text or logos.",
+            "aspect": "2:3",
+            "cat": "hobbies_leisure",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  },
+  "errors": []
+}
