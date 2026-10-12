@@ -1,0 +1,55 @@
+{
+  "method": "Selected fields in live prompt UI through CUA. Read output textarea for every image; local archived prompt matched length and FNV-1a32 of live UI.",
+  "style": "glossy_promo",
+  "casual_axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "prompts": {
+    "light": {
+      "fnv1a32": 2208591198,
+      "length": 2679,
+      "sha256": "86c066ea0c82694b8b9c635b651aebd9f63b234d85be96c0256d3f92f71e4a2b"
+    },
+    "heavy": {
+      "fnv1a32": 1311176182,
+      "length": 2026,
+      "sha256": "a0631c4f0f40be807469edffe2bfa9ad9514cdea156ea27bcc0383f8bb7ee639"
+    },
+    "mobility": {
+      "fnv1a32": 3553604210,
+      "length": 1992,
+      "sha256": "7a393ef940e202bcddac44840d3203fa3d77af01a64da766c3000b80c3cb98e7"
+    },
+    "light_overdrive": {
+      "fnv1a32": 720486638,
+      "length": 1335,
+      "sha256": "df2dd2bb0a96ba73965c6149a911425529462aa2eb2616747778d5386a1b078a"
+    },
+    "heavy_overdrive": {
+      "fnv1a32": 576057275,
+      "length": 1372,
+      "sha256": "c27aa34f448e54773a039d3043ae1abcc0e8724df970e3562327f9add264f3db"
+    },
+    "mobility_overdrive": {
+      "fnv1a32": 4236496287,
+      "length": 1343,
+      "sha256": "47d0ec45acaf0aba29d234670073a8c6be36f417e85e82e642a52c3aac802f0e"
+    },
+    "casual1": {
+      "fnv1a32": 496507106,
+      "length": 2939,
+      "sha256": "69d6fcbce1f7942f5170e248a26a7bb65c09e859833634aa97263180b47ffc8a"
+    },
+    "casual2": {
+      "fnv1a32": 2681259323,
+      "length": 2635,
+      "sha256": "6e207f018839779cb54d2c7c56c1b0735b9121410fdaa7493053d4fbcb453cfa"
+    },
+    "casual3": {
+      "fnv1a32": 2637812207,
+      "length": 2660,
+      "sha256": "7360b8ed79b9113014ce2477ce676d115b2e943d45567f3280b99ea6bf68f07f"
+    }
+  }
+}

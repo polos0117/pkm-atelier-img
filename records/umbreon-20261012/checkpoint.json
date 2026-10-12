@@ -12,7 +12,9 @@
     "reference": null,
     "prompt": "light.txt",
     "ui_verified": true,
-    "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    "review": "Full figure/crop, identity, hands and motif inspected in image tool output.",
+    "remote_path": "img/블래키_light_glossy_promo_f.webp",
+    "remote_repository": "polos0117/pkm-atelier-img"
   },
   "completed": [
     "light",
@@ -39,7 +41,8 @@
       "reference": null,
       "prompt": "light.txt",
       "ui_verified": true,
-      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output.",
+      "remote_path": "img/블래키_light_glossy_promo_f.webp"
     },
     {
       "slot": "heavy",
@@ -54,7 +57,8 @@
       "reference": "light",
       "prompt": "heavy.txt",
       "ui_verified": true,
-      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output.",
+      "remote_path": "img/블래키_heavy_glossy_promo_f.webp"
     },
     {
       "slot": "mobility",
@@ -69,7 +73,8 @@
       "reference": "light",
       "prompt": "mobility.txt",
       "ui_verified": true,
-      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output.",
+      "remote_path": "img/블래키_mobility_glossy_promo_f.webp"
     },
     {
       "slot": "light_overdrive",
@@ -84,7 +89,8 @@
       "reference": "light",
       "prompt": "light_overdrive.txt",
       "ui_verified": true,
-      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output.",
+      "remote_path": "img/블래키_light_overdrive_glossy_promo_f.webp"
     },
     {
       "slot": "heavy_overdrive",
@@ -99,7 +105,8 @@
       "reference": "heavy",
       "prompt": "heavy_overdrive.txt",
       "ui_verified": true,
-      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output.",
+      "remote_path": "img/블래키_heavy_overdrive_glossy_promo_f.webp"
     },
     {
       "slot": "mobility_overdrive",
@@ -114,7 +121,8 @@
       "reference": "mobility",
       "prompt": "mobility_overdrive.txt",
       "ui_verified": true,
-      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output.",
+      "remote_path": "img/블래키_mobility_overdrive_glossy_promo_f.webp"
     },
     {
       "slot": "casual1",
@@ -129,7 +137,8 @@
       "reference": "light",
       "prompt": "casual1.txt",
       "ui_verified": true,
-      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output.",
+      "remote_path": "img/블래키_glossy_promo_f_casual1.webp"
     },
     {
       "slot": "casual2",
@@ -144,7 +153,8 @@
       "reference": "light",
       "prompt": "casual2.txt",
       "ui_verified": true,
-      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output.",
+      "remote_path": "img/블래키_glossy_promo_f_casual2.webp"
     },
     {
       "slot": "casual3",
@@ -159,8 +169,13 @@
       "reference": "light",
       "prompt": "casual3.txt",
       "ui_verified": true,
-      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output.",
+      "remote_path": "img/블래키_glossy_promo_f_casual3.webp"
     }
   ],
-  "remote_status": "not yet committed"
+  "remote_status": "registered",
+  "image_commit": "727ab1d184d7093f75f52220e3e5779faccb6834",
+  "thumbnail_commit": "8898ce91f85a38a07aeb9df42b2325fb57f5cdf5",
+  "code_registration_commit": "92d744b5958ce56ca4eda4b89ab5502116967097",
+  "workflow_fallback": "Official make-thumbs.py generated this batch only; unrelated invalid img/스라크_heavy_overdrive_glossy_promo_f.webp blocked automatic thumbnail workflow. No unrelated file changed."
 }
