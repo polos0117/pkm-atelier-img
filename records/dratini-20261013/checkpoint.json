@@ -13,7 +13,8 @@
     "sha256": "fad2e1c0692e910a10eca4e068ffbcb79920b35fb2884add0e475a847b271647",
     "prompt": "light.txt",
     "reference": null,
-    "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands."
+    "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands.",
+    "repository_path": "img/미뇽_light_glossy_promo_f.webp"
   },
   "completed": [
     "light",
@@ -22,12 +23,22 @@
     "light_overdrive",
     "heavy_overdrive",
     "mobility_overdrive",
+    "casual1",
     "casual2",
-    "casual3",
-    "casual1"
+    "casual3"
   ],
-  "image_commit": null,
-  "registration_commit": null,
-  "status": "All nine images verified; ready for publication",
-  "ui_prompt_comparison": "Browser generated prompt length and FNV match local exact copies"
+  "image_commit": "ddce1a6592eb11930a31903988a7196bcd4f3a82",
+  "registration_commit": "f4b1baa4512754fca6656dacdd87cb06beca4db7",
+  "status": "Completed: nine verified main images, nine thumbnails and dex registration",
+  "ui_prompt_comparison": "Actual browser UI output length and FNV matched submitted exact copies.",
+  "publication_method": "GitHub normal fast-forward ref update; force=false; unrelated main commits retained",
+  "remote_byte_verification": "9/9 remote main images match recorded SHA-256 and open as 1024x1536 WebP",
+  "repair_commit": "1060f07c3ec8c9e5a52c2902c06adce00b7717e6",
+  "registration_verification": "6 armor/opened slots and 3 female casual images in main data/img.json; forms test passed",
+  "thumbnail_workflow_run_id": 38312763768,
+  "registration_workflow_run_id": 38312445738,
+  "thumbnail_commit": "111e3ff0b19bb10903cdc59b9dae226afb93da2f",
+  "thumbnail_verification": "9/9 remote thumbnails decode with longest edge 512",
+  "thumbnail_workflow_conclusion": "success",
+  "registration_workflow_conclusion": "success"
 }

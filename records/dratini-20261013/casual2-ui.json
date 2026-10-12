@@ -74,8 +74,8 @@
       "20s"
     ]
   ],
-  "outputMode": "action",
-  "identityMode": "create",
+  "outputMode": "casual",
+  "identityMode": "reference",
   "form": "light",
   "cat": "hobbies_leisure",
   "expr": "focused",

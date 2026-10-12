@@ -34,5 +34,10 @@
   "casual3": {
     "length": 2533,
     "fnv": "c7ba6a7f"
-  }
+  },
+  "casual1-correction": {
+    "length": 3288,
+    "fnv": "2d4355c3"
+  },
+  "confirmed_against_actual_browser_UI": true
 }

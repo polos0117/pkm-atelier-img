@@ -27,8 +27,17 @@
     "casual2",
     "casual3"
   ],
-  "image_commit": null,
-  "registration_commit": null,
-  "status": "All nine images visually and byte-verified; publication verification pending",
-  "ui_prompt_comparison": "Actual browser UI output length and FNV matched submitted exact copies."
+  "image_commit": "d31a60820320aae3be1c81d5f0d9ca63761e1386",
+  "registration_commit": "994b6dc0a7320172ae833b14ad9815b24b13c410",
+  "status": "Completed: nine verified main images, nine thumbnails and dex registration",
+  "ui_prompt_comparison": "Actual browser UI output length and FNV matched submitted exact copies.",
+  "publication_method": "GitHub normal fast-forward ref update; force=false; unrelated main commits retained",
+  "remote_byte_verification": "9/9 remote main images match recorded SHA-256 and open as 1024x1536 WebP",
+  "registration_verification": "6 armor/opened slots and 3 female casual images in main data/img.json; forms test passed",
+  "thumbnail_workflow_run_id": 38312763768,
+  "registration_workflow_run_id": 38312941441,
+  "thumbnail_commit": "111e3ff0b19bb10903cdc59b9dae226afb93da2f",
+  "thumbnail_verification": "9/9 remote thumbnails decode with longest edge 512",
+  "thumbnail_workflow_conclusion": "success",
+  "registration_workflow_conclusion": "success"
 }
