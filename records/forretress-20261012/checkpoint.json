@@ -1,5 +1,5 @@
 {
-  "stage": "9/9 generated and visually reviewed; ready for image commit",
+  "stage": "completed: originals 9/9, thumbnails 9/9, dex registration 9/9 on both main branches",
   "anchor": {
     "slot": "light",
     "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-3b722763-76b5-4dd7-bd72-6468924b15b3.png",
@@ -21,5 +21,57 @@
     "갸라도스",
     "라프라스"
   ],
-  "visualQA": "Distinct wider oval lower face and level eyes vs Pineco tapered chin and upturned eyes; same adult woman within nine outputs, hands naturally connected and readable, one figure, no text. Closed/open camera and pose align. Armor forms have single vs thicker stacked vs swept split plates. Casual three scenes differ in category, activity, place, silhouettes, expressions, poses, orientation and crop."
+  "visualQA": "Distinct wider oval lower face and level eyes vs Pineco tapered chin and upturned eyes; same adult woman within nine outputs, hands naturally connected and readable, one figure, no text. Closed/open camera and pose align. Armor forms have single vs thicker stacked vs swept split plates. Casual three scenes differ in category, activity, place, silhouettes, expressions, poses, orientation and crop.",
+  "imageCommit": "2c34d84069edcd6d01b1f2deac859582c2415add",
+  "dataCommit": "11a2e82b36ad7f1d14fbc6d6fe56cf1631b38b13",
+  "verifiedImageRepoHead": "ba24047d922578552371510deceb984b8c2c7223",
+  "verifiedDataRepoHead": "11a2e82b36ad7f1d14fbc6d6fe56cf1631b38b13",
+  "thumbnailWorkflow": {
+    "run": 38260913286,
+    "job": 114850871495,
+    "conclusion": "success"
+  },
+  "verification": {
+    "originalsVerified": 9,
+    "thumbnailsVerified": 9,
+    "thumbnails": [
+      {
+        "path": "img/thumb/쏘콘_light_glossy_promo_f.webp",
+        "sha": "7caf3929bc48994fbfbac97b0c1a771028edd804"
+      },
+      {
+        "path": "img/thumb/쏘콘_heavy_glossy_promo_f.webp",
+        "sha": "65d167504ea45ac884835e759b2cb5dd8bb1f30e"
+      },
+      {
+        "path": "img/thumb/쏘콘_mobility_glossy_promo_f.webp",
+        "sha": "07b6f57a3d07d1b1a25d739ca160fc81bbb7641f"
+      },
+      {
+        "path": "img/thumb/쏘콘_light_overdrive_glossy_promo_f.webp",
+        "sha": "abf606aecfb3360f86d2ce2d9f6cbb061759d0b9"
+      },
+      {
+        "path": "img/thumb/쏘콘_heavy_overdrive_glossy_promo_f.webp",
+        "sha": "48f18b2f89f9c3233fd8de81a3bf1c3cfaa7cebe"
+      },
+      {
+        "path": "img/thumb/쏘콘_mobility_overdrive_glossy_promo_f.webp",
+        "sha": "098d4069e5bcb17f57459ce8ea3e803727f95e5b"
+      },
+      {
+        "path": "img/thumb/쏘콘_glossy_promo_f_casual1.webp",
+        "sha": "97ed9a2ecf95419a17e671f3b33bc22242f4b763"
+      },
+      {
+        "path": "img/thumb/쏘콘_glossy_promo_f_casual2.webp",
+        "sha": "92caa1637b6eaede93f792d692e77cd893a90dea"
+      },
+      {
+        "path": "img/thumb/쏘콘_glossy_promo_f_casual3.webp",
+        "sha": "fd2ba6eb70b0cadcaf42b6c7adc3220ccea7818d"
+      }
+    ]
+  },
+  "canonicalFacePrompt": "FACE (her own structure, not the style's default face): oval face, balanced length, wide width; wide heavy chin; narrow eyes, medium size, level outer corners, close-set; straight medium brows; balanced nose; thin lips."
 }

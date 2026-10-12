@@ -1,5 +1,5 @@
 {
-  "stage": "9/9 generated and visually reviewed; ready for image commit",
+  "stage": "completed: originals 9/9, thumbnails 9/9, dex registration 9/9 on both main branches",
   "anchor": {
     "slot": "light",
     "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-61c85dd5-f7b5-47c2-9dde-35d74b1c0859.png",
@@ -19,5 +19,58 @@
     "라프라스"
   ],
   "visualQA": "One human adult woman, same face/hair/body, visible complete hands, no text, intact head and feet in cards; closed/open pose and framing aligned. Distinct thick heavy layering and swept mobility silhouette. Casual settings differ in category, place, action, silhouette, expression, pose, orientation and crop.",
-  "faceComparison": "Reviewed approved light artworks side by side: longer and narrower human face, longer defined jaw/chin, less rounded eyes and longer nose; differences beyond hair and ornaments."
+  "faceComparison": "Reviewed approved light artworks side by side: longer and narrower human face, longer defined jaw/chin, less rounded eyes and longer nose; differences beyond hair and ornaments.",
+  "imageCommit": "5bc0a7b7c0c534837c7212fe9fa12b457e5e8901",
+  "dataCommit": "58ccb10fa5d2e498cb3df0ea3be9eef367cc4f7c",
+  "verifiedImageRepoHead": "ba24047d922578552371510deceb984b8c2c7223",
+  "verifiedDataRepoHead": "11a2e82b36ad7f1d14fbc6d6fe56cf1631b38b13",
+  "thumbnailWorkflow": {
+    "run": 38260913286,
+    "job": 114850871495,
+    "conclusion": "success"
+  },
+  "verification": {
+    "originalsVerified": 9,
+    "thumbnailsVerified": 9,
+    "thumbnails": [
+      {
+        "path": "img/thumb/키링키_light_glossy_promo_f.webp",
+        "sha": "f56b1705c29d661a3ccb9260e4726b46ac731ecc"
+      },
+      {
+        "path": "img/thumb/키링키_heavy_glossy_promo_f.webp",
+        "sha": "c7d8db621446bfb2322932fc0ba088171701e2c4"
+      },
+      {
+        "path": "img/thumb/키링키_mobility_glossy_promo_f.webp",
+        "sha": "737e3b9daafd068151c28100db75c3754761f48e"
+      },
+      {
+        "path": "img/thumb/키링키_light_overdrive_glossy_promo_f.webp",
+        "sha": "a9bf2f472c04eda39ff21b148c1b8e2b2501f180"
+      },
+      {
+        "path": "img/thumb/키링키_heavy_overdrive_glossy_promo_f.webp",
+        "sha": "63f7b3910551aa11463388c139ab735f1f71f151"
+      },
+      {
+        "path": "img/thumb/키링키_mobility_overdrive_glossy_promo_f.webp",
+        "sha": "a67ebdb8ab489253ab98d65c994215d0b6ffa283"
+      },
+      {
+        "path": "img/thumb/키링키_glossy_promo_f_casual1.webp",
+        "sha": "f776f8c013f6c4613b448b25878b3dcbdad0ac29"
+      },
+      {
+        "path": "img/thumb/키링키_glossy_promo_f_casual2.webp",
+        "sha": "6648816ef51a2d448f5b888b8ce45a5932d6f97c"
+      },
+      {
+        "path": "img/thumb/키링키_glossy_promo_f_casual3.webp",
+        "sha": "00c72c7b11f177fa223a57a844cde5d0508b5eae"
+      }
+    ]
+  },
+  "canonicalFacePrompt": "FACE (her own structure, not the style's default face): elongated face, long length, narrow width; long chin with defined jaw; almond eyes, medium size, level outer corners, average spacing; long arched brows; long nose with low tip; medium lips.",
+  "faceReason": "긴 목과 둥근 코를 긴 윤곽과 긴 사람 콧대로 표현; data/face-design.json:203"
 }

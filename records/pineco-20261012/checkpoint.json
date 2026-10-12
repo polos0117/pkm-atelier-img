@@ -1,5 +1,5 @@
 {
-  "stage": "9/9 generated and visually reviewed; ready for image commit",
+  "stage": "completed: originals 9/9, thumbnails 9/9, dex registration 9/9 on both main branches",
   "anchor": {
     "slot": "light",
     "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-69f15bd7-33a3-4b29-9710-b7180ddd1abc.png",
@@ -20,5 +20,59 @@
     "갸라도스",
     "라프라스"
   ],
-  "visualQA": "Distinct sharp compact face and narrower eyes, same adult woman in nine outputs, full intact hands, single figure, no text, six full-body card images and paired open framing. Casual three scenes have different categories, places, activity, clothes, expression, pose, orientation and crop."
+  "visualQA": "Distinct sharp compact face and narrower eyes, same adult woman in nine outputs, full intact hands, single figure, no text, six full-body card images and paired open framing. Casual three scenes have different categories, places, activity, clothes, expression, pose, orientation and crop.",
+  "imageCommit": "29804ea56d1a4c8d7cd200db7128a423fbdf26cb",
+  "dataCommit": "d9c0b84d07d836716424057afc61a4818a1064f6",
+  "repairCommit": "95d8f85574eaa45f5986d5bc61c8c33bd4bc509d",
+  "verifiedImageRepoHead": "ba24047d922578552371510deceb984b8c2c7223",
+  "verifiedDataRepoHead": "11a2e82b36ad7f1d14fbc6d6fe56cf1631b38b13",
+  "thumbnailWorkflow": {
+    "run": 38260913286,
+    "job": 114850871495,
+    "conclusion": "success"
+  },
+  "verification": {
+    "originalsVerified": 9,
+    "thumbnailsVerified": 9,
+    "thumbnails": [
+      {
+        "path": "img/thumb/피콘_light_glossy_promo_f.webp",
+        "sha": "f54c0cf1aaf48f70991ed4ea21332ccce1f7d680"
+      },
+      {
+        "path": "img/thumb/피콘_heavy_glossy_promo_f.webp",
+        "sha": "d2c7e53ccb5cbcf3b70a8da20de1c3a51c887529"
+      },
+      {
+        "path": "img/thumb/피콘_mobility_glossy_promo_f.webp",
+        "sha": "faf3197497ebd4fe1bad236eae10fd24baddc5eb"
+      },
+      {
+        "path": "img/thumb/피콘_light_overdrive_glossy_promo_f.webp",
+        "sha": "5f9fd3deb921a30bc65eccf0af1d14e5fa7c6878"
+      },
+      {
+        "path": "img/thumb/피콘_heavy_overdrive_glossy_promo_f.webp",
+        "sha": "06b3d9417bb141fed1c3c8a7617db7b1302a8297"
+      },
+      {
+        "path": "img/thumb/피콘_mobility_overdrive_glossy_promo_f.webp",
+        "sha": "2626eb58f08b60f87bbacdd3b531f5e3457fa5e3"
+      },
+      {
+        "path": "img/thumb/피콘_glossy_promo_f_casual1.webp",
+        "sha": "530b8a9720bbc126f4225a86302fa027bb4f73f1"
+      },
+      {
+        "path": "img/thumb/피콘_glossy_promo_f_casual2.webp",
+        "sha": "6e9b8504c32412758438aaa718438780b91bab33"
+      },
+      {
+        "path": "img/thumb/피콘_glossy_promo_f_casual3.webp",
+        "sha": "d2c75acf3a028f078d8c1560ab290d6853209f65"
+      }
+    ]
+  },
+  "canonicalFacePrompt": "FACE (her own structure, not the style's default face): sharp face, balanced length, medium width; narrow tapered chin; narrow eyes, small size, upturned outer corners, wide-set; straight medium brows; small delicate nose; thin lips.",
+  "repair": "A zero-byte mobility asset was restored from the exact validated WebP copy matching the original manifest SHA-256; no image redesign or re-encoding. All 27 originals verified against original manifests and remote Git blob IDs after repair."
 }
