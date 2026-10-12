@@ -1,0 +1,83 @@
+{
+  "settings": {
+    "mech": "뮤",
+    "outputMode": "casual",
+    "cat": "travel_exploration",
+    "expr": "curious",
+    "pose": "walking",
+    "orient": "front_3q",
+    "frame": "full_body",
+    "lens": "wide24",
+    "scene": "Walking along a quiet wind-eroded sandstone arch trail at rosy dawn, pausing her step to look curiously toward a distant rock formation, both empty hands relaxed and separated alongside her hips. Full head, hands and hiking sandals in frame, cool dawn shadows and vast open desert, no other figures.",
+    "outfit": "Opaque white cropped halter top, open coral short-sleeve linen shirt, high-waisted light blue denim shorts and tan hiking sandals, tiny oval pink pendant. Bare arms midriff and legs; everyday travel clothing, no armor, no ear headpiece or long tail sash.",
+    "custom": "1024x1536 vertical. Same adult woman as the approved light image, both full five-finger hands clearly connected to their own forearms, no weapons. Only small species motifs.",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "sourceName": "Mew",
+    "series": "psychic",
+    "sourceAppearance": {
+      "name": "뮤",
+      "en": "Mew",
+      "color": "pink",
+      "shape": "upright",
+      "features": [
+        {
+          "part": "tail",
+          "detail": "long thin tail with oval tip"
+        },
+        {
+          "part": "ear",
+          "detail": "triangular ears"
+        },
+        {
+          "part": "paw",
+          "detail": "large hind paws"
+        },
+        {
+          "part": "fur",
+          "detail": "fine pink fur"
+        },
+        {
+          "part": "eye",
+          "detail": "blue eyes"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Mew_%28Pok%C3%A9mon%29",
+      "revision": 4629213,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "1e1604150a68c3d1b1640d8d80cd40c4bfcede049c6d7fde46ed17deb7f2a404",
+      "method": "source-checked-correction",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "faceDesign": {
+      "name": "뮤",
+      "en": "Mew",
+      "line": "뮤",
+      "how": "species",
+      "registered": false,
+      "face": {
+        "face shape": "heart-shaped",
+        "face length": "balanced",
+        "face width": "medium",
+        "jaw & chin": "narrow tapered chin",
+        "eye shape": "large",
+        "eye size": "medium",
+        "eye tilt": "level outer corners",
+        "eye spacing": "average eye spacing",
+        "eyebrows": "fine soft arches",
+        "nose character": "straight slender bridge",
+        "lips": "small mouth"
+      },
+      "why": "작고 유연한 원형 실루엣과 파란 눈을 작은 턱과 맑은 둥근 눈으로 해석한다.",
+      "cues": [],
+      "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 코 작고 여린 코 → 곧고 가는 콧대"
+    },
+    "style": "glossy_promo",
+    "aspect": "2:3"
+  },
+  "prompt": "CHARACTER: the same woman as the attached image — Mew (뮤) personified, psychic type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted\nPose: Walk at a comfortable pace with a natural step and arm swing.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: Walking along a quiet wind-eroded sandstone arch trail at rosy dawn, pausing her step to look curiously toward a distant rock formation, both empty hands relaxed and separated alongside her hips. Full head, hands and hiking sandals in frame, cool dawn shadows and vast open desert, no other figures.\nOutfit and props: Opaque white cropped halter top, open coral short-sleeve linen shirt, high-waisted light blue denim shorts and tan hiking sandals, tiny oval pink pendant. Bare arms midriff and legs; everyday travel clothing, no armor, no ear headpiece or long tail sash.\nCategory: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.\nNote: 1024x1536 vertical. Same adult woman as the approved light image, both full five-finger hands clearly connected to their own forearms, no weapons. Only small species motifs.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 24mm-equivalent wide-angle impression with spacious environmental depth; use enough camera distance to avoid stretching the face or limbs.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+  "provenance": "Selected in actual generator UI and read final prompt before submission"
+}

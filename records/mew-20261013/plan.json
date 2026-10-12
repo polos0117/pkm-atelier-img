@@ -1,0 +1,79 @@
+{
+  "recent_compared": [
+    "나무킹",
+    "파이어",
+    "썬더",
+    "뮤츠"
+  ],
+  "comparison_scope": "Read submitted casual prompts for three recent complete characters; reviewed Mewtwo in this batch. Visually compared canonical faces Mew/Mewtwo/Sceptile/Moltres.",
+  "changes": [
+    "location",
+    "specific activity",
+    "clothing silhouette",
+    "composition"
+  ],
+  "casual": [
+    {
+      "mech": "뮤",
+      "outputMode": "casual",
+      "cat": "travel_exploration",
+      "expr": "curious",
+      "pose": "walking",
+      "orient": "front_3q",
+      "frame": "full_body",
+      "lens": "wide24",
+      "scene": "Walking along a quiet wind-eroded sandstone arch trail at rosy dawn, pausing her step to look curiously toward a distant rock formation, both empty hands relaxed and separated alongside her hips. Full head, hands and hiking sandals in frame, cool dawn shadows and vast open desert, no other figures.",
+      "outfit": "Opaque white cropped halter top, open coral short-sleeve linen shirt, high-waisted light blue denim shorts and tan hiking sandals, tiny oval pink pendant. Bare arms midriff and legs; everyday travel clothing, no armor, no ear headpiece or long tail sash.",
+      "custom": "1024x1536 vertical. Same adult woman as the approved light image, both full five-finger hands clearly connected to their own forearms, no weapons. Only small species motifs.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "mech": "뮤",
+      "outputMode": "casual",
+      "cat": "swimwear",
+      "expr": "laughing_open",
+      "pose": "mid_action",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "At a quiet resort sandy beach in late-afternoon turquoise shallows, standing side-on with face turned toward the viewer, laughing while lightly brushing the water with one hand to make a small splash beside her thigh; her other relaxed hand rests above her hip. Both complete hands and connected arms inside the head-to-knees crop, sunlit waves and distant pale cliffs, no other people.",
+      "outfit": "Fully lined opaque rose-pink sporty two-piece swimsuit with wide secure straps, curved white edging and high-waisted bottoms, a tiny blue oval pendant. Bare shoulders arms waist and legs; no armor, no creature ears or tail sash.",
+      "custom": "1024x1536 vertical. Same adult woman as the approved light image, both full five-finger hands clearly connected to their own forearms, no weapons. Only small species motifs.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "mech": "뮤",
+      "outputMode": "casual",
+      "cat": "homewear",
+      "expr": "gentle",
+      "pose": "leaning_furniture",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "In a small sunlit home music alcove in warm late morning, leaning gently against an upright piano, one hand turning a blank page in an unlettered music notebook on the wide top shelf and the other resting separately on the piano ledge. Torso faces camera, gentle smile, both complete hands and forearms visible in the waist-up crop, linen curtains and warm wood.",
+      "outfit": "Opaque ivory ribbed square-neck fitted cropped camisole with narrow pink lace edging and secure straps, blue high-waisted soft lounge shorts, tiny pink oval earrings. Bare shoulders arms and midriff; no armor, ear-shaped headpieces or tail sash.",
+      "custom": "1024x1536 vertical. Same adult woman as the approved light image, both full five-finger hands clearly connected to their own forearms, no weapons. Only small species motifs.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "face_reason": "Heart-shaped outline, tapered chin, rounded eyes and small mouth interpret the source rounded flexible silhouette without reducing adult age. Blue eyes echo source, pink bob distinguishes identity from Mewtwo.",
+  "face_sources": [
+    "data/face-design.json",
+    "data/source-appearance.json",
+    "docs/CHARACTER_FACE_DESIGNS.md"
+  ],
+  "tool": "built-in imagegen"
+}

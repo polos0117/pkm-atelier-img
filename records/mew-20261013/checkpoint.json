@@ -1,0 +1,134 @@
+{
+  "character": "뮤",
+  "style": "glossy_promo",
+  "completed": 9,
+  "requested": 9,
+  "canonical": {
+    "slot": "light",
+    "source": "/workspace/scratch/9baf28fffc5e/generated_images/exec-4cdefc8d-04db-4dde-9171-2b021f8f888a.png",
+    "file": "img/뮤_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "8b751cc5e5f057d8f9b4269885e1e9a0d699ebb9a2eede34170c85ea12105d2e",
+    "reference": null,
+    "review": "Adult identity, full body and hands intact; same composition for opened pair."
+  },
+  "assets": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/9baf28fffc5e/generated_images/exec-4cdefc8d-04db-4dde-9171-2b021f8f888a.png",
+      "file": "img/뮤_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "8b751cc5e5f057d8f9b4269885e1e9a0d699ebb9a2eede34170c85ea12105d2e",
+      "reference": null,
+      "review": "Adult identity, full body and hands intact; same composition for opened pair."
+    },
+    {
+      "slot": "heavy",
+      "source": "/workspace/scratch/9baf28fffc5e/generated_images/exec-9321e0fd-9d75-4379-863d-77aa12b0bbad.png",
+      "file": "img/뮤_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "9093d53849b5c56de55574d2d6cb9956a4445288ac730862f46457a79ff83a84",
+      "reference": "light",
+      "review": "Adult identity, full body and hands intact; same composition for opened pair."
+    },
+    {
+      "slot": "mobility",
+      "source": "/workspace/scratch/9baf28fffc5e/generated_images/exec-0a586f82-c099-424c-8ae7-dd0843b68f1d.png",
+      "file": "img/뮤_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "10bea64eef10a27b1f0e7c73c66079924226365109c0a16517e637341f32d917",
+      "reference": "light",
+      "review": "Adult identity, full body and hands intact; same composition for opened pair."
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "/workspace/scratch/9baf28fffc5e/generated_images/exec-2d990435-da4a-4d49-a707-bfa936ef06ed.png",
+      "file": "img/뮤_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "1ba231dbd6c88d71089e52aaa547a60ca918298103b9b72edd5bcbd1332976bc",
+      "reference": "light",
+      "review": "Adult identity, full body and hands intact; same composition for opened pair."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "source": "/workspace/scratch/9baf28fffc5e/generated_images/exec-ae27d813-ccd3-478c-999e-c7d675d646fb.png",
+      "file": "img/뮤_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "cc9e2ff34c7b693dccde73b2f60c4b562229ce79c652f03fef652620a4e1895c",
+      "reference": "heavy",
+      "review": "Adult identity and both complete hands retained; opened pair keeps scale and pose; casual varied outfit/activity and no armor."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "source": "/workspace/scratch/9baf28fffc5e/generated_images/exec-829c5f89-e781-4af8-8d71-d7a2f6a9e112.png",
+      "file": "img/뮤_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "9bca21ab9fc25fa7dc39a6ab90d722d4fec9dae60e0734d990997d82cd305b5c",
+      "reference": "mobility",
+      "review": "Adult identity and both complete hands retained; opened pair keeps scale and pose; casual varied outfit/activity and no armor."
+    },
+    {
+      "slot": "casual1",
+      "source": "/workspace/scratch/9baf28fffc5e/generated_images/exec-3311e92b-2f80-4191-9e66-6bf113323d7b.png",
+      "file": "img/뮤_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "92b8deb2b3b9557ab59e9028465ddcaf026678cde79d439c1ce805a3fa85a3c0",
+      "reference": "light",
+      "review": "Adult identity and both complete hands retained; opened pair keeps scale and pose; casual varied outfit/activity and no armor."
+    },
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/9baf28fffc5e/generated_images/exec-9e07cd2b-4e74-4fe9-8364-95cd3a88383e.png",
+      "file": "img/뮤_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "68cca3c74e699fb758f5966548a57d6539496761bd543b4535d03bf7f4eb5dae",
+      "reference": "light",
+      "review": "Adult identity and both complete hands retained; opened pair keeps scale and pose; casual varied outfit/activity and no armor."
+    },
+    {
+      "slot": "casual3",
+      "source": "/workspace/scratch/9baf28fffc5e/generated_images/exec-b8626b03-fcb9-4f19-a135-23af6fdbc6b7.png",
+      "file": "img/뮤_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "74560e935b3b93f434dca18dc0724d57e07c5aacf189367a009a87c21e7b3769",
+      "reference": "light",
+      "review": "Adult identity and both complete hands retained; opened pair keeps scale and pose; casual varied outfit/activity and no armor."
+    }
+  ],
+  "face_compared": [
+    "뮤츠",
+    "나무킹",
+    "파이어"
+  ],
+  "tool": "built-in imagegen"
+}
