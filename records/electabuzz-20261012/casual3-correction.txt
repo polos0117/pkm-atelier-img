@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Electabuzz (에레브) personified, electric type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+In an empty retro arcade on a rainy evening, sitting side-on in a racing-game seat with both hands separated on opposite sides of the steering wheel, smiling toward the viewer between turns. Head through knees, cyan and amber machine light, a simple abstract road on the screen, no readable text logos or reflected figures. (chosen):
+Expression: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement
+Pose: Sit naturally on a chair or bench with supported feet and readable hands.
+Orientation: side body profile, approximately 90 degrees to camera
+Scene: SCENE
+Outfit and props: Opaque yellow off-shoulder long-sleeved lightweight sweatshirt with black striped cuffs, cream high-waisted pleated skirt over fully covered black fitted shorts, black low sneakers. Bare shoulders and legs, a tiny black lightning pendant; casual contemporary clothing without armor.
+Category: Depict ordinary personal-life moments rather than occupation, costume, or formal editorial shoots. Keep them candid, believable, visually varied, and attractive without becoming too plain.
+Note: EDIT TARGET: first attached image is the finished arcade casual3 image; second attachment is the approved light image for identity. Change only the small lettering/logo in the steering-wheel center: replace it with a smooth blank black surface. Remove any other readable lettering or logos. Keep the woman face hair skin body hands pose clothes framing lighting and entire arcade scene exactly unchanged. 1024x1536. Both hands remain exactly unchanged.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

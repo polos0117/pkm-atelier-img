@@ -1,0 +1,83 @@
+{
+  "card": "에레브",
+  "style": "glossy_promo",
+  "casual": [
+    {
+      "slot": "casual1",
+      "ui": {
+        "category": "swimwear",
+        "expression": "relieved",
+        "pose": "leaning_furniture",
+        "orientation": "front_3q",
+        "frame": "waist_up",
+        "lens": "portrait85"
+      },
+      "EXPRESSION": "brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened",
+      "POSE": "Rest a hand or forearm on a table, counter or railing in a relaxed supported pose.",
+      "ORIENTATION": "front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together",
+      "SCENE": "At the empty edge of a public indoor lap pool after a morning swim, resting her left forearm on a broad tiled pool ledge while holding simple swim goggles loosely in her right hand away from the other arm. Water at the lower waist, face in front three-quarter view, both complete hands visible, soft skylight and golden water reflections.",
+      "OUTFIT": "Opaque fully lined yellow racerback athletic one-piece swimsuit with secure high neckline, wide shoulder straps and narrow black lightning-shaped side panels. Bare shoulders arms and legs below the water, small black stud earrings; no armor or metallic head ornaments.",
+      "CATEGORY": "This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.",
+      "FRAMING": "Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.",
+      "LENS": "85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression."
+    },
+    {
+      "slot": "casual2",
+      "ui": {
+        "category": "occupation_basic",
+        "expression": "focused",
+        "pose": "squatting",
+        "orientation": "front",
+        "frame": "environmental",
+        "lens": "wide24"
+      },
+      "EXPRESSION": "slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed",
+      "POSE": "Squat comfortably to interact at a lower height with balanced feet.",
+      "ORIENTATION": "torso and pelvis face the camera; gaze is independent",
+      "SCENE": "At an empty hillside solar research field in bright dry noon, squatting with balanced feet beside a low solar-panel junction box, holding a small blank handheld meter in one hand while the other rests openly on the broad inactive casing. Full head both hands and work shoes visible, rows of blue solar panels and tall grass, no lettering.",
+      "OUTFIT": "Opaque charcoal sleeveless fitted zip-neck work top, yellow high-waisted cargo shorts, short open cream utility vest and black sturdy shoes. Bare arms a small midriff gap and legs, tiny lightning stud earrings; practical original workwear without insignia or armor.",
+      "CATEGORY": "Show one believable working moment in the Pokémon world. Choose care, research, conservation, berry cultivation, crafts, travel, contests or battle support. Make the profession readable through a concrete task, practical clothing and relevant tools. Preserve the approved woman; invent her own workwear instead of copying an existing trainer, Gym Leader or Pokémon Center character.",
+      "FRAMING": "Environmental long shot: show the complete woman and enough surroundings to establish the activity and location.",
+      "LENS": "24mm-equivalent wide-angle impression with spacious environmental depth; use enough camera distance to avoid stretching the face or limbs."
+    },
+    {
+      "slot": "casual3",
+      "ui": {
+        "category": "everyday",
+        "expression": "playful",
+        "pose": "sitting",
+        "orientation": "side",
+        "frame": "three_quarter",
+        "lens": "natural50"
+      },
+      "EXPRESSION": "asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement",
+      "POSE": "Sit naturally on a chair or bench with supported feet and readable hands.",
+      "ORIENTATION": "side body profile, approximately 90 degrees to camera",
+      "SCENE": "In an empty retro arcade on a rainy evening, sitting side-on in a racing-game seat with both hands separated on opposite sides of the steering wheel, smiling toward the viewer between turns. Head through knees, cyan and amber machine light, a simple abstract road on the screen, no readable text logos or reflected figures.",
+      "OUTFIT": "Opaque yellow off-shoulder long-sleeved lightweight sweatshirt with black striped cuffs, cream high-waisted pleated skirt over fully covered black fitted shorts, black low sneakers. Bare shoulders and legs, a tiny black lightning pendant; casual contemporary clothing without armor.",
+      "CATEGORY": "Depict ordinary personal-life moments rather than occupation, costume, or formal editorial shoots. Keep them candid, believable, visually varied, and attractive without becoming too plain.",
+      "FRAMING": "Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.",
+      "LENS": "50mm-equivalent natural perspective with balanced proportions and modest depth compression."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "reviewed": [
+      "에브이",
+      "마임맨",
+      "아쿠스타",
+      "스라크",
+      "루주라"
+    ],
+    "scope": "Read latest three plans and all submitted casual prompts; compare earlier characters of this batch. Pool differs from Starmie shoreline by place, activity, athletic garment and waist crop. Solar field and arcade differ from earlier indoor craft scenes.",
+    "changed": [
+      "location",
+      "activity",
+      "garment silhouette",
+      "composition"
+    ]
+  }
+}
