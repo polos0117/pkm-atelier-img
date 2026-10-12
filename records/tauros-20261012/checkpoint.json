@@ -1,6 +1,6 @@
 {
   "card": "켄타로스",
-  "status": "nine images inspected, upload pending",
+  "status": "9/9 main uploaded; 9/9 thumbnails and dex registration verified",
   "canonical": {
     "slot": "light",
     "file": "켄타로스_light_glossy_promo_f.webp",
@@ -183,6 +183,12 @@
       "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
     }
   ],
-  "imageCommit": null,
-  "registrationCommit": null
+  "imageCommit": "58e325976fb7b0a7f38dbc339a5f967f22bf8d6e",
+  "registrationCommit": null,
+  "repairCommit": "1eed109a51d7af1af965605cc7b488e292d30de9",
+  "registrationVerifiedAt": "907e3db66d2a042a441e3db03d3cc7c53ed1c052",
+  "repository": "polos0117/pkm-atelier-img",
+  "canonicalRepositoryPath": "img/켄타로스_light_glossy_promo_f.webp",
+  "recovery": "Use repository WebP canonical and records; local raw PNG paths are incidental.",
+  "thumbnailRecovery": "The automatic workflow encountered an empty travel WebP during upload; restored the original bytes with manifest hash and built the nine thumbnails using tools/make-thumbs.py without changing other files."
 }
