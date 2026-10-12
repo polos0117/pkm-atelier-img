@@ -126,7 +126,12 @@
       "generator": "built-in image_gen",
       "prompt": "casual1.txt",
       "ui": "casual1.json",
-      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected.",
+      "correction": {
+        "prompt": "casual1-correction.txt",
+        "ui": "casual1-correction.json",
+        "reason": "Removed background human silhouettes, kept main person unchanged"
+      }
     },
     {
       "slot": "casual2",

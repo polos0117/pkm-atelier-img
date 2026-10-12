@@ -1,6 +1,6 @@
 {
   "card": "쁘사이저",
-  "status": "nine images inspected, upload pending",
+  "status": "9/9 main uploaded; 9/9 thumbnails and dex registration verified",
   "canonical": {
     "slot": "light",
     "file": "쁘사이저_light_glossy_promo_f.webp",
@@ -183,6 +183,10 @@
       "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
     }
   ],
-  "imageCommit": null,
-  "registrationCommit": null
+  "imageCommit": "0c954555724fa7070b81e5d81b7c94724ffc9370",
+  "registrationCommit": null,
+  "registrationVerifiedAt": "3a56bf9d6fb63fa0707a300b2ec5cee724588cfb",
+  "repository": "polos0117/pkm-atelier-img",
+  "canonicalRepositoryPath": "img/쁘사이저_light_glossy_promo_f.webp",
+  "recovery": "Use repository WebP canonical and records; local raw PNG paths are incidental."
 }

@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Pinsir (쁘사이저) personified, bug type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed
+Pose: Sit on a mat with one knee raised and an arm resting naturally on it.
+Orientation: torso and pelvis face the camera; gaze is independent
+Scene: In an empty indoor bouldering gym at cloudy noon, sitting on a broad padded mat with one knee raised, applying a little chalk to two separated open palms before practice. Head through knees and both whole hands clearly visible, muted climbing holds in the background, no lettering.
+Outfit and props: Opaque ivory high-neck sleeveless athletic crop top with secure fitted chest, chestnut high-waisted stretch climbing shorts, black climbing shoes, tiny ivory crescent hair clip. Bare shoulders arms midriff and thighs, no armor or horn headpiece.
+Category: Show real movement with fashion-forward activewear or movement-oriented clothing. Avoid generic gym snapshots. Prioritize dynamic motion, readable silhouette, waist and hip lines, fabric movement, and varied action.
+Note: EDIT TARGET: first attachment is the finished bouldering casual1 image. Change only the distant background: remove every small human silhouette, including the dark figure in the high upper-left window and any other person-shaped marks on the distant wall. Replace those marks with empty window scenery or plain climbing-wall surfaces. Keep the main adult woman face hair body all ten fingers pose clothing lighting crop and bouldering gym unchanged. Only one person in the entire image. 1024x1536. No text or logos.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
