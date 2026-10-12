@@ -1,0 +1,30 @@
+{
+  "name": "마자용",
+  "status": "complete",
+  "accepted_images": 9,
+  "image_repo_commit": "e3936fb5278ac9a7de164b609fb530b380530e61",
+  "verified_image_repo_head": "7cd39ed84b0be3a9f35f2431c788e991fd60849c",
+  "verified_dex_repo_head": "3a56bf9d6fb63fa0707a300b2ec5cee724588cfb",
+  "originals": [
+    "마자용_glossy_promo_f_casual1.webp",
+    "마자용_glossy_promo_f_casual2.webp",
+    "마자용_glossy_promo_f_casual3.webp",
+    "마자용_heavy_glossy_promo_f.webp",
+    "마자용_heavy_overdrive_glossy_promo_f.webp",
+    "마자용_light_glossy_promo_f.webp",
+    "마자용_light_overdrive_glossy_promo_f.webp",
+    "마자용_mobility_glossy_promo_f.webp",
+    "마자용_mobility_overdrive_glossy_promo_f.webp"
+  ],
+  "registered_count": 9,
+  "thumbnail_count": 9,
+  "format": "WEBP",
+  "size": [
+    1024,
+    1536
+  ],
+  "integrity": "all remote image bytes match accepted SHA-256, fully decoded locally; no empty images",
+  "canonical_reference": "img/마자용_light_glossy_promo_f.webp",
+  "generation": "Built-in imagegen; actual generator UI selections and each submitted prompt reviewed before use",
+  "publication": "main fast-forward updates with force=false; existing files and unrelated commits preserved"
+}
