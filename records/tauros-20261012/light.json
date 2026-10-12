@@ -1,0 +1,241 @@
+{
+  "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Tauros (켄타로스), normal type.\n\nPALETTE: light brown, brown, gray, black, dark brown.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Tauros as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): Tauros light-brown coat becomes warm tan and bronze armor; its thick dark-brown mane becomes a short layered collar, two gray curved horns become a symmetrical open headband ornament, three gray forehead bumps become three small silver studs on the headband. Its three black tails become exactly three narrow black sash strips hanging from the waist belt. Human skin face and limbs, no animal muzzle or actual tails..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nExpression: level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed\nScene: On an empty dry prairie track at late afternoon, standing in a firm front-three-quarter stance with feet apart, both empty hands relaxed and open beside her hips. Golden tall grass, distant windmills and warm rim light, no signs.\nNote: 1024x1536 vertical. Head ornaments to boots occupy about 88 percent of image height with narrow clear top and bottom margins. Both entire hands visibly connected to forearms, each one thumb and four distinct natural fingers. No weapons.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nhairstyle: bob — bob outline ending between below-ear and neck level\nhair length: below-ear to neck-length bob range\nhair color: brown\neye color: amber\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\neye color consistency: both eyes are amber\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+  "ui": [
+    {
+      "id": "search",
+      "value": ""
+    },
+    {
+      "id": "group",
+      "value": ""
+    },
+    {
+      "id": "source",
+      "value": "켄타로스"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo"
+    },
+    {
+      "id": "identity-mode",
+      "value": "create"
+    },
+    {
+      "id": "form",
+      "value": "light"
+    },
+    {
+      "id": "form-override",
+      "value": ""
+    },
+    {
+      "id": "motifs",
+      "value": "Tauros light-brown coat becomes warm tan and bronze armor; its thick dark-brown mane becomes a short layered collar, two gray curved horns become a symmetrical open headband ornament, three gray forehead bumps become three small silver studs on the headband. Its three black tails become exactly three narrow black sash strips hanging from the waist belt. Human skin face and limbs, no animal muzzle or actual tails."
+    },
+    {
+      "id": "head-feature",
+      "value": ""
+    },
+    {
+      "id": "param-apparent-age",
+      "value": "20s"
+    },
+    {
+      "id": "param-facial-ethnicity",
+      "value": ""
+    },
+    {
+      "id": "param-body-type",
+      "value": ""
+    },
+    {
+      "id": "param-height-impression",
+      "value": ""
+    },
+    {
+      "id": "param-shoulder-build",
+      "value": ""
+    },
+    {
+      "id": "param-torso---chest-build",
+      "value": ""
+    },
+    {
+      "id": "param-torso-length",
+      "value": ""
+    },
+    {
+      "id": "param-waist---hip-silhouette",
+      "value": ""
+    },
+    {
+      "id": "param-leg-proportion",
+      "value": ""
+    },
+    {
+      "id": "param-lower-body-build",
+      "value": ""
+    },
+    {
+      "id": "param-body-measurements--B-W-H-",
+      "value": ""
+    },
+    {
+      "id": "param-facial-character",
+      "value": ""
+    },
+    {
+      "id": "param-skin-tone",
+      "value": ""
+    },
+    {
+      "id": "param-face-shape",
+      "value": ""
+    },
+    {
+      "id": "param-eye-shape",
+      "value": ""
+    },
+    {
+      "id": "param-eye-color",
+      "value": "amber"
+    },
+    {
+      "id": "param-second-eye-color",
+      "value": ""
+    },
+    {
+      "id": "param-face-length",
+      "value": ""
+    },
+    {
+      "id": "param-face-width",
+      "value": ""
+    },
+    {
+      "id": "param-jaw---chin",
+      "value": ""
+    },
+    {
+      "id": "param-eye-size",
+      "value": ""
+    },
+    {
+      "id": "param-eye-tilt",
+      "value": ""
+    },
+    {
+      "id": "param-nose-character",
+      "value": ""
+    },
+    {
+      "id": "param-lips",
+      "value": ""
+    },
+    {
+      "id": "param-hair-color",
+      "value": "brown"
+    },
+    {
+      "id": "param-hairstyle",
+      "value": "bob"
+    },
+    {
+      "id": "param-hair-length",
+      "value": "short"
+    },
+    {
+      "id": "param-bangs",
+      "value": ""
+    },
+    {
+      "id": "param-hair-accent",
+      "value": ""
+    },
+    {
+      "id": "param-hair-texture",
+      "value": ""
+    },
+    {
+      "id": "param-hair-volume",
+      "value": ""
+    },
+    {
+      "id": "param-parting",
+      "value": ""
+    },
+    {
+      "id": "expression",
+      "value": "confident"
+    },
+    {
+      "id": "action-category",
+      "value": ""
+    },
+    {
+      "id": "action-example",
+      "value": ""
+    },
+    {
+      "id": "action-timing",
+      "value": ""
+    },
+    {
+      "id": "action-equipment",
+      "value": ""
+    },
+    {
+      "id": "action-power",
+      "value": ""
+    },
+    {
+      "id": "action-effects",
+      "value": ""
+    },
+    {
+      "id": "action-speed",
+      "value": ""
+    },
+    {
+      "id": "action-environment",
+      "value": ""
+    },
+    {
+      "id": "pose",
+      "value": ""
+    },
+    {
+      "id": "orientation",
+      "value": ""
+    },
+    {
+      "id": "frame",
+      "value": ""
+    },
+    {
+      "id": "lens",
+      "value": ""
+    },
+    {
+      "id": "aspect",
+      "value": "2:3"
+    },
+    {
+      "id": "camera",
+      "value": ""
+    },
+    {
+      "id": "scene",
+      "value": "On an empty dry prairie track at late afternoon, standing in a firm front-three-quarter stance with feet apart, both empty hands relaxed and open beside her hips. Golden tall grass, distant windmills and warm rim light, no signs."
+    },
+    {
+      "id": "outfit",
+      "value": ""
+    },
+    {
+      "id": "custom",
+      "value": "1024x1536 vertical. Head ornaments to boots occupy about 88 percent of image height with narrow clear top and bottom margins. Both entire hands visibly connected to forearms, each one thumb and four distinct natural fingers. No weapons."
+    }
+  ]
+}

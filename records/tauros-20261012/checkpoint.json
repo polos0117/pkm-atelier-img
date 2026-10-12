@@ -1,0 +1,188 @@
+{
+  "card": "켄타로스",
+  "status": "nine images inspected, upload pending",
+  "canonical": {
+    "slot": "light",
+    "file": "켄타로스_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WebP",
+    "sha256": "15b7aa2a3b2fa5d647a3e8ebe594b184032fe8da97b24b249976862541d7f7f8",
+    "source": "work/tauros/raw/light.png",
+    "reference": null,
+    "style": "glossy_promo",
+    "styleEvidence": "Actual UI selection",
+    "generator": "built-in image_gen",
+    "prompt": "light.txt",
+    "ui": "light.json",
+    "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+  },
+  "images": [
+    {
+      "slot": "light",
+      "file": "켄타로스_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "15b7aa2a3b2fa5d647a3e8ebe594b184032fe8da97b24b249976862541d7f7f8",
+      "source": "work/tauros/raw/light.png",
+      "reference": null,
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "light.txt",
+      "ui": "light.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "heavy",
+      "file": "켄타로스_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "d5917e8eeb061dc12e3b2fd20271647fc1c8dc506b7f0f93148528bcb95bbc8c",
+      "source": "work/tauros/raw/heavy.png",
+      "reference": "light",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "heavy.txt",
+      "ui": "heavy.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "mobility",
+      "file": "켄타로스_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "f097193c7c72c05f9f1ade9df2b71d722507a2821d4eb6a2d2bc2e47ba11c15b",
+      "source": "work/tauros/raw/mobility.png",
+      "reference": "light",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "mobility.txt",
+      "ui": "mobility.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "light_overdrive",
+      "file": "켄타로스_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "556ece9a9ae32e55712894d35e549e1e3b078552125efc70dbc0a969c912b4bc",
+      "source": "work/tauros/raw/light_overdrive.png",
+      "reference": "light",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "light_overdrive.txt",
+      "ui": "light_overdrive.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "file": "켄타로스_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "bf8506f655ab9bf14f22848752d5d2b0b279dcf3d8ba68c594e8c3db9ca3137c",
+      "source": "work/tauros/raw/heavy_overdrive.png",
+      "reference": "heavy",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "heavy_overdrive.txt",
+      "ui": "heavy_overdrive.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "file": "켄타로스_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "a771ba42af554074af5c5ced15b1b86f0a4fb258d02a808aee6b3defe55f4c16",
+      "source": "work/tauros/raw/mobility_overdrive.png",
+      "reference": "mobility",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "mobility_overdrive.txt",
+      "ui": "mobility_overdrive.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "casual1",
+      "file": "켄타로스_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "6545bc21e5d520ddb454c4c08086b4420f91da5d6bc9b9f2ab21a3aa45d3d43c",
+      "source": "work/tauros/raw/casual1.png",
+      "reference": "light",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "casual1.txt",
+      "ui": "casual1.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "casual2",
+      "file": "켄타로스_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "46e80fd576cb4fe663d0b8fe331f93cbbe42fa91183901efb6137c6a852f0b7f",
+      "source": "work/tauros/raw/casual2.png",
+      "reference": "light",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "casual2.txt",
+      "ui": "casual2.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "casual3",
+      "file": "켄타로스_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "f66522c6800870796c212d00b48e0f0c9f333b151b64e565e6b606b399870bfd",
+      "source": "work/tauros/raw/casual3.png",
+      "reference": "light",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "casual3.txt",
+      "ui": "casual3.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    }
+  ],
+  "imageCommit": null,
+  "registrationCommit": null
+}

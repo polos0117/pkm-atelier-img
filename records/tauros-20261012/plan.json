@@ -1,0 +1,59 @@
+{
+  "card": "켄타로스",
+  "style": "glossy_promo",
+  "casual": [
+    {
+      "slot": "casual1",
+      "cat": "occupation_basic",
+      "expr": "focused",
+      "pose": "carrying_something",
+      "orient": "front_3q",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "Inside an empty sunlit ranch tack barn on a clear morning, standing in front-three-quarter view while carrying one folded saddle blanket across both forearms, hands resting separately on its ends. Full head work boots and hands visible, timber beams hay bales and neatly stored tack, no animals people or writing.",
+      "outfit": "Opaque tan broad-strap short denim overalls over a secure black bandeau top, a bronze belt and sturdy brown work boots, tiny silver three-stud barrette. Bare shoulders arms and legs, practical contemporary ranch workwear, no armor or horn headband."
+    },
+    {
+      "slot": "casual2",
+      "cat": "lingerie",
+      "expr": "gentle",
+      "pose": "watering",
+      "orient": "side",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "On an empty private apartment balcony at blue evening, standing side-on with her face turned toward the camera while watering a small row of succulents with a plain compact brass watering can. One hand holds the handle loosely, the other supports its base; both complete hands visible and separated. Warm indoor spill light and distant city bokeh, head through waist.",
+      "outfit": "Fully opaque lined bronze satin broad-strap cropped camisole with secure structured chest, black high-waisted flowing lounge trousers and a short open ivory lace-trim robe draped behind her elbows. Bare shoulders arms and narrow midriff, tiny three-stud pendant, adult lingerie-inspired mainstream fashion with full intimate coverage and no armor."
+    },
+    {
+      "slot": "casual3",
+      "cat": "travel_exploration",
+      "expr": "curious",
+      "pose": "checking_map",
+      "orient": "front",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "At an empty scenic canyon railway stop at crisp autumn noon, standing facing the viewer while unfolding a small paper route map with only blank abstract colored lines and no letters. Hands separated at opposite map edges, head through knees, ochre canyon cliffs and a distant unmanned train in daylight, no signs or text.",
+      "outfit": "Opaque ivory high-neck sleeveless knit mini dress over fully covered black fitted cycling shorts, a long ochre lightweight trench coat worn open with rolled sleeves, tan walking shoes and tiny silver studs. Bare arms and legs, travel clothing without armor or horns."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "reviewed": [
+      "야도킹",
+      "에레브",
+      "니로우",
+      "마그마",
+      "쁘사이저"
+    ],
+    "scope": "Read recent three plans and first submitted casual prompt for each; all earlier scenes of this batch compared.",
+    "changed": [
+      "location",
+      "activity",
+      "garment silhouette",
+      "composition"
+    ]
+  }
+}
