@@ -130,5 +130,7 @@
     "나무킹",
     "파이어"
   ],
-  "tool": "built-in imagegen"
+  "tool": "built-in imagegen",
+  "image_commit": "95db132b372964490666556a8627f95a8aa1b174",
+  "thumbnail_workflow_note": "Automatic thumbs blocked by unrelated corrupt Aerodactyl asset; generated requested thumbnails with repository make-thumbs.build"
 }

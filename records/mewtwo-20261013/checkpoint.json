@@ -124,5 +124,13 @@
     "sha256": "daf4d656b97969e3115afffd762f2d23d221218c58262bc1f449014946630bb1",
     "reference": null,
     "review": "Full body, both hands, same character, no weapon/text; opened pairs retain composition."
-  }
+  },
+  "tool": "built-in imagegen",
+  "image_commit": "0d41e115e7d39f7ddd42bc0bb7a9d34481e334cc",
+  "face_compared": [
+    "나무킹",
+    "파이어",
+    "썬더"
+  ],
+  "thumbnail_workflow_note": "Automatic thumbs blocked by unrelated corrupt Aerodactyl asset; generated requested thumbnails with repository make-thumbs.build"
 }
