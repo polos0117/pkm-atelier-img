@@ -1,0 +1,76 @@
+{
+  "verifiedVia": "live generator UI",
+  "input": {
+    "style": "glossy_promo",
+    "outputMode": "action",
+    "identityMode": "reference",
+    "motifs": "",
+    "form": "overdrive",
+    "params": [],
+    "lens": "natural50",
+    "aspect": "2:3",
+    "scene": "Empty woodland maintenance atrium at soft overcast noon with tall trees beyond glass. Firm balanced standing card stance, face toward viewer, both relaxed open hands separately beside hips.",
+    "custom": "Keep both hands completely visible and naturally attached, one thumb and four separately readable fingers on each. No handheld objects.",
+    "camera": "1024x1536 vertical. Full figure occupies 86 percent of image height with head, feet and both complete hands inside clear margins; same subject scale across all three armor forms.",
+    "baseForm": "heavy",
+    "mech": "피콘",
+    "sourceName": "Pineco",
+    "sourceAppearance": {
+      "name": "피콘",
+      "en": "Pineco",
+      "color": "gray",
+      "shape": "ball",
+      "features": [
+        {
+          "part": "shell",
+          "detail": "teal pinecone-like shell"
+        },
+        {
+          "part": "spike",
+          "detail": "single upper spike"
+        },
+        {
+          "part": "eye",
+          "detail": "red eyes between shell scales"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Pineco_%28Pok%C3%A9mon%29",
+      "revision": 4611245,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "20b127772e0438baad7c16dd76e568d3c7642573e50a727bfc6dc838306acdd0",
+      "method": "source-checked-correction",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "faceDesign": {
+      "name": "피콘",
+      "en": "Pineco",
+      "line": "피콘",
+      "how": "species",
+      "registered": false,
+      "face": {
+        "face shape": "sharp",
+        "face length": "balanced",
+        "face width": "medium",
+        "jaw & chin": "narrow tapered chin",
+        "eye shape": "narrow",
+        "eye size": "small",
+        "eye tilt": "upturned outer corners",
+        "eye spacing": "wide-set eyes",
+        "eyebrows": "straight medium brows",
+        "nose character": "small delicate nose",
+        "lips": "thin lips"
+      },
+      "why": "겹친 솔방울 껍질 틈의 눈을 각진 광대와 작고 깊은 사람 눈으로 옮긴다.",
+      "cues": [
+        "‘single upper spike’ → 얼굴형 턱선과 골격이 날카로운 얼굴형",
+        "‘single upper spike’ → 눈매 가늘고 날카로운 눈",
+        "‘single upper spike’ → 눈꼬리 각도 올라간 눈꼬리",
+        "몸 형태 ball → 눈 간격 눈 사이가 넓은",
+        "‘single upper spike’ → 입술 얇은 입술"
+      ],
+      "adjusted": ""
+    },
+    "series": "bug"
+  }
+}

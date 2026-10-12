@@ -1,0 +1,53 @@
+{
+  "casual": [
+    {
+      "cat": "lingerie",
+      "expr": "pensive",
+      "pose": "leaning_furniture",
+      "orient": "front_3q",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "At an empty home dressing table on a rainy evening, leaning lightly forward while laying a teal silk scarf flat across two open hands to decide how to style it. Head through waist, forearms and complete hands visible. Warm table lamp, rain-softened window glow, no mirror reflection or written labels.",
+      "outfit": "Opaque teal satin slip dress with secure broad straps, fitted fully lined bodice and delicate black lace edging, an open charcoal robe draped behind the elbows, tiny pinecone stud earrings. Bare shoulders and arms and modest neckline, chest and pelvis fully covered. Adult lingerie-inspired fashion, no armor."
+    },
+    {
+      "cat": "travel_exploration",
+      "expr": "curious",
+      "pose": "squatting",
+      "orient": "high_angle",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "On an empty dry pine-forest boardwalk at clear morning, squatting with both feet securely planted while studying a fallen pinecone on one open palm, the other hand resting separately on a knee. Camera gently above eye level, face clearly visible. Full head, hands and hiking shoes, filtered sun and natural green shadows.",
+      "outfit": "Opaque rust-orange sleeveless collared utility romper with secured mid-thigh shorts, a broad cream belt, olive hiking shoes and short beige socks, small teal leaf pendant. Bare arms and legs, practical non-armored travel clothing."
+    },
+    {
+      "cat": "food_berries",
+      "expr": "soft_smile",
+      "pose": "preparing_food",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "telephoto135",
+      "scene": "At an empty home kitchen counter in golden late-afternoon light, body in side profile and face gently turned toward viewer while arranging sliced fruit on a plain plate; one complete hand carries a slice and the other rests open beside the plate. Head through knees, counter below elbows, no labels or duplicate figures.",
+      "outfit": "Opaque cream high-neck sleeveless cropped knit top and a dark teal high-waisted ankle-length pleated skirt with a small side slit, soft indoor slippers, tiny crimson bead bracelet. Bare shoulders, arms and a modest midriff, fully covered chest and pelvis, no armor."
+    }
+  ],
+  "comparison": {
+    "reviewed": [
+      "잉어킹",
+      "갸라도스",
+      "라프라스",
+      "키링키"
+    ],
+    "scope": "Read latest plans and nine submitted prompts, plus current batch Girafarig plan.",
+    "changed": [
+      "location",
+      "activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

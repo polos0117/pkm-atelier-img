@@ -1,0 +1,119 @@
+[
+  {
+    "slot": "light",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-69f15bd7-33a3-4b29-9710-b7180ddd1abc.png",
+    "path": "img/피콘_light_glossy_promo_f.webp",
+    "sha256": "31bbd820f37f63e8733cbdacd184751702791215add783fb12c70bf72d13f4f1",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "none",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and verified submitted prompt; built-in imagegen"
+  },
+  {
+    "slot": "heavy",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-5c35ef3c-c2c3-4aab-8a65-7886448876c1.png",
+    "path": "img/피콘_heavy_glossy_promo_f.webp",
+    "sha256": "5bcc6c0a2678f3573d87e5c59f7bd5cae152b0632e1955aab474a48c66354cdc",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and verified submitted prompt; built-in imagegen"
+  },
+  {
+    "slot": "mobility",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-2ea24ce4-1e03-4fca-a94a-68fa15aa81f9.png",
+    "path": "img/피콘_mobility_glossy_promo_f.webp",
+    "sha256": "53bfe576341f26e0402d9ff84322b0139ba31109eb913c6ab9c6470bdfd11590",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and verified submitted prompt; built-in imagegen"
+  },
+  {
+    "slot": "light_overdrive",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-f537c98c-0a61-456b-bfd1-63021655be11.png",
+    "path": "img/피콘_light_overdrive_glossy_promo_f.webp",
+    "sha256": "cd04876db578119742393c5886823bbf30b344fea7e5e6ceb7eb25e752ac6e25",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and verified submitted prompt; built-in imagegen"
+  },
+  {
+    "slot": "heavy_overdrive",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-55c89c97-bb5b-443a-bb84-fb6cc26e0ed2.png",
+    "path": "img/피콘_heavy_overdrive_glossy_promo_f.webp",
+    "sha256": "2d71794a874a38d5299e12f1e2378848971ac949c0aa2c074f1fc9d51d7d5cb0",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "heavy",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and verified submitted prompt; built-in imagegen"
+  },
+  {
+    "slot": "mobility_overdrive",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-7b5eea05-36ea-4901-ab9e-3d6353a57f0d.png",
+    "path": "img/피콘_mobility_overdrive_glossy_promo_f.webp",
+    "sha256": "f7d4cdcf177220d04b1c990771a9a83907788f49bbf0dfdd04c04fa54c91b382",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "mobility",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and verified submitted prompt; built-in imagegen"
+  },
+  {
+    "slot": "casual1",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-e0635440-944e-4419-9dd8-cdf06b4d1858.png",
+    "path": "img/피콘_glossy_promo_f_casual1.webp",
+    "sha256": "0c5de7e7bcb5d0a19ad490407b917df3133c1f13dd2296ea74b6626a85e0ee8a",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and verified submitted prompt; built-in imagegen"
+  },
+  {
+    "slot": "casual2",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-3c6044ae-dcca-4803-8e0f-4c42f8bee905.png",
+    "path": "img/피콘_glossy_promo_f_casual2.webp",
+    "sha256": "d4920b59ca00d3dca790f4dc1f865eedf2c1ad0215f5504d8c3b3c68da03405f",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and verified submitted prompt; built-in imagegen"
+  },
+  {
+    "slot": "casual3",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-5287c2cc-984a-43bd-8f3d-d64a3d925575.png",
+    "path": "img/피콘_glossy_promo_f_casual3.webp",
+    "sha256": "ef4f5843169749217cb97d0c349be396640eeb05e46b0dc09ae5bddf7d87a7d9",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and verified submitted prompt; built-in imagegen"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "stage": "9/9 generated and visually reviewed; ready for image commit",
+  "anchor": {
+    "slot": "light",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-69f15bd7-33a3-4b29-9710-b7180ddd1abc.png",
+    "path": "img/피콘_light_glossy_promo_f.webp",
+    "sha256": "31bbd820f37f63e8733cbdacd184751702791215add783fb12c70bf72d13f4f1",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "none",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and verified submitted prompt; built-in imagegen"
+  },
+  "faceReason": "솔방울 껍질 틈의 눈을 좁고 치켜올라간 눈매와 뾰족한 턱으로 표현; data/face-design.json:204",
+  "facesCompared": [
+    "키링키",
+    "잉어킹",
+    "갸라도스",
+    "라프라스"
+  ],
+  "visualQA": "Distinct sharp compact face and narrower eyes, same adult woman in nine outputs, full intact hands, single figure, no text, six full-body card images and paired open framing. Casual three scenes have different categories, places, activity, clothes, expression, pose, orientation and crop."
+}
