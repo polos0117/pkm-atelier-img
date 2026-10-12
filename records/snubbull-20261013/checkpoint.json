@@ -1,6 +1,6 @@
 {
   "card": "블루",
-  "state": "9/9 generated and inspected; pending remote publication",
+  "state": "9/9 generated, inspected, original images published and dex registered; publishing verified thumbnails with workflow fallback",
   "authoritative_light": "img/블루_light_glossy_promo_f.webp",
   "authoritative_light_sha256": "5d0da7e7680ea93aa51cd92c5438f352192423bc36b1830c337c47911a57fb0c",
   "recoverable_assets": [
@@ -20,5 +20,15 @@
     "three opened pairs approved",
     "three casual scenes approved"
   ],
-  "remote_commits": []
+  "remote_commits": [
+    {
+      "repository": "polos0117/pkm-atelier-img",
+      "sha": "25e7431e187f896a0966d7d2eb6cc2257a562551"
+    },
+    {
+      "repository": "polos0117/pkm-atelier",
+      "sha": "d04e3a78af61bace6d49696bc566887fadbd2437"
+    }
+  ],
+  "thumbnail_fallback": "Workflow failed on unrelated img/암나이트_mobility_overdrive_glossy_promo_f.webp; same make-thumbs.py used on task assets only."
 }
