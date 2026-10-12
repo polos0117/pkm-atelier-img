@@ -1,0 +1,74 @@
+{
+  "card": "샤미드",
+  "date": "2026-10-12",
+  "style": "glossy_promo",
+  "casual": [
+    {
+      "cat": "swimwear",
+      "expr": "focused",
+      "pose": "kneeling",
+      "orient": "front_3q",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "Kneeling on a dry flat rock beside an empty clear tidal pool at bright noon, inspecting a small seashell on one open palm while her other hand rests separately on the rock. Head through knees, both complete hands visible. Clear shallow turquoise water and strong reflected sunlight, no creatures or text.",
+      "outfit": "Opaque blue athletic two-piece swimwear with secure broad straps and high-waisted bottoms, an open sheer-free white short beach shirt behind her shoulders, tiny silver fin-shaped earrings. Bare arms, midriff and legs, fully covered chest and pelvis; no armor."
+    },
+    {
+      "cat": "traditional",
+      "expr": "pensive",
+      "pose": "standing_formal",
+      "orient": "side",
+      "frame": "waist_up",
+      "lens": "telephoto135",
+      "scene": "Standing side-on at a low textile display table in an empty heritage silk studio on a rainy afternoon, face turned toward camera, holding a plain folded blue fabric sample in one hand while the other rests separately on the tabletop. Both complete hands within waist-up crop, muted rain light and warm lantern bounce.",
+      "outfit": "Opaque white and sea-blue sleeveless wrap blouse with a high diagonal neckline, high-waisted long flowing blue skirt and a slim silver sash clasp. Traditional-inspired summer artisan fashion, bare shoulders and arms, fully covered chest and pelvis, tiny fin pendant; no armor."
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "confident",
+      "pose": "leaning_furniture",
+      "orient": "front",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "Standing facing the viewer beside a small telescope on an empty rooftop observatory at clear midnight, one relaxed hand adjusting its focusing wheel, the other open on a separate tripod strut. Complete head, both hands and shoes in frame, starlit navy sky and soft cool roof lighting, no written star charts.",
+      "outfit": "Opaque navy sleeveless cropped mock-neck knit top, high-waisted white tailored wide-leg trousers, silver flat sandals and tiny blue droplet stud earrings. Bare shoulders, arms and midriff with secure chest and pelvis coverage; ordinary astronomy hobby clothing, no armor."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "reviewed": [
+      "잉어킹",
+      "갸라도스",
+      "라프라스",
+      "메타몽",
+      "이브이"
+    ],
+    "scope": "Read plans and nine submitted recent prompts; compared this batch's plans sequentially.",
+    "changed": [
+      "location",
+      "specific activity",
+      "outfit silhouette",
+      "composition"
+    ]
+  },
+  "face": {
+    "sources": [
+      "data/face-design.json#134",
+      "data/source-appearance.json"
+    ],
+    "canonical": "light",
+    "comparison_observed": [
+      "메타몽",
+      "이브이",
+      "샤미드",
+      "잉어킹",
+      "갸라도스",
+      "라프라스",
+      "에브이",
+      "블래키"
+    ]
+  }
+}

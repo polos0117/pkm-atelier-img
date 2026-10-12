@@ -1,0 +1,169 @@
+{
+  "card": "샤미드",
+  "style": "glossy_promo",
+  "requested_count": 9,
+  "assets": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-a1c8779b-47ca-4fd9-876c-f7cd7057c2a6.png",
+      "filename": "img/샤미드_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "b5fc9ce6c97a71239be8d699c33d0ac895497ce1de7f9c4fc389cc5654b081fd",
+      "reference": null,
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons."
+    },
+    {
+      "slot": "heavy",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-42d2de38-925d-416b-97cb-a56f09198ddf.png",
+      "filename": "img/샤미드_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "2a337440535f0561d08b09d468fa9f50257f3ce1cfce20358ca3e6a3411bb5d1",
+      "reference": "light",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons."
+    },
+    {
+      "slot": "mobility",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-72a314a0-13a2-46c5-89c5-24aac8ce8310.png",
+      "filename": "img/샤미드_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "ee8673383637783684ece0d8babc0f1b0e69bd73603cd70ffdd8c0ffcb2bfd6c",
+      "reference": "light",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons."
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-59a0b79b-50f7-46a1-8509-1679644a3b62.png",
+      "filename": "img/샤미드_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "7308f7717793c3efee305a78e2d4e1be91d4e5f3b29d82bd6fd7d4ea0edb5094",
+      "reference": "light",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-2e4ea5fa-f70d-4aca-880e-43c5999ffcd3.png",
+      "filename": "img/샤미드_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "3a96fab2e3f1a2c9b90c7c89b035f257d89565aa24bf2b8988c90b702157834c",
+      "reference": "heavy",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-51765536-715d-4236-9e47-94445476ac4a.png",
+      "filename": "img/샤미드_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "4e2cefed69014ac82001f524c090281c89fc21c9a929e9273effeb92fb3911ab",
+      "reference": "mobility",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons."
+    },
+    {
+      "slot": "casual1",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-c0bc84a6-5a74-4658-bdc5-483d44e7ebbe.png",
+      "filename": "img/샤미드_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "40f60e3b88d936951ce83eabf5601fed1bdfa9e6dec9bd6e1d33bbcfe9d177da",
+      "reference": "light",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons."
+    },
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-f5b34569-f648-44a8-a7c3-805725903ae5.png",
+      "filename": "img/샤미드_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "76a4bc1f23000659e37673ceb1a5bb8c8fb02540d604ab7c5a08e1d9293bfea5",
+      "reference": "light",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons."
+    },
+    {
+      "slot": "casual3",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-f21db1e2-f339-4254-a8f2-4a90ffd61c77.png",
+      "filename": "img/샤미드_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "746952c88af17e7fd47e41146051c2f172d9ec8f0dbc140804d5a0e764d73d22",
+      "reference": "light",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons."
+    }
+  ],
+  "canonical": {
+    "slot": "light",
+    "source": "/workspace/scratch/d241f883e114/generated_images/exec-a1c8779b-47ca-4fd9-876c-f7cd7057c2a6.png",
+    "filename": "img/샤미드_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "b5fc9ce6c97a71239be8d699c33d0ac895497ce1de7f9c4fc389cc5654b081fd",
+    "reference": null,
+    "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons."
+  },
+  "generated_count": 9,
+  "state": "verified, ready for registration",
+  "face_design": {
+    "name": "샤미드",
+    "en": "Vaporeon",
+    "line": "이브이",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "oval",
+      "face length": "balanced",
+      "face width": "medium",
+      "jaw & chin": "angular defined jaw",
+      "eye shape": "almond",
+      "eye size": "medium",
+      "eye tilt": "downturned outer corners",
+      "eye spacing": "wide-set eyes",
+      "eyebrows": "long arched brows",
+      "nose character": "small delicate nose",
+      "lips": "medium lips"
+    },
+    "why": "흐르는 지느러미와 물의 선을 길고 완만한 눈매 및 타원 얼굴로 옮긴다.",
+    "cues": [
+      "‘spiky ridge’ → 턱선 · 턱끝 각지고 또렷한 턱",
+      "몸 형태 quadruped → 눈 간격 눈 사이가 넓은",
+      "‘tiny black nose’ → 코 작고 여린 코"
+    ],
+    "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 턱선 · 턱끝 부드럽고 둥근 턱 → 각지고 또렷한 턱"
+  },
+  "final_face_line": "FACE (her own structure, not the style's default face): oval face, balanced length, medium width; angular defined jaw; almond eyes, medium size, downturned outer corners, wide-set; long arched brows; small delicate nose; medium lips.",
+  "ui": "All nine selections and final prompts inspected in the actual https://polos0117.github.io/pkm-atelier/prompt.html UI; local prompt-engine output matches those choices.",
+  "face_compared": [
+    "메타몽",
+    "이브이",
+    "샤미드",
+    "잉어킹",
+    "갸라도스",
+    "라프라스",
+    "에브이",
+    "블래키"
+  ],
+  "visual_qa": "Three closed forms at matching camera scale; each opened pair keeps pose and framing; casual locations, activities, silhouettes and framing distinct. Both connected five-digit hands checked."
+}
