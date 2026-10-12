@@ -1,0 +1,9 @@
+{
+  "reason": "Mobility overdrive encoded file became empty before original upload; recovered exact approved bytes",
+  "approved_git_blob": "305e66777303a7357a91dae1f203cd468e3f4fee",
+  "first_image_commit": "8a923177a3943f5f1167139de58636628ee6875d",
+  "thumbnail_commit": "ce0c30551f73b37456554531079cf510f1f5a421",
+  "index_commit": "d04e3a7",
+  "postupload_validation": "All nine original image blobs compared against manifest hashes; repaired the only mismatch",
+  "future_upload_validation": "Verify bytes, format and sha256 immediately before base64 transfer"
+}
