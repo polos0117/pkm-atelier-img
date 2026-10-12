@@ -1,0 +1,66 @@
+{
+  "name": "무우마",
+  "style": "glossy_promo",
+  "canonical": "무우마_light_glossy_promo_f.webp",
+  "comparison": {
+    "reviewed": [
+      "야도킹 plan + submitted casual1/2/3 prompts",
+      "에레브 submitted casual1/2/3 prompts",
+      "니로우 plan + submitted casual1/2/3 prompts"
+    ],
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "casual": [
+    {
+      "key": "casual1",
+      "category": "adult_roleplay",
+      "expression": "mischievous",
+      "pose": "walking",
+      "orientation": "front_3q",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "In an empty antique mansion gallery during a nocturnal costume event, walking slowly along velvet ropes while welcoming guests with one open hand and the other relaxed beside her hip. Portrait frames contain abstract landscapes only, warm candles and cool violet windows, full figure and both hands clearly visible.",
+      "outfit": "Opaque fitted dark teal satin square-neck corset-style mini dress with secure covered chest, lilac layered bustle drape, short puff sleeves sitting below shoulders, dark tights and heeled ankle boots. Bare shoulders and upper chest; a small five-ruby necklace, no armor or creature headpiece.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "key": "casual2",
+      "expression": "slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed",
+      "pose": "Capture the selected activity already in progress with a readable natural gesture.",
+      "orientation": "side body profile, approximately 90 degrees to camera",
+      "scene": "In an empty wood-lined home recording room on a rainy afternoon, standing side-on at a theremin, one relaxed open hand hovering near its vertical antenna and the other above its horizontal loop without touching either. Face turned gently toward camera, waist-up crop contains both complete forearms and hands. Soft amber lamp and gray window light.",
+      "outfit": "Opaque lilac sleeveless mock-neck fitted knit top with a narrow midriff gap, dark teal high-waisted flowing trousers, a tiny ruby stud necklace. Bare shoulders arms and a narrow waist, natural contemporary musician clothing, no armor.",
+      "category": "Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.",
+      "framing": "Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.",
+      "lens": "85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "key": "casual3",
+      "expression": "faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids",
+      "pose": "Sit comfortably on the floor or a mat with clearly separated legs and hands.",
+      "orientation": "torso and pelvis face the camera; gaze is independent",
+      "scene": "On the wooden veranda of an empty traditional courtyard at misty sunrise, sitting on a woven cushion with legs folded comfortably to one side, arranging two folded paper ornaments in separate open palms. Front view from head to knees, warm paper lanterns behind her, pale blue dawn light, no inscriptions.",
+      "outfit": "Opaque lilac sleeveless wrap jeogori-inspired top with red tie ribbon and secure lined chest, voluminous dark teal silk skirt draped over folded legs, simple ruby pendant. Bare shoulders arms and a narrow waist gap, original modern heritage fashion, no armor or head ornaments.",
+      "category": "This cut is built around traditional dress drawn from the character's own ethnic background. Use either authentic formal traditional clothing or a modernised everyday interpretation of it, as specified by the example. Keep the garment structure, layering logic, fastening, and silhouette faithful to that tradition rather than generic orientalism or costume-shop pastiche. Colours may follow the source creature, but the construction must remain true to the tradition. Place the character in a setting where such clothing is plausibly worn.",
+      "framing": "Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.",
+      "lens": "50mm-equivalent natural perspective with balanced proportions and modest depth compression.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    }
+  ],
+  "verification": "Every submitted prompt read from actual generator UI before generation. No prior prompts reconstructed from memory."
+}

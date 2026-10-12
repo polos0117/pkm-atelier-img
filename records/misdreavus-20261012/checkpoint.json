@@ -1,0 +1,259 @@
+{
+  "assets": [
+    {
+      "key": "light",
+      "record": "misdreavus-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-5883876c-3891-4629-9e40-68676f930cad.png",
+      "filename": "무우마_light_glossy_promo_f.webp",
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Misdreavus (무우마), ghost type.\n\nPALETTE: red, lilac.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Misdreavus as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR: the five round red gems become a gem set in her chest plate or circlet.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: 1024x1536. Full figure fills 88% of image height, equal subject scale across all three armor forms. Dark teal armor secondary color; five round ruby gems in a collar-like chest ornament, lilac-tipped flowing dark teal hair. Clear readable separated relaxed hands, five digits each. Dusk in a quiet ruined courtyard, subtle ground mist below the boots.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "reference": [],
+      "ui_selected": {
+        "source": "0200 · 무우마",
+        "style": "glossy_promo",
+        "mode": "action",
+        "form": "light",
+        "base_form": null
+      },
+      "source_sha256": "9319ddef00a2919d6f6d1ce4291012ebe82e9772a25ade1a5b504d057106db47",
+      "sha256": "61169d28b91de6ebf7a689e210d9bcdd51d0b9285444c2c73ef27bd183cc8ebc",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "heavy",
+      "record": "misdreavus-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-599ebfdc-5c16-445e-820b-f770c7a3b7c3.png",
+      "filename": "무우마_heavy_glossy_promo_f.webp",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Misdreavus (무우마), ghost type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: 1024x1536. Keep the approved light figure scale: full head and boots with small margins, approximately 88% image height. Same ruined courtyard at dusk. Front three-quarter steady braced stance; both empty hands relaxed and separated away from torso, five distinct digits per hand. No handheld weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "reference": [
+        "무우마_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "source": "0200 · 무우마",
+        "style": "glossy_promo",
+        "mode": "action",
+        "form": "heavy",
+        "base_form": null
+      },
+      "source_sha256": "abcaf933b69af30a8b13f6156191f89e381d99ae298e2c86d6d86ba9d5c8900c",
+      "sha256": "0c77f18dc8fe37d09b337167ca41e9d47bdc58fb8f6fa4a1564b19e036c66ca0",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "mobility",
+      "record": "misdreavus-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-b3fb1090-a0de-458e-b86e-2631f831c916.png",
+      "filename": "무우마_mobility_glossy_promo_f.webp",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Misdreavus (무우마), ghost type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: 1024x1536. Keep the approved light figure scale: full head and boots with small margins, approximately 88% image height. Same ruined courtyard at dusk. Balanced light forward step in front three-quarter view, face toward camera. Both empty hands relaxed and separated, five distinct digits each. Compact propulsion units, no giant wings, no handheld weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "reference": [
+        "무우마_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "source": "0200 · 무우마",
+        "style": "glossy_promo",
+        "mode": "action",
+        "form": "mobility",
+        "base_form": null
+      },
+      "source_sha256": "5d62d87c508640f58f9ed017f8de64826a526b604704e401b791d98c5cb5ab5d",
+      "sha256": "5c33bd61e9fcccb47ed38231db016a19de3c041bbd548c4262704ee72248b31d",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "light_overdrive",
+      "record": "misdreavus-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-8b907db4-24ba-404d-9947-17c791eafff5.png",
+      "filename": "무우마_light_overdrive_glossy_promo_f.webp",
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Misdreavus (무우마), ghost type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a ghostly violet glow with wisps of shadow shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "reference": [
+        "무우마_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "source": "0200 · 무우마",
+        "style": "glossy_promo",
+        "mode": "action",
+        "form": "overdrive",
+        "base_form": "light"
+      },
+      "source_sha256": "5a3494dfc44ad383a9e4e79169db51c96cbc0dac3892191ce880220a24f54d3e",
+      "sha256": "ab6456e7236244db9a78a424e6fb39b6eee23389e16c1b3eef680608e41d1743",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "heavy_overdrive",
+      "record": "misdreavus-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-36016c31-55a7-4c65-adfd-7b655cb07d61.png",
+      "filename": "무우마_heavy_overdrive_glossy_promo_f.webp",
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Misdreavus (무우마), ghost type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a ghostly violet glow with wisps of shadow shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "reference": [
+        "무우마_heavy_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "source": "0200 · 무우마",
+        "style": "glossy_promo",
+        "mode": "action",
+        "form": "overdrive",
+        "base_form": "heavy"
+      },
+      "source_sha256": "12d486abf6a08c8addb630419e0bdcbd4d79fc105899c9f3de6b89e9de8e2b81",
+      "sha256": "b5475f40e51678099f63638decab5d5775943cc4e0439078aa5f2f83a7fd06eb",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "mobility_overdrive",
+      "record": "misdreavus-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-525cbe50-7c1d-4d8b-b36c-5e9cc4f2c515.png",
+      "filename": "무우마_mobility_overdrive_glossy_promo_f.webp",
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Misdreavus (무우마), ghost type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a ghostly violet glow with wisps of shadow shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "reference": [
+        "무우마_mobility_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "source": "0200 · 무우마",
+        "style": "glossy_promo",
+        "mode": "action",
+        "form": "overdrive",
+        "base_form": "mobility"
+      },
+      "source_sha256": "57adfea4465e3299adce453800e4cfe8ddecb7d4f478c37f536c8c40d09d6f75",
+      "sha256": "819038b42ddd8f3469463e21c9660dfbc82489f91b7832a7729a42160820f0a6",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "casual1",
+      "record": "misdreavus-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-e1e89bb1-7163-4df7-a7c1-e485ff686de0.png",
+      "filename": "무우마_glossy_promo_f_casual1.webp",
+      "prompt": "CHARACTER: the same woman as the attached image — Misdreavus (무우마) personified, ghost type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: narrowed sparkling eyes, one brow up, closed-lip grin pushed to one side\nPose: Walk at a comfortable pace with a natural step and arm swing.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: In an empty antique mansion gallery during a nocturnal costume event, walking slowly along velvet ropes while welcoming guests with one open hand and the other relaxed beside her hip. Portrait frames contain abstract landscapes only, warm candles and cool violet windows, full figure and both hands clearly visible.\nOutfit and props: Opaque fitted dark teal satin square-neck corset-style mini dress with secure covered chest, lilac layered bustle drape, short puff sleeves sitting below shoulders, dark tights and heeled ankle boots. Bare shoulders and upper chest; a small five-ruby necklace, no armor or creature headpiece.\nCategory: Create playful adult event fashion inspired by occupation or roleplay motifs. It must read as a costume made for a stage presentation or themed event, not as an authentic workplace uniform. Use original colours and decorative details — no real institutional insignia, no weapons, no tactical gear. Describe the costume by its tailoring, trim, and props, and show a believable styling or preparation action.\nNote: 1024x1536. One adult woman in her twenties, same approved light identity. Both whole hands attached naturally to their own forearms, five clearly separated digits each. No text or logos.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "reference": [
+        "무우마_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "category": "adult_roleplay",
+        "expression": "mischievous",
+        "pose": "walking",
+        "orientation": "front_3q",
+        "frame": "full_body",
+        "lens": "documentary35",
+        "scene": "In an empty antique mansion gallery during a nocturnal costume event, walking slowly along velvet ropes while welcoming guests with one open hand and the other relaxed beside her hip. Portrait frames contain abstract landscapes only, warm candles and cool violet windows, full figure and both hands clearly visible.",
+        "outfit": "Opaque fitted dark teal satin square-neck corset-style mini dress with secure covered chest, lilac layered bustle drape, short puff sleeves sitting below shoulders, dark tights and heeled ankle boots. Bare shoulders and upper chest; a small five-ruby necklace, no armor or creature headpiece."
+      },
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "source_sha256": "38bae870b759cdb787da9971c728c445eb990384d5c8046e7b2de5e3d1fa5c0a",
+      "sha256": "07017137e2512406dc7f5d3a05bf644539f73df52f38296f8eef99712ba46104",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "casual2",
+      "record": "misdreavus-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-dc2ad5ed-6cfb-4365-a050-71cc48569041.png",
+      "filename": "무우마_glossy_promo_f_casual2.webp",
+      "prompt": "CHARACTER: the same woman as the attached image — Misdreavus (무우마) personified, ghost type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed\nPose: Capture the selected activity already in progress with a readable natural gesture.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: In an empty wood-lined home recording room on a rainy afternoon, standing side-on at a theremin, one relaxed open hand hovering near its vertical antenna and the other above its horizontal loop without touching either. Face turned gently toward camera, waist-up crop contains both complete forearms and hands. Soft amber lamp and gray window light.\nOutfit and props: Opaque lilac sleeveless mock-neck fitted knit top with a narrow midriff gap, dark teal high-waisted flowing trousers, a tiny ruby stud necklace. Bare shoulders arms and a narrow waist, natural contemporary musician clothing, no armor.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: 1024x1536. One adult woman in her twenties, same approved light identity. Both whole hands attached naturally to their own forearms, five clearly separated digits each. No text or logos.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "reference": [
+        "무우마_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "key": "casual2",
+        "expression": "slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed",
+        "pose": "Capture the selected activity already in progress with a readable natural gesture.",
+        "orientation": "side body profile, approximately 90 degrees to camera",
+        "scene": "In an empty wood-lined home recording room on a rainy afternoon, standing side-on at a theremin, one relaxed open hand hovering near its vertical antenna and the other above its horizontal loop without touching either. Face turned gently toward camera, waist-up crop contains both complete forearms and hands. Soft amber lamp and gray window light.",
+        "outfit": "Opaque lilac sleeveless mock-neck fitted knit top with a narrow midriff gap, dark teal high-waisted flowing trousers, a tiny ruby stud necklace. Bare shoulders arms and a narrow waist, natural contemporary musician clothing, no armor.",
+        "category": "Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.",
+        "framing": "Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.",
+        "lens": "85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression."
+      },
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "source_sha256": "73831ad6c053becc0e76e80553f88a5ed505e93fee97635c1fd88da6d5ae7d3a",
+      "sha256": "9f27dccd9177ff202c8fdb93bf05f2cc4ea24349b393977216401ccbc812ab25",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "casual3",
+      "record": "misdreavus-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-f4679e3e-da68-4242-a78d-d80d8a980f4b.png",
+      "filename": "무우마_glossy_promo_f_casual3.webp",
+      "prompt": "CHARACTER: the same woman as the attached image — Misdreavus (무우마) personified, ghost type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids\nPose: Sit comfortably on the floor or a mat with clearly separated legs and hands.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: On the wooden veranda of an empty traditional courtyard at misty sunrise, sitting on a woven cushion with legs folded comfortably to one side, arranging two folded paper ornaments in separate open palms. Front view from head to knees, warm paper lanterns behind her, pale blue dawn light, no inscriptions.\nOutfit and props: Opaque lilac sleeveless wrap jeogori-inspired top with red tie ribbon and secure lined chest, voluminous dark teal silk skirt draped over folded legs, simple ruby pendant. Bare shoulders arms and a narrow waist gap, original modern heritage fashion, no armor or head ornaments.\nCategory: This cut is built around traditional dress drawn from the character's own ethnic background. Use either authentic formal traditional clothing or a modernised everyday interpretation of it, as specified by the example. Keep the garment structure, layering logic, fastening, and silhouette faithful to that tradition rather than generic orientalism or costume-shop pastiche. Colours may follow the source creature, but the construction must remain true to the tradition. Place the character in a setting where such clothing is plausibly worn.\nNote: 1024x1536. One adult woman in her twenties, same approved light identity. Both whole hands attached naturally to their own forearms, five clearly separated digits each. No text or logos.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "reference": [
+        "무우마_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "key": "casual3",
+        "expression": "faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids",
+        "pose": "Sit comfortably on the floor or a mat with clearly separated legs and hands.",
+        "orientation": "torso and pelvis face the camera; gaze is independent",
+        "scene": "On the wooden veranda of an empty traditional courtyard at misty sunrise, sitting on a woven cushion with legs folded comfortably to one side, arranging two folded paper ornaments in separate open palms. Front view from head to knees, warm paper lanterns behind her, pale blue dawn light, no inscriptions.",
+        "outfit": "Opaque lilac sleeveless wrap jeogori-inspired top with red tie ribbon and secure lined chest, voluminous dark teal silk skirt draped over folded legs, simple ruby pendant. Bare shoulders arms and a narrow waist gap, original modern heritage fashion, no armor or head ornaments.",
+        "category": "This cut is built around traditional dress drawn from the character's own ethnic background. Use either authentic formal traditional clothing or a modernised everyday interpretation of it, as specified by the example. Keep the garment structure, layering logic, fastening, and silhouette faithful to that tradition rather than generic orientalism or costume-shop pastiche. Colours may follow the source creature, but the construction must remain true to the tradition. Place the character in a setting where such clothing is plausibly worn.",
+        "framing": "Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.",
+        "lens": "50mm-equivalent natural perspective with balanced proportions and modest depth compression."
+      },
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "source_sha256": "ff8f19cf91af85dfd250d051f2c7dee904f50711990c2425bcaf66b8751f8e03",
+      "sha256": "3fb026c6edafe62fe774bdbd2f760be39378cc8156e1b99065da87303334d250",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    }
+  ]
+}
