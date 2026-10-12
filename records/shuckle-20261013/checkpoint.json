@@ -5,7 +5,7 @@
   "tool": "built-in image_gen",
   "completed": 9,
   "required": 9,
-  "status": "nine images visually reviewed; publication pending",
+  "status": "registered: nine images and nine thumbnails verified on both main branches",
   "approved_light": {
     "card": "단단지",
     "slot": "light",
@@ -261,5 +261,29 @@
       "prompt_sha256": "2bba089726c750ef093db7fbf4aacb1fc051e9b1361854cf8a6d0aae845e0950"
     }
   ],
-  "image_review": "Same adult identity in nine standalone pictures; natural connected hands. Each open state keeps its closed pose framing and scale. Casual pantry, tidal shore and clay hobby scenes have different garments and gestures."
+  "image_review": "Same adult identity in nine standalone pictures; natural connected hands. Each open state keeps its closed pose framing and scale. Casual pantry, tidal shore and clay hobby scenes have different garments and gestures.",
+  "image_commit": "d2063c3600cc804bf671ec9bde9f8aeedf699399",
+  "thumbnail_commit": "598003ec5f84beaf1bb4cce8f2410b41f87a912d",
+  "registration_commit": "f4b1baa4512754fca6656dacdd87cb06beca4db7",
+  "registered_count": 9,
+  "thumbnail_count": 9,
+  "remote_image_hashes_verified": true,
+  "remote_thumbnail_hashes_verified": true,
+  "publication_method": "GitHub-connected commit and non-force fast-forward ref update with expected current head; local CLI push lacked authentication",
+  "thumbnail_method": "Same repository make-thumbs.py build function; only this task assets processed; no existing asset deletion",
+  "automation_exception": {
+    "reason": "Thumbnail workflow failed on unrelated existing invalid file img/프테라_light_overdrive_glossy_promo_f.webp",
+    "inspected_run": 38311018895,
+    "inspected_job": 115016501201,
+    "remedy": "Generated this task thumbnails using the same repository tool and published them independently"
+  },
+  "verification_image_head": "fa559037980391dde0a8803f0209ed7f43bcdefd",
+  "persistent_light_reference": {
+    "repository": "polos0117/pkm-atelier-img",
+    "commit": "d2063c3600cc804bf671ec9bde9f8aeedf699399",
+    "path": "img/단단지_light_glossy_promo_f.webp",
+    "sha256": "d1ba7098381c279c7df1dab441c250e819cd7f22b202d3a7d296d612ebcf56da"
+  },
+  "initial_face_prompt": "light.txt",
+  "final_face_sentence": "FACE (her own structure, not the style's default face): oval face, balanced length, medium width; square broad jaw; open rounded eyes, small size, level outer corners, average spacing; fine soft arches; long nose with low tip; small mouth."
 }

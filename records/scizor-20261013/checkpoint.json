@@ -5,7 +5,7 @@
   "tool": "built-in image_gen",
   "completed": 9,
   "required": 9,
-  "status": "nine images visually reviewed; image push pending",
+  "status": "registered: nine images and nine thumbnails verified on both main branches",
   "approved_light": {
     "card": "핫삼",
     "slot": "light",
@@ -263,5 +263,29 @@
       "prompt_sha256": "89d5501d61f65f5a90bb1c6bf423aa2814976b16781e6072da34fefe7a159ac1"
     }
   ],
-  "image_review": "Single adult woman, connected natural hands, same identity across all nine. Closed/opened pairs keep pose, camera and subject scale; plates open along seams. Casual scenes vary in place, activity, clothing silhouette, expression, pose, orientation and framing."
+  "image_review": "Single adult woman, connected natural hands, same identity across all nine. Closed/opened pairs keep pose, camera and subject scale; plates open along seams. Casual scenes vary in place, activity, clothing silhouette, expression, pose, orientation and framing.",
+  "image_commit": "8f79b8c0b30a9fe4b87574883c0d736138a7dfdb",
+  "thumbnail_commit": "09fa494dd882474be654b585cbf0f7c4795a27a7",
+  "registration_commit": "afe3e66ce30671322d52fd2085c6a6c60e35c293",
+  "registered_count": 9,
+  "thumbnail_count": 9,
+  "remote_image_hashes_verified": true,
+  "remote_thumbnail_hashes_verified": true,
+  "publication_method": "GitHub-connected commit and non-force fast-forward ref update with expected current head; local CLI push lacked authentication",
+  "thumbnail_method": "Same repository make-thumbs.py build function; only this task assets processed; no existing asset deletion",
+  "automation_exception": {
+    "reason": "Thumbnail workflow failed on unrelated existing invalid file img/프테라_light_overdrive_glossy_promo_f.webp",
+    "inspected_run": 38311018895,
+    "inspected_job": 115016501201,
+    "remedy": "Generated this task thumbnails using the same repository tool and published them independently"
+  },
+  "verification_image_head": "fa559037980391dde0a8803f0209ed7f43bcdefd",
+  "persistent_light_reference": {
+    "repository": "polos0117/pkm-atelier-img",
+    "commit": "8f79b8c0b30a9fe4b87574883c0d736138a7dfdb",
+    "path": "img/핫삼_light_glossy_promo_f.webp",
+    "sha256": "b274891e08a44ab44f15aa93b7a85a8b44def7e6c9aa65843fd27fa12f122971"
+  },
+  "initial_face_prompt": "light.txt",
+  "final_face_sentence": "FACE (her own structure, not the style's default face): angular face, balanced length, medium width; angular defined jaw; narrow eyes, medium size, level outer corners, average spacing; short rounded brows; balanced nose; thin lips."
 }

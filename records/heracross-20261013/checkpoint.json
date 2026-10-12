@@ -5,7 +5,7 @@
   "tool": "built-in image_gen",
   "completed": 9,
   "required": 9,
-  "status": "nine images visually reviewed; publication pending",
+  "status": "registered: nine images and nine thumbnails verified on both main branches",
   "approved_light": {
     "card": "헤라크로스",
     "slot": "light",
@@ -284,5 +284,30 @@
       "initial_source": "/workspace/scratch/449633aecc9d/generated_images/exec-d0012f94-12f6-44bf-b0d2-67aa8fe615a0.png",
       "initial_prompt": "casual2-initial.txt"
     }
-  ]
+  ],
+  "image_commit": "8f35ff9be3f6153362822beaa3acb78beab12b07",
+  "thumbnail_commit": "fa559037980391dde0a8803f0209ed7f43bcdefd",
+  "registration_commit": "0893b6830c48235c1e1ce8a2442caf51eea05ba0",
+  "registered_count": 9,
+  "thumbnail_count": 9,
+  "remote_image_hashes_verified": true,
+  "remote_thumbnail_hashes_verified": true,
+  "publication_method": "GitHub-connected commit and non-force fast-forward ref update with expected current head; local CLI push lacked authentication",
+  "thumbnail_method": "Same repository make-thumbs.py build function; only this task assets processed; no existing asset deletion",
+  "automation_exception": {
+    "reason": "Thumbnail workflow failed on unrelated existing invalid file img/프테라_light_overdrive_glossy_promo_f.webp",
+    "inspected_run": 38311018895,
+    "inspected_job": 115016501201,
+    "remedy": "Generated this task thumbnails using the same repository tool and published them independently"
+  },
+  "verification_image_head": "fa559037980391dde0a8803f0209ed7f43bcdefd",
+  "persistent_light_reference": {
+    "repository": "polos0117/pkm-atelier-img",
+    "commit": "8f35ff9be3f6153362822beaa3acb78beab12b07",
+    "path": "img/헤라크로스_light_glossy_promo_f.webp",
+    "sha256": "a481e4bc40cb220bb6f2ea4ee385f047b3a4df1fb650e10bdb6d9d9abeaa3a80"
+  },
+  "initial_face_prompt": "light-initial.txt",
+  "final_face_sentence": "FACE (her own structure, not the style's default face): angular face, balanced length, wide width; angular defined jaw; open rounded eyes, medium size, downturned outer corners, average spacing; straight medium brows; rounded soft tip nose; medium lips.",
+  "correction_review": "Raised hand now shows thumb and four separate fingers; event basket hands separately visible, each connected naturally; initial generation and correction prompts retained."
 }
