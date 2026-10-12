@@ -1,0 +1,172 @@
+{
+  "surface": "real Preact editor through repository DOM harness",
+  "selected": [
+    {
+      "id": "group",
+      "value": "",
+      "label": "전체"
+    },
+    {
+      "id": "source",
+      "value": "갸라도스",
+      "label": "0130 · 갸라도스"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo",
+      "label": "글로시 프로모 키아트"
+    },
+    {
+      "id": "expression",
+      "value": "confident",
+      "label": "confident — 자신감"
+    },
+    {
+      "id": "category",
+      "value": "swimwear",
+      "label": "수영복 라이프스타일"
+    },
+    {
+      "id": "example",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "pose",
+      "value": "standing_relaxed",
+      "label": "편하게 선 자세"
+    },
+    {
+      "id": "orientation",
+      "value": "front_3q",
+      "label": "front three-quarter — 앞 3/4"
+    },
+    {
+      "id": "frame",
+      "value": "full_body",
+      "label": "전신"
+    },
+    {
+      "id": "lens",
+      "value": "natural50",
+      "label": "표준 · 50mm 느낌"
+    },
+    {
+      "id": "aspect",
+      "value": "2:3",
+      "label": "2:3"
+    },
+    {
+      "id": "axis-overall_intensity",
+      "value": "strong",
+      "label": "가장 강함"
+    },
+    {
+      "id": "axis-skin_exposure",
+      "value": "bold",
+      "label": "많이"
+    },
+    {
+      "id": "axis-action_level",
+      "value": "AUTO",
+      "label": "자동"
+    },
+    {
+      "id": "axis-source_influence",
+      "value": "AUTO",
+      "label": "자동"
+    },
+    {
+      "id": "axis-separates_preference",
+      "value": "AUTO",
+      "label": "자동"
+    }
+  ],
+  "storage": {
+    "last": "갸라도스",
+    "cards": {
+      "갸라도스": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "faceDesignOn": true,
+        "params": {
+          "apparent age": "20s",
+          "hair color": "navy",
+          "hairstyle": "high ponytail",
+          "hair length": "long",
+          "body type": "athletic",
+          "eye color": "red"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "An empty blue marine hangar during a storm, light through tall windows and rain beyond. Firm balanced card-ready stance, hands separated from torso. Full figure occupies 86 percent of image height, head and feet clear.",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "1024x1536. Precisely preserve the attached closed image camera, pose, framing, figure scale, face and all pieces. Only open the original plate seams and reveal type light. Both complete hands remain unchanged, five fingers per hand.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "confident",
+            "pose": "standing_relaxed",
+            "orient": "front_3q",
+            "scene": "Standing on an empty public yacht-club swim deck at bright midday after a swim, a rolled cream towel held loosely with one hand, the other resting open by thigh. Full head, hands and bare feet visible. Deep blue harbor, crisp sunlight and mild wind, no text.",
+            "outfit": "Fully lined opaque navy two-piece sporty swimsuit with broad secure straps, a cream center panel and high-waisted matching bottoms, small blue crest pendant. Bare shoulders, arms, midriff and legs. No armor or weapons.",
+            "frame": "full_body",
+            "lens": "natural50",
+            "camera": "",
+            "custom": "1024x1536 vertical. Both complete hands visibly attached to their own forearms, each one thumb and four distinct natural fingers. Preserve the approved adult identity. No armor, weapons, text or logos.",
+            "aspect": "2:3",
+            "cat": "swimwear",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,61 @@
+{
+  "name": "갸라도스",
+  "en": "gyarados",
+  "hair": "navy",
+  "style": "high ponytail",
+  "len": "long",
+  "body": "athletic",
+  "eye": "red",
+  "scene": "An empty blue marine hangar during a storm, light through tall windows and rain beyond. Firm balanced card-ready stance, hands separated from torso. Full figure occupies 86 percent of image height, head and feet clear.",
+  "casual": [
+    {
+      "cat": "swimwear",
+      "expr": "confident",
+      "pose": "standing_relaxed",
+      "orient": "front_3q",
+      "frame": "full_body",
+      "lens": "natural50",
+      "scene": "Standing on an empty public yacht-club swim deck at bright midday after a swim, a rolled cream towel held loosely with one hand, the other resting open by thigh. Full head, hands and bare feet visible. Deep blue harbor, crisp sunlight and mild wind, no text.",
+      "outfit": "Fully lined opaque navy two-piece sporty swimsuit with broad secure straps, a cream center panel and high-waisted matching bottoms, small blue crest pendant. Bare shoulders, arms, midriff and legs. No armor or weapons."
+    },
+    {
+      "cat": "everyday_basic",
+      "expr": "mildly_annoyed",
+      "pose": "leaning_wall",
+      "orient": "front",
+      "frame": "three_quarter",
+      "lens": "telephoto135",
+      "scene": "Leaning lightly against a dry concrete wall beneath an empty urban railway overpass at rainy twilight, one open hand holding the loose strap of a small blue shoulder bag and the other hanging relaxed and visible. Head through knees. Cool reflected street light, no signs or bystanders.",
+      "outfit": "Opaque cream fitted cropped mock-neck tee, high-waisted navy cargo miniskirt over fully covering black shorts, open cropped blue rain jacket pushed behind shoulders and black ankle boots. Bare arms, midriff and legs; tiny crest earrings."
+    },
+    {
+      "cat": "homewear",
+      "expr": "pensive",
+      "pose": "perched_seat",
+      "orient": "side",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "Perched sideways on a tall padded piano bench in an empty private music room at midnight, face turned toward viewer while both complete hands rest separately on the unlabelled piano keys. Head through waist. A single warm lamp and moonlight create soft depth, no written score.",
+      "outfit": "Opaque ivory square-neck cropped lounge camisole with wide straps, soft blue high-waisted wide-leg lounge pants, tiny dark-blue crest bracelet. Bare shoulders, arms and small midriff, fully covered chest and pelvis. No armor."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "reviewed": [
+      "마그마",
+      "쁘사이저",
+      "켄타로스",
+      "잉어킹"
+    ],
+    "scope": "Read recent plans and all three submitted casual prompts; compare this batch in sequence.",
+    "changed": [
+      "location",
+      "activity",
+      "garment silhouette",
+      "composition"
+    ]
+  }
+}

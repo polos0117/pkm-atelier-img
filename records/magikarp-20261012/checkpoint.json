@@ -13,7 +13,7 @@
     "켄타로스"
   ],
   "recovery": "Final WebP and exact prompts are committed together. Use repository canonical, not a later variant. Raw scratch PNGs are incidental.",
-  "status": "9/9 generated, awaiting upload",
+  "status": "9/9 main uploaded; thumbnail workflow and registration workflow succeeded",
   "images": [
     {
       "slot": "light",
@@ -206,5 +206,9 @@
     "generator": "built-in image_gen",
     "qa": "Inspected single adult identity, framing, hands, form and no text."
   },
-  "facePrompt": "FACE (her own structure, not the style's default face): softly rounded face, short length, wide width; soft rounded jaw; open rounded eyes, large size, level outer corners, wide-set; fine soft arches; rounded soft tip nose; fuller lower lip."
+  "facePrompt": "FACE (her own structure, not the style's default face): softly rounded face, short length, wide width; soft rounded jaw; open rounded eyes, large size, level outer corners, wide-set; fine soft arches; rounded soft tip nose; fuller lower lip.",
+  "imageCommit": "48cdf8717214664cf9bbc263ecdf2f185bf79425",
+  "thumbnailWorkflow": 38228502190,
+  "registrationWorkflow": 38228953577,
+  "registrationVerifiedAt": "1b7a2ce6b345e8252be748b40dbed5142f796554"
 }

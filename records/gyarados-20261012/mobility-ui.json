@@ -1,0 +1,184 @@
+{
+  "surface": "real Preact editor through repository DOM harness",
+  "selected": [
+    {
+      "id": "group",
+      "value": "",
+      "label": "전체"
+    },
+    {
+      "id": "source",
+      "value": "갸라도스",
+      "label": "0130 · 갸라도스"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo",
+      "label": "글로시 프로모 키아트"
+    },
+    {
+      "id": "identity-mode",
+      "value": "reference",
+      "label": "확정한 이미지 이어가기"
+    },
+    {
+      "id": "form",
+      "value": "mobility",
+      "label": "고기동"
+    },
+    {
+      "id": "expression",
+      "value": "",
+      "label": "AUTO — 자동"
+    },
+    {
+      "id": "action-category",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-example",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-timing",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-equipment",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-power",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-effects",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-speed",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-environment",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "pose",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "orientation",
+      "value": "",
+      "label": "AUTO — 자동"
+    },
+    {
+      "id": "frame",
+      "value": "",
+      "label": "자동 — 장면에 맞게"
+    },
+    {
+      "id": "lens",
+      "value": "",
+      "label": "자동 — 장면에 맞게"
+    },
+    {
+      "id": "aspect",
+      "value": "2:3",
+      "label": "2:3"
+    }
+  ],
+  "storage": {
+    "last": "갸라도스",
+    "cards": {
+      "갸라도스": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "mobility",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "faceDesignOn": true,
+        "params": {
+          "apparent age": "20s",
+          "hair color": "navy",
+          "hairstyle": "high ponytail",
+          "hair length": "long",
+          "body type": "athletic",
+          "eye color": "red"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "An empty blue marine hangar during a storm, light through tall windows and rain beyond. Firm balanced card-ready stance, hands separated from torso. Full figure occupies 86 percent of image height, head and feet clear.",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "1024x1536 vertical. No weapons. Keep five distinct natural fingers per hand. Card character scale stays equally large across all three armor forms.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  },
+  "errors": []
+}

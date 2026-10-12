@@ -1,0 +1,114 @@
+{
+  "surface": "real Preact editor through repository DOM harness",
+  "selected": [
+    {
+      "id": "group",
+      "value": "",
+      "label": "전체"
+    },
+    {
+      "id": "source",
+      "value": "갸라도스",
+      "label": "0130 · 갸라도스"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo",
+      "label": "글로시 프로모 키아트"
+    },
+    {
+      "id": "form",
+      "value": "overdrive",
+      "label": "폭주"
+    },
+    {
+      "id": "base-form",
+      "value": "mobility",
+      "label": "고기동"
+    }
+  ],
+  "storage": {
+    "last": "갸라도스",
+    "cards": {
+      "갸라도스": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "faceDesignOn": true,
+        "params": {
+          "apparent age": "20s",
+          "hair color": "navy",
+          "hairstyle": "high ponytail",
+          "hair length": "long",
+          "body type": "athletic",
+          "eye color": "red"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "An empty blue marine hangar during a storm, light through tall windows and rain beyond. Firm balanced card-ready stance, hands separated from torso. Full figure occupies 86 percent of image height, head and feet clear.",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "1024x1536. Precisely preserve the attached closed image camera, pose, framing, figure scale, face and all pieces. Only open the original plate seams and reveal type light. Both complete hands remain unchanged, five fingers per hand.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,172 @@
+{
+  "surface": "real Preact editor through repository DOM harness",
+  "selected": [
+    {
+      "id": "group",
+      "value": "",
+      "label": "전체"
+    },
+    {
+      "id": "source",
+      "value": "갸라도스",
+      "label": "0130 · 갸라도스"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo",
+      "label": "글로시 프로모 키아트"
+    },
+    {
+      "id": "expression",
+      "value": "mildly_annoyed",
+      "label": "mildly annoyed — 약간 짜증"
+    },
+    {
+      "id": "category",
+      "value": "everyday_basic",
+      "label": "일상컷 — 기본"
+    },
+    {
+      "id": "example",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "pose",
+      "value": "leaning_wall",
+      "label": "벽에 기대기"
+    },
+    {
+      "id": "orientation",
+      "value": "front",
+      "label": "front — 정면"
+    },
+    {
+      "id": "frame",
+      "value": "three_quarter",
+      "label": "무릎 위"
+    },
+    {
+      "id": "lens",
+      "value": "telephoto135",
+      "label": "망원 · 135mm 느낌"
+    },
+    {
+      "id": "aspect",
+      "value": "2:3",
+      "label": "2:3"
+    },
+    {
+      "id": "axis-overall_intensity",
+      "value": "strong",
+      "label": "가장 강함"
+    },
+    {
+      "id": "axis-skin_exposure",
+      "value": "bold",
+      "label": "많이"
+    },
+    {
+      "id": "axis-action_level",
+      "value": "AUTO",
+      "label": "자동"
+    },
+    {
+      "id": "axis-source_influence",
+      "value": "AUTO",
+      "label": "자동"
+    },
+    {
+      "id": "axis-separates_preference",
+      "value": "AUTO",
+      "label": "자동"
+    }
+  ],
+  "storage": {
+    "last": "갸라도스",
+    "cards": {
+      "갸라도스": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "faceDesignOn": true,
+        "params": {
+          "apparent age": "20s",
+          "hair color": "navy",
+          "hairstyle": "high ponytail",
+          "hair length": "long",
+          "body type": "athletic",
+          "eye color": "red"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "An empty blue marine hangar during a storm, light through tall windows and rain beyond. Firm balanced card-ready stance, hands separated from torso. Full figure occupies 86 percent of image height, head and feet clear.",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "1024x1536. Precisely preserve the attached closed image camera, pose, framing, figure scale, face and all pieces. Only open the original plate seams and reveal type light. Both complete hands remain unchanged, five fingers per hand.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "mildly_annoyed",
+            "pose": "leaning_wall",
+            "orient": "front",
+            "scene": "Leaning lightly against a dry concrete wall beneath an empty urban railway overpass at rainy twilight, one open hand holding the loose strap of a small blue shoulder bag and the other hanging relaxed and visible. Head through knees. Cool reflected street light, no signs or bystanders.",
+            "outfit": "Opaque cream fitted cropped mock-neck tee, high-waisted navy cargo miniskirt over fully covering black shorts, open cropped blue rain jacket pushed behind shoulders and black ankle boots. Bare arms, midriff and legs; tiny crest earrings.",
+            "frame": "three_quarter",
+            "lens": "telephoto135",
+            "camera": "",
+            "custom": "1024x1536 vertical. Both complete hands visibly attached to their own forearms, each one thumb and four distinct natural fingers. Preserve the approved adult identity. No armor, weapons, text or logos.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  },
+  "errors": []
+}

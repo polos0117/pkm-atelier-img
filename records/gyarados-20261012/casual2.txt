@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Gyarados (갸라도스) personified, water / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: inner brows drawn together, one eye slightly narrowed, mouth pressed flat to one side
+Pose: Lean a shoulder or the back lightly against a wall while keeping balance through the feet.
+Orientation: torso and pelvis face the camera; gaze is independent
+Scene: Leaning lightly against a dry concrete wall beneath an empty urban railway overpass at rainy twilight, one open hand holding the loose strap of a small blue shoulder bag and the other hanging relaxed and visible. Head through knees. Cool reflected street light, no signs or bystanders.
+Outfit and props: Opaque cream fitted cropped mock-neck tee, high-waisted navy cargo miniskirt over fully covering black shorts, open cropped blue rain jacket pushed behind shoulders and black ankle boots. Bare arms, midriff and legs; tiny crest earrings.
+Category: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.
+Note: 1024x1536 vertical. Both complete hands visibly attached to their own forearms, each one thumb and four distinct natural fingers. Preserve the approved adult identity. No armor, weapons, text or logos.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+Lens / perspective: 135mm-equivalent telephoto perspective from farther away, with compressed background depth and unchanged anatomy.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

@@ -1,0 +1,211 @@
+{
+  "card": "갸라도스",
+  "repository": "polos0117/pkm-atelier-img",
+  "faceReason": "Serpentine length and fierce jaw translated to elongated angular adult face, sharp upturned eyes, lower thick brows, long nose and wide mouth. Visually distinct from round Magikarp and recent Magmar/Pinsir/Tauros faces.",
+  "faceEvidence": [
+    "data/face-design.json",
+    "data/source-appearance.json",
+    "docs/CHARACTER_FACE_DESIGNS.md"
+  ],
+  "faceCompared": [
+    "마그마",
+    "쁘사이저",
+    "켄타로스",
+    "잉어킹"
+  ],
+  "recovery": "Final WebP and exact prompts are committed together. Use repository canonical, not a later variant. Raw scratch PNGs are incidental.",
+  "status": "9/9 generated, awaiting upload",
+  "images": [
+    {
+      "slot": "light",
+      "file": "갸라도스_light_glossy_promo_f.webp",
+      "repositoryPath": "img/갸라도스_light_glossy_promo_f.webp",
+      "source": "/workspace/scratch/9bb5d870b849/generated_images/exec-3dd07af6-7150-4153-9dc8-664a4919a496.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "9e9661a0ee3911e25616973cd0ed4f047168cc95f742f2cfa189a85578304e2e",
+      "reference": null,
+      "prompt": "light-framing-correction2.txt",
+      "ui": "light-framing-correction2-ui.json",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual selection in real Preact editor via repository DOM harness",
+      "generator": "built-in image_gen",
+      "qa": "Inspected single adult identity, framing, hands, form and no text."
+    },
+    {
+      "slot": "heavy",
+      "file": "갸라도스_heavy_glossy_promo_f.webp",
+      "repositoryPath": "img/갸라도스_heavy_glossy_promo_f.webp",
+      "source": "/workspace/scratch/9bb5d870b849/generated_images/exec-a0b519af-222d-4ac7-abcf-978033242ff3.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b347f73f519d42cbda87391555d8191cb8d5cbff9a59c3638f724d7b8b87c0ef",
+      "reference": "img/갸라도스_light_glossy_promo_f.webp",
+      "prompt": "heavy-submitted.txt",
+      "ui": "heavy-submitted-ui.json",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual selection in real Preact editor via repository DOM harness",
+      "generator": "built-in image_gen",
+      "qa": "Inspected single adult identity, framing, hands, form and no text."
+    },
+    {
+      "slot": "mobility",
+      "file": "갸라도스_mobility_glossy_promo_f.webp",
+      "repositoryPath": "img/갸라도스_mobility_glossy_promo_f.webp",
+      "source": "/workspace/scratch/9bb5d870b849/generated_images/exec-c48e907b-914f-40c6-aa0c-fa4f40c968f9.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "db2c25fe17a1fa158623fc39b73080cf93d5329113c7d733cb08dd9161674d30",
+      "reference": "img/갸라도스_light_glossy_promo_f.webp",
+      "prompt": "mobility-submitted.txt",
+      "ui": "mobility-submitted-ui.json",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual selection in real Preact editor via repository DOM harness",
+      "generator": "built-in image_gen",
+      "qa": "Inspected single adult identity, framing, hands, form and no text."
+    },
+    {
+      "slot": "light_overdrive",
+      "file": "갸라도스_light_overdrive_glossy_promo_f.webp",
+      "repositoryPath": "img/갸라도스_light_overdrive_glossy_promo_f.webp",
+      "source": "/workspace/scratch/9bb5d870b849/generated_images/exec-6992a548-0816-4b6c-8fbe-391704cd8548.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "bb84b2e77faff67274562888a744ad5b5d78af8b13d81c5f0808ca8fb3b3df3c",
+      "reference": "img/갸라도스_light_glossy_promo_f.webp",
+      "prompt": "light_overdrive.txt",
+      "ui": "light_overdrive-ui.json",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual selection in real Preact editor via repository DOM harness",
+      "generator": "built-in image_gen",
+      "qa": "Inspected single adult identity, framing, hands, form and no text."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "file": "갸라도스_heavy_overdrive_glossy_promo_f.webp",
+      "repositoryPath": "img/갸라도스_heavy_overdrive_glossy_promo_f.webp",
+      "source": "/workspace/scratch/9bb5d870b849/generated_images/exec-c7c4ec93-c691-4a10-bcde-3c070e2e6eae.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "88ff425111328a9c8f7a95185f90bd1b3ee53a033867d1211786036fa62f4cdc",
+      "reference": "img/갸라도스_heavy_glossy_promo_f.webp",
+      "prompt": "heavy_overdrive.txt",
+      "ui": "heavy_overdrive-ui.json",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual selection in real Preact editor via repository DOM harness",
+      "generator": "built-in image_gen",
+      "qa": "Inspected single adult identity, framing, hands, form and no text."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "file": "갸라도스_mobility_overdrive_glossy_promo_f.webp",
+      "repositoryPath": "img/갸라도스_mobility_overdrive_glossy_promo_f.webp",
+      "source": "/workspace/scratch/9bb5d870b849/generated_images/exec-7dff9b92-44c0-492e-9fce-db946932c7bc.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "bbd869685bc0c735eed168d4dd7e03228982cb4f6db32a7eaf552bea3655762c",
+      "reference": "img/갸라도스_mobility_glossy_promo_f.webp",
+      "prompt": "mobility_overdrive.txt",
+      "ui": "mobility_overdrive-ui.json",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual selection in real Preact editor via repository DOM harness",
+      "generator": "built-in image_gen",
+      "qa": "Inspected single adult identity, framing, hands, form and no text."
+    },
+    {
+      "slot": "casual1",
+      "file": "갸라도스_glossy_promo_f_casual1.webp",
+      "repositoryPath": "img/갸라도스_glossy_promo_f_casual1.webp",
+      "source": "/workspace/scratch/9bb5d870b849/generated_images/exec-85d22545-88da-4bf2-9ca4-a6e6ce015166.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4a36936432c9e33158917e7ddd4b52bf3675d3cc78bfec581534b22b06a997e9",
+      "reference": "img/갸라도스_light_glossy_promo_f.webp",
+      "prompt": "casual1.txt",
+      "ui": "casual1-ui.json",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual selection in real Preact editor via repository DOM harness",
+      "generator": "built-in image_gen",
+      "qa": "Inspected single adult identity, framing, hands, form and no text."
+    },
+    {
+      "slot": "casual2",
+      "file": "갸라도스_glossy_promo_f_casual2.webp",
+      "repositoryPath": "img/갸라도스_glossy_promo_f_casual2.webp",
+      "source": "/workspace/scratch/9bb5d870b849/generated_images/exec-fb7469d0-f820-4936-adfe-58da1a2ff835.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "fcb1ef90f52075b3faf2538ac238b55112ee164f44cf2cbb50ed793015386d07",
+      "reference": "img/갸라도스_light_glossy_promo_f.webp",
+      "prompt": "casual2.txt",
+      "ui": "casual2-ui.json",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual selection in real Preact editor via repository DOM harness",
+      "generator": "built-in image_gen",
+      "qa": "Inspected single adult identity, framing, hands, form and no text."
+    },
+    {
+      "slot": "casual3",
+      "file": "갸라도스_glossy_promo_f_casual3.webp",
+      "repositoryPath": "img/갸라도스_glossy_promo_f_casual3.webp",
+      "source": "/workspace/scratch/9bb5d870b849/generated_images/exec-e9dbe925-1a6d-43b0-a538-f656d6922c4c.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e8f8d003a82d05180bbf22e4d3966c06b10ff1aaf796d908bb0e741ae5094958",
+      "reference": "img/갸라도스_light_glossy_promo_f.webp",
+      "prompt": "casual3.txt",
+      "ui": "casual3-ui.json",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual selection in real Preact editor via repository DOM harness",
+      "generator": "built-in image_gen",
+      "qa": "Inspected single adult identity, framing, hands, form and no text."
+    }
+  ],
+  "canonical": {
+    "slot": "light",
+    "file": "갸라도스_light_glossy_promo_f.webp",
+    "repositoryPath": "img/갸라도스_light_glossy_promo_f.webp",
+    "source": "/workspace/scratch/9bb5d870b849/generated_images/exec-3dd07af6-7150-4153-9dc8-664a4919a496.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "9e9661a0ee3911e25616973cd0ed4f047168cc95f742f2cfa189a85578304e2e",
+    "reference": null,
+    "prompt": "light-framing-correction2.txt",
+    "ui": "light-framing-correction2-ui.json",
+    "style": "glossy_promo",
+    "styleEvidence": "Actual selection in real Preact editor via repository DOM harness",
+    "generator": "built-in image_gen",
+    "qa": "Inspected single adult identity, framing, hands, form and no text."
+  },
+  "facePrompt": "FACE (her own structure, not the style's default face): elongated face, long length, medium width; angular defined jaw; sharp eyes, medium size, upturned outer corners, average spacing; thick low brows; long nose with low tip; wide mouth."
+}
