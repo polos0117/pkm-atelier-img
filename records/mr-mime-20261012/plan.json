@@ -1,0 +1,62 @@
+{
+  "name": "마임맨",
+  "slug": "mr-mime",
+  "hair": "navy",
+  "eye": "blue",
+  "cut": "space buns",
+  "body": "toned",
+  "wear": "Pink and ivory armor with red circular cheek-inspired accents painted on shoulder and hip plates, red spherical joint trim, navy curved horn shapes translated into two small curved hair ornaments, pointed navy boot contours. Normal human face and skin; each human hand has five digits, never the creature's four-finger hands.",
+  "light": "On an empty theater forecourt in clear afternoon, front-facing adult woman taking a balanced mime-like step, both relaxed palms visible at waist height with five human digits each, pink ivory and red slim armor, navy trim. Full head and boots inside 1024x1536 with clear margins.",
+  "casual": [
+    [
+      "active",
+      "playful",
+      "dance_step",
+      "front_3q",
+      "environmental",
+      "documentary35",
+      "In an empty bright dance practice courtyard in sunny morning, performing a small graceful dance step with arms apart and relaxed open hands at different heights. Entire head hands and navy dance shoes, terracotta floor and striped awning, no mirrored figures.",
+      "Opaque pink secure scoop-neck sleeveless leotard under high-waisted navy pleated skort with fitted shorts, ivory ankle socks. Bare shoulders arms and legs, tiny red bead earrings."
+    ],
+    [
+      "lingerie",
+      "pensive",
+      "sitting",
+      "front",
+      "three_quarter",
+      "portrait85",
+      "Inside an empty vintage theater dressing lounge at dusk, sitting upright on a velvet stool and adjusting a red bead bracelet with one hand while the other wrist rests away from her lap. Both complete hands visible and separate, warm globe lamps without mirrors, head to above knees.",
+      "Opaque fully lined ivory satin longline camisole with secure navy broad straps and structured bust panels, high-waisted pink tailored tap shorts, short navy lace-trim robe open at the sides. Intimate areas fully opaque and covered, bare shoulders arms and thighs; mainstream lingerie-inspired fashion editorial."
+    ],
+    [
+      "occupation_basic",
+      "gentle",
+      "mid_action",
+      "side",
+      "waist_up",
+      "natural50",
+      "At an empty toy-repair shop counter in a cool rainy noon, painting a small plain wooden spinning top with a thin brush in one hand, opposite hand loosely steadying the top at its separate edge. Both whole hands and wrists visible, face turned toward camera, no dolls or figures.",
+      "Opaque ivory short-sleeve collared cropped blouse, pink high-waisted tailored trousers and narrow navy belt. Bare forearms upper chest and narrow midriff, small red round hair pins."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "왕콘치",
+      "왕자리",
+      "해루미",
+      "별가사리",
+      "아쿠스타"
+    ],
+    "scope": "Read plan.json and submitted casual prompts of the latest three completed characters on image main. Compare earlier characters of this batch.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "method": "Actual Preact generator controls via repository DOM harness",
+  "ui": [
+    {
+      "id": "search",
+      "value": ""
+    },
+    {
+      "id": "group",
+      "value": "",
+      "label": "전체"
+    },
+    {
+      "id": "source",
+      "value": "마임맨",
+      "label": "0122 · 마임맨"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo",
+      "label": "글로시 프로모 키아트"
+    },
+    {
+      "id": "motifs",
+      "value": ""
+    },
+    {
+      "id": "expression",
+      "value": "gentle",
+      "label": "gentle — 온화함"
+    },
+    {
+      "id": "category",
+      "value": "occupation_basic",
+      "label": "포켓몬 세계 직업컷 — 기본"
+    },
+    {
+      "id": "example",
+      "value": "",
+      "label": "AUTO — 원본 포켓몬에 어울리는 직업 자동"
+    },
+    {
+      "id": "pose",
+      "value": "mid_action",
+      "label": "동작 한가운데"
+    },
+    {
+      "id": "orientation",
+      "value": "side",
+      "label": "side profile — 측면"
+    },
+    {
+      "id": "frame",
+      "value": "waist_up",
+      "label": "허리 위"
+    },
+    {
+      "id": "lens",
+      "value": "natural50",
+      "label": "표준 · 50mm 느낌"
+    },
+    {
+      "id": "aspect",
+      "value": "2:3",
+      "label": "2:3"
+    },
+    {
+      "id": "camera",
+      "value": ""
+    },
+    {
+      "id": "scene",
+      "value": "At an empty toy-repair shop counter in a cool rainy noon, painting a small plain wooden spinning top with a thin brush in one hand, opposite hand loosely steadying the top at its separate edge. Both whole hands and wrists visible, face turned toward camera, no dolls or figures."
+    },
+    {
+      "id": "outfit",
+      "value": "Opaque ivory short-sleeve collared cropped blouse, pink high-waisted tailored trousers and narrow navy belt. Bare forearms upper chest and narrow midriff, small red round hair pins."
+    },
+    {
+      "id": "custom",
+      "value": "Both hands fully within selected crop and visibly joined to their own forearms, five distinct natural digits per hand. Single adult woman, no text or logos."
+    },
+    {
+      "id": "axis-overall_intensity",
+      "value": "strong",
+      "label": "가장 강함"
+    },
+    {
+      "id": "axis-skin_exposure",
+      "value": "bold",
+      "label": "많이"
+    },
+    {
+      "id": "axis-action_level",
+      "value": "AUTO",
+      "label": "자동"
+    },
+    {
+      "id": "axis-source_influence",
+      "value": "AUTO",
+      "label": "자동"
+    },
+    {
+      "id": "axis-separates_preference",
+      "value": "AUTO",
+      "label": "자동"
+    }
+  ],
+  "storage": {
+    "last": "마임맨",
+    "cards": {
+      "이상해씨": {
+        "style": "cinematic_semi_real",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {},
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "마임맨": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "hair color": "navy",
+          "eye color": "blue",
+          "hairstyle": "space buns",
+          "body type": "toned"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "cross_step",
+            "orient": "",
+            "scene": "An empty coastal technological plaza, full body with clear head and boot margins, both open hands unobstructed and separated, face toward camera. 1024x1536.",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "Both entire hands clearly visible, connected to their own forearms, each with one thumb and four distinct natural fingers. No weapon. 1024x1536 portrait canvas.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "gentle",
+            "pose": "mid_action",
+            "orient": "side",
+            "scene": "At an empty toy-repair shop counter in a cool rainy noon, painting a small plain wooden spinning top with a thin brush in one hand, opposite hand loosely steadying the top at its separate edge. Both whole hands and wrists visible, face turned toward camera, no dolls or figures.",
+            "outfit": "Opaque ivory short-sleeve collared cropped blouse, pink high-waisted tailored trousers and narrow navy belt. Bare forearms upper chest and narrow midriff, small red round hair pins.",
+            "frame": "waist_up",
+            "lens": "natural50",
+            "camera": "",
+            "custom": "Both hands fully within selected crop and visibly joined to their own forearms, five distinct natural digits per hand. Single adult woman, no text or logos.",
+            "aspect": "2:3",
+            "cat": "occupation_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  }
+}

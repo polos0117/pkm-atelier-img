@@ -1,0 +1,46 @@
+{
+  "character": "마임맨",
+  "canonical": {
+    "card": "마임맨",
+    "slot": "light",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-53b6a68c-3b58-4a79-ab7e-6d1f902610cd.png",
+    "filename": "마임맨_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "3cc52c13abae97da9a77809d85b112da1119197173b37994926eeeb29052f4e6",
+    "original_sha256": "2109ccb45163de1676aa474ab717fc55cfec251e30d0289f71a0362807989e3e",
+    "reference_slot": null,
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "images_main_commit": null,
+  "code_registration_commit": null,
+  "previous_characters": [
+    {
+      "name": "별가사리",
+      "image_commit": "86e741c6f1ae018dfc59da987c0e47124d4a1646",
+      "repair_commit": "5710716a3988a4cc4bdcc409dc7dc51d057566d9",
+      "registration_commit": "75d3d730"
+    },
+    {
+      "name": "아쿠스타",
+      "image_commit": "228ee3176b58649a008ef4f847141b31b93f90b5"
+    }
+  ]
+}

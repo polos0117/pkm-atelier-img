@@ -1,0 +1,164 @@
+[
+  {
+    "card": "마임맨",
+    "slot": "light",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-53b6a68c-3b58-4a79-ab7e-6d1f902610cd.png",
+    "filename": "마임맨_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "3cc52c13abae97da9a77809d85b112da1119197173b37994926eeeb29052f4e6",
+    "original_sha256": "2109ccb45163de1676aa474ab717fc55cfec251e30d0289f71a0362807989e3e",
+    "reference_slot": null,
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "마임맨",
+    "slot": "heavy",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-cd98e794-8b5e-441d-a33c-3112e50b1868.png",
+    "filename": "마임맨_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "306c3310c4eaf88a1028c2acb4d2c0910508379c3a6e735bcd8d4f30f21f7dbc",
+    "original_sha256": "90c2d2f231d6eeb41365fe01dc6611921bea5480d243f238ea4381dadf766e50",
+    "reference_slot": "light",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "마임맨",
+    "slot": "mobility",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-2469dc66-ddc5-4635-a003-66ed700d4b84.png",
+    "filename": "마임맨_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "4712de628ff22fc60399a28472cc56755e46a06d4d1ac654f602da75fb9066e1",
+    "original_sha256": "a35764ed1bc887ed22ed45aad593241379a343ad3031f491a053c098e5d90eea",
+    "reference_slot": "light",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "마임맨",
+    "slot": "light_overdrive",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-431b14a8-8dd9-403a-bf4f-214f00b4b8c8.png",
+    "filename": "마임맨_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "527254a839d6412a142eb014b52610159d3a2ab96e507857318fcb557642746f",
+    "original_sha256": "2cfc89c45e8011e44f43daaab2167bd2adcea32a589082a9972ff1fc63151a0f",
+    "reference_slot": "light",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "마임맨",
+    "slot": "heavy_overdrive",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-031d926d-0847-4dd7-8b73-d1d04b47bdee.png",
+    "filename": "마임맨_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "22b8181cd1f6db107ec4e37bdd320f5730d3dedb7b812f24f6f205f7034efb3c",
+    "original_sha256": "0a1919b56069e37dcc48a0432f976ad29d882249ca6783a24018ea3b0f84781b",
+    "reference_slot": "heavy",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "마임맨",
+    "slot": "mobility_overdrive",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-36e24267-b864-4913-be4f-6d39e2cc2321.png",
+    "filename": "마임맨_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "3fd9b9c640e4d59816be3543ba75846f508efa40c1e8f0c253fd880d0574e605",
+    "original_sha256": "c82a2d171696e52d94d0ba2c99f3b2f2ff521aa5392c72e801b8adde672d6270",
+    "reference_slot": "mobility",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "마임맨",
+    "slot": "casual1",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-c94ad83d-68d2-4612-9f6f-70e085c703b9.png",
+    "filename": "마임맨_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "ead757d86548a21b513dc0b6c4bffc87c4625942ccb3e9b85af3a95ea8800a12",
+    "original_sha256": "a6f5d92355fd62b093b77a31917c4092934aafa513487ddb4751e7373b2990d5",
+    "reference_slot": "light",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "마임맨",
+    "slot": "casual2",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-6f39139a-69f3-49ee-a59e-1cfa49ba13dc.png",
+    "filename": "마임맨_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "598c1b92badc02e2bbc104568634f302d27a3d2ff5371464a46cdf8c6627f97a",
+    "original_sha256": "06c85ea0154b0f79b2f0ece8c4c60c76fcd4747035c5feb8f10ef24c34c99445",
+    "reference_slot": "light",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "마임맨",
+    "slot": "casual3",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-cae2e100-a8f5-46a9-a981-a4dfe7885837.png",
+    "filename": "마임맨_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "45ca0f6b576cd2b35b422fdfceef6c8b8b1d3abee6dff0cceccdea8dff156671",
+    "original_sha256": "44d68ebc8f43515a66c5c78956282f9db4215e7d68130daaf8a94ff9931679f5",
+    "reference_slot": "light",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  }
+]
