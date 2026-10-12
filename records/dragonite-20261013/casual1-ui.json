@@ -1,0 +1,95 @@
+{
+  "mech": "망나뇽",
+  "sourceName": "Dragonite",
+  "series": "dragon / flying",
+  "sourceAppearance": {
+    "name": "망나뇽",
+    "en": "Dragonite",
+    "color": "brown",
+    "shape": "upright",
+    "features": [
+      {
+        "part": "tail",
+        "detail": "long, tapering tail"
+      },
+      {
+        "part": "skin",
+        "detail": "light orange skin"
+      },
+      {
+        "part": "snout",
+        "detail": "round snout"
+      },
+      {
+        "part": "arm",
+        "detail": "thick arms"
+      },
+      {
+        "part": "claw",
+        "detail": "three claws"
+      },
+      {
+        "part": "eye",
+        "detail": "large, grayish-green eyes"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Dragonite_%28Pok%C3%A9mon%29",
+    "revision": 4621894,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "cba49710cc5140cf6196ec9e687b91a85e28fbf78c2e4381d729db1e9e150321",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "faceDesign": {
+    "name": "망나뇽",
+    "en": "Dragonite",
+    "line": "미뇽",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "oval",
+      "face length": "balanced",
+      "face width": "wide",
+      "jaw & chin": "wide heavy chin",
+      "eye shape": "large",
+      "eye size": "large",
+      "eye tilt": "level outer corners",
+      "eye spacing": "average eye spacing",
+      "eyebrows": "angled brows",
+      "nose character": "rounded soft tip",
+      "lips": "full lips"
+    },
+    "why": "친근한 큰 용의 둥근 주둥이와 큰 눈을 넓고 부드러운 얼굴로 옮긴다.",
+    "cues": [
+      "몸 형태 upright → 얼굴형 균형 잡힌 타원형",
+      "무게 210kg → 얼굴 폭 넓은 얼굴",
+      "드래곤 타입 → 눈썹 바깥에서 꺾이는 사선",
+      "‘round snout’ → 코 코끝이 둥근"
+    ],
+    "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 눈썹 가늘고 완만한 곡선 → 바깥에서 꺾이는 사선"
+  },
+  "faceDesignOn": true,
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "form": "light",
+  "cat": "adult_roleplay",
+  "expr": "proud",
+  "pose": "walking",
+  "orient": "low_angle",
+  "frame": "three_quarter",
+  "lens": "portrait85",
+  "scene": "At an empty harbor safety-festival boardwalk under clear noon sunlight, an adult rescue-event marshal walks with balanced weight transfer and naturally separated empty hands beside her hips. Face toward viewer, slightly low camera, complete head and both hands in above-knee crop; moored empty boats and orange pennants behind.",
+  "outfit": "Opaque cream cropped sleeveless utility vest over an orange secure high-neck sports bra, high-waisted orange tailored cargo shorts and teal webbing belt, small curved antenna-shaped stud earrings. Bare arms midriff and legs; original adult event fashion with no real badge, logo or lettering, no armor or large wings.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

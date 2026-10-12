@@ -1,0 +1,95 @@
+{
+  "mech": "망나뇽",
+  "sourceName": "Dragonite",
+  "series": "dragon / flying",
+  "sourceAppearance": {
+    "name": "망나뇽",
+    "en": "Dragonite",
+    "color": "brown",
+    "shape": "upright",
+    "features": [
+      {
+        "part": "tail",
+        "detail": "long, tapering tail"
+      },
+      {
+        "part": "skin",
+        "detail": "light orange skin"
+      },
+      {
+        "part": "snout",
+        "detail": "round snout"
+      },
+      {
+        "part": "arm",
+        "detail": "thick arms"
+      },
+      {
+        "part": "claw",
+        "detail": "three claws"
+      },
+      {
+        "part": "eye",
+        "detail": "large, grayish-green eyes"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Dragonite_%28Pok%C3%A9mon%29",
+    "revision": 4621894,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "cba49710cc5140cf6196ec9e687b91a85e28fbf78c2e4381d729db1e9e150321",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "faceDesign": {
+    "name": "망나뇽",
+    "en": "Dragonite",
+    "line": "미뇽",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "oval",
+      "face length": "balanced",
+      "face width": "wide",
+      "jaw & chin": "wide heavy chin",
+      "eye shape": "large",
+      "eye size": "large",
+      "eye tilt": "level outer corners",
+      "eye spacing": "average eye spacing",
+      "eyebrows": "angled brows",
+      "nose character": "rounded soft tip",
+      "lips": "full lips"
+    },
+    "why": "친근한 큰 용의 둥근 주둥이와 큰 눈을 넓고 부드러운 얼굴로 옮긴다.",
+    "cues": [
+      "몸 형태 upright → 얼굴형 균형 잡힌 타원형",
+      "무게 210kg → 얼굴 폭 넓은 얼굴",
+      "드래곤 타입 → 눈썹 바깥에서 꺾이는 사선",
+      "‘round snout’ → 코 코끝이 둥근"
+    ],
+    "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 눈썹 가늘고 완만한 곡선 → 바깥에서 꺾이는 사선"
+  },
+  "faceDesignOn": true,
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "form": "light",
+  "cat": "active",
+  "expr": "amused",
+  "pose": "mid_action",
+  "orient": "turning_midmotion",
+  "frame": "full_body",
+  "lens": "documentary35",
+  "scene": "On an empty indoor roller rink at soft blue hour, turning through a slow controlled skating curve with knees softly bent, torso and face toward viewer, both hands relaxed and apart at hip level. Complete head, hands and both roller skates inside frame, polished wooden floor and quiet pastel lights.",
+  "outfit": "Opaque orange racerback cropped athletic tank and teal high-waisted flared skating shorts over secure fitted undershorts, cream quad roller skates and small gold pendant. Bare shoulders arms midriff and legs; personal sportswear with no armor, antenna headpiece or wing cape.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
