@@ -1,0 +1,15 @@
+{
+  "mech": "쥬피썬더",
+  "identityMode": "create",
+  "form": "light",
+  "style": "glossy_promo",
+  "aspect": "2:3",
+  "faceDesignOn": true,
+  "params": [
+    [
+      "apparent age",
+      "20s — adult woman in her twenties"
+    ]
+  ],
+  "custom": "1024x1536. Clean dark graphite studio-hangar background with faint yellow light. Entire head and feet inside frame; character occupies 87% of image height, centered, eye-level 85mm perspective. Relaxed separated hands beside her hips, both fully visible, exactly five distinct digits per hand."
+}

@@ -14,6 +14,43 @@
     "style": "glossy_promo",
     "ui_verified": true
   },
-  "phase": "ready_to_commit",
-  "generation": "built-in imagegen"
+  "phase": "complete",
+  "generation": "built-in imagegen",
+  "image_commit": "8893537bf233f7b2982d9777dbb9cdb5fde5ffb8",
+  "code_registration_commit": "627ef306a71612b684facb3bca48472d87378ef5",
+  "canonical_repository_path": "img/폴리곤_light_glossy_promo_f.webp",
+  "remote_image_hash_verification": "All nine Git blob IDs match the approved committed WebP bytes; all manifest SHA256 hashes validated.",
+  "face_selection_reason": "다면체 머리와 기하학적 눈을 각진 사람 윤곽과 정돈된 눈 간격으로 옮긴다.",
+  "face_selection_sources": [
+    "data/face-design.json#137",
+    "data/source-appearance.json#137"
+  ],
+  "face_structure": {
+    "face shape": "angular",
+    "face length": "balanced",
+    "face width": "medium",
+    "jaw & chin": "angular defined jaw",
+    "eye shape": "narrow",
+    "eye size": "medium",
+    "eye tilt": "level outer corners",
+    "eye spacing": "average eye spacing",
+    "eyebrows": "straight medium brows",
+    "nose character": "prominent defined nose",
+    "lips": "thin lips"
+  },
+  "actual_face_comparison": [
+    "이브이",
+    "샤미드",
+    "쥬피썬더",
+    "부스터",
+    "폴리곤",
+    "쏘콘",
+    "피콘",
+    "키링키"
+  ],
+  "casual_comparison": "Read plans and all nine submitted prompts for Vaporeon, Forretress and Pineco; also compared this batch sequentially. Locations, activities, outfit silhouette and framing vary.",
+  "thumbnail_state": "27 thumbnails present in remote main; recovery workflow completed successfully",
+  "thumbnail_commit": "8a8f0771e7391a15dedb433108ce774cff81ea3b",
+  "thumbnail_workflow_run": 38268939904,
+  "qa": "Compared all nine images side by side; distinct forms, same framing in OPENED pairs, three distinct casual activities and silhouettes."
 }
