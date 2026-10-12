@@ -1,0 +1,61 @@
+{
+  "style": "glossy_promo",
+  "form": "casual2",
+  "baseForm": "casual2",
+  "motifs": "",
+  "identityMode": "reference",
+  "params": [],
+  "mech": "야도킹",
+  "sourceName": "Slowking",
+  "sourceAppearance": {
+    "name": "야도킹",
+    "en": "Slowking",
+    "color": "pink",
+    "shape": "upright",
+    "features": [
+      {
+        "part": "ruff",
+        "detail": "spiny ruff"
+      },
+      {
+        "part": "horn",
+        "detail": "two horns"
+      },
+      {
+        "part": "muzzle",
+        "detail": "pale yellow muzzle"
+      },
+      {
+        "part": "belly",
+        "detail": "scaled belly"
+      },
+      {
+        "part": "digit",
+        "detail": "single clawed digit"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Slowking_%28Pok%C3%A9mon%29",
+    "revision": 4630319,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "3e6d565b24e25c8561e4e22d5e1bea5100f54421e5d362606b5771ef877548e0",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "series": "water / psychic",
+  "outputMode": "casual",
+  "aspect": "2:3",
+  "cat": "occupation_basic",
+  "expr": "serious",
+  "pose": "leaning_furniture",
+  "orient": "front",
+  "frame": "waist_up",
+  "lens": "natural50",
+  "scene": "In an empty historic botanical archive at noon, standing at a tall work counter arranging two pressed leaves on a plain unlettered sheet with relaxed hands at separated edges. Soft green filtered window light, head through waist and both complete hands visible.",
+  "outfit": "Opaque coral sleeveless high-neck cropped blouse and ivory high-waisted trousers, red belt and small spiral-shell brooch. Bare shoulders arms and narrow midriff; scholarly workwear.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "custom": "Both hands fully within the selected crop, each visibly attached to its own forearm with five distinct natural digits. One adult woman, no text or logos."
+}

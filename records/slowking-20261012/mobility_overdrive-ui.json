@@ -1,0 +1,50 @@
+{
+  "style": "glossy_promo",
+  "form": "overdrive",
+  "baseForm": "mobility",
+  "motifs": "",
+  "identityMode": "reference",
+  "params": [],
+  "mech": "야도킹",
+  "sourceName": "Slowking",
+  "sourceAppearance": {
+    "name": "야도킹",
+    "en": "Slowking",
+    "color": "pink",
+    "shape": "upright",
+    "features": [
+      {
+        "part": "ruff",
+        "detail": "spiny ruff"
+      },
+      {
+        "part": "horn",
+        "detail": "two horns"
+      },
+      {
+        "part": "muzzle",
+        "detail": "pale yellow muzzle"
+      },
+      {
+        "part": "belly",
+        "detail": "scaled belly"
+      },
+      {
+        "part": "digit",
+        "detail": "single clawed digit"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Slowking_%28Pok%C3%A9mon%29",
+    "revision": 4630319,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "3e6d565b24e25c8561e4e22d5e1bea5100f54421e5d362606b5771ef877548e0",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "series": "water / psychic",
+  "outputMode": "action",
+  "aspect": "2:3",
+  "scene": "",
+  "custom": ""
+}

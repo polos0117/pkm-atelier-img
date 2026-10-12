@@ -1,0 +1,61 @@
+{
+  "style": "glossy_promo",
+  "form": "casual1",
+  "baseForm": "casual1",
+  "motifs": "",
+  "identityMode": "reference",
+  "params": [],
+  "mech": "야도킹",
+  "sourceName": "Slowking",
+  "sourceAppearance": {
+    "name": "야도킹",
+    "en": "Slowking",
+    "color": "pink",
+    "shape": "upright",
+    "features": [
+      {
+        "part": "ruff",
+        "detail": "spiny ruff"
+      },
+      {
+        "part": "horn",
+        "detail": "two horns"
+      },
+      {
+        "part": "muzzle",
+        "detail": "pale yellow muzzle"
+      },
+      {
+        "part": "belly",
+        "detail": "scaled belly"
+      },
+      {
+        "part": "digit",
+        "detail": "single clawed digit"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Slowking_%28Pok%C3%A9mon%29",
+    "revision": 4630319,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "3e6d565b24e25c8561e4e22d5e1bea5100f54421e5d362606b5771ef877548e0",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "series": "water / psychic",
+  "outputMode": "casual",
+  "aspect": "2:3",
+  "cat": "lingerie",
+  "expr": "gentle",
+  "pose": "perched_seat",
+  "orient": "side",
+  "frame": "three_quarter",
+  "lens": "portrait85",
+  "scene": "Inside an empty art-deco seaside hotel breakfast alcove at pale sunrise, perched upright on a coral velvet window bench, spreading a folded ivory scarf across her knees, both whole hands separated and clearly attached to forearms, face turned to camera. Soft peach light, head to above knees.",
+  "outfit": "Fully opaque lined pearl satin broad-strap longline camisole with secure structured chest, coral high-waisted tailored shorts and a short open ivory lace-trim robe. Bare shoulders arms and thighs, small red gem pendant; adult lingerie-inspired fashion editorial with full intimate coverage.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "custom": "Both hands fully within the selected crop, each visibly attached to its own forearm with five distinct natural digits. One adult woman, no text or logos."
+}

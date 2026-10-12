@@ -1,0 +1,74 @@
+{
+  "name": "야도킹",
+  "slug": "slowking",
+  "wear": "Coral-pink and ivory pearlescent armor; the gray spiral shell crown becomes an elegant open human diadem with scalloped spikes and a small red gem, red-and-white striped neck ruff becomes a broad folded collar, pale muzzle color becomes ivory chest trim, tail becomes a short coral waist drape. Normal human skin and face, no shell creature or animal limbs.",
+  "light": "On an empty coral-marble palace pier in soft morning light, adult woman in regal front three-quarter stance, both empty hands relaxed away from waist, full shell diadem and boots inside vertical 1024x1536 with clear margins.",
+  "heavy": "On an empty coral-marble palace pier at morning, adult woman stands in a steady front-facing guard with both empty hands open beside waist, entire diadem and boots inside vertical 1024x1536, clear margins.",
+  "mobility": "On an empty coral-marble palace pier at morning, adult woman takes a graceful forward step facing camera, both empty open hands separated beside hips, entire diadem and boots inside vertical 1024x1536, clear margins.",
+  "casual": [
+    {
+      "cat": "lingerie",
+      "expr": "gentle",
+      "pose": "perched_seat",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "Inside an empty art-deco seaside hotel breakfast alcove at pale sunrise, perched upright on a coral velvet window bench, spreading a folded ivory scarf across her knees, both whole hands separated and clearly attached to forearms, face turned to camera. Soft peach light, head to above knees.",
+      "outfit": "Fully opaque lined pearl satin broad-strap longline camisole with secure structured chest, coral high-waisted tailored shorts and a short open ivory lace-trim robe. Bare shoulders arms and thighs, small red gem pendant; adult lingerie-inspired fashion editorial with full intimate coverage.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "Both hands fully within the selected crop, each visibly attached to its own forearm with five distinct natural digits. One adult woman, no text or logos."
+    },
+    {
+      "cat": "occupation_basic",
+      "expr": "serious",
+      "pose": "leaning_furniture",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "In an empty historic botanical archive at noon, standing at a tall work counter arranging two pressed leaves on a plain unlettered sheet with relaxed hands at separated edges. Soft green filtered window light, head through waist and both complete hands visible.",
+      "outfit": "Opaque coral sleeveless high-neck cropped blouse and ivory high-waisted trousers, red belt and small spiral-shell brooch. Bare shoulders arms and narrow midriff; scholarly workwear.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "Both hands fully within the selected crop, each visibly attached to its own forearm with five distinct natural digits. One adult woman, no text or logos."
+    },
+    {
+      "cat": "travel_exploration",
+      "expr": "amused",
+      "pose": "mid_stride",
+      "orient": "front_3q",
+      "frame": "environmental",
+      "lens": "documentary35",
+      "scene": "On an empty hilltop vineyard path in late summer afternoon, walking beside low stone walls while balancing a small wicker picnic basket on one forearm, both hands open and visible away from fabric. Full head sandals and hands, warm long shadows and green vine rows.",
+      "outfit": "Opaque ivory sleeveless square-neck midi sundress with fitted covered chest and coral side panels, calf-length flared skirt with modest slit, flat sandals, red-gem bracelet. Bare shoulders arms and lower legs.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "Both hands fully within the selected crop, each visibly attached to its own forearm with five distinct natural digits. One adult woman, no text or logos."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "reviewed": [
+      "에브이 (plan only; submitted prompts unavailable)",
+      "마임맨 (plan and three prompts)",
+      "아쿠스타 (plan and three prompts)",
+      "블래키",
+      "니로우"
+    ],
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  }
+}

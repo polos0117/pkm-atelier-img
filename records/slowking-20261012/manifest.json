@@ -1,0 +1,142 @@
+{
+  "name": "야도킹",
+  "style": "glossy_promo",
+  "generation_mode": "built-in imagegen",
+  "assets": [
+    {
+      "slot": "light",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-3cccb769-fedd-4228-b6bc-ff7cebc08731.png",
+      "filename": "야도킹_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b04c3d8887f1e3d7c12d67de576f805a84960c432ab53f1b35ba80b33e95dd00",
+      "reference": null,
+      "prompt": "light.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "heavy",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-985be66c-4eb8-4268-ab4f-509d83709108.png",
+      "filename": "야도킹_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "dcc28ba8f592a46976230dd03b6d63c751015e176f0dde49320a13c939e507c7",
+      "reference": "light",
+      "prompt": "heavy.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "mobility",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-547a232d-641c-4940-8773-07632b38dc4a.png",
+      "filename": "야도킹_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "816c9187ed0dde3668fb265b87b8d28f0975a149212cfb58df4c833efe7c5fe3",
+      "reference": "light",
+      "prompt": "mobility.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "light_overdrive",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-bf6bcf7d-f069-41fa-a7aa-adda7ecae7f7.png",
+      "filename": "야도킹_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "06bf6bcfd04550f576f8ac03c7dbe47fa54c9df4e57c3d1cf62b2e1f8fe29ab8",
+      "reference": "light",
+      "prompt": "light_overdrive.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-f3a35eb7-f6de-4215-9cfb-6af1813923ac.png",
+      "filename": "야도킹_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "fd8d5b63039ec3e32dda12d7f5818567e5bf26589bc5aaec715ad94a5ce6e11e",
+      "reference": "heavy",
+      "prompt": "heavy_overdrive.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-0152f2b3-7f55-484e-bad8-00284cccede2.png",
+      "filename": "야도킹_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e285ffbb17485a48372d4c801104bd90d56179ba8c8ac93af4682d74c29cb4b2",
+      "reference": "mobility",
+      "prompt": "mobility_overdrive.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "casual1",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-949360e7-f6d8-4679-97a0-03464b7dd2c6.png",
+      "filename": "야도킹_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "76583a322e5fe0ff72557efd770702eaf958e58da08300dc94ef9a005528b995",
+      "reference": "light",
+      "prompt": "casual1.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "casual2",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-0ee68294-4db1-41b9-820f-f52379442275.png",
+      "filename": "야도킹_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e7777f511b080780c2d6b335718d05bf16aaa0821bc3483fc5ea3144631c9bff",
+      "reference": "light",
+      "prompt": "casual2.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "casual3",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-5a310e99-a3a0-4df2-9361-e4202eb1d366.png",
+      "filename": "야도킹_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "0e8eb45831bec5198139281e4e6d046f789b29ea4ee6da1abc28c9d044ff8ddb",
+      "reference": "light",
+      "prompt": "casual3.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    }
+  ]
+}
