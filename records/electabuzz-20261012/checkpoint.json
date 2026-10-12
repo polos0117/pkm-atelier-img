@@ -1,6 +1,59 @@
 {
   "card": "에레브",
+  "image_commit": "5cee6282ed2f7a169cd5d59e233e3367f86a9a90",
+  "state": "registration complete; all nine canonical WebP files and thumbnails verified",
   "completed": 9,
+  "requested": 9,
+  "style": "glossy_promo",
+  "tool": "built-in imagegen",
   "light": "img/에레브_light_glossy_promo_f.webp",
-  "state": "nine generated and visually reviewed; commit pending"
+  "files": [
+    {
+      "slot": "light",
+      "canonical": "img/에레브_light_glossy_promo_f.webp",
+      "sha256": "c0008bada1fd065db1409b8780dcea5e34e69d9666fbae966fb64172d7547d9d"
+    },
+    {
+      "slot": "heavy",
+      "canonical": "img/에레브_heavy_glossy_promo_f.webp",
+      "sha256": "1270326aa985f2925a7cf50015e01acd91d21bd1bf3850347829ff0d9da6ebaa"
+    },
+    {
+      "slot": "mobility",
+      "canonical": "img/에레브_mobility_glossy_promo_f.webp",
+      "sha256": "2da10421193ce1a250cd395a9e2ec1d232b5fcb85f88fe9dcb81cfe8d68a5c64"
+    },
+    {
+      "slot": "light_overdrive",
+      "canonical": "img/에레브_light_overdrive_glossy_promo_f.webp",
+      "sha256": "d13c03929cfb257cf94245fe8d9dab9b4391375206042b12e936426a99ad2791"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "canonical": "img/에레브_heavy_overdrive_glossy_promo_f.webp",
+      "sha256": "e8a26bd3c92fc7f45da96fad40b7ef22ba0b2c17d42ddfecb9afdb8b8e19a6d2"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "canonical": "img/에레브_mobility_overdrive_glossy_promo_f.webp",
+      "sha256": "cdf706ffed46f9640ddc6c79a4d8f4d7920375d02ccf90446df0c8b33a0d77b7"
+    },
+    {
+      "slot": "casual1",
+      "canonical": "img/에레브_glossy_promo_f_casual1.webp",
+      "sha256": "b71b4250e9bc3bbfd6bb170deb564085dc41010a39723efb1935a27f5f013335"
+    },
+    {
+      "slot": "casual2",
+      "canonical": "img/에레브_glossy_promo_f_casual2.webp",
+      "sha256": "65b9075e36fa73f502a5454319868e77f22a5a6fc3e0af35209de7a003dc647e"
+    },
+    {
+      "slot": "casual3",
+      "canonical": "img/에레브_glossy_promo_f_casual3.webp",
+      "sha256": "acda81e6e9ad44e1ad768f073f319f5c2a9f75c4a1cd848b79a9e72d373b832e"
+    }
+  ],
+  "thumbnail_commit": "b7876e7d03c5e2b5e84c7c0a38f78ec0bd4a6a8b",
+  "registration_commit": "9c732fbb9eca93e2976dac5e50d16564003bc6ab"
 }

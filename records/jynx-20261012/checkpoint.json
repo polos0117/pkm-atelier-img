@@ -1,6 +1,59 @@
 {
   "card": "루주라",
+  "image_commit": "4cacaf44be50eda60d8aed13403d944c50fac269",
+  "thumbnail_commit": "70dbc7f15396b01581e0b7a048a4faa3dc6d635e",
+  "registration_commit": "d79a06f2965b0aa6e04dd38c347a22d8f2706cdb",
+  "state": "registration complete; all nine canonical WebP files and thumbnails verified",
   "completed": 9,
+  "requested": 9,
+  "style": "glossy_promo",
+  "tool": "built-in imagegen",
   "light": "img/루주라_light_glossy_promo_f.webp",
-  "state": "generated and reviewed; retrying blocked piano casual2 if absent; commit pending"
+  "files": [
+    {
+      "slot": "light",
+      "canonical": "img/루주라_light_glossy_promo_f.webp",
+      "sha256": "6ab7194226e2f573c16d65bc88b4e8eff2984b08cb8b42198d980a48a9b5b949"
+    },
+    {
+      "slot": "heavy",
+      "canonical": "img/루주라_heavy_glossy_promo_f.webp",
+      "sha256": "b6879e40e25a5701795c241d691dfd0663f26527954ced1895e915eb3f1bf2c9"
+    },
+    {
+      "slot": "mobility",
+      "canonical": "img/루주라_mobility_glossy_promo_f.webp",
+      "sha256": "da8c3e491e6ec4b782aeaa15f256dd7c0fe9fdd4f27c2f2c4bc30de1de89621d"
+    },
+    {
+      "slot": "light_overdrive",
+      "canonical": "img/루주라_light_overdrive_glossy_promo_f.webp",
+      "sha256": "014cd9f0e5034e36baaeb204d674e368de840539d9c9e2d3d3d4cf69be0a6968"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "canonical": "img/루주라_heavy_overdrive_glossy_promo_f.webp",
+      "sha256": "82ad55ca62fc6ce57c40b564d9a45828c22502d30d5b227cd1e91716ea55a58d"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "canonical": "img/루주라_mobility_overdrive_glossy_promo_f.webp",
+      "sha256": "1fdc74dd1adfb5f8d30eee357c04f3dac79897d00706ee97b07c4c5f72d67266"
+    },
+    {
+      "slot": "casual1",
+      "canonical": "img/루주라_glossy_promo_f_casual1.webp",
+      "sha256": "c5ed9f8a6fcb87614439929f4b0b237f4cc1ce8985f6791ccd388652cc15f11a"
+    },
+    {
+      "slot": "casual2",
+      "canonical": "img/루주라_glossy_promo_f_casual2.webp",
+      "sha256": "298050fc9efa66a7f173aab8916673aedea206ab343ffeed416e99802f293d94"
+    },
+    {
+      "slot": "casual3",
+      "canonical": "img/루주라_glossy_promo_f_casual3.webp",
+      "sha256": "7761e94a178e5168d82f60b6b63d0579b8e3af280dd87f9d1c3f8dd520ceae51"
+    }
+  ]
 }

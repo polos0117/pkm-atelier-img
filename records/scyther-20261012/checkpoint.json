@@ -1,8 +1,60 @@
 {
   "card": "스라크",
-  "completed": 9,
-  "light": "img/스라크_light_glossy_promo_f.webp",
-  "state": "nine registered; repairing empty upload of heavy_overdrive from hash-verified original; thumbnail rerun pending",
   "image_commit": "e5f9f2b9366ed1bf61516dd4b1d19f5e32b3f4fd",
-  "registration_commit": "92d744b5958ce56ca4eda4b89ab5502116967097"
+  "repair_commit": "4f4d70255e706d84c6bdb0cbbaf92a0e9c920ce9",
+  "thumbnail_commit": "41a190aa611be6331b6ba83e89c6e8633dedb27e",
+  "registration_commit": "92d744b5958ce56ca4eda4b89ab5502116967097",
+  "state": "registration complete; all nine canonical WebP files and thumbnails verified",
+  "completed": 9,
+  "requested": 9,
+  "style": "glossy_promo",
+  "tool": "built-in imagegen",
+  "light": "img/스라크_light_glossy_promo_f.webp",
+  "files": [
+    {
+      "slot": "light",
+      "canonical": "img/스라크_light_glossy_promo_f.webp",
+      "sha256": "7324410a035ca5b229220629fd489be248ed41060ab0d2c23054d3fa6b2ce9ff"
+    },
+    {
+      "slot": "heavy",
+      "canonical": "img/스라크_heavy_glossy_promo_f.webp",
+      "sha256": "fd0ef9377cbdc37a4d649c7296a62ad65af0084fb28aff336ad79b3be07b8e3d"
+    },
+    {
+      "slot": "mobility",
+      "canonical": "img/스라크_mobility_glossy_promo_f.webp",
+      "sha256": "827cc75cdd786dd1676c518dc7017763dc3092acbe8ed2f21d1f149192684a7f"
+    },
+    {
+      "slot": "light_overdrive",
+      "canonical": "img/스라크_light_overdrive_glossy_promo_f.webp",
+      "sha256": "f300726835e86f051327de80a0802a58b3e3a931ad2144c2ebbd4418e1124088"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "canonical": "img/스라크_heavy_overdrive_glossy_promo_f.webp",
+      "sha256": "e67c9ce6f085f9af9afb91972e5e82050d9c490d102fd466bd51b912e4f35321"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "canonical": "img/스라크_mobility_overdrive_glossy_promo_f.webp",
+      "sha256": "fcfd30037416376c9c44cd93c8f3861e5d9add4ae493a558c7e3cf1801375df9"
+    },
+    {
+      "slot": "casual1",
+      "canonical": "img/스라크_glossy_promo_f_casual1.webp",
+      "sha256": "e828437afd025fd1c2181f2a7233dce9917a57b64392360b2e1b5d94f97ac900"
+    },
+    {
+      "slot": "casual2",
+      "canonical": "img/스라크_glossy_promo_f_casual2.webp",
+      "sha256": "8632f5b516288481af9032dee6a62a48fe53bf69037b97ef56813d2552098cab"
+    },
+    {
+      "slot": "casual3",
+      "canonical": "img/스라크_glossy_promo_f_casual3.webp",
+      "sha256": "2ff5bca24cbbabc6d2a8857a94316f38abf4b34104469a2be36820aa96c76066"
+    }
+  ]
 }
