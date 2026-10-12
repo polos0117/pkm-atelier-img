@@ -1,0 +1,52 @@
+{
+  "casual": [
+    {
+      "cat": "adult_roleplay",
+      "expr": "confident",
+      "pose": "mid_action",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "Inside an empty planetarium stage preparation area at night beneath softly projected abstract star points, demonstrating a small gold paper star held flat on one open palm while the other hand gestures beside it. Head through waist with both complete hands, violet rim light and warm face light, no written displays.",
+      "outfit": "Original astronomy-presenter event fashion: opaque golden halter mini dress with a fitted bodice, open shoulders and a wide chocolate-brown waist sash, tiny pink star earrings. Chest and pelvis securely covered, no real institutional insignia; small spotted trim as the only species echo."
+    },
+    {
+      "cat": "everyday_basic",
+      "expr": "amused",
+      "pose": "walking",
+      "orient": "side",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "Walking side-on through an empty open-air fruit market at bright late morning, face turned toward the viewer, a woven shopping basket loosely carried by one hand and the other free and relaxed. Whole head, complete hands and shoes visible. Yellow awnings and green fruit stalls, no labels or signs.",
+      "outfit": "Opaque cream sleeveless longline button-front tunic with a tied chocolate belt, short golden tailored shorts and flat brown sandals, tiny spotted pendant. Bare shoulders, arms and legs, everyday shopping outfit without armor."
+    },
+    {
+      "cat": "active",
+      "expr": "focused",
+      "pose": "dance_step",
+      "orient": "front_3q",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "Practicing a small dance step in an empty wood-floored rehearsal room at blue dawn, torso and hips turned together toward front three-quarter, arms naturally curved at the sides with separated complete hands. Head through knees. Cool window light and amber floor reflections; mirrors outside the crop so no duplicate figures.",
+      "outfit": "Opaque black long-sleeve scoop-neck dance leotard with full chest and pelvis coverage, short pink wrap skirt secured over matching dance shorts, small golden ear studs. Bare thighs and a modest open neckline, no gloves or armor."
+    }
+  ],
+  "comparison": {
+    "reviewed": [
+      "잉어킹",
+      "갸라도스",
+      "라프라스"
+    ],
+    "scope": "Read plans and all nine casual submitted prompts from latest records.",
+    "changed": [
+      "location",
+      "activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

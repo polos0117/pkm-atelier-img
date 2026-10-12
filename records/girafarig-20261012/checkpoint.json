@@ -1,0 +1,23 @@
+{
+  "stage": "9/9 generated and visually reviewed; ready for image commit",
+  "anchor": {
+    "slot": "light",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-61c85dd5-f7b5-47c2-9dde-35d74b1c0859.png",
+    "path": "img/키링키_light_glossy_promo_f.webp",
+    "sha256": "1b7184cd2d1c020e2ac7dd54031a0afcaea8643f5ec070963d4ce6a8b1e3a520",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and submitted prompt, built-in imagegen"
+  },
+  "facesCompared": [
+    "잉어킹",
+    "갸라도스",
+    "라프라스"
+  ],
+  "visualQA": "One human adult woman, same face/hair/body, visible complete hands, no text, intact head and feet in cards; closed/open pose and framing aligned. Distinct thick heavy layering and swept mobility silhouette. Casual settings differ in category, place, action, silhouette, expression, pose, orientation and crop.",
+  "faceComparison": "Reviewed approved light artworks side by side: longer and narrower human face, longer defined jaw/chin, less rounded eyes and longer nose; differences beyond hair and ornaments."
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "slot": "light",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-61c85dd5-f7b5-47c2-9dde-35d74b1c0859.png",
+    "path": "img/키링키_light_glossy_promo_f.webp",
+    "sha256": "1b7184cd2d1c020e2ac7dd54031a0afcaea8643f5ec070963d4ce6a8b1e3a520",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and submitted prompt, built-in imagegen"
+  },
+  {
+    "slot": "heavy",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-14d203b7-be5d-4984-9349-b8e14d106805.png",
+    "path": "img/키링키_heavy_glossy_promo_f.webp",
+    "sha256": "6cbf25ccebea8c86eae628804f93eacd91a8ccc63e75c53621c04a4c69c3b1d5",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and submitted prompt, built-in imagegen"
+  },
+  {
+    "slot": "mobility",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-e092755a-9dff-4e11-adb9-ce702d0a2114.png",
+    "path": "img/키링키_mobility_glossy_promo_f.webp",
+    "sha256": "ec912681ee59a9080cac557c79b937f4414bb46e26f105fc75c7f658de893704",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and submitted prompt, built-in imagegen"
+  },
+  {
+    "slot": "light_overdrive",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-3eb13f00-0fdf-421a-8a23-38003d19dda7.png",
+    "path": "img/키링키_light_overdrive_glossy_promo_f.webp",
+    "sha256": "01afe1caf60198ad5a98420cc921f69a2fd0ac39cb1aef7731246814c46c38a7",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and submitted prompt, built-in imagegen"
+  },
+  {
+    "slot": "heavy_overdrive",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-08173294-8278-4f0a-a2d3-7818f21e5cc5.png",
+    "path": "img/키링키_heavy_overdrive_glossy_promo_f.webp",
+    "sha256": "e0ac33ed8e9f1316f299b68a817f155bb376cb4ebe276d6dee2cb3373e8cfb3a",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "heavy",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and submitted prompt, built-in imagegen"
+  },
+  {
+    "slot": "mobility_overdrive",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-9b121640-c475-42ff-923e-8b791879af35.png",
+    "path": "img/키링키_mobility_overdrive_glossy_promo_f.webp",
+    "sha256": "d672e88e947be5d15aaa78a809cdcfe71ac18662b049f8ad85f54f0509fe8f88",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "mobility",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and submitted prompt, built-in imagegen"
+  },
+  {
+    "slot": "casual1",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-004ede38-3f1c-48e8-8942-f5e6c4514a42.png",
+    "path": "img/키링키_glossy_promo_f_casual1.webp",
+    "sha256": "1e15005b2f105b384ed956d3b0eb66636e2932813633f4aa2ee5970ff509263b",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and submitted prompt, built-in imagegen"
+  },
+  {
+    "slot": "casual2",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-1865a361-eaa3-465d-9a85-8d9f0d24a499.png",
+    "path": "img/키링키_glossy_promo_f_casual2.webp",
+    "sha256": "5fe05e57480b50f45535e051607f5f17f13aef72e1be8fe51dc14531f9cb92f3",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and submitted prompt, built-in imagegen"
+  },
+  {
+    "slot": "casual3",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-c1833d36-73f0-4723-b1e3-f38b12da9637.png",
+    "path": "img/키링키_glossy_promo_f_casual3.webp",
+    "sha256": "f996c87a6983eda96904a84ceb79af7c48f1f91ac5d8e94cde0920cb8d9d0958",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "light",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and submitted prompt, built-in imagegen"
+  }
+]
