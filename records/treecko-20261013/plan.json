@@ -1,0 +1,53 @@
+{
+  "name": "나무지기",
+  "no": 252,
+  "style": "glossy_promo",
+  "tool": "built-in imagegen",
+  "casual": [
+    {
+      "cat": "hobbies_leisure",
+      "expr": "pensive",
+      "pose": "reading_book",
+      "orient": "front_3q",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "On an empty apartment balcony at blue dusk, seated comfortably reading an unlettered botanical book. Both hands clearly separated on the two lower corners of the book, head through knees visible, warm reading lamp against blue evening.",
+      "outfit": "Cream sleeveless V-neck linen camisole and forest-green high-waisted wide-leg shorts, tiny leaf stud earrings. Bare arms and legs; contemporary leisure clothing."
+    },
+    {
+      "cat": "adult_roleplay",
+      "expr": "proud",
+      "pose": "standing_formal",
+      "orient": "front",
+      "frame": "full_body",
+      "lens": "natural50",
+      "scene": "At an empty garden-festival stage in golden afternoon, demonstrating a small seedling pot balanced on one open palm while the other hand gestures gently beside it. Entire head, hands and shoes visible; warm festoon lamps.",
+      "outfit": "Original botanical-host event costume: coral sleeveless fitted waistcoat, forest-green pleated mini skirt, cream ankle shoes, a tiny leaf brooch. Bare shoulders, arms and legs; decorative stage fashion."
+    },
+    {
+      "cat": "everyday_basic",
+      "expr": "focused",
+      "pose": "bending_over",
+      "orient": "side",
+      "frame": "waist_up",
+      "lens": "documentary35",
+      "scene": "In a private bicycle courtyard at bright morning, body sideways and face turned toward camera, leaning toward the handlebar to adjust an unmarked bell. One hand turns its screw while the other rests separately on the grip; whole forearms and hands visible.",
+      "outfit": "Dark-green racerback cropped cotton tank and ivory high-waisted utility shorts, coral wristband. Bare shoulders, arms and midriff; practical personal-life clothing."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "recent_compared": [
+    "암나이트",
+    "블루",
+    "폴리곤"
+  ],
+  "comparison_scope": "Read recent three plans and all nine submitted prompts. Visually inspected each recent canonical light face. All new casual scenes use changed location, activity, garment silhouette and composition.",
+  "face_reason": "Species face-design interpreted smooth gecko outline and calm lowered gaze; actual image compared with recent three faces.",
+  "ui_verification": "All nine real UI selections inspected; output length and FNV matched production prompt files.",
+  "corrections": {
+    "casual2": "Removed long sash and large metal headpiece; kept exact identity and scene."
+  }
+}

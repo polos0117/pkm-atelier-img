@@ -1,0 +1,17 @@
+{
+  "name": "나무지기",
+  "outputMode": "casual",
+  "cat": "adult_roleplay",
+  "expr": "proud",
+  "pose": "standing_formal",
+  "orient": "front",
+  "frame": "full_body",
+  "lens": "natural50",
+  "scene": "At an empty garden-festival stage in golden afternoon, demonstrating a small seedling pot balanced on one open palm while the other hand gestures gently beside it. Entire head, hands and shoes visible; warm festoon lamps.",
+  "outfit": "Original botanical-host event costume: coral sleeveless fitted waistcoat, forest-green pleated mini skirt, cream ankle shoes, a tiny leaf brooch. Bare shoulders, arms and legs; decorative stage fashion.",
+  "custom": "1024x1536 vertical. Preserve the attached adult identity, haircut and proportions. Both complete five-finger hands inside the chosen crop and visibly connected to their own forearms. No armor or weapons, no large headpiece or sash, only small species accessories.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

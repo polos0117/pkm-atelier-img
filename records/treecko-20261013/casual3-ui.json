@@ -1,0 +1,17 @@
+{
+  "name": "나무지기",
+  "outputMode": "casual",
+  "cat": "everyday_basic",
+  "expr": "focused",
+  "pose": "bending_over",
+  "orient": "side",
+  "frame": "waist_up",
+  "lens": "documentary35",
+  "scene": "In a private bicycle courtyard at bright morning, body sideways and face turned toward camera, leaning toward the handlebar to adjust an unmarked bell. One hand turns its screw while the other rests separately on the grip; whole forearms and hands visible.",
+  "outfit": "Dark-green racerback cropped cotton tank and ivory high-waisted utility shorts, coral wristband. Bare shoulders, arms and midriff; practical personal-life clothing.",
+  "custom": "1024x1536 vertical. Preserve the attached adult identity, haircut and proportions. Both complete five-finger hands inside the chosen crop and visibly connected to their own forearms. No armor or weapons, no large headpiece or sash, only small species accessories.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

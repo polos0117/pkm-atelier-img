@@ -1,0 +1,144 @@
+[
+  {
+    "slot": "light",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-e2c26642-5478-4e41-b638-9d32fcb896f4.png",
+    "source_sha256": "09c4327936a1fe2db6b085ba92b0a12fb2ae9fc403c84a2310d353d3dde854c0",
+    "output": "img/나무지기_light_glossy_promo_f.webp",
+    "sha256": "0d8c5e66b2846c07c7c1ce56cd1b92ea842af4c3dd2d1a8f4921caa27614fe90",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 444920,
+    "reference": [],
+    "qa": "visually inspected face identity, natural attached hands, five-finger anatomy, single figure, crop and armor form; overdrives match their closed composition"
+  },
+  {
+    "slot": "heavy",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-a92f330f-4a43-4245-9417-e22d31bce653.png",
+    "source_sha256": "f924dd7de5b7ef8adcf0ff8881bf6abb18b803a966893abdf5ee10bdd4d9acf0",
+    "output": "img/나무지기_heavy_glossy_promo_f.webp",
+    "sha256": "b7c2dd135a50766de36657a247ad7cd24de0abce74b015a3769664cde5c18190",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 454204,
+    "reference": [
+      "e2c26642-5478-4e41-b638-9d32fcb896f4"
+    ],
+    "qa": "visually inspected face identity, natural attached hands, five-finger anatomy, single figure, crop and armor form; overdrives match their closed composition"
+  },
+  {
+    "slot": "mobility",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-e1d87f88-e22c-4d68-9a4e-c43de856fe7f.png",
+    "source_sha256": "ccd11fee98f4028c57d653c5087a26523db4855286718ecf6d5fb0312083061c",
+    "output": "img/나무지기_mobility_glossy_promo_f.webp",
+    "sha256": "b09be98079d8790575e56a9bfd748975f7073e45173cc68b8cb192923801d625",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 461986,
+    "reference": [
+      "e2c26642-5478-4e41-b638-9d32fcb896f4"
+    ],
+    "qa": "visually inspected face identity, natural attached hands, five-finger anatomy, single figure, crop and armor form; overdrives match their closed composition"
+  },
+  {
+    "slot": "light_overdrive",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-146a1ac5-0b48-4ab4-8f7f-d243c32d8ccb.png",
+    "source_sha256": "aa7586cdf9308acf496d843e83ee1e1f206cf7cc5cfd428a0c44bc9fd3703ec7",
+    "output": "img/나무지기_light_overdrive_glossy_promo_f.webp",
+    "sha256": "570c647fb0990c0a65ff89e510a33e74368e913286e1bce67d47aa78c678afeb",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 522736,
+    "reference": [
+      "e2c26642-5478-4e41-b638-9d32fcb896f4"
+    ],
+    "qa": "visually inspected face identity, natural attached hands, five-finger anatomy, single figure, crop and armor form; overdrives match their closed composition"
+  },
+  {
+    "slot": "heavy_overdrive",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-73ad5026-20ce-439f-82f7-89d054896ba4.png",
+    "source_sha256": "6d101380cb027a175982603c0dc7e5273c9607be640bd82fc1767313757ce56d",
+    "output": "img/나무지기_heavy_overdrive_glossy_promo_f.webp",
+    "sha256": "772994d2b8bc4da6c2e0d573971401ae5d8fb76d3a3bb5e045f81bb71841d67a",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 506266,
+    "reference": [
+      "a92f330f-4a43-4245-9417-e22d31bce653"
+    ],
+    "qa": "visually inspected face identity, natural attached hands, five-finger anatomy, single figure, crop and armor form; overdrives match their closed composition"
+  },
+  {
+    "slot": "mobility_overdrive",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-8ac99d6e-1448-4b27-bc36-2c1bb66aefc6.png",
+    "source_sha256": "6cae74c4168fe9f2ef02374baef08e04d8f539da8840255547c128a87b6524b8",
+    "output": "img/나무지기_mobility_overdrive_glossy_promo_f.webp",
+    "sha256": "80d2b010d273c62a1997a86b7690abdeb573879e0017ad0b37f04e0436306936",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 524094,
+    "reference": [
+      "e1d87f88-e22c-4d68-9a4e-c43de856fe7f"
+    ],
+    "qa": "visually inspected face identity, natural attached hands, five-finger anatomy, single figure, crop and armor form; overdrives match their closed composition"
+  },
+  {
+    "slot": "casual1",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-3aa273d5-6d29-4088-9fff-966cdf05afe4.png",
+    "source_sha256": "592539acc3dda6a84e8d0fb117d18143ed6fed263c7d738d3f483d544919402a",
+    "output": "img/나무지기_glossy_promo_f_casual1.webp",
+    "sha256": "eda662eb24f6817512f18ef8e05ea7a0860623d7730ce955e7668a9e0cd845bd",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 404946,
+    "reference": [
+      "e2c26642-5478-4e41-b638-9d32fcb896f4"
+    ],
+    "qa": "visually inspected face identity, natural attached hands, five-finger anatomy, single figure, crop and armor form; overdrives match their closed composition"
+  },
+  {
+    "slot": "casual2",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-3363291e-9e2e-44b8-bea0-67f2e82aba35.png",
+    "source_sha256": "528074c875b30064b43d39b552fa8d2fc7d99e7cc73b5e09fed8d71f7f6c6266",
+    "output": "img/나무지기_glossy_promo_f_casual2.webp",
+    "sha256": "1f27163995499bc7426f6c214cd11cbb06b594dbf97f3c57229a1bcf054ec094",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 440822,
+    "reference": [
+      "e2c26642-5478-4e41-b638-9d32fcb896f4"
+    ],
+    "qa": "visually inspected face identity, natural attached hands, five-finger anatomy, single figure, crop and armor form; overdrives match their closed composition"
+  },
+  {
+    "slot": "casual3",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-3528f884-d0ec-43b2-b5a9-abd5a37ff242.png",
+    "source_sha256": "fb5b36249f59a74cf167b498bdf28017f44a3a8cf7cb49f1041dbda2861ab83d",
+    "output": "img/나무지기_glossy_promo_f_casual3.webp",
+    "sha256": "d9428e1d146bc8f111da9614c3081f5269a1d19b1fc1c6982f3a29e9e829a5dc",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 416102,
+    "reference": [
+      "e2c26642-5478-4e41-b638-9d32fcb896f4"
+    ],
+    "qa": "visually inspected face identity, natural attached hands, five-finger anatomy, single figure, crop and armor form; overdrives match their closed composition"
+  }
+]
