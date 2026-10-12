@@ -1,0 +1,59 @@
+{
+  "name": "노고치",
+  "slug": "dunsparce",
+  "params": {
+    "hair color": "blonde",
+    "eye color": "pale blue",
+    "hairstyle": "braid",
+    "hair length": "long",
+    "body type": "tall and lean"
+  },
+  "expr": "calm",
+  "scene": "Quiet underground sandstone hangar with a softly lit circular platform, warm yellow bounce and cool white rim light.",
+  "casual": [
+    {
+      "cat": "hobbies_leisure",
+      "expr": "curious",
+      "pose": "reading_book",
+      "orient": "front_3q",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "Empty fossil archive at rainy midday. Comparing a small ammonite on an open palm to an unlettered closed reference book on the desk, other hand rests separately beside it. Both hands inside crop.",
+      "outfit": "Opaque pale-yellow sleeveless button blouse tied above a high-waisted blue linen skirt, tiny white wing stud earrings. Bare shoulders, arms and midriff, chest and pelvis fully covered."
+    },
+    {
+      "cat": "lingerie",
+      "expr": "sleepy",
+      "pose": "sitting",
+      "orient": "front",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "Private airy window nook at dawn, sitting upright on a cushioned stool, folding a pale-yellow sleep mask with both hands separated at lap level. Head to just above knees. Soft sunrise and ivory curtains.",
+      "outfit": "Fully lined opaque ivory satin camisole with pale-blue piping and secure broad straps, matching high-waisted yellow satin lounge shorts. Tiny spiral pendant, bare shoulders and legs, fully covered chest and pelvis."
+    },
+    {
+      "cat": "travel_exploration",
+      "expr": "soft_smile",
+      "pose": "walking",
+      "orient": "side",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "Walking side-on through an empty red sandstone canyon rest stop at late afternoon, face turned to camera, lightly guiding an unlettered wheeled travel case with one hand, other hand open beside hip. Full head and boots.",
+      "outfit": "Opaque pale-blue sleeveless fitted hiking top, yellow high-waisted belted utility shorts and calf-height walking boots, small white feather zipper charm. Bare arms and legs; ordinary travel fashion."
+    }
+  ],
+  "comparison": {
+    "reviewed": [
+      "메타몽",
+      "이브이",
+      "샤미드"
+    ],
+    "read": "plans and all nine submitted casual prompts",
+    "changed": [
+      "location",
+      "specific activity",
+      "outfit silhouette",
+      "composition"
+    ]
+  }
+}

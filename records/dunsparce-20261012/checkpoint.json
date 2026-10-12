@@ -1,0 +1,123 @@
+{
+  "card": "노고치",
+  "canonical": "/workspace/scratch/8caa05af95e7/pkm-atelier-img/img/노고치_light_glossy_promo_f.webp",
+  "sha256": "a1a9db9b8929bc74c3f6d4a4ccc52d11004ef18a010f43582b7320d67bfe05f4",
+  "face_reason": "둥근 머리와 넓은 입 및 땅뱀의 긴 몸을 긴 얼굴과 넓은 입으로 해석한다.",
+  "face_prompt": "FACE (her own structure, not the style's default face): elongated face, long length, narrow width; long chin with defined jaw; drooping eyes, medium size, downturned outer corners, close-set; short rounded brows; rounded soft tip nose; wide mouth.",
+  "face_comparison": [
+    "메타몽",
+    "이브이",
+    "샤미드"
+  ],
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "qa": "Inspected generated outputs: identity retained, each hand attached with five distinct digits, requested framing, armor form distinction and closed/open composition retained.",
+  "images": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-76aa7511-6149-49e2-a2c6-90ffac24a15b.png",
+      "file": "노고치_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "heavy",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-f5e9dfa0-c1e0-47e6-b19c-4483b22db06b.png",
+      "file": "노고치_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "2c5487f93dcc39c3af72d70f7e7c2dbbebddffed5fa6bb1872e517d3e0c44a36",
+      "reference": "/workspace/scratch/8caa05af95e7/pkm-atelier-img/img/노고치_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "mobility",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-fca4daae-17ab-462e-b3b0-ea55ff6148e2.png",
+      "file": "노고치_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "7bcb3a75f9e23223698bcd4205e71cf4892436b5b74a3f0b652790a5929397f7",
+      "reference": "/workspace/scratch/8caa05af95e7/pkm-atelier-img/img/노고치_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-8349301c-63b3-4feb-83a7-934570aa5e4d.png",
+      "file": "노고치_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "11202fdf516cb92347790c5922fd74199d220672d4a321b8e776879c351fdd62",
+      "reference": "노고치_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-85dfb3d7-765a-4ccf-a693-68e74410d42c.png",
+      "file": "노고치_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "4a72dafb5cf484d4ae463c86cb917aeb6d5cf9bd1fba7ccfeda2161097c37145",
+      "reference": "노고치_heavy_glossy_promo_f.webp"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-76743e4a-a9aa-410f-aef8-09cd0c4ea451.png",
+      "file": "노고치_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "cf6f00dfd793e67c4f0aee120bde4ad298ce2478119b5c833c28275af4fbf062",
+      "reference": "노고치_mobility_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual1",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-c4d7c530-18a2-4bec-8fdc-cf5bae40664f.png",
+      "file": "노고치_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "3d0845f9a49b1a196975502ecb6f8a79346d5215e39059977ce16ea99ba71441",
+      "reference": "/workspace/scratch/8caa05af95e7/pkm-atelier-img/img/노고치_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-7cefe1aa-bdcb-4958-b9df-0e31a9286a7c.png",
+      "file": "노고치_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "f6ec642d6694554304564fb2ddc009d90b43b0de68dd0585fccc5e0c4d321705",
+      "reference": "/workspace/scratch/8caa05af95e7/pkm-atelier-img/img/노고치_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual3",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-0859ef7e-a403-4472-83d4-61bfc6bebae9.png",
+      "file": "노고치_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "7d64065530279a168c2e3bd40af8aa0dcfb0079aa2250a1b4a9fc65f1ad258eb",
+      "reference": "/workspace/scratch/8caa05af95e7/pkm-atelier-img/img/노고치_light_glossy_promo_f.webp"
+    }
+  ]
+}
