@@ -13,7 +13,7 @@
     "켄타로스"
   ],
   "recovery": "Final WebP and exact prompts are committed together. Use repository canonical, not a later variant. Raw scratch PNGs are incidental.",
-  "status": "9/9 main uploaded; thumbnail workflow and registration workflow succeeded",
+  "status": "9/9 complete; all original image bytes, nine thumbnails and nine dex slots verified on remote main",
   "images": [
     {
       "slot": "light",
@@ -210,5 +210,8 @@
   "imageCommit": "48cdf8717214664cf9bbc263ecdf2f185bf79425",
   "thumbnailWorkflow": 38228502190,
   "registrationWorkflow": 38228953577,
-  "registrationVerifiedAt": "1b7a2ce6b345e8252be748b40dbed5142f796554"
+  "registrationVerifiedAt": "1b7a2ce6b345e8252be748b40dbed5142f796554",
+  "registrationCommit": "1b7a2ce6b345e8252be748b40dbed5142f796554",
+  "publishMethod": "Connected GitHub Git objects; normal fast-forward main update with force=false and expected head; shell git push unavailable due absent CLI credentials",
+  "finalVerification": "All 27 remote image Git blob SHAs match the locally decoded 1024x1536 WebP assets; all 27 thumbnail paths and dex registrations verified."
 }

@@ -15,7 +15,7 @@
     "갸라도스"
   ],
   "recovery": "Final WebP and exact prompts are committed together. Use repository canonical, not a later variant. Raw scratch PNGs are incidental.",
-  "status": "9/9 generated, awaiting upload",
+  "status": "9/9 complete; all original image bytes, nine thumbnails and nine dex slots verified on remote main",
   "images": [
     {
       "slot": "light",
@@ -208,5 +208,11 @@
     "generator": "built-in image_gen",
     "qa": "Inspected single adult identity, framing, hands, form and no text."
   },
-  "facePrompt": "FACE (her own structure, not the style's default face): oval face, long length, medium width; soft rounded jaw; almond eyes, medium size, downturned outer corners, wide-set; fine soft arches; balanced nose; medium lips."
+  "facePrompt": "FACE (her own structure, not the style's default face): oval face, long length, medium width; soft rounded jaw; almond eyes, medium size, downturned outer corners, wide-set; fine soft arches; balanced nose; medium lips.",
+  "imageCommit": "ab614bf3e006761f167a5c58f5666c8f4be70d21",
+  "registrationCommit": "b3ffc47815f644e447c15c1dea8319a2a8772ee2",
+  "thumbnailWorkflow": 38232634201,
+  "registrationWorkflow": 38233065329,
+  "publishMethod": "Connected GitHub Git objects; normal fast-forward main update with force=false and expected head; shell git push unavailable due absent CLI credentials",
+  "finalVerification": "All 27 remote image Git blob SHAs match the locally decoded 1024x1536 WebP assets; all 27 thumbnail paths and dex registrations verified."
 }

@@ -14,7 +14,7 @@
     "잉어킹"
   ],
   "recovery": "Final WebP and exact prompts are committed together. Use repository canonical, not a later variant. Raw scratch PNGs are incidental.",
-  "status": "9/9 main uploaded; thumbnail workflow succeeded and all nine dex slots verified",
+  "status": "9/9 complete; all original image bytes, nine thumbnails and nine dex slots verified on remote main",
   "images": [
     {
       "slot": "light",
@@ -209,5 +209,9 @@
   },
   "facePrompt": "FACE (her own structure, not the style's default face): elongated face, long length, medium width; angular defined jaw; sharp eyes, medium size, upturned outer corners, average spacing; thick low brows; long nose with low tip; wide mouth.",
   "imageCommit": "a5d47918c187d249307285557be2aa76d7a7aab2",
-  "thumbnailWorkflow": 38230455827
+  "thumbnailWorkflow": 38230455827,
+  "registrationCommit": "905c26f59679bcdf92a4830f54bef5a4ac3a3712",
+  "registrationWorkflow": 38230880545,
+  "publishMethod": "Connected GitHub Git objects; normal fast-forward main update with force=false and expected head; shell git push unavailable due absent CLI credentials",
+  "finalVerification": "All 27 remote image Git blob SHAs match the locally decoded 1024x1536 WebP assets; all 27 thumbnail paths and dex registrations verified."
 }
