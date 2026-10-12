@@ -1,0 +1,125 @@
+{
+  "card": "강철톤",
+  "canonical": "/workspace/scratch/8caa05af95e7/pkm-atelier-img/img/강철톤_light_glossy_promo_f.webp",
+  "sha256": "728084a414ac1b65e5aa9277280c99a00117a8dee0ffadf1c56325af79503fe8",
+  "face_reason": "거대한 금속 머리와 강한 턱을 넓고 각진 사람 하관으로 구분한다.",
+  "face_prompt": "FACE (her own structure, not the style's default face): elongated face, long length, medium width; angular defined jaw; narrow eyes, small size, level outer corners, average spacing; thick low brows; straight slender bridge nose; wide mouth.",
+  "face_comparison": [
+    "메타몽",
+    "이브이",
+    "샤미드",
+    "롱스톤"
+  ],
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "qa": "Inspected generated outputs: identity retained, each hand attached with five distinct digits, requested framing, armor form distinction and closed/open composition retained.",
+  "images": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-11977ade-e62d-4787-a44b-e7411f6f3957.png",
+      "file": "강철톤_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "728084a414ac1b65e5aa9277280c99a00117a8dee0ffadf1c56325af79503fe8"
+    },
+    {
+      "slot": "heavy",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-cfbc0ba3-a126-4921-b775-41b1637752f2.png",
+      "file": "강철톤_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "b661f3d5fd846bb35ab7eb8b718b08b5b5358ca959b0ca8047f0046794784fb9",
+      "reference": "/workspace/scratch/8caa05af95e7/pkm-atelier-img/img/강철톤_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "mobility",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-e7ba0267-9dc6-433a-987b-ba359fbc824b.png",
+      "file": "강철톤_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "b009ee12152e30690b861d9e75ee4477b131327a9f06539881fa9db8d8d94232",
+      "reference": "/workspace/scratch/8caa05af95e7/pkm-atelier-img/img/강철톤_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-0b5eb889-1855-4708-9a64-33bb6c974f4b.png",
+      "file": "강철톤_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "de592a2925698963e9b8702bf6b6acf665dfaf875aa36660e9a45277a3cd4209",
+      "reference": "강철톤_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-8d29ff98-a438-4090-b9e3-ef11917fcc24.png",
+      "file": "강철톤_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "f13fba3d368347b543142cc4ca0c58ff8c8931cb727b4b4ce0beece0a8e6497e",
+      "reference": "강철톤_heavy_glossy_promo_f.webp"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-b656af77-b12b-4fa1-948d-6a48227507a7.png",
+      "file": "강철톤_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "bf13637ce6b92c55b59c6627d24a780fc3ec41f7c1dd52581a8fa8c53866452b",
+      "reference": "강철톤_mobility_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual1",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-8fee7e11-f6aa-4662-80a3-6cf7e48e3b14.png",
+      "file": "강철톤_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "95dac0b71a06519a52d9aeadeb297adcdd5dfb01a872e624df7fa8c349a875ad",
+      "reference": "/workspace/scratch/8caa05af95e7/pkm-atelier-img/img/강철톤_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-c9c0e574-efac-476e-9ee6-19e5cadb3fb8.png",
+      "file": "강철톤_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "ded157b6f6b5ace5cd7e201cf14cea27e72abb6a67791c02d415532c65882865",
+      "reference": "/workspace/scratch/8caa05af95e7/pkm-atelier-img/img/강철톤_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual3",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-33ece3de-d6f0-4834-bc50-31e4bc7fbc42.png",
+      "file": "강철톤_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "184d90844ced5fd8ab0e1e60e0bdd0753019df288a1ed57f39df822f2fcd5e04",
+      "reference": "/workspace/scratch/8caa05af95e7/pkm-atelier-img/img/강철톤_light_glossy_promo_f.webp"
+    }
+  ]
+}

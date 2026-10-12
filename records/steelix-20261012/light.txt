@@ -1,0 +1,38 @@
+INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.
+
+SOURCE: Steelix (강철톤), steel / ground type.
+
+PALETTE: gray.
+
+STYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.
+
+SUBJECT: A female mecha personification character with Steelix as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.
+
+WEAR (user choice): Steel-gray interlocking polygonal segments become sleek chest, shoulder, hip and shin plates; long rock spikes become short angular silver plate edges; two long ridges become paired narrow brow ornaments; no creature head mask. Metallic silver and graphite with tiny red sensor accents..
+
+FACE (her own structure, not the style's default face): elongated face, long length, medium width; angular defined jaw; narrow eyes, small size, level outer corners, average spacing; thick low brows; straight slender bridge nose; wide mouth.
+
+FORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.
+
+OUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.
+
+Chosen settings below override the default stance and camera; her identity and form stay fixed.
+Expression: level lowered brow, steady unblinking gaze, mouth closed in a straight line, jaw set
+Scene: Deep steel foundry hangar, orderly graphite beams, cold silver overhead light and restrained warm amber floor reflections.
+Note: 1024x1536 vertical. One adult woman in her twenties. Both complete hands visibly connect to their own forearms, each with exactly one thumb and four distinct fingers; no fused digits. No weapons, text, logos or other figures. Subject height about 88% of the frame, full head and feet with equal small margins. Keep this subject scale across all three armor forms. Hands relaxed and separated from thighs, palms angled toward viewer, fingers unobscured.
+
+IDENTITY (chosen details override the automatic look)
+hair color: silver
+eye color: red
+hairstyle: slicked back — smooth backward-directed hair from the roots
+hair length: short — ear-to-jaw length unless the selected cut requires shorter hair
+body type: statuesque — tall, balanced long proportions with substantial firm contours
+body scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.
+hair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.
+eye color consistency: both eyes are red
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and close-fitting, never fingerless; plates, water, sparks and effects stay off the fingers.

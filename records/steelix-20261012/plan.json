@@ -1,0 +1,60 @@
+{
+  "name": "강철톤",
+  "slug": "steelix",
+  "params": {
+    "hair color": "silver",
+    "eye color": "red",
+    "hairstyle": "slicked back",
+    "hair length": "short",
+    "body type": "statuesque"
+  },
+  "expr": "serious",
+  "scene": "Deep steel foundry hangar, orderly graphite beams, cold silver overhead light and restrained warm amber floor reflections.",
+  "motifs": "Steel-gray interlocking polygonal segments become sleek chest, shoulder, hip and shin plates; long rock spikes become short angular silver plate edges; two long ridges become paired narrow brow ornaments; no creature head mask. Metallic silver and graphite with tiny red sensor accents.",
+  "casual": [
+    {
+      "cat": "adult_roleplay",
+      "expr": "proud",
+      "pose": "standing_formal",
+      "orient": "front_3q",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "Empty industrial design exhibition booth at noon, displaying a small polished metal geometry sample on one open hand, other hand relaxed separately beside waist. Head to just above knees, bright diffuse skylight.",
+      "outfit": "Original industrial exhibition presenter event fashion: opaque silver sleeveless high-neck fitted mini dress with graphite side panels and a modest side slit, graphite heels and small hexagonal earrings. Bare arms and legs, secure chest and pelvis coverage, no real workplace insignia."
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "focused",
+      "pose": "mid_action",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "Empty metalcraft hobby studio at sunset, polishing a small unlettered hexagonal pendant with a soft cloth, each hand clearly separate over the workbench. Complete head and both hands, copper sunset bounce and cool task lamp.",
+      "outfit": "Opaque charcoal sleeveless square-neck cropped denim vest, high-waisted silver-gray trousers, tiny red gem ear studs. Bare shoulders, arms and midriff, no armor."
+    },
+    {
+      "cat": "travel_exploration",
+      "expr": "relieved",
+      "pose": "mid_stride",
+      "orient": "side",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "Empty mountain railway observation deck at frosty sunrise, taking a small sideways step toward railing, face turned toward camera. One hand rests on rail and other open beside hip, entire body and shoes visible. Misty tracks and cool pale dawn.",
+      "outfit": "Opaque ivory sleeveless mock-neck knit top, high-waisted graphite knee-length culottes, sturdy ankle shoes and tiny silver segmented bracelet. Bare arms and lower legs, ordinary travel fashion."
+    }
+  ],
+  "comparison": {
+    "reviewed": [
+      "메타몽",
+      "이브이",
+      "샤미드"
+    ],
+    "read": "plans and all nine submitted casual prompts",
+    "changed": [
+      "location",
+      "specific activity",
+      "outfit silhouette",
+      "composition"
+    ]
+  }
+}
