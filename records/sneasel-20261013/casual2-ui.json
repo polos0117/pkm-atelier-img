@@ -1,0 +1,21 @@
+{
+  "mech": "포푸니",
+  "style": "glossy_promo",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "travel_exploration",
+  "expr": "curious",
+  "pose": "checking_map",
+  "orient": "front_3q",
+  "frame": "waist_up",
+  "lens": "portrait85",
+  "aspect": "2:3",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "At a quiet alpine cable-car platform at pale winter sunrise, examining an unlettered folded trail map with simple abstract paths, holding its two edges separately. Her face and both complete hands visible above waist, distant snow peaks and glass station walls.",
+  "outfit": "Opaque ivory cropped rib-knit mock-neck top without sleeves, open burgundy puffer vest, high-waisted black hiking trousers, slim red scarf and tiny gold oval earrings. Bare arms and a small midriff gap; ordinary travel clothing.",
+  "custom": "Same adult woman as approved light reference, no armor, complete five-finger hands readable.",
+  "camera": "1024x1536 vertical, eye-level. Both complete hands visible with clear five-digit anatomy."
+}

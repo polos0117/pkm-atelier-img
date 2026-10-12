@@ -1,0 +1,16 @@
+{
+  "mech": "포푸니",
+  "style": "glossy_promo",
+  "outputMode": "action",
+  "identityMode": "reference",
+  "form": "overdrive",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "Cold moonlit mountain hangar, pale frost across the ground and distant steel ribs; relaxed ready stance, both arms separate from torso.",
+  "camera": "1024x1536 vertical. Eye-level, full figure fills 86 percent of image height, both hands clearly visible and both feet inside generous margins.",
+  "baseForm": "heavy"
+}

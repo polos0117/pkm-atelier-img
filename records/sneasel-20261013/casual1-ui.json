@@ -1,0 +1,21 @@
+{
+  "mech": "포푸니",
+  "style": "glossy_promo",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "adult_roleplay",
+  "expr": "mischievous",
+  "pose": "mid_action",
+  "orient": "front",
+  "frame": "full_body",
+  "lens": "natural50",
+  "aspect": "2:3",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "Alone on an open-air lantern festival stage at night, tying a silky red ribbon into a loose knot with both hands at waist height. Unmarked lanterns and deep-blue mountains, face to camera, full head and shoes visible.",
+  "outfit": "Original adult stage-magician event fashion: opaque black halter bodysuit with a secure high neckline, burgundy high-waisted asymmetrical mini overskirt, thigh-high black fabric boots, a tiny gold oval brooch. Bare shoulders arms and upper thighs. No hat or weapons.",
+  "custom": "Same adult woman as light reference. Species motif only a tiny brooch and red ribbon. No armor.",
+  "camera": "1024x1536 vertical, eye-level. Both complete hands visible with clear five-digit anatomy."
+}

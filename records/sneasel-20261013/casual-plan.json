@@ -1,0 +1,65 @@
+[
+  {
+    "mech": "포푸니",
+    "style": "glossy_promo",
+    "outputMode": "casual",
+    "identityMode": "reference",
+    "cat": "adult_roleplay",
+    "expr": "mischievous",
+    "pose": "mid_action",
+    "orient": "front",
+    "frame": "full_body",
+    "lens": "natural50",
+    "aspect": "2:3",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "scene": "Alone on an open-air lantern festival stage at night, tying a silky red ribbon into a loose knot with both hands at waist height. Unmarked lanterns and deep-blue mountains, face to camera, full head and shoes visible.",
+    "outfit": "Original adult stage-magician event fashion: opaque black halter bodysuit with a secure high neckline, burgundy high-waisted asymmetrical mini overskirt, thigh-high black fabric boots, a tiny gold oval brooch. Bare shoulders arms and upper thighs. No hat or weapons.",
+    "custom": "Same adult woman as light reference. Species motif only a tiny brooch and red ribbon. No armor.",
+    "camera": "1024x1536 vertical, eye-level. Both complete hands visible with clear five-digit anatomy."
+  },
+  {
+    "mech": "포푸니",
+    "style": "glossy_promo",
+    "outputMode": "casual",
+    "identityMode": "reference",
+    "cat": "travel_exploration",
+    "expr": "curious",
+    "pose": "checking_map",
+    "orient": "front_3q",
+    "frame": "waist_up",
+    "lens": "portrait85",
+    "aspect": "2:3",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "scene": "At a quiet alpine cable-car platform at pale winter sunrise, examining an unlettered folded trail map with simple abstract paths, holding its two edges separately. Her face and both complete hands visible above waist, distant snow peaks and glass station walls.",
+    "outfit": "Opaque ivory cropped rib-knit mock-neck top without sleeves, open burgundy puffer vest, high-waisted black hiking trousers, slim red scarf and tiny gold oval earrings. Bare arms and a small midriff gap; ordinary travel clothing.",
+    "custom": "Same adult woman as approved light reference, no armor, complete five-finger hands readable.",
+    "camera": "1024x1536 vertical, eye-level. Both complete hands visible with clear five-digit anatomy."
+  },
+  {
+    "mech": "포푸니",
+    "style": "glossy_promo",
+    "outputMode": "casual",
+    "identityMode": "reference",
+    "cat": "hobbies_leisure",
+    "expr": "half-smile",
+    "pose": "leaning_furniture",
+    "orient": "side",
+    "frame": "three_quarter",
+    "lens": "documentary35",
+    "aspect": "2:3",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "scene": "Inside a quiet vintage record shop on a rainy afternoon, leaning sideways on a low record bin, face turned to the camera, sorting one blank vinyl sleeve with her right hand while her left rests separately on the wooden rim. Head to above knees visible, warm lamps and cool rain reflections.",
+    "outfit": "Red cropped sleeveless denim jacket over an opaque black scoop-neck bralette, charcoal high-waisted pleated mini skirt, dark tights, small gold oval necklace. Bare arms shoulders and midriff; contemporary leisure fashion.",
+    "custom": "Same adult woman as approved light reference, no armor, complete five-finger hands readable.",
+    "camera": "1024x1536 vertical, eye-level. Both complete hands visible with clear five-digit anatomy."
+  }
+]

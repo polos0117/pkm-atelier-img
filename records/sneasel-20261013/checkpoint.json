@@ -1,0 +1,279 @@
+{
+  "name": "포푸니",
+  "date": "2026-10-13",
+  "style": "glossy_promo",
+  "completed": 9,
+  "required": 9,
+  "status": "9 images visually reviewed; ready for non-force main publication",
+  "approved_light": {
+    "card": "포푸니",
+    "slot": "light",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+    "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-99665da8-68df-4613-bf34-ee585a5baf9d.png",
+    "original_sha256": "fa7eaa476d51c2036fae899bdb6675361cf405e5daa347bc8acd651bc0e2e2d6",
+    "output": "img/포푸니_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "92cb0b87ad4a836f0d30aabb39f73984d40c84ca1d11fb436bc639f6f9b0a623",
+    "reference": null,
+    "reference_sha256": null,
+    "submitted_prompt": "light.txt",
+    "prompt_sha256": "c443265f75bc56467fd54e089b80b28b38fdddf6b2de8943a989f429769276ab"
+  },
+  "outputs": [
+    {
+      "card": "포푸니",
+      "slot": "light",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-99665da8-68df-4613-bf34-ee585a5baf9d.png",
+      "original_sha256": "fa7eaa476d51c2036fae899bdb6675361cf405e5daa347bc8acd651bc0e2e2d6",
+      "output": "img/포푸니_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "92cb0b87ad4a836f0d30aabb39f73984d40c84ca1d11fb436bc639f6f9b0a623",
+      "reference": null,
+      "reference_sha256": null,
+      "submitted_prompt": "light.txt",
+      "prompt_sha256": "c443265f75bc56467fd54e089b80b28b38fdddf6b2de8943a989f429769276ab"
+    },
+    {
+      "card": "포푸니",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-7650c6d6-8809-4c97-b49f-fee36fcc1d3a.png",
+      "original_sha256": "35e4c082921c0c9305e90dc6424409cb9f4031d428bfa7ad60aa024d42ce5350",
+      "output": "img/포푸니_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "0d9fa35780e7c7818272a712756415d80bddbfe229841b0f97cc77a08405e355",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-99665da8-68df-4613-bf34-ee585a5baf9d.png",
+      "reference_sha256": "fa7eaa476d51c2036fae899bdb6675361cf405e5daa347bc8acd651bc0e2e2d6",
+      "submitted_prompt": "heavy.txt",
+      "prompt_sha256": "18ab044a2b2b848099d186f27b9e194f4b6bd0ac0bfecb21ce8944abbaf42a1a"
+    },
+    {
+      "card": "포푸니",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-30b8738b-2399-463d-bc36-915bd30c529f.png",
+      "original_sha256": "a8daaf31b4d78e2337c3b6d5b38e263bd56f638f3dcdb100e6937089e0c8c4b8",
+      "output": "img/포푸니_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "7aa3a77b7ee8a8af4324d9889efbb901c8f0edbee193bb12beb661f74d221bdf",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-99665da8-68df-4613-bf34-ee585a5baf9d.png",
+      "reference_sha256": "fa7eaa476d51c2036fae899bdb6675361cf405e5daa347bc8acd651bc0e2e2d6",
+      "submitted_prompt": "mobility.txt",
+      "prompt_sha256": "eaf58f553257de7c625b5f52d1a772b569d32957c6f96b8d01e2f945551996e5"
+    },
+    {
+      "card": "포푸니",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-f7ddb7b5-92e7-4891-872b-3130c3ca485b.png",
+      "original_sha256": "348ec1ae1d3125bd68bd957eb8c69525c1d4cc74f742e89a3585b60528116043",
+      "output": "img/포푸니_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "84a7574b52f2fec89dcbfdb9b1cbcf4fee676d7d8e089b96e2c121a082846115",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-99665da8-68df-4613-bf34-ee585a5baf9d.png",
+      "reference_sha256": "fa7eaa476d51c2036fae899bdb6675361cf405e5daa347bc8acd651bc0e2e2d6",
+      "submitted_prompt": "light_overdrive.txt",
+      "prompt_sha256": "6c74ae40754f2e4561e12391524ff5d804e5160d5885f65bff910a8ae57e1f5b"
+    },
+    {
+      "card": "포푸니",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-312a1930-825d-4d69-b922-4c5f7aa936e3.png",
+      "original_sha256": "6425ac7f38de6cf89d0196ae1308a618be68720d26a480a27d7be3b47a506708",
+      "output": "img/포푸니_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c9773dfc0e11d2ecac0046643968da9630fd14f2f10056d6f52cdc8646b51795",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-7650c6d6-8809-4c97-b49f-fee36fcc1d3a.png",
+      "reference_sha256": "35e4c082921c0c9305e90dc6424409cb9f4031d428bfa7ad60aa024d42ce5350",
+      "submitted_prompt": "heavy_overdrive.txt",
+      "prompt_sha256": "ab8ef6bcd0f5e4eeac724fb374c49440c68ac431b6569a880d06599339ac8e82"
+    },
+    {
+      "card": "포푸니",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-26a91706-eb0f-463f-bffd-c9ac37e196ec.png",
+      "original_sha256": "f7c7a9af22e01a3b41fdcd98f1d511c21a2a2182fc2b16805cfec257895c6ca3",
+      "output": "img/포푸니_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "3ef4536c25312a7c09b6109a1341b5b651520d5894a4f1874ae116fdb3739583",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-30b8738b-2399-463d-bc36-915bd30c529f.png",
+      "reference_sha256": "a8daaf31b4d78e2337c3b6d5b38e263bd56f638f3dcdb100e6937089e0c8c4b8",
+      "submitted_prompt": "mobility_overdrive.txt",
+      "prompt_sha256": "4937c9c4ec83e5b98caf9e98ddbdc2a38740409c03f9d61720227a8d4b5fea06"
+    },
+    {
+      "card": "포푸니",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-6ee9ba17-2f78-4cf1-abb3-88e0381e7f97.png",
+      "original_sha256": "aa46cb9212495c2613999e86c2e974cfa924ba265893a742fced008722fb1ea2",
+      "output": "img/포푸니_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "3e9c4fc91e90a2bd7399b08287f85b3b021eae7f9c7f9b33995c527e3bf6dfc7",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-99665da8-68df-4613-bf34-ee585a5baf9d.png",
+      "reference_sha256": "fa7eaa476d51c2036fae899bdb6675361cf405e5daa347bc8acd651bc0e2e2d6",
+      "submitted_prompt": "casual2.txt",
+      "prompt_sha256": "07805292176a027c4dcdf2a45483bb1a8c88a9eb31f356f68c5a1153ef43ee57"
+    },
+    {
+      "card": "포푸니",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-bfd0f5b6-71fc-4d0e-a475-f31f3a47bb19.png",
+      "original_sha256": "39f5d17dcf9ff2d085c961f814956c5930d8a5fd478f92017751f91248cbd7fe",
+      "output": "img/포푸니_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "55a702a65426f9a3a056387afb383dfdc7a987418b11a707a161c8d3c09d0575",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-99665da8-68df-4613-bf34-ee585a5baf9d.png",
+      "reference_sha256": "fa7eaa476d51c2036fae899bdb6675361cf405e5daa347bc8acd651bc0e2e2d6",
+      "submitted_prompt": "casual1.txt",
+      "prompt_sha256": "5f2cb244b95f101d445b591596b044ab107ea6a43c3a821e962163cefc986245",
+      "initial_prompt": "casual1-initial.txt",
+      "correction_prompt": "casual1-correction.txt",
+      "correction_prompt_sha256": "1584a5b96f1a4869ae08ef51fe5d81ae716ce4484850e5fbe295ddc7a130a876",
+      "correction_review": "Only large head ornament reduced to small oval clip; identity, hands, outfit and composition retained."
+    },
+    {
+      "card": "포푸니",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-6552a8f3-2ca8-43c8-8581-dd0bd8a09398.png",
+      "original_sha256": "96a392c275ae660fdefbbc6d6a43dc3e21256e5c22e6ba58ae8e52aa036be813",
+      "output": "img/포푸니_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "59024e82489b668af5757ce0944d04a3b27c4cd58b22b582305b5b1b8be1d165",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-99665da8-68df-4613-bf34-ee585a5baf9d.png",
+      "reference_sha256": "fa7eaa476d51c2036fae899bdb6675361cf405e5daa347bc8acd651bc0e2e2d6",
+      "submitted_prompt": "casual3.txt",
+      "prompt_sha256": "c48c409cbe01fa7be7301f6a3079488940b383aaf90418a8c5d2869aa5fd0a65",
+      "initial_prompt": "casual3-initial.txt",
+      "correction_prompt": "casual3-correction.txt",
+      "correction_prompt_sha256": "1584a5b96f1a4869ae08ef51fe5d81ae716ce4484850e5fbe295ddc7a130a876",
+      "correction_review": "Only large head ornament reduced to small oval clip; identity, hands, outfit and composition retained."
+    }
+  ],
+  "compared_recent": [
+    "핫삼",
+    "단단지",
+    "헤라크로스"
+  ],
+  "face_design": {
+    "name": "포푸니",
+    "en": "Sneasel",
+    "line": "포푸니",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "heart-shaped",
+      "face length": "balanced",
+      "face width": "medium",
+      "jaw & chin": "narrow tapered chin",
+      "eye shape": "sharp",
+      "eye size": "medium",
+      "eye tilt": "level outer corners",
+      "eye spacing": "average eye spacing",
+      "eyebrows": "angled brows",
+      "nose character": "straight slender bridge",
+      "lips": "thin lips"
+    },
+    "why": "갈고리 발톱과 가느다란 몸의 예리함을 작은 턱과 날카로운 긴 눈으로 옮긴다.",
+    "cues": [
+      "악 타입 → 눈매 강하게 치켜올라간 눈",
+      "악 타입 → 눈썹 바깥에서 꺾이는 사선",
+      "얼음 타입 → 코 곧고 가는 콧대"
+    ],
+    "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 눈꼬리 각도 올라간 눈꼬리 → 수평"
+  },
+  "face_review": "Heart contour and narrow tapered chin; horizontal sharp eyes, angular brows, narrow nose and thin lips visually distinct from recent anchors.",
+  "face_comparisons": [
+    "핫삼",
+    "단단지",
+    "헤라크로스",
+    "깜지곰",
+    "링곰"
+  ],
+  "casual_comparison": {
+    "reviewed": [
+      "핫삼",
+      "단단지",
+      "헤라크로스"
+    ],
+    "sources": [
+      "records/scizor-20261013/casual1.txt..casual3.txt",
+      "records/shuckle-20261013/casual1.txt..casual3.txt",
+      "records/heracross-20261013/casual1.txt..casual3.txt"
+    ],
+    "changes": [
+      "location",
+      "specific activity",
+      "outfit silhouette",
+      "framing"
+    ],
+    "earlier_this_task": []
+  },
+  "visual_review": "All six card states retain full figure and similar scale; opened states keep pose and framing. Three casual scenes differ in action, framing and wardrobe. Large head ornaments in casual1 and casual3 corrected.",
+  "tool": "built-in image_gen"
+}

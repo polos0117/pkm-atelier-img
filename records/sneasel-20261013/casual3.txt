@@ -1,0 +1,25 @@
+CHARACTER: the same woman as the attached image — Sneasel (포푸니) personified, dark / ice type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: half-smile
+Pose: Rest a hand or forearm on a table, counter or railing in a relaxed supported pose.
+Orientation: side body profile, approximately 90 degrees to camera
+Scene: Inside a quiet vintage record shop on a rainy afternoon, leaning sideways on a low record bin, face turned to the camera, sorting one blank vinyl sleeve with her right hand while her left rests separately on the wooden rim. Head to above knees visible, warm lamps and cool rain reflections.
+Outfit and props: Red cropped sleeveless denim jacket over an opaque black scoop-neck bralette, charcoal high-waisted pleated mini skirt, dark tights, small gold oval necklace. Bare arms shoulders and midriff; contemporary leisure fashion.
+Category: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.
+Note: Same adult woman as approved light reference, no armor, complete five-finger hands readable.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+Lens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.
+Camera: 1024x1536 vertical, eye-level. Both complete hands visible with clear five-digit anatomy.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
