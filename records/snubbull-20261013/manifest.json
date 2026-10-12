@@ -1,0 +1,212 @@
+{
+  "card": "블루",
+  "count": 9,
+  "tool": "built-in image_gen",
+  "generator": "actual Preact UI via repository DOM harness",
+  "face_design": {
+    "name": "블루",
+    "en": "Snubbull",
+    "line": "블루",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "oval",
+      "face length": "balanced",
+      "face width": "wide",
+      "jaw & chin": "wide heavy chin",
+      "eye shape": "almond",
+      "eye size": "medium",
+      "eye tilt": "downturned outer corners",
+      "eye spacing": "average eye spacing",
+      "eyebrows": "thick low brows",
+      "nose character": "rounded soft tip",
+      "lips": "bow-shaped upper lip"
+    },
+    "why": "불독의 처진 얼굴 체적을 넓은 볼과 내려간 눈꼬리로 해석한다.",
+    "cues": [
+      "‘powerful jaws’ → 얼굴 폭 넓은 얼굴",
+      "‘powerful jaws’ → 턱선 · 턱끝 넓고 묵직한 턱끝",
+      "페어리 타입 → 입술 윗입술이 활 모양인"
+    ],
+    "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 입술 도톰한 입술 → 윗입술이 활 모양인"
+  },
+  "face_prompt": "FACE (her own structure, not the style's default face): oval face, balanced length, wide width; wide heavy chin; almond eyes, medium size, downturned outer corners, average spacing; thick low brows; rounded soft tip nose; bow-shaped upper lip.",
+  "face_compared": [
+    "노고치",
+    "글라이거",
+    "강철톤"
+  ],
+  "images": [
+    {
+      "card": "블루",
+      "slot": "light",
+      "style": "glossy_promo",
+      "evidence": "actual Preact generator UI selections and recorded output",
+      "original": "/workspace/scratch/5442306146b2/generated_images/exec-f7fcd59e-1ce5-405b-8224-c02d66b986ba.png",
+      "original_sha256": "fa47681650fa42b86e10ce06dff080092cf51e5caee5755de9b687e8206349f9",
+      "file": "img/블루_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "5d0da7e7680ea93aa51cd92c5438f352192423bc36b1830c337c47911a57fb0c",
+      "reference": null,
+      "prompt": "light.txt",
+      "ui": "light-ui.json",
+      "qa": "Inspected generated output: single adult, identity and hand continuity, crop, armor and opened pair; off-duty scenes visually distinct."
+    },
+    {
+      "card": "블루",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "evidence": "actual Preact generator UI selections and recorded output",
+      "original": "/workspace/scratch/5442306146b2/generated_images/exec-481006f4-b2b8-4564-a17f-928c94d41d77.png",
+      "original_sha256": "d78535ae826b102b050105f173f51ec95236d2da0d1d72029185b7902feaf036",
+      "file": "img/블루_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "3abb43f54760d70803c1ae36634d0e57aeac519ef0e6512af823730221dbb81e",
+      "reference": "light",
+      "prompt": "heavy.txt",
+      "ui": "heavy-ui.json",
+      "qa": "Inspected generated output: single adult, identity and hand continuity, crop, armor and opened pair; off-duty scenes visually distinct."
+    },
+    {
+      "card": "블루",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "evidence": "actual Preact generator UI selections and recorded output",
+      "original": "/workspace/scratch/5442306146b2/generated_images/exec-78086159-34b7-428f-8c28-bca82e1ecedd.png",
+      "original_sha256": "b09d54c858414677fc836bd3366068f6aa9fde5c05f322ade1e1d71436d46b32",
+      "file": "img/블루_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "d193e54a8cc22f1ccd8a323cbae2b6e71f4896a8088304b8bbe061eccc75e65d",
+      "reference": "light",
+      "prompt": "mobility.txt",
+      "ui": "mobility-ui.json",
+      "qa": "Inspected generated output: single adult, identity and hand continuity, crop, armor and opened pair; off-duty scenes visually distinct."
+    },
+    {
+      "card": "블루",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "evidence": "actual Preact generator UI selections and recorded output",
+      "original": "/workspace/scratch/5442306146b2/generated_images/exec-e4dd63f9-0b48-45d7-98e2-ac8eababe743.png",
+      "original_sha256": "80ce4e58a1c02c80920fda5fb462436b2a17cb07fc674228de6633eb2d51b98f",
+      "file": "img/블루_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "d3cd80c0dd744e51f075e15774b622b67f137e4682b3724e95de269646b8fe7c",
+      "reference": "light",
+      "prompt": "light_overdrive.txt",
+      "ui": "light_overdrive-ui.json",
+      "qa": "Inspected generated output: single adult, identity and hand continuity, crop, armor and opened pair; off-duty scenes visually distinct."
+    },
+    {
+      "card": "블루",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "evidence": "actual Preact generator UI selections and recorded output",
+      "original": "/workspace/scratch/5442306146b2/generated_images/exec-40094a63-4da7-4f59-b13f-0a52043e13cc.png",
+      "original_sha256": "8f532d872fbfd0604f8e43a76d3034c3fd1cd30207664bb2fa5537cd6541064f",
+      "file": "img/블루_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c9093ad875a6854fd634f85d61745861d48835dfe2512df46971f56e597f6d69",
+      "reference": "heavy",
+      "prompt": "heavy_overdrive.txt",
+      "ui": "heavy_overdrive-ui.json",
+      "qa": "Inspected generated output: single adult, identity and hand continuity, crop, armor and opened pair; off-duty scenes visually distinct."
+    },
+    {
+      "card": "블루",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "evidence": "actual Preact generator UI selections and recorded output",
+      "original": "/workspace/scratch/5442306146b2/generated_images/exec-737f4f57-3024-459e-9137-0edb647211b7.png",
+      "original_sha256": "b9c31e2fae0bb3db899a867eda7b68600060539722289900f9a1e51780fe4af4",
+      "file": "img/블루_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "d0130118373ce92de4f1f3e11e13a958fc4713dd62850521bb4794e2822981df",
+      "reference": "mobility",
+      "prompt": "mobility_overdrive.txt",
+      "ui": "mobility_overdrive-ui.json",
+      "qa": "Inspected generated output: single adult, identity and hand continuity, crop, armor and opened pair; off-duty scenes visually distinct."
+    },
+    {
+      "card": "블루",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "evidence": "actual Preact generator UI selections and recorded output",
+      "original": "/workspace/scratch/5442306146b2/generated_images/exec-27bb1df6-dc92-4791-ac97-16233ff3aced.png",
+      "original_sha256": "557cff058d7306e331bf002f9ac726950cc3b37211fc269a37f523a29df7ce95",
+      "file": "img/블루_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "57214a4d9578cd46732460292610d26af322535212bab0731ee666e951f112eb",
+      "reference": "light",
+      "prompt": "casual1.txt",
+      "ui": "casual1-ui.json",
+      "qa": "Inspected generated output: single adult, identity and hand continuity, crop, armor and opened pair; off-duty scenes visually distinct."
+    },
+    {
+      "card": "블루",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "evidence": "actual Preact generator UI selections and recorded output",
+      "original": "/workspace/scratch/5442306146b2/generated_images/exec-2d7d1146-71bc-416d-97da-7388f235a2c4.png",
+      "original_sha256": "3cb0dcd70ce8c6cdc5e48b1b024ac69805d1f31fc7cc7a830eb6d1c6b87567f6",
+      "file": "img/블루_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e73301e0ad31640bfa0a8b4661321a08c4277b227291b33e11abcd14805c9347",
+      "reference": "light",
+      "prompt": "casual2.txt",
+      "ui": "casual2-ui.json",
+      "qa": "Inspected generated output: single adult, identity and hand continuity, crop, armor and opened pair; off-duty scenes visually distinct."
+    },
+    {
+      "card": "블루",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "evidence": "actual Preact generator UI selections and recorded output",
+      "original": "/workspace/scratch/5442306146b2/generated_images/exec-b3af4936-2791-4bf7-9b6a-79d965a3356d.png",
+      "original_sha256": "9206a227f2377626d2327611fc9c7e60e7ba274d2b9b2e927a442d88e65fa1dd",
+      "file": "img/블루_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "1ffb16bb18a7db6241e02d711bd9c0fb82a282234f347a19bc555dfe2165aff2",
+      "reference": "light",
+      "prompt": "casual3.txt",
+      "ui": "casual3-ui.json",
+      "qa": "Inspected generated output: single adult, identity and hand continuity, crop, armor and opened pair; off-duty scenes visually distinct."
+    }
+  ]
+}

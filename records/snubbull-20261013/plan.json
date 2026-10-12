@@ -1,0 +1,62 @@
+{
+  "name": "블루",
+  "slug": "snubbull",
+  "no": 209,
+  "params": {
+    "hair color": "pink",
+    "eye color": "blue",
+    "hairstyle": "bob",
+    "hair length": "short",
+    "body type": "soft-figured",
+    "apparent age": "20s"
+  },
+  "expr": "mildly_annoyed",
+  "motifs": "Pastel-pink armor and undersuit with pale-blue ruffled collar trim and blue circular polka-dot markings; beige boot accents. The bulldog silhouette becomes rounded plate geometry, with a fully human face.",
+  "scene": "Pastel pink mechanical hangar with pale-blue wall ribs and warm ivory floor reflections. Centered complete figure fills 86 percent of image height with restrained head and foot margins, face toward camera, both arms slightly away from hips, hands relaxed and fully visible.",
+  "casual": [
+    {
+      "cat": "hobbies_leisure",
+      "expr": "focused",
+      "pose": "mid_action",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "Private flower-arranging bench at rainy midday, placing a single pink flower in a low blue vase. Both hands separated over the table, eyes toward the flower; diffuse window light and soft reflected blue.",
+      "outfit": "Opaque pale-blue square-neck sleeveless cropped cotton blouse and high-waisted pink linen skirt, tiny blue-dot earrings. Bare shoulders, arms and midriff."
+    },
+    {
+      "cat": "adult_roleplay",
+      "expr": "flustered",
+      "pose": "adjusting_clothes",
+      "orient": "front_3q",
+      "frame": "full_body",
+      "lens": "portrait85",
+      "scene": "Empty pastry-festival dressing alcove at golden evening, adjusting the edge of a small waist apron with separate hands, head turned toward camera. Full head to shoes, blush curtain and warm marquee bulbs.",
+      "outfit": "Original patisserie event fashion: opaque pink sweetheart-neck fitted mini dress, short blue scalloped waist apron, beige ankle-strap shoes and blue-dot hair clip. Bare shoulders and legs, secure covered chest and pelvis. No workplace insignia."
+    },
+    {
+      "cat": "everyday_basic",
+      "expr": "amused",
+      "pose": "sitting",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "documentary35",
+      "scene": "Empty laundrette window seat at early morning, seated side-on and turned toward camera, sorting a folded blue towel resting on her lap, both hands clearly visible. Pale sun through glass, baskets and blurred washing machines.",
+      "outfit": "Opaque pink sleeveless turtleneck knit top and high-waisted beige A-line shorts, small blue bead bracelet. Bare arms and legs."
+    }
+  ],
+  "comparison": {
+    "reviewed": [
+      "노고치",
+      "글라이거",
+      "강철톤"
+    ],
+    "read": "plans and submitted casual prompts from accessible most recent image repository records",
+    "changed": [
+      "location",
+      "specific activity",
+      "outfit silhouette",
+      "composition"
+    ]
+  }
+}

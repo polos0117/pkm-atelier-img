@@ -1,0 +1,24 @@
+{
+  "card": "블루",
+  "state": "9/9 generated and inspected; pending remote publication",
+  "authoritative_light": "img/블루_light_glossy_promo_f.webp",
+  "authoritative_light_sha256": "5d0da7e7680ea93aa51cd92c5438f352192423bc36b1830c337c47911a57fb0c",
+  "recoverable_assets": [
+    "img/블루_light_glossy_promo_f.webp",
+    "img/블루_heavy_glossy_promo_f.webp",
+    "img/블루_mobility_glossy_promo_f.webp",
+    "img/블루_light_overdrive_glossy_promo_f.webp",
+    "img/블루_heavy_overdrive_glossy_promo_f.webp",
+    "img/블루_mobility_overdrive_glossy_promo_f.webp",
+    "img/블루_glossy_promo_f_casual1.webp",
+    "img/블루_glossy_promo_f_casual2.webp",
+    "img/블루_glossy_promo_f_casual3.webp"
+  ],
+  "stages": [
+    "light approved",
+    "heavy and mobility approved",
+    "three opened pairs approved",
+    "three casual scenes approved"
+  ],
+  "remote_commits": []
+}
