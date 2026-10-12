@@ -1,0 +1,12 @@
+{
+  "name": "암나이트",
+  "form": "light",
+  "identityMode": "create",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "custom": "1024x1536. Standing card pose, full figure fills 86% of image height with clear margins; both hands visible beside the torso, five separated fingers each. The spiral mantle is warm fossil cream with sky-blue armor and ten slim ribbon hems, not extra limbs. Background: a tidal fossil-rock terrace, cool morning light."
+}

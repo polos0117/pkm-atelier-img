@@ -1,0 +1,131 @@
+{
+  "name": "암나이트",
+  "slug": "omanyte",
+  "face_design": {
+    "name": "암나이트",
+    "en": "Omanyte",
+    "line": "암나이트",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "heart-shaped",
+      "face length": "short",
+      "face width": "wide",
+      "jaw & chin": "soft rounded jaw",
+      "eye shape": "large",
+      "eye size": "large",
+      "eye tilt": "level outer corners",
+      "eye spacing": "average eye spacing",
+      "eyebrows": "fine soft arches",
+      "nose character": "small delicate nose",
+      "lips": "small mouth"
+    },
+    "why": "나선 껍질과 접시 같은 큰 눈을 둥근 얼굴과 큰 둥근 사람 눈으로 옮긴다.",
+    "cues": [
+      "몸 형태 tentacles → 얼굴형 이마가 넓고 턱이 가는 하트형",
+      "‘large saucer-like eyes’ → 눈매 큰 눈",
+      "‘large saucer-like eyes’ → 눈 크기 큰 눈",
+      "몸 형태 tentacles → 입술 입이 작은"
+    ],
+    "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 얼굴형 부드럽고 둥근 얼굴형 → 이마가 넓고 턱이 가는 하트형"
+  },
+  "casual": [
+    {
+      "name": "암나이트",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "cat": "hobbies_leisure",
+      "expr": "curious",
+      "pose": "bending_over",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "A quiet fossil-cleaning hobby table in a sunlit conservatory at late morning. Leaning slightly over a shallow tray, brushing an ammonite fossil with one hand while her other hand rests separately beside the tray. Complete face, forearms and both hands inside the waist-up crop; pale green window reflections.",
+      "outfit": "Sky-blue sleeveless square-neck cropped linen top, cream high-waisted shorts, and tiny spiral stud earrings; bare shoulders, arms and midriff. Contemporary hobby clothing, no armor.",
+      "custom": "1024x1536. Use the approved light image directly for face, hair and body. Both complete five-finger hands must be clearly visible and separate; no text.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "ui_verification": {
+        "length": 2698,
+        "fnv": "1acc21ab"
+      }
+    },
+    {
+      "name": "암나이트",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "cat": "swimwear",
+      "expr": "relieved",
+      "pose": "mid_stride",
+      "orient": "front_3q",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "Wading out of a clear shallow tropical lagoon at golden sunset, one foot lifted through ankle-deep water. Holding a compact snorkeling mask loosely at her side with one hand, the other open and relaxed separately. Entire head, both hands and feet visible; peach sun on ripples.",
+      "outfit": "Sky-blue and cream two-piece halter bikini with a small spiral clasp, slim waterproof sandals and a tiny shell bracelet. Beach swimwear, no armor.",
+      "custom": "1024x1536. Use the approved light image directly for face, hair and body. Both complete five-finger hands must be clearly visible and separate; no text.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "ui_verification": {
+        "length": 2840,
+        "fnv": "e8f8deb1"
+      }
+    },
+    {
+      "name": "암나이트",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "cat": "travel_exploration",
+      "expr": "pensive",
+      "pose": "checking_map",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "At a quiet hilltop astronomical observation terrace at blue midnight, body in side profile and face turned visibly toward the camera, opening an unlettered star chart at waist level with separated hands. Head through knees and both hands visible; silver moonlight and warm amber telescope-platform lamps.",
+      "outfit": "Cream sleeveless high-neck fitted mini dress with sky-blue pleated side panels and a small spiral belt buckle; bare arms and legs, flat ankle shoes. Travel evening fashion, no armor.",
+      "custom": "1024x1536. Use the approved light image directly for face, hair and body. Both complete five-finger hands must be clearly visible and separate; no text.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "ui_verification": {
+        "length": 2723,
+        "fnv": "3709c42d"
+      }
+    }
+  ],
+  "comparison": {
+    "reviewed": [
+      "부스터",
+      "강철톤",
+      "글라이거"
+    ],
+    "scope": "Read latest three plans and all nine submitted casual prompts; visually compared canonical light faces. New casual scenes change location, specific activity, garment silhouette and composition.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "canonical": {
+    "slot": "light",
+    "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-bc4e14d0-3bcf-41fa-842a-0f5922926e5c.png",
+    "source_sha256": "412f4caab924daca0f8d7590bc2a5b3849495b8cb38b09d4af01410cb5a3afd6",
+    "output": "img/암나이트_light_glossy_promo_f.webp",
+    "sha256": "66dc5139c922b4c4861ea290f1590018d31411060f400e02e7f1cf71d09d34a8",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+    "reference": [],
+    "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+  },
+  "tool": "built-in imagegen"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "암나이트",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "travel_exploration",
+  "expr": "pensive",
+  "pose": "checking_map",
+  "orient": "side",
+  "frame": "three_quarter",
+  "lens": "portrait85",
+  "scene": "At a quiet hilltop astronomical observation terrace at blue midnight, body in side profile and face turned visibly toward the camera, opening an unlettered star chart at waist level with separated hands. Head through knees and both hands visible; silver moonlight and warm amber telescope-platform lamps.",
+  "outfit": "Cream sleeveless high-neck fitted mini dress with sky-blue pleated side panels and a small spiral belt buckle; bare arms and legs, flat ankle shoes. Travel evening fashion, no armor.",
+  "custom": "1024x1536. Use the approved light image directly for face, hair and body. Both complete five-finger hands must be clearly visible and separate; no text.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "ui_verification": {
+    "length": 2723,
+    "fnv": "3709c42d"
+  }
+}

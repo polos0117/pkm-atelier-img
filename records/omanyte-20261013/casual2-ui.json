@@ -1,0 +1,22 @@
+{
+  "name": "암나이트",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "swimwear",
+  "expr": "relieved",
+  "pose": "mid_stride",
+  "orient": "front_3q",
+  "frame": "full_body",
+  "lens": "documentary35",
+  "scene": "Wading out of a clear shallow tropical lagoon at golden sunset, one foot lifted through ankle-deep water. Holding a compact snorkeling mask loosely at her side with one hand, the other open and relaxed separately. Entire head, both hands and feet visible; peach sun on ripples.",
+  "outfit": "Sky-blue and cream two-piece halter bikini with a small spiral clasp, slim waterproof sandals and a tiny shell bracelet. Beach swimwear, no armor.",
+  "custom": "1024x1536. Use the approved light image directly for face, hair and body. Both complete five-finger hands must be clearly visible and separate; no text.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "ui_verification": {
+    "length": 2840,
+    "fnv": "e8f8deb1"
+  }
+}

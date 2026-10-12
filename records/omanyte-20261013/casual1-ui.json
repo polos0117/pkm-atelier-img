@@ -1,0 +1,22 @@
+{
+  "name": "암나이트",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "hobbies_leisure",
+  "expr": "curious",
+  "pose": "bending_over",
+  "orient": "front",
+  "frame": "waist_up",
+  "lens": "natural50",
+  "scene": "A quiet fossil-cleaning hobby table in a sunlit conservatory at late morning. Leaning slightly over a shallow tray, brushing an ammonite fossil with one hand while her other hand rests separately beside the tray. Complete face, forearms and both hands inside the waist-up crop; pale green window reflections.",
+  "outfit": "Sky-blue sleeveless square-neck cropped linen top, cream high-waisted shorts, and tiny spiral stud earrings; bare shoulders, arms and midriff. Contemporary hobby clothing, no armor.",
+  "custom": "1024x1536. Use the approved light image directly for face, hair and body. Both complete five-finger hands must be clearly visible and separate; no text.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "ui_verification": {
+    "length": 2698,
+    "fnv": "1acc21ab"
+  }
+}
