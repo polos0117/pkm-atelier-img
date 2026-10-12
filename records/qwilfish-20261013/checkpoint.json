@@ -1,0 +1,24 @@
+{
+  "card": "침바루",
+  "state": "9/9 generated and inspected; pending remote publication",
+  "authoritative_light": "img/침바루_light_glossy_promo_f.webp",
+  "authoritative_light_sha256": "69638f50fad4b368a06879e5dac896631d91a5069b93204c84ec45431f6c558c",
+  "recoverable_assets": [
+    "img/침바루_light_glossy_promo_f.webp",
+    "img/침바루_heavy_glossy_promo_f.webp",
+    "img/침바루_mobility_glossy_promo_f.webp",
+    "img/침바루_light_overdrive_glossy_promo_f.webp",
+    "img/침바루_heavy_overdrive_glossy_promo_f.webp",
+    "img/침바루_mobility_overdrive_glossy_promo_f.webp",
+    "img/침바루_glossy_promo_f_casual1.webp",
+    "img/침바루_glossy_promo_f_casual2.webp",
+    "img/침바루_glossy_promo_f_casual3.webp"
+  ],
+  "stages": [
+    "light approved",
+    "heavy and mobility approved",
+    "three opened pairs approved",
+    "three casual scenes approved"
+  ],
+  "remote_commits": []
+}

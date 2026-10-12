@@ -1,0 +1,218 @@
+{
+  "card": "침바루",
+  "count": 9,
+  "tool": "built-in image_gen",
+  "generator": "actual Preact UI via repository DOM harness",
+  "face_design": {
+    "name": "침바루",
+    "en": "Qwilfish",
+    "line": "침바루",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "softly rounded",
+      "face length": "short",
+      "face width": "wide",
+      "jaw & chin": "soft rounded jaw",
+      "eye shape": "narrow",
+      "eye size": "medium",
+      "eye tilt": "level outer corners",
+      "eye spacing": "wide-set eyes",
+      "eyebrows": "angled brows",
+      "nose character": "rounded soft tip",
+      "lips": "full lips"
+    },
+    "why": "부풀린 몸과 가시 및 두툼한 입술의 대비를 둥근 얼굴 안의 날카로운 눈으로 해석한다.",
+    "cues": [
+      "‘spherical body’ → 얼굴형 부드럽고 둥근 얼굴형",
+      "‘spherical body’ → 얼굴 길이 짧은 얼굴",
+      "‘spherical body’ → 얼굴 폭 넓은 얼굴",
+      "‘spherical body’ → 턱선 · 턱끝 부드럽고 둥근 턱",
+      "‘sharp, conical spikes’ → 눈매 가늘고 날카로운 눈",
+      "몸 형태 fish → 눈 간격 눈 사이가 넓은"
+    ],
+    "adjusted": ""
+  },
+  "face_prompt": "FACE (her own structure, not the style's default face): softly rounded face, short length, wide width; soft rounded jaw; narrow eyes, medium size, level outer corners, wide-set; angled brows; rounded soft tip nose; full lips.",
+  "face_compared": [
+    "노고치",
+    "글라이거",
+    "강철톤",
+    "블루",
+    "그랑블루"
+  ],
+  "images": [
+    {
+      "card": "침바루",
+      "slot": "light",
+      "style": "glossy_promo",
+      "evidence": "actual Preact generator UI selections and recorded output",
+      "original": "/workspace/scratch/5442306146b2/generated_images/exec-56d9b339-19aa-48e1-bc1f-5b72829ad042.png",
+      "original_sha256": "7b7fb072c12a8860e0460a32002f4b75ec9cafce7ab366ceb052716f2c822893",
+      "file": "img/침바루_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "69638f50fad4b368a06879e5dac896631d91a5069b93204c84ec45431f6c558c",
+      "reference": null,
+      "prompt": "light.txt",
+      "ui": "light-ui.json",
+      "qa": "Inspected generated output: single adult, identity and hand continuity, crop, armor and opened pair; off-duty scenes visually distinct."
+    },
+    {
+      "card": "침바루",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "evidence": "actual Preact generator UI selections and recorded output",
+      "original": "/workspace/scratch/5442306146b2/generated_images/exec-ffb5099d-7536-4d4e-8de4-48a3a01dd48f.png",
+      "original_sha256": "a51544838d2aa685211a915585d86286bcb08f9798c3e0962c610f112d3faa39",
+      "file": "img/침바루_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4945586e08967f8cae9763124824e0d79d62deaa11e734cf1060669ecfe4c415",
+      "reference": "light",
+      "prompt": "heavy.txt",
+      "ui": "heavy-ui.json",
+      "qa": "Inspected generated output: single adult, identity and hand continuity, crop, armor and opened pair; off-duty scenes visually distinct."
+    },
+    {
+      "card": "침바루",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "evidence": "actual Preact generator UI selections and recorded output",
+      "original": "/workspace/scratch/5442306146b2/generated_images/exec-48b9a553-dd84-4580-ba69-0f24948c5d80.png",
+      "original_sha256": "638d2bc3df32f9354c50137a08acaf55d210e4687f974ce3a5d569084b02dff5",
+      "file": "img/침바루_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "14b9288c321a24595ad811d2cb5e964acecd4404e4e53fccdc6dd3293ab0c41f",
+      "reference": "light",
+      "prompt": "mobility.txt",
+      "ui": "mobility-ui.json",
+      "qa": "Inspected generated output: single adult, identity and hand continuity, crop, armor and opened pair; off-duty scenes visually distinct."
+    },
+    {
+      "card": "침바루",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "evidence": "actual Preact generator UI selections and recorded output",
+      "original": "/workspace/scratch/5442306146b2/generated_images/exec-0938341c-1ea0-47c9-a54c-f63e6f45149a.png",
+      "original_sha256": "372e51321f1f3a687e98c47645fb2ad00c317938b63be3b6f98bd5e29ebbe9e6",
+      "file": "img/침바루_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "a7daa5b2e84b2f7b41c15af24f43f7116ffce7a59d8dfd6a03c3355257de66cf",
+      "reference": "light",
+      "prompt": "light_overdrive.txt",
+      "ui": "light_overdrive-ui.json",
+      "qa": "Inspected generated output: single adult, identity and hand continuity, crop, armor and opened pair; off-duty scenes visually distinct."
+    },
+    {
+      "card": "침바루",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "evidence": "actual Preact generator UI selections and recorded output",
+      "original": "/workspace/scratch/5442306146b2/generated_images/exec-50497571-d97d-493d-a000-e33843fe5a43.png",
+      "original_sha256": "2157b44a99ce092a11ac8bd8e9ceceb3550a5e0be2c7e5ad24594030b4ce48d8",
+      "file": "img/침바루_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4291373255c05f3a8a3de166876b4c8675d3bc00e2fc474cca316d53d0f8a247",
+      "reference": "heavy",
+      "prompt": "heavy_overdrive.txt",
+      "ui": "heavy_overdrive-ui.json",
+      "qa": "Inspected generated output: single adult, identity and hand continuity, crop, armor and opened pair; off-duty scenes visually distinct."
+    },
+    {
+      "card": "침바루",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "evidence": "actual Preact generator UI selections and recorded output",
+      "original": "/workspace/scratch/5442306146b2/generated_images/exec-a3f080ac-0d07-4b82-bae8-8994abcaa18a.png",
+      "original_sha256": "183b6e271b7cfb9200a3e946a2b1fd56753e8e90a901fc01a9d69bd9f3799707",
+      "file": "img/침바루_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "d17e82868cc3e33e1dabd69f4a284586e42fe84d8ca5a924960e4e4ef655e4b6",
+      "reference": "mobility",
+      "prompt": "mobility_overdrive.txt",
+      "ui": "mobility_overdrive-ui.json",
+      "qa": "Inspected generated output: single adult, identity and hand continuity, crop, armor and opened pair; off-duty scenes visually distinct."
+    },
+    {
+      "card": "침바루",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "evidence": "actual Preact generator UI selections and recorded output",
+      "original": "/workspace/scratch/5442306146b2/generated_images/exec-b5c94a52-748a-4ea2-a187-32fcb9b694d8.png",
+      "original_sha256": "caa88b11d93630ee0416d53b8ce52bbfa94755a9bb5507fbb6760739766e6a29",
+      "file": "img/침바루_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "9e1fc2b9def764958886b4f8ac0f3b6783dea12b172174ea4ce510fea31ee22c",
+      "reference": "light",
+      "prompt": "casual1-correction.txt",
+      "ui": "casual1-correction-ui.json",
+      "qa": "Inspected generated output: single adult, identity and hand continuity, crop, armor and opened pair; off-duty scenes visually distinct.",
+      "correction": "Removed oversized tail-shaped cloth; preserved identity, pose and scene."
+    },
+    {
+      "card": "침바루",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "evidence": "actual Preact generator UI selections and recorded output",
+      "original": "/workspace/scratch/5442306146b2/generated_images/exec-05b497a0-df30-4869-a84f-bc0f58a3fbbc.png",
+      "original_sha256": "c1eb7a80cd282f0bc5abe625e14f22850bd388dbf24d07b1503963e2dc7dfbb6",
+      "file": "img/침바루_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "6cb04226c30ce3066a407eb60d69da1c7c74364bb6a16ccfe44ade2685acac44",
+      "reference": "light",
+      "prompt": "casual2.txt",
+      "ui": "casual2-ui.json",
+      "qa": "Inspected generated output: single adult, identity and hand continuity, crop, armor and opened pair; off-duty scenes visually distinct."
+    },
+    {
+      "card": "침바루",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "evidence": "actual Preact generator UI selections and recorded output",
+      "original": "/workspace/scratch/5442306146b2/generated_images/exec-c179ab98-8f40-4964-88a3-22ad4d875a8a.png",
+      "original_sha256": "67f1c7176b0634894d8d0eebc0d87b898e01d49259f9d1adf93e2fc1b05df3d2",
+      "file": "img/침바루_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "bedfb7429483f6509c9c427db8132fb28a3581f86e289cacdeb4f2f171e980a7",
+      "reference": "light",
+      "prompt": "casual3.txt",
+      "ui": "casual3-ui.json",
+      "qa": "Inspected generated output: single adult, identity and hand continuity, crop, armor and opened pair; off-duty scenes visually distinct."
+    }
+  ]
+}

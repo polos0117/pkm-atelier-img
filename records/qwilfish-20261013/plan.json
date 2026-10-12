@@ -1,0 +1,64 @@
+{
+  "name": "침바루",
+  "slug": "qwilfish",
+  "no": 211,
+  "params": {
+    "hair color": "teal",
+    "eye color": "pink",
+    "hairstyle": "space buns",
+    "hair length": "short",
+    "body type": "curvy",
+    "apparent age": "20s"
+  },
+  "expr": "unimpressed",
+  "motifs": "Rounded dark-teal and ivory armor surfaces; short conical spikes become compact plate-edge trim; flat paddle-shaped tail becomes a short split belt sash; two dark teal dots become circular ivory-panel markings; pink accents at the collar and pale metallic gray joints. Ordinary human face, no fish head or muzzle.",
+  "scene": "Aquatic mechanical hangar with glassy teal walls and ivory floor, muted pink instrument lights without lettering. Centered complete figure fills 86 percent of image height, face toward camera, both arms relaxed away from waist and both complete hands visible.",
+  "casual": [
+    {
+      "cat": "everyday_basic",
+      "expr": "mischievous",
+      "pose": "leaning_furniture",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "telephoto135",
+      "scene": "Empty harbor market fruit stall at late afternoon, body side-on with face toward camera, rolling a small lime on the counter with one open hand and other hand resting separately. Head to above knees, teal awning and warm sea reflections.",
+      "outfit": "Opaque ivory asymmetric sleeveless crop top with a secure neckline, high-waisted teal wrap shorts and tiny pink sphere earrings. Bare shoulders, arms, midriff and legs."
+    },
+    {
+      "cat": "swimwear",
+      "expr": "relieved",
+      "pose": "standing_formal",
+      "orient": "front",
+      "frame": "full_body",
+      "lens": "natural50",
+      "scene": "Empty rocky tidal cove at bright morning after a swim, standing on dry flat stone, holding a folded ivory beach towel low in one hand with the other relaxed open. Complete body and feet, clear shallow water and reflected sunlight.",
+      "outfit": "Opaque teal one-piece swimsuit with ivory side panels, secure pink shoulder straps and high-leg cut, tiny teal-dot pendant. Bare arms, shoulders and legs; covered chest and pelvis."
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "pensive",
+      "pose": "mid_action",
+      "orient": "front_3q",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "Private watercolor desk during a stormy evening, mixing teal watercolor on a shallow ceramic palette with one hand while other hand rests beside blank paper. Both hands separate and visible, pink desk light with cool window reflections.",
+      "outfit": "Opaque pink sleeveless button-front cropped vest with an ivory inner bandeau, high-waisted charcoal trousers and tiny conical silver hair pins. Bare arms and midriff."
+    }
+  ],
+  "comparison": {
+    "reviewed": [
+      "노고치",
+      "글라이거",
+      "강철톤",
+      "블루",
+      "그랑블루"
+    ],
+    "read": "plans and submitted casual prompts from accessible most recent image repository records",
+    "changed": [
+      "location",
+      "specific activity",
+      "outfit silhouette",
+      "composition"
+    ]
+  }
+}
