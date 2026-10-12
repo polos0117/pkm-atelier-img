@@ -1,0 +1,25 @@
+{
+  "name": "썬더",
+  "mech": "썬더",
+  "sourceName": "Zapdos",
+  "series": "electric / flying",
+  "style": "glossy_promo",
+  "identityMode": "reference",
+  "params": [],
+  "outputMode": "casual",
+  "cat": "source_editorial",
+  "expr": "mischievous",
+  "pose": "mid_stride",
+  "orient": "front",
+  "frame": "full_body",
+  "lens": "natural50",
+  "scene": "Empty city rooftop fashion terrace after dark with distant storm clouds and geometric white lights, taking a confident forward walking step, both arms naturally relaxed and hands visible. Complete head and shoes, no lettering or logos.",
+  "outfit": "Original fashion editorial: yellow sleeveless short structured blazer over an opaque black bralette, high-waisted orange pleated mini skirt and black ankle boots, small lightning pendant. Bare arms and midriff; no armor, no cape.",
+  "custom": "1024x1536 vertical. Keep the same adult woman as the light reference. Both hands entirely inside the selected crop, visibly connected to forearms and each with five distinct fingers. Only small species accessories, no large crest, feathers, armor or weapons.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "uiVerified": true,
+  "fnv": 2641587359
+}

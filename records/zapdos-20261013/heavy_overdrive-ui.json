@@ -1,0 +1,14 @@
+{
+  "name": "썬더",
+  "mech": "썬더",
+  "sourceName": "Zapdos",
+  "series": "electric / flying",
+  "style": "glossy_promo",
+  "identityMode": "reference",
+  "params": [],
+  "outputMode": "action",
+  "form": "overdrive",
+  "baseForm": "heavy",
+  "uiVerified": true,
+  "fnv": 4026863721
+}

@@ -1,0 +1,191 @@
+[
+  {
+    "card": "썬더",
+    "slot": "light",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "actual generator UI; submitted prompt preserved verbatim",
+    "original": "/workspace/scratch/5a557544659b/generated_images/exec-d267e462-e99e-494e-86dc-a6fa842684f6.png",
+    "original_sha256": "c8b96d05f8103c2b9fcc30f0623cd77aca0254869ae798b787cad57b34dbe6ab",
+    "output": "img/썬더_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "0a88085ca7806c775c133cf691f17ea0177d2f8acfc8b809c1ee4159311bed20",
+    "reference": null,
+    "reference_sha256": null,
+    "edit_target": null,
+    "submitted_prompt": "light.txt",
+    "prompt_sha256": "0bffb639c79faae5724830d2f52b42d91b3b0a1bf07b6de71212a9ce6eef3ea0"
+  },
+  {
+    "card": "썬더",
+    "slot": "heavy",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "actual generator UI; submitted prompt preserved verbatim",
+    "original": "/workspace/scratch/5a557544659b/generated_images/exec-57b25bb2-32e3-409b-929a-08cc54d2f00e.png",
+    "original_sha256": "0515a6495abb8a11562217f657a498aae06767561c6c32a5ef5b32ef1230d70f",
+    "output": "img/썬더_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "97b0f74c10f6dd21939fadf5a428599f90362653d42ea59a4df57c0cb88aa943",
+    "reference": "img/썬더_light_glossy_promo_f.webp",
+    "reference_sha256": "0a88085ca7806c775c133cf691f17ea0177d2f8acfc8b809c1ee4159311bed20",
+    "edit_target": null,
+    "submitted_prompt": "heavy.txt",
+    "prompt_sha256": "89c5d136e1804590c55a6ce5371f802c6e1c26a13ec1d421c830a880fb49b909"
+  },
+  {
+    "card": "썬더",
+    "slot": "mobility",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "actual generator UI; submitted prompt preserved verbatim",
+    "original": "/workspace/scratch/5a557544659b/generated_images/exec-5dd05f88-a6cd-425a-a943-3dddbc502d6d.png",
+    "original_sha256": "3be3afec1f8c5fcd452ac6e029cba6f128152d4da88f6ecb28f9184af2f3adf0",
+    "output": "img/썬더_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "50d1e14d8ed2d6b221b2e844e4b06c5ed423a7845404f0d6d9d2add56c963871",
+    "reference": "img/썬더_light_glossy_promo_f.webp",
+    "reference_sha256": "0a88085ca7806c775c133cf691f17ea0177d2f8acfc8b809c1ee4159311bed20",
+    "edit_target": null,
+    "submitted_prompt": "mobility.txt",
+    "prompt_sha256": "ecea9f7ce4d243f8be7a94570f14d70674d07c238450aa9c7d3b34569fbac665"
+  },
+  {
+    "card": "썬더",
+    "slot": "light_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "actual generator UI; submitted prompt preserved verbatim",
+    "original": "/workspace/scratch/5a557544659b/generated_images/exec-ed76bfb4-4af4-4e4e-9122-11dc6a681ffb.png",
+    "original_sha256": "1534151af0a6fab52fd5294eeba0bdefe309758da146699d35a5bac9d33e7144",
+    "output": "img/썬더_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "ee3609083bc041a58f6ee8846b4c76ffbb3f14a8a273d364a549f0574b53ebc1",
+    "reference": "img/썬더_light_glossy_promo_f.webp",
+    "reference_sha256": "0a88085ca7806c775c133cf691f17ea0177d2f8acfc8b809c1ee4159311bed20",
+    "edit_target": null,
+    "submitted_prompt": "light_overdrive.txt",
+    "prompt_sha256": "f34dda8c6c39110c0543d2b6b97ecaeb3fdc0146449fe52b7fb3f78b4c6af1ec"
+  },
+  {
+    "card": "썬더",
+    "slot": "heavy_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "actual generator UI; submitted prompt preserved verbatim",
+    "original": "/workspace/scratch/5a557544659b/generated_images/exec-cb5acfe8-702b-40a0-a672-6d24f351bc3c.png",
+    "original_sha256": "454a9ee71124659fe65e9e47be858a27b5766f369db655a186a16f7844935068",
+    "output": "img/썬더_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "4387ec841d525a7bc7f37f087a2dc448ae1ee1d5eb33353a3f8ee8d8eec709c8",
+    "reference": "img/썬더_heavy_glossy_promo_f.webp",
+    "reference_sha256": "97b0f74c10f6dd21939fadf5a428599f90362653d42ea59a4df57c0cb88aa943",
+    "edit_target": null,
+    "submitted_prompt": "heavy_overdrive.txt",
+    "prompt_sha256": "7be638100d81cf78ee3a25a744e68d8d5237b89ca90c5c842a0b0c1ce6aeee5f"
+  },
+  {
+    "card": "썬더",
+    "slot": "mobility_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "actual generator UI; submitted prompt preserved verbatim",
+    "original": "/workspace/scratch/5a557544659b/generated_images/exec-40913358-8b30-488a-a835-cc9b9c41bba4.png",
+    "original_sha256": "e38069e4dfb66e0b0dd1e19ea623bcab2b18c1f6411ba4fc4ce6e0db43289664",
+    "output": "img/썬더_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "4aa8c212011755f4e4dcc58c72715a2a931935ba5e311670667b469cfd66ec6c",
+    "reference": "img/썬더_mobility_glossy_promo_f.webp",
+    "reference_sha256": "50d1e14d8ed2d6b221b2e844e4b06c5ed423a7845404f0d6d9d2add56c963871",
+    "edit_target": null,
+    "submitted_prompt": "mobility_overdrive.txt",
+    "prompt_sha256": "63127c7e538add68411b7e2bc92635c29ae756fa36a55898d5dde674bb0b1460"
+  },
+  {
+    "card": "썬더",
+    "slot": "casual1",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "actual generator UI; submitted prompt preserved verbatim",
+    "original": "/workspace/scratch/5a557544659b/generated_images/exec-9029d504-f5df-4a4f-9c1a-a497bc0ee017.png",
+    "original_sha256": "f7b6aa317024185288e46b7b832d5b995546ba7d9544cb10f9a6487f1350717d",
+    "output": "img/썬더_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "1b34c015bd2d9163a3e787828c24719b3323a60eccd57ff68f07d88d93489ecc",
+    "reference": "img/썬더_light_glossy_promo_f.webp",
+    "reference_sha256": "0a88085ca7806c775c133cf691f17ea0177d2f8acfc8b809c1ee4159311bed20",
+    "edit_target": null,
+    "submitted_prompt": "casual1.txt",
+    "prompt_sha256": "3a176a58619ed819c9f493f11db4317b7fa557164915b99f013b18ab87e5bda9"
+  },
+  {
+    "card": "썬더",
+    "slot": "casual3",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "actual generator UI; submitted prompt preserved verbatim",
+    "original": "/workspace/scratch/5a557544659b/generated_images/exec-fc8ef97b-85ee-4ad6-a007-f1de45913861.png",
+    "original_sha256": "f575f7b670a1ec1396095161be2a8746c1b999d7564f977c7f16d0ccc9faf2b4",
+    "output": "img/썬더_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "d2d429525b04ba4cb1e63719af2a2d32154115bee5daf82a724223a912b48f30",
+    "reference": "img/썬더_light_glossy_promo_f.webp",
+    "reference_sha256": "0a88085ca7806c775c133cf691f17ea0177d2f8acfc8b809c1ee4159311bed20",
+    "edit_target": null,
+    "submitted_prompt": "casual3.txt",
+    "prompt_sha256": "bc25c05fcc2a54d464b97d9fae6ab3d5cdb78f89b79c272567776478b82ecf55"
+  },
+  {
+    "card": "썬더",
+    "slot": "casual2",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "actual generator UI; submitted prompt preserved verbatim",
+    "original": "/workspace/scratch/5a557544659b/generated_images/exec-a3fb083e-13a2-4310-853a-a6d6ec598871.png",
+    "original_sha256": "52fdf4107dabf5419e709f275894ad0e7ad52ae32c9b9d77d167d2c965e3d314",
+    "output": "img/썬더_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "3292869b2ee4e2ea22abb7100f5748d975e2b9a864d6bd1828a9904e8fecece0",
+    "reference": "img/썬더_light_glossy_promo_f.webp",
+    "reference_sha256": "0a88085ca7806c775c133cf691f17ea0177d2f8acfc8b809c1ee4159311bed20",
+    "edit_target": "/workspace/scratch/5a557544659b/generated_images/exec-c6ac9c4b-ec75-49b4-87c9-17b2cb5c8e70.png",
+    "submitted_prompt": "casual2-correction.txt",
+    "prompt_sha256": "2e7864fbdafa9d0383e9797bee56b7c929ffe2ad738f8afa193be9dc379495fd"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "썬더",
+  "mech": "썬더",
+  "sourceName": "Zapdos",
+  "series": "electric / flying",
+  "style": "glossy_promo",
+  "identityMode": "reference",
+  "params": [],
+  "outputMode": "casual",
+  "cat": "hobbies_leisure",
+  "expr": "curious",
+  "pose": "bending_over",
+  "orient": "side",
+  "frame": "waist_up",
+  "lens": "documentary35",
+  "scene": "Private vintage-audio workbench at rainy noon, leaning sideways and face turned toward camera while adjusting a small unlettered analog dial with one hand; other hand rests separately on the tabletop. Both forearms and hands visible, amber task lamp and diffuse window light.",
+  "outfit": "Opaque black sleeveless square-neck ribbed top with a yellow cropped open vest and high-waisted orange shorts, tiny lightning stud earrings. Bare arms and midriff.",
+  "custom": "1024x1536 vertical. Keep the same adult woman as the light reference. Both hands entirely inside the selected crop, visibly connected to forearms and each with five distinct fingers. Only small species accessories, no large crest, feathers, armor or weapons.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "uiVerified": true,
+  "fnv": 2460116070
+}

@@ -1,0 +1,25 @@
+{
+  "name": "썬더",
+  "mech": "썬더",
+  "sourceName": "Zapdos",
+  "series": "electric / flying",
+  "style": "glossy_promo",
+  "identityMode": "reference",
+  "params": [],
+  "outputMode": "casual",
+  "cat": "swimwear",
+  "expr": "relieved",
+  "pose": "leaning_furniture",
+  "orient": "front_3q",
+  "frame": "three_quarter",
+  "lens": "telephoto135",
+  "scene": "Alone at a remote waterfall plunge-pool overlook at sunset, leaning lightly against a smooth stone ledge after swimming. Both relaxed hands resting separately on the ledge, shoulders to upper knees visible with complete head. Warm orange water reflections.",
+  "outfit": "Opaque yellow-and-black sporty two-piece swimsuit with secure wide straps and high-waisted bottoms, tiny orange bead anklet. Bare shoulders, arms, waist and legs; chest and pelvis covered.",
+  "custom": "Image 1 is the approved light character for identity. Image 2 is the off-duty waterfall scene to edit. Change only her anatomical left forearm and hand on the viewer right: move them slightly inward so every fingertip is fully inside the picture with at least 35 pixels of clear edge margin. Keep the hand resting naturally on the stone ledge, with one thumb and four distinct fingers. Preserve face, hair, body, swimsuit, the other hand, camera, crop, background and lighting exactly. 1024x1536.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "uiVerified": true,
+  "fnv": 2539155754
+}

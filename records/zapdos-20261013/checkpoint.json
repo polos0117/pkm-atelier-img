@@ -1,0 +1,74 @@
+{
+  "name": "썬더",
+  "date": "2026-10-13",
+  "style": "glossy_promo",
+  "tool": "built-in image_gen",
+  "status": "verified locally; publication pending",
+  "completed": 9,
+  "required": 9,
+  "approved_light": {
+    "card": "썬더",
+    "slot": "light",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "actual generator UI; submitted prompt preserved verbatim",
+    "original": "/workspace/scratch/5a557544659b/generated_images/exec-d267e462-e99e-494e-86dc-a6fa842684f6.png",
+    "original_sha256": "c8b96d05f8103c2b9fcc30f0623cd77aca0254869ae798b787cad57b34dbe6ab",
+    "output": "img/썬더_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "0a88085ca7806c775c133cf691f17ea0177d2f8acfc8b809c1ee4159311bed20",
+    "reference": null,
+    "reference_sha256": null,
+    "edit_target": null,
+    "submitted_prompt": "light.txt",
+    "prompt_sha256": "0bffb639c79faae5724830d2f52b42d91b3b0a1bf07b6de71212a9ce6eef3ea0"
+  },
+  "face_design": {
+    "name": "썬더",
+    "en": "Zapdos",
+    "line": "썬더",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "sharp",
+      "face length": "balanced",
+      "face width": "medium",
+      "jaw & chin": "narrow tapered chin",
+      "eye shape": "sharp",
+      "eye size": "medium",
+      "eye tilt": "upturned outer corners",
+      "eye spacing": "average eye spacing",
+      "eyebrows": "angled brows",
+      "nose character": "long nose with low tip",
+      "lips": "thin lips"
+    },
+    "why": "번개 깃과 작은 삼각 눈을 높은 광대와 날카로운 긴 눈으로 옮긴다.",
+    "cues": [
+      "‘small, triangular eyes’ → 눈매 강하게 치켜올라간 눈",
+      "‘small, triangular eyes’ → 눈꼬리 각도 올라간 눈꼬리",
+      "‘small, triangular eyes’ → 눈썹 바깥에서 꺾이는 사선"
+    ],
+    "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 눈 간격 눈 사이가 가까운 → 눈 하나 너비 안팎"
+  },
+  "face_comparisons": [
+    "프리져",
+    "나무지기",
+    "침바루"
+  ],
+  "face_review": "Compared visible human facial structure, ignoring hair and ornament color: jaw/cheek width, eye shape and slope, nose and lip proportions. Same identity retained across this character set.",
+  "casual_comparisons": [
+    "나무지기",
+    "침바루",
+    "투구푸스",
+    "프리져"
+  ],
+  "casual_diversity": "Compared saved plans and submitted prompts from recent characters. Planned distinct places, activities, clothing silhouettes, times, lights, expression/pose/orientation/framing/lens choices; changed at least three of place/activity/clothing/composition from similar candidates. All three scenes retain strong overall intensity and bold skin exposure.",
+  "image_review": "Single adult woman; same face/hair/body; no weapons or lettering; complete connected hands and five natural digits each; 2:3. Closed/opened pairs retain camera, pose and subject scale. Three casual locations/actions/clothing silhouettes differ.",
+  "image_commit": null,
+  "registration_commit": null,
+  "thumbnail_commit": null
+}

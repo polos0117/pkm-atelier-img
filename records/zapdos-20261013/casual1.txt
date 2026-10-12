@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Zapdos (썬더) personified, electric / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted
+Pose: Bend forward slightly to examine or reach a low object with a balanced stance.
+Orientation: side body profile, approximately 90 degrees to camera
+Scene: Private vintage-audio workbench at rainy noon, leaning sideways and face turned toward camera while adjusting a small unlettered analog dial with one hand; other hand rests separately on the tabletop. Both forearms and hands visible, amber task lamp and diffuse window light.
+Outfit and props: Opaque black sleeveless square-neck ribbed top with a yellow cropped open vest and high-waisted orange shorts, tiny lightning stud earrings. Bare arms and midriff.
+Category: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.
+Note: 1024x1536 vertical. Keep the same adult woman as the light reference. Both hands entirely inside the selected crop, visibly connected to forearms and each with five distinct fingers. Only small species accessories, no large crest, feathers, armor or weapons.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+Lens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

@@ -1,0 +1,16 @@
+{
+  "name": "썬더",
+  "mech": "썬더",
+  "sourceName": "Zapdos",
+  "series": "electric / flying",
+  "style": "glossy_promo",
+  "identityMode": "reference",
+  "params": [],
+  "outputMode": "action",
+  "form": "mobility",
+  "expr": "confident",
+  "scene": "A storm-observation platform on a rugged highland in late-afternoon golden light, distant thunderclouds. Centered adult woman occupies 86 percent of image height; complete head and boots, face toward camera, both arms away from hips and hands relaxed open.",
+  "custom": "1024x1536 vertical. No weapons. Keep subject height at 86 percent of image height across all three closed cards. Both hands relaxed open, each with five clearly separated fingers.",
+  "uiVerified": true,
+  "fnv": 4093618466
+}

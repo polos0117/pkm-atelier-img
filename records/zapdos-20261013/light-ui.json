@@ -1,0 +1,33 @@
+{
+  "name": "썬더",
+  "mech": "썬더",
+  "sourceName": "Zapdos",
+  "series": "electric / flying",
+  "style": "glossy_promo",
+  "identityMode": "create",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ],
+    [
+      "hair color",
+      "blonde"
+    ],
+    [
+      "hairstyle",
+      "wolf cut"
+    ],
+    [
+      "hair length",
+      "short"
+    ]
+  ],
+  "outputMode": "action",
+  "form": "light",
+  "expr": "confident",
+  "scene": "A storm-observation platform on a rugged highland in late-afternoon golden light, distant thunderclouds. Centered adult woman occupies 86 percent of image height; complete head and boots, face toward camera, both arms away from hips and hands relaxed open.",
+  "custom": "1024x1536 vertical. No weapons. Angular yellow and black lightning-feather armor trim, subtle orange accents, a compact crest ornament. Both hands have exactly five clearly separated natural fingers.",
+  "uiVerified": true,
+  "fnv": 3945444669
+}
