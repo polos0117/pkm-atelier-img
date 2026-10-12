@@ -1,0 +1,94 @@
+{
+  "mech": "이브이",
+  "sourceName": "Eevee",
+  "series": "normal",
+  "sourceAppearance": {
+    "name": "이브이",
+    "en": "Eevee",
+    "color": "brown",
+    "shape": "quadruped",
+    "features": [
+      {
+        "part": "tail",
+        "detail": "bushy tail"
+      },
+      {
+        "part": "collar",
+        "detail": "large furry collar"
+      },
+      {
+        "part": "fur",
+        "detail": "primarily brown fur"
+      },
+      {
+        "part": "nose",
+        "detail": "small black nose"
+      },
+      {
+        "part": "leg",
+        "detail": "short, slender legs"
+      },
+      {
+        "part": "ear",
+        "detail": "long pointed ears"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Eevee_%28Pok%C3%A9mon%29",
+    "revision": 4632009,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "edd70ef986377590e1d5a49c4b875f4655c80f2d261a4b11fe2468c5ace96e23",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "faceDesign": {
+    "name": "이브이",
+    "en": "Eevee",
+    "line": "이브이",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "heart-shaped",
+      "face length": "balanced",
+      "face width": "medium",
+      "jaw & chin": "narrow tapered chin",
+      "eye shape": "large",
+      "eye size": "medium",
+      "eye tilt": "level outer corners",
+      "eye spacing": "wide-set eyes",
+      "eyebrows": "fine soft arches",
+      "nose character": "small delicate nose",
+      "lips": "bow-shaped upper lip"
+    },
+    "why": "작은 여우형 얼굴과 목의 풍성한 털을 작은 턱과 부드러운 볼로 해석한다.",
+    "cues": [
+      "몸 형태 quadruped → 눈 간격 눈 사이가 넓은",
+      "‘small black nose’ → 코 작고 여린 코"
+    ],
+    "adjusted": ""
+  },
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "form": "light",
+  "cat": "lingerie",
+  "expr": "soft_smile",
+  "pose": "standing_relaxed",
+  "orient": "front",
+  "frame": "waist_up",
+  "lens": "portrait85",
+  "scene": "Standing at an empty vintage dressing vanity in a private room at late morning, arranging a tiny cream ribbon on the tabletop with both hands separated and fully visible within waist-up crop. Warm bounced window light, plain wooden drawers and no mirror reflections of another figure.",
+  "outfit": "Opaque lined cream satin square-neck camisole with broad straps and brown lace edging, high-waisted brown satin lounge shorts, a light cream robe loosely behind the elbows, tiny amber earrings. Adult lingerie-inspired lounge fashion, bare shoulders and arms, fully covered chest and pelvis; no armor.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "slot": "casual2",
+  "custom": "1024x1536 vertical. Preserve the approved adult face and haircut. Both complete hands visibly connect to their respective forearms, with one thumb and four separate natural fingers each. No weapons, text, logos or extra figures."
+}

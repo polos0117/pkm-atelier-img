@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Eevee (이브이) personified, normal type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed
+Pose: Capture a clear mid-stride step with believable weight transfer.
+Orientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together
+Scene: Taking a small step through an empty lantern-festival courtyard at blue dusk, gently carrying one unlettered amber paper lantern by its simple handle with one hand, other hand open and separate. Head through knees, both complete hands clear; softly glowing lantern strings and cobblestones, no crowd.
+Outfit and props: Opaque chocolate one-shoulder fitted top, high-waisted cream A-line miniskirt over fully covering brown shorts, tan ankle sandals and tiny cream feather earrings. Bare shoulder, arms and legs, chest and pelvis covered; original festival fashion without armor.
+Category: Show one moment attending a Pokémon-world festival or contest, with an identifiable activity and event props. Preserve the approved identity and let the selected scene determine clothing and mood.
+Note: 1024x1536 vertical. Preserve the approved adult face and haircut. No large ear headpieces, armor, tail sash or creature costume: retain only tiny cream feather earrings as the motif. Frame from the complete head to just above the knees, both hands fully visible, no feet in this knee-up composition. Both complete hands visibly connect to their respective forearms, with one thumb and four separate natural fingers each. No weapons, text, logos or extra figures.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

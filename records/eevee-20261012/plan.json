@@ -1,0 +1,73 @@
+{
+  "card": "이브이",
+  "date": "2026-10-12",
+  "style": "glossy_promo",
+  "casual": [
+    {
+      "cat": "travel_exploration",
+      "expr": "curious",
+      "pose": "walking",
+      "orient": "side",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "Walking side-on beside a cream touring bicycle on an empty alpine meadow path at crisp sunrise, turning her face toward camera, one hand on a handlebar and the other open beside her thigh. Full head, hands and walking shoes visible. Wildflowers and distant mountains, no signs.",
+      "outfit": "Opaque brown sleeveless utility romper with high-waisted shorts, an open cream cropped wind vest, tan hiking sneakers and a small leaf-shaped pendant. Bare arms and legs, secure chest and pelvis coverage; everyday travel clothing, no armor or large ears."
+    },
+    {
+      "cat": "lingerie",
+      "expr": "soft_smile",
+      "pose": "standing_relaxed",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "Standing at an empty vintage dressing vanity in a private room at late morning, arranging a tiny cream ribbon on the tabletop with both hands separated and fully visible within waist-up crop. Warm bounced window light, plain wooden drawers and no mirror reflections of another figure.",
+      "outfit": "Opaque lined cream satin square-neck camisole with broad straps and brown lace edging, high-waisted brown satin lounge shorts, a light cream robe loosely behind the elbows, tiny amber earrings. Adult lingerie-inspired lounge fashion, bare shoulders and arms, fully covered chest and pelvis; no armor."
+    },
+    {
+      "cat": "festivals_contests",
+      "expr": "amused",
+      "pose": "mid_stride",
+      "orient": "front_3q",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "Taking a small step through an empty lantern-festival courtyard at blue dusk, gently carrying one unlettered amber paper lantern by its simple handle with one hand, other hand open and separate. Head through knees, both complete hands clear; softly glowing lantern strings and cobblestones, no crowd.",
+      "outfit": "Opaque chocolate one-shoulder fitted top, high-waisted cream A-line miniskirt over fully covering brown shorts, tan ankle sandals and tiny cream feather earrings. Bare shoulder, arms and legs, chest and pelvis covered; original festival fashion without armor."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "reviewed": [
+      "잉어킹",
+      "갸라도스",
+      "라프라스",
+      "메타몽"
+    ],
+    "scope": "Read plans and nine submitted recent prompts; compared this batch's plans sequentially.",
+    "changed": [
+      "location",
+      "specific activity",
+      "outfit silhouette",
+      "composition"
+    ]
+  },
+  "face": {
+    "sources": [
+      "data/face-design.json#133",
+      "data/source-appearance.json"
+    ],
+    "canonical": "light",
+    "comparison_observed": [
+      "메타몽",
+      "이브이",
+      "샤미드",
+      "잉어킹",
+      "갸라도스",
+      "라프라스",
+      "에브이",
+      "블래키"
+    ]
+  }
+}

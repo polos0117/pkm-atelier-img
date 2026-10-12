@@ -1,0 +1,18 @@
+INPUT: the attached image is the approved character; keep her.
+
+SOURCE: Eevee (이브이), normal type.
+
+STYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.
+
+FORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.
+
+OUTPUT: the LIGHT form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.
+
+Chosen settings below override the default stance and camera; her identity and form stay fixed.
+Note: 1024x1536. Framing correction only: preserve the attached face, hair, body, armor, pose and setting. Pull the camera back slightly so BOTH COMPLETE ear ornaments including their pointed tips, all hair, head and both complete boots are inside the image with clear margins. Entire figure including tall ear ornaments occupies approximately 86 percent of canvas height. Do not crop any head ornament. Keep both five-digit hands exactly. No weapon.
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.

@@ -1,0 +1,82 @@
+{
+  "mech": "이브이",
+  "sourceName": "Eevee",
+  "series": "normal",
+  "sourceAppearance": {
+    "name": "이브이",
+    "en": "Eevee",
+    "color": "brown",
+    "shape": "quadruped",
+    "features": [
+      {
+        "part": "tail",
+        "detail": "bushy tail"
+      },
+      {
+        "part": "collar",
+        "detail": "large furry collar"
+      },
+      {
+        "part": "fur",
+        "detail": "primarily brown fur"
+      },
+      {
+        "part": "nose",
+        "detail": "small black nose"
+      },
+      {
+        "part": "leg",
+        "detail": "short, slender legs"
+      },
+      {
+        "part": "ear",
+        "detail": "long pointed ears"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Eevee_%28Pok%C3%A9mon%29",
+    "revision": 4632009,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "edd70ef986377590e1d5a49c4b875f4655c80f2d261a4b11fe2468c5ace96e23",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "faceDesign": {
+    "name": "이브이",
+    "en": "Eevee",
+    "line": "이브이",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "heart-shaped",
+      "face length": "balanced",
+      "face width": "medium",
+      "jaw & chin": "narrow tapered chin",
+      "eye shape": "large",
+      "eye size": "medium",
+      "eye tilt": "level outer corners",
+      "eye spacing": "wide-set eyes",
+      "eyebrows": "fine soft arches",
+      "nose character": "small delicate nose",
+      "lips": "bow-shaped upper lip"
+    },
+    "why": "작은 여우형 얼굴과 목의 풍성한 털을 작은 턱과 부드러운 볼로 해석한다.",
+    "cues": [
+      "몸 형태 quadruped → 눈 간격 눈 사이가 넓은",
+      "‘small black nose’ → 코 작고 여린 코"
+    ],
+    "adjusted": ""
+  },
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "outputMode": "action",
+  "identityMode": "create",
+  "form": "overdrive",
+  "baseForm": "light",
+  "slot": "light_overdrive"
+}
