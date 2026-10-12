@@ -1,0 +1,90 @@
+{
+  "settings": {
+    "mech": "뮤츠",
+    "outputMode": "action",
+    "identityMode": "reference",
+    "form": "overdrive",
+    "params": [
+      [
+        "apparent age",
+        "20s"
+      ]
+    ],
+    "expr": "serious",
+    "scene": "A quiet futuristic psychic research chamber with silver architectural curves and faint purple floor lighting.",
+    "camera": "Keep the entire adult woman head-to-toe at about 85% of frame height with clear head and foot margins; 1024x1536.",
+    "baseForm": "heavy",
+    "sourceName": "Mewtwo",
+    "series": "psychic",
+    "sourceAppearance": {
+      "name": "뮤츠",
+      "en": "Mewtwo",
+      "color": "purple",
+      "shape": "upright",
+      "features": [
+        {
+          "part": "tail",
+          "detail": "long, purple tail"
+        },
+        {
+          "part": "horn",
+          "detail": "two short, blunt, ear-like horns"
+        },
+        {
+          "part": "bulb",
+          "detail": "small bulb"
+        },
+        {
+          "part": "body",
+          "detail": "gray body"
+        },
+        {
+          "part": "chest",
+          "detail": "defined chest"
+        },
+        {
+          "part": "tip",
+          "detail": "spherical tips"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Mewtwo_%28Pok%C3%A9mon%29",
+      "revision": 4630308,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "bc3f23a9a1a5b848849543758e4bec136f53218c5d1526356047d5680cda97ca",
+      "method": "text-descriptor-extraction-v1",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "faceDesign": {
+      "name": "뮤츠",
+      "en": "Mewtwo",
+      "line": "뮤츠",
+      "how": "species",
+      "registered": false,
+      "face": {
+        "face shape": "angular",
+        "face length": "long",
+        "face width": "narrow",
+        "jaw & chin": "long chin with defined jaw",
+        "eye shape": "narrow",
+        "eye size": "small",
+        "eye tilt": "level outer corners",
+        "eye spacing": "close-set eyes",
+        "eyebrows": "straight medium brows",
+        "nose character": "balanced nose",
+        "lips": "thin lips"
+      },
+      "why": "유전 실험에서 태어난 인공적인 긴장을 길고 정돈된 얼굴과 깊은 눈매로 해석한다.",
+      "cues": [
+        "‘two short, blunt, ear-like horns’ → 얼굴형 각지고 선명한 얼굴형",
+        "‘two short, blunt, ear-like horns’ → 눈매 가늘고 날카로운 눈",
+        "‘two short, blunt, ear-like horns’ → 입술 얇은 입술"
+      ],
+      "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 얼굴형 길고 세련된 얼굴형 → 각지고 선명한 얼굴형, 눈 간격 눈 하나 너비 안팎 → 눈 사이가 가까운"
+    },
+    "style": "glossy_promo",
+    "aspect": "2:3"
+  },
+  "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Mewtwo (뮤츠), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a magenta glow with floating rings of light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+  "provenance": "Selected in actual generator UI and read final prompt before submission"
+}

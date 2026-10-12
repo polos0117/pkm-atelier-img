@@ -1,0 +1,128 @@
+{
+  "character": "뮤츠",
+  "style": "glossy_promo",
+  "completed": 9,
+  "requested": 9,
+  "assets": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/9baf28fffc5e/generated_images/exec-9c6739ba-af1d-431e-8ab1-9119642c2b7d.png",
+      "file": "img/뮤츠_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "daf4d656b97969e3115afffd762f2d23d221218c58262bc1f449014946630bb1",
+      "reference": null,
+      "review": "Full body, both hands, same character, no weapon/text; opened pairs retain composition."
+    },
+    {
+      "slot": "heavy",
+      "source": "/workspace/scratch/9baf28fffc5e/generated_images/exec-e81ce210-c597-4441-bd05-c1571e4e44f1.png",
+      "file": "img/뮤츠_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "9a06682de4aad1bfcadbe0e41b69bac9dc691fe8affa6e2d7bad44551604c0af",
+      "reference": "light",
+      "review": "Full body, both hands, same character, no weapon/text; opened pairs retain composition."
+    },
+    {
+      "slot": "mobility",
+      "source": "/workspace/scratch/9baf28fffc5e/generated_images/exec-8682feb7-055a-439b-884d-be7409b20afd.png",
+      "file": "img/뮤츠_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "fa3f2eff227390b057ef4906e74c941926cbdf8ea837f40e4e68f6760774170c",
+      "reference": "light",
+      "review": "Full body, both hands, same character, no weapon/text; opened pairs retain composition."
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "/workspace/scratch/9baf28fffc5e/generated_images/exec-42d7c1dc-e74d-4fcf-889a-a590389a4e5a.png",
+      "file": "img/뮤츠_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "51a0fa3bde6f49c9c4b999c2dc5f5a680aab89c5adc70f40b6391775cbc88a88",
+      "reference": "light",
+      "review": "Full body, both hands, same character, no weapon/text; opened pairs retain composition."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "source": "/workspace/scratch/9baf28fffc5e/generated_images/exec-4e466520-27ad-451a-824e-b4e276c38cf4.png",
+      "file": "img/뮤츠_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "47b0112444bef48a1cf11c3e98a520974079e7bce2a14ef173022a93678dc09e",
+      "reference": "heavy",
+      "review": "Full body, both hands, same character, no weapon/text; opened pairs retain composition."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "source": "/workspace/scratch/9baf28fffc5e/generated_images/exec-f0723207-4995-4564-bfc2-396615d2ccc7.png",
+      "file": "img/뮤츠_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "41151a80d08cefbd0e6f172f8262a6d3d4bd486969875df66e1a9982c2c12184",
+      "reference": "mobility",
+      "review": "Full body, both hands, same character, no weapon/text; opened pairs retain composition."
+    },
+    {
+      "slot": "casual1",
+      "source": "/workspace/scratch/9baf28fffc5e/generated_images/exec-59739859-7eb7-489c-80b4-fe60e85eb241.png",
+      "file": "img/뮤츠_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "5e244a23444093bc6f8db0ef164fe0f22e80513e0b0d5d74e6c964983b045b18",
+      "reference": "light",
+      "review": "Same adult identity; both hands inside crop and connected, varied activity/outfit/composition, no armor."
+    },
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/9baf28fffc5e/generated_images/exec-6f39238a-47ea-450c-851e-16fc9455e585.png",
+      "file": "img/뮤츠_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "5f9e99c92100d861d1c68239be58a6f8616b5dc8d4a7847935cc09e6558fc323",
+      "reference": "light",
+      "review": "Same adult identity; both hands inside crop and connected, varied activity/outfit/composition, no armor."
+    },
+    {
+      "slot": "casual3",
+      "source": "/workspace/scratch/9baf28fffc5e/generated_images/exec-09e2a217-699a-415f-8aa0-00e191ee3422.png",
+      "file": "img/뮤츠_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "b40a86adf3c5527b5772bd74be12afb9a13c6443f1b875ed048221f332a7dc6f",
+      "reference": "light",
+      "review": "Same adult identity; both hands inside crop and connected, varied activity/outfit/composition, no armor."
+    }
+  ],
+  "canonical": {
+    "slot": "light",
+    "source": "/workspace/scratch/9baf28fffc5e/generated_images/exec-9c6739ba-af1d-431e-8ab1-9119642c2b7d.png",
+    "file": "img/뮤츠_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "daf4d656b97969e3115afffd762f2d23d221218c58262bc1f449014946630bb1",
+    "reference": null,
+    "review": "Full body, both hands, same character, no weapon/text; opened pairs retain composition."
+  }
+}
