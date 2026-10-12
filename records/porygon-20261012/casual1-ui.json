@@ -1,0 +1,20 @@
+{
+  "mech": "폴리곤",
+  "style": "glossy_promo",
+  "aspect": "2:3",
+  "identityMode": "reference",
+  "cat": "hobbies_leisure",
+  "expr": "serious",
+  "pose": "sitting",
+  "orient": "front",
+  "frame": "three_quarter",
+  "lens": "portrait85",
+  "scene": "In an empty analog synthesizer room at night, seated at a compact keyboard while lightly turning one plain control knob with one hand and resting the other separately on a white key. Head through knees, both complete hands unobstructed, pink-blue practical LED light without lettering, no duplicate reflection.",
+  "outfit": "Opaque pink sleeveless mock-neck cropped knit top and blue high-waisted tailored culottes, plain white flat shoes and a tiny geometric cube pendant. Bare arms and midriff, fully covered chest and pelvis, ordinary music hobby fashion, no armor.",
+  "outputMode": "casual",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "custom": "1024x1536 vertical. Preserve the approved adult identity, face, haircut and body proportions. Both complete hands visibly attached to their respective forearms with one thumb and four separate natural fingers each. No armor, weapons, text, logos or extra figures."
+}

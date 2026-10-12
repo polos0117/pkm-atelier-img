@@ -1,0 +1,71 @@
+{
+  "name": "폴리곤",
+  "casual": [
+    {
+      "cat": "hobbies_leisure",
+      "expr": "serious",
+      "pose": "sitting",
+      "orient": "front",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "In an empty analog synthesizer room at night, seated at a compact keyboard while lightly turning one plain control knob with one hand and resting the other separately on a white key. Head through knees, both complete hands unobstructed, pink-blue practical LED light without lettering, no duplicate reflection.",
+      "outfit": "Opaque pink sleeveless mock-neck cropped knit top and blue high-waisted tailored culottes, plain white flat shoes and a tiny geometric cube pendant. Bare arms and midriff, fully covered chest and pelvis, ordinary music hobby fashion, no armor."
+    },
+    {
+      "cat": "adult_roleplay",
+      "expr": "proud",
+      "pose": "standing_formal",
+      "orient": "side",
+      "frame": "full_body",
+      "lens": "natural50",
+      "scene": "In an empty modern design exhibition hall at bright afternoon, body in side profile with face toward viewer, presenting a small smooth pink-and-blue geometric model on one open palm while the other hand gestures gently toward it. Entire head, hands and shoes in frame, white skylight and pastel reflected light, no signage or lettering.",
+      "outfit": "Opaque blue sleeveless sharply tailored blazer with a fitted secured pink inset bodice, pink high-waisted pleated miniskirt, white low heels, slim blue belt and a tiny hexagonal ear cuff. Adult exhibition-guide event fashion, bare shoulders, arms and legs, full chest and pelvis coverage, no armor."
+    },
+    {
+      "cat": "everyday_basic",
+      "expr": "pensive",
+      "pose": "leaning_furniture",
+      "orient": "front_3q",
+      "frame": "waist_up",
+      "lens": "documentary35",
+      "scene": "At an empty home worktable beside a rainy window at noon, leaning lightly against its edge while assembling a small unmarked pink-blue folding cardboard storage box. One complete hand steadies an outer corner and the other folds a separate flap, wrists and all fingers naturally attached and visible. Soft overcast light, no written instructions or screens.",
+      "outfit": "Opaque ivory V-neck short-sleeve button blouse with a secured knot above the waist, blue high-waisted wide-leg trousers and tiny pink square stud earrings. Bare forearms and midriff, fully covered chest and pelvis, ordinary personal-life clothing, no armor."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "reviewed": [
+      "샤미드",
+      "쏘콘",
+      "피콘",
+      "쥬피썬더",
+      "부스터"
+    ],
+    "scope": "Read plans and nine submitted recent casual prompts; visually compared canonical faces with recent three and Eevee family.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "face": {
+    "source": [
+      "data/face-design.json",
+      "data/source-appearance.json"
+    ],
+    "comparison": [
+      "이브이",
+      "샤미드",
+      "쥬피썬더",
+      "쏘콘",
+      "피콘",
+      "키링키",
+      "부스터"
+    ],
+    "canonical_sha256": "8273db64e2dae46262e9527c9daf95c284908c486926160b7908b82a6ca57a7f"
+  }
+}

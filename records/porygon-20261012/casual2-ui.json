@@ -1,0 +1,20 @@
+{
+  "mech": "폴리곤",
+  "style": "glossy_promo",
+  "aspect": "2:3",
+  "identityMode": "reference",
+  "cat": "adult_roleplay",
+  "expr": "proud",
+  "pose": "standing_formal",
+  "orient": "side",
+  "frame": "full_body",
+  "lens": "natural50",
+  "scene": "In an empty modern design exhibition hall at bright afternoon, body in side profile with face toward viewer, presenting a small smooth pink-and-blue geometric model on one open palm while the other hand gestures gently toward it. Entire head, hands and shoes in frame, white skylight and pastel reflected light, no signage or lettering.",
+  "outfit": "Opaque blue sleeveless sharply tailored blazer with a fitted secured pink inset bodice, pink high-waisted pleated miniskirt, white low heels, slim blue belt and a tiny hexagonal ear cuff. Adult exhibition-guide event fashion, bare shoulders, arms and legs, full chest and pelvis coverage, no armor.",
+  "outputMode": "casual",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "custom": "1024x1536 vertical. Preserve the approved adult identity, face, haircut and body proportions. Both complete hands visibly attached to their respective forearms with one thumb and four separate natural fingers each. No armor, weapons, text, logos or extra figures."
+}

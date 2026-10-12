@@ -1,0 +1,128 @@
+[
+  {
+    "slot": "light",
+    "source": "/workspace/scratch/ae1b1ad8e00c/generated_images/exec-3ff0c853-6927-4b54-b421-feaa955890a1.png",
+    "path": "/workspace/scratch/ae1b1ad8e00c/pkm-atelier-img/img/폴리곤_light_glossy_promo_f.webp",
+    "filename": "폴리곤_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "8273db64e2dae46262e9527c9daf95c284908c486926160b7908b82a6ca57a7f",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "heavy",
+    "source": "/workspace/scratch/ae1b1ad8e00c/generated_images/exec-b4d757bc-881c-4d19-8db1-9a5ae3adf2ff.png",
+    "path": "/workspace/scratch/ae1b1ad8e00c/pkm-atelier-img/img/폴리곤_heavy_glossy_promo_f.webp",
+    "filename": "폴리곤_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "66260a4b40a8b237513dded75b48f9ca8f762c364c2ad42330e66dd5ae9c406f",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "mobility",
+    "source": "/workspace/scratch/ae1b1ad8e00c/generated_images/exec-ebda689d-dd8d-422d-8ab4-909bd416e1a2.png",
+    "path": "/workspace/scratch/ae1b1ad8e00c/pkm-atelier-img/img/폴리곤_mobility_glossy_promo_f.webp",
+    "filename": "폴리곤_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "1632b1e45bddf859c6d8acbae0d0cae7357c4ba9cdffc377ce329e26fc03682a",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "light_overdrive",
+    "source": "/workspace/scratch/ae1b1ad8e00c/generated_images/exec-a4e5d254-ace8-4338-95fd-a539f61a699d.png",
+    "path": "/workspace/scratch/ae1b1ad8e00c/pkm-atelier-img/img/폴리곤_light_overdrive_glossy_promo_f.webp",
+    "filename": "폴리곤_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "7050c7389c169f9520bdb86e96a9a33af5dc738e1bd881cdf9a7de9f72ed2260",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "heavy_overdrive",
+    "source": "/workspace/scratch/ae1b1ad8e00c/generated_images/exec-f9226de9-74a8-4535-ae27-da0829204185.png",
+    "path": "/workspace/scratch/ae1b1ad8e00c/pkm-atelier-img/img/폴리곤_heavy_overdrive_glossy_promo_f.webp",
+    "filename": "폴리곤_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "231d693e592e62e487d84f15dce38491c9781cd51f57bea08e7db30c7fc23c14",
+    "reference": "heavy",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "mobility_overdrive",
+    "source": "/workspace/scratch/ae1b1ad8e00c/generated_images/exec-aaf16643-793d-435b-aa15-f3e4b7351a7a.png",
+    "path": "/workspace/scratch/ae1b1ad8e00c/pkm-atelier-img/img/폴리곤_mobility_overdrive_glossy_promo_f.webp",
+    "filename": "폴리곤_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "8510733937eb028f5ba083ab93e5ab7efdd968d03bfcabb5b98395c33b0a1cf0",
+    "reference": "mobility",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "casual1",
+    "source": "/workspace/scratch/ae1b1ad8e00c/generated_images/exec-3c5f6d56-fd86-4ae8-8164-9ee0102cd703.png",
+    "path": "/workspace/scratch/ae1b1ad8e00c/pkm-atelier-img/img/폴리곤_glossy_promo_f_casual1.webp",
+    "filename": "폴리곤_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "7a32c47c3ff0ea6f48cfc77fd8e75058174b9273ea550548898d3e91b97ffaec",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "casual2",
+    "source": "/workspace/scratch/ae1b1ad8e00c/generated_images/exec-a0313b24-c4cf-4700-b13a-40b0d1ec4f86.png",
+    "path": "/workspace/scratch/ae1b1ad8e00c/pkm-atelier-img/img/폴리곤_glossy_promo_f_casual2.webp",
+    "filename": "폴리곤_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "2a1e5142cd8368ba61aa90d62d0a09c124aa5f254bda8e8177dd9b0c947a3515",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "casual3",
+    "source": "/workspace/scratch/ae1b1ad8e00c/generated_images/exec-72a8e1db-81ff-4d57-bc05-df02095bbcd2.png",
+    "path": "/workspace/scratch/ae1b1ad8e00c/pkm-atelier-img/img/폴리곤_glossy_promo_f_casual3.webp",
+    "filename": "폴리곤_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "c86016b662a228ca3e055feae6ca09313c2c13cc3c54c2ca23d30c2a971460b7",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  }
+]

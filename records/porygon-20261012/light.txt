@@ -1,0 +1,29 @@
+INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.
+
+SOURCE: Porygon (폴리곤), normal type.
+
+PALETTE: pink, blue.
+
+STYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.
+
+SUBJECT: A female mecha personification character with Porygon as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.
+
+WEAR (user choice): Pink polyhedral body becomes pink faceted angular armor, the blue beak becomes a short blue geometric breastplate accent, the blue rectangular prism tail becomes an angular fabric-panel sash behind the belt, blue triangular feet become faceted boots, and hexagonal eyes become small hexagonal temple sensors. Keep a completely human face and normal two eyes, nose and mouth..
+
+FACE (her own structure, not the style's default face): angular face, balanced length, medium width; angular defined jaw; narrow eyes, medium size, level outer corners, average spacing; straight medium brows; prominent defined nose; thin lips.
+
+FORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.
+
+OUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.
+
+Chosen settings below override the default stance and camera; her identity and form stay fixed.
+Note: 1024x1536 vertical. Single full figure including all hair and boots occupies 85% image height, at least 90px empty background above her head and below her feet. Eye-level 85mm perspective. Pink-blue graphite lab hangar. Both relaxed complete gloved hands beside her hips, exactly five clearly separate digits each. No weapons.
+
+IDENTITY (chosen details override the automatic look)
+apparent age: 20s — adult woman in her twenties
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and close-fitting, never fingerless; plates, water, sparks and effects stay off the fingers.

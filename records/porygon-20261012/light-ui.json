@@ -1,0 +1,13 @@
+{
+  "mech": "폴리곤",
+  "identityMode": "create",
+  "form": "light",
+  "params": [
+    [
+      "apparent age",
+      "20s — adult woman in her twenties"
+    ]
+  ],
+  "motifs": "Pink polyhedral body becomes pink faceted angular armor, the blue beak becomes a short blue geometric breastplate accent, the blue rectangular prism tail becomes an angular fabric-panel sash behind the belt, blue triangular feet become faceted boots, and hexagonal eyes become small hexagonal temple sensors. Keep a completely human face and normal two eyes, nose and mouth.",
+  "custom": "1024x1536 vertical. Single full figure including all hair and boots occupies 85% image height, at least 90px empty background above her head and below her feet. Eye-level 85mm perspective. Pink-blue graphite lab hangar. Both relaxed complete gloved hands beside her hips, exactly five clearly separate digits each. No weapons."
+}

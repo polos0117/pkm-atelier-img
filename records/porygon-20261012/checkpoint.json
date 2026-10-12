@@ -1,0 +1,19 @@
+{
+  "approved": 9,
+  "canonical": {
+    "slot": "light",
+    "source": "/workspace/scratch/ae1b1ad8e00c/generated_images/exec-3ff0c853-6927-4b54-b421-feaa955890a1.png",
+    "path": "/workspace/scratch/ae1b1ad8e00c/pkm-atelier-img/img/폴리곤_light_glossy_promo_f.webp",
+    "filename": "폴리곤_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "8273db64e2dae46262e9527c9daf95c284908c486926160b7908b82a6ca57a7f",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  "phase": "ready_to_commit",
+  "generation": "built-in imagegen"
+}
