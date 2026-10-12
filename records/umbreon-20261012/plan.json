@@ -1,0 +1,72 @@
+{
+  "name": "블래키",
+  "slug": "umbreon",
+  "wear": "Black polished slim armor with luminous yellow rings on forehead diadem, upper arms and shin plates; long tapered black ears with yellow bands become paired sleek headband ornaments; a black waist sash tipped with a yellow ring evokes the tail. Human skin and face, no animal ears or limbs.",
+  "light": "On an empty obsidian moonlit terrace, poised front three-quarter adult woman, both empty open hands relaxed and clearly separated beside hips. Entire head ornaments and boots inside vertical 1024x1536, silver moon rim light, clear margins.",
+  "heavy": "On the empty obsidian moonlit terrace, braced front-facing adult woman with feet apart, both empty relaxed palms beside waist, whole head ornaments and boots inside vertical 1024x1536, clear margins and silver moon rim light.",
+  "mobility": "On the empty obsidian moonlit terrace, taking a balanced forward cross-step, front three-quarter adult woman with both empty hands separated and relaxed, full head ornaments and boots inside vertical 1024x1536, clear margins and silver moon rim light.",
+  "casual": [
+    {
+      "cat": "adult_roleplay",
+      "expr": "smug",
+      "pose": "standing_formal",
+      "orient": "front",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "On an empty cabaret rehearsal stage at midnight, adult illusionist presenting a single plain gold ring above one open palm while her opposite hand opens at waist height. Ruby curtain and dim amber footlights; head to above knees, both hands and forearms distinct.",
+      "outfit": "Opaque fitted black satin halter waistcoat with secure covered bust, gold piping, high-waisted asymmetric tailored skort over fitted opaque shorts, sheer black tights and tiny yellow hoop earrings. Bare shoulders arms upper chest; professional adult stage-event fashion.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "Both hands fully within the selected crop, each visibly attached to its own forearm with five distinct natural digits. One adult woman, no text or logos."
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "focused",
+      "pose": "leaning_furniture",
+      "orient": "high_angle",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "In an empty sunlit pottery glazing studio at noon, leaning gently over a workbench, brushing a gold circle on a plain black ceramic bowl while her other open hand rests separately on the table. Soft skylight, head and both complete hands inside crop.",
+      "outfit": "Opaque ochre sleeveless scoop-neck cropped knit top and black high-waisted linen trousers, short waist apron. Bare arms shoulders and narrow midriff, small gold ring pendant.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "Both hands fully within the selected crop, each visibly attached to its own forearm with five distinct natural digits. One adult woman, no text or logos."
+    },
+    {
+      "cat": "active",
+      "expr": "relieved",
+      "pose": "mid_stride",
+      "orient": "side",
+      "frame": "environmental",
+      "lens": "documentary35",
+      "scene": "On an empty riverside jogging track at blue dawn, slowing from a jog with loose open hands at different low heights; side body with face turned toward camera. Entire head running shoes and hands, mist above river, cool gentle light.",
+      "outfit": "Opaque black secure racerback sports top, golden-yellow loose running shorts over black fitted cycling shorts, black running shoes. Bare shoulders arms midriff legs, tiny yellow hair clip.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "Both hands fully within the selected crop, each visibly attached to its own forearm with five distinct natural digits. One adult woman, no text or logos."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "reviewed": [
+      "에브이 (plan only; submitted prompts unavailable)",
+      "마임맨 (plan and three prompts)",
+      "아쿠스타 (plan and three prompts)"
+    ],
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "style": "glossy_promo",
+  "form": "light",
+  "baseForm": "light",
+  "motifs": "Black polished slim armor with luminous yellow rings on forehead diadem, upper arms and shin plates; long tapered black ears with yellow bands become paired sleek headband ornaments; a black waist sash tipped with a yellow ring evokes the tail. Human skin and face, no animal ears or limbs.",
+  "identityMode": "create",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "mech": "블래키",
+  "sourceName": "Umbreon",
+  "sourceAppearance": {
+    "name": "블래키",
+    "en": "Umbreon",
+    "color": "black",
+    "shape": "quadruped",
+    "features": [
+      {
+        "part": "tail",
+        "detail": "bushy tail"
+      },
+      {
+        "part": "body",
+        "detail": "sleek, black body"
+      },
+      {
+        "part": "band",
+        "detail": "yellow band"
+      },
+      {
+        "part": "ring",
+        "detail": "yellow rings"
+      },
+      {
+        "part": "leg",
+        "detail": "four slender legs"
+      },
+      {
+        "part": "ear",
+        "detail": "long, pointed ears"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Umbreon_%28Pok%C3%A9mon%29",
+    "revision": 4626517,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "34f2718b0d1085bb62272d751a14deddb4b31d5e78c99591e3f6d6f0180f419a",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "series": "dark",
+  "outputMode": "action",
+  "aspect": "2:3",
+  "scene": "On an empty obsidian moonlit terrace, poised front three-quarter adult woman, both empty open hands relaxed and clearly separated beside hips. Entire head ornaments and boots inside vertical 1024x1536, silver moon rim light, clear margins.",
+  "custom": ""
+}

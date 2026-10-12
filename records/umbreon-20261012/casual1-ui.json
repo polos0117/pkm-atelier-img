@@ -1,0 +1,65 @@
+{
+  "style": "glossy_promo",
+  "form": "casual1",
+  "baseForm": "casual1",
+  "motifs": "",
+  "identityMode": "reference",
+  "params": [],
+  "mech": "블래키",
+  "sourceName": "Umbreon",
+  "sourceAppearance": {
+    "name": "블래키",
+    "en": "Umbreon",
+    "color": "black",
+    "shape": "quadruped",
+    "features": [
+      {
+        "part": "tail",
+        "detail": "bushy tail"
+      },
+      {
+        "part": "body",
+        "detail": "sleek, black body"
+      },
+      {
+        "part": "band",
+        "detail": "yellow band"
+      },
+      {
+        "part": "ring",
+        "detail": "yellow rings"
+      },
+      {
+        "part": "leg",
+        "detail": "four slender legs"
+      },
+      {
+        "part": "ear",
+        "detail": "long, pointed ears"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Umbreon_%28Pok%C3%A9mon%29",
+    "revision": 4626517,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "34f2718b0d1085bb62272d751a14deddb4b31d5e78c99591e3f6d6f0180f419a",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "series": "dark",
+  "outputMode": "casual",
+  "aspect": "2:3",
+  "cat": "adult_roleplay",
+  "expr": "smug",
+  "pose": "standing_formal",
+  "orient": "front",
+  "frame": "three_quarter",
+  "lens": "portrait85",
+  "scene": "On an empty cabaret rehearsal stage at midnight, adult illusionist presenting a single plain gold ring above one open palm while her opposite hand opens at waist height. Ruby curtain and dim amber footlights; head to above knees, both hands and forearms distinct.",
+  "outfit": "Opaque fitted black satin halter waistcoat with secure covered bust, gold piping, high-waisted asymmetric tailored skort over fitted opaque shorts, sheer black tights and tiny yellow hoop earrings. Bare shoulders arms upper chest; professional adult stage-event fashion.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "custom": "Both hands fully within the selected crop, each visibly attached to its own forearm with five distinct natural digits. One adult woman, no text or logos."
+}

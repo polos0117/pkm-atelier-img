@@ -1,0 +1,54 @@
+{
+  "style": "glossy_promo",
+  "form": "heavy",
+  "baseForm": "heavy",
+  "motifs": "",
+  "identityMode": "reference",
+  "params": [],
+  "mech": "블래키",
+  "sourceName": "Umbreon",
+  "sourceAppearance": {
+    "name": "블래키",
+    "en": "Umbreon",
+    "color": "black",
+    "shape": "quadruped",
+    "features": [
+      {
+        "part": "tail",
+        "detail": "bushy tail"
+      },
+      {
+        "part": "body",
+        "detail": "sleek, black body"
+      },
+      {
+        "part": "band",
+        "detail": "yellow band"
+      },
+      {
+        "part": "ring",
+        "detail": "yellow rings"
+      },
+      {
+        "part": "leg",
+        "detail": "four slender legs"
+      },
+      {
+        "part": "ear",
+        "detail": "long, pointed ears"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Umbreon_%28Pok%C3%A9mon%29",
+    "revision": 4626517,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "34f2718b0d1085bb62272d751a14deddb4b31d5e78c99591e3f6d6f0180f419a",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "series": "dark",
+  "outputMode": "action",
+  "aspect": "2:3",
+  "scene": "On the empty obsidian moonlit terrace, braced front-facing adult woman with feet apart, both empty relaxed palms beside waist, whole head ornaments and boots inside vertical 1024x1536, clear margins and silver moon rim light.",
+  "custom": ""
+}

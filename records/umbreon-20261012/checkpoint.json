@@ -1,0 +1,166 @@
+{
+  "canonical": {
+    "slot": "light",
+    "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-06191c67-bae4-4413-8d31-458e9a440e13.png",
+    "filename": "블래키_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "488112fb30ccc06e518e0d343ac5d2959601e756addfa054fd5e1db2dce35911",
+    "reference": null,
+    "prompt": "light.txt",
+    "ui_verified": true,
+    "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+  },
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "assets": [
+    {
+      "slot": "light",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-06191c67-bae4-4413-8d31-458e9a440e13.png",
+      "filename": "블래키_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "488112fb30ccc06e518e0d343ac5d2959601e756addfa054fd5e1db2dce35911",
+      "reference": null,
+      "prompt": "light.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "heavy",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-604275c3-bc8a-47ba-93f6-9ba3a0a7ab4a.png",
+      "filename": "블래키_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "035531d74201110a2da08e323a8fac12afadfc7b667bf3e77180428662109539",
+      "reference": "light",
+      "prompt": "heavy.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "mobility",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-08f006c8-f969-4ff2-a6a9-820316d21c0e.png",
+      "filename": "블래키_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b44748ce09cb5c8f2981c78b89638360f0824e55dc56d8922e621f6f2b7800e6",
+      "reference": "light",
+      "prompt": "mobility.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "light_overdrive",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-eee49345-8aba-4d99-8889-1de27a5bdfcd.png",
+      "filename": "블래키_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "766d16a223bb3b71e0d7e729c906d587a18d47ec865059422198284150c5fcc0",
+      "reference": "light",
+      "prompt": "light_overdrive.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-89b84b20-c801-4584-b9be-85d6d7f0358d.png",
+      "filename": "블래키_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "efcb9456cded6657b9940bcc8b039ff848cc600356799e7216074dcc51171e8e",
+      "reference": "heavy",
+      "prompt": "heavy_overdrive.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-e6953f5f-1469-4cae-8715-1b3e2b0931e2.png",
+      "filename": "블래키_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "85ae83fb6f142404ccdb2858c8287583539f105848a9ba467e0521966e96e119",
+      "reference": "mobility",
+      "prompt": "mobility_overdrive.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "casual1",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-14bcd10a-c881-4751-b922-ad6cc0279d50.png",
+      "filename": "블래키_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "09505cfc8451923cf9ba7e44ce498d40d736d088e2c6beef5bf551f8514719e3",
+      "reference": "light",
+      "prompt": "casual1.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "casual2",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-0b36f573-0fb3-4b69-b55f-5c10fe2fea52.png",
+      "filename": "블래키_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "cc0f0d3aa0315782f48de49beb0cf4e6fd01dd77321acc5c04fa5c3c6de99757",
+      "reference": "light",
+      "prompt": "casual2.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "casual3",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-32faf930-d6f4-4056-b100-067752fedfdf.png",
+      "filename": "블래키_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "163d47889d2dca1b1fc1d8ae80ce2d69498c1b09777e12d76b32541f4f8718e6",
+      "reference": "light",
+      "prompt": "casual3.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    }
+  ],
+  "remote_status": "not yet committed"
+}

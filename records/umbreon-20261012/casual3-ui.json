@@ -1,0 +1,65 @@
+{
+  "style": "glossy_promo",
+  "form": "casual3",
+  "baseForm": "casual3",
+  "motifs": "",
+  "identityMode": "reference",
+  "params": [],
+  "mech": "블래키",
+  "sourceName": "Umbreon",
+  "sourceAppearance": {
+    "name": "블래키",
+    "en": "Umbreon",
+    "color": "black",
+    "shape": "quadruped",
+    "features": [
+      {
+        "part": "tail",
+        "detail": "bushy tail"
+      },
+      {
+        "part": "body",
+        "detail": "sleek, black body"
+      },
+      {
+        "part": "band",
+        "detail": "yellow band"
+      },
+      {
+        "part": "ring",
+        "detail": "yellow rings"
+      },
+      {
+        "part": "leg",
+        "detail": "four slender legs"
+      },
+      {
+        "part": "ear",
+        "detail": "long, pointed ears"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Umbreon_%28Pok%C3%A9mon%29",
+    "revision": 4626517,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "34f2718b0d1085bb62272d751a14deddb4b31d5e78c99591e3f6d6f0180f419a",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "series": "dark",
+  "outputMode": "casual",
+  "aspect": "2:3",
+  "cat": "active",
+  "expr": "relieved",
+  "pose": "mid_stride",
+  "orient": "side",
+  "frame": "environmental",
+  "lens": "documentary35",
+  "scene": "On an empty riverside jogging track at blue dawn, slowing from a jog with loose open hands at different low heights; side body with face turned toward camera. Entire head running shoes and hands, mist above river, cool gentle light.",
+  "outfit": "Opaque black secure racerback sports top, golden-yellow loose running shorts over black fitted cycling shorts, black running shoes. Bare shoulders arms midriff legs, tiny yellow hair clip.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "custom": "Both hands fully within the selected crop, each visibly attached to its own forearm with five distinct natural digits. One adult woman, no text or logos."
+}
