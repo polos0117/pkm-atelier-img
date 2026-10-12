@@ -1,0 +1,60 @@
+{
+  "name": "핫삼",
+  "no": 212,
+  "hair": "crimson",
+  "cut": "bob",
+  "body": "athletic",
+  "eyes": "gold",
+  "wear": "Rounded crimson pincer-shaped forearm guards with black teardrop markings frame but never replace the open human hands; small translucent split wing-cape panels, three blunt red crest tabs as a head ornament, polished red segmented leg armor and black flexible joints.",
+  "casual": [
+    {
+      "cat": "adult_roleplay",
+      "expr": "confident",
+      "pose": "mid_action",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "Alone backstage at a science-fiction stage event at dusk, checking the cuff of an original courier-themed event costume. Both forearms in crop, one hand lightly adjusting the opposite cuff; red curtain and warm dressing lights, no mirror, writing or other people.",
+      "outfit": "Opaque crimson sleeveless cropped zip vest with a secured high neckline, black high-waisted tailored shorts, small silver teardrop stud earrings. Bare shoulders arms and midriff; original decorative event costume without insignia or armor."
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "curious",
+      "pose": "kneeling",
+      "orient": "front_3q",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "In a quiet rooftop succulent garden at cool sunrise, kneeling beside a low terracotta planter while positioning a smooth pebble on its soil with one hand, the other rests open on her raised knee. Entire head hands and feet visible, quiet blue buildings and soft pink sky.",
+      "outfit": "Opaque ivory sleeveless rib-knit cropped top, red high-waisted relaxed culottes and flat black sandals. Bare arms midriff and lower calves, tiny black teardrop pendant."
+    },
+    {
+      "cat": "source_editorial",
+      "expr": "half_smile",
+      "pose": "leaning_furniture",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "telephoto135",
+      "scene": "At an empty modern sculpture-gallery terrace after rain at night, leaning sideways against a low stone plinth, face turned to camera, both empty hands resting separately on its top. Head through knees visible, red reflection from an abstract light installation, no signage.",
+      "outfit": "Black opaque square-neck sleeveless fitted top and crimson high-waisted asymmetric midi skirt with a side slit, small silver stud earrings. Bare arms shoulders and part of one leg; sleek fabric only, no metal armor."
+    }
+  ],
+  "comparison": {
+    "reviewed": [
+      "나무킹",
+      "파이어",
+      "썬더"
+    ],
+    "sources": [
+      "records/sceptile-20261013/casual1.txt..casual3.txt",
+      "records/moltres-20261013/casual1.txt..casual3.txt",
+      "records/zapdos-20261013/casual1.txt..casual3.txt"
+    ],
+    "changes": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ],
+    "earlier_this_task": []
+  }
+}

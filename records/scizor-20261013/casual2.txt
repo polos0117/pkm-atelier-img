@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Scizor (핫삼) personified, bug / steel type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted
+Pose: Kneel in a stable supported position suited to a low task or interaction.
+Orientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together
+Scene: In a quiet rooftop succulent garden at cool sunrise, kneeling beside a low terracotta planter while positioning a smooth pebble on its soil with one hand, the other rests open on her raised knee. Entire head hands and feet visible, quiet blue buildings and soft pink sky.
+Outfit and props: Opaque ivory sleeveless rib-knit cropped top, red high-waisted relaxed culottes and flat black sandals. Bare arms midriff and lower calves, tiny black teardrop pendant.
+Category: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.
+Note: 1024x1536 vertical. Both complete human hands inside the chosen crop and visibly connected to their own forearms with five distinct natural digits each. Species details remain only small accessories, no armor or weapons.
+Framing: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.
+Lens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

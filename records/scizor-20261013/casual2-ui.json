@@ -1,0 +1,249 @@
+{
+  "selected": [
+    {
+      "id": "search",
+      "value": ""
+    },
+    {
+      "id": "group",
+      "value": ""
+    },
+    {
+      "id": "source",
+      "value": "핫삼"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo"
+    },
+    {
+      "id": "motifs",
+      "value": ""
+    },
+    {
+      "id": "expression",
+      "value": "curious"
+    },
+    {
+      "id": "category",
+      "value": "hobbies_leisure"
+    },
+    {
+      "id": "example",
+      "value": ""
+    },
+    {
+      "id": "pose",
+      "value": "kneeling"
+    },
+    {
+      "id": "orientation",
+      "value": "front_3q"
+    },
+    {
+      "id": "frame",
+      "value": "full_body"
+    },
+    {
+      "id": "lens",
+      "value": "documentary35"
+    },
+    {
+      "id": "aspect",
+      "value": "2:3"
+    },
+    {
+      "id": "camera",
+      "value": ""
+    },
+    {
+      "id": "scene",
+      "value": "In a quiet rooftop succulent garden at cool sunrise, kneeling beside a low terracotta planter while positioning a smooth pebble on its soil with one hand, the other rests open on her raised knee. Entire head hands and feet visible, quiet blue buildings and soft pink sky."
+    },
+    {
+      "id": "outfit",
+      "value": "Opaque ivory sleeveless rib-knit cropped top, red high-waisted relaxed culottes and flat black sandals. Bare arms midriff and lower calves, tiny black teardrop pendant."
+    },
+    {
+      "id": "custom",
+      "value": "1024x1536 vertical. Both complete human hands inside the chosen crop and visibly connected to their own forearms with five distinct natural digits each. Species details remain only small accessories, no armor or weapons."
+    },
+    {
+      "id": "axis-overall_intensity",
+      "value": "strong"
+    },
+    {
+      "id": "axis-skin_exposure",
+      "value": "bold"
+    },
+    {
+      "id": "axis-action_level",
+      "value": "AUTO"
+    },
+    {
+      "id": "axis-source_influence",
+      "value": "AUTO"
+    },
+    {
+      "id": "axis-separates_preference",
+      "value": "AUTO"
+    }
+  ],
+  "storage": {
+    "last": "핫삼",
+    "cards": {
+      "이상해씨": {
+        "style": "glossy_promo",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "faceDesignOn": true,
+        "params": {},
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "핫삼": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "faceDesignOn": true,
+        "params": {
+          "apparent age": "youthful adult",
+          "hair color": "crimson",
+          "hairstyle": "bob",
+          "body type": "athletic",
+          "eye color": "gold"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "calm",
+            "pose": "",
+            "orient": "front_3q",
+            "scene": "A quiet futuristic hangar bay with subdued cool depth and a simple floor, no signs or other figures.",
+            "outfit": "",
+            "frame": "full_body",
+            "lens": "natural50",
+            "camera": "",
+            "custom": "1024x1536. Keep the attached closed-form camera pose framing subject scale and all five-finger hand shapes exactly.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "curious",
+            "pose": "kneeling",
+            "orient": "front_3q",
+            "scene": "In a quiet rooftop succulent garden at cool sunrise, kneeling beside a low terracotta planter while positioning a smooth pebble on its soil with one hand, the other rests open on her raised knee. Entire head hands and feet visible, quiet blue buildings and soft pink sky.",
+            "outfit": "Opaque ivory sleeveless rib-knit cropped top, red high-waisted relaxed culottes and flat black sandals. Bare arms midriff and lower calves, tiny black teardrop pendant.",
+            "frame": "full_body",
+            "lens": "documentary35",
+            "camera": "",
+            "custom": "1024x1536 vertical. Both complete human hands inside the chosen crop and visibly connected to their own forearms with five distinct natural digits each. Species details remain only small accessories, no armor or weapons.",
+            "aspect": "2:3",
+            "cat": "hobbies_leisure",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  },
+  "prompt": "CHARACTER: the same woman as the attached image — Scizor (핫삼) personified, bug / steel type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted\nPose: Kneel in a stable supported position suited to a low task or interaction.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: In a quiet rooftop succulent garden at cool sunrise, kneeling beside a low terracotta planter while positioning a smooth pebble on its soil with one hand, the other rests open on her raised knee. Entire head hands and feet visible, quiet blue buildings and soft pink sky.\nOutfit and props: Opaque ivory sleeveless rib-knit cropped top, red high-waisted relaxed culottes and flat black sandals. Bare arms midriff and lower calves, tiny black teardrop pendant.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: 1024x1536 vertical. Both complete human hands inside the chosen crop and visibly connected to their own forearms with five distinct natural digits each. Species details remain only small accessories, no armor or weapons.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+}

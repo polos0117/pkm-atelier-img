@@ -1,0 +1,267 @@
+{
+  "name": "핫삼",
+  "date": "2026-10-13",
+  "style": "glossy_promo",
+  "tool": "built-in image_gen",
+  "completed": 9,
+  "required": 9,
+  "status": "nine images visually reviewed; image push pending",
+  "approved_light": {
+    "card": "핫삼",
+    "slot": "light",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "generated_images/exec-f7b0c8a4-391c-4038-934e-3e15043a9b1f.png",
+    "original_sha256": "de6a59242acc3db3201bd74e99f3158066670703bb6f1f251f23c3e7d3430006",
+    "output": "img/핫삼_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "b274891e08a44ab44f15aa93b7a85a8b44def7e6c9aa65843fd27fa12f122971",
+    "reference": null,
+    "reference_sha256": null,
+    "submitted_prompt": "light.txt",
+    "prompt_sha256": "cb2bb68492324a9884273f5e992d340a9fb0d85d9db605605090d216ce1d9a18"
+  },
+  "face_design": {
+    "name": "핫삼",
+    "en": "Scizor",
+    "line": "스라크",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "angular",
+      "face length": "balanced",
+      "face width": "medium",
+      "jaw & chin": "angular defined jaw",
+      "eye shape": "narrow",
+      "eye size": "medium",
+      "eye tilt": "level outer corners",
+      "eye spacing": "average eye spacing",
+      "eyebrows": "short rounded brows",
+      "nose character": "balanced nose",
+      "lips": "thin lips"
+    },
+    "why": "금속 집게와 매끈한 장갑의 선을 단단한 윤곽과 정돈된 수평 눈매로 구분한다.",
+    "cues": [
+      "‘three blunt horns’ → 얼굴형 각지고 선명한 얼굴형",
+      "‘three blunt horns’ → 턱선 · 턱끝 각지고 또렷한 턱",
+      "‘three blunt horns’ → 눈매 가늘고 날카로운 눈",
+      "‘rounded head’ → 눈썹 짧고 둥근",
+      "‘three blunt horns’ → 입술 얇은 입술"
+    ],
+    "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 눈썹 중간 두께의 직선 → 짧고 둥근"
+  },
+  "face_comparisons": [
+    "나무킹",
+    "파이어",
+    "썬더",
+    "스라크"
+  ],
+  "face_review": "Visually compared contour/jaw, eye width and slope, nose and mouth proportions without relying on hair or ornament colors.",
+  "casual_comparison": {
+    "reviewed": [
+      "나무킹",
+      "파이어",
+      "썬더"
+    ],
+    "sources": [
+      "records/sceptile-20261013/casual1.txt..casual3.txt",
+      "records/moltres-20261013/casual1.txt..casual3.txt",
+      "records/zapdos-20261013/casual1.txt..casual3.txt"
+    ],
+    "changes": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ],
+    "earlier_this_task": []
+  },
+  "images": [
+    {
+      "card": "핫삼",
+      "slot": "light",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "generated_images/exec-f7b0c8a4-391c-4038-934e-3e15043a9b1f.png",
+      "original_sha256": "de6a59242acc3db3201bd74e99f3158066670703bb6f1f251f23c3e7d3430006",
+      "output": "img/핫삼_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b274891e08a44ab44f15aa93b7a85a8b44def7e6c9aa65843fd27fa12f122971",
+      "reference": null,
+      "reference_sha256": null,
+      "submitted_prompt": "light.txt",
+      "prompt_sha256": "cb2bb68492324a9884273f5e992d340a9fb0d85d9db605605090d216ce1d9a18"
+    },
+    {
+      "card": "핫삼",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "/workspace/scratch/449633aecc9d/generated_images/exec-b9fdc18f-a1b2-43d3-b1e0-273f866119a1.png",
+      "original_sha256": "d3e2a54f79755e7a77ce3a1b0b47a0c19f7ed0b22893c13b510f4960c6434733",
+      "output": "img/핫삼_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "60413a959704a60f2b7ba9343b89786b679d0df713f505f0323f22fce8dc4340",
+      "reference": "img/핫삼_light_glossy_promo_f.webp",
+      "reference_sha256": "b274891e08a44ab44f15aa93b7a85a8b44def7e6c9aa65843fd27fa12f122971",
+      "submitted_prompt": "heavy.txt",
+      "prompt_sha256": "f72b46dc3d9b5df00c1f445a0fe41602735a669314b171cdc3b2a32158dad344"
+    },
+    {
+      "card": "핫삼",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "/workspace/scratch/449633aecc9d/generated_images/exec-13e0d0ae-002a-4df2-9fee-0494f52976dc.png",
+      "original_sha256": "f404b46568ed6d2216278d5dd66f149c382da1994bf09ac30a157342711f3dfd",
+      "output": "img/핫삼_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "a6f856fcea22b20f02cb45e5301a75cd57a11011058fcf1ecbc78abf01052894",
+      "reference": "img/핫삼_light_glossy_promo_f.webp",
+      "reference_sha256": "b274891e08a44ab44f15aa93b7a85a8b44def7e6c9aa65843fd27fa12f122971",
+      "submitted_prompt": "mobility.txt",
+      "prompt_sha256": "dda4ea9a9b80d80bec91446ccad8e24c60112a964ce2b37a8b89a4efa796b8c5"
+    },
+    {
+      "card": "핫삼",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "/workspace/scratch/449633aecc9d/generated_images/exec-7bc9262c-2359-48d2-b199-250a97827b02.png",
+      "original_sha256": "a16ba796b986222db59650e35205dee8e581f1a7b2609a66ca7dd07383b1fca9",
+      "output": "img/핫삼_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "9f9496ac6567d6d7946e5536b2ff34de5b12c4524790e2606325e657f198a7f2",
+      "reference": "img/핫삼_light_glossy_promo_f.webp",
+      "reference_sha256": "b274891e08a44ab44f15aa93b7a85a8b44def7e6c9aa65843fd27fa12f122971",
+      "submitted_prompt": "light_overdrive.txt",
+      "prompt_sha256": "0fe8b3170f53f6f164ceb08757f3831669b5cc81e7bdb872ee5c32f234d9629a"
+    },
+    {
+      "card": "핫삼",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "/workspace/scratch/449633aecc9d/generated_images/exec-962a13f1-8ce5-4e0e-a4e5-8401553b0dc8.png",
+      "original_sha256": "3b1a5c95a0d2e6771e322be5fd6b62dea724fb09fb0715959635129342135cdc",
+      "output": "img/핫삼_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "353a35e5cacd6f4d45c87e6d2894349be0efff6759ae3da715652ba84e1fe9f6",
+      "reference": "img/핫삼_heavy_glossy_promo_f.webp",
+      "reference_sha256": "60413a959704a60f2b7ba9343b89786b679d0df713f505f0323f22fce8dc4340",
+      "submitted_prompt": "heavy_overdrive.txt",
+      "prompt_sha256": "677d21ce553c13c3b2e77df53be7348e7e59d957eb9c5fc512656f84f8e406d1"
+    },
+    {
+      "card": "핫삼",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "/workspace/scratch/449633aecc9d/generated_images/exec-3f92b651-91d3-4fa8-b64e-7a6af50d8a63.png",
+      "original_sha256": "a4d28cfaa65bc6f1862bf7aba614936d3354771d86c58f75700b0642ca37266a",
+      "output": "img/핫삼_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e28ddfee4d6e58c2a1209b3084d180b48c416e335cb92b394f19540bc8da0a35",
+      "reference": "img/핫삼_mobility_glossy_promo_f.webp",
+      "reference_sha256": "a6f856fcea22b20f02cb45e5301a75cd57a11011058fcf1ecbc78abf01052894",
+      "submitted_prompt": "mobility_overdrive.txt",
+      "prompt_sha256": "b119d7e4a1acbda866597d9da931d968304d631a18fbacd4d7a2c8529cb557ce"
+    },
+    {
+      "card": "핫삼",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "/workspace/scratch/449633aecc9d/generated_images/exec-b87de024-8aff-4451-a06a-16204d822b7f.png",
+      "original_sha256": "6f76e26141b75ce92f2c6758847f6b6d805ec59b09a337b3da9c9c312c9a7a8f",
+      "output": "img/핫삼_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "176ec1d71fb3b19c37e8a7c9e72e238b35303eacee8484754f013fd3966931b5",
+      "reference": "img/핫삼_light_glossy_promo_f.webp",
+      "reference_sha256": "b274891e08a44ab44f15aa93b7a85a8b44def7e6c9aa65843fd27fa12f122971",
+      "submitted_prompt": "casual1.txt",
+      "prompt_sha256": "bf5501a5b7fb06a687cd1460c164ae07c1d82a597757eddf081ee66e64583524"
+    },
+    {
+      "card": "핫삼",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "/workspace/scratch/449633aecc9d/generated_images/exec-d8bb505d-a74d-472b-880a-ca53c54dda8c.png",
+      "original_sha256": "6c2932d33fda3269ed31176fb66b2d405a0a5ee1861d0a0579476439bc07dad6",
+      "output": "img/핫삼_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f2715b39453259c77669312f5dbf61dab4b4196a7c48a784dc2e831dba6bb917",
+      "reference": "img/핫삼_light_glossy_promo_f.webp",
+      "reference_sha256": "b274891e08a44ab44f15aa93b7a85a8b44def7e6c9aa65843fd27fa12f122971",
+      "submitted_prompt": "casual2.txt",
+      "prompt_sha256": "68f9f0138be0cc4c32137a4ce29cbbd8b88e7566d0e35c4b095c11094eab1e41"
+    },
+    {
+      "card": "핫삼",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "/workspace/scratch/449633aecc9d/generated_images/exec-18cd3362-7b8e-4e55-96f2-e8043eb98e2d.png",
+      "original_sha256": "126cd8d9f4416a80a295932a9b25015bea76fc20dbab4d81347520fd574dad53",
+      "output": "img/핫삼_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "fbf6977318ba25ff5f793a41ff5d24d821dc35dc2e568c44ab8b394976e8a82b",
+      "reference": "img/핫삼_light_glossy_promo_f.webp",
+      "reference_sha256": "b274891e08a44ab44f15aa93b7a85a8b44def7e6c9aa65843fd27fa12f122971",
+      "submitted_prompt": "casual3.txt",
+      "prompt_sha256": "89d5501d61f65f5a90bb1c6bf423aa2814976b16781e6072da34fefe7a159ac1"
+    }
+  ],
+  "image_review": "Single adult woman, connected natural hands, same identity across all nine. Closed/opened pairs keep pose, camera and subject scale; plates open along seams. Casual scenes vary in place, activity, clothing silhouette, expression, pose, orientation and framing."
+}
