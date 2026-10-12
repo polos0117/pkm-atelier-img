@@ -1,0 +1,182 @@
+[
+  {
+    "card": "헤라크로스",
+    "slot": "light",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "/workspace/scratch/449633aecc9d/generated_images/exec-f7068853-dc79-4a30-a31d-08b2ba0c5407.png",
+    "original_sha256": "f353c7995ace645273a971865276fa73756b2c85fb6163bddc01bb0914a834ac",
+    "output": "img/헤라크로스_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "a481e4bc40cb220bb6f2ea4ee385f047b3a4df1fb650e10bdb6d9d9abeaa3a80",
+    "reference": null,
+    "reference_sha256": null,
+    "submitted_prompt": "light.txt",
+    "prompt_sha256": "604ce1e53ee693e195c2d8227e578a63e3338632d0608799ce755426c953a155"
+  },
+  {
+    "card": "헤라크로스",
+    "slot": "heavy",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "/workspace/scratch/449633aecc9d/generated_images/exec-d9f720f5-acee-49df-ad46-1a7d3ffec467.png",
+    "original_sha256": "09ce0234144932ba6b2fc77ec37cf0d764cde9dbea0d603a5f9131abde003fab",
+    "output": "img/헤라크로스_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "c01b4b13bb61a649853d9843f437c3c38c998b8bd9cbf6a98f22714c14bce456",
+    "reference": "img/헤라크로스_light_glossy_promo_f.webp",
+    "reference_sha256": "a481e4bc40cb220bb6f2ea4ee385f047b3a4df1fb650e10bdb6d9d9abeaa3a80",
+    "submitted_prompt": "heavy.txt",
+    "prompt_sha256": "d1441159354d73eb258fd1e9d70db6818c0b2f35539276f7ef5ee3e4fd90c5bf"
+  },
+  {
+    "card": "헤라크로스",
+    "slot": "mobility",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "/workspace/scratch/449633aecc9d/generated_images/exec-f59320a3-078c-42ee-a31d-6fdfa25aad91.png",
+    "original_sha256": "bf308903ee7594713a6f516289605650ce7837cacd3212ba7a70f4439d4eb127",
+    "output": "img/헤라크로스_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "baf9d6c854795393ec907ce4e462fa9b1753539ab6c67b65bc2c46427bb64f44",
+    "reference": "img/헤라크로스_light_glossy_promo_f.webp",
+    "reference_sha256": "a481e4bc40cb220bb6f2ea4ee385f047b3a4df1fb650e10bdb6d9d9abeaa3a80",
+    "submitted_prompt": "mobility.txt",
+    "prompt_sha256": "402fbc2833f60dbbe49f062b79cb196f5e94e884f26e355bba56dc170ba64aa9"
+  },
+  {
+    "card": "헤라크로스",
+    "slot": "light_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "/workspace/scratch/449633aecc9d/generated_images/exec-eaf54973-9ef2-4c8f-9939-a66687a41e86.png",
+    "original_sha256": "1f789669784e812e504fa5b93bf2cdcd50536e35549111f0ea0c2d46ff003fab",
+    "output": "img/헤라크로스_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "5a24f02e197916a67e2854cb7a803a27a4d97d7ed2deea1358c5354dea83ab35",
+    "reference": "img/헤라크로스_light_glossy_promo_f.webp",
+    "reference_sha256": "a481e4bc40cb220bb6f2ea4ee385f047b3a4df1fb650e10bdb6d9d9abeaa3a80",
+    "submitted_prompt": "light_overdrive.txt",
+    "prompt_sha256": "028fd0c5ac01f315a645ea7417f9d726386107806cec175468a1c8a7c6a7404f"
+  },
+  {
+    "card": "헤라크로스",
+    "slot": "heavy_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "/workspace/scratch/449633aecc9d/generated_images/exec-a551e234-7893-4bc0-80f7-8819ca0fcf47.png",
+    "original_sha256": "f742299b8933b3227add7c9e07ce85fd0e89cb6d4f65c72c1a5d8da3015d5892",
+    "output": "img/헤라크로스_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "811e7cfd24cd4679dba30d747ce79ceb8b0cba2c40c468215d2c0571cdb8f1e6",
+    "reference": "img/헤라크로스_heavy_glossy_promo_f.webp",
+    "reference_sha256": "c01b4b13bb61a649853d9843f437c3c38c998b8bd9cbf6a98f22714c14bce456",
+    "submitted_prompt": "heavy_overdrive.txt",
+    "prompt_sha256": "628f3fc9fc8036c7a464a6678f1f623c25d842d3ff0fa7ef1ccf3fd6324452b5"
+  },
+  {
+    "card": "헤라크로스",
+    "slot": "mobility_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "/workspace/scratch/449633aecc9d/generated_images/exec-b4a7a546-d18c-41b6-a408-49af4db7ba0e.png",
+    "original_sha256": "e070f6f3f6976cf368d78b819113ef7bd45a7e1aba4aaf517182cf5caf242682",
+    "output": "img/헤라크로스_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "74844941c0fc11d20d51eb050b405474a1c90b30a73dac5c408f85a8e7f25b04",
+    "reference": "img/헤라크로스_mobility_glossy_promo_f.webp",
+    "reference_sha256": "baf9d6c854795393ec907ce4e462fa9b1753539ab6c67b65bc2c46427bb64f44",
+    "submitted_prompt": "mobility_overdrive.txt",
+    "prompt_sha256": "d9bfdb50a8f27c527583c91d054d098880914c8157d293084ae29fdad16704b7"
+  },
+  {
+    "card": "헤라크로스",
+    "slot": "casual1",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "/workspace/scratch/449633aecc9d/generated_images/exec-ff5f0818-1e17-45ed-b7c4-67a231dcb615.png",
+    "original_sha256": "fc90c12534c426c704f5f7023d93c6013f57434687c614fbce0e865b47b7c3fa",
+    "output": "img/헤라크로스_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "d7bf3370a0a06d2c3df5f2f011b38d6a3912a7cbfae8f946a9e590dcba68a5b4",
+    "reference": "img/헤라크로스_light_glossy_promo_f.webp",
+    "reference_sha256": "a481e4bc40cb220bb6f2ea4ee385f047b3a4df1fb650e10bdb6d9d9abeaa3a80",
+    "submitted_prompt": "casual1.txt",
+    "prompt_sha256": "146bfc80cc73e8be0157f84e127ad5ee55f635e66a68df34687a0aa9479d47d7"
+  },
+  {
+    "card": "헤라크로스",
+    "slot": "casual2",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "/workspace/scratch/449633aecc9d/generated_images/exec-bf6ee3f4-b6d0-45a2-af89-a225f11e2769.png",
+    "original_sha256": "81aebb19a32111ef15e446b162fa7b762012297aada42e530146148bcead9c72",
+    "output": "img/헤라크로스_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "c861663484ebc78c5f71e03e3b8fe226e18fd22df7c6c7eda4e7be4386227d90",
+    "reference": "img/헤라크로스_light_glossy_promo_f.webp",
+    "reference_sha256": "a481e4bc40cb220bb6f2ea4ee385f047b3a4df1fb650e10bdb6d9d9abeaa3a80",
+    "submitted_prompt": "casual2.txt",
+    "prompt_sha256": "ba09b603284726891a75eb35437d2b23d46dbbe0b931be96fea5db1b52358e90"
+  },
+  {
+    "card": "헤라크로스",
+    "slot": "casual3",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "/workspace/scratch/449633aecc9d/generated_images/exec-c2a0c81b-a135-405b-905b-b144887e70b9.png",
+    "original_sha256": "efca7c1e7e219b30d829d9a25c60879f32e474e177f7cbc694cbb01261a93fb1",
+    "output": "img/헤라크로스_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "c82653b64d10303a981b3bbf6ce01f511e26cb712460f87370efb9cfa4a11471",
+    "reference": "img/헤라크로스_light_glossy_promo_f.webp",
+    "reference_sha256": "a481e4bc40cb220bb6f2ea4ee385f047b3a4df1fb650e10bdb6d9d9abeaa3a80",
+    "submitted_prompt": "casual3.txt",
+    "prompt_sha256": "a475c0ad607d57cf3234d068b5e4567d5fd3c27982bdd0621e61f161d6d70dd8"
+  }
+]

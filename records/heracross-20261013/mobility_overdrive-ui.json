@@ -1,0 +1,354 @@
+{
+  "selected": [
+    {
+      "id": "search",
+      "value": ""
+    },
+    {
+      "id": "group",
+      "value": ""
+    },
+    {
+      "id": "source",
+      "value": "헤라크로스"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo"
+    },
+    {
+      "id": "form",
+      "value": "overdrive"
+    },
+    {
+      "id": "base-form",
+      "value": "mobility"
+    },
+    {
+      "id": "form-override",
+      "value": ""
+    },
+    {
+      "id": "motifs",
+      "value": "A long pronged blue beetle-horn crest as a narrow headpiece above the hairline, short antenna-like hair ornaments, cobalt rounded shoulder and forearm plates with small harmless claw-shaped trim, dark blue segmented leg guards and black flexible joints. Open human hands remain fully visible."
+    },
+    {
+      "id": "custom",
+      "value": "1024x1536. Keep the attached closed-form camera pose framing subject scale and all five-finger hand shapes exactly."
+    }
+  ],
+  "storage": {
+    "last": "헤라크로스",
+    "cards": {
+      "이상해씨": {
+        "style": "glossy_promo",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "faceDesignOn": true,
+        "params": {},
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "핫삼": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "faceDesignOn": true,
+        "params": {
+          "apparent age": "youthful adult",
+          "hair color": "crimson",
+          "hairstyle": "bob",
+          "body type": "athletic",
+          "eye color": "gold"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "calm",
+            "pose": "",
+            "orient": "front_3q",
+            "scene": "A quiet futuristic hangar bay with subdued cool depth and a simple floor, no signs or other figures.",
+            "outfit": "",
+            "frame": "full_body",
+            "lens": "natural50",
+            "camera": "",
+            "custom": "1024x1536. Keep the attached closed-form camera pose framing subject scale and all five-finger hand shapes exactly.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "half_smile",
+            "pose": "leaning_furniture",
+            "orient": "side",
+            "scene": "At an empty modern sculpture-gallery terrace after rain at night, leaning sideways against a low stone plinth, face turned to camera, both empty hands resting separately on its top. Head through knees visible, red reflection from an abstract light installation, no signage.",
+            "outfit": "Black opaque square-neck sleeveless fitted top and crimson high-waisted asymmetric midi skirt with a side slit, small silver stud earrings. Bare arms shoulders and part of one leg; sleek fabric only, no metal armor.",
+            "frame": "three_quarter",
+            "lens": "telephoto135",
+            "camera": "",
+            "custom": "1024x1536 vertical. Both complete human hands inside the chosen crop and visibly connected to their own forearms with five distinct natural digits each. Species details remain only small accessories, no armor or weapons.",
+            "aspect": "2:3",
+            "cat": "source_editorial",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "단단지": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "faceDesignOn": true,
+        "params": {
+          "apparent age": "youthful adult",
+          "hair color": "gold",
+          "hairstyle": "twin braids",
+          "body type": "slender",
+          "eye color": "brown"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "calm",
+            "pose": "",
+            "orient": "front_3q",
+            "scene": "A quiet futuristic hangar bay with subdued cool depth and a simple floor, no signs or other figures.",
+            "outfit": "",
+            "frame": "full_body",
+            "lens": "natural50",
+            "camera": "",
+            "custom": "1024x1536. Keep the attached closed-form camera pose framing subject scale and all five-finger hand shapes exactly.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "pensive",
+            "pose": "sitting",
+            "orient": "side",
+            "scene": "On a quiet covered garden verandah at blue evening, seated side-on on a wooden bench with face turned to camera, smoothing a red clay pebble between fingertips above a small tray. Both forearms and hands readable and separate, head to knees, lantern amber light and rain-damp foliage.",
+            "outfit": "Opaque cream spaghetti-strap fitted knit top and mustard high-waisted long pleated skirt, small round red hair clasp and flat sandals. Bare shoulders and arms; soft woven fabric and no armor.",
+            "frame": "three_quarter",
+            "lens": "portrait85",
+            "camera": "",
+            "custom": "1024x1536 vertical. Both complete human hands inside the chosen crop and visibly connected to their own forearms with five distinct natural digits each. Species details remain only small accessories, no armor or weapons.",
+            "aspect": "2:3",
+            "cat": "hobbies_leisure",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "헤라크로스": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "A long pronged blue beetle-horn crest as a narrow headpiece above the hairline, short antenna-like hair ornaments, cobalt rounded shoulder and forearm plates with small harmless claw-shaped trim, dark blue segmented leg guards and black flexible joints. Open human hands remain fully visible.",
+        "formOverride": "",
+        "headFeature": "",
+        "faceDesignOn": true,
+        "params": {
+          "apparent age": "youthful adult",
+          "hair color": "navy",
+          "hairstyle": "high ponytail",
+          "body type": "toned",
+          "eye color": "gold"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "calm",
+            "pose": "",
+            "orient": "front_3q",
+            "scene": "A quiet futuristic hangar bay with subdued cool depth and a simple floor, no signs or other figures.",
+            "outfit": "",
+            "frame": "full_body",
+            "lens": "natural50",
+            "camera": "",
+            "custom": "1024x1536. Keep the attached closed-form camera pose framing subject scale and all five-finger hand shapes exactly.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  },
+  "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Heracross (헤라크로스), bug / fighting type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a lime-green glow with shimmering wing-like light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: 1024x1536. Keep the attached closed-form camera pose framing subject scale and all five-finger hand shapes exactly.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers."
+}

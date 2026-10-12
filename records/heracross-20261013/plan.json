@@ -1,0 +1,63 @@
+{
+  "name": "헤라크로스",
+  "no": 214,
+  "hair": "navy",
+  "cut": "high ponytail",
+  "body": "toned",
+  "eyes": "gold",
+  "wear": "A long pronged blue beetle-horn crest as a narrow headpiece above the hairline, short antenna-like hair ornaments, cobalt rounded shoulder and forearm plates with small harmless claw-shaped trim, dark blue segmented leg guards and black flexible joints. Open human hands remain fully visible.",
+  "casual": [
+    {
+      "cat": "active",
+      "expr": "determined",
+      "pose": "stretching",
+      "orient": "front_3q",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "In an empty outdoor calisthenics park at fresh sunrise, taking a controlled standing side stretch with one open hand on her hip and the other extended at shoulder height, fingers relaxed. Face toward camera, head through knees, low wooden exercise platforms and soft morning mist.",
+      "outfit": "Opaque navy racerback cropped athletic tank with cobalt piping, cream high-waisted running shorts and blue trainers, tiny horn-shaped pendant. Bare shoulders arms midriff and legs, ordinary activewear."
+    },
+    {
+      "cat": "adult_roleplay",
+      "expr": "playful",
+      "pose": "carrying_something",
+      "orient": "side",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "At an empty summer honey-tasting fair pavilion in golden afternoon light, side-on with face turned to camera, carrying a small plain wicker sample basket at waist height with both hands supporting its opposite sides. Whole head shoes and hands visible, timber posts and hanging amber glass decorations.",
+      "outfit": "Original adult beekeeper-inspired event fashion: cobalt sleeveless cropped collared vest with cream trim and cream high-waisted flared shorts, ankle boots and a tiny blue beetle brooch. Bare arms and midriff; decorative roleplay costume without authentic institutional marks or equipment."
+    },
+    {
+      "cat": "everyday_basic",
+      "expr": "soft_smile",
+      "pose": "adjusting_bag",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "telephoto135",
+      "scene": "At home beside an open window at purple twilight, reaching sideways to close an unmarked blue canvas tote zipper with one hand while the other steadies the tote on a console. Both complete hands and forearms inside crop, face visible, warm room light against violet sky.",
+      "outfit": "Opaque cobalt sleeveless V-neck wrap knit top with secured neckline, charcoal high-waisted wide-leg trousers and a small gold oval stud earring. Bare shoulders arms and modest midriff gap; casual clothing."
+    }
+  ],
+  "comparison": {
+    "reviewed": [
+      "나무킹",
+      "파이어",
+      "썬더"
+    ],
+    "sources": [
+      "records/sceptile-20261013/casual1.txt..casual3.txt",
+      "records/moltres-20261013/casual1.txt..casual3.txt",
+      "records/zapdos-20261013/casual1.txt..casual3.txt"
+    ],
+    "changes": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ],
+    "earlier_this_task": [
+      "핫삼",
+      "단단지"
+    ]
+  }
+}
