@@ -1,0 +1,77 @@
+{
+  "mech": "메타몽",
+  "sourceName": "Ditto",
+  "series": "normal",
+  "sourceAppearance": {
+    "name": "메타몽",
+    "en": "Ditto",
+    "color": "purple",
+    "shape": "ball",
+    "features": [
+      {
+        "part": "body",
+        "detail": "pink-purple amorphous body"
+      },
+      {
+        "part": "arm",
+        "detail": "short pseudopod arms"
+      },
+      {
+        "part": "surface",
+        "detail": "soft rounded lobes"
+      },
+      {
+        "part": "face",
+        "detail": "tiny eyes and simple smiling mouth"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Ditto_%28Pok%C3%A9mon%29",
+    "revision": 4632008,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "529cf435133bfc2a3f85fc4e59f512034f8d58216a17ba98ff0d4b1705e1a8da",
+    "method": "source-checked-correction",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "faceDesign": {
+    "name": "메타몽",
+    "en": "Ditto",
+    "line": "메타몽",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "softly rounded",
+      "face length": "short",
+      "face width": "wide",
+      "jaw & chin": "soft rounded jaw",
+      "eye shape": "large",
+      "eye size": "small",
+      "eye tilt": "level outer corners",
+      "eye spacing": "wide-set eyes",
+      "eyebrows": "fine soft arches",
+      "nose character": "small delicate nose",
+      "lips": "medium lips"
+    },
+    "why": "단순한 점눈과 부드럽게 변하는 몸을 작은 둥근 사람 눈과 완만한 얼굴로 해석한다.",
+    "cues": [
+      "몸 형태 ball → 얼굴형 부드럽고 둥근 얼굴형",
+      "몸 형태 ball → 얼굴 길이 짧은 얼굴",
+      "몸 형태 ball → 턱선 · 턱끝 부드럽고 둥근 턱",
+      "‘tiny eyes and simple smiling mouth’ → 눈 크기 작은 눈",
+      "몸 형태 ball → 눈 간격 눈 사이가 넓은"
+    ],
+    "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 입술 입이 넓은 → 보통"
+  },
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "outputMode": "action",
+  "identityMode": "create",
+  "form": "overdrive",
+  "baseForm": "heavy",
+  "slot": "heavy_overdrive"
+}

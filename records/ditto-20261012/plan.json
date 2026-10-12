@@ -1,0 +1,74 @@
+{
+  "card": "메타몽",
+  "date": "2026-10-12",
+  "style": "glossy_promo",
+  "casual": [
+    {
+      "cat": "adult_roleplay",
+      "expr": "playful",
+      "pose": "dance_step",
+      "orient": "front",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "An empty theatrical rehearsal stage at golden evening, practicing a small dance step with both relaxed hands separately visible, full head and shoes in frame. Velvet plum curtains and soft theatrical sidelights, no audience or text.",
+      "outfit": "Opaque lavender sleeveless fitted performance mini dress with a secure high neckline, plum pleated skirt, opaque plum dance tights and lavender dance shoes, tiny rounded silver brooch. Original adult stage performer event fashion, bare shoulders and arms, fully covered chest and pelvis; no armor."
+    },
+    {
+      "cat": "food_berries",
+      "expr": "focused",
+      "pose": "preparing_food",
+      "orient": "front_3q",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "In an empty pastel confectionery kitchen at bright morning, decorating berry-shaped jelly desserts on a counter with a small spoon in one hand and the other open hand beside the tray; both complete hands and forearms within waist-up crop. Soft window light, no lettering.",
+      "outfit": "Opaque lilac square-neck sleeveless cropped blouse and high-waisted cream shorts with a small plum waist apron, tiny round violet earrings. Bare shoulders, arms and midriff, fully covered chest and pelvis; no armor."
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "gentle",
+      "pose": "kneeling",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "Kneeling side-on at a raised planting bench in an empty glass conservatory at misty noon, face turned toward camera, lightly settling a small succulent into a pot with both hands separated on opposite sides. Head through knees and whole hands visible, green glass reflections and diffuse daylight.",
+      "outfit": "Opaque pink-purple racerback crop tank, high-waisted plum wide-leg culotte shorts, open lightweight cream sleeveless utility vest and simple garden shoes, tiny rounded hairclip. Bare arms, shoulders and midriff, secure chest and pelvis coverage; no armor."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "reviewed": [
+      "잉어킹",
+      "갸라도스",
+      "라프라스"
+    ],
+    "scope": "Read all three plans and nine submitted casual prompts. Compared armor anchors of these three and family when applicable.",
+    "changed": [
+      "location",
+      "specific activity",
+      "outfit silhouette",
+      "composition"
+    ]
+  },
+  "face": {
+    "why": "단순한 점눈과 부드럽게 변하는 몸을 작은 둥근 사람 눈과 완만한 얼굴로 해석한다.",
+    "sources": [
+      "data/face-design.json#132",
+      "data/source-appearance.json#132"
+    ],
+    "canonical": "light",
+    "comparison_observed": [
+      "메타몽",
+      "이브이",
+      "샤미드",
+      "잉어킹",
+      "갸라도스",
+      "라프라스",
+      "에브이",
+      "블래키"
+    ]
+  },
+  "moderation_retry": "First stage bodysuit output was blocked; regenerated with performance dress and opaque dance tights, same scene."
+}
