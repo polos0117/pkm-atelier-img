@@ -7,7 +7,7 @@
       "ui": {
         "category": "adult_roleplay",
         "expression": "confident",
-        "pose": "holding_object",
+        "pose": "carrying_something",
         "orientation": "side",
         "frame": "three_quarter",
         "lens": "portrait85"
@@ -24,9 +24,9 @@
     {
       "slot": "casual2",
       "ui": {
-        "category": "cooking_berries",
+        "category": "food_berries",
         "expression": "focused",
-        "pose": "food_prep",
+        "pose": "preparing_food",
         "orientation": "high_angle",
         "frame": "waist_up",
         "lens": "natural50"
@@ -70,7 +70,7 @@
       "마임맨",
       "아쿠스타"
     ],
-    "scope": "Read current plans and submitted prompts when available; Espeon plan only because standalone prompt files absent. Earlier supplementary Wooper/Yanma plans also read.",
+    "scope": "Read current plans and all nine submitted casual prompts from Espeon manifest and Mr. Mime/Starmie prompt files; supplementary Wooper/Yanma plans also read.",
     "changed": [
       "location",
       "specific activity",

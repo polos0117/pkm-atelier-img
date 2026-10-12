@@ -2,5 +2,7 @@
   "card": "스라크",
   "completed": 9,
   "light": "img/스라크_light_glossy_promo_f.webp",
-  "state": "generated and visually reviewed; commit pending"
+  "state": "nine registered; repairing empty upload of heavy_overdrive from hash-verified original; thumbnail rerun pending",
+  "image_commit": "e5f9f2b9366ed1bf61516dd4b1d19f5e32b3f4fd",
+  "registration_commit": "92d744b5958ce56ca4eda4b89ab5502116967097"
 }
