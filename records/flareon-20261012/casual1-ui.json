@@ -1,0 +1,20 @@
+{
+  "mech": "부스터",
+  "style": "glossy_promo",
+  "aspect": "2:3",
+  "identityMode": "reference",
+  "cat": "food_berries",
+  "expr": "focused",
+  "pose": "preparing_food",
+  "orient": "front_3q",
+  "frame": "waist_up",
+  "lens": "natural50",
+  "scene": "At an empty brick-oven bakery workshop at sunrise, arranging a few plain pastries on a low cooling tray with one hand while the other rests separately beside it. Head through waist and complete forearms and hands visible, warm oven glow and soft cool dawn window light, no signs or lettering.",
+  "outfit": "Opaque cream sleeveless scoop-neck blouse and burnt-orange high-waisted shorts, an ochre waist apron tied below the midriff and tiny flame stud earrings. Bare shoulders, arms and midriff, fully covered chest and pelvis, ordinary bakery hobby clothing, no armor.",
+  "outputMode": "casual",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "custom": "1024x1536 vertical. Preserve the approved adult identity, face, haircut and body proportions. Both complete hands visibly attached to their respective forearms with one thumb and four separate natural fingers each. No armor, weapons, text, logos or extra figures."
+}

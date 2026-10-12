@@ -1,0 +1,19 @@
+{
+  "approved": 9,
+  "canonical": {
+    "slot": "light",
+    "source": "/workspace/scratch/ae1b1ad8e00c/generated_images/exec-f39843f5-0ccb-4d95-aa02-d1f244b194f5.png",
+    "path": "/workspace/scratch/ae1b1ad8e00c/pkm-atelier-img/img/부스터_light_glossy_promo_f.webp",
+    "filename": "부스터_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "825b05b266661f65f406d336c0dece0d66fdb618d7accf3326c73c3eda06d77d",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  "phase": "ready_to_commit",
+  "generation": "built-in imagegen"
+}

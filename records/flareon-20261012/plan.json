@@ -1,0 +1,69 @@
+{
+  "name": "부스터",
+  "casual": [
+    {
+      "cat": "food_berries",
+      "expr": "focused",
+      "pose": "preparing_food",
+      "orient": "front_3q",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "At an empty brick-oven bakery workshop at sunrise, arranging a few plain pastries on a low cooling tray with one hand while the other rests separately beside it. Head through waist and complete forearms and hands visible, warm oven glow and soft cool dawn window light, no signs or lettering.",
+      "outfit": "Opaque cream sleeveless scoop-neck blouse and burnt-orange high-waisted shorts, an ochre waist apron tied below the midriff and tiny flame stud earrings. Bare shoulders, arms and midriff, fully covered chest and pelvis, ordinary bakery hobby clothing, no armor."
+    },
+    {
+      "cat": "lingerie",
+      "expr": "sleepy",
+      "pose": "side_sitting",
+      "orient": "front",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "In an empty bright bedroom at late morning, sitting on a low upholstered bench with legs comfortably to one side while carefully sliding a soft indoor slipper onto one foot. One complete hand holds the slipper, the other rests visibly on the seat. Entire head, both hands and feet visible, sheer curtains filter gold sun, no mirror or text.",
+      "outfit": "Opaque cream satin camisole with secure broad straps and delicate orange lace trim, matching high-waisted satin lounge shorts, an open lightweight russet cardigan resting behind the elbows. Lingerie-inspired adult home fashion, bare shoulders, midriff and legs, full chest and pelvis coverage, no armor."
+    },
+    {
+      "cat": "traditional",
+      "expr": "amused",
+      "pose": "walking",
+      "orient": "turning_midmotion",
+      "frame": "three_quarter",
+      "lens": "telephoto135",
+      "scene": "Walking along an empty lantern-lined courtyard at early evening while unfolding a small plain cream paper fan at waist height, hands separated on the fan's outer edge and handle. Body gently turning toward camera, face and complete hands visible, head through knees, amber lantern glow and indigo sky, no festival crowd or lettering.",
+      "outfit": "Opaque coral sleeveless wrap blouse with a diagonal secured neckline, cream high-waisted flowing midi wrap skirt with side slit, soft sandals and a small flame-shaped hairpin. Traditional-inspired summer festival fashion with bare arms and a visible section of leg, chest and pelvis fully covered, no armor."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "reviewed": [
+      "샤미드",
+      "쏘콘",
+      "피콘",
+      "쥬피썬더"
+    ],
+    "scope": "Read plans and nine submitted recent casual prompts; visually compared canonical faces with recent three and Eevee family.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "face": {
+    "source": [
+      "data/face-design.json",
+      "data/source-appearance.json"
+    ],
+    "comparison": [
+      "이브이",
+      "샤미드",
+      "쥬피썬더",
+      "쏘콘",
+      "피콘",
+      "키링키"
+    ],
+    "canonical_sha256": "825b05b266661f65f406d336c0dece0d66fdb618d7accf3326c73c3eda06d77d"
+  }
+}

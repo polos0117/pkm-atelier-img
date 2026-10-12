@@ -1,0 +1,20 @@
+{
+  "mech": "부스터",
+  "style": "glossy_promo",
+  "aspect": "2:3",
+  "identityMode": "reference",
+  "cat": "traditional",
+  "expr": "amused",
+  "pose": "walking",
+  "orient": "turning_midmotion",
+  "frame": "three_quarter",
+  "lens": "telephoto135",
+  "scene": "Walking along an empty lantern-lined courtyard at early evening while unfolding a small plain cream paper fan at waist height, hands separated on the fan's outer edge and handle. Body gently turning toward camera, face and complete hands visible, head through knees, amber lantern glow and indigo sky, no festival crowd or lettering.",
+  "outfit": "Opaque coral sleeveless wrap blouse with a diagonal secured neckline, cream high-waisted flowing midi wrap skirt with side slit, soft sandals and a small flame-shaped hairpin. Traditional-inspired summer festival fashion with bare arms and a visible section of leg, chest and pelvis fully covered, no armor.",
+  "outputMode": "casual",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "custom": "1024x1536 vertical. Preserve the approved adult identity, face, haircut and body proportions. Both complete hands visibly attached to their respective forearms with one thumb and four separate natural fingers each. No armor, weapons, text, logos or extra figures."
+}

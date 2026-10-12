@@ -1,0 +1,128 @@
+[
+  {
+    "slot": "light",
+    "source": "/workspace/scratch/ae1b1ad8e00c/generated_images/exec-f39843f5-0ccb-4d95-aa02-d1f244b194f5.png",
+    "path": "/workspace/scratch/ae1b1ad8e00c/pkm-atelier-img/img/부스터_light_glossy_promo_f.webp",
+    "filename": "부스터_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "825b05b266661f65f406d336c0dece0d66fdb618d7accf3326c73c3eda06d77d",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "heavy",
+    "source": "/workspace/scratch/ae1b1ad8e00c/generated_images/exec-6575090f-8984-4519-82a2-14872c1961be.png",
+    "path": "/workspace/scratch/ae1b1ad8e00c/pkm-atelier-img/img/부스터_heavy_glossy_promo_f.webp",
+    "filename": "부스터_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "b43c89a42c348ed6c334e6a6f2addd63039022f6c7062342ad30510e6607f83b",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "mobility",
+    "source": "/workspace/scratch/ae1b1ad8e00c/generated_images/exec-1a2a672d-1d94-4f98-a82b-2664d1f8534b.png",
+    "path": "/workspace/scratch/ae1b1ad8e00c/pkm-atelier-img/img/부스터_mobility_glossy_promo_f.webp",
+    "filename": "부스터_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "dfc6f98c78e95e1938a67e7a4b1e0ed60e761c3270c4a680a66ca6fc372ff809",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "light_overdrive",
+    "source": "/workspace/scratch/ae1b1ad8e00c/generated_images/exec-c2aaadd8-2fdf-4792-a705-bf5f3b460e73.png",
+    "path": "/workspace/scratch/ae1b1ad8e00c/pkm-atelier-img/img/부스터_light_overdrive_glossy_promo_f.webp",
+    "filename": "부스터_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "0b4775d67f9af3cd8195a7e3c55727459a7403e428bd96888fcf7862b73a5adf",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "heavy_overdrive",
+    "source": "/workspace/scratch/ae1b1ad8e00c/generated_images/exec-02ba0895-6050-4fa0-a5cc-8fc03627cfa5.png",
+    "path": "/workspace/scratch/ae1b1ad8e00c/pkm-atelier-img/img/부스터_heavy_overdrive_glossy_promo_f.webp",
+    "filename": "부스터_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "af4b6cb9d134c3f3c68be0fa215f77fbd9b96e027d53b21b3e7698ff8e3cdfae",
+    "reference": "heavy",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "mobility_overdrive",
+    "source": "/workspace/scratch/ae1b1ad8e00c/generated_images/exec-ea12696f-c19c-47ec-b0c7-8ef75498cb0a.png",
+    "path": "/workspace/scratch/ae1b1ad8e00c/pkm-atelier-img/img/부스터_mobility_overdrive_glossy_promo_f.webp",
+    "filename": "부스터_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "c094a1c4ecb8afd02f7a397885ccf1d710e9acc1cdce0faaea181695f6f06a90",
+    "reference": "mobility",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "casual1",
+    "source": "/workspace/scratch/ae1b1ad8e00c/generated_images/exec-654b20e1-b1f1-47c5-b0df-16ff41085ed0.png",
+    "path": "/workspace/scratch/ae1b1ad8e00c/pkm-atelier-img/img/부스터_glossy_promo_f_casual1.webp",
+    "filename": "부스터_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "19555315e962009a1c36189ba173d6eaae576086dc28ad0f352fa1fa370cfb6a",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "casual2",
+    "source": "/workspace/scratch/ae1b1ad8e00c/generated_images/exec-65db9405-d898-43cf-a966-90ac77a5e9ed.png",
+    "path": "/workspace/scratch/ae1b1ad8e00c/pkm-atelier-img/img/부스터_glossy_promo_f_casual2.webp",
+    "filename": "부스터_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "18377c58c1a4599e2c5349a1d9a63d5e1e2119f58bfb9fefb649107d99d5f792",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  },
+  {
+    "slot": "casual3",
+    "source": "/workspace/scratch/ae1b1ad8e00c/generated_images/exec-3964ef21-3daf-4e0d-abc3-0c07b1fb96f5.png",
+    "path": "/workspace/scratch/ae1b1ad8e00c/pkm-atelier-img/img/부스터_glossy_promo_f_casual3.webp",
+    "filename": "부스터_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "be6df1d2fe3f2e53f7a2b01a3936b295920d4279a6532bcbdc7bc620a5e151ef",
+    "reference": "light",
+    "style": "glossy_promo",
+    "ui_verified": true
+  }
+]

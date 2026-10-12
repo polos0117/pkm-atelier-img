@@ -1,0 +1,20 @@
+{
+  "mech": "부스터",
+  "style": "glossy_promo",
+  "aspect": "2:3",
+  "identityMode": "reference",
+  "cat": "lingerie",
+  "expr": "sleepy",
+  "pose": "side_sitting",
+  "orient": "front",
+  "frame": "full_body",
+  "lens": "documentary35",
+  "scene": "In an empty bright bedroom at late morning, sitting on a low upholstered bench with legs comfortably to one side while carefully sliding a soft indoor slipper onto one foot. One complete hand holds the slipper, the other rests visibly on the seat. Entire head, both hands and feet visible, sheer curtains filter gold sun, no mirror or text.",
+  "outfit": "Opaque cream satin camisole with secure broad straps and delicate orange lace trim, matching high-waisted satin lounge shorts, an open lightweight russet cardigan resting behind the elbows. Lingerie-inspired adult home fashion, bare shoulders, midriff and legs, full chest and pelvis coverage, no armor.",
+  "outputMode": "casual",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "custom": "1024x1536 vertical. Preserve the approved adult identity, face, haircut and body proportions. Both complete hands visibly attached to their respective forearms with one thumb and four separate natural fingers each. No armor, weapons, text, logos or extra figures."
+}
