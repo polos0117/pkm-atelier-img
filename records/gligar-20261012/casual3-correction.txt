@@ -1,0 +1,27 @@
+CHARACTER: the same woman as the attached image — Gligar (글라이거) personified, ground / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+MOTIFS to echo lightly: Long triangular ears become sleek purple angular hair ornaments; gliding membranes become a split blue-and-purple cape from the shoulders; curved stinger becomes a tapering belt sash with a rounded tip; claw shapes become forearm plate edges, with ordinary separate five-finger human gloves..
+
+SCENE (chosen):
+Expression: gaze angled down and away, slightly furrowed brow, lips lightly pressed or touched
+Pose: Perch on a low ledge or bench with the feet resting naturally below.
+Orientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together
+Scene: Empty riverside tram shelter on a rainy evening, perched on a low bench watching rain, one open hand on each side of bench, both hands fully inside knee-up crop. Soft orange city bokeh and blue puddle light.
+Outfit and props: Opaque blue one-shoulder knit top, violet high-waisted tailored wide-leg shorts, ankle boots and one tiny curved silver bracelet. Bare shoulder, arms and legs, ordinary evening fashion.
+Category: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.
+Note: 1024x1536 vertical. One adult woman in her twenties. Both complete hands visibly connect to their own forearms, each with exactly one thumb and four distinct fingers; no fused digits. No weapons, text, logos or other figures. No large armor motifs, cape, headpieces or tail sash; retain only the small accessories described. Follow the selected crop exactly.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+Lens / perspective: 135mm-equivalent telephoto perspective from farther away, with compressed background depth and unchanged anatomy.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
+CORRECTION: Remove ALL purple head ornaments, all stinger-shaped skirt decorations and all armor. Plain short asymmetric purple hair, tiny plain silver stud earrings and tiny curved silver bracelet only. Close knee-up composition: frame complete head through upper thighs ending just ABOVE both knees, no shins or boots visible. Seated on tram bench with one bare open hand on each side, both complete hands visible. Preserve her approved face and haircut, calm thoughtful expression, rain shelter and blue one-shoulder knit top with ordinary violet tailored shorts. Do not copy armor or costume ornaments from the reference.

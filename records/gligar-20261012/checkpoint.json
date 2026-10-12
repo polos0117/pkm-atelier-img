@@ -1,0 +1,123 @@
+{
+  "card": "글라이거",
+  "canonical": "/workspace/scratch/8caa05af95e7/pkm-atelier-img/img/글라이거_light_glossy_promo_f.webp",
+  "sha256": "a0fc6c9c96d12e0705e4518af424c9fba5d16b38c0e55f86750af382967f2af2",
+  "face_reason": "둥근 머리와 전갈의 날카로운 갈고리 대비를 작은 턱과 올라간 눈매로 해석한다.",
+  "face_prompt": "FACE (her own structure, not the style's default face): heart-shaped face, balanced length, medium width; narrow tapered chin; sharp eyes, medium size, upturned outer corners, close-set; long arched brows; straight slender bridge nose; wide mouth.",
+  "face_comparison": [
+    "메타몽",
+    "이브이",
+    "샤미드"
+  ],
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "qa": "Inspected generated outputs: identity retained, each hand attached with five distinct digits, requested framing, armor form distinction and closed/open composition retained.",
+  "images": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-1a8f11b6-7154-467e-bea0-d9dc8db82f5c.png",
+      "file": "글라이거_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "slot": "heavy",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-8df354a9-e4e4-4975-8e45-5ec5cc6fe79b.png",
+      "file": "글라이거_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "60b7e11f059d708996e64275530130ba1a67fea5fcb1b78c8899430dcf14dcc0",
+      "reference": "/workspace/scratch/8caa05af95e7/pkm-atelier-img/img/글라이거_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "mobility",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-42f2d3c3-c512-47d1-b785-68c7ad4d3f09.png",
+      "file": "글라이거_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "a43cb9dae7b5c1b754649d8f316327c4b1ad25ea9302ab74f7a6928e82ef8928",
+      "reference": "/workspace/scratch/8caa05af95e7/pkm-atelier-img/img/글라이거_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-26853d14-910c-4a12-bc2a-368efb5e856d.png",
+      "file": "글라이거_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "346e68d50e0bc4dc389b1b5134c2908d2c307c688912881404c46070067d8707",
+      "reference": "글라이거_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-e5adbe94-0b50-4798-85a3-4015ae52a22c.png",
+      "file": "글라이거_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "bc08195be3713eff10cd30f1a8ae9b4daa3ebc0e33392b51528ece3e520cfcb0",
+      "reference": "글라이거_heavy_glossy_promo_f.webp"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-8ae30f01-3299-4688-af78-c0da27637b6e.png",
+      "file": "글라이거_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "d59a903f183d804ac0a7146aa01b9f0cd2c737c471b07a098e2de75576135ee9",
+      "reference": "글라이거_mobility_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual1",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-a39e0112-931b-497a-9648-25a11700c48e.png",
+      "file": "글라이거_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "0ce82aac697f9840bcff82b7c00601bf1bf29d31bcb42985fcec415aa697f4b3",
+      "reference": "/workspace/scratch/8caa05af95e7/pkm-atelier-img/img/글라이거_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-236e85cd-aee8-4daf-bdba-2fa2c644d394.png",
+      "file": "글라이거_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "fe655a6d08bb95ec2f4acbe01e74a27be4b4e93fd1d0007d434153e3097a97d7",
+      "reference": "/workspace/scratch/8caa05af95e7/pkm-atelier-img/img/글라이거_light_glossy_promo_f.webp"
+    },
+    {
+      "slot": "casual3",
+      "source": "/workspace/scratch/8caa05af95e7/generated_images/exec-a65b50be-de69-4def-a1ab-cc192e3dca2f.png",
+      "file": "글라이거_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "adbafc7536a7278e7e58d6799991097cd7fc281eb28582b89a14f39f59b42257",
+      "reference": "/workspace/scratch/8caa05af95e7/pkm-atelier-img/img/글라이거_light_glossy_promo_f.webp"
+    }
+  ]
+}
