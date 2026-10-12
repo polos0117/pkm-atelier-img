@@ -1,0 +1,21 @@
+{
+  "mech": "링곰",
+  "style": "glossy_promo",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "active",
+  "expr": "determined",
+  "pose": "one_knee_up",
+  "orient": "front",
+  "frame": "full_body",
+  "lens": "documentary35",
+  "aspect": "2:3",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "On a quiet mountain overlook at crisp morning, taking a grounded hip-mobility stretch on a plain exercise mat with one knee raised, one open hand on the raised knee and the other resting separately on the mat. Entire head hands and feet visible, pine forest and soft cloud sea.",
+  "outfit": "Opaque chocolate racerback sports crop top with broad cream piping, high-waisted dark olive fitted cycling shorts, brown trail shoes, small circular necklace. Bare arms shoulders midriff and lower legs; ordinary activewear.",
+  "custom": "Same adult woman as approved light reference. Remove bear-ear ornaments, thick fur collar and belt tail. Only tiny circular jewelry remains; no armor, no weapons.",
+  "camera": "1024x1536 vertical, eye-level. Both complete hands connected naturally to their own forearms, all fingers readable."
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "mech": "링곰",
+    "style": "glossy_promo",
+    "outputMode": "casual",
+    "identityMode": "reference",
+    "cat": "lingerie",
+    "expr": "pensive",
+    "pose": "mid_action",
+    "orient": "front_3q",
+    "frame": "waist_up",
+    "lens": "portrait85",
+    "aspect": "2:3",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "scene": "At a quiet dressing table in her timber cabin at late evening, adjusting a satin robe cuff with one hand while the other forearm rests separately on the table. Face and both whole hands in crop, warm shaded lamp and dark window, no mirror reflection.",
+    "outfit": "Opaque cocoa-brown full-cup lingerie-inspired camisole with cream lace trim and secure wide straps, matching high-waisted satin shorts, light cream short open robe draped below the shoulders, tiny circular gold pendant. Bare shoulders arms and midriff; chest and pelvis fully covered by opaque fabric.",
+    "custom": "Same adult woman as approved light reference. Remove bear-ear ornaments, thick fur collar and belt tail. Only tiny circular jewelry remains; no armor, no weapons.",
+    "camera": "1024x1536 vertical, eye-level. Both complete hands connected naturally to their own forearms, all fingers readable."
+  },
+  {
+    "mech": "링곰",
+    "style": "glossy_promo",
+    "outputMode": "casual",
+    "identityMode": "reference",
+    "cat": "active",
+    "expr": "determined",
+    "pose": "one_knee_up",
+    "orient": "front",
+    "frame": "full_body",
+    "lens": "documentary35",
+    "aspect": "2:3",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "scene": "On a quiet mountain overlook at crisp morning, taking a grounded hip-mobility stretch on a plain exercise mat with one knee raised, one open hand on the raised knee and the other resting separately on the mat. Entire head hands and feet visible, pine forest and soft cloud sea.",
+    "outfit": "Opaque chocolate racerback sports crop top with broad cream piping, high-waisted dark olive fitted cycling shorts, brown trail shoes, small circular necklace. Bare arms shoulders midriff and lower legs; ordinary activewear.",
+    "custom": "Same adult woman as approved light reference. Remove bear-ear ornaments, thick fur collar and belt tail. Only tiny circular jewelry remains; no armor, no weapons.",
+    "camera": "1024x1536 vertical, eye-level. Both complete hands connected naturally to their own forearms, all fingers readable."
+  },
+  {
+    "mech": "링곰",
+    "style": "glossy_promo",
+    "outputMode": "casual",
+    "identityMode": "reference",
+    "cat": "homewear",
+    "expr": "soft_smile",
+    "pose": "leaning_furniture",
+    "orient": "side",
+    "frame": "three_quarter",
+    "lens": "natural50",
+    "aspect": "2:3",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "scene": "On her sheltered cabin balcony after an autumn rain at sunset, standing side-on with face turned to camera, leaning lightly against a wooden bench while folding a thick plain wool blanket with two separately visible hands. Head through knees in view, wet leaves and warm cabin windows.",
+    "outfit": "Opaque cream rib-knit sleeveless cropped tank with a secured square neckline, cocoa high-waisted loose wide-leg lounge trousers, tiny circular stud earrings. Bare arms shoulders and midriff, soft homewear without costume parts.",
+    "custom": "Same adult woman as approved light reference. Remove bear-ear ornaments, thick fur collar and belt tail. Only tiny circular jewelry remains; no armor, no weapons.",
+    "camera": "1024x1536 vertical, eye-level. Both complete hands connected naturally to their own forearms, all fingers readable."
+  }
+]

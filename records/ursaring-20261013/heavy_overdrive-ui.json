@@ -1,0 +1,17 @@
+{
+  "mech": "링곰",
+  "style": "glossy_promo",
+  "outputMode": "action",
+  "identityMode": "reference",
+  "form": "overdrive",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "A wide rocky woodland service hangar at late afternoon, sturdy relaxed standing card pose, both hands separate from the torso, warm gold light on broad plates.",
+  "camera": "1024x1536 vertical. Eye-level, full figure fills 86 percent of image height, both hands and feet completely visible.",
+  "motifs": "",
+  "baseForm": "heavy"
+}

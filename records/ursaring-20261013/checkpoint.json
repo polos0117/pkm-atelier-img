@@ -1,0 +1,276 @@
+{
+  "name": "링곰",
+  "date": "2026-10-13",
+  "style": "glossy_promo",
+  "completed": 9,
+  "required": 9,
+  "status": "9 images visually reviewed; ready for non-force main publication",
+  "approved_light": {
+    "card": "링곰",
+    "slot": "light",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+    "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-68fa603e-880f-4747-bec8-701137dcbace.png",
+    "original_sha256": "ea65a07da76d05b076f1b2769516c87f38d43e4f3edb8ea2e7acd38f107418a5",
+    "output": "img/링곰_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "dc0832054ad2632a45ef12cbb1a29a5a85db62e908b1f454164ea2e3029c09d8",
+    "reference": null,
+    "reference_sha256": null,
+    "submitted_prompt": "light.txt",
+    "prompt_sha256": "f448392b4758eb23d08ad4e67c4d6512f776a86d07e5c5ed1fc30449301baf87"
+  },
+  "outputs": [
+    {
+      "card": "링곰",
+      "slot": "light",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-68fa603e-880f-4747-bec8-701137dcbace.png",
+      "original_sha256": "ea65a07da76d05b076f1b2769516c87f38d43e4f3edb8ea2e7acd38f107418a5",
+      "output": "img/링곰_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "dc0832054ad2632a45ef12cbb1a29a5a85db62e908b1f454164ea2e3029c09d8",
+      "reference": null,
+      "reference_sha256": null,
+      "submitted_prompt": "light.txt",
+      "prompt_sha256": "f448392b4758eb23d08ad4e67c4d6512f776a86d07e5c5ed1fc30449301baf87"
+    },
+    {
+      "card": "링곰",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-3122a017-924e-4b44-8495-b19157e3076a.png",
+      "original_sha256": "e847b3aa3f4c659c64b164cb526e07889e15267ef95de6ca8d1225b763fef6bb",
+      "output": "img/링곰_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "3723d6f60fa2596409990929578b3c2577586fae3e8a0419849a23ba29451e72",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-68fa603e-880f-4747-bec8-701137dcbace.png",
+      "reference_sha256": "ea65a07da76d05b076f1b2769516c87f38d43e4f3edb8ea2e7acd38f107418a5",
+      "submitted_prompt": "heavy.txt",
+      "prompt_sha256": "d9e2fc1de51b7344e3bf914c2215f9027dd4046443307e84a728c7a05ce785a3"
+    },
+    {
+      "card": "링곰",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-e89d68a6-6bc6-4d9c-b6eb-15ce2b275f2a.png",
+      "original_sha256": "afaba372f5d19c584cabae01e14a6fa445f3b206a7895abd61a0c6e6c71af19a",
+      "output": "img/링곰_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "89037ce8f98135df6c36962f01a62217c4e643c175a5d79aec9fb5cf9b6977c4",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-68fa603e-880f-4747-bec8-701137dcbace.png",
+      "reference_sha256": "ea65a07da76d05b076f1b2769516c87f38d43e4f3edb8ea2e7acd38f107418a5",
+      "submitted_prompt": "mobility.txt",
+      "prompt_sha256": "486b5e5fa10480e68fe18c6f06d97618402c3caea29bd6fbd33bb5d3afde12e9"
+    },
+    {
+      "card": "링곰",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-55af438e-ee7e-41b1-a340-72ab00bdb232.png",
+      "original_sha256": "7cd624eebdb14af7f72db5b6bd2caa412ada250556ac9a9ae3c4805ffcc1fd9b",
+      "output": "img/링곰_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "1d020d35827d883cdc2514c65674920439b9d716a6d2309acffd8fcae6f7a2bd",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-68fa603e-880f-4747-bec8-701137dcbace.png",
+      "reference_sha256": "ea65a07da76d05b076f1b2769516c87f38d43e4f3edb8ea2e7acd38f107418a5",
+      "submitted_prompt": "light_overdrive.txt",
+      "prompt_sha256": "16800849efb337b2a270c9b747bce46ab5d404cbd82dce56cdd05b8697d6635b"
+    },
+    {
+      "card": "링곰",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-39531a9d-c025-4e5f-a223-09e7b8f63a7b.png",
+      "original_sha256": "ebccf3ac53f71c789cc4d1fd3856e30bf896f1b9a9c621d50c85d44d70991638",
+      "output": "img/링곰_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "1e4f158690df006650abb44b02b5111136f9ad27e33bb9d883d2f1993e8a11bf",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-3122a017-924e-4b44-8495-b19157e3076a.png",
+      "reference_sha256": "e847b3aa3f4c659c64b164cb526e07889e15267ef95de6ca8d1225b763fef6bb",
+      "submitted_prompt": "heavy_overdrive.txt",
+      "prompt_sha256": "80915496c8b96913929264b308e548cb5570e314939a79bcc2ec563653b57033"
+    },
+    {
+      "card": "링곰",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-de3c3f46-66d5-4fbd-ab6f-ccb05db6326a.png",
+      "original_sha256": "8b0e3f71642001c4ea4c88eef6bb9a0c36dfbf49a028d9c3594015140516a13f",
+      "output": "img/링곰_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "a2e30b941a5363c84a00ba198543206a8d0ce8fe6bd6ddf4bac1c47844fe9cbf",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-e89d68a6-6bc6-4d9c-b6eb-15ce2b275f2a.png",
+      "reference_sha256": "afaba372f5d19c584cabae01e14a6fa445f3b206a7895abd61a0c6e6c71af19a",
+      "submitted_prompt": "mobility_overdrive.txt",
+      "prompt_sha256": "271f8a245e22cb6502068fca6aa933cf5110547566eabe05da0cfa74baa81a0e"
+    },
+    {
+      "card": "링곰",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-6559a979-ba53-47e1-bd4c-5cc721b8fda5.png",
+      "original_sha256": "231a24e512e795f1126ee976eb4c08ce366aeb467f32a6f9cd27b2252350ef86",
+      "output": "img/링곰_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "0c5b65e8ce935b7a7837aac1863180d83df4969c9eafb5b7597d265e5fd80656",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-68fa603e-880f-4747-bec8-701137dcbace.png",
+      "reference_sha256": "ea65a07da76d05b076f1b2769516c87f38d43e4f3edb8ea2e7acd38f107418a5",
+      "submitted_prompt": "casual1.txt",
+      "prompt_sha256": "6323a854f0c9013136d7db6865a61e77e4b208c13afa62abdb64f13363136db6"
+    },
+    {
+      "card": "링곰",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-3dcfdd33-b927-4027-9324-f3e9fe147d55.png",
+      "original_sha256": "59cdff8bce815cdb54f2ff97f50c3faaac7db0212560f86453906991356137ab",
+      "output": "img/링곰_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "908607b53db2e9c52be3f09a2b7373ad43ea55b926a6f8493d2339bf28e2c968",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-68fa603e-880f-4747-bec8-701137dcbace.png",
+      "reference_sha256": "ea65a07da76d05b076f1b2769516c87f38d43e4f3edb8ea2e7acd38f107418a5",
+      "submitted_prompt": "casual2.txt",
+      "prompt_sha256": "7027f6bdb24b136f9f2f2b7cb4319c5c52030ec952024e08870f14dd8e9c3fec"
+    },
+    {
+      "card": "링곰",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-eb200181-df3f-406f-9e73-fe82f547e7ac.png",
+      "original_sha256": "7aad65e9b9840280af16418ed2d325f2583d3633e8adc8cdc9f1d0563f39ed92",
+      "output": "img/링곰_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "d3090265f541b7a3aee499cd42156017797fce86310d833e534d5c2725173e93",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-68fa603e-880f-4747-bec8-701137dcbace.png",
+      "reference_sha256": "ea65a07da76d05b076f1b2769516c87f38d43e4f3edb8ea2e7acd38f107418a5",
+      "submitted_prompt": "casual3.txt",
+      "prompt_sha256": "e78d35760540637b9344209b80aa3ea6e5cdf99d0ed4eda2978f28fe9de7257d"
+    }
+  ],
+  "compared_recent": [
+    "핫삼",
+    "단단지",
+    "헤라크로스"
+  ],
+  "face_design": {
+    "name": "링곰",
+    "en": "Ursaring",
+    "line": "깜지곰",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "oval",
+      "face length": "balanced",
+      "face width": "wide",
+      "jaw & chin": "wide heavy chin",
+      "eye shape": "narrow",
+      "eye size": "medium",
+      "eye tilt": "level outer corners",
+      "eye spacing": "average eye spacing",
+      "eyebrows": "thick low brows",
+      "nose character": "rounded soft tip",
+      "lips": "straight even lips"
+    },
+    "why": "큰 곰의 둔중한 체적과 강한 주둥이를 넓은 하관과 굵은 눈썹으로 구분한다.",
+    "cues": [
+      "몸 형태 upright → 얼굴형 균형 잡힌 타원형",
+      "‘small, visible fangs’ → 입술 굴곡 없이 곧은"
+    ],
+    "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 입술 입이 넓은 → 굴곡 없이 곧은"
+  },
+  "face_review": "Compared face contour, jaw and chin, eye proportions, brows, nose and mouth; Teddiursa retains short broad soft face, Ursaring broader firm jaw and low brows, Sneasel tapered chin and sharp eyes.",
+  "face_comparisons": [
+    "핫삼",
+    "단단지",
+    "헤라크로스",
+    "포푸니",
+    "깜지곰"
+  ],
+  "casual_comparison": {
+    "reviewed": [
+      "핫삼",
+      "단단지",
+      "헤라크로스",
+      "포푸니",
+      "깜지곰"
+    ],
+    "sources": [
+      "records/scizor-20261013/casual1.txt..casual3.txt",
+      "records/shuckle-20261013/casual1.txt..casual3.txt",
+      "records/heracross-20261013/casual1.txt..casual3.txt",
+      "records/sneasel-20261013/casual-plan.json"
+    ],
+    "changes": [
+      "location",
+      "specific activity",
+      "outfit silhouette",
+      "framing"
+    ],
+    "earlier_this_task": [
+      "포푸니",
+      "깜지곰"
+    ]
+  },
+  "visual_review": "All six card states retain full figure and similar scale; opened states keep their base pose and framing. Three casual scenes differ in action, framing and wardrobe.",
+  "tool": "built-in image_gen"
+}

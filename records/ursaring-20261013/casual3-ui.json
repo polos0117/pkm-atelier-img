@@ -1,0 +1,21 @@
+{
+  "mech": "링곰",
+  "style": "glossy_promo",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "homewear",
+  "expr": "soft_smile",
+  "pose": "leaning_furniture",
+  "orient": "side",
+  "frame": "three_quarter",
+  "lens": "natural50",
+  "aspect": "2:3",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "On her sheltered cabin balcony after an autumn rain at sunset, standing side-on with face turned to camera, leaning lightly against a wooden bench while folding a thick plain wool blanket with two separately visible hands. Head through knees in view, wet leaves and warm cabin windows.",
+  "outfit": "Opaque cream rib-knit sleeveless cropped tank with a secured square neckline, cocoa high-waisted loose wide-leg lounge trousers, tiny circular stud earrings. Bare arms shoulders and midriff, soft homewear without costume parts.",
+  "custom": "Same adult woman as approved light reference. Remove bear-ear ornaments, thick fur collar and belt tail. Only tiny circular jewelry remains; no armor, no weapons.",
+  "camera": "1024x1536 vertical, eye-level. Both complete hands connected naturally to their own forearms, all fingers readable."
+}

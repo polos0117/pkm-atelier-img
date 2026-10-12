@@ -1,0 +1,21 @@
+{
+  "mech": "링곰",
+  "style": "glossy_promo",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "lingerie",
+  "expr": "pensive",
+  "pose": "mid_action",
+  "orient": "front_3q",
+  "frame": "waist_up",
+  "lens": "portrait85",
+  "aspect": "2:3",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "At a quiet dressing table in her timber cabin at late evening, adjusting a satin robe cuff with one hand while the other forearm rests separately on the table. Face and both whole hands in crop, warm shaded lamp and dark window, no mirror reflection.",
+  "outfit": "Opaque cocoa-brown full-cup lingerie-inspired camisole with cream lace trim and secure wide straps, matching high-waisted satin shorts, light cream short open robe draped below the shoulders, tiny circular gold pendant. Bare shoulders arms and midriff; chest and pelvis fully covered by opaque fabric.",
+  "custom": "Same adult woman as approved light reference. Remove bear-ear ornaments, thick fur collar and belt tail. Only tiny circular jewelry remains; no armor, no weapons.",
+  "camera": "1024x1536 vertical, eye-level. Both complete hands connected naturally to their own forearms, all fingers readable."
+}

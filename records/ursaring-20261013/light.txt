@@ -1,0 +1,30 @@
+INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.
+
+SOURCE: Ursaring (링곰), normal type.
+
+PALETTE: brown, black.
+
+STYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.
+
+SUBJECT: A female mecha personification character with Ursaring as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.
+
+WEAR (user choice): Brown bear features become brown armor with a pale cream circular ring on the breastplate, round ear shapes become discreet rounded hair ornaments, its broad muzzle silhouette becomes a thick cream collar without changing the human face, its short tail becomes a small curved rear belt sash. Ivory claw shapes become short forearm guard edges while fingers remain human.
+
+FACE (her own structure, not the style's default face): oval face, balanced length, wide width; wide heavy chin; narrow eyes, medium size, level outer corners, average spacing; thick low brows; rounded soft tip nose; straight even lips.
+
+FORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.
+
+OUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.
+
+Chosen settings below override the default stance and camera; her identity and form stay fixed.
+Scene: A wide rocky woodland service hangar at late afternoon, sturdy relaxed standing card pose, both hands separate from the torso, warm gold light on broad plates.
+Camera: 1024x1536 vertical. Eye-level, full figure fills 86 percent of image height, both hands and feet completely visible.
+
+IDENTITY (chosen details override the automatic look)
+apparent age: 20s — adult woman in her twenties
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and close-fitting, never fingerless; plates, water, sparks and effects stay off the fingers.
