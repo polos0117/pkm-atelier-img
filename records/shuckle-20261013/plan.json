@@ -1,0 +1,62 @@
+{
+  "name": "단단지",
+  "no": 213,
+  "hair": "gold",
+  "cut": "twin braids",
+  "body": "slender",
+  "eyes": "brown",
+  "wear": "A sturdy rounded red shell-mantle over the shoulders and upper back, white-rimmed round recesses in its surface; warm yellow limb plates and a red close-fitting breastplate, supple black joints, a small red shell-shaped hair clasp. The shell remains clothing, not an extra body.",
+  "casual": [
+    {
+      "cat": "food_berries",
+      "expr": "focused",
+      "pose": "preparing_food",
+      "orient": "high_angle",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "At a small berry-fermentation hobby shelf in an airy home pantry on an overcast afternoon, placing a plain ceramic lid on a red jar with one hand while the other steadies a separate jar. A gentle high camera shows her face and both complete hands, unmarked jars and yellow berries, diffuse window light.",
+      "outfit": "Opaque yellow sleeveless tie-front cropped blouse over a secured bodice, burgundy high-waisted linen trousers, a tiny red round pendant. Bare arms shoulders and a midriff gap; everyday hobby clothes."
+    },
+    {
+      "cat": "swimwear",
+      "expr": "amused",
+      "pose": "walking",
+      "orient": "front",
+      "frame": "full_body",
+      "lens": "wide24",
+      "scene": "At a quiet shallow seaside tidal cove in bright late morning, carefully walking across wet sand while looking at small pools, arms comfortably apart with both empty hands open. Entire head and feet visible, distant surf and honey-colored rock, no other people.",
+      "outfit": "Fully lined opaque yellow halter one-piece swimsuit with red side panels and secure neck ties, a short cream mesh cover skirt that stays below the hips, a tiny white-rimmed red bracelet. Bare arms shoulders and legs, fully covered chest and pelvis."
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "pensive",
+      "pose": "sitting",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "On a quiet covered garden verandah at blue evening, seated side-on on a wooden bench with face turned to camera, smoothing a red clay pebble between fingertips above a small tray. Both forearms and hands readable and separate, head to knees, lantern amber light and rain-damp foliage.",
+      "outfit": "Opaque cream spaghetti-strap fitted knit top and mustard high-waisted long pleated skirt, small round red hair clasp and flat sandals. Bare shoulders and arms; soft woven fabric and no armor."
+    }
+  ],
+  "comparison": {
+    "reviewed": [
+      "나무킹",
+      "파이어",
+      "썬더"
+    ],
+    "sources": [
+      "records/sceptile-20261013/casual1.txt..casual3.txt",
+      "records/moltres-20261013/casual1.txt..casual3.txt",
+      "records/zapdos-20261013/casual1.txt..casual3.txt"
+    ],
+    "changes": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ],
+    "earlier_this_task": [
+      "핫삼"
+    ]
+  }
+}

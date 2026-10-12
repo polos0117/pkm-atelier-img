@@ -1,0 +1,182 @@
+[
+  {
+    "card": "단단지",
+    "slot": "light",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "/workspace/scratch/449633aecc9d/generated_images/exec-14a7b543-5359-42f7-9526-74ad477f8808.png",
+    "original_sha256": "40ab8cf3b10674294bf4a76fcb0b5ffd87db2dc700718d3e6f16152a03d65c31",
+    "output": "img/단단지_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "d1ba7098381c279c7df1dab441c250e819cd7f22b202d3a7d296d612ebcf56da",
+    "reference": null,
+    "reference_sha256": null,
+    "submitted_prompt": "light.txt",
+    "prompt_sha256": "6aac75944001723ddc254ad128b7198307ec48e26c04ea1f8dfd6964bbb86b0c"
+  },
+  {
+    "card": "단단지",
+    "slot": "heavy",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "/workspace/scratch/449633aecc9d/generated_images/exec-0f102e6f-5e15-4b2a-b6fb-686eada37e0e.png",
+    "original_sha256": "006e3266b8cfe507f52605e0591fcd885034a4fcfb778abbabd7fee317655a5a",
+    "output": "img/단단지_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "570c0815641b5457db2c67b9fb83bb6495abe1a57bb7558de916c4abcf9a304a",
+    "reference": "img/단단지_light_glossy_promo_f.webp",
+    "reference_sha256": "d1ba7098381c279c7df1dab441c250e819cd7f22b202d3a7d296d612ebcf56da",
+    "submitted_prompt": "heavy.txt",
+    "prompt_sha256": "70105b91d74e17d0dafb6ba988c767fe94f505ab521a2f1dfc6067ed8f13c596"
+  },
+  {
+    "card": "단단지",
+    "slot": "mobility",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "/workspace/scratch/449633aecc9d/generated_images/exec-bc7eb3ab-4534-4361-a9f1-c0f943c0bbaf.png",
+    "original_sha256": "c37416ff0aefbcc41c559946d4f246a506046ebb429b924fab4aa10fbcba937f",
+    "output": "img/단단지_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "4f8639224b6064830e17ca6cc615e6c98c0c6d1faefcd4ae9958d802c60952ee",
+    "reference": "img/단단지_light_glossy_promo_f.webp",
+    "reference_sha256": "d1ba7098381c279c7df1dab441c250e819cd7f22b202d3a7d296d612ebcf56da",
+    "submitted_prompt": "mobility.txt",
+    "prompt_sha256": "6d5081b115fa1f0bf92af5244414e0dd6d52aa22e1e01fd9686936077060cd78"
+  },
+  {
+    "card": "단단지",
+    "slot": "light_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "/workspace/scratch/449633aecc9d/generated_images/exec-db79b764-9967-46de-95e1-616390fa0539.png",
+    "original_sha256": "c01008a523731a8075ff8ef521bf45bf720ab7766b2e4a78a921b8222e8aa7f6",
+    "output": "img/단단지_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "985e70d3a53b6c5058fcf7b46e62b8708a30c1aebf38ebb340f97bad056955dc",
+    "reference": "img/단단지_light_glossy_promo_f.webp",
+    "reference_sha256": "d1ba7098381c279c7df1dab441c250e819cd7f22b202d3a7d296d612ebcf56da",
+    "submitted_prompt": "light_overdrive.txt",
+    "prompt_sha256": "4b81a54f868735e6bf4118c05ab17531f5e85258a382c81d35b4ba3d8afb0125"
+  },
+  {
+    "card": "단단지",
+    "slot": "heavy_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "/workspace/scratch/449633aecc9d/generated_images/exec-c11259d9-589a-4bf0-a45d-8f44200a8f80.png",
+    "original_sha256": "e44482418ade697b8fbd7163ef21caa339762e44b643e2012d2392150a9991f9",
+    "output": "img/단단지_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "6a94c9d9c687ffaf97f19c71f3e1e33bd95906c79026a739f07e0c809a198f3c",
+    "reference": "img/단단지_heavy_glossy_promo_f.webp",
+    "reference_sha256": "570c0815641b5457db2c67b9fb83bb6495abe1a57bb7558de916c4abcf9a304a",
+    "submitted_prompt": "heavy_overdrive.txt",
+    "prompt_sha256": "81b69e5ef9b3695da265c1ad777845fab84cc4b03088d7d0378f2942dc982ab1"
+  },
+  {
+    "card": "단단지",
+    "slot": "mobility_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "/workspace/scratch/449633aecc9d/generated_images/exec-5788960e-bb1f-4468-8af6-836f7f334438.png",
+    "original_sha256": "1a39afad013866295e8e5dfc9c028805cdce7a58db0aeae190dd4f7f70ac990b",
+    "output": "img/단단지_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "6211f92e3ac133bc7a1df47bffcb7301ef85327cb4aca5d43e587e916fa1402b",
+    "reference": "img/단단지_mobility_glossy_promo_f.webp",
+    "reference_sha256": "4f8639224b6064830e17ca6cc615e6c98c0c6d1faefcd4ae9958d802c60952ee",
+    "submitted_prompt": "mobility_overdrive.txt",
+    "prompt_sha256": "94dd31e5b549b7a825c34be0b404edad0ccd71ab5fc417a8e9536fc17b8ca5ff"
+  },
+  {
+    "card": "단단지",
+    "slot": "casual1",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "/workspace/scratch/449633aecc9d/generated_images/exec-b1135cf2-ab27-4318-bf37-eb1de2bd61dc.png",
+    "original_sha256": "b3b8dd0a1f1dcb326705e9d28a8b46f707f477a87d1ffcb4c688b4663aa279e3",
+    "output": "img/단단지_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "58519a9c111909ade2fe0316dbf664f5ae979db42b8758495f112e45bba988fe",
+    "reference": "img/단단지_light_glossy_promo_f.webp",
+    "reference_sha256": "d1ba7098381c279c7df1dab441c250e819cd7f22b202d3a7d296d612ebcf56da",
+    "submitted_prompt": "casual1.txt",
+    "prompt_sha256": "2ed7003cf1af14e583024d7f15d4eee339691bbcaaf974e7368009e9a14b108e"
+  },
+  {
+    "card": "단단지",
+    "slot": "casual2",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "/workspace/scratch/449633aecc9d/generated_images/exec-a94a7c5b-8054-4f68-82b3-cff79775ebc5.png",
+    "original_sha256": "99108983f0cc5688350240e8d74b9f78d774604b86fc770aef12f19bcdbaaedb",
+    "output": "img/단단지_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "101b3d51745196ba6d09e677ccb1e552659f3c79f5daad3ef27d9e7752b33df7",
+    "reference": "img/단단지_light_glossy_promo_f.webp",
+    "reference_sha256": "d1ba7098381c279c7df1dab441c250e819cd7f22b202d3a7d296d612ebcf56da",
+    "submitted_prompt": "casual2.txt",
+    "prompt_sha256": "02d6661f429c44295452437931521fdd28678a0705448a354c9dc7ed9786a805"
+  },
+  {
+    "card": "단단지",
+    "slot": "casual3",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "/workspace/scratch/449633aecc9d/generated_images/exec-345f73c7-4f2f-40eb-9e50-8c8880a5bf01.png",
+    "original_sha256": "2ca2f310fa1beda13ba8ffabf8dedb4e58e55b9c1d571ba3d98b4578ffc4fc1d",
+    "output": "img/단단지_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "8f1962ff881638224f95e5e1e397957d7d7f46098ee7b6809e4b9905faaa31db",
+    "reference": "img/단단지_light_glossy_promo_f.webp",
+    "reference_sha256": "d1ba7098381c279c7df1dab441c250e819cd7f22b202d3a7d296d612ebcf56da",
+    "submitted_prompt": "casual3.txt",
+    "prompt_sha256": "2bba089726c750ef093db7fbf4aacb1fc051e9b1361854cf8a6d0aae845e0950"
+  }
+]

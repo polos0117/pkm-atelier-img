@@ -1,0 +1,329 @@
+{
+  "selected": [
+    {
+      "id": "search",
+      "value": ""
+    },
+    {
+      "id": "group",
+      "value": ""
+    },
+    {
+      "id": "source",
+      "value": "단단지"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo"
+    },
+    {
+      "id": "motifs",
+      "value": ""
+    },
+    {
+      "id": "expression",
+      "value": "focused"
+    },
+    {
+      "id": "category",
+      "value": "food_berries"
+    },
+    {
+      "id": "example",
+      "value": ""
+    },
+    {
+      "id": "pose",
+      "value": "preparing_food"
+    },
+    {
+      "id": "orientation",
+      "value": "high_angle"
+    },
+    {
+      "id": "frame",
+      "value": "waist_up"
+    },
+    {
+      "id": "lens",
+      "value": "natural50"
+    },
+    {
+      "id": "aspect",
+      "value": "2:3"
+    },
+    {
+      "id": "camera",
+      "value": ""
+    },
+    {
+      "id": "scene",
+      "value": "At a small berry-fermentation hobby shelf in an airy home pantry on an overcast afternoon, placing a plain ceramic lid on a red jar with one hand while the other steadies a separate jar. A gentle high camera shows her face and both complete hands, unmarked jars and yellow berries, diffuse window light."
+    },
+    {
+      "id": "outfit",
+      "value": "Opaque yellow sleeveless tie-front cropped blouse over a secured bodice, burgundy high-waisted linen trousers, a tiny red round pendant. Bare arms shoulders and a midriff gap; everyday hobby clothes."
+    },
+    {
+      "id": "custom",
+      "value": "1024x1536 vertical. Both complete human hands inside the chosen crop and visibly connected to their own forearms with five distinct natural digits each. Species details remain only small accessories, no armor or weapons."
+    },
+    {
+      "id": "axis-overall_intensity",
+      "value": "strong"
+    },
+    {
+      "id": "axis-skin_exposure",
+      "value": "bold"
+    },
+    {
+      "id": "axis-action_level",
+      "value": "AUTO"
+    },
+    {
+      "id": "axis-source_influence",
+      "value": "AUTO"
+    },
+    {
+      "id": "axis-separates_preference",
+      "value": "AUTO"
+    }
+  ],
+  "storage": {
+    "last": "단단지",
+    "cards": {
+      "이상해씨": {
+        "style": "glossy_promo",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "faceDesignOn": true,
+        "params": {},
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "핫삼": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "faceDesignOn": true,
+        "params": {
+          "apparent age": "youthful adult",
+          "hair color": "crimson",
+          "hairstyle": "bob",
+          "body type": "athletic",
+          "eye color": "gold"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "calm",
+            "pose": "",
+            "orient": "front_3q",
+            "scene": "A quiet futuristic hangar bay with subdued cool depth and a simple floor, no signs or other figures.",
+            "outfit": "",
+            "frame": "full_body",
+            "lens": "natural50",
+            "camera": "",
+            "custom": "1024x1536. Keep the attached closed-form camera pose framing subject scale and all five-finger hand shapes exactly.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "half_smile",
+            "pose": "leaning_furniture",
+            "orient": "side",
+            "scene": "At an empty modern sculpture-gallery terrace after rain at night, leaning sideways against a low stone plinth, face turned to camera, both empty hands resting separately on its top. Head through knees visible, red reflection from an abstract light installation, no signage.",
+            "outfit": "Black opaque square-neck sleeveless fitted top and crimson high-waisted asymmetric midi skirt with a side slit, small silver stud earrings. Bare arms shoulders and part of one leg; sleek fabric only, no metal armor.",
+            "frame": "three_quarter",
+            "lens": "telephoto135",
+            "camera": "",
+            "custom": "1024x1536 vertical. Both complete human hands inside the chosen crop and visibly connected to their own forearms with five distinct natural digits each. Species details remain only small accessories, no armor or weapons.",
+            "aspect": "2:3",
+            "cat": "source_editorial",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "단단지": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "faceDesignOn": true,
+        "params": {
+          "apparent age": "youthful adult",
+          "hair color": "gold",
+          "hairstyle": "twin braids",
+          "body type": "slender",
+          "eye color": "brown"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "calm",
+            "pose": "",
+            "orient": "front_3q",
+            "scene": "A quiet futuristic hangar bay with subdued cool depth and a simple floor, no signs or other figures.",
+            "outfit": "",
+            "frame": "full_body",
+            "lens": "natural50",
+            "camera": "",
+            "custom": "1024x1536. Keep the attached closed-form camera pose framing subject scale and all five-finger hand shapes exactly.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "focused",
+            "pose": "preparing_food",
+            "orient": "high_angle",
+            "scene": "At a small berry-fermentation hobby shelf in an airy home pantry on an overcast afternoon, placing a plain ceramic lid on a red jar with one hand while the other steadies a separate jar. A gentle high camera shows her face and both complete hands, unmarked jars and yellow berries, diffuse window light.",
+            "outfit": "Opaque yellow sleeveless tie-front cropped blouse over a secured bodice, burgundy high-waisted linen trousers, a tiny red round pendant. Bare arms shoulders and a midriff gap; everyday hobby clothes.",
+            "frame": "waist_up",
+            "lens": "natural50",
+            "camera": "",
+            "custom": "1024x1536 vertical. Both complete human hands inside the chosen crop and visibly connected to their own forearms with five distinct natural digits each. Species details remain only small accessories, no armor or weapons.",
+            "aspect": "2:3",
+            "cat": "food_berries",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  },
+  "prompt": "CHARACTER: the same woman as the attached image — Shuckle (단단지) personified, bug / rock type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed\nPose: Work at a kitchen counter, stirring a bowl or arranging ingredients with clearly separated hands and utensils.\nOrientation: camera above subject looking downward; obey selected framing\nScene: At a small berry-fermentation hobby shelf in an airy home pantry on an overcast afternoon, placing a plain ceramic lid on a red jar with one hand while the other steadies a separate jar. A gentle high camera shows her face and both complete hands, unmarked jars and yellow berries, diffuse window light.\nOutfit and props: Opaque yellow sleeveless tie-front cropped blouse over a secured bodice, burgundy high-waisted linen trousers, a tiny red round pendant. Bare arms shoulders and a midriff gap; everyday hobby clothes.\nCategory: Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.\nNote: 1024x1536 vertical. Both complete human hands inside the chosen crop and visibly connected to their own forearms with five distinct natural digits each. Species details remain only small accessories, no armor or weapons.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+}
