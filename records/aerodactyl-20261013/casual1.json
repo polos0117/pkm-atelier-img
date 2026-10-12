@@ -1,0 +1,22 @@
+{
+  "name": "프테라",
+  "settings": {
+    "cat": "swimwear",
+    "expr": "confident",
+    "pose": "kneeling",
+    "orient": "front",
+    "frame": "full_body",
+    "lens": "documentary35",
+    "scene": "Kneeling upright on a small sailboat swim deck at bright noon after a swim, securing a plain towel beside her knee with one hand while the other rests separately on the deck. Entire head, both hands and feet visible, turquoise open sea and clean sunlight; no other people.",
+    "outfit": "Opaque violet asymmetric one-shoulder swimsuit with a secure gray waist panel and high leg line, small silver triangular earrings; bare arms and legs, no armor or large ornaments.",
+    "outputMode": "casual",
+    "identityMode": "reference",
+    "aspect": "2:3",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "custom": "1024x1536. Preserve the approved adult identity and body. Remove armor, headpiece, wing cape and tail sash. Both complete five-finger hands must remain inside the selected crop."
+  },
+  "ui_hash": "f7f830e2"
+}

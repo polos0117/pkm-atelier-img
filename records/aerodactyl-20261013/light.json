@@ -1,0 +1,19 @@
+{
+  "name": "프테라",
+  "settings": {
+    "form": "light",
+    "identityMode": "create",
+    "aspect": "2:3",
+    "camera": "Consistent card scale: head near 7% and feet near 94% of the frame height, both hands clearly visible.",
+    "scene": "An empty cliff-top flight terrace above a canyon at clear morning, cool blue sky and pale stone bounce light.",
+    "params": [
+      [
+        "apparent age",
+        "20s"
+      ]
+    ],
+    "custom": "Short swept-back lavender hair. Violet wing shapes are divided shoulder cape panels, never extra arms or giant wings; both empty human hands clear."
+  },
+  "ui_hash": "a04d5464",
+  "provenance": "Recovered prior UI settings and hash verified in this conversation"
+}

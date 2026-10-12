@@ -1,0 +1,91 @@
+{
+  "name": "프테라",
+  "style": "glossy_promo",
+  "canonical": "img/프테라_light_glossy_promo_f.webp",
+  "comparison": {
+    "reviewed": [
+      "나무킹",
+      "파이어",
+      "썬더",
+      "투구푸스"
+    ],
+    "read": "Recent three plans and all nine submitted scene blocks plus earlier batch",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "face": {
+    "reason": "능선진 주둥이와 날개의 예리함을 각진 광대, 긴 코, 치켜올린 좁은 눈으로 구분",
+    "sources": [
+      "data/face-design.json#142",
+      "data/source-appearance.json#142"
+    ],
+    "compared": [
+      "투구푸스",
+      "암나이트",
+      "블루",
+      "폴리곤"
+    ],
+    "final_line": "FACE (her own structure, not the style's default face): angular face, balanced length, medium width; angular defined jaw; sharp eyes, medium size, upturned outer corners, close-set; angled brows; long nose with low tip; wide mouth."
+  },
+  "casual": [
+    {
+      "cat": "swimwear",
+      "expr": "confident",
+      "pose": "kneeling",
+      "orient": "front",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "Kneeling upright on a small sailboat swim deck at bright noon after a swim, securing a plain towel beside her knee with one hand while the other rests separately on the deck. Entire head, both hands and feet visible, turquoise open sea and clean sunlight; no other people.",
+      "outfit": "Opaque violet asymmetric one-shoulder swimsuit with a secure gray waist panel and high leg line, small silver triangular earrings; bare arms and legs, no armor or large ornaments.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "1024x1536. Preserve the approved adult identity and body. Remove armor, headpiece, wing cape and tail sash. Both complete five-finger hands must remain inside the selected crop."
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "focused",
+      "pose": "mid_action",
+      "orient": "side",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "At a private leathercraft bench at amber dusk, side-on with face clearly turned toward viewer, fastening a plain buckle onto a small leather strap. One hand steadies the strap, the other holds the separate buckle, complete hands visible above the table.",
+      "outfit": "Gray sleeveless cropped collared cotton shirt with violet high-waisted trousers and a tiny wing pendant; bare shoulders arms and midriff, everyday hobby clothing.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "1024x1536. Preserve the approved adult identity and body. Remove armor, headpiece, wing cape and tail sash. Both complete five-finger hands must remain inside the selected crop."
+    },
+    {
+      "cat": "travel_exploration",
+      "expr": "curious",
+      "pose": "perched_seat",
+      "orient": "front_3q",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "Inside an empty mountain cable-car cabin at blue midnight, perched on a bench while examining a small unlettered travel compass at waist height. The other hand rests separately on the seat, both hands and head through knees visible; moonlit mountain skyline beyond glass.",
+      "outfit": "Violet fitted sleeveless high-neck romper with gray belt, short wide hems and dark ankle shoes; bare arms and legs, tiny triangular bracelet, no armor.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "1024x1536. Preserve the approved adult identity and body. Remove armor, headpiece, wing cape and tail sash. Both complete five-finger hands must remain inside the selected crop."
+    }
+  ],
+  "recovery": "Six exact prior generated images recovered after scratch cleanup."
+}

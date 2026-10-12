@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Aerodactyl (프테라) personified, rock / flying type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted
+Pose: Perch on a low ledge or bench with the feet resting naturally below.
+Orientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together
+Scene: Inside an empty mountain cable-car cabin at blue midnight, perched on a bench while examining a small unlettered travel compass at waist height. The other hand rests separately on the seat, both hands and head through knees visible; moonlit mountain skyline beyond glass.
+Outfit and props: Violet fitted sleeveless high-neck romper with gray belt, short wide hems and dark ankle shoes; bare arms and legs, tiny triangular bracelet, no armor.
+Category: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.
+Note: 1024x1536. Preserve the approved adult identity and body. Remove armor, headpiece, wing cape and tail sash. Both complete five-finger hands must remain inside the selected crop.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

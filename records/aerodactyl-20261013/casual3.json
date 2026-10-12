@@ -1,0 +1,22 @@
+{
+  "name": "프테라",
+  "settings": {
+    "cat": "travel_exploration",
+    "expr": "curious",
+    "pose": "perched_seat",
+    "orient": "front_3q",
+    "frame": "three_quarter",
+    "lens": "natural50",
+    "scene": "Inside an empty mountain cable-car cabin at blue midnight, perched on a bench while examining a small unlettered travel compass at waist height. The other hand rests separately on the seat, both hands and head through knees visible; moonlit mountain skyline beyond glass.",
+    "outfit": "Violet fitted sleeveless high-neck romper with gray belt, short wide hems and dark ankle shoes; bare arms and legs, tiny triangular bracelet, no armor.",
+    "outputMode": "casual",
+    "identityMode": "reference",
+    "aspect": "2:3",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "custom": "1024x1536. Preserve the approved adult identity and body. Remove armor, headpiece, wing cape and tail sash. Both complete five-finger hands must remain inside the selected crop."
+  },
+  "ui_hash": "508d333d"
+}

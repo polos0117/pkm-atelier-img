@@ -1,0 +1,12 @@
+{
+  "name": "프테라",
+  "settings": {
+    "form": "mobility",
+    "identityMode": "reference",
+    "aspect": "2:3",
+    "camera": "Consistent card scale: head near 7% and feet near 94% of the frame height, both hands clearly visible.",
+    "scene": "An empty cliff-top flight terrace above a canyon at clear morning, cool blue sky and pale stone bounce light."
+  },
+  "ui_hash": "b45ff01d",
+  "provenance": "Recovered prior UI settings and hash verified in this conversation"
+}

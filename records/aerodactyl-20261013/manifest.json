@@ -1,0 +1,164 @@
+[
+  {
+    "slot": "light",
+    "source": "/workspace/scratch/1548a7e1ff3a/assets/aerodactyl-light.png",
+    "source_sha256": "b7f4168e4f34746d5ff20908754ea6a8a6d0d5e1c3d4614cd730c248d6fadc60",
+    "output": "img/프테라_light_glossy_promo_f.webp",
+    "sha256": "52725f183f204d677074bf7ed6962528ef0eeb14fc1b9317a12a3f16ddf4fc04",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selection with exact prompt hash equality",
+    "reference_outputs": [],
+    "qa": "Visually inspected face, hands, framing, identity, form silhouettes and opened pairing"
+  },
+  {
+    "slot": "heavy",
+    "source": "/workspace/scratch/1548a7e1ff3a/assets/aerodactyl-heavy.png",
+    "source_sha256": "330d4d4355f9b6b3c1e1854e1fe26fcd391f3e84bd9ad83f1c48698714edf008",
+    "output": "img/프테라_heavy_glossy_promo_f.webp",
+    "sha256": "22164edbf7ad3f01fb66048e291ae1b4e0c6a6facdb05d5d4d7ebf1d4173fb6a",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selection with exact prompt hash equality",
+    "reference_outputs": [
+      "img/프테라_light_glossy_promo_f.webp"
+    ],
+    "qa": "Visually inspected face, hands, framing, identity, form silhouettes and opened pairing"
+  },
+  {
+    "slot": "mobility",
+    "source": "/workspace/scratch/1548a7e1ff3a/assets/aerodactyl-mobility.png",
+    "source_sha256": "ee869c872ceccd49cf5a40dab5a5c1e7cfd92aeb94cb3a6bfc1ed2f470bab075",
+    "output": "img/프테라_mobility_glossy_promo_f.webp",
+    "sha256": "a6deff4fa6089895f6973a77a6e7f748d3a5307804d8cac1ed5cf29f68d392f6",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selection with exact prompt hash equality",
+    "reference_outputs": [
+      "img/프테라_light_glossy_promo_f.webp"
+    ],
+    "qa": "Visually inspected face, hands, framing, identity, form silhouettes and opened pairing"
+  },
+  {
+    "slot": "light_overdrive",
+    "source": "/workspace/scratch/1548a7e1ff3a/assets/aerodactyl-light_overdrive.png",
+    "source_sha256": "67ac05cb73a2f03cac565520bfeff1a32536d874a0931a9a8e3bdf60c4341f0a",
+    "output": "img/프테라_light_overdrive_glossy_promo_f.webp",
+    "sha256": "ca0209b6a2dc4ff9a1b89208eef5689cd371d89a4135d36856dbe0bf5cc78ab4",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selection with exact prompt hash equality",
+    "reference_outputs": [
+      "img/프테라_light_glossy_promo_f.webp"
+    ],
+    "qa": "Visually inspected face, hands, framing, identity, form silhouettes and opened pairing"
+  },
+  {
+    "slot": "heavy_overdrive",
+    "source": "/workspace/scratch/1548a7e1ff3a/assets/aerodactyl-heavy_overdrive.png",
+    "source_sha256": "0ecaa6deb273a4bfa7644e71b3f67f4aeeb8f17af23ebf27fa1340c0c67f6648",
+    "output": "img/프테라_heavy_overdrive_glossy_promo_f.webp",
+    "sha256": "d5a4ab347b95822af09895101d529f8517230be4e2b582e3e294678a58097ba7",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selection with exact prompt hash equality",
+    "reference_outputs": [
+      "img/프테라_heavy_glossy_promo_f.webp",
+      "img/프테라_light_glossy_promo_f.webp"
+    ],
+    "qa": "Visually inspected face, hands, framing, identity, form silhouettes and opened pairing"
+  },
+  {
+    "slot": "mobility_overdrive",
+    "source": "/workspace/scratch/1548a7e1ff3a/assets/aerodactyl-mobility_overdrive.png",
+    "source_sha256": "b8d826a3e1f6f5fa564aa418d32bff9d570507a79a45ff969ccb434ca2be0a6c",
+    "output": "img/프테라_mobility_overdrive_glossy_promo_f.webp",
+    "sha256": "04c2e585f91df807acf261989f141c1401dd2600610cd448d0128f28063ff08f",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selection with exact prompt hash equality",
+    "reference_outputs": [
+      "img/프테라_mobility_glossy_promo_f.webp",
+      "img/프테라_light_glossy_promo_f.webp"
+    ],
+    "qa": "Visually inspected face, hands, framing, identity, form silhouettes and opened pairing"
+  },
+  {
+    "slot": "casual1",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-b3378e11-d812-4fa7-9b39-06880cd9d84b.png",
+    "source_sha256": "1edbff0f17851f49a9ddee23ecf41e5c0a207b606ef389eebeef5932298fbdba",
+    "output": "img/프테라_glossy_promo_f_casual1.webp",
+    "sha256": "0d4723d7ec6652b2e7c2050ba083d0fbcd8b2d94e1ce50cb7f19a4deeeb552b3",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selection with exact prompt hash equality",
+    "reference_outputs": [
+      "img/프테라_light_glossy_promo_f.webp"
+    ],
+    "qa": "Visually inspected face, hands, framing, identity, form silhouettes and opened pairing"
+  },
+  {
+    "slot": "casual2",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-9d4bbe57-b625-44f0-a10e-74919e626dd1.png",
+    "source_sha256": "9c7ccf4c7f5c6b57c15fe907b646bb77b760dab956409bb83dfacdaf06484502",
+    "output": "img/프테라_glossy_promo_f_casual2.webp",
+    "sha256": "f9a4a77b7a50b174c8e8b1bc77b30452d1219ebb87322a0a173d51c4e6003005",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selection with exact prompt hash equality",
+    "reference_outputs": [
+      "img/프테라_light_glossy_promo_f.webp"
+    ],
+    "qa": "Visually inspected face, hands, framing, identity, form silhouettes and opened pairing"
+  },
+  {
+    "slot": "casual3",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-64f02244-36d2-4b7b-8c73-e1d9371fabf1.png",
+    "source_sha256": "545cbe61f20ba9302e48b6a62287467488fbaa24e3126f7c6063c3984425ac17",
+    "output": "img/프테라_glossy_promo_f_casual3.webp",
+    "sha256": "234b6dc97ef4f1e56c4562fd826a842c96bf17e2da176564434c13da6e2fa49e",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selection with exact prompt hash equality",
+    "reference_outputs": [
+      "img/프테라_light_glossy_promo_f.webp"
+    ],
+    "qa": "Visually inspected face, hands, framing, identity, form silhouettes and opened pairing"
+  }
+]

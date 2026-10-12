@@ -1,0 +1,9 @@
+{
+  "name": "프테라",
+  "settings": {
+    "form": "overdrive",
+    "baseForm": "heavy"
+  },
+  "ui_hash": "5ebfaf5b",
+  "provenance": "Recovered prior UI settings and hash verified in this conversation"
+}

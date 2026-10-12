@@ -1,0 +1,22 @@
+{
+  "name": "프테라",
+  "settings": {
+    "cat": "hobbies_leisure",
+    "expr": "focused",
+    "pose": "mid_action",
+    "orient": "side",
+    "frame": "waist_up",
+    "lens": "portrait85",
+    "scene": "At a private leathercraft bench at amber dusk, side-on with face clearly turned toward viewer, fastening a plain buckle onto a small leather strap. One hand steadies the strap, the other holds the separate buckle, complete hands visible above the table.",
+    "outfit": "Gray sleeveless cropped collared cotton shirt with violet high-waisted trousers and a tiny wing pendant; bare shoulders arms and midriff, everyday hobby clothing.",
+    "outputMode": "casual",
+    "identityMode": "reference",
+    "aspect": "2:3",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "custom": "1024x1536. Preserve the approved adult identity and body. Remove armor, headpiece, wing cape and tail sash. Both complete five-finger hands must remain inside the selected crop."
+  },
+  "ui_hash": "4962b25c"
+}

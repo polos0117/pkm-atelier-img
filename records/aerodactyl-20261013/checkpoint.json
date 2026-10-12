@@ -1,0 +1,32 @@
+{
+  "name": "프테라",
+  "canonical": {
+    "slot": "light",
+    "source": "/workspace/scratch/1548a7e1ff3a/assets/aerodactyl-light.png",
+    "source_sha256": "b7f4168e4f34746d5ff20908754ea6a8a6d0d5e1c3d4614cd730c248d6fadc60",
+    "output": "img/프테라_light_glossy_promo_f.webp",
+    "sha256": "52725f183f204d677074bf7ed6962528ef0eeb14fc1b9317a12a3f16ddf4fc04",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selection with exact prompt hash equality",
+    "reference_outputs": [],
+    "qa": "Visually inspected face, hands, framing, identity, form silhouettes and opened pairing"
+  },
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "tool": "built-in imagegen",
+  "status": "Nine images validated; awaiting publication and registration"
+}
