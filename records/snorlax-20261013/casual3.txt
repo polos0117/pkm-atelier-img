@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Snorlax (잠만보) personified, normal type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: gaze angled down and away, slightly furrowed brow, lips lightly pressed or touched
+Pose: Sit cross-legged on a floor cushion with relaxed shoulders and readable hands.
+Orientation: seated with supported pelvis and a natural torso twist
+Scene: On a thick picnic blanket in an empty grassy orchard at cool evening, seated cross-legged with a gentle torso twist toward viewer, reading a plain clothbound book open on her lap. One hand turns a page, the other rests separately on a knee; complete head and both hands visible, soft dusk sky.
+Outfit and props: Teal sleeveless square-neck cotton sundress with a secured fitted waist and knee-length flowing skirt, cream canvas sandals and a tiny triangular bracelet; bare arms shoulders and lower legs, no armor.
+Category: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.
+Note: 1024x1536. Preserve the approved adult woman, face, low bun and soft body proportions. Remove armor and large head ornaments. Both complete five-finger hands visibly attached to forearms inside the chosen crop; no text.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

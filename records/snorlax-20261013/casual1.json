@@ -1,0 +1,22 @@
+{
+  "name": "잠만보",
+  "settings": {
+    "cat": "lingerie",
+    "expr": "sleepy",
+    "pose": "on_tiptoe",
+    "orient": "front",
+    "frame": "full_body",
+    "lens": "portrait85",
+    "scene": "In a private bedroom at soft dawn, standing lightly on tiptoe to pull one curtain aside with her right hand, the other arm relaxed at her side. Both complete hands, head and bare feet inside frame, ivory bed linens and golden window light.",
+    "outfit": "Opaque navy satin cropped camisole with secure thin straps and cream high-waisted tap shorts with fine lace hem, tiny triangular stud earrings; adult lingerie-inspired morning fashion, bare shoulders arms midriff and legs.",
+    "outputMode": "casual",
+    "identityMode": "reference",
+    "aspect": "2:3",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "custom": "1024x1536. Preserve the approved adult woman, face, low bun and soft body proportions. Remove armor and large head ornaments. Both complete five-finger hands visibly attached to forearms inside the chosen crop; no text."
+  },
+  "ui_hash": "adec1f73"
+}

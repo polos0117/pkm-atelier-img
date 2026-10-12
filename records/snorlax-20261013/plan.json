@@ -1,0 +1,92 @@
+{
+  "name": "잠만보",
+  "style": "glossy_promo",
+  "canonical": "img/잠만보_light_glossy_promo_f.webp",
+  "comparison": {
+    "reviewed": [
+      "나무킹",
+      "파이어",
+      "썬더",
+      "투구푸스",
+      "프테라"
+    ],
+    "read": "Latest three plans and nine submitted scene blocks plus earlier current batch",
+    "changed": [
+      "location",
+      "specific activity",
+      "clothing silhouette",
+      "composition"
+    ]
+  },
+  "face": {
+    "reason": "잠과 둥근 큰 체적을 넓고 부드러운 볼, 처진 사람 눈, 도톰한 입술과 자연스러운 살집으로 해석",
+    "sources": [
+      "data/face-design.json#143",
+      "data/source-appearance.json#143"
+    ],
+    "compared": [
+      "나무킹",
+      "파이어",
+      "썬더",
+      "투구푸스",
+      "프테라"
+    ],
+    "final_line": "FACE (her own structure, not the style's default face): oval face, balanced length, wide width; wide heavy chin; drooping eyes, medium size, downturned outer corners, average spacing; fine soft arches; balanced nose; full lips."
+  },
+  "casual": [
+    {
+      "cat": "lingerie",
+      "expr": "sleepy",
+      "pose": "on_tiptoe",
+      "orient": "front",
+      "frame": "full_body",
+      "lens": "portrait85",
+      "scene": "In a private bedroom at soft dawn, standing lightly on tiptoe to pull one curtain aside with her right hand, the other arm relaxed at her side. Both complete hands, head and bare feet inside frame, ivory bed linens and golden window light.",
+      "outfit": "Opaque navy satin cropped camisole with secure thin straps and cream high-waisted tap shorts with fine lace hem, tiny triangular stud earrings; adult lingerie-inspired morning fashion, bare shoulders arms midriff and legs.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "1024x1536. Preserve the approved adult woman, face, low bun and soft body proportions. Remove armor and large head ornaments. Both complete five-finger hands visibly attached to forearms inside the chosen crop; no text."
+    },
+    {
+      "cat": "food_berries",
+      "expr": "amused",
+      "pose": "preparing_food",
+      "orient": "front_3q",
+      "frame": "waist_up",
+      "lens": "documentary35",
+      "scene": "In a quiet farmhouse pantry at late afternoon, placing a plain lid onto a small glass jar of berry preserves while the other hand rests separately on the wooden counter. Both complete hands and forearms visible, amber shelf light and baskets of fresh fruit.",
+      "outfit": "Cream short-sleeve wrap blouse with a securely fitted neckline, teal waist apron over navy high-waisted shorts; bare forearms and a small midriff gap, tiny pale collar pendant, personal kitchen clothing.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "1024x1536. Preserve the approved adult woman, face, low bun and soft body proportions. Remove armor and large head ornaments. Both complete five-finger hands visibly attached to forearms inside the chosen crop; no text."
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "pensive",
+      "pose": "cross_legged",
+      "orient": "seated_twist",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "On a thick picnic blanket in an empty grassy orchard at cool evening, seated cross-legged with a gentle torso twist toward viewer, reading a plain clothbound book open on her lap. One hand turns a page, the other rests separately on a knee; complete head and both hands visible, soft dusk sky.",
+      "outfit": "Teal sleeveless square-neck cotton sundress with a secured fitted waist and knee-length flowing skirt, cream canvas sandals and a tiny triangular bracelet; bare arms shoulders and lower legs, no armor.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "1024x1536. Preserve the approved adult woman, face, low bun and soft body proportions. Remove armor and large head ornaments. Both complete five-finger hands visibly attached to forearms inside the chosen crop; no text."
+    }
+  ]
+}

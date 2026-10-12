@@ -1,0 +1,164 @@
+[
+  {
+    "slot": "light",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-6f172dbd-da2e-4648-8eaa-ea31b1ab4b9c.png",
+    "source_sha256": "d8d1d25541ec11daeea04f87f4afd11d510bf5b8677988885353d5affbd8dd9a",
+    "output": "img/잠만보_light_glossy_promo_f.webp",
+    "sha256": "732b187ad43b4a2c2c927c4e9d772ee8ae2eb31472e70d24826d2300d5cda8ee",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selection with exact prompt hash equality",
+    "reference_outputs": [],
+    "qa": "Visually inspected face, hands, framing, identity, form silhouettes and opened pairing"
+  },
+  {
+    "slot": "heavy",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-2e541ffb-28cc-4a4f-aa35-5ec901f1bf00.png",
+    "source_sha256": "a1834499f81119daa5e4f9a9c57aba595784efa418e3b87f93f57e85e8bef93a",
+    "output": "img/잠만보_heavy_glossy_promo_f.webp",
+    "sha256": "4dd5efa216fad01c996f549b2a8fc81cb5380e3af464dc4d07445efe1a3f2205",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selection with exact prompt hash equality",
+    "reference_outputs": [
+      "img/잠만보_light_glossy_promo_f.webp"
+    ],
+    "qa": "Visually inspected face, hands, framing, identity, form silhouettes and opened pairing"
+  },
+  {
+    "slot": "mobility",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-3ff76c80-ce45-4c52-87e2-9e12d907c4b4.png",
+    "source_sha256": "baf4c5ad4900bf7dc6517a651a99bb258768a66ccf93587e5cf80b17daf3a23b",
+    "output": "img/잠만보_mobility_glossy_promo_f.webp",
+    "sha256": "2d2dc2dd7daaa8ac883b8395934fd7a0449142ac2e8d00a9ffe565f9b63e4788",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selection with exact prompt hash equality",
+    "reference_outputs": [
+      "img/잠만보_light_glossy_promo_f.webp"
+    ],
+    "qa": "Visually inspected face, hands, framing, identity, form silhouettes and opened pairing"
+  },
+  {
+    "slot": "light_overdrive",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-65bf064c-515c-4f61-aeba-b70586712a4b.png",
+    "source_sha256": "a3d4960b8f7af22354eb36e42c31a6bab2a4f740ced96b1f8bc5b6ea48d9fc58",
+    "output": "img/잠만보_light_overdrive_glossy_promo_f.webp",
+    "sha256": "2e63e381ad47010fe183839bc1acd8c39a9f6c5378214369357ec683efb11495",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selection with exact prompt hash equality",
+    "reference_outputs": [
+      "img/잠만보_light_glossy_promo_f.webp"
+    ],
+    "qa": "Visually inspected face, hands, framing, identity, form silhouettes and opened pairing"
+  },
+  {
+    "slot": "heavy_overdrive",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-418f6ddd-0e93-4421-a514-92414751039e.png",
+    "source_sha256": "381ae58df11028172a16a1c145bf894a03abbbb79a74a2b901b4d5948f7cc3d4",
+    "output": "img/잠만보_heavy_overdrive_glossy_promo_f.webp",
+    "sha256": "26390aa53ae2aded32e46897263de60354efca5e5b35ac3865c44a9efe60207b",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selection with exact prompt hash equality",
+    "reference_outputs": [
+      "img/잠만보_heavy_glossy_promo_f.webp",
+      "img/잠만보_light_glossy_promo_f.webp"
+    ],
+    "qa": "Visually inspected face, hands, framing, identity, form silhouettes and opened pairing"
+  },
+  {
+    "slot": "mobility_overdrive",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-381ab38f-a6ce-47db-9f3d-8b38ebe1e258.png",
+    "source_sha256": "a864fd880fcf71ce82c2fe7ca3b62330c6720ac687cbeab2d81bffc8859f5282",
+    "output": "img/잠만보_mobility_overdrive_glossy_promo_f.webp",
+    "sha256": "a48df7f1efbdd1c18a40930eab954c890a85811495fb2023fe2e859bf9dda4c5",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selection with exact prompt hash equality",
+    "reference_outputs": [
+      "img/잠만보_mobility_glossy_promo_f.webp",
+      "img/잠만보_light_glossy_promo_f.webp"
+    ],
+    "qa": "Visually inspected face, hands, framing, identity, form silhouettes and opened pairing"
+  },
+  {
+    "slot": "casual1",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-5ee68107-677f-408f-8147-a4e260ab610c.png",
+    "source_sha256": "9aa760f4e99d40a0a4969c9a5b058714f607ae6190f523c7adad421a664a8d42",
+    "output": "img/잠만보_glossy_promo_f_casual1.webp",
+    "sha256": "01eaaa3842ca952bce8a0dc624a1d3f83ec2cad06d9707239b06a442adbca806",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selection with exact prompt hash equality",
+    "reference_outputs": [
+      "img/잠만보_light_glossy_promo_f.webp"
+    ],
+    "qa": "Visually inspected face, hands, framing, identity, form silhouettes and opened pairing"
+  },
+  {
+    "slot": "casual2",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-71bbea30-0766-428b-9127-e67402c709dd.png",
+    "source_sha256": "2335ae42d749bcf2518feddbe9ece4affaf1c37ae4cad5182c2ccba5348fa822",
+    "output": "img/잠만보_glossy_promo_f_casual2.webp",
+    "sha256": "72d9db4863dda53439996ac18fb9a4bbdff179c9118610a6a89bb1f2ea0221b6",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selection with exact prompt hash equality",
+    "reference_outputs": [
+      "img/잠만보_light_glossy_promo_f.webp"
+    ],
+    "qa": "Visually inspected face, hands, framing, identity, form silhouettes and opened pairing"
+  },
+  {
+    "slot": "casual3",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-07c46423-e676-42ef-abb9-44f05ae7c578.png",
+    "source_sha256": "f3268ea471c3a734bd34cde913ea07de4837c164465241428e9b9260d4d08df0",
+    "output": "img/잠만보_glossy_promo_f_casual3.webp",
+    "sha256": "9454f262e0807b65263b3fb731c24464fbf1c6e74e46b9a26a2dcc8487f04984",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selection with exact prompt hash equality",
+    "reference_outputs": [
+      "img/잠만보_light_glossy_promo_f.webp"
+    ],
+    "qa": "Visually inspected face, hands, framing, identity, form silhouettes and opened pairing"
+  }
+]

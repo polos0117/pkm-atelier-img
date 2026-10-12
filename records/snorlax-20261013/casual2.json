@@ -1,0 +1,22 @@
+{
+  "name": "잠만보",
+  "settings": {
+    "cat": "food_berries",
+    "expr": "amused",
+    "pose": "preparing_food",
+    "orient": "front_3q",
+    "frame": "waist_up",
+    "lens": "documentary35",
+    "scene": "In a quiet farmhouse pantry at late afternoon, placing a plain lid onto a small glass jar of berry preserves while the other hand rests separately on the wooden counter. Both complete hands and forearms visible, amber shelf light and baskets of fresh fruit.",
+    "outfit": "Cream short-sleeve wrap blouse with a securely fitted neckline, teal waist apron over navy high-waisted shorts; bare forearms and a small midriff gap, tiny pale collar pendant, personal kitchen clothing.",
+    "outputMode": "casual",
+    "identityMode": "reference",
+    "aspect": "2:3",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "custom": "1024x1536. Preserve the approved adult woman, face, low bun and soft body proportions. Remove armor and large head ornaments. Both complete five-finger hands visibly attached to forearms inside the chosen crop; no text."
+  },
+  "ui_hash": "79ccd0ba"
+}

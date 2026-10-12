@@ -1,0 +1,34 @@
+{
+  "name": "잠만보",
+  "settings": {
+    "form": "light",
+    "identityMode": "create",
+    "aspect": "2:3",
+    "camera": "Centered complete figure fills about 86 percent of image height, full head ornaments and boots have clear margins, both hands relaxed and entirely visible.",
+    "scene": "A quiet woodland hangar at warm early morning, soft cream window light and green reflections from trees.",
+    "params": [
+      [
+        "apparent age",
+        "20s"
+      ],
+      [
+        "body type",
+        "soft-figured"
+      ],
+      [
+        "hair color",
+        "navy"
+      ],
+      [
+        "hairstyle",
+        "low bun"
+      ],
+      [
+        "hair length",
+        "medium"
+      ]
+    ],
+    "motifs": "Deep blue-green rounded armor with a broad cream breastplate and cream boot accents; small pointed ears become low triangular hair ornaments, two teeth become tiny pale collar studs, three claws become small blunt gauntlet ridges that leave human hands free. No creature face or mascot suit."
+  },
+  "ui_hash": "350436a9"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "잠만보",
+  "settings": {
+    "cat": "hobbies_leisure",
+    "expr": "pensive",
+    "pose": "cross_legged",
+    "orient": "seated_twist",
+    "frame": "three_quarter",
+    "lens": "natural50",
+    "scene": "On a thick picnic blanket in an empty grassy orchard at cool evening, seated cross-legged with a gentle torso twist toward viewer, reading a plain clothbound book open on her lap. One hand turns a page, the other rests separately on a knee; complete head and both hands visible, soft dusk sky.",
+    "outfit": "Teal sleeveless square-neck cotton sundress with a secured fitted waist and knee-length flowing skirt, cream canvas sandals and a tiny triangular bracelet; bare arms shoulders and lower legs, no armor.",
+    "outputMode": "casual",
+    "identityMode": "reference",
+    "aspect": "2:3",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "custom": "1024x1536. Preserve the approved adult woman, face, low bun and soft body proportions. Remove armor and large head ornaments. Both complete five-finger hands visibly attached to forearms inside the chosen crop; no text."
+  },
+  "ui_hash": "ab1076ff"
+}

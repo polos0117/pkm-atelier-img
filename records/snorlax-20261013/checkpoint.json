@@ -1,0 +1,32 @@
+{
+  "name": "잠만보",
+  "canonical": {
+    "slot": "light",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-6f172dbd-da2e-4648-8eaa-ea31b1ab4b9c.png",
+    "source_sha256": "d8d1d25541ec11daeea04f87f4afd11d510bf5b8677988885353d5affbd8dd9a",
+    "output": "img/잠만보_light_glossy_promo_f.webp",
+    "sha256": "732b187ad43b4a2c2c927c4e9d772ee8ae2eb31472e70d24826d2300d5cda8ee",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual generator UI selection with exact prompt hash equality",
+    "reference_outputs": [],
+    "qa": "Visually inspected face, hands, framing, identity, form silhouettes and opened pairing"
+  },
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "tool": "built-in imagegen",
+  "status": "Nine images validated; awaiting publication and registration"
+}
