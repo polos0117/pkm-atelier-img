@@ -1,0 +1,62 @@
+{
+  "name": "에브이",
+  "slug": "espeon",
+  "hair": "lavender",
+  "eye": "purple",
+  "cut": "straight",
+  "body": "slender",
+  "wear": "Lilac pearlescent armor with thin violet seams; long triangular ear shapes become sleek paired headband ornaments, a small red forehead jewel sits on a slim diadem, the forked tail becomes a two-stream waist sash. Human face and skin, no creature ears or animal limbs.",
+  "light": "On an empty pale marble meditation terrace under rose twilight, the adult woman faces camera in poised front three-quarter stance, both relaxed empty hands separated beside her waist; whole head triangular ornaments and boots with clear margins, vertical 1024x1536.",
+  "casual": [
+    [
+      "hobbies_leisure",
+      "pensive",
+      "reading_book",
+      "front_3q",
+      "waist_up",
+      "natural50",
+      "Inside an empty antique reading room on a cool rainy afternoon, seated upright at a carved table reading a plain unlettered open book, left hand rests open at its margin and right hand gently turns a page, both whole hands and wrists visible, soft green shaded desk lamp.",
+      "Opaque lavender sleeveless V-neck knit top with secure neckline, violet high-waisted pleated trousers, bare shoulders arms upper chest, tiny red gem pendant."
+    ],
+    [
+      "lingerie",
+      "confident",
+      "standing_formal",
+      "low_angle",
+      "full_body",
+      "telephoto135",
+      "On an empty elegant theater foyer stair landing at evening, standing upright in poised fashion presentation, one open hand lightly on the broad banister and the other relaxed beside her waist; camera subtly below eye level without distortion, entire head heels and hands, warm crystal light.",
+      "Opaque fully lined lilac satin corset-inspired evening mini dress with secure broad straps, structured covered chest, fitted waist and flared short skirt over opaque fitted shorts, violet opera-length fabric gloves and red gemstone choker; bare shoulders and legs, mainstream evening fashion."
+    ],
+    [
+      "active",
+      "playful",
+      "dance_step",
+      "side",
+      "three_quarter",
+      "documentary35",
+      "In an empty mirrored dance practice hall at bright morning, performing a small sideways dance step with both arms extended softly at different low heights, fingers relaxed and distinct, face turned toward viewer. Head to above knees, mirrors angled away so no duplicate figure appears, pale wood floor.",
+      "Opaque violet scoop-neck cropped ballet practice top with short sleeves, lavender wrap skirt over opaque fitted dance shorts, bare midriff arms legs, tiny red hair ribbon; ordinary adult dancewear."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "왕콘치",
+      "왕자리",
+      "해루미",
+      "우파",
+      "누오"
+    ],
+    "scope": "Read three recent plans and all nine submitted casual prompts; compare earlier characters in this batch.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
