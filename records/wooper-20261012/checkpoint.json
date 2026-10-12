@@ -1,0 +1,172 @@
+{
+  "character": "우파",
+  "status": "9 generated and visually reviewed, awaiting push",
+  "canonical": {
+    "slot": "light",
+    "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-dd985738-204f-490f-bed0-867690636438.png",
+    "filename": "우파_light_glossy_promo_f.webp",
+    "reference": [],
+    "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Wooper (우파), water / ground type.\n\nPALETTE: dark blue, blue.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Wooper as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): Pale blue enamel slim armor with three navy curved stripe motifs across the fitted torso; small pale violet branching gill shapes become paired hair clips, the broad blue tail becomes a short rounded split waist sash. Human skin and face, no animal limbs..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On an empty wetland boardwalk in clear early morning, the adult woman faces the camera with a lively balanced step, both empty hands relaxed and separated beside her waist. Complete head and boots inside a vertical 1024x1536 frame with margins.\nNote: One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nhair color: blue\neye color: purple\nhairstyle: bob — bob outline ending between below-ear and neck level\nbody type: slender — narrow frame and slim limbs, low soft-tissue volume\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\neye color consistency: both eyes are purple\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+    "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/우파_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "e4cb42b2a8601903360fbc02775d833ad7a85819df956bb2dd2ee17b29205b4e",
+    "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible"
+  },
+  "images": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-dd985738-204f-490f-bed0-867690636438.png",
+      "filename": "우파_light_glossy_promo_f.webp",
+      "reference": [],
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Wooper (우파), water / ground type.\n\nPALETTE: dark blue, blue.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Wooper as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): Pale blue enamel slim armor with three navy curved stripe motifs across the fitted torso; small pale violet branching gill shapes become paired hair clips, the broad blue tail becomes a short rounded split waist sash. Human skin and face, no animal limbs..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On an empty wetland boardwalk in clear early morning, the adult woman faces the camera with a lively balanced step, both empty hands relaxed and separated beside her waist. Complete head and boots inside a vertical 1024x1536 frame with margins.\nNote: One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nhair color: blue\neye color: purple\nhairstyle: bob — bob outline ending between below-ear and neck level\nbody type: slender — narrow frame and slim limbs, low soft-tissue volume\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\neye color consistency: both eyes are purple\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/우파_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e4cb42b2a8601903360fbc02775d833ad7a85819df956bb2dd2ee17b29205b4e",
+      "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible"
+    },
+    {
+      "slot": "heavy",
+      "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-ffdf2eb7-3c4b-4a5d-a4ee-aa7f8e3c7daa.png",
+      "filename": "우파_heavy_glossy_promo_f.webp",
+      "reference": [
+        "/workspace/scratch/f0d6aa388ce2/generated_images/exec-dd985738-204f-490f-bed0-867690636438.png"
+      ],
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Wooper (우파), water / ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nMOTIFS to keep: Pale blue enamel slim armor with three navy curved stripe motifs across the fitted torso; small pale violet branching gill shapes become paired hair clips, the broad blue tail becomes a short rounded split waist sash. Human skin and face, no animal limbs..\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On an empty wetland boardwalk in clear early morning, the adult woman faces the camera with a lively balanced step, both empty hands relaxed and separated beside her waist. Complete head and boots inside a vertical 1024x1536 frame with margins.\nNote: One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/우파_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "a0273f3083314da307f781a2e886e95aaf9fa4fd1ef70ac0fb2b3fc09c8bad15",
+      "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible"
+    },
+    {
+      "slot": "mobility",
+      "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-0b168021-10cb-4699-8707-bc829802ee8c.png",
+      "filename": "우파_mobility_glossy_promo_f.webp",
+      "reference": [
+        "/workspace/scratch/f0d6aa388ce2/generated_images/exec-dd985738-204f-490f-bed0-867690636438.png"
+      ],
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Wooper (우파), water / ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nMOTIFS to keep: Pale blue enamel slim armor with three navy curved stripe motifs across the fitted torso; small pale violet branching gill shapes become paired hair clips, the broad blue tail becomes a short rounded split waist sash. Human skin and face, no animal limbs..\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On an empty wetland boardwalk in clear early morning, the adult woman faces the camera with a lively balanced step, both empty hands relaxed and separated beside her waist. Complete head and boots inside a vertical 1024x1536 frame with margins.\nNote: One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/우파_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "8bf53c52ffdeb3b4e8a12a14e867405a31ad29daafb2e14c741e242cc2bcf443",
+      "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible"
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-dc4cea91-c103-49ca-baf8-832e420f23c3.png",
+      "filename": "우파_light_overdrive_glossy_promo_f.webp",
+      "reference": [
+        "/workspace/scratch/f0d6aa388ce2/generated_images/exec-dd985738-204f-490f-bed0-867690636438.png"
+      ],
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Wooper (우파), water / ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a cyan-blue water glow with spray and sheen shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/우파_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4a63e12eab6d735a497cf0d411c4b0e695ec63ce064601b382638b0288403cb8",
+      "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-7616d758-0538-4090-832b-3786636ee67d.png",
+      "filename": "우파_heavy_overdrive_glossy_promo_f.webp",
+      "reference": [
+        "/workspace/scratch/f0d6aa388ce2/generated_images/exec-ffdf2eb7-3c4b-4a5d-a4ee-aa7f8e3c7daa.png"
+      ],
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Wooper (우파), water / ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a cyan-blue water glow with spray and sheen shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/우파_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "41f94179365e48d8456047cddc740fe1c19c8b00d1d10a7c700b23dc975e00d6",
+      "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-1be31197-8199-44d9-8cd8-4f7786212a7a.png",
+      "filename": "우파_mobility_overdrive_glossy_promo_f.webp",
+      "reference": [
+        "/workspace/scratch/f0d6aa388ce2/generated_images/exec-0b168021-10cb-4699-8707-bc829802ee8c.png"
+      ],
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Wooper (우파), water / ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a cyan-blue water glow with spray and sheen shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/우파_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "245a30bfe476e919b0178ffc1c4f02e5bf7c1b16aedddbe7c7110242216f0a02",
+      "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible"
+    },
+    {
+      "slot": "casual1",
+      "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-4f1d78f6-117d-419a-91da-5247011ef5cc.png",
+      "filename": "우파_glossy_promo_f_casual1.webp",
+      "reference": [
+        "/workspace/scratch/f0d6aa388ce2/generated_images/exec-dd985738-204f-490f-bed0-867690636438.png"
+      ],
+      "prompt": "CHARACTER: the same woman as the attached image — Wooper (우파) personified, water / ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nMOTIFS to echo lightly: Pale blue enamel slim armor with three navy curved stripe motifs across the fitted torso; small pale violet branching gill shapes become paired hair clips, the broad blue tail becomes a short rounded split waist sash. Human skin and face, no animal limbs..\n\nSCENE (chosen):\nExpression: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed\nPose: Raise one hand near shoulder height in a friendly small wave.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: Inside an empty retro aquarium visitor hall at bright noon, an adult event hostess waves with one relaxed open hand at shoulder height, the other rests open on a broad reception ledge. No people or creatures in tanks, geometric blue water light. Head to above knees, both wrists and hands visible.\nOutfit and props: Opaque navy sleeveless fitted zip-front hostess mini dress with pale blue side panels, white stand collar and hem trim, secure short hem over opaque shorts, small violet branching hair pin; bare arms and legs, mainstream adult costume fashion.\nCategory: Create playful adult event fashion inspired by occupation or roleplay motifs. It must read as a costume made for a stage presentation or themed event, not as an authentic workplace uniform. Use original colours and decorative details — no real institutional insignia, no weapons, no tactical gear. Describe the costume by its tailoring, trim, and props, and show a believable styling or preparation action.\nNote: Both complete hands inside the selected crop, attached naturally to their forearms, each hand one thumb and four clear separate fingers. Single clearly adult woman only. No weapons, text or logos.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/우파_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "d5a21375b68ee97c17230a84a8ffa20dc1ba9ca0277d16d2cc5eee9e8d6d1617",
+      "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible"
+    },
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-db07d96e-1235-4d80-b1b8-8c44728b9aa5.png",
+      "filename": "우파_glossy_promo_f_casual2.webp",
+      "reference": [
+        "/workspace/scratch/f0d6aa388ce2/generated_images/exec-dd985738-204f-490f-bed0-867690636438.png"
+      ],
+      "prompt": "CHARACTER: the same woman as the attached image — Wooper (우파) personified, water / ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nMOTIFS to echo lightly: Pale blue enamel slim armor with three navy curved stripe motifs across the fitted torso; small pale violet branching gill shapes become paired hair clips, the broad blue tail becomes a short rounded split waist sash. Human skin and face, no animal limbs..\n\nSCENE (chosen):\nExpression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed\nPose: Kneel in a stable supported position suited to a low task or interaction.\nOrientation: camera above subject looking downward; obey selected framing\nScene: In a sunlit outdoor pottery courtyard in late afternoon, kneeling upright on a broad cushion next to a low pottery turntable, shaping a small clay bowl with both hands clearly separated on opposite sides. Entire woman and feet visible, camera gently above, warm clay textures.\nOutfit and props: Opaque light blue sleeveless fitted short romper with a secure square neckline and navy waist belt, bare arms upper chest and legs; small violet stud earrings.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: Both complete hands inside the selected crop, attached naturally to their forearms, each hand one thumb and four clear separate fingers. Single clearly adult woman only. No weapons, text or logos.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/우파_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "2bc58d36fed5179e2a4dbf884fe62582efeb9141860a9198f272fb7799842fa7",
+      "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible"
+    },
+    {
+      "slot": "casual3",
+      "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-6066620c-ff1d-4bb7-b918-31fca6dbfaf0.png",
+      "filename": "우파_glossy_promo_f_casual3.webp",
+      "reference": [
+        "/workspace/scratch/f0d6aa388ce2/generated_images/exec-dd985738-204f-490f-bed0-867690636438.png"
+      ],
+      "prompt": "CHARACTER: the same woman as the attached image — Wooper (우파) personified, water / ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nMOTIFS to echo lightly: Pale blue enamel slim armor with three navy curved stripe motifs across the fitted torso; small pale violet branching gill shapes become paired hair clips, the broad blue tail becomes a short rounded split waist sash. Human skin and face, no animal limbs..\n\nSCENE (chosen):\nExpression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted\nPose: Hold a folded-out route map in both hands while checking the surroundings.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: Under a covered basalt trail shelter during soft rainy dusk, standing side-on unfolding a plain map with both hands held apart, face turned toward viewer, river and rain behind, no writing visible on map. Both whole hands and forearms inside waist-up crop.\nOutfit and props: Opaque violet halter crop top, navy high-waisted hiking trousers and open pale blue lightweight rain vest; bare shoulders arms midriff, small blue stripe bracelet.\nCategory: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.\nNote: Both complete hands inside the selected crop, attached naturally to their forearms, each hand one thumb and four clear separate fingers. Single clearly adult woman only. No weapons, text or logos.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/우파_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "0b1e7919de7729b50918a33c82557eb2463ef7571424369098862289dfee8c47",
+      "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible"
+    }
+  ]
+}

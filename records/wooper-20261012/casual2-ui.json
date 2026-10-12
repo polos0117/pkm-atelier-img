@@ -1,0 +1,246 @@
+{
+  "controls": [
+    {
+      "id": "search",
+      "value": ""
+    },
+    {
+      "id": "group",
+      "value": ""
+    },
+    {
+      "id": "source",
+      "value": "우파"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo"
+    },
+    {
+      "id": "motifs",
+      "value": "Pale blue enamel slim armor with three navy curved stripe motifs across the fitted torso; small pale violet branching gill shapes become paired hair clips, the broad blue tail becomes a short rounded split waist sash. Human skin and face, no animal limbs."
+    },
+    {
+      "id": "expression",
+      "value": "focused"
+    },
+    {
+      "id": "category",
+      "value": "hobbies_leisure"
+    },
+    {
+      "id": "example",
+      "value": ""
+    },
+    {
+      "id": "pose",
+      "value": "kneeling"
+    },
+    {
+      "id": "orientation",
+      "value": "high_angle"
+    },
+    {
+      "id": "frame",
+      "value": "full_body"
+    },
+    {
+      "id": "lens",
+      "value": "documentary35"
+    },
+    {
+      "id": "aspect",
+      "value": "2:3"
+    },
+    {
+      "id": "camera",
+      "value": ""
+    },
+    {
+      "id": "scene",
+      "value": "In a sunlit outdoor pottery courtyard in late afternoon, kneeling upright on a broad cushion next to a low pottery turntable, shaping a small clay bowl with both hands clearly separated on opposite sides. Entire woman and feet visible, camera gently above, warm clay textures."
+    },
+    {
+      "id": "outfit",
+      "value": "Opaque light blue sleeveless fitted short romper with a secure square neckline and navy waist belt, bare arms upper chest and legs; small violet stud earrings."
+    },
+    {
+      "id": "custom",
+      "value": "Both complete hands inside the selected crop, attached naturally to their forearms, each hand one thumb and four clear separate fingers. Single clearly adult woman only. No weapons, text or logos."
+    },
+    {
+      "id": "axis-overall_intensity",
+      "value": "strong"
+    },
+    {
+      "id": "axis-skin_exposure",
+      "value": "bold"
+    },
+    {
+      "id": "axis-action_level",
+      "value": "AUTO"
+    },
+    {
+      "id": "axis-source_influence",
+      "value": "AUTO"
+    },
+    {
+      "id": "axis-separates_preference",
+      "value": "AUTO"
+    }
+  ],
+  "state": {
+    "last": "우파",
+    "cards": {
+      "이상해씨": {
+        "style": "cinematic_semi_real",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {},
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "우파": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "Pale blue enamel slim armor with three navy curved stripe motifs across the fitted torso; small pale violet branching gill shapes become paired hair clips, the broad blue tail becomes a short rounded split waist sash. Human skin and face, no animal limbs.",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "hair color": "blue",
+          "eye color": "purple",
+          "hairstyle": "bob",
+          "body type": "slender"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "On an empty wetland boardwalk in clear early morning, the adult woman faces the camera with a lively balanced step, both empty hands relaxed and separated beside her waist. Complete head and boots inside a vertical 1024x1536 frame with margins.",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "focused",
+            "pose": "kneeling",
+            "orient": "high_angle",
+            "scene": "In a sunlit outdoor pottery courtyard in late afternoon, kneeling upright on a broad cushion next to a low pottery turntable, shaping a small clay bowl with both hands clearly separated on opposite sides. Entire woman and feet visible, camera gently above, warm clay textures.",
+            "outfit": "Opaque light blue sleeveless fitted short romper with a secure square neckline and navy waist belt, bare arms upper chest and legs; small violet stud earrings.",
+            "frame": "full_body",
+            "lens": "documentary35",
+            "camera": "",
+            "custom": "Both complete hands inside the selected crop, attached naturally to their forearms, each hand one thumb and four clear separate fingers. Single clearly adult woman only. No weapons, text or logos.",
+            "aspect": "2:3",
+            "cat": "hobbies_leisure",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  }
+}

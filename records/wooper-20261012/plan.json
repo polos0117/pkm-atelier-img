@@ -1,0 +1,60 @@
+{
+  "name": "우파",
+  "slug": "wooper",
+  "hair": "blue",
+  "eye": "purple",
+  "cut": "bob",
+  "body": "slender",
+  "wear": "Pale blue enamel slim armor with three navy curved stripe motifs across the fitted torso; small pale violet branching gill shapes become paired hair clips, the broad blue tail becomes a short rounded split waist sash. Human skin and face, no animal limbs.",
+  "light": "On an empty wetland boardwalk in clear early morning, the adult woman faces the camera with a lively balanced step, both empty hands relaxed and separated beside her waist. Complete head and boots inside a vertical 1024x1536 frame with margins.",
+  "casual": [
+    [
+      "adult_roleplay",
+      "amused",
+      "waving",
+      "front",
+      "three_quarter",
+      "portrait85",
+      "Inside an empty retro aquarium visitor hall at bright noon, an adult event hostess waves with one relaxed open hand at shoulder height, the other rests open on a broad reception ledge. No people or creatures in tanks, geometric blue water light. Head to above knees, both wrists and hands visible.",
+      "Opaque navy sleeveless fitted zip-front hostess mini dress with pale blue side panels, white stand collar and hem trim, secure short hem over opaque shorts, small violet branching hair pin; bare arms and legs, mainstream adult costume fashion."
+    ],
+    [
+      "hobbies_leisure",
+      "focused",
+      "kneeling",
+      "high_angle",
+      "full_body",
+      "documentary35",
+      "In a sunlit outdoor pottery courtyard in late afternoon, kneeling upright on a broad cushion next to a low pottery turntable, shaping a small clay bowl with both hands clearly separated on opposite sides. Entire woman and feet visible, camera gently above, warm clay textures.",
+      "Opaque light blue sleeveless fitted short romper with a secure square neckline and navy waist belt, bare arms upper chest and legs; small violet stud earrings."
+    ],
+    [
+      "travel_exploration",
+      "curious",
+      "checking_map",
+      "side",
+      "waist_up",
+      "natural50",
+      "Under a covered basalt trail shelter during soft rainy dusk, standing side-on unfolding a plain map with both hands held apart, face turned toward viewer, river and rain behind, no writing visible on map. Both whole hands and forearms inside waist-up crop.",
+      "Opaque violet halter crop top, navy high-waisted hiking trousers and open pale blue lightweight rain vest; bare shoulders arms midriff, small blue stripe bracelet."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "왕콘치",
+      "왕자리",
+      "해루미"
+    ],
+    "scope": "Read three recent plans and all nine submitted casual prompts; compare earlier characters in this batch.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
