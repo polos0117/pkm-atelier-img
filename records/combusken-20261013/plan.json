@@ -1,0 +1,62 @@
+{
+  "name": "영치코",
+  "no": 256,
+  "hair": "red",
+  "cut": "high ponytail",
+  "body": "athletic",
+  "eyes": "gold",
+  "wear": "A feather-crest headpiece, yellow upper breastplate divided sharply from burnt-orange waist and thigh plates; short tail-shaped sash hanging behind the belt, steel-gray shin guards and small claw-shaped trim on boots and forearm guards without replacing human fingers.",
+  "casual": [
+    {
+      "cat": "active",
+      "expr": "focused",
+      "pose": "mid_action",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "Inside an empty sunlit dance rehearsal studio in the early morning, marking a gentle rhythmic step with both open hands at waist height, palms angled toward camera and separated. Face directed forward, no mirrors, pale wood floor and diffuse windows.",
+      "outfit": "Opaque golden-yellow sleeveless cropped racerback dance top and burnt-orange high-waisted wide-leg practice trousers, small gray bracelet; bare shoulders arms and midriff."
+    },
+    {
+      "cat": "everyday_basic",
+      "expr": "amused",
+      "pose": "carrying_something",
+      "orient": "front_3q",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "At an empty railway station concourse on an overcast afternoon, paused beside a compact orange suitcase, one hand loosely holding its upright handle and the other raised open in a small wave. Full head and shoes in frame, no signage or writing, soft skylight.",
+      "outfit": "Opaque white cropped buttoned sleeveless shirt, orange high-waisted tailored Bermuda shorts, gray trainers and a small feather brooch; bare arms midriff and lower legs."
+    },
+    {
+      "cat": "adult_roleplay",
+      "expr": "confident",
+      "pose": "leaning_furniture",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "telephoto135",
+      "scene": "At an original retro roller-disco themed stage event before opening, leaning side-on on a low padded bench with face turned to camera, one hand adjusting a decorative wrist ribbon, the other resting separately on the bench. Purple and gold evening stage lights, no other people.",
+      "outfit": "Original adult roller-performer event costume: opaque yellow halter bodice, burnt-orange high-waisted skater mini skirt, gray ankle boots and small feather earrings. Bare shoulders arms and legs; decorative stage fashion without armor or insignia."
+    }
+  ],
+  "comparison": {
+    "reviewed": [
+      "핫삼",
+      "단단지",
+      "헤라크로스"
+    ],
+    "sources": [
+      "records/scizor-20261013/casual1.txt..casual3.txt",
+      "records/shuckle-20261013/casual1.txt..casual3.txt",
+      "records/heracross-20261013/casual1.txt..casual3.txt"
+    ],
+    "changes": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ],
+    "earlier_this_task": [
+      "아차모"
+    ]
+  }
+}

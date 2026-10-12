@@ -1,0 +1,266 @@
+{
+  "name": "영치코",
+  "date": "2026-10-13",
+  "style": "glossy_promo",
+  "tool": "built-in image_gen",
+  "completed": 9,
+  "required": 9,
+  "status": "generated and visually reviewed; publication pending",
+  "approved_light": {
+    "card": "영치코",
+    "slot": "light",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "generated_images/exec-0ac36e4b-0804-44fd-befa-6a75997f966e.png",
+    "original_sha256": "adb1c35a2c2b0289ec34d7d98f24d4743f3582f582b55b9ea8f205c8d2579609",
+    "output": "img/영치코_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "315c56323e02446ca6cd9f4fb4c896f81222160a99025d77945786561435367f",
+    "reference": null,
+    "reference_sha256": null,
+    "submitted_prompt": "light.txt",
+    "prompt_sha256": "cd4bb54a15d231917ae04cb7a2f05097f99499952a27c59235fd07389d237ec7"
+  },
+  "face_design": {
+    "name": "영치코",
+    "en": "Combusken",
+    "line": "아차모",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "oval",
+      "face length": "balanced",
+      "face width": "wide",
+      "jaw & chin": "wide heavy chin",
+      "eye shape": "almond",
+      "eye size": "large",
+      "eye tilt": "level outer corners",
+      "eye spacing": "average eye spacing",
+      "eyebrows": "straight medium brows",
+      "nose character": "broad low bridge",
+      "lips": "wide mouth"
+    },
+    "why": "짧고 넓은 부리와 강해진 다리의 체적을 넓은 얼굴과 열린 눈매로 구분한다.",
+    "cues": [
+      "몸 형태 upright → 얼굴형 균형 잡힌 타원형",
+      "‘short, wide beak’ → 코 콧대가 낮고 넓은",
+      "‘short, wide beak’ → 입술 입이 넓은"
+    ],
+    "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 코 작고 여린 코 → 콧대가 낮고 넓은"
+  },
+  "face_comparisons": [
+    "핫삼",
+    "단단지",
+    "헤라크로스",
+    "아차모"
+  ],
+  "face_review": "Visually compared contour/jaw, eye width and slope, nose and mouth proportions without relying on hair or ornament colors.",
+  "casual_comparison": {
+    "reviewed": [
+      "핫삼",
+      "단단지",
+      "헤라크로스"
+    ],
+    "sources": [
+      "records/scizor-20261013/casual1.txt..casual3.txt",
+      "records/shuckle-20261013/casual1.txt..casual3.txt",
+      "records/heracross-20261013/casual1.txt..casual3.txt"
+    ],
+    "changes": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ],
+    "earlier_this_task": [
+      "아차모"
+    ]
+  },
+  "images": [
+    {
+      "card": "영치코",
+      "slot": "light",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "generated_images/exec-0ac36e4b-0804-44fd-befa-6a75997f966e.png",
+      "original_sha256": "adb1c35a2c2b0289ec34d7d98f24d4743f3582f582b55b9ea8f205c8d2579609",
+      "output": "img/영치코_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "315c56323e02446ca6cd9f4fb4c896f81222160a99025d77945786561435367f",
+      "reference": null,
+      "reference_sha256": null,
+      "submitted_prompt": "light.txt",
+      "prompt_sha256": "cd4bb54a15d231917ae04cb7a2f05097f99499952a27c59235fd07389d237ec7"
+    },
+    {
+      "card": "영치코",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "generated_images/exec-08222e87-1bf6-4759-b160-35f7df549b2b.png",
+      "original_sha256": "a1a90008d2f6978024f4101c26927c1341a6becabaf6db6c38f28f511c577f66",
+      "output": "img/영치코_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "8377e44737f170452792d5d82eaed1f63d2fdb9f0d12fe1caff086eac54a93e7",
+      "reference": "img/영치코_light_glossy_promo_f.webp",
+      "reference_sha256": "315c56323e02446ca6cd9f4fb4c896f81222160a99025d77945786561435367f",
+      "submitted_prompt": "heavy.txt",
+      "prompt_sha256": "a43069703d578619d9e005872ce4299b20173c69504695025a066d02689a2c3e"
+    },
+    {
+      "card": "영치코",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "generated_images/exec-bd40d7c9-0de8-48b5-9758-5944e21ba971.png",
+      "original_sha256": "6ceeff2f4fabcdc78ce56629fe37a7f3bf82c5f1b6a58dae214f129051dc5ae9",
+      "output": "img/영치코_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "30c93796ea45df66e364cd4e1911a11b985f9c353637c9881bab956918244cc2",
+      "reference": "img/영치코_light_glossy_promo_f.webp",
+      "reference_sha256": "315c56323e02446ca6cd9f4fb4c896f81222160a99025d77945786561435367f",
+      "submitted_prompt": "mobility.txt",
+      "prompt_sha256": "1fe93986a6d8dada48df842897dcf2042e6312f5eef1f5d5bcee2564cdd28307"
+    },
+    {
+      "card": "영치코",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "generated_images/exec-c9c32a2f-9893-4031-8c48-ccab81344c6a.png",
+      "original_sha256": "91b2a2dcc4042eeb295f8ca8fc563f8f7e3cc229a916e202e463dce280b50c0a",
+      "output": "img/영치코_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "32eeec7fb45003e8807257251a53c53bce0a0427f6358da07d9daa9838b59cda",
+      "reference": "img/영치코_light_glossy_promo_f.webp",
+      "reference_sha256": "315c56323e02446ca6cd9f4fb4c896f81222160a99025d77945786561435367f",
+      "submitted_prompt": "light_overdrive.txt",
+      "prompt_sha256": "4711512cf3ba88af057e60328d27b7e2e33f2b6c91fc15839218c04a53da4ced"
+    },
+    {
+      "card": "영치코",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "generated_images/exec-efba2c21-233c-4996-af18-806e6e090d3d.png",
+      "original_sha256": "8c9aab27a17af4b3e9192b50a64127b61c03c81cb5aae2aa3abd616e1e41259d",
+      "output": "img/영치코_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "30a3a2aeb3d7441cc0f0da934b15167c38bdf6ad795159009e2f60accddc808c",
+      "reference": "img/영치코_heavy_glossy_promo_f.webp",
+      "reference_sha256": "8377e44737f170452792d5d82eaed1f63d2fdb9f0d12fe1caff086eac54a93e7",
+      "submitted_prompt": "heavy_overdrive.txt",
+      "prompt_sha256": "080a78a20ce1e7508dfe37ba3678bba4c8ac47a35a672946c92b1dae92c1ef38"
+    },
+    {
+      "card": "영치코",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "generated_images/exec-25116537-1698-424c-a088-d3b513d28cb4.png",
+      "original_sha256": "5ee7cb4e7502c8d1243729233dc4e076af7f10aa3c26abd0a24baa330514e606",
+      "output": "img/영치코_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "a713272167b439ba41ff05dabf5eda0ee930afaae4cd30929fe30620e047b6e9",
+      "reference": "img/영치코_mobility_glossy_promo_f.webp",
+      "reference_sha256": "30c93796ea45df66e364cd4e1911a11b985f9c353637c9881bab956918244cc2",
+      "submitted_prompt": "mobility_overdrive.txt",
+      "prompt_sha256": "70a04bdf22aab0760f0978e8a5c2f9f5df74148688aff371d21c76edead83fe7"
+    },
+    {
+      "card": "영치코",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "generated_images/exec-a569f46d-99de-4891-892f-8c743eef006f.png",
+      "original_sha256": "337cb33bff8fa649ec3b977ef9237fb00d8f315d81aba61f69e02ef25f9841a6",
+      "output": "img/영치코_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f68f0d5f491ca153c3e91a9959ba459aab08c80914f98594d6d5663efde9b498",
+      "reference": "img/영치코_light_glossy_promo_f.webp",
+      "reference_sha256": "315c56323e02446ca6cd9f4fb4c896f81222160a99025d77945786561435367f",
+      "submitted_prompt": "casual1.txt",
+      "prompt_sha256": "4c8a3b49b5a0144c06478346afe49161f986bcc2ef0f1d452698536f56b2308b"
+    },
+    {
+      "card": "영치코",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "generated_images/exec-f5725f3c-afe0-4dd0-bced-f0629f9634ce.png",
+      "original_sha256": "276a794723df13c8170e718d845108a1f6c6d2071ef294b928b500d707785e95",
+      "output": "img/영치코_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "47b58edc7bda009387ec8767964347424c13ce72101459025a3fafa95d5c10c5",
+      "reference": "img/영치코_light_glossy_promo_f.webp",
+      "reference_sha256": "315c56323e02446ca6cd9f4fb4c896f81222160a99025d77945786561435367f",
+      "submitted_prompt": "casual2.txt",
+      "prompt_sha256": "2a961b6c2d3298dfbd52aeb24b9159f3f3fdce61956d52d6f1330fd2b550b844"
+    },
+    {
+      "card": "영치코",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "generated_images/exec-47a451ae-fbf7-4e29-b4b5-19adeb797bfe.png",
+      "original_sha256": "048f21fca42b46f669666767dd9870f65b3f838298e4ba953dbaf28a0310e259",
+      "output": "img/영치코_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4c4547821326206fd08204f12d1a0bc6653facd7b56e93e084fbbfcd1ba77023",
+      "reference": "img/영치코_light_glossy_promo_f.webp",
+      "reference_sha256": "315c56323e02446ca6cd9f4fb4c896f81222160a99025d77945786561435367f",
+      "submitted_prompt": "casual3.txt",
+      "prompt_sha256": "5b7a497c446e7c326ba7fb3ba3365d685454000adee6f7237325fdbfdac5657c"
+    }
+  ]
+}

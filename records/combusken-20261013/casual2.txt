@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Combusken (영치코) personified, fire / fighting type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed
+Pose: Carry the scene's bag, basket or box with believable hand contact and weight.
+Orientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together
+Scene: At an empty railway station concourse on an overcast afternoon, paused beside a compact orange suitcase, one hand loosely holding its upright handle and the other raised open in a small wave. Full head and shoes in frame, no signage or writing, soft skylight.
+Outfit and props: Opaque white cropped buttoned sleeveless shirt, orange high-waisted tailored Bermuda shorts, gray trainers and a small feather brooch; bare arms midriff and lower legs.
+Category: Create candid ordinary personal-life moments. The scene should feel lived-in, believable, and visually specific rather than staged. Use normal contemporary clothing with clear character personality. Avoid glamour-shoot posing, professional work, and costume styling.
+Note: 1024x1536 vertical. Both complete human hands inside the chosen crop and visibly connected to their own forearms with five distinct natural digits each. Species details remain only small accessories, no armor or weapons.
+Framing: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.
+Lens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
