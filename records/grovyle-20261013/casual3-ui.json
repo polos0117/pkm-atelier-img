@@ -1,0 +1,17 @@
+{
+  "name": "나무돌이",
+  "outputMode": "casual",
+  "cat": "food_berries",
+  "expr": "amused",
+  "pose": "preparing_food",
+  "orient": "front_3q",
+  "frame": "waist_up",
+  "lens": "natural50",
+  "scene": "At a shaded campsite picnic counter at midday, arranging sliced fruit in an unmarked bamboo lunch box. One hand places a small berry while the other steadies a separate corner, complete forearms and hands inside crop; green canopy reflections.",
+  "outfit": "Ivory sleeveless wrap sundress with a secure coral inset and small green belt buckle, tiny leaf earrings. Bare shoulders and arms; soft cotton picnic clothing.",
+  "custom": "1024x1536 vertical. Preserve the attached adult identity, haircut and proportions. Both complete five-finger hands inside the chosen crop and visibly connected to their own forearms. No armor or weapons, no large headpiece or sash, only small species accessories.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

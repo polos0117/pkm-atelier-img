@@ -1,0 +1,55 @@
+{
+  "name": "나무돌이",
+  "no": 253,
+  "style": "glossy_promo",
+  "casual": [
+    {
+      "cat": "swimwear",
+      "expr": "relieved",
+      "pose": "standing_relaxed",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "At a clear mountain-river resort beside a shallow stone bathing pool at sunset, body side-on and face turned toward viewer, squeezing water from the end of her ponytail with one hand while the other rests separately on a dry rock. Head through knees and both complete hands visible; peach rim light.",
+      "outfit": "Lined forest-green two-piece athletic bikini with coral-red piping, secure broad straps and tiny leaf stud earrings. Bare arms, midriff and legs; modern resort swimwear."
+    },
+    {
+      "cat": "active",
+      "expr": "confident",
+      "pose": "dance_step",
+      "orient": "front",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "In an empty sunlit dance practice studio at late morning, stepping through a light warm-up turn with both hands open beside her waist. Full head to shoes visible, warm wooden floor and diffuse skylight; no mirrors.",
+      "outfit": "Coral-red fitted racerback sports bra, dark-green high-waisted running shorts with curved hems, cream trainers and slim leaf pendant. Bare arms, midriff and legs; athletic contemporary clothing."
+    },
+    {
+      "cat": "food_berries",
+      "expr": "amused",
+      "pose": "preparing_food",
+      "orient": "front_3q",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "At a shaded campsite picnic counter at midday, arranging sliced fruit in an unmarked bamboo lunch box. One hand places a small berry while the other steadies a separate corner, complete forearms and hands inside crop; green canopy reflections.",
+      "outfit": "Ivory sleeveless wrap sundress with a secure coral inset and small green belt buckle, tiny leaf earrings. Bare shoulders and arms; soft cotton picnic clothing."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "recent_compared": [
+    "암나이트",
+    "블루",
+    "폴리곤",
+    "나무지기"
+  ],
+  "comparison_scope": "Recent three plans and nine submitted casual prompts read; canonical faces visually inspected and compared with Treecko. New casual scenes changed location, activity, clothing silhouette and composition.",
+  "face_reason": "Long leaf outlines and elongated agile body translated through species face-design into a long narrow face, defined chin and horizontal narrow eyes; actual face distinguished from Treecko.",
+  "face_sources": [
+    "data/face-design.json",
+    "data/source-appearance.json",
+    "docs/CHARACTER_FACE_DESIGNS.md"
+  ],
+  "ui_verification": "All nine actual UI selections inspected and exact output lengths and FNV matched production prompts."
+}

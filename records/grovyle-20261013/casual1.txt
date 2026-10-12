@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Grovyle (나무돌이) personified, grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened
+Pose: Stand at ease with relaxed shoulders and naturally balanced feet.
+Orientation: side body profile, approximately 90 degrees to camera
+Scene: At a clear mountain-river resort beside a shallow stone bathing pool at sunset, body side-on and face turned toward viewer, squeezing water from the end of her ponytail with one hand while the other rests separately on a dry rock. Head through knees and both complete hands visible; peach rim light.
+Outfit and props: Lined forest-green two-piece athletic bikini with coral-red piping, secure broad straps and tiny leaf stud earrings. Bare arms, midriff and legs; modern resort swimwear.
+Category: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.
+Note: 1024x1536 vertical. Preserve the attached adult identity, haircut and proportions. Both complete five-finger hands inside the chosen crop and visibly connected to their own forearms. No armor or weapons, no large headpiece or sash, only small species accessories.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+Lens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

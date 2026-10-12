@@ -1,0 +1,17 @@
+{
+  "name": "나무돌이",
+  "outputMode": "casual",
+  "cat": "swimwear",
+  "expr": "relieved",
+  "pose": "standing_relaxed",
+  "orient": "side",
+  "frame": "three_quarter",
+  "lens": "portrait85",
+  "scene": "At a clear mountain-river resort beside a shallow stone bathing pool at sunset, body side-on and face turned toward viewer, squeezing water from the end of her ponytail with one hand while the other rests separately on a dry rock. Head through knees and both complete hands visible; peach rim light.",
+  "outfit": "Lined forest-green two-piece athletic bikini with coral-red piping, secure broad straps and tiny leaf stud earrings. Bare arms, midriff and legs; modern resort swimwear.",
+  "custom": "1024x1536 vertical. Preserve the attached adult identity, haircut and proportions. Both complete five-finger hands inside the chosen crop and visibly connected to their own forearms. No armor or weapons, no large headpiece or sash, only small species accessories.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

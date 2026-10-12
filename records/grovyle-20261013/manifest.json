@@ -1,0 +1,128 @@
+[
+  {
+    "slot": "light",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-a8cccb66-6728-4272-a149-6275176a1d58.png",
+    "source_sha256": "d2663a42e1d0c65f423173fda834b19e2bf31fc3353094e58631596865d07498",
+    "output": "img/나무돌이_light_glossy_promo_f.webp",
+    "sha256": "5f01387f24a544680d4763cbce4e49bf0748c43c4dcf4a8d05603fd79cf8b78d",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 556306,
+    "reference_slot": null,
+    "qa": "visually inspected identity, hands, five-finger anatomy, framing, form silhouette and paired opening"
+  },
+  {
+    "slot": "heavy",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-8bf4f846-4de8-4ecb-a2b1-1197107910ec.png",
+    "source_sha256": "19dc4212fec80e8574072b04a5239980c8d921f359437619dc0234ae648b41b6",
+    "output": "img/나무돌이_heavy_glossy_promo_f.webp",
+    "sha256": "6650392fb5383174bf105c40b8e36ecee1b26ed8725687ca4af5af62b5ac888d",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 549924,
+    "reference_slot": "light",
+    "qa": "visually inspected identity, hands, five-finger anatomy, framing, form silhouette and paired opening"
+  },
+  {
+    "slot": "mobility",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-5282a4b2-7793-4c36-8f47-ce0d17b8bf0e.png",
+    "source_sha256": "46fe174e62995dcb7bb5b2de3ad548300440c95bdfbeee70daa4e00bc41678e2",
+    "output": "img/나무돌이_mobility_glossy_promo_f.webp",
+    "sha256": "c75ff6224c7a3ae6a59ae10d53bceea963ecbcdab8c93aca109c8d4a3ada7489",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 567230,
+    "reference_slot": "light",
+    "qa": "visually inspected identity, hands, five-finger anatomy, framing, form silhouette and paired opening"
+  },
+  {
+    "slot": "light_overdrive",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-3f5049de-53ab-4332-b753-283498775834.png",
+    "source_sha256": "063cdb7f59104625cfce2069a01b5c11b2d1acc1981074b359209f5cf9b78c37",
+    "output": "img/나무돌이_light_overdrive_glossy_promo_f.webp",
+    "sha256": "d034b625b9de528a612da566d07692ff601dd381bc7efe813a3ebeaf1fd02225",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 590646,
+    "reference_slot": "light",
+    "qa": "visually inspected identity, hands, five-finger anatomy, framing, form silhouette and paired opening"
+  },
+  {
+    "slot": "heavy_overdrive",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-0a93e1c3-a842-43d0-b847-edfd3e808bad.png",
+    "source_sha256": "76a6331a0f8f189b9ee4ea51d08a66e0ea1b3dc998dd8e1c6542acb0b7f84a31",
+    "output": "img/나무돌이_heavy_overdrive_glossy_promo_f.webp",
+    "sha256": "e202793c527d9da8232026a6d2969bd3e38c11807e4394ccf5f4a784438a806c",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 632190,
+    "reference_slot": "heavy",
+    "qa": "visually inspected identity, hands, five-finger anatomy, framing, form silhouette and paired opening"
+  },
+  {
+    "slot": "mobility_overdrive",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-d8a765eb-ba5b-4394-ae1c-bd241039614e.png",
+    "source_sha256": "d58e29c8612a0a4c631fa74401479b0828140d068ba1af30c73d71657133d9ed",
+    "output": "img/나무돌이_mobility_overdrive_glossy_promo_f.webp",
+    "sha256": "6dac003cfec9c1b93e681ccbffba6400d4cec37e6564cbc21f37d1dba82a692f",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 679106,
+    "reference_slot": "mobility",
+    "qa": "visually inspected identity, hands, five-finger anatomy, framing, form silhouette and paired opening"
+  },
+  {
+    "slot": "casual1",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-9a51e723-c62a-412a-8040-36518e6015c8.png",
+    "source_sha256": "458038f48c5b5958bae646ddf7229db5a467448443e318e9fc53840bc2c4a644",
+    "output": "img/나무돌이_glossy_promo_f_casual1.webp",
+    "sha256": "07138a72be2889de3c317933fc096eb6d58e969eca632535b40813d134d17191",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 468074,
+    "reference_slot": "light",
+    "qa": "visually inspected identity, hands, five-finger anatomy, framing, form silhouette and paired opening"
+  },
+  {
+    "slot": "casual2",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-5ee239c3-9d0e-47ed-9dad-77dc77a83023.png",
+    "source_sha256": "490c93adc11480a01d9eb28393f44d7512206e4d7f526d6b43899901a86f4822",
+    "output": "img/나무돌이_glossy_promo_f_casual2.webp",
+    "sha256": "3ce11533f4fd066df7210ba259b32e261d4d271c971531b6cc124b9450f7d90f",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 384426,
+    "reference_slot": "light",
+    "qa": "visually inspected identity, hands, five-finger anatomy, framing, form silhouette and paired opening"
+  },
+  {
+    "slot": "casual3",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-8b3f7f24-7db9-4eab-9d27-a4daee18e96e.png",
+    "source_sha256": "bdf4cf7ca9fbac30c1e0455f7292a120b0b5122bfac165d572b1de7c342c9010",
+    "output": "img/나무돌이_glossy_promo_f_casual3.webp",
+    "sha256": "25c4a045b57f7093c980269b7f49fa4b3543b8ded5453616e3c9910b2b253962",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 442972,
+    "reference_slot": "light",
+    "qa": "visually inspected identity, hands, five-finger anatomy, framing, form silhouette and paired opening"
+  }
+]
