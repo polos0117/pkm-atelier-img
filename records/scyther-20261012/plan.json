@@ -1,0 +1,81 @@
+{
+  "card": "스라크",
+  "style": "glossy_promo",
+  "casual": [
+    {
+      "slot": "casual1",
+      "ui": {
+        "category": "adult_roleplay",
+        "expression": "confident",
+        "pose": "holding_object",
+        "orientation": "side",
+        "frame": "three_quarter",
+        "lens": "portrait85"
+      },
+      "EXPRESSION": "level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed",
+      "POSE": "Carry the scene's bag, basket or box with believable hand contact and weight.",
+      "ORIENTATION": "side body profile, approximately 90 degrees to camera",
+      "SCENE": "At an empty forest conservation event booth at golden sunset, an adult ranger-themed event host stands side-on with her face turned toward the viewer, showing a small fern seedling in a ceramic pot at chest height with both hands supporting opposite sides. Open timber booth, warm backlight, no writing or other figures.",
+      "OUTFIT": "Opaque cream sleeveless cropped safari shirt with structured collar and green shoulder tabs, forest-green high-waisted tailored shorts with a cream belt and short open utility vest. Bare arms midriff and legs, covered chest and pelvis; small leaf earrings.",
+      "CATEGORY": "Create playful adult event fashion inspired by occupation or roleplay motifs. It must read as a costume made for a stage presentation or themed event, not as an authentic workplace uniform. Use original colours and decorative details — no real institutional insignia, no weapons, no tactical gear. Describe the costume by its tailoring, trim, and props, and show a believable styling or preparation action.",
+      "FRAMING": "Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.",
+      "LENS": "85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression."
+    },
+    {
+      "slot": "casual2",
+      "ui": {
+        "category": "cooking_berries",
+        "expression": "focused",
+        "pose": "food_prep",
+        "orientation": "high_angle",
+        "frame": "waist_up",
+        "lens": "natural50"
+      },
+      "EXPRESSION": "slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed",
+      "POSE": "Work at a kitchen counter, stirring a bowl or arranging ingredients with clearly separated hands and utensils.",
+      "ORIENTATION": "camera above subject looking downward; obey selected framing",
+      "SCENE": "Inside a small home kitchen in bright morning light, folding basil leaves into a bowl of berry salad with one hand while the other steadies the opposite bowl rim. Gentle overhead view keeps her face and both complete hands visible; cream tile, green herbs, no knives or other people.",
+      "OUTFIT": "Opaque moss-green sleeveless ribbed halter knit top with secure neckline, cream high-waisted linen trousers and a short tied waist apron. Bare shoulders arms and a small midriff gap; tiny white leaf pendant.",
+      "CATEGORY": "Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.",
+      "FRAMING": "Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.",
+      "LENS": "50mm-equivalent natural perspective with balanced proportions and modest depth compression."
+    },
+    {
+      "slot": "casual3",
+      "ui": {
+        "category": "active",
+        "expression": "amused",
+        "pose": "walking",
+        "orientation": "front_3q",
+        "frame": "environmental",
+        "lens": "documentary35"
+      },
+      "EXPRESSION": "crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed",
+      "POSE": "Walk at a comfortable pace with a natural step and arm swing.",
+      "ORIENTATION": "front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together",
+      "SCENE": "On an empty elevated rope-free woodland canopy walkway after a summer rain at blue dusk, taking a light balanced walking step over wet timber planks, arms naturally apart with both empty hands visible. Entire head and shoes within frame, silver droplets and deep tree trunks establish depth.",
+      "OUTFIT": "Opaque ivory short-sleeved fitted athletic shirt knotted above the waist, forest-green high-waisted cycling shorts, cream trail shoes and a narrow green crossbody strap. Bare midriff forearms and legs; a tiny silver mantis-shaped hair clip, no cape or armor.",
+      "CATEGORY": "Show real movement with fashion-forward activewear or movement-oriented clothing. Avoid generic gym snapshots. Prioritize dynamic motion, readable silhouette, waist and hip lines, fabric movement, and varied action.",
+      "FRAMING": "Environmental long shot: show the complete woman and enough surroundings to establish the activity and location.",
+      "LENS": "35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "reviewed": [
+      "에브이",
+      "마임맨",
+      "아쿠스타"
+    ],
+    "scope": "Read current plans and submitted prompts when available; Espeon plan only because standalone prompt files absent. Earlier supplementary Wooper/Yanma plans also read.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  }
+}
