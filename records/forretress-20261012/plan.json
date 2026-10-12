@@ -1,0 +1,56 @@
+{
+  "casual": [
+    {
+      "cat": "swimwear",
+      "expr": "relieved",
+      "pose": "sitting",
+      "orient": "front_3q",
+      "frame": "three_quarter",
+      "lens": "documentary35",
+      "scene": "Seated securely in an unmanned small recreational kayak in shallow clear water at a quiet public beach at bright morning, gently holding a plain wooden paddle across her lap with widely separated hands. Face toward viewer, head through knees, complete hands and the seating visible, pale sand and softly sparkling sea, no logos or other figures.",
+      "outfit": "Fully lined opaque dark-red high-neck sleeveless swim crop top with a lavender center panel and secure high-waisted matching swim bottoms. Bare arms, shoulders and midriff, chest and pelvis fully covered. Tiny silver circular stud earrings, no helmet or armor."
+    },
+    {
+      "cat": "everyday_basic",
+      "expr": "mildly_annoyed",
+      "pose": "kneeling",
+      "orient": "front",
+      "frame": "full_body",
+      "lens": "natural50",
+      "scene": "Inside an empty modern self-service laundry at night, kneeling on one knee in front of a closed low laundry basket while folding a simple gray towel between her two separated hands. Full head, hands and sneakers in frame, cool fluorescent light with warm street reflections in a window, machines have no lettering.",
+      "outfit": "Opaque light-gray fitted short-sleeve scoop-neck tee tucked into purple high-waisted denim shorts, white low-top sneakers and a small red circular pendant. Bare forearms and legs, fully covered chest and pelvis, casual personal clothing without armor."
+    },
+    {
+      "cat": "source_editorial",
+      "expr": "proud",
+      "pose": "carrying_something",
+      "orient": "side",
+      "frame": "waist_up",
+      "lens": "telephoto135",
+      "scene": "At an empty modern architectural exhibition hall at sunset beside a curved brushed-steel wall, body side-on and face turned toward viewer, holding a small round burgundy clutch on one open palm while the other complete hand gently rests on its upper rim. Head through waist, both forearms and complete hands visible. Warm slanting window light and cool steel reflections, no signage.",
+      "outfit": "Opaque dark-red one-shoulder sculptural evening gown with a broad purple waist sash, a fitted fully lined bodice and flowing full-length skirt, tiny silver circular earrings. Bare shoulder and arms, full chest and pelvis coverage; ordinary fabric construction, no armor or creature costume."
+    }
+  ],
+  "comparison": {
+    "reviewed": [
+      "잉어킹",
+      "갸라도스",
+      "라프라스",
+      "키링키",
+      "피콘"
+    ],
+    "scope": "Read latest plans and nine submitted prompts, plus current batch Girafarig/Pineco plans and generated images.",
+    "changed": [
+      "location",
+      "activity",
+      "garment silhouette",
+      "composition"
+    ],
+    "swimwear": "Kayak seated activity replaces recent static swim deck; changed garment construction and crop.",
+    "laundry": "Rejected similar utility romper before generation; chose tee and denim shorts instead."
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

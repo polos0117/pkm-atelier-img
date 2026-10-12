@@ -1,0 +1,79 @@
+{
+  "verifiedVia": "live generator UI",
+  "input": {
+    "cat": "everyday_basic",
+    "expr": "mildly_annoyed",
+    "pose": "kneeling",
+    "orient": "front",
+    "frame": "full_body",
+    "lens": "natural50",
+    "scene": "Inside an empty modern self-service laundry at night, kneeling on one knee in front of a closed low laundry basket while folding a simple gray towel between her two separated hands. Full head, hands and sneakers in frame, cool fluorescent light with warm street reflections in a window, machines have no lettering.",
+    "outfit": "Opaque light-gray fitted short-sleeve scoop-neck tee tucked into purple high-waisted denim shorts, white low-top sneakers and a small red circular pendant. Bare forearms and legs, fully covered chest and pelvis, casual personal clothing without armor.",
+    "style": "glossy_promo",
+    "outputMode": "casual",
+    "identityMode": "reference",
+    "params": [],
+    "aspect": "2:3",
+    "custom": "1024x1536 vertical. Both complete hands visible and attached to their own forearms, each with one thumb and four separate natural fingers. Preserve the approved adult identity. No armor, weapons, text or logos.",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "mech": "쏘콘",
+    "sourceName": "Forretress",
+    "sourceAppearance": {
+      "name": "쏘콘",
+      "en": "Forretress",
+      "color": "purple",
+      "shape": "ball",
+      "features": [
+        {
+          "part": "plate",
+          "detail": "outer plates"
+        },
+        {
+          "part": "ridge",
+          "detail": "zigzagging ridges"
+        },
+        {
+          "part": "pupil",
+          "detail": "large pupils"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Forretress_%28Pok%C3%A9mon%29",
+      "revision": 4623406,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "8ee576b41ba398280c8c6a91337f30808a0ec4762998c9e03acfaf30bd8e43b3",
+      "method": "text-descriptor-extraction-v1",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "faceDesign": {
+      "name": "쏘콘",
+      "en": "Forretress",
+      "line": "피콘",
+      "how": "species",
+      "registered": false,
+      "face": {
+        "face shape": "oval",
+        "face length": "balanced",
+        "face width": "wide",
+        "jaw & chin": "wide heavy chin",
+        "eye shape": "narrow",
+        "eye size": "medium",
+        "eye tilt": "level outer corners",
+        "eye spacing": "close-set eyes",
+        "eyebrows": "straight medium brows",
+        "nose character": "balanced nose",
+        "lips": "thin lips"
+      },
+      "why": "단단한 구형 껍질과 층의 수평선을 넓은 얼굴과 긴 수평 눈매로 구분한다.",
+      "cues": [
+        "‘outer plates’ → 눈매 가늘고 날카로운 눈",
+        "‘outer plates’ → 입술 얇은 입술"
+      ],
+      "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 눈 간격 눈 사이가 넓은 → 눈 사이가 가까운"
+    },
+    "series": "bug / steel"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "verifiedVia": "live generator UI",
+  "input": {
+    "style": "glossy_promo",
+    "outputMode": "action",
+    "identityMode": "reference",
+    "motifs": "",
+    "form": "mobility",
+    "params": [],
+    "lens": "natural50",
+    "aspect": "2:3",
+    "scene": "Empty circular steel servicing hangar at cool blue evening, with curved walls and violet accent lights. Solid balanced standing card stance, face toward viewer, both relaxed open hands separately beside hips.",
+    "custom": "Keep both hands completely visible and naturally attached, one thumb and four separately readable fingers on each. No handheld objects.",
+    "camera": "1024x1536 vertical. Full figure occupies 86 percent of image height with head, feet and both complete hands inside clear margins; same subject scale across all three armor forms.",
+    "mech": "쏘콘",
+    "sourceName": "Forretress",
+    "sourceAppearance": {
+      "name": "쏘콘",
+      "en": "Forretress",
+      "color": "purple",
+      "shape": "ball",
+      "features": [
+        {
+          "part": "plate",
+          "detail": "outer plates"
+        },
+        {
+          "part": "ridge",
+          "detail": "zigzagging ridges"
+        },
+        {
+          "part": "pupil",
+          "detail": "large pupils"
+        }
+      ],
+      "source": "https://bulbapedia.bulbagarden.net/wiki/Forretress_%28Pok%C3%A9mon%29",
+      "revision": 4623406,
+      "retrieved": "2026-09-20",
+      "sourceTextHash": "8ee576b41ba398280c8c6a91337f30808a0ec4762998c9e03acfaf30bd8e43b3",
+      "method": "text-descriptor-extraction-v1",
+      "formScope": "base/species overview",
+      "status": "extracted"
+    },
+    "faceDesign": {
+      "name": "쏘콘",
+      "en": "Forretress",
+      "line": "피콘",
+      "how": "species",
+      "registered": false,
+      "face": {
+        "face shape": "oval",
+        "face length": "balanced",
+        "face width": "wide",
+        "jaw & chin": "wide heavy chin",
+        "eye shape": "narrow",
+        "eye size": "medium",
+        "eye tilt": "level outer corners",
+        "eye spacing": "close-set eyes",
+        "eyebrows": "straight medium brows",
+        "nose character": "balanced nose",
+        "lips": "thin lips"
+      },
+      "why": "단단한 구형 껍질과 층의 수평선을 넓은 얼굴과 긴 수평 눈매로 구분한다.",
+      "cues": [
+        "‘outer plates’ → 눈매 가늘고 날카로운 눈",
+        "‘outer plates’ → 입술 얇은 입술"
+      ],
+      "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 눈 간격 눈 사이가 넓은 → 눈 사이가 가까운"
+    },
+    "series": "bug / steel"
+  }
+}

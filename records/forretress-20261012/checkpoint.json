@@ -1,0 +1,25 @@
+{
+  "stage": "9/9 generated and visually reviewed; ready for image commit",
+  "anchor": {
+    "slot": "light",
+    "source": "/workspace/scratch/3e6e64200d18/generated_images/exec-3b722763-76b5-4dd7-bd72-6468924b15b3.png",
+    "path": "img/쏘콘_light_glossy_promo_f.webp",
+    "sha256": "90a484dfb76511363cd70e755602c5e4cd354606a684c50a00d9b11a3fe3b403",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": "none",
+    "style": "glossy_promo",
+    "basis": "Actual generator UI selection and verified submitted prompt; built-in imagegen"
+  },
+  "faceReason": "둥근 껍질과 수평 단차를 넓은 얼굴과 묵직한 턱, 수평 눈매로 구분; data/face-design.json:205",
+  "facesCompared": [
+    "피콘",
+    "키링키",
+    "잉어킹",
+    "갸라도스",
+    "라프라스"
+  ],
+  "visualQA": "Distinct wider oval lower face and level eyes vs Pineco tapered chin and upturned eyes; same adult woman within nine outputs, hands naturally connected and readable, one figure, no text. Closed/open camera and pose align. Armor forms have single vs thicker stacked vs swept split plates. Casual three scenes differ in category, activity, place, silhouettes, expressions, poses, orientation and crop."
+}
