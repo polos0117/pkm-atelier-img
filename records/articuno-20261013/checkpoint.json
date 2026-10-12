@@ -1,0 +1,72 @@
+{
+  "name": "프리져",
+  "date": "2026-10-13",
+  "style": "glossy_promo",
+  "tool": "built-in image_gen",
+  "status": "verified locally; publication pending",
+  "completed": 9,
+  "required": 9,
+  "approved_light": {
+    "card": "프리져",
+    "slot": "light",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "actual generator UI; submitted prompt preserved verbatim",
+    "original": "/workspace/scratch/5a557544659b/generated_images/exec-bc5320cf-b43c-40db-8192-7008ff7f911d.png",
+    "original_sha256": "e44627f696bda5c6ccdc63ed30b891197c866705916517fbb02080928a2a12cd",
+    "output": "img/프리져_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "9a19a0655191c68e888c29c7bce9a0d0fb1068767446e22022b138e14f4570d8",
+    "reference": null,
+    "reference_sha256": null,
+    "submitted_prompt": "light.txt",
+    "prompt_sha256": "cee1218317dab34ef4cf54dd5d669075ed4cb9be28ffbc1a73afa487dcd43faa"
+  },
+  "face_design": {
+    "name": "프리져",
+    "en": "Articuno",
+    "line": "프리져",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "elongated",
+      "face length": "long",
+      "face width": "narrow",
+      "jaw & chin": "long chin with defined jaw",
+      "eye shape": "almond",
+      "eye size": "medium",
+      "eye tilt": "level outer corners",
+      "eye spacing": "close-set eyes",
+      "eyebrows": "long arched brows",
+      "nose character": "straight slender bridge",
+      "lips": "thin lips"
+    },
+    "why": "얼음새의 흐르는 꼬리와 원형 원작 눈을 긴 윤곽과 부드러운 아몬드형 눈으로 해석한다.",
+    "cues": [
+      "‘circular red eyes’ → 눈꼬리 각도 수평",
+      "몸 형태 wings → 눈 간격 눈 사이가 가까운",
+      "‘short gray beak’ → 코 곧고 가는 콧대"
+    ],
+    "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 코 보통 → 곧고 가는 콧대"
+  },
+  "face_comparisons": [
+    "나무지기",
+    "침바루",
+    "투구푸스"
+  ],
+  "face_review": "Compared visible human facial structure, ignoring hair and ornament color: jaw/cheek width, eye shape and slope, nose and lip proportions. Same identity retained across this character set.",
+  "casual_comparisons": [
+    "나무지기",
+    "침바루",
+    "투구푸스"
+  ],
+  "casual_diversity": "Compared saved plans and submitted prompts from recent characters. Planned distinct places, activities, clothing silhouettes, times, lights, expression/pose/orientation/framing/lens choices; changed at least three of place/activity/clothing/composition from similar candidates. All three scenes retain strong overall intensity and bold skin exposure.",
+  "image_review": "Single adult woman; same face/hair/body; no weapons or lettering; complete connected hands and five natural digits each; 2:3. Closed/opened pairs retain camera, pose and subject scale. Three casual locations/actions/clothing silhouettes differ.",
+  "image_commit": null,
+  "registration_commit": null,
+  "thumbnail_commit": null
+}

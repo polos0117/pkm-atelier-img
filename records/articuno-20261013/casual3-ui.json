@@ -1,0 +1,25 @@
+{
+  "name": "프리져",
+  "mech": "프리져",
+  "sourceName": "Articuno",
+  "series": "ice / flying",
+  "style": "glossy_promo",
+  "identityMode": "reference",
+  "params": [],
+  "outputMode": "casual",
+  "cat": "travel_exploration",
+  "expr": "wistful",
+  "pose": "sitting",
+  "orient": "side",
+  "frame": "three_quarter",
+  "lens": "documentary35",
+  "scene": "Alone in a private sleeper-train compartment at moonlit midnight, seated sideways by the snowy window, face gently turned toward camera, fastening a small travel bracelet with both hands clearly visible on her lap. Head to above knees, warm reading light and cool reflected snow.",
+  "outfit": "Opaque midnight-blue sleeveless V-neck knit top, ivory high-waisted tailored shorts and a loosely draped light-gray cardigan below the shoulders, small rhombus bracelet. Bare shoulders, arms and legs.",
+  "custom": "1024x1536 vertical. Preserve the attached adult identity. Both complete hands visibly connect to their own forearms, each with one thumb and four clearly separated fingers. No armor, weapons, large headpiece or sash.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "uiVerified": true,
+  "fnv": 3284125194
+}
