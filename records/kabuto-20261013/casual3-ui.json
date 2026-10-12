@@ -1,0 +1,22 @@
+{
+  "name": "투구",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "custom": "1024x1536. Use the approved light image directly for face, hair and body. Both complete five-finger hands must be clearly visible and separate; no text.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "cat": "active",
+  "expr": "determined",
+  "pose": "contrapposto",
+  "orient": "front",
+  "frame": "full_body",
+  "lens": "natural50",
+  "scene": "Balancing on a low slackline in an empty woodland recreation clearing at fresh sunrise, one foot on the line and the other lifted slightly, arms held comfortably sideways below shoulder height. Entire body, shoes and both open hands visible with clear separate fingers. Sun shafts through foliage, no spectators.",
+  "outfit": "Mustard yellow sports bra, bronze-brown high-waisted fitted cycling shorts, dark lightweight trainers and one tiny horseshoe-shaped pendant. Bare shoulders, arms, midriff and legs, athletic clothing, no armor.",
+  "ui_verification": {
+    "length": 2733,
+    "fnv": "1159fc7d"
+  }
+}

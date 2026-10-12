@@ -1,0 +1,130 @@
+{
+  "name": "투구",
+  "slug": "kabuto",
+  "face_design": {
+    "name": "투구",
+    "en": "Kabuto",
+    "line": "투구",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "oval",
+      "face length": "balanced",
+      "face width": "medium",
+      "jaw & chin": "square broad jaw",
+      "eye shape": "narrow",
+      "eye size": "small",
+      "eye tilt": "upturned outer corners",
+      "eye spacing": "average eye spacing",
+      "eyebrows": "straight medium brows",
+      "nose character": "small delicate nose",
+      "lips": "thin lips"
+    },
+    "why": "낮고 단단한 껍질 아래 눈을 짧은 중안부와 작고 깊은 눈매로 해석한다.",
+    "cues": [
+      "몸 형태 armor → 턱선 · 턱끝 넓고 각진 사각 턱"
+    ],
+    "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 턱선 · 턱끝 부드럽고 둥근 턱 → 넓고 각진 사각 턱"
+  },
+  "casual": [
+    {
+      "name": "투구",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "custom": "1024x1536. Use the approved light image directly for face, hair and body. Both complete five-finger hands must be clearly visible and separate; no text.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "cat": "travel_exploration",
+      "expr": "focused",
+      "pose": "mid_action",
+      "orient": "front_3q",
+      "frame": "waist_up",
+      "lens": "documentary35",
+      "scene": "At a quiet river kayak launch on an overcast morning, fastening a simple loop of mooring rope to a low wooden cleat. One complete hand guides the loop and the other holds the loose rope separately; head, torso and both forearms and hands fully in the waist-up crop. Gray water reflections and soft diffuse light, no signs.",
+      "outfit": "Bronze-brown sleeveless fitted zip-front crop vest, mustard high-waisted outdoor shorts, lightweight canvas belt and a tiny red stone ear stud. Bare arms and midriff, contemporary paddling-trip clothing, no armor.",
+      "ui_verification": {
+        "length": 2801,
+        "fnv": "57e0ccc7"
+      }
+    },
+    {
+      "name": "투구",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "custom": "1024x1536. Use the approved light image directly for face, hair and body. Both complete five-finger hands must be clearly visible and separate; no text.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "cat": "lingerie",
+      "expr": "sleepy",
+      "pose": "side_sitting",
+      "orient": "reclining",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "Reclining diagonally in a cushioned wicker chaise in her private seaside sunroom at rose twilight, setting a small plain hair clip on the side table with one hand while the other rests openly on a separate cushion. Face clearly turned toward camera; head through knees and both hands visible. Rose window light and a warm bedside-style lamp.",
+      "outfit": "Copper satin fitted bustier with wide secure straps and black lace edging, matching high-waisted satin lounge shorts, tiny red gemstone pendant. Lingerie-inspired adult home fashion, bare arms, midriff and legs, no armor.",
+      "ui_verification": {
+        "length": 2973,
+        "fnv": "5e36bed1"
+      }
+    },
+    {
+      "name": "투구",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "custom": "1024x1536. Use the approved light image directly for face, hair and body. Both complete five-finger hands must be clearly visible and separate; no text.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "cat": "active",
+      "expr": "determined",
+      "pose": "contrapposto",
+      "orient": "front",
+      "frame": "full_body",
+      "lens": "natural50",
+      "scene": "Balancing on a low slackline in an empty woodland recreation clearing at fresh sunrise, one foot on the line and the other lifted slightly, arms held comfortably sideways below shoulder height. Entire body, shoes and both open hands visible with clear separate fingers. Sun shafts through foliage, no spectators.",
+      "outfit": "Mustard yellow sports bra, bronze-brown high-waisted fitted cycling shorts, dark lightweight trainers and one tiny horseshoe-shaped pendant. Bare shoulders, arms, midriff and legs, athletic clothing, no armor.",
+      "ui_verification": {
+        "length": 2733,
+        "fnv": "1159fc7d"
+      }
+    }
+  ],
+  "comparison": {
+    "reviewed": [
+      "부스터",
+      "강철톤",
+      "글라이거",
+      "암나이트",
+      "암스타"
+    ],
+    "scope": "Read latest three plans and all nine submitted casual prompts; visually compared canonical light faces. New casual scenes change location, specific activity, garment silhouette and composition.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "canonical": {
+    "slot": "light",
+    "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-91c31655-7ecc-4cbf-b530-b8ef0e5a5de3.png",
+    "source_sha256": "7e6c227960ee0ec37cdba8a91287109f76d8979c90d092ed276883813875faf9",
+    "output": "img/투구_light_glossy_promo_f.webp",
+    "sha256": "e3d5cd131f0e4abbd6bf94bdbafb1e78ed5b0a64801e215e60688898a9e8fac2",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+    "reference": [],
+    "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+  },
+  "tool": "built-in imagegen"
+}

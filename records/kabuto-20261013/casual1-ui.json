@@ -1,0 +1,22 @@
+{
+  "name": "투구",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "custom": "1024x1536. Use the approved light image directly for face, hair and body. Both complete five-finger hands must be clearly visible and separate; no text.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "cat": "travel_exploration",
+  "expr": "focused",
+  "pose": "mid_action",
+  "orient": "front_3q",
+  "frame": "waist_up",
+  "lens": "documentary35",
+  "scene": "At a quiet river kayak launch on an overcast morning, fastening a simple loop of mooring rope to a low wooden cleat. One complete hand guides the loop and the other holds the loose rope separately; head, torso and both forearms and hands fully in the waist-up crop. Gray water reflections and soft diffuse light, no signs.",
+  "outfit": "Bronze-brown sleeveless fitted zip-front crop vest, mustard high-waisted outdoor shorts, lightweight canvas belt and a tiny red stone ear stud. Bare arms and midriff, contemporary paddling-trip clothing, no armor.",
+  "ui_verification": {
+    "length": 2801,
+    "fnv": "57e0ccc7"
+  }
+}

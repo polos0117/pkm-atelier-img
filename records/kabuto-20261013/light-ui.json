@@ -1,0 +1,27 @@
+{
+  "name": "투구",
+  "form": "light",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ],
+    [
+      "hair color",
+      "brown"
+    ],
+    [
+      "eye color",
+      "red"
+    ],
+    [
+      "hairstyle",
+      "pixie cut"
+    ],
+    [
+      "hair length",
+      "short"
+    ]
+  ],
+  "custom": "1024x1536. Standing card pose, full figure fills 86% of image height with clear margins; both hands visible beside the torso, five separated fingers each. A low domed bronze-brown horseshoe shell becomes a short curved shoulder mantle; four short yellow limb shapes appear only as four gold armor accents, not extra limbs. Charcoal undersuit and two small red round sensor jewels. Background: a basalt tidal grotto in copper dawn light."
+}

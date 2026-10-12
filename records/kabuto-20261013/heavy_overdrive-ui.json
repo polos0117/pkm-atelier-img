@@ -1,0 +1,9 @@
+{
+  "name": "투구",
+  "form": "overdrive",
+  "baseForm": "heavy",
+  "custom": "1024x1536. Preserve the closed image camera, pose and scale exactly; only open existing seams and reveal the inner frame. Keep effects off both complete five-finger hands.",
+  "ui_verification": {
+    "fnv": "2a97075b"
+  }
+}

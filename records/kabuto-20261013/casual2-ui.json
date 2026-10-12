@@ -1,0 +1,22 @@
+{
+  "name": "투구",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "custom": "1024x1536. Use the approved light image directly for face, hair and body. Both complete five-finger hands must be clearly visible and separate; no text.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "cat": "lingerie",
+  "expr": "sleepy",
+  "pose": "side_sitting",
+  "orient": "reclining",
+  "frame": "three_quarter",
+  "lens": "portrait85",
+  "scene": "Reclining diagonally in a cushioned wicker chaise in her private seaside sunroom at rose twilight, setting a small plain hair clip on the side table with one hand while the other rests openly on a separate cushion. Face clearly turned toward camera; head through knees and both hands visible. Rose window light and a warm bedside-style lamp.",
+  "outfit": "Copper satin fitted bustier with wide secure straps and black lace edging, matching high-waisted satin lounge shorts, tiny red gemstone pendant. Lingerie-inspired adult home fashion, bare arms, midriff and legs, no armor.",
+  "ui_verification": {
+    "length": 2973,
+    "fnv": "5e36bed1"
+  }
+}

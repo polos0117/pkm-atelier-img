@@ -1,0 +1,191 @@
+{
+  "stage": "all nine images generated and visually verified, ready for character commit",
+  "canonical": {
+    "slot": "light",
+    "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-91c31655-7ecc-4cbf-b530-b8ef0e5a5de3.png",
+    "source_sha256": "7e6c227960ee0ec37cdba8a91287109f76d8979c90d092ed276883813875faf9",
+    "output": "img/투구_light_glossy_promo_f.webp",
+    "sha256": "e3d5cd131f0e4abbd6bf94bdbafb1e78ed5b0a64801e215e60688898a9e8fac2",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+    "reference": [],
+    "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+  },
+  "assets": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-91c31655-7ecc-4cbf-b530-b8ef0e5a5de3.png",
+      "source_sha256": "7e6c227960ee0ec37cdba8a91287109f76d8979c90d092ed276883813875faf9",
+      "output": "img/투구_light_glossy_promo_f.webp",
+      "sha256": "e3d5cd131f0e4abbd6bf94bdbafb1e78ed5b0a64801e215e60688898a9e8fac2",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+      "reference": [],
+      "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+    },
+    {
+      "slot": "heavy",
+      "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-fa066d10-dcb9-4113-823b-1c9bb4765864.png",
+      "source_sha256": "8e841a4af60424687bb1c46ae42f00cb9ca3d1b3b40d14cc1dda68e852ac5d0c",
+      "output": "img/투구_heavy_glossy_promo_f.webp",
+      "sha256": "1905662107ad16a098df1cef827ea6a00af6fb5e92097e0303ab135d2f45bdcf",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+      "reference": [
+        "img/투구_light_glossy_promo_f.webp"
+      ],
+      "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+    },
+    {
+      "slot": "mobility",
+      "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-574e27a1-90f2-454f-9b00-62c3575bed00.png",
+      "source_sha256": "86b0eba02a9d6fd66863f03b95723eebfadde9a3c3496e69081f286e6797dd79",
+      "output": "img/투구_mobility_glossy_promo_f.webp",
+      "sha256": "666b4e9d6b4a1ff5beb219f3f34c63425c23cd4d64b062eb1b14643f8f943b4d",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+      "reference": [
+        "img/투구_light_glossy_promo_f.webp"
+      ],
+      "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-3c5f5396-b1a0-4bd7-b82d-f7e132aa5910.png",
+      "source_sha256": "a51500965f8d9c39c4f072f4736ce0ff7f0a25ced204939f2b3e5ce8e085b61c",
+      "output": "img/투구_light_overdrive_glossy_promo_f.webp",
+      "sha256": "b40729eb0a8dbf7bc8998fce876098bd922d5aaf7e9b070b851178ae90ba8a93",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+      "reference": [
+        "img/투구_light_glossy_promo_f.webp",
+        "img/투구_light_glossy_promo_f.webp"
+      ],
+      "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-48f25978-2422-4689-9052-a5e913e4e6b3.png",
+      "source_sha256": "dd9838debd384b3e7970304426232932db862e3b3e46b922c7718a722c33aec5",
+      "output": "img/투구_heavy_overdrive_glossy_promo_f.webp",
+      "sha256": "ed8ab8d1c01490ad6438fb8d4d042647f97791b1e3203d187b8d9c1342beebb5",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+      "reference": [
+        "img/투구_heavy_glossy_promo_f.webp",
+        "img/투구_light_glossy_promo_f.webp"
+      ],
+      "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-390d6310-5952-4f45-8472-8e50ff5f5ead.png",
+      "source_sha256": "16b8e35a180b582c48c610d4580c5da22ef1bc19367a12df5336b9fa41b73181",
+      "output": "img/투구_mobility_overdrive_glossy_promo_f.webp",
+      "sha256": "43b6dfb19cb62773cf6bf90a58fc95cfebdc972efa07466f7f9959bf57ad7b2a",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+      "reference": [
+        "img/투구_mobility_glossy_promo_f.webp",
+        "img/투구_light_glossy_promo_f.webp"
+      ],
+      "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+    },
+    {
+      "slot": "casual1",
+      "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-34eeb3ed-af68-4993-9e91-4962580d5525.png",
+      "source_sha256": "ecdfe55c2fad887badb0dcff2498db5af875ed3f2d077f8585f94f122a431659",
+      "output": "img/투구_glossy_promo_f_casual1.webp",
+      "sha256": "4e6568673f3ef1ba8b7e9d6197762b93739eea9131015b168c9d9dc9dff0d6ea",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+      "reference": [
+        "img/투구_light_glossy_promo_f.webp"
+      ],
+      "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+    },
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-867b2d95-8557-40d3-9f96-ab8b7f66ae0d.png",
+      "source_sha256": "a1f3088805f9f77e3281766fc1bdd95766f0de297ac0fa30abe075542f6de7f7",
+      "output": "img/투구_glossy_promo_f_casual2.webp",
+      "sha256": "58ec896028961a080f714ec82da43ce9c410ba381fabc2f2cf9bfe778431fae3",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+      "reference": [
+        "img/투구_light_glossy_promo_f.webp"
+      ],
+      "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+    },
+    {
+      "slot": "casual3",
+      "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-76788423-0224-474a-8060-543bc28dfd58.png",
+      "source_sha256": "56985f99ed1e8ac2b5eb41502fca701846a64c4d72a72c0cc22da837f8743a08",
+      "output": "img/투구_glossy_promo_f_casual3.webp",
+      "sha256": "3554428ae9e13bd6f4002dcb538e2af806d03c5f2fbc56e42433196fc4e95dd8",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+      "reference": [
+        "img/투구_light_glossy_promo_f.webp"
+      ],
+      "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+    }
+  ],
+  "remote_ref": "main",
+  "force_push": false,
+  "existing_deletions": false,
+  "thumbnail_fallback": {
+    "reason": "automatic thumbnail step failed in run 38269319760; selected assets prepared directly with the repository tool",
+    "tool": "tools/make-thumbs.py build, selected files only, no pruning"
+  }
+}
