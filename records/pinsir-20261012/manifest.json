@@ -1,0 +1,168 @@
+{
+  "card": "쁘사이저",
+  "count": 9,
+  "images": [
+    {
+      "slot": "light",
+      "file": "쁘사이저_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "65a8cba3c2fa2415b7b3a1d8edb51979d1289266345318ebfd5c9ed51c28ed6c",
+      "source": "work/pinsir/raw/light.png",
+      "reference": null,
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "light.txt",
+      "ui": "light.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "heavy",
+      "file": "쁘사이저_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "0a2a986b3da16fb2444d41552e7cfb21df8a6963df6a6ce417c6cc8c2cac0245",
+      "source": "work/pinsir/raw/heavy.png",
+      "reference": "light",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "heavy.txt",
+      "ui": "heavy.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "mobility",
+      "file": "쁘사이저_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "29173e75358d8f4e24a1a5d7b43ee05291d9054741238e7d6529a540095cd64d",
+      "source": "work/pinsir/raw/mobility.png",
+      "reference": "light",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "mobility.txt",
+      "ui": "mobility.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "light_overdrive",
+      "file": "쁘사이저_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "6c8e7c13b1c5c56bad3c688baf1eab4f6af1eee07d02b06ff80c6cae7d1471fb",
+      "source": "work/pinsir/raw/light_overdrive.png",
+      "reference": "light",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "light_overdrive.txt",
+      "ui": "light_overdrive.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "file": "쁘사이저_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "2d51884ce4c34170dab51fd72a7bb923b73482870134d7949fa30430475c907f",
+      "source": "work/pinsir/raw/heavy_overdrive.png",
+      "reference": "heavy",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "heavy_overdrive.txt",
+      "ui": "heavy_overdrive.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "file": "쁘사이저_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "bbfe90555db3666be8d89da101abbc02d47b225fee493baafa472580f2043043",
+      "source": "work/pinsir/raw/mobility_overdrive.png",
+      "reference": "mobility",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "mobility_overdrive.txt",
+      "ui": "mobility_overdrive.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "casual1",
+      "file": "쁘사이저_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "435132d6673e1d59a7d7eed19b40d795947a86d6261d8f9a65bd7df06e2a96cf",
+      "source": "work/pinsir/raw/casual1.png",
+      "reference": "light",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "casual1.txt",
+      "ui": "casual1.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "casual2",
+      "file": "쁘사이저_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "78f84680bdbc04108ab9db09e93ad1c0ef7d8a55f889462aa6f55d1cdc60ca43",
+      "source": "work/pinsir/raw/casual2.png",
+      "reference": "light",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "casual2.txt",
+      "ui": "casual2.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "casual3",
+      "file": "쁘사이저_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "7d2bcdcba009f332344d458710ae2cf014597ec92f06c224f590bdada26e5a9e",
+      "source": "work/pinsir/raw/casual3.png",
+      "reference": "light",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "casual3.txt",
+      "ui": "casual3.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    }
+  ]
+}

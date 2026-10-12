@@ -1,0 +1,59 @@
+{
+  "card": "쁘사이저",
+  "style": "glossy_promo",
+  "casual": [
+    {
+      "slot": "casual1",
+      "cat": "active",
+      "expr": "focused",
+      "pose": "one_knee_up",
+      "orient": "front",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "In an empty indoor bouldering gym at cloudy noon, sitting on a broad padded mat with one knee raised, applying a little chalk to two separated open palms before practice. Head through knees and both whole hands clearly visible, muted climbing holds in the background, no lettering.",
+      "outfit": "Opaque ivory high-neck sleeveless athletic crop top with secure fitted chest, chestnut high-waisted stretch climbing shorts, black climbing shoes, tiny ivory crescent hair clip. Bare shoulders arms midriff and thighs, no armor or horn headpiece."
+    },
+    {
+      "slot": "casual2",
+      "cat": "swimwear",
+      "expr": "relieved",
+      "pose": "walking",
+      "orient": "side",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "On an empty public rocky shoreline at golden low tide, carefully walking through a shallow clear tidal pool with her body in side profile and face turned toward the camera. Both hands open out beside her for balance, full head and bare feet visible, warm sea reflections and distant cliffs.",
+      "outfit": "Fully lined opaque chestnut one-piece swimsuit with broad ivory straps and secure straight neckline, subtle vertical cream panel seams and a small ivory crescent bracelet. Bare shoulders arms and legs, no cover-up or armor."
+    },
+    {
+      "slot": "casual3",
+      "cat": "traditional",
+      "expr": "proud",
+      "pose": "standing_formal",
+      "orient": "front_3q",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "At an empty rustic leather-craft festival stall at dusk, standing upright in front-three-quarter view while displaying a small newly braided leather belt laid across both separated palms. Head through waist, whole hands and belt in frame, soft amber lantern light and unmarked timber shelves.",
+      "outfit": "Original heritage-inspired outfit: opaque chestnut square-neck sleeveless fitted vest over an ivory short-sleeve blouse with gathered sleeves, a cream high-waisted long skirt with dark embroidered vertical borders, tiny crescent brooch. Bare forearms and a small midriff gap, covered chest and pelvis; no armor.",
+      "example": "dirndl_modern"
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "reviewed": [
+      "야도킹",
+      "에레브",
+      "니로우",
+      "마그마"
+    ],
+    "scope": "Read recent three plans and casual1 prompt for each; compared all Magmar scenes.",
+    "changed": [
+      "location",
+      "activity",
+      "garment silhouette",
+      "composition"
+    ]
+  }
+}
