@@ -1,6 +1,6 @@
 {
   "card": "블루",
-  "state": "9/9 generated, inspected, original images published and dex registered; publishing verified thumbnails with workflow fallback",
+  "state": "Complete: 9/9 images and 9 thumbnails published on image repository main; all nine dex slots registered on code repository main.",
   "authoritative_light": "img/블루_light_glossy_promo_f.webp",
   "authoritative_light_sha256": "5d0da7e7680ea93aa51cd92c5438f352192423bc36b1830c337c47911a57fb0c",
   "recoverable_assets": [
@@ -28,7 +28,13 @@
     {
       "repository": "polos0117/pkm-atelier",
       "sha": "d04e3a78af61bace6d49696bc566887fadbd2437"
+    },
+    {
+      "repository": "polos0117/pkm-atelier-img",
+      "sha": "f862335e514bb61d543e47cdac7289e90ef8998d",
+      "purpose": "thumbnail fallback"
     }
   ],
-  "thumbnail_fallback": "Workflow failed on unrelated img/암나이트_mobility_overdrive_glossy_promo_f.webp; same make-thumbs.py used on task assets only."
+  "validation": "Fully decoded 54 task WebP files and checked all their blob hashes against remote main. Six form slots and three casual slots verified per character. Registered assets preserved.",
+  "recovery": "Use img/<file> on polos0117/pkm-atelier-img main as the durable canonical assets; original generated PNG paths in manifest are transient. Use light image directly for heavy/mobility/casual; use corresponding closed form plus light for opened."
 }

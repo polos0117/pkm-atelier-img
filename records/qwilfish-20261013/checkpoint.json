@@ -1,6 +1,6 @@
 {
   "card": "침바루",
-  "state": "9/9 generated and inspected; pending remote publication",
+  "state": "Complete: 9/9 images and 9 thumbnails published on image repository main; all nine dex slots registered on code repository main.",
   "authoritative_light": "img/침바루_light_glossy_promo_f.webp",
   "authoritative_light_sha256": "69638f50fad4b368a06879e5dac896631d91a5069b93204c84ec45431f6c558c",
   "recoverable_assets": [
@@ -20,5 +20,16 @@
     "three opened pairs approved",
     "three casual scenes approved"
   ],
-  "remote_commits": []
+  "remote_commits": [
+    {
+      "repository": "polos0117/pkm-atelier-img",
+      "sha": "e6b4ca290e22e0d4b2b660b2c7c53c598b0396fc"
+    },
+    {
+      "repository": "polos0117/pkm-atelier",
+      "sha": "2ab8fff0e849dc41168b96fb851c569dc6ec4218"
+    }
+  ],
+  "validation": "Fully decoded 54 task WebP files and checked all their blob hashes against remote main. Six form slots and three casual slots verified per character. Registered assets preserved.",
+  "recovery": "Use img/<file> on polos0117/pkm-atelier-img main as the durable canonical assets; original generated PNG paths in manifest are transient. Use light image directly for heavy/mobility/casual; use corresponding closed form plus light for opened."
 }
