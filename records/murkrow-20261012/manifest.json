@@ -1,0 +1,142 @@
+{
+  "name": "니로우",
+  "style": "glossy_promo",
+  "generation_mode": "built-in imagegen",
+  "assets": [
+    {
+      "slot": "light",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-3cfc0ca8-892d-4741-b641-f40e1f4d9d25.png",
+      "filename": "니로우_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "43484ea1e9e252ac05e11ca4121ae0ebab59b9cb7132b3c3b850ea58cdc0bf19",
+      "reference": null,
+      "prompt": "light.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "heavy",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-73bb2550-2e34-4899-b94e-a5d619bd6565.png",
+      "filename": "니로우_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "603d44ce2b83ada443dfe9ccb40e3bc4447fe55a91953cd3972f40c0cd90ef64",
+      "reference": "light",
+      "prompt": "heavy.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "mobility",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-a841bda3-897a-486c-98fb-52347332f1e5.png",
+      "filename": "니로우_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "7193be3103036b7346f3bef6ec56d7c4fb576e1950dd260993bdea8e00078893",
+      "reference": "light",
+      "prompt": "mobility.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "light_overdrive",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-bc79caee-b8d9-4d22-9a80-00178e252f76.png",
+      "filename": "니로우_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "be3d0a142618b8ecffc05785bbdaaf695c633791fe17b76ac0cd10438b76ce58",
+      "reference": "light",
+      "prompt": "light_overdrive.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-662d9eff-5268-40fa-a958-4da61c61976b.png",
+      "filename": "니로우_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "bb66cfaae679776fc288d2ce60239d4face4b0e217d3593dcd258b5930c2d7e8",
+      "reference": "heavy",
+      "prompt": "heavy_overdrive.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-f04a38dd-74dd-4feb-bb53-4bc81940deae.png",
+      "filename": "니로우_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "a95ab2a99ab7c20e2414ae0957b7fcf802d02fd613e66b560dcdefdb580fe0d4",
+      "reference": "mobility",
+      "prompt": "mobility_overdrive.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "casual1",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-f18eb635-9f17-45db-95d6-10db5eca2a97.png",
+      "filename": "니로우_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "9d43662434bbcf3bcdaf0607a3d95dd72b533655eb5d693996a5683082bc3336",
+      "reference": "light",
+      "prompt": "casual1.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "casual2",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-0119b2a0-02ef-43a8-81db-5d64dc1f8054.png",
+      "filename": "니로우_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "47a0fa7f0e884d1273d3a37dd3f51ce77655eaf0bfd4f7c1bccc7dfa169a224b",
+      "reference": "light",
+      "prompt": "casual2.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    },
+    {
+      "slot": "casual3",
+      "original": "/workspace/scratch/7eb88278d5ef/generated_images/exec-240c7f86-f52a-4584-ae64-d951deb3bd23.png",
+      "filename": "니로우_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "49669aeb1aebba0dde9ba5ed2458d92ae410047069d40c84c2a8b0d6bb898fe4",
+      "reference": "light",
+      "prompt": "casual3.txt",
+      "ui_verified": true,
+      "review": "Full figure/crop, identity, hands and motif inspected in image tool output."
+    }
+  ]
+}

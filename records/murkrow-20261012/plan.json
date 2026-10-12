@@ -1,0 +1,73 @@
+{
+  "name": "니로우",
+  "slug": "murkrow",
+  "wear": "Midnight navy-black armor, hat-shaped feather crest becomes a small angular witch-hat inspired headpiece; feathered wings become a short split feather-edged shoulder cape, broom-shaped tail becomes a narrow flared three-strip waist sash, yellow beak and feet colors appear only as gold trim. Normal human skin and unobstructed face, no beak, wings or animal limbs.",
+  "light": "At an empty slate rooftop under windy blue dusk, adult woman in poised front three-quarter stance, both empty hands relaxed away from hips, full headpiece and boots inside vertical 1024x1536 with clear margins.",
+  "heavy": "On an empty slate rooftop under blue dusk, adult woman braced front-facing with both empty open hands separated near waist, full headpiece and boots inside vertical 1024x1536 with clear margins.",
+  "mobility": "On an empty slate rooftop at blue dusk, adult woman in a light balanced sidestep with face toward camera and both empty hands relaxed away from torso, full headpiece and boots inside vertical 1024x1536 with clear margins.",
+  "casual": [
+    {
+      "cat": "everyday_basic",
+      "expr": "curious",
+      "pose": "sitting",
+      "orient": "front_3q",
+      "frame": "three_quarter",
+      "lens": "telephoto135",
+      "scene": "Inside an empty retro laundromat on a rainy morning, seated upright on a bench sorting a navy scarf over a wicker basket, both whole hands separated and visible. No letters on machines, soft cool window light, head to above knees.",
+      "outfit": "Opaque mustard short-sleeved tied-front blouse with secure neckline and navy high-waisted wide-legged culottes, black loafers, tiny feather pin. Bare forearms upper chest and narrow midriff.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "Both hands fully within the selected crop, each visibly attached to its own forearm with five distinct natural digits. One adult woman, no text or logos."
+    },
+    {
+      "cat": "swimwear",
+      "expr": "playful",
+      "pose": "mid_action",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "At an empty sunlit resort sailing dock in late afternoon, standing upright and loosening a simple rope loop on a cleat, both hands and wrists visible separately on the dock edge. Warm reflected sea light; head waist and whole hand action inside crop.",
+      "outfit": "Fully lined opaque navy high-neck zip-front cropped rashguard swim top with short sleeves and secure gold-trim swim briefs under navy wrap swim skirt. Bare forearms and midriff, small feather-shaped pendant; modern watersports clothing.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "Both hands fully within the selected crop, each visibly attached to its own forearm with five distinct natural digits. One adult woman, no text or logos."
+    },
+    {
+      "cat": "festivals_contests",
+      "expr": "confident",
+      "pose": "standing_formal",
+      "orient": "low_angle",
+      "frame": "full_body",
+      "lens": "wide24",
+      "scene": "On an empty outdoor vintage tram festival platform at sunset, standing upright and raising one relaxed open hand in a small greeting while the other rests beside her waist. Whole head boots and hands, face toward camera, low camera kept distant, orange sky, no signage.",
+      "outfit": "Opaque black one-shoulder tailored jumpsuit with gold belt, wide long trousers, short navy feather-textured capelet worn behind one shoulder, black heels. Bare arms shoulder and small side-waist cutout, tiny gold feather earrings.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "custom": "Both hands fully within the selected crop, each visibly attached to its own forearm with five distinct natural digits. One adult woman, no text or logos."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "reviewed": [
+      "에브이 (plan only; submitted prompts unavailable)",
+      "마임맨 (plan and three prompts)",
+      "아쿠스타 (plan and three prompts)",
+      "블래키"
+    ],
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "style": "glossy_promo",
+  "form": "casual3",
+  "baseForm": "casual3",
+  "motifs": "",
+  "identityMode": "reference",
+  "params": [],
+  "mech": "니로우",
+  "sourceName": "Murkrow",
+  "sourceAppearance": {
+    "name": "니로우",
+    "en": "Murkrow",
+    "color": "black",
+    "shape": "wings",
+    "features": [
+      {
+        "part": "beak",
+        "detail": "crooked, yellow beak"
+      },
+      {
+        "part": "collar",
+        "detail": "spiky collar"
+      },
+      {
+        "part": "feather",
+        "detail": "black feathers"
+      },
+      {
+        "part": "band",
+        "detail": "thin, red band"
+      },
+      {
+        "part": "foot",
+        "detail": "yellow feet"
+      },
+      {
+        "part": "tuft",
+        "detail": "feathery tufts"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Murkrow_%28Pok%C3%A9mon%29",
+    "revision": 4619773,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "66cab2793e1c9e62ed136e9ef5f18ab5b4316534bacab551fe7bf505550d72fa",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "series": "dark / flying",
+  "outputMode": "casual",
+  "aspect": "2:3",
+  "cat": "festivals_contests",
+  "expr": "confident",
+  "pose": "standing_formal",
+  "orient": "low_angle",
+  "frame": "full_body",
+  "lens": "wide24",
+  "scene": "On an empty outdoor vintage tram festival platform at sunset, standing upright and raising one relaxed open hand in a small greeting while the other rests beside her waist. Whole head boots and hands, face toward camera, low camera kept distant, orange sky, no signage.",
+  "outfit": "Opaque black one-shoulder tailored jumpsuit with gold belt, wide long trousers, short navy feather-textured capelet worn behind one shoulder, black heels. Bare arms shoulder and small side-waist cutout, tiny gold feather earrings.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "custom": "Both hands fully within the selected crop, each visibly attached to its own forearm with five distinct natural digits. One adult woman, no text or logos."
+}

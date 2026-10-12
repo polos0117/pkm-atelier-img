@@ -1,0 +1,54 @@
+{
+  "style": "glossy_promo",
+  "form": "heavy",
+  "baseForm": "heavy",
+  "motifs": "",
+  "identityMode": "reference",
+  "params": [],
+  "mech": "니로우",
+  "sourceName": "Murkrow",
+  "sourceAppearance": {
+    "name": "니로우",
+    "en": "Murkrow",
+    "color": "black",
+    "shape": "wings",
+    "features": [
+      {
+        "part": "beak",
+        "detail": "crooked, yellow beak"
+      },
+      {
+        "part": "collar",
+        "detail": "spiky collar"
+      },
+      {
+        "part": "feather",
+        "detail": "black feathers"
+      },
+      {
+        "part": "band",
+        "detail": "thin, red band"
+      },
+      {
+        "part": "foot",
+        "detail": "yellow feet"
+      },
+      {
+        "part": "tuft",
+        "detail": "feathery tufts"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Murkrow_%28Pok%C3%A9mon%29",
+    "revision": 4619773,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "66cab2793e1c9e62ed136e9ef5f18ab5b4316534bacab551fe7bf505550d72fa",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "series": "dark / flying",
+  "outputMode": "action",
+  "aspect": "2:3",
+  "scene": "On an empty slate rooftop under blue dusk, adult woman braced front-facing with both empty open hands separated near waist, full headpiece and boots inside vertical 1024x1536 with clear margins.",
+  "custom": ""
+}
