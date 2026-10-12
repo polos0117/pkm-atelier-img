@@ -1,0 +1,21 @@
+{
+  "name": "투구푸스",
+  "settings": {
+    "cat": "active",
+    "expr": "determined",
+    "pose": "stretching",
+    "orient": "side",
+    "frame": "full_body",
+    "lens": "documentary35",
+    "scene": "A quiet coastal fitness deck at bright morning, stretching one arm across the chest with the other hand gently supporting the forearm. Face turns toward viewer, entire body and both five-finger hands visible, crisp ocean light.",
+    "outfit": "Gray racerback sports crop top, brown high-waisted fitted cycling shorts and white trainers; bare arms midriff and legs, tiny triangular hair clip.",
+    "outputMode": "casual",
+    "identityMode": "reference",
+    "aspect": "2:3",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    }
+  },
+  "ui_hash": "d2bf0db2"
+}

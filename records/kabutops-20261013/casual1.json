@@ -1,0 +1,21 @@
+{
+  "name": "투구푸스",
+  "settings": {
+    "cat": "adult_roleplay",
+    "expr": "proud",
+    "pose": "standing_formal",
+    "orient": "front_3q",
+    "frame": "three_quarter",
+    "lens": "portrait85",
+    "scene": "An empty natural-history museum reception at evening, presenting a small amber fossil pendant on one open palm; the other hand relaxed beside her waist. Warm display lighting, head through knees and both hands visible.",
+    "outfit": "Brown halter-neck tailored mini dress with cream side panels, bare shoulders and legs, simple low heels and tiny fossil earrings; original museum-gala event hostess fashion.",
+    "outputMode": "casual",
+    "identityMode": "reference",
+    "aspect": "2:3",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    }
+  },
+  "ui_hash": "9964260b"
+}

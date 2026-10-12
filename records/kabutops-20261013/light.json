@@ -1,0 +1,18 @@
+{
+  "name": "투구푸스",
+  "settings": {
+    "identityMode": "create",
+    "form": "light",
+    "aspect": "2:3",
+    "scene": "A weathered coastal rock platform at dawn, soft sea mist and warm rim light.",
+    "camera": "Consistent card scale: head near 7% and feet near 94% of the frame height, both hands clearly visible.",
+    "params": [
+      [
+        "apparent age",
+        "20s"
+      ]
+    ],
+    "custom": "Use the source species brown for the primary shell-like armor plates with light gray chest and gray gauntlet guards. No handheld blades: the claw shapes are forearm guards leaving both human hands free."
+  },
+  "ui_hash": "50a9b9d5"
+}

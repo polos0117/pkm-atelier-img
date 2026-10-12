@@ -1,0 +1,32 @@
+{
+  "name": "투구푸스",
+  "canonical": {
+    "slot": "light",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-e8535a3c-8292-46fd-87b2-4351a8eca43c.png",
+    "source_sha256": "2d7d75544082aded76425eb57498706cb23c906c43d9e505dbaf158e884597a7",
+    "output": "img/투구푸스_light_glossy_promo_f.webp",
+    "sha256": "1d1fe9906754640fcd26f99a6bef24e41663c704f9770cc2bc353ad1a568fd73",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual UI selection and exact prompt FNV equality",
+    "references": [],
+    "qa": "Visually inspected face, framing, hands, identity, form and opening pair"
+  },
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "tool": "built-in imagegen",
+  "status": "generated; awaiting push and workflow registration"
+}

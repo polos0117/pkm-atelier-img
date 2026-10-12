@@ -1,0 +1,11 @@
+{
+  "name": "투구푸스",
+  "settings": {
+    "identityMode": "reference",
+    "form": "heavy",
+    "aspect": "2:3",
+    "scene": "A weathered coastal rock platform at dawn, soft sea mist and warm rim light.",
+    "camera": "Consistent card scale: head near 7% and feet near 94% of the frame height, both hands clearly visible."
+  },
+  "ui_hash": "85bb2b8b"
+}

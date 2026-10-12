@@ -1,0 +1,86 @@
+{
+  "name": "투구푸스",
+  "style": "glossy_promo",
+  "tool": "built-in imagegen",
+  "comparison": {
+    "reviewed": [
+      "암나이트",
+      "블루",
+      "폴리곤"
+    ],
+    "read": "plans and nine submitted casual scene blocks",
+    "changed": [
+      "location",
+      "specific activity",
+      "outfit silhouette",
+      "composition"
+    ],
+    "visual_face_comparison": [
+      "암나이트",
+      "블루",
+      "폴리곤"
+    ],
+    "same_line_note": "투구 경장은 확인한 최신 checkout에 아직 없음"
+  },
+  "face": {
+    "reason": "반원형 머리와 낫의 긴 선을 긴 얼굴과 좁은 폭, 또렷한 턱끝, 가는 눈과 얇은 입술로 해석",
+    "sources": [
+      "data/face-design.json#141",
+      "data/source-appearance.json#141"
+    ],
+    "final_line": "FACE (her own structure, not the style's default face): oval face, long length, narrow width; long chin with defined jaw; narrow eyes, medium size, level outer corners, wide-set; angled brows; straight slender bridge nose; thin lips."
+  },
+  "casual": [
+    {
+      "cat": "adult_roleplay",
+      "expr": "proud",
+      "pose": "standing_formal",
+      "orient": "front_3q",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "An empty natural-history museum reception at evening, presenting a small amber fossil pendant on one open palm; the other hand relaxed beside her waist. Warm display lighting, head through knees and both hands visible.",
+      "outfit": "Brown halter-neck tailored mini dress with cream side panels, bare shoulders and legs, simple low heels and tiny fossil earrings; original museum-gala event hostess fashion.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "cat": "active",
+      "expr": "determined",
+      "pose": "stretching",
+      "orient": "side",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "A quiet coastal fitness deck at bright morning, stretching one arm across the chest with the other hand gently supporting the forearm. Face turns toward viewer, entire body and both five-finger hands visible, crisp ocean light.",
+      "outfit": "Gray racerback sports crop top, brown high-waisted fitted cycling shorts and white trainers; bare arms midriff and legs, tiny triangular hair clip.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "focused",
+      "pose": "sitting",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "A private acoustic music room during rainy afternoon, seated upright while polishing an unlettered violin resting horizontally on the table. One hand holds a soft cloth, the other rests separately beside the instrument. Both complete hands visible, cool window light and amber desk lamp.",
+      "outfit": "Cream sleeveless V-neck cropped knit vest, brown high-waisted wide-leg trousers, small gray pendant; bare arms and midriff, everyday hobby clothing.",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "aspect": "2:3",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    }
+  ]
+}

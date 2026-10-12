@@ -1,0 +1,189 @@
+[
+  {
+    "slot": "light",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-e8535a3c-8292-46fd-87b2-4351a8eca43c.png",
+    "source_sha256": "2d7d75544082aded76425eb57498706cb23c906c43d9e505dbaf158e884597a7",
+    "output": "img/투구푸스_light_glossy_promo_f.webp",
+    "sha256": "1d1fe9906754640fcd26f99a6bef24e41663c704f9770cc2bc353ad1a568fd73",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual UI selection and exact prompt FNV equality",
+    "references": [],
+    "qa": "Visually inspected face, framing, hands, identity, form and opening pair",
+    "reference_outputs": []
+  },
+  {
+    "slot": "heavy",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-fe6c0df0-ae8c-4bd6-96e7-b0ba1217d01f.png",
+    "source_sha256": "f7211cd794b2e00b5bcf06b5cebcd5010eab078366e760426b9ecf2814d85622",
+    "output": "img/투구푸스_heavy_glossy_promo_f.webp",
+    "sha256": "8394cf562059100b0af01f3de20cbfb1389c81a3adfc4f8a6d0ba581c18a92b4",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual UI selection and exact prompt FNV equality",
+    "references": [
+      "/workspace/scratch/1548a7e1ff3a/generated_images/exec-e8535a3c-8292-46fd-87b2-4351a8eca43c.png"
+    ],
+    "qa": "Visually inspected face, framing, hands, identity, form and opening pair",
+    "reference_outputs": [
+      "img/투구푸스_light_glossy_promo_f.webp"
+    ]
+  },
+  {
+    "slot": "mobility",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-7b4af105-fa8b-4fee-bd15-68d36ca7d9ce.png",
+    "source_sha256": "8ac2c9ce5cc79ac9c0a2d85e184520b4c67c349f80a768c750f4e0247760a9a8",
+    "output": "img/투구푸스_mobility_glossy_promo_f.webp",
+    "sha256": "08f85b504ce5d9500a7cd51845160eabe28fbaae84a11d898b7ad28a07dabc81",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual UI selection and exact prompt FNV equality",
+    "references": [
+      "/workspace/scratch/1548a7e1ff3a/generated_images/exec-e8535a3c-8292-46fd-87b2-4351a8eca43c.png"
+    ],
+    "qa": "Visually inspected face, framing, hands, identity, form and opening pair",
+    "reference_outputs": [
+      "img/투구푸스_light_glossy_promo_f.webp"
+    ]
+  },
+  {
+    "slot": "light_overdrive",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-b51c2e5c-8096-48f5-840b-bf1a124ceb2c.png",
+    "source_sha256": "19303307782e7f4dd4ae20d4de629052d474b48d14664b359537f46f37545322",
+    "output": "img/투구푸스_light_overdrive_glossy_promo_f.webp",
+    "sha256": "23427aa6a82657c5f35a92ef98bad45acfd150f5000da451d5d2411fb1290849",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual UI selection and exact prompt FNV equality",
+    "references": [
+      "/workspace/scratch/1548a7e1ff3a/generated_images/exec-e8535a3c-8292-46fd-87b2-4351a8eca43c.png"
+    ],
+    "qa": "Visually inspected face, framing, hands, identity, form and opening pair",
+    "reference_outputs": [
+      "img/투구푸스_light_glossy_promo_f.webp"
+    ]
+  },
+  {
+    "slot": "heavy_overdrive",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-a5a87fea-3bfd-4341-8f08-688d5b4e7776.png",
+    "source_sha256": "f0d2e3089202d5bd6f0a0a7dccfffca4aa8119fa770ceb81d37592cdcc602b02",
+    "output": "img/투구푸스_heavy_overdrive_glossy_promo_f.webp",
+    "sha256": "63cfacabd34c89f41387ef23b7f7bdabb282b205fc3bfd10c020f9138c2b9228",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual UI selection and exact prompt FNV equality",
+    "references": [
+      "/workspace/scratch/1548a7e1ff3a/generated_images/exec-fe6c0df0-ae8c-4bd6-96e7-b0ba1217d01f.png",
+      "/workspace/scratch/1548a7e1ff3a/generated_images/exec-e8535a3c-8292-46fd-87b2-4351a8eca43c.png"
+    ],
+    "qa": "Visually inspected face, framing, hands, identity, form and opening pair",
+    "reference_outputs": [
+      "img/투구푸스_heavy_glossy_promo_f.webp"
+    ]
+  },
+  {
+    "slot": "mobility_overdrive",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-fab73dc2-039f-45e7-b079-f331340da1fb.png",
+    "source_sha256": "53aa73e9b5564578ada52f290a4b46963c119d6fb5d2cd8b78fee0ce99683d87",
+    "output": "img/투구푸스_mobility_overdrive_glossy_promo_f.webp",
+    "sha256": "c7e6e47b53c8e71a54f6a310de0c2b223340304c62f4c232d9e7b30f61ea2cf0",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual UI selection and exact prompt FNV equality",
+    "references": [
+      "/workspace/scratch/1548a7e1ff3a/generated_images/exec-7b4af105-fa8b-4fee-bd15-68d36ca7d9ce.png",
+      "/workspace/scratch/1548a7e1ff3a/generated_images/exec-e8535a3c-8292-46fd-87b2-4351a8eca43c.png"
+    ],
+    "qa": "Visually inspected face, framing, hands, identity, form and opening pair",
+    "reference_outputs": [
+      "img/투구푸스_mobility_glossy_promo_f.webp"
+    ]
+  },
+  {
+    "slot": "casual1",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-f78f19a0-ff66-42e6-9b04-d1f4033b05d5.png",
+    "source_sha256": "5c8381af7387a969ded03c82c48f6a38f826e2c3acfbf0ddafc7554c885dbada",
+    "output": "img/투구푸스_glossy_promo_f_casual1.webp",
+    "sha256": "391f1cd58eec38da501bc489c36eb373b0a66c310e1f6b6c7ed91d6752d06f5a",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual UI selection and exact prompt FNV equality",
+    "references": [
+      "/workspace/scratch/1548a7e1ff3a/generated_images/exec-e8535a3c-8292-46fd-87b2-4351a8eca43c.png"
+    ],
+    "qa": "Visually inspected face, framing, hands, identity, form and opening pair",
+    "reference_outputs": [
+      "img/투구푸스_light_glossy_promo_f.webp"
+    ]
+  },
+  {
+    "slot": "casual2",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-73fd2b58-017b-4d30-99f5-43d855332a55.png",
+    "source_sha256": "540ed265fb38b958b715a80c3b28634b5ead0139596b11d21f052aee0a87161e",
+    "output": "img/투구푸스_glossy_promo_f_casual2.webp",
+    "sha256": "da6a8856fd390d84211d19dc0dee7a6574ba9e5771bdde90ec9cc4de1127b512",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual UI selection and exact prompt FNV equality",
+    "references": [
+      "/workspace/scratch/1548a7e1ff3a/generated_images/exec-e8535a3c-8292-46fd-87b2-4351a8eca43c.png"
+    ],
+    "qa": "Visually inspected face, framing, hands, identity, form and opening pair",
+    "reference_outputs": [
+      "img/투구푸스_light_glossy_promo_f.webp"
+    ]
+  },
+  {
+    "slot": "casual3",
+    "source": "/workspace/scratch/1548a7e1ff3a/generated_images/exec-d9b6ef96-7c80-42c8-afa5-d8acdce3d87b.png",
+    "source_sha256": "472f1ed16efa2a296af6bb994b76370bf426ec427b3b64c7cd4054ed9e28f5d8",
+    "output": "img/투구푸스_glossy_promo_f_casual3.webp",
+    "sha256": "7dbe9a5fc79b26d77479d6fddcf4336715d55399664f199cfabc8fc337cf3116",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "Actual UI selection and exact prompt FNV equality",
+    "references": [
+      "/workspace/scratch/1548a7e1ff3a/generated_images/exec-e8535a3c-8292-46fd-87b2-4351a8eca43c.png"
+    ],
+    "qa": "Visually inspected face, framing, hands, identity, form and opening pair",
+    "reference_outputs": [
+      "img/투구푸스_light_glossy_promo_f.webp"
+    ]
+  }
+]

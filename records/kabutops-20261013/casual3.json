@@ -1,0 +1,21 @@
+{
+  "name": "투구푸스",
+  "settings": {
+    "cat": "hobbies_leisure",
+    "expr": "focused",
+    "pose": "sitting",
+    "orient": "front",
+    "frame": "waist_up",
+    "lens": "natural50",
+    "scene": "A private acoustic music room during rainy afternoon, seated upright while polishing an unlettered violin resting horizontally on the table. One hand holds a soft cloth, the other rests separately beside the instrument. Both complete hands visible, cool window light and amber desk lamp.",
+    "outfit": "Cream sleeveless V-neck cropped knit vest, brown high-waisted wide-leg trousers, small gray pendant; bare arms and midriff, everyday hobby clothing.",
+    "outputMode": "casual",
+    "identityMode": "reference",
+    "aspect": "2:3",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    }
+  },
+  "ui_hash": "c6830130"
+}
