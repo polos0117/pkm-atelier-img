@@ -1,0 +1,146 @@
+{
+  "name": "미뇽",
+  "style": "glossy_promo",
+  "gender": "f",
+  "generator": "built-in image_gen",
+  "images": [
+    {
+      "key": "light",
+      "filename": "미뇽_light_glossy_promo_f.webp",
+      "source": "generated_images/exec-fb63802b-4b4c-4f0b-a18d-aa2912306fe0.png",
+      "final": "/workspace/scratch/f5b37ff9a10f/pkm-atelier-img/img/미뇽_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "fad2e1c0692e910a10eca4e068ffbcb79920b35fb2884add0e475a847b271647",
+      "prompt": "light.txt",
+      "reference": null,
+      "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands."
+    },
+    {
+      "key": "heavy",
+      "filename": "미뇽_heavy_glossy_promo_f.webp",
+      "source": "generated_images/exec-3dea0e09-eba3-45ce-8e24-47354a1d6782.png",
+      "final": "/workspace/scratch/f5b37ff9a10f/pkm-atelier-img/img/미뇽_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "43c0b46a9a90fde5d73ca167ccb9e709301d020f09a72c1183e519e9f6cc9aab",
+      "prompt": "heavy.txt",
+      "reference": "light",
+      "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands."
+    },
+    {
+      "key": "mobility",
+      "filename": "미뇽_mobility_glossy_promo_f.webp",
+      "source": "generated_images/exec-3f27478b-72cc-406d-9d6c-ab4081c5ba39.png",
+      "final": "/workspace/scratch/f5b37ff9a10f/pkm-atelier-img/img/미뇽_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "dc7ecea2ae071c060fa9c0b05a1559f62e3166b46e2bd42725882a3de1598e1b",
+      "prompt": "mobility.txt",
+      "reference": "light",
+      "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands."
+    },
+    {
+      "key": "light_overdrive",
+      "filename": "미뇽_light_overdrive_glossy_promo_f.webp",
+      "source": "generated_images/exec-38ce93ed-5701-454a-8912-0080b9e2675b.png",
+      "final": "/workspace/scratch/f5b37ff9a10f/pkm-atelier-img/img/미뇽_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "eafff8b41cc2993d5e5ab05390e508422d34e1aaa91c943844ccd4b682f0ab48",
+      "prompt": "light_overdrive.txt",
+      "reference": "light",
+      "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands."
+    },
+    {
+      "key": "heavy_overdrive",
+      "filename": "미뇽_heavy_overdrive_glossy_promo_f.webp",
+      "source": "generated_images/exec-88450833-1328-44df-a473-96394e34cd5e.png",
+      "final": "/workspace/scratch/f5b37ff9a10f/pkm-atelier-img/img/미뇽_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "964fb0a13fb2367f259c7980fe4f50f4f3715c3b2cacfd0c0279eb9ef637009f",
+      "prompt": "heavy_overdrive.txt",
+      "reference": "heavy",
+      "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands."
+    },
+    {
+      "key": "mobility_overdrive",
+      "filename": "미뇽_mobility_overdrive_glossy_promo_f.webp",
+      "source": "generated_images/exec-88228b9e-887e-4a35-8f59-a3784ef2e773.png",
+      "final": "/workspace/scratch/f5b37ff9a10f/pkm-atelier-img/img/미뇽_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "29c33625823b74176902117703bf614f418ac00c2325c7ce1b18a7e7581b97fc",
+      "prompt": "mobility_overdrive.txt",
+      "reference": "mobility",
+      "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands."
+    },
+    {
+      "key": "casual1",
+      "filename": "미뇽_glossy_promo_f_casual1.webp",
+      "source": "generated_images/exec-cd8b9945-19bc-407b-ac50-f98c051b3d02.png",
+      "final": "/workspace/scratch/f5b37ff9a10f/pkm-atelier-img/img/미뇽_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b265d88be45f6cb8ac56811fecb5b02b2ff523d4101a8f70e3eddde9e27d16a0",
+      "prompt": "casual1-correction.txt",
+      "reference": [
+        "casual1 rejected draft",
+        "light"
+      ],
+      "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands."
+    },
+    {
+      "key": "casual2",
+      "filename": "미뇽_glossy_promo_f_casual2.webp",
+      "source": "generated_images/exec-4429c718-1eb9-4b40-aa8d-2e9f83893367.png",
+      "final": "/workspace/scratch/f5b37ff9a10f/pkm-atelier-img/img/미뇽_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "1a61ae3af6e8b3b56a969fa93bfe98daae3c41c1f780d503c1cd78ada268233a",
+      "prompt": "casual2.txt",
+      "reference": "light",
+      "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands."
+    },
+    {
+      "key": "casual3",
+      "filename": "미뇽_glossy_promo_f_casual3.webp",
+      "source": "generated_images/exec-6109a70f-1328-4ec8-93be-09b172805d3d.png",
+      "final": "/workspace/scratch/f5b37ff9a10f/pkm-atelier-img/img/미뇽_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e588f817acfec7522adee808ccb68b50c9e1e5fedd60ac794dabc7d131f1d987",
+      "prompt": "casual3.txt",
+      "reference": "light",
+      "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "mech": "미뇽",
+  "sourceName": "Dratini",
+  "series": "dragon",
+  "sourceAppearance": {
+    "name": "미뇽",
+    "en": "Dratini",
+    "color": "blue",
+    "shape": "squiggle",
+    "features": [
+      {
+        "part": "fin",
+        "detail": "white, three-pronged fins"
+      },
+      {
+        "part": "body",
+        "detail": "blue serpentine body"
+      },
+      {
+        "part": "underside",
+        "detail": "white underside"
+      },
+      {
+        "part": "bump",
+        "detail": "white bump"
+      },
+      {
+        "part": "snout",
+        "detail": "white snout"
+      },
+      {
+        "part": "foot",
+        "detail": "over six feet"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Dratini_%28Pok%C3%A9mon%29",
+    "revision": 4632021,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "b39d157a3dd955ffae3d44f376f9e52efbf989c6dc02a4e6788421e919e0f03c",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "faceDesign": {
+    "name": "미뇽",
+    "en": "Dratini",
+    "line": "미뇽",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "oval",
+      "face length": "long",
+      "face width": "medium",
+      "jaw & chin": "soft rounded jaw",
+      "eye shape": "large",
+      "eye size": "medium",
+      "eye tilt": "level outer corners",
+      "eye spacing": "average eye spacing",
+      "eyebrows": "fine soft arches",
+      "nose character": "rounded soft tip",
+      "lips": "small mouth"
+    },
+    "why": "매끈하고 둥근 용의 실루엣을 부드러운 타원 얼굴과 짧은 코로 옮긴다.",
+    "cues": [
+      "‘blue serpentine body’ → 얼굴 길이 긴 얼굴"
+    ],
+    "adjusted": ""
+  },
+  "faceDesignOn": true,
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "outputMode": "action",
+  "identityMode": "create",
+  "form": "light",
+  "cat": "hobbies_leisure",
+  "expr": "focused",
+  "pose": "kneeling",
+  "orient": "high_angle",
+  "frame": "waist_up",
+  "lens": "portrait85",
+  "scene": "At home beside a low indoor water-garden bowl in fresh morning window light, kneeling on a thick cushion and carefully repositioning a smooth pebble with one hand while the other rests open on a separate wooden ledge. Both complete hands clearly connected to forearms inside crop; aquatic leaves only, no animals.",
+  "outfit": "Opaque pale blue halter crop tank, ivory high-waisted relaxed linen shorts, small white bead bracelet. Bare shoulders arms and midriff; simple personal hobby clothes, no armor or large head ornaments.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

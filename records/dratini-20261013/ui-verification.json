@@ -1,0 +1,38 @@
+{
+  "light": {
+    "length": 2471,
+    "fnv": "45b6eea1"
+  },
+  "heavy": {
+    "length": 1831,
+    "fnv": "76446636"
+  },
+  "mobility": {
+    "length": 1771,
+    "fnv": "ee0bb34b"
+  },
+  "light_overdrive": {
+    "length": 1346,
+    "fnv": "3b46fe31"
+  },
+  "heavy_overdrive": {
+    "length": 1383,
+    "fnv": "5eb64b74"
+  },
+  "mobility_overdrive": {
+    "length": 1354,
+    "fnv": "72e6375c"
+  },
+  "casual1": {
+    "length": 2795,
+    "fnv": "7dc33ae6"
+  },
+  "casual2": {
+    "length": 2570,
+    "fnv": "dc973f67"
+  },
+  "casual3": {
+    "length": 2533,
+    "fnv": "c7ba6a7f"
+  }
+}

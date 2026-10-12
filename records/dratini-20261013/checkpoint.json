@@ -1,0 +1,33 @@
+{
+  "name": "미뇽",
+  "anchor": {
+    "key": "light",
+    "filename": "미뇽_light_glossy_promo_f.webp",
+    "source": "generated_images/exec-fb63802b-4b4c-4f0b-a18d-aa2912306fe0.png",
+    "final": "/workspace/scratch/f5b37ff9a10f/pkm-atelier-img/img/미뇽_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "fad2e1c0692e910a10eca4e068ffbcb79920b35fb2884add0e475a847b271647",
+    "prompt": "light.txt",
+    "reference": null,
+    "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands."
+  },
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual2",
+    "casual3",
+    "casual1"
+  ],
+  "image_commit": null,
+  "registration_commit": null,
+  "status": "All nine images verified; ready for publication",
+  "ui_prompt_comparison": "Browser generated prompt length and FNV match local exact copies"
+}

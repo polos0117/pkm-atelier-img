@@ -1,0 +1,23 @@
+CHARACTER: the same woman as the attached image — Dratini (미뇽) personified, dragon type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: gaze angled down and away, slightly furrowed brow, lips lightly pressed or touched
+Pose: Hold an open book with readable finger placement and look toward its pages.
+Orientation: seated with supported pelvis and a natural torso twist
+Scene: Alone on a wide coastal train window seat during soft rainy afternoon, seated with supported feet and gently turned toward viewer, reading a plain blank-covered travel journal held open with both hands apart. Both whole hands and head visible, sea and gray cliffs outside.
+Outfit and props: Opaque navy sleeveless V-neck fitted top and high-waisted white pleated culottes, tiny pale blue pendant. Bare arms shoulders and upper chest, secure neckline, no armor, fin headpieces or costume.
+Category: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+Lens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
