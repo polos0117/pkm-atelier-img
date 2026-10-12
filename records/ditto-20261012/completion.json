@@ -1,0 +1,154 @@
+{
+  "card": "메타몽",
+  "date": "2026-10-12",
+  "state": "complete",
+  "style": "glossy_promo",
+  "generation_tool": "built-in image_gen",
+  "generated_count": 9,
+  "requested_count": 9,
+  "canonical": {
+    "slot": "light",
+    "source": "/workspace/scratch/d241f883e114/generated_images/exec-20f2282e-60e8-493d-87b2-1776b2738364.png",
+    "filename": "img/메타몽_light_glossy_promo_f.webp",
+    "sha256": "632d627d866dfe2212c1bd9fe8465846caa45d87f0e0c3f84c03bbd4b57bf2b9",
+    "size": [
+      1024,
+      1536
+    ],
+    "reference": null,
+    "verified": "Full body, both five-digit hands, no text or weapon; matching canonical identity"
+  },
+  "assets": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-20f2282e-60e8-493d-87b2-1776b2738364.png",
+      "filename": "img/메타몽_light_glossy_promo_f.webp",
+      "sha256": "632d627d866dfe2212c1bd9fe8465846caa45d87f0e0c3f84c03bbd4b57bf2b9",
+      "size": [
+        1024,
+        1536
+      ],
+      "reference": null,
+      "verified": "Full body, both five-digit hands, no text or weapon; matching canonical identity",
+      "prompt": "records/ditto-20261012/light.txt"
+    },
+    {
+      "slot": "heavy",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-94b603c5-bb37-410f-b184-d328e0d0bcfc.png",
+      "filename": "img/메타몽_heavy_glossy_promo_f.webp",
+      "sha256": "ae0fd0be504c85d7fbc35e0a411798a07957f0bc6fd6afec249550f3c3fd7447",
+      "size": [
+        1024,
+        1536
+      ],
+      "reference": "light",
+      "verified": "Full body, both five-digit hands, no text or weapon; matching canonical identity",
+      "prompt": "records/ditto-20261012/heavy.txt"
+    },
+    {
+      "slot": "mobility",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-80a9a672-ceaf-4005-9fbd-0059b55c8a45.png",
+      "filename": "img/메타몽_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "2b2ed257699adf6c9f7d2c76b0c78c2053ccb80dabbee37eaaa3c2fcc4446d9e",
+      "reference": "light",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons.",
+      "prompt": "records/ditto-20261012/mobility.txt"
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-eb7b03ee-c035-41ef-ba48-08ff607e8d62.png",
+      "filename": "img/메타몽_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "36a51ed56efe151eb3acc71ac2baa4b2a291fe68df5d7bc1a5715ee7d1e570b0",
+      "reference": "light",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons.",
+      "prompt": "records/ditto-20261012/light_overdrive.txt"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-8cd3e299-c5a3-421f-9d4f-5569792ab2cb.png",
+      "filename": "img/메타몽_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "e5ab18a2ca80776432f689ad647a5bb421ea5ab68d2abef1b62dd5776cbdcf5d",
+      "reference": "heavy",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons.",
+      "prompt": "records/ditto-20261012/heavy_overdrive.txt"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-7fa718aa-3489-4b10-9cb7-c13fb330726f.png",
+      "filename": "img/메타몽_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "aaea18ff06dfab265fde36797488b9c0f4123b8322a7e6e800d0c188f9083bcf",
+      "reference": "mobility",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons.",
+      "prompt": "records/ditto-20261012/mobility_overdrive.txt"
+    },
+    {
+      "slot": "casual1",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-306c043d-6161-46e3-8600-4879215b6a21.png",
+      "filename": "img/메타몽_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "8d3424004135558b31b1f31103d6eefbb1e9eece980febe918c91542ac3b6d0a",
+      "reference": "light",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons.",
+      "prompt": "records/ditto-20261012/casual1.txt"
+    },
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-7c919984-1f5e-40a8-be96-94d51a35e9e0.png",
+      "filename": "img/메타몽_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "03a80bdd0f1b13196ac7c3170296cc16a14be2ba2eb6a6c191a14245f399c31d",
+      "reference": "light",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons.",
+      "prompt": "records/ditto-20261012/casual2.txt"
+    },
+    {
+      "slot": "casual3",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-483e0dff-ecd6-4c85-83ff-fa1f85662779.png",
+      "filename": "img/메타몽_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "001aa7efd759e17bc98f9ea40b135972ea6732cbc32ef44faec9b84eac2eb789",
+      "reference": "light",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons.",
+      "prompt": "records/ditto-20261012/casual3.txt"
+    }
+  ],
+  "image_commit": "04d4aac820f0ac459196a5bfb5ffb041e5cda2b6",
+  "image_fix_commit": "bc63b7938b0ca9c47187886211a63254b4e9c5fa",
+  "thumbnail_commit": "696ddb983469497699c7800101be92d550e23b6d",
+  "dex_commit": "b73be28971f3ff085eaa8b729a7786d36d8abc58",
+  "dex_registered_count": 9,
+  "remote_images_and_thumbnails_sha_verified": true,
+  "main_update": "non-forced fast-forward via connected GitHub; shell git push could not authenticate",
+  "thumbnail_note": "Shared workflow could not finish because an unrelated Pineco image was invalid. Used the same tools/make-thumbs.py for these 27 assets.",
+  "validation": [
+    "Final WEBP pixels decode; original dimensions 1024x1536 preserved",
+    "All nine exact dex slots registered",
+    "node tests/forms.cjs passed",
+    "Remote blob SHAs match all 27 originals and 27 thumbnails"
+  ]
+}

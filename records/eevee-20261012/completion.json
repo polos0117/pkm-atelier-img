@@ -1,0 +1,154 @@
+{
+  "card": "이브이",
+  "date": "2026-10-12",
+  "state": "complete",
+  "style": "glossy_promo",
+  "generation_tool": "built-in image_gen",
+  "generated_count": 9,
+  "requested_count": 9,
+  "canonical": {
+    "slot": "light",
+    "source": "/workspace/scratch/d241f883e114/generated_images/exec-ae67159e-51a1-41ee-8a09-9b3f808f053b.png",
+    "filename": "img/이브이_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "2a58554292dafe70112eb6d2e161628cc68acea2012e0668057dd0f774de4157",
+    "reference": null,
+    "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons."
+  },
+  "assets": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-ae67159e-51a1-41ee-8a09-9b3f808f053b.png",
+      "filename": "img/이브이_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "2a58554292dafe70112eb6d2e161628cc68acea2012e0668057dd0f774de4157",
+      "reference": null,
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons.",
+      "prompt": "records/eevee-20261012/light.txt"
+    },
+    {
+      "slot": "heavy",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-5e0ea892-431f-423a-bb6c-1d90c512c7f2.png",
+      "filename": "img/이브이_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "d856086bc050c6283e551eb6e8f64c76a1f727b628668c5fc65d447bbeed1e8d",
+      "reference": "light",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons.",
+      "prompt": "records/eevee-20261012/heavy.txt"
+    },
+    {
+      "slot": "mobility",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-cd4c4296-5e70-4df4-9ec0-8b6b71443606.png",
+      "filename": "img/이브이_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "3fb9e07e5c46c0f366a4a1248a6e535c2c8259dd68e1ca52e6d51efedd0b2428",
+      "reference": "light",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons.",
+      "prompt": "records/eevee-20261012/mobility.txt"
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-7e5fe8e0-df89-4477-8605-61940fee79c4.png",
+      "filename": "img/이브이_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "8cac7f8817dfc40f3f803c7015105fd62136a755fa8e2193ac6f2e4148703cea",
+      "reference": "light",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons.",
+      "prompt": "records/eevee-20261012/light_overdrive.txt"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-0d58244c-d144-4170-8967-f8431a99abde.png",
+      "filename": "img/이브이_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "0c23e98765b46e5f3ec1517ce2b0bab0caeaf7ccaef1085773be513382f853f0",
+      "reference": "heavy",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons.",
+      "prompt": "records/eevee-20261012/heavy_overdrive.txt"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-a3e39e3e-cb9e-4a65-b8f8-7e8559f5fba8.png",
+      "filename": "img/이브이_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "96c9d908474c7d494caad58503682650c8cba51ef71a349156b9ecff4cf3429a",
+      "reference": "mobility",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons.",
+      "prompt": "records/eevee-20261012/mobility_overdrive.txt"
+    },
+    {
+      "slot": "casual1",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-a158a94c-f2ef-4482-9163-05430c00d5da.png",
+      "filename": "img/이브이_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "1de5865f65b6de7d65447e7eae86c9bd9f3f1388769f2c917e004fa1c5ecc2de",
+      "reference": "light",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons.",
+      "prompt": "records/eevee-20261012/casual1.txt"
+    },
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-5eb81c30-f2cf-477d-9c66-0a9b429f792f.png",
+      "filename": "img/이브이_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "48b66ec2255ca57addb0bbfc141114f4aca533ffe9be2c9a0bc6cdd34154ada5",
+      "reference": "light",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons.",
+      "prompt": "records/eevee-20261012/casual2.txt"
+    },
+    {
+      "slot": "casual3",
+      "source": "/workspace/scratch/d241f883e114/generated_images/exec-d26153f4-7ace-4499-be75-771ea0e02d29.png",
+      "filename": "img/이브이_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "3e1c275860d930b54f460fdef32010289421a720156776008f7692c4c920d16e",
+      "reference": "light",
+      "verified": "Visual inspection: complete appropriate frame; two attached five-digit hands; approved identity; no text or weapons.",
+      "prompt": "records/eevee-20261012/casual3.txt"
+    }
+  ],
+  "image_commit": "f44ad75597e2b40379630e5177d9ded6ab50eedf",
+  "image_fix_commit": null,
+  "thumbnail_commit": "696ddb983469497699c7800101be92d550e23b6d",
+  "dex_commit": "b73be28971f3ff085eaa8b729a7786d36d8abc58",
+  "dex_registered_count": 9,
+  "remote_images_and_thumbnails_sha_verified": true,
+  "main_update": "non-forced fast-forward via connected GitHub; shell git push could not authenticate",
+  "thumbnail_note": "Shared workflow could not finish because an unrelated Pineco image was invalid. Used the same tools/make-thumbs.py for these 27 assets.",
+  "validation": [
+    "Final WEBP pixels decode; original dimensions 1024x1536 preserved",
+    "All nine exact dex slots registered",
+    "node tests/forms.cjs passed",
+    "Remote blob SHAs match all 27 originals and 27 thumbnails"
+  ]
+}
