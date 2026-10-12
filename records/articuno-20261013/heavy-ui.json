@@ -1,0 +1,16 @@
+{
+  "name": "프리져",
+  "style": "glossy_promo",
+  "outputMode": "action",
+  "form": "heavy",
+  "identityMode": "reference",
+  "actual_ui_verification": "The complete generated UI prompt was read before this image submission; the submitted text is retained in the matching .txt file.",
+  "expr": "calm",
+  "scene": "A glacial mountain terrace under pale aurora dawn. One centered adult woman fills 86 percent of the image height, face toward camera, complete head and feet within balanced margins, both arms slightly away from her sides and both hands open and clearly visible.",
+  "pose": "",
+  "orient": "",
+  "frame": "",
+  "lens": "",
+  "aspect": "2:3",
+  "custom": "1024x1536 vertical, no weapons. Match the reference subject scale: complete adult woman occupies 86 percent of image height, both hands clear with five distinct fingers each."
+}

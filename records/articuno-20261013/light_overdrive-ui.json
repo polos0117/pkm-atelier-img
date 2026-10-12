@@ -1,0 +1,10 @@
+{
+  "name": "프리져",
+  "style": "glossy_promo",
+  "outputMode": "action",
+  "form": "overdrive",
+  "identityMode": "reference",
+  "actual_ui_verification": "The complete generated UI prompt was read before this image submission; the submitted text is retained in the matching .txt file.",
+  "baseForm": "light",
+  "custom": ""
+}

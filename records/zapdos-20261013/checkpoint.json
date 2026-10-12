@@ -3,7 +3,7 @@
   "date": "2026-10-13",
   "style": "glossy_promo",
   "tool": "built-in image_gen",
-  "status": "verified locally; publication pending",
+  "status": "registered: nine images and nine thumbnails verified on both main branches",
   "completed": 9,
   "required": 9,
   "approved_light": {
@@ -68,7 +68,26 @@
   ],
   "casual_diversity": "Compared saved plans and submitted prompts from recent characters. Planned distinct places, activities, clothing silhouettes, times, lights, expression/pose/orientation/framing/lens choices; changed at least three of place/activity/clothing/composition from similar candidates. All three scenes retain strong overall intensity and bold skin exposure.",
   "image_review": "Single adult woman; same face/hair/body; no weapons or lettering; complete connected hands and five natural digits each; 2:3. Closed/opened pairs retain camera, pose and subject scale. Three casual locations/actions/clothing silhouettes differ.",
-  "image_commit": null,
-  "registration_commit": null,
-  "thumbnail_commit": null
+  "image_commit": "94f3e50c249bba390ebcfe4eb0555b2844ae1db3",
+  "registration_commit": "5dacd48ea4c4de35c2b3c2de2e5d9d77d10a45bb",
+  "thumbnail_commit": "f2beb2c13853d06ab7518287d5e7ac5d085d0044",
+  "concurrent_publication_comparison": {
+    "phase": "additional comparison after generation",
+    "character": "나무돌이",
+    "sources": [
+      "records/grovyle-20261013/casual1.txt",
+      "records/grovyle-20261013/casual2.txt",
+      "records/grovyle-20261013/casual3.txt"
+    ],
+    "review": "Grovyle was published during this task. Shared broad activity candidates differ in at least three of location, concrete activity, clothing silhouette and composition: skating vs studio warm-up; festival heritage dance vs activewear practice; tart finishing in a private courtyard vs fruit arranging at a campsite; waterfall resting vs ponytail drying at a mountain-river resort."
+  },
+  "persistent_light_reference": {
+    "repository": "polos0117/pkm-atelier-img",
+    "commit": "94f3e50c249bba390ebcfe4eb0555b2844ae1db3",
+    "path": "img/썬더_light_glossy_promo_f.webp",
+    "sha256": "0a88085ca7806c775c133cf691f17ea0177d2f8acfc8b809c1ee4159311bed20"
+  },
+  "remote_image_hashes_verified": true,
+  "thumbnail_count": 9,
+  "registered_count": 9
 }
