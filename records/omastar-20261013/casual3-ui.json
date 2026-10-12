@@ -1,0 +1,22 @@
+{
+  "name": "암스타",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "custom": "1024x1536. Use the approved light image directly for face, hair and body. Both complete five-finger hands must be clearly visible and separate; no text.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "cat": "everyday_basic",
+  "expr": "nostalgic",
+  "pose": "sitting",
+  "orient": "front",
+  "frame": "waist_up",
+  "lens": "portrait85",
+  "scene": "Sitting at a listening chair in an empty retro record shop on a rainy late afternoon, lifting one plain headphone earcup with one hand while the other rests openly on a separate armrest. Head through waist, both forearms and hands entirely visible. Teal window reflections and amber turntable lamp; all record sleeves and equipment are unlettered.",
+  "outfit": "Cream ribbed sleeveless turtleneck crop top, sky-blue high-waisted wide-leg trousers and a small four-point silver pendant. Bare arms and midriff; ordinary listening-day clothing, no armor.",
+  "ui_verification": {
+    "length": 2839,
+    "fnv": "80b3d149"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "name": "암스타",
+  "slug": "omastar",
+  "face_design": {
+    "name": "암스타",
+    "en": "Omastar",
+    "line": "암나이트",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "oval",
+      "face length": "balanced",
+      "face width": "wide",
+      "jaw & chin": "angular defined jaw",
+      "eye shape": "narrow",
+      "eye size": "small",
+      "eye tilt": "level outer corners",
+      "eye spacing": "average eye spacing",
+      "eyebrows": "angled brows",
+      "nose character": "balanced nose",
+      "lips": "wide mouth"
+    },
+    "why": "나선 껍질과 송곳니 같은 입의 힘을 넓은 턱과 좁은 눈으로 구분한다.",
+    "cues": [
+      "‘several sharp spikes’ → 턱선 · 턱끝 각지고 또렷한 턱",
+      "‘several sharp spikes’ → 눈매 가늘고 날카로운 눈",
+      "‘several sharp spikes’ → 눈썹 바깥에서 꺾이는 사선"
+    ],
+    "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 턱선 · 턱끝 넓고 묵직한 턱끝 → 각지고 또렷한 턱"
+  },
+  "casual": [
+    {
+      "name": "암스타",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "custom": "1024x1536. Use the approved light image directly for face, hair and body. Both complete five-finger hands must be clearly visible and separate; no text.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "cat": "adult_roleplay",
+      "expr": "confident",
+      "pose": "standing_formal",
+      "orient": "low_angle",
+      "frame": "full_body",
+      "lens": "natural50",
+      "scene": "Backstage at an empty ocean-themed theater at early evening, straightening one short cuff before a stage presentation. Both hands visible at waist level and separated, whole body and shoes in view. Indigo velvet curtains and warm footlights, slightly low camera, no signs.",
+      "outfit": "Original nautical stage-presenter costume: cream cropped double-breasted jacket with short puff sleeves, sky-blue fitted sleeveless waistcoat and navy high-waisted tailored mini shorts, ankle-strap heels and tiny spiral earrings. Bare midriff and legs, decorative four-point clasps, no institutional insignia and no armor.",
+      "ui_verification": {
+        "length": 2991,
+        "fnv": "c8f5a18c"
+      }
+    },
+    {
+      "name": "암스타",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "custom": "1024x1536. Use the approved light image directly for face, hair and body. Both complete five-finger hands must be clearly visible and separate; no text.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "cat": "food_berries",
+      "expr": "amused",
+      "pose": "mid_action",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "telephoto135",
+      "scene": "In a quiet coastal berry orchard at bright noon, reaching sideways at chest height to pick one ripe berry while holding a small woven basket low with the other hand. Body in profile, face turned visibly toward camera; complete hands and head-through-knees visible. Leaf-speckled sunlight and pale ocean distance.",
+      "outfit": "Sky-blue one-shoulder wrap sundress with a cream tied waist belt, thigh-length asymmetric hem and canvas espadrilles, tiny spiral bracelet. Bare shoulder, arms and legs, ordinary summer harvest clothing, no armor.",
+      "ui_verification": {
+        "length": 2750,
+        "fnv": "ab6faa2e"
+      }
+    },
+    {
+      "name": "암스타",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "custom": "1024x1536. Use the approved light image directly for face, hair and body. Both complete five-finger hands must be clearly visible and separate; no text.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "cat": "everyday_basic",
+      "expr": "nostalgic",
+      "pose": "sitting",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "Sitting at a listening chair in an empty retro record shop on a rainy late afternoon, lifting one plain headphone earcup with one hand while the other rests openly on a separate armrest. Head through waist, both forearms and hands entirely visible. Teal window reflections and amber turntable lamp; all record sleeves and equipment are unlettered.",
+      "outfit": "Cream ribbed sleeveless turtleneck crop top, sky-blue high-waisted wide-leg trousers and a small four-point silver pendant. Bare arms and midriff; ordinary listening-day clothing, no armor.",
+      "ui_verification": {
+        "length": 2839,
+        "fnv": "80b3d149"
+      }
+    }
+  ],
+  "comparison": {
+    "reviewed": [
+      "부스터",
+      "강철톤",
+      "글라이거",
+      "암나이트"
+    ],
+    "scope": "Read latest three plans and all nine submitted casual prompts; visually compared canonical light faces. New casual scenes change location, specific activity, garment silhouette and composition.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "canonical": {
+    "slot": "light",
+    "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-028f12e1-2603-4d4d-af7d-53d135fde281.png",
+    "source_sha256": "98bd16b6cc2adfa8eb57ddd11dd12d7dea80c2829639a57e4512982685837498",
+    "output": "img/암스타_light_glossy_promo_f.webp",
+    "sha256": "8bdded11fe721e9f05de3f3ac42dd3ef79c99fafa4e6d617d732f7bbada8e55f",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+    "reference": [],
+    "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+  },
+  "tool": "built-in imagegen"
+}

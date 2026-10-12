@@ -1,0 +1,22 @@
+{
+  "name": "암스타",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "custom": "1024x1536. Use the approved light image directly for face, hair and body. Both complete five-finger hands must be clearly visible and separate; no text.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "cat": "food_berries",
+  "expr": "amused",
+  "pose": "mid_action",
+  "orient": "side",
+  "frame": "three_quarter",
+  "lens": "telephoto135",
+  "scene": "In a quiet coastal berry orchard at bright noon, reaching sideways at chest height to pick one ripe berry while holding a small woven basket low with the other hand. Body in profile, face turned visibly toward camera; complete hands and head-through-knees visible. Leaf-speckled sunlight and pale ocean distance.",
+  "outfit": "Sky-blue one-shoulder wrap sundress with a cream tied waist belt, thigh-length asymmetric hem and canvas espadrilles, tiny spiral bracelet. Bare shoulder, arms and legs, ordinary summer harvest clothing, no armor.",
+  "ui_verification": {
+    "length": 2750,
+    "fnv": "ab6faa2e"
+  }
+}

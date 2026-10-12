@@ -1,0 +1,22 @@
+{
+  "name": "암스타",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "custom": "1024x1536. Use the approved light image directly for face, hair and body. Both complete five-finger hands must be clearly visible and separate; no text.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "cat": "adult_roleplay",
+  "expr": "confident",
+  "pose": "standing_formal",
+  "orient": "low_angle",
+  "frame": "full_body",
+  "lens": "natural50",
+  "scene": "Backstage at an empty ocean-themed theater at early evening, straightening one short cuff before a stage presentation. Both hands visible at waist level and separated, whole body and shoes in view. Indigo velvet curtains and warm footlights, slightly low camera, no signs.",
+  "outfit": "Original nautical stage-presenter costume: cream cropped double-breasted jacket with short puff sleeves, sky-blue fitted sleeveless waistcoat and navy high-waisted tailored mini shorts, ankle-strap heels and tiny spiral earrings. Bare midriff and legs, decorative four-point clasps, no institutional insignia and no armor.",
+  "ui_verification": {
+    "length": 2991,
+    "fnv": "c8f5a18c"
+  }
+}

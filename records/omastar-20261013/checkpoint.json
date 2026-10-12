@@ -1,0 +1,192 @@
+{
+  "stage": "all nine images generated and visually verified, ready for character commit",
+  "canonical": {
+    "slot": "light",
+    "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-028f12e1-2603-4d4d-af7d-53d135fde281.png",
+    "source_sha256": "98bd16b6cc2adfa8eb57ddd11dd12d7dea80c2829639a57e4512982685837498",
+    "output": "img/암스타_light_glossy_promo_f.webp",
+    "sha256": "8bdded11fe721e9f05de3f3ac42dd3ef79c99fafa4e6d617d732f7bbada8e55f",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "style": "glossy_promo",
+    "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+    "reference": [],
+    "qa": "visually inspected face, hands, framing, form silhouette and paired opening",
+    "face_comparison": "Omanyte rounded eyes/short heart face; Omastar narrower eyes/angular longer jaw/larger nose and wider mouth; Kabuto compact nose/thin lips/upturned small eyes"
+  },
+  "assets": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-028f12e1-2603-4d4d-af7d-53d135fde281.png",
+      "source_sha256": "98bd16b6cc2adfa8eb57ddd11dd12d7dea80c2829639a57e4512982685837498",
+      "output": "img/암스타_light_glossy_promo_f.webp",
+      "sha256": "8bdded11fe721e9f05de3f3ac42dd3ef79c99fafa4e6d617d732f7bbada8e55f",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+      "reference": [],
+      "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+    },
+    {
+      "slot": "heavy",
+      "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-7c0a09a0-3e23-4412-ba08-abc464c65199.png",
+      "source_sha256": "0d9869c8e0091a8fe67962685ddceefeee3f11b89703a2b670f75ffe542b2e04",
+      "output": "img/암스타_heavy_glossy_promo_f.webp",
+      "sha256": "0cd251a0c6a1491358c4369b1cacb7e723bd8e83673fe6e7f61da3dc8502293a",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+      "reference": [
+        "img/암스타_light_glossy_promo_f.webp"
+      ],
+      "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+    },
+    {
+      "slot": "mobility",
+      "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-6996b165-fd97-4c47-90ac-1b1b18f2e9c4.png",
+      "source_sha256": "cbc4df95eafd6e4e6e31d01730840362265b98d93a52aa3b1c7cad1620579212",
+      "output": "img/암스타_mobility_glossy_promo_f.webp",
+      "sha256": "a16670c51b09db82efe7c00ddf0eca1d69966a29ddbcf5798894c5b37e51c65a",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+      "reference": [
+        "img/암스타_light_glossy_promo_f.webp"
+      ],
+      "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-173a77ba-4f44-4f28-b486-db367af3d22a.png",
+      "source_sha256": "9038ba566ed43e77022764a13dfcd6f445de7c8d22cf6819bf40f79e08524da8",
+      "output": "img/암스타_light_overdrive_glossy_promo_f.webp",
+      "sha256": "e74dcfd958f80459ed9407d4465bb7cd1644e48cee0c0ba4096dd71d0a4e06b6",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+      "reference": [
+        "img/암스타_light_glossy_promo_f.webp",
+        "img/암스타_light_glossy_promo_f.webp"
+      ],
+      "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+    },
+    {
+      "slot": "heavy_overdrive",
+      "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-0894acd6-151e-4e25-af0e-d08947197662.png",
+      "source_sha256": "4509e6ca8a4289ffcf5a0b632bed7a31aef08e9f40e2215b30837d3ce4d8e463",
+      "output": "img/암스타_heavy_overdrive_glossy_promo_f.webp",
+      "sha256": "576383d921395ddfee9a0532d693ea210a96888df2981781e5e01e36df048f16",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+      "reference": [
+        "img/암스타_heavy_glossy_promo_f.webp",
+        "img/암스타_light_glossy_promo_f.webp"
+      ],
+      "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+    },
+    {
+      "slot": "mobility_overdrive",
+      "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-5eed569a-ba92-4f53-99d9-b0f9f270d407.png",
+      "source_sha256": "71c407d355544d7f664093520cdcae4d31328d7f68d9387783d281d32f4320e9",
+      "output": "img/암스타_mobility_overdrive_glossy_promo_f.webp",
+      "sha256": "8ea694ec8604e06822a8e68b8c339c256bb158acd0f80142800630c655f2ee80",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+      "reference": [
+        "img/암스타_mobility_glossy_promo_f.webp",
+        "img/암스타_light_glossy_promo_f.webp"
+      ],
+      "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+    },
+    {
+      "slot": "casual1",
+      "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-c8ddb452-ee64-4f0a-8d10-02195190b838.png",
+      "source_sha256": "b87c762d0f79edc608accab40f8463454da8f521f9997511794ee38126f47212",
+      "output": "img/암스타_glossy_promo_f_casual1.webp",
+      "sha256": "dde3e5d4bd638d5135fb20d2ae852da193d082494e17ff622e8ada5c97937b8c",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+      "reference": [
+        "img/암스타_light_glossy_promo_f.webp"
+      ],
+      "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+    },
+    {
+      "slot": "casual2",
+      "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-aa8a888d-ae08-4bf9-8c97-f04bc6ea4e23.png",
+      "source_sha256": "32679639397602ced4e0c6dcfafefa82f202f73092649cae91cd3f3668de259b",
+      "output": "img/암스타_glossy_promo_f_casual2.webp",
+      "sha256": "9231a0f595b3c252e092bc4a277afe36788fe64234829030fb7bbd95f59a1641",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+      "reference": [
+        "img/암스타_light_glossy_promo_f.webp"
+      ],
+      "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+    },
+    {
+      "slot": "casual3",
+      "source": "/workspace/scratch/7b335b9d724d/generated_images/exec-e81b13db-5a3a-43df-9cc0-d04a341d01cb.png",
+      "source_sha256": "0ddbbac144b328d60cd4444b61d8e85b664a6aa53871026d11d0da3cd29d0a4b",
+      "output": "img/암스타_glossy_promo_f_casual3.webp",
+      "sha256": "569ab41c39da01ce8beb8c34be43f0dc5c464c6c3de1f9e266a0c2d26d521bbc",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "style": "glossy_promo",
+      "style_evidence": "actual generator UI selection and exact prompt hash comparison",
+      "reference": [
+        "img/암스타_light_glossy_promo_f.webp"
+      ],
+      "qa": "visually inspected face, hands, framing, form silhouette and paired opening"
+    }
+  ],
+  "remote_ref": "main",
+  "force_push": false,
+  "existing_deletions": false,
+  "thumbnail_fallback": {
+    "reason": "automatic thumbnail step failed in run 38269319760; raw logs require sign-in",
+    "tool": "tools/make-thumbs.py build, selected files only, no pruning"
+  }
+}

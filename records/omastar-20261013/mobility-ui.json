@@ -1,0 +1,9 @@
+{
+  "name": "암스타",
+  "identityMode": "reference",
+  "form": "mobility",
+  "custom": "1024x1536. Use the attached light form as the sole identity reference. Keep the same standing camera, pose, framing and figure scale (86% image height). Both complete hands remain readable. Preserve every source-inspired costume motif; apply only the selected armor form.",
+  "ui_verification": {
+    "fnv": "7160082d"
+  }
+}
