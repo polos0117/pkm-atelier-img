@@ -1,0 +1,2391 @@
+[
+  {
+    "slot": "light",
+    "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-96d44cfc-1633-4186-90d2-100dbb9a66d8.png",
+    "filename": "누오_light_glossy_promo_f.webp",
+    "reference": [],
+    "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Quagsire (누오), water / ground type.\n\nPALETTE: purple, blue.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Quagsire as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On an empty riverside floodgate platform beneath bright overcast light, the adult woman faces camera in a calm front three-quarter grounded stance, both relaxed open hands away from hips; full head boots and drape included in vertical 1024x1536.\nNote: One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nhair color: teal\neye color: amber\nhairstyle: straight — straight strands without waves\nbody type: curvy — flowing bust-to-waist and hip-to-waist curves\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\neye color consistency: both eyes are amber\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+    "correction_prompt": null,
+    "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/누오_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "dcc9618849b3480fdc3e82ee27edbe21a2966827ddb16ea8c8bcda44507b8f7e",
+    "ui": {
+      "controls": [
+        {
+          "id": "search",
+          "value": ""
+        },
+        {
+          "id": "group",
+          "value": ""
+        },
+        {
+          "id": "source",
+          "value": "누오"
+        },
+        {
+          "id": "style",
+          "value": "glossy_promo"
+        },
+        {
+          "id": "identity-mode",
+          "value": "create"
+        },
+        {
+          "id": "form",
+          "value": "light"
+        },
+        {
+          "id": "form-override",
+          "value": ""
+        },
+        {
+          "id": "motifs",
+          "value": "Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs."
+        },
+        {
+          "id": "head-feature",
+          "value": ""
+        },
+        {
+          "id": "param-apparent-age",
+          "value": "20s"
+        },
+        {
+          "id": "param-facial-ethnicity",
+          "value": ""
+        },
+        {
+          "id": "param-body-type",
+          "value": "curvy"
+        },
+        {
+          "id": "param-height-impression",
+          "value": ""
+        },
+        {
+          "id": "param-shoulder-build",
+          "value": ""
+        },
+        {
+          "id": "param-torso---chest-build",
+          "value": ""
+        },
+        {
+          "id": "param-torso-length",
+          "value": ""
+        },
+        {
+          "id": "param-waist---hip-silhouette",
+          "value": ""
+        },
+        {
+          "id": "param-leg-proportion",
+          "value": ""
+        },
+        {
+          "id": "param-lower-body-build",
+          "value": ""
+        },
+        {
+          "id": "param-body-measurements--B-W-H-",
+          "value": ""
+        },
+        {
+          "id": "param-facial-character",
+          "value": ""
+        },
+        {
+          "id": "param-skin-tone",
+          "value": ""
+        },
+        {
+          "id": "param-face-shape",
+          "value": ""
+        },
+        {
+          "id": "param-eye-shape",
+          "value": ""
+        },
+        {
+          "id": "param-eye-color",
+          "value": "amber"
+        },
+        {
+          "id": "param-second-eye-color",
+          "value": ""
+        },
+        {
+          "id": "param-face-length",
+          "value": ""
+        },
+        {
+          "id": "param-face-width",
+          "value": ""
+        },
+        {
+          "id": "param-jaw---chin",
+          "value": ""
+        },
+        {
+          "id": "param-eye-size",
+          "value": ""
+        },
+        {
+          "id": "param-eye-tilt",
+          "value": ""
+        },
+        {
+          "id": "param-nose-character",
+          "value": ""
+        },
+        {
+          "id": "param-lips",
+          "value": ""
+        },
+        {
+          "id": "param-hair-color",
+          "value": "teal"
+        },
+        {
+          "id": "param-hairstyle",
+          "value": "straight"
+        },
+        {
+          "id": "param-hair-length",
+          "value": ""
+        },
+        {
+          "id": "param-bangs",
+          "value": ""
+        },
+        {
+          "id": "param-hair-accent",
+          "value": ""
+        },
+        {
+          "id": "param-hair-texture",
+          "value": ""
+        },
+        {
+          "id": "param-hair-volume",
+          "value": ""
+        },
+        {
+          "id": "param-parting",
+          "value": ""
+        },
+        {
+          "id": "expression",
+          "value": ""
+        },
+        {
+          "id": "action-category",
+          "value": ""
+        },
+        {
+          "id": "action-example",
+          "value": ""
+        },
+        {
+          "id": "action-timing",
+          "value": ""
+        },
+        {
+          "id": "action-equipment",
+          "value": ""
+        },
+        {
+          "id": "action-power",
+          "value": ""
+        },
+        {
+          "id": "action-effects",
+          "value": ""
+        },
+        {
+          "id": "action-speed",
+          "value": ""
+        },
+        {
+          "id": "action-environment",
+          "value": ""
+        },
+        {
+          "id": "pose",
+          "value": ""
+        },
+        {
+          "id": "orientation",
+          "value": ""
+        },
+        {
+          "id": "frame",
+          "value": ""
+        },
+        {
+          "id": "lens",
+          "value": ""
+        },
+        {
+          "id": "aspect",
+          "value": "2:3"
+        },
+        {
+          "id": "camera",
+          "value": ""
+        },
+        {
+          "id": "scene",
+          "value": "On an empty riverside floodgate platform beneath bright overcast light, the adult woman faces camera in a calm front three-quarter grounded stance, both relaxed open hands away from hips; full head boots and drape included in vertical 1024x1536."
+        },
+        {
+          "id": "outfit",
+          "value": ""
+        },
+        {
+          "id": "custom",
+          "value": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging."
+        }
+      ],
+      "state": {
+        "last": "누오",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "누오": {
+            "style": "glossy_promo",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs.",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "teal",
+              "eye color": "amber",
+              "hairstyle": "straight",
+              "body type": "curvy"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "On an empty riverside floodgate platform beneath bright overcast light, the adult woman faces camera in a calm front three-quarter grounded stance, both relaxed open hands away from hips; full head boots and drape included in vertical 1024x1536.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible",
+    "byte_size": 436172
+  },
+  {
+    "slot": "heavy",
+    "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-154488be-d5d0-421c-8ff1-f59dfcf5b823.png",
+    "filename": "누오_heavy_glossy_promo_f.webp",
+    "reference": [
+      "/workspace/scratch/f0d6aa388ce2/generated_images/exec-96d44cfc-1633-4186-90d2-100dbb9a66d8.png"
+    ],
+    "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Quagsire (누오), water / ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nMOTIFS to keep: Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs..\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On an empty riverside floodgate platform beneath bright overcast light, the adult woman faces camera in a calm front three-quarter grounded stance, both relaxed open hands away from hips; full head boots and drape included in vertical 1024x1536.\nNote: One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+    "correction_prompt": null,
+    "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/누오_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "ed44e18a3b26ecc32cebf580cf6f1a4cc96b8ee57f0f4a26d2dc149931bf7768",
+    "ui": {
+      "controls": [
+        {
+          "id": "search",
+          "value": ""
+        },
+        {
+          "id": "group",
+          "value": ""
+        },
+        {
+          "id": "source",
+          "value": "누오"
+        },
+        {
+          "id": "style",
+          "value": "glossy_promo"
+        },
+        {
+          "id": "identity-mode",
+          "value": "reference"
+        },
+        {
+          "id": "form",
+          "value": "heavy"
+        },
+        {
+          "id": "form-override",
+          "value": ""
+        },
+        {
+          "id": "motifs",
+          "value": "Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs."
+        },
+        {
+          "id": "expression",
+          "value": ""
+        },
+        {
+          "id": "action-category",
+          "value": ""
+        },
+        {
+          "id": "action-example",
+          "value": ""
+        },
+        {
+          "id": "action-timing",
+          "value": ""
+        },
+        {
+          "id": "action-equipment",
+          "value": ""
+        },
+        {
+          "id": "action-power",
+          "value": ""
+        },
+        {
+          "id": "action-effects",
+          "value": ""
+        },
+        {
+          "id": "action-speed",
+          "value": ""
+        },
+        {
+          "id": "action-environment",
+          "value": ""
+        },
+        {
+          "id": "pose",
+          "value": ""
+        },
+        {
+          "id": "orientation",
+          "value": ""
+        },
+        {
+          "id": "frame",
+          "value": ""
+        },
+        {
+          "id": "lens",
+          "value": ""
+        },
+        {
+          "id": "aspect",
+          "value": "2:3"
+        },
+        {
+          "id": "camera",
+          "value": ""
+        },
+        {
+          "id": "scene",
+          "value": "On an empty riverside floodgate platform beneath bright overcast light, the adult woman faces camera in a calm front three-quarter grounded stance, both relaxed open hands away from hips; full head boots and drape included in vertical 1024x1536."
+        },
+        {
+          "id": "outfit",
+          "value": ""
+        },
+        {
+          "id": "custom",
+          "value": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging."
+        }
+      ],
+      "state": {
+        "last": "누오",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "누오": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "heavy",
+            "baseForm": "light",
+            "motifs": "Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs.",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "teal",
+              "eye color": "amber",
+              "hairstyle": "straight",
+              "body type": "curvy"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "On an empty riverside floodgate platform beneath bright overcast light, the adult woman faces camera in a calm front three-quarter grounded stance, both relaxed open hands away from hips; full head boots and drape included in vertical 1024x1536.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible",
+    "byte_size": 416450
+  },
+  {
+    "slot": "mobility",
+    "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-51c121fb-3be8-4d63-ae19-9cf9c69a5965.png",
+    "filename": "누오_mobility_glossy_promo_f.webp",
+    "reference": [
+      "/workspace/scratch/f0d6aa388ce2/generated_images/exec-96d44cfc-1633-4186-90d2-100dbb9a66d8.png"
+    ],
+    "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Quagsire (누오), water / ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nMOTIFS to keep: Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs..\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On an empty riverside floodgate platform beneath bright overcast light, the adult woman faces camera in a calm front three-quarter grounded stance, both relaxed open hands away from hips; full head boots and drape included in vertical 1024x1536.\nNote: One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+    "correction_prompt": null,
+    "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/누오_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "923fbc4c59dd5e7d7cc21f7cc1fca9ebf906597492be900e0d06b86e9177bf11",
+    "ui": {
+      "controls": [
+        {
+          "id": "search",
+          "value": ""
+        },
+        {
+          "id": "group",
+          "value": ""
+        },
+        {
+          "id": "source",
+          "value": "누오"
+        },
+        {
+          "id": "style",
+          "value": "glossy_promo"
+        },
+        {
+          "id": "identity-mode",
+          "value": "reference"
+        },
+        {
+          "id": "form",
+          "value": "mobility"
+        },
+        {
+          "id": "form-override",
+          "value": ""
+        },
+        {
+          "id": "motifs",
+          "value": "Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs."
+        },
+        {
+          "id": "expression",
+          "value": ""
+        },
+        {
+          "id": "action-category",
+          "value": ""
+        },
+        {
+          "id": "action-example",
+          "value": ""
+        },
+        {
+          "id": "action-timing",
+          "value": ""
+        },
+        {
+          "id": "action-equipment",
+          "value": ""
+        },
+        {
+          "id": "action-power",
+          "value": ""
+        },
+        {
+          "id": "action-effects",
+          "value": ""
+        },
+        {
+          "id": "action-speed",
+          "value": ""
+        },
+        {
+          "id": "action-environment",
+          "value": ""
+        },
+        {
+          "id": "pose",
+          "value": ""
+        },
+        {
+          "id": "orientation",
+          "value": ""
+        },
+        {
+          "id": "frame",
+          "value": ""
+        },
+        {
+          "id": "lens",
+          "value": ""
+        },
+        {
+          "id": "aspect",
+          "value": "2:3"
+        },
+        {
+          "id": "camera",
+          "value": ""
+        },
+        {
+          "id": "scene",
+          "value": "On an empty riverside floodgate platform beneath bright overcast light, the adult woman faces camera in a calm front three-quarter grounded stance, both relaxed open hands away from hips; full head boots and drape included in vertical 1024x1536."
+        },
+        {
+          "id": "outfit",
+          "value": ""
+        },
+        {
+          "id": "custom",
+          "value": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging."
+        }
+      ],
+      "state": {
+        "last": "누오",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "누오": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "mobility",
+            "baseForm": "light",
+            "motifs": "Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs.",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "teal",
+              "eye color": "amber",
+              "hairstyle": "straight",
+              "body type": "curvy"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "On an empty riverside floodgate platform beneath bright overcast light, the adult woman faces camera in a calm front three-quarter grounded stance, both relaxed open hands away from hips; full head boots and drape included in vertical 1024x1536.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible",
+    "byte_size": 447910
+  },
+  {
+    "slot": "light_overdrive",
+    "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-e4336b6b-8d94-4110-b301-0c00aee7f891.png",
+    "filename": "누오_light_overdrive_glossy_promo_f.webp",
+    "reference": [
+      "/workspace/scratch/f0d6aa388ce2/generated_images/exec-96d44cfc-1633-4186-90d2-100dbb9a66d8.png"
+    ],
+    "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Quagsire (누오), water / ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a cyan-blue water glow with spray and sheen shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+    "correction_prompt": null,
+    "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/누오_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "aad085fa2893e3a1c16db7434c614abb3f437cefb3ae5a5eccc26dff5f321af2",
+    "ui": {
+      "controls": [
+        {
+          "id": "search",
+          "value": ""
+        },
+        {
+          "id": "group",
+          "value": ""
+        },
+        {
+          "id": "source",
+          "value": "누오"
+        },
+        {
+          "id": "style",
+          "value": "glossy_promo"
+        },
+        {
+          "id": "form",
+          "value": "overdrive"
+        },
+        {
+          "id": "base-form",
+          "value": "light"
+        },
+        {
+          "id": "form-override",
+          "value": ""
+        },
+        {
+          "id": "motifs",
+          "value": "Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs."
+        },
+        {
+          "id": "custom",
+          "value": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging."
+        }
+      ],
+      "state": {
+        "last": "누오",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "누오": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "light",
+            "motifs": "Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs.",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "teal",
+              "eye color": "amber",
+              "hairstyle": "straight",
+              "body type": "curvy"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "On an empty riverside floodgate platform beneath bright overcast light, the adult woman faces camera in a calm front three-quarter grounded stance, both relaxed open hands away from hips; full head boots and drape included in vertical 1024x1536.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible",
+    "byte_size": 514340
+  },
+  {
+    "slot": "heavy_overdrive",
+    "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-67f9524e-4222-4bd9-90f1-9b498a589cc6.png",
+    "filename": "누오_heavy_overdrive_glossy_promo_f.webp",
+    "reference": [
+      "/workspace/scratch/f0d6aa388ce2/generated_images/exec-154488be-d5d0-421c-8ff1-f59dfcf5b823.png"
+    ],
+    "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Quagsire (누오), water / ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a cyan-blue water glow with spray and sheen shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+    "correction_prompt": null,
+    "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/누오_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "92fe477fd11b83821debe9e9ef7b8d50724203e25d3c86a4b7aeccc266c7c1c4",
+    "ui": {
+      "controls": [
+        {
+          "id": "search",
+          "value": ""
+        },
+        {
+          "id": "group",
+          "value": ""
+        },
+        {
+          "id": "source",
+          "value": "누오"
+        },
+        {
+          "id": "style",
+          "value": "glossy_promo"
+        },
+        {
+          "id": "form",
+          "value": "overdrive"
+        },
+        {
+          "id": "base-form",
+          "value": "heavy"
+        },
+        {
+          "id": "form-override",
+          "value": ""
+        },
+        {
+          "id": "motifs",
+          "value": "Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs."
+        },
+        {
+          "id": "custom",
+          "value": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging."
+        }
+      ],
+      "state": {
+        "last": "누오",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "누오": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "heavy",
+            "motifs": "Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs.",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "teal",
+              "eye color": "amber",
+              "hairstyle": "straight",
+              "body type": "curvy"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "On an empty riverside floodgate platform beneath bright overcast light, the adult woman faces camera in a calm front three-quarter grounded stance, both relaxed open hands away from hips; full head boots and drape included in vertical 1024x1536.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible",
+    "byte_size": 526410
+  },
+  {
+    "slot": "mobility_overdrive",
+    "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-dfce44a0-16e4-4ded-8688-ef524e4a4f62.png",
+    "filename": "누오_mobility_overdrive_glossy_promo_f.webp",
+    "reference": [
+      "/workspace/scratch/f0d6aa388ce2/generated_images/exec-51c121fb-3be8-4d63-ae19-9cf9c69a5965.png"
+    ],
+    "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Quagsire (누오), water / ground type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a cyan-blue water glow with spray and sheen shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+    "correction_prompt": "Edit target image 1 (Quagsire opened mobility). Image 2 is the exact closed mobility counterpart. Change only the head equipment: restore both narrow triangular temple sensor fins rising diagonally above the hair exactly as visible in image 2, matching location, shape, blue and violet enamel materials, scale and side symmetry. These already belong to the closed armor, so restoring them is required, do not add any helmet. Keep all other pixels/composition unchanged: face, hair, eye color, body, posture, framing, camera, background, open armor and water energy. No text, no weapons. One adult woman. Keep existing five-finger hands unchanged.",
+    "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/누오_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "91125bf0de1206e92c5f48610a5274a415087431ccf9aa77d004a5d8d18e3133",
+    "ui": {
+      "controls": [
+        {
+          "id": "search",
+          "value": ""
+        },
+        {
+          "id": "group",
+          "value": ""
+        },
+        {
+          "id": "source",
+          "value": "누오"
+        },
+        {
+          "id": "style",
+          "value": "glossy_promo"
+        },
+        {
+          "id": "form",
+          "value": "overdrive"
+        },
+        {
+          "id": "base-form",
+          "value": "mobility"
+        },
+        {
+          "id": "form-override",
+          "value": ""
+        },
+        {
+          "id": "motifs",
+          "value": "Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs."
+        },
+        {
+          "id": "custom",
+          "value": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging."
+        }
+      ],
+      "state": {
+        "last": "누오",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "누오": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs.",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "teal",
+              "eye color": "amber",
+              "hairstyle": "straight",
+              "body type": "curvy"
+            },
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "On an empty riverside floodgate platform beneath bright overcast light, the adult woman faces camera in a calm front three-quarter grounded stance, both relaxed open hands away from hips; full head boots and drape included in vertical 1024x1536.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible",
+    "byte_size": 497624
+  },
+  {
+    "slot": "casual1",
+    "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-276cfb47-e2c4-420c-8d53-05b646c40b8e.png",
+    "filename": "누오_glossy_promo_f_casual1.webp",
+    "reference": [
+      "/workspace/scratch/f0d6aa388ce2/generated_images/exec-96d44cfc-1633-4186-90d2-100dbb9a66d8.png"
+    ],
+    "prompt": "CHARACTER: the same woman as the attached image — Quagsire (누오) personified, water / ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nMOTIFS to echo lightly: Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs..\n\nSCENE (chosen):\nExpression: brows released upward and outward, eyes half closed, breath-out mouth slightly open, whole face loosened\nPose: Walk at a comfortable pace with a natural step and arm swing.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: At an empty volcanic beach in golden sunrise, walking slowly out of ankle-deep clear water toward the sand with both relaxed empty hands by her sides, complete head and feet visible; broad shore and dark rock columns in background.\nOutfit and props: Opaque fully lined turquoise asymmetric one-shoulder swimsuit with a secure diagonal neckline, navy side bands and narrow side waist opening; full chest and pelvis coverage, bare arms legs and shoulder, small amber pendant.\nCategory: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.\nNote: Both complete hands inside the selected crop, attached naturally to their forearms, each hand one thumb and four clear separate fingers. Single clearly adult woman only. No weapons, text or logos.\nFraming: Environmental long shot: show the complete woman and enough surroundings to establish the activity and location.\nLens / perspective: 24mm-equivalent wide-angle impression with spacious environmental depth; use enough camera distance to avoid stretching the face or limbs.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+    "correction_prompt": null,
+    "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/누오_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "3db0c4615800a33bdaf68c88b4b7cc3d03be9222e79320c1546a62860f669f49",
+    "ui": {
+      "controls": [
+        {
+          "id": "search",
+          "value": ""
+        },
+        {
+          "id": "group",
+          "value": ""
+        },
+        {
+          "id": "source",
+          "value": "누오"
+        },
+        {
+          "id": "style",
+          "value": "glossy_promo"
+        },
+        {
+          "id": "motifs",
+          "value": "Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs."
+        },
+        {
+          "id": "expression",
+          "value": "relieved"
+        },
+        {
+          "id": "category",
+          "value": "swimwear"
+        },
+        {
+          "id": "example",
+          "value": ""
+        },
+        {
+          "id": "pose",
+          "value": "walking"
+        },
+        {
+          "id": "orientation",
+          "value": "front_3q"
+        },
+        {
+          "id": "frame",
+          "value": "environmental"
+        },
+        {
+          "id": "lens",
+          "value": "wide24"
+        },
+        {
+          "id": "aspect",
+          "value": "2:3"
+        },
+        {
+          "id": "camera",
+          "value": ""
+        },
+        {
+          "id": "scene",
+          "value": "At an empty volcanic beach in golden sunrise, walking slowly out of ankle-deep clear water toward the sand with both relaxed empty hands by her sides, complete head and feet visible; broad shore and dark rock columns in background."
+        },
+        {
+          "id": "outfit",
+          "value": "Opaque fully lined turquoise asymmetric one-shoulder swimsuit with a secure diagonal neckline, navy side bands and narrow side waist opening; full chest and pelvis coverage, bare arms legs and shoulder, small amber pendant."
+        },
+        {
+          "id": "custom",
+          "value": "Both complete hands inside the selected crop, attached naturally to their forearms, each hand one thumb and four clear separate fingers. Single clearly adult woman only. No weapons, text or logos."
+        },
+        {
+          "id": "axis-overall_intensity",
+          "value": "strong"
+        },
+        {
+          "id": "axis-skin_exposure",
+          "value": "bold"
+        },
+        {
+          "id": "axis-action_level",
+          "value": "AUTO"
+        },
+        {
+          "id": "axis-source_influence",
+          "value": "AUTO"
+        },
+        {
+          "id": "axis-separates_preference",
+          "value": "AUTO"
+        }
+      ],
+      "state": {
+        "last": "누오",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "누오": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs.",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "teal",
+              "eye color": "amber",
+              "hairstyle": "straight",
+              "body type": "curvy"
+            },
+            "locks": {},
+            "mode": "casual",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "On an empty riverside floodgate platform beneath bright overcast light, the adult woman faces camera in a calm front three-quarter grounded stance, both relaxed open hands away from hips; full head boots and drape included in vertical 1024x1536.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "relieved",
+                "pose": "walking",
+                "orient": "front_3q",
+                "scene": "At an empty volcanic beach in golden sunrise, walking slowly out of ankle-deep clear water toward the sand with both relaxed empty hands by her sides, complete head and feet visible; broad shore and dark rock columns in background.",
+                "outfit": "Opaque fully lined turquoise asymmetric one-shoulder swimsuit with a secure diagonal neckline, navy side bands and narrow side waist opening; full chest and pelvis coverage, bare arms legs and shoulder, small amber pendant.",
+                "frame": "environmental",
+                "lens": "wide24",
+                "camera": "",
+                "custom": "Both complete hands inside the selected crop, attached naturally to their forearms, each hand one thumb and four clear separate fingers. Single clearly adult woman only. No weapons, text or logos.",
+                "aspect": "2:3",
+                "cat": "swimwear",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {
+                  "overall_intensity": "strong",
+                  "skin_exposure": "bold"
+                },
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible",
+    "byte_size": 554576
+  },
+  {
+    "slot": "casual2",
+    "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-5160e71b-9ebe-4998-b100-744d0bbcb0b4.png",
+    "filename": "누오_glossy_promo_f_casual2.webp",
+    "reference": [
+      "/workspace/scratch/f0d6aa388ce2/generated_images/exec-96d44cfc-1633-4186-90d2-100dbb9a66d8.png"
+    ],
+    "prompt": "CHARACTER: the same woman as the attached image — Quagsire (누오) personified, water / ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nMOTIFS to echo lightly: Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs..\n\nSCENE (chosen):\nExpression: heavy drooping eyelids, unfocused gaze, softened slack mouth, brow low and relaxed\nPose: Sit comfortably on the floor or a mat with clearly separated legs and hands.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: Inside a bright private sunroom during quiet late morning, sitting sideways on a woven floor cushion beside a low record player, one open hand resting on the cushion away from her leg and the other lightly touching the player lid. Head to knees and both complete hands visible, soft window stripes.\nOutfit and props: Opaque pale blue satin sleeveless camisole with broad straps and secure neckline, navy loose lounge shorts with a drawstring waistband, bare arms upper chest legs and small midriff, tiny teal earrings.\nCategory: Create designed, fashion-forward homewear or lounge-life scenes. Avoid plain pajamas and bland static sofa poses. Use believable home-life actions, stylish home fashion silhouettes, and a sensual but natural private-life atmosphere.\nNote: Both complete hands inside the selected crop, attached naturally to their forearms, each hand one thumb and four clear separate fingers. Single clearly adult woman only. No weapons, text or logos.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 135mm-equivalent telephoto perspective from farther away, with compressed background depth and unchanged anatomy.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+    "correction_prompt": null,
+    "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/누오_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "cd29ca4bb756debd74e267cc0da2fe0a37e7aa843c4fc5c0479c00265369e832",
+    "ui": {
+      "controls": [
+        {
+          "id": "search",
+          "value": ""
+        },
+        {
+          "id": "group",
+          "value": ""
+        },
+        {
+          "id": "source",
+          "value": "누오"
+        },
+        {
+          "id": "style",
+          "value": "glossy_promo"
+        },
+        {
+          "id": "motifs",
+          "value": "Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs."
+        },
+        {
+          "id": "expression",
+          "value": "sleepy"
+        },
+        {
+          "id": "category",
+          "value": "homewear"
+        },
+        {
+          "id": "example",
+          "value": ""
+        },
+        {
+          "id": "pose",
+          "value": "sitting_floor"
+        },
+        {
+          "id": "orientation",
+          "value": "front"
+        },
+        {
+          "id": "frame",
+          "value": "three_quarter"
+        },
+        {
+          "id": "lens",
+          "value": "telephoto135"
+        },
+        {
+          "id": "aspect",
+          "value": "2:3"
+        },
+        {
+          "id": "camera",
+          "value": ""
+        },
+        {
+          "id": "scene",
+          "value": "Inside a bright private sunroom during quiet late morning, sitting sideways on a woven floor cushion beside a low record player, one open hand resting on the cushion away from her leg and the other lightly touching the player lid. Head to knees and both complete hands visible, soft window stripes."
+        },
+        {
+          "id": "outfit",
+          "value": "Opaque pale blue satin sleeveless camisole with broad straps and secure neckline, navy loose lounge shorts with a drawstring waistband, bare arms upper chest legs and small midriff, tiny teal earrings."
+        },
+        {
+          "id": "custom",
+          "value": "Both complete hands inside the selected crop, attached naturally to their forearms, each hand one thumb and four clear separate fingers. Single clearly adult woman only. No weapons, text or logos."
+        },
+        {
+          "id": "axis-overall_intensity",
+          "value": "strong"
+        },
+        {
+          "id": "axis-skin_exposure",
+          "value": "bold"
+        },
+        {
+          "id": "axis-action_level",
+          "value": "AUTO"
+        },
+        {
+          "id": "axis-source_influence",
+          "value": "AUTO"
+        },
+        {
+          "id": "axis-separates_preference",
+          "value": "AUTO"
+        }
+      ],
+      "state": {
+        "last": "누오",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "누오": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs.",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "teal",
+              "eye color": "amber",
+              "hairstyle": "straight",
+              "body type": "curvy"
+            },
+            "locks": {},
+            "mode": "casual",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "On an empty riverside floodgate platform beneath bright overcast light, the adult woman faces camera in a calm front three-quarter grounded stance, both relaxed open hands away from hips; full head boots and drape included in vertical 1024x1536.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "sleepy",
+                "pose": "sitting_floor",
+                "orient": "front",
+                "scene": "Inside a bright private sunroom during quiet late morning, sitting sideways on a woven floor cushion beside a low record player, one open hand resting on the cushion away from her leg and the other lightly touching the player lid. Head to knees and both complete hands visible, soft window stripes.",
+                "outfit": "Opaque pale blue satin sleeveless camisole with broad straps and secure neckline, navy loose lounge shorts with a drawstring waistband, bare arms upper chest legs and small midriff, tiny teal earrings.",
+                "frame": "three_quarter",
+                "lens": "telephoto135",
+                "camera": "",
+                "custom": "Both complete hands inside the selected crop, attached naturally to their forearms, each hand one thumb and four clear separate fingers. Single clearly adult woman only. No weapons, text or logos.",
+                "aspect": "2:3",
+                "cat": "homewear",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {
+                  "overall_intensity": "strong",
+                  "skin_exposure": "bold"
+                },
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible",
+    "byte_size": 341678
+  },
+  {
+    "slot": "casual3",
+    "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-bab74526-b3fa-4d5e-9c93-729be3409aaa.png",
+    "filename": "누오_glossy_promo_f_casual3.webp",
+    "reference": [
+      "/workspace/scratch/f0d6aa388ce2/generated_images/exec-96d44cfc-1633-4186-90d2-100dbb9a66d8.png"
+    ],
+    "prompt": "CHARACTER: the same woman as the attached image — Quagsire (누오) personified, water / ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nMOTIFS to echo lightly: Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs..\n\nSCENE (chosen):\nExpression: chin lifted, brows level, eyes bright and steady, closed-lip smile with a firm mouth\nPose: Capture the selected activity already in progress with a readable natural gesture.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: At an empty glass art studio in amber evening light, standing side-on assembling a small stained glass mosaic on a broad table, one hand carefully laying down a turquoise square and the other open on the opposite edge of the tray; face turned to camera, hands fully readable, no tool obscures fingers.\nOutfit and props: Opaque navy short-sleeved cropped wrap work shirt with secure open collar and teal high-waisted skirt; bare forearms upper chest and midriff, tiny rounded blue hair clasp.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: Both complete hands inside the selected crop, attached naturally to their forearms, each hand one thumb and four clear separate fingers. Single clearly adult woman only. No weapons, text or logos.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+    "correction_prompt": null,
+    "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/누오_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "1cae59c465df19c5a5a8c3550eeab862a4a7cedaba4f770efd4033d1bf85c3c8",
+    "ui": {
+      "controls": [
+        {
+          "id": "search",
+          "value": ""
+        },
+        {
+          "id": "group",
+          "value": ""
+        },
+        {
+          "id": "source",
+          "value": "누오"
+        },
+        {
+          "id": "style",
+          "value": "glossy_promo"
+        },
+        {
+          "id": "motifs",
+          "value": "Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs."
+        },
+        {
+          "id": "expression",
+          "value": "proud"
+        },
+        {
+          "id": "category",
+          "value": "hobbies_leisure"
+        },
+        {
+          "id": "example",
+          "value": ""
+        },
+        {
+          "id": "pose",
+          "value": "mid_action"
+        },
+        {
+          "id": "orientation",
+          "value": "side"
+        },
+        {
+          "id": "frame",
+          "value": "waist_up"
+        },
+        {
+          "id": "lens",
+          "value": "portrait85"
+        },
+        {
+          "id": "aspect",
+          "value": "2:3"
+        },
+        {
+          "id": "camera",
+          "value": ""
+        },
+        {
+          "id": "scene",
+          "value": "At an empty glass art studio in amber evening light, standing side-on assembling a small stained glass mosaic on a broad table, one hand carefully laying down a turquoise square and the other open on the opposite edge of the tray; face turned to camera, hands fully readable, no tool obscures fingers."
+        },
+        {
+          "id": "outfit",
+          "value": "Opaque navy short-sleeved cropped wrap work shirt with secure open collar and teal high-waisted skirt; bare forearms upper chest and midriff, tiny rounded blue hair clasp."
+        },
+        {
+          "id": "custom",
+          "value": "Both complete hands inside the selected crop, attached naturally to their forearms, each hand one thumb and four clear separate fingers. Single clearly adult woman only. No weapons, text or logos."
+        },
+        {
+          "id": "axis-overall_intensity",
+          "value": "strong"
+        },
+        {
+          "id": "axis-skin_exposure",
+          "value": "bold"
+        },
+        {
+          "id": "axis-action_level",
+          "value": "AUTO"
+        },
+        {
+          "id": "axis-source_influence",
+          "value": "AUTO"
+        },
+        {
+          "id": "axis-separates_preference",
+          "value": "AUTO"
+        }
+      ],
+      "state": {
+        "last": "누오",
+        "cards": {
+          "이상해씨": {
+            "style": "cinematic_semi_real",
+            "identityMode": "create",
+            "form": "light",
+            "baseForm": "light",
+            "motifs": "",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {},
+            "locks": {},
+            "mode": "action",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          },
+          "누오": {
+            "style": "glossy_promo",
+            "identityMode": "reference",
+            "form": "overdrive",
+            "baseForm": "mobility",
+            "motifs": "Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs.",
+            "formOverride": "",
+            "headFeature": "",
+            "params": {
+              "apparent age": "20s",
+              "hair color": "teal",
+              "eye color": "amber",
+              "hairstyle": "straight",
+              "body type": "curvy"
+            },
+            "locks": {},
+            "mode": "casual",
+            "scenes": {
+              "action": {
+                "expr": "",
+                "pose": "",
+                "orient": "",
+                "scene": "On an empty riverside floodgate platform beneath bright overcast light, the adult woman faces camera in a calm front three-quarter grounded stance, both relaxed open hands away from hips; full head boots and drape included in vertical 1024x1536.",
+                "outfit": "",
+                "frame": "",
+                "lens": "",
+                "camera": "",
+                "custom": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.",
+                "aspect": "2:3",
+                "cat": "everyday_basic",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {},
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              },
+              "casual": {
+                "expr": "proud",
+                "pose": "mid_action",
+                "orient": "side",
+                "scene": "At an empty glass art studio in amber evening light, standing side-on assembling a small stained glass mosaic on a broad table, one hand carefully laying down a turquoise square and the other open on the opposite edge of the tray; face turned to camera, hands fully readable, no tool obscures fingers.",
+                "outfit": "Opaque navy short-sleeved cropped wrap work shirt with secure open collar and teal high-waisted skirt; bare forearms upper chest and midriff, tiny rounded blue hair clasp.",
+                "frame": "waist_up",
+                "lens": "portrait85",
+                "camera": "",
+                "custom": "Both complete hands inside the selected crop, attached naturally to their forearms, each hand one thumb and four clear separate fingers. Single clearly adult woman only. No weapons, text or logos.",
+                "aspect": "2:3",
+                "cat": "hobbies_leisure",
+                "catCustom": "",
+                "ex": "",
+                "exCustom": "",
+                "axes": {
+                  "overall_intensity": "strong",
+                  "skin_exposure": "bold"
+                },
+                "action": {
+                  "category": "",
+                  "example": "",
+                  "timing": "",
+                  "equipment": "",
+                  "power": "",
+                  "effects": "",
+                  "speed": "",
+                  "environment": ""
+                },
+                "randomLocks": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible",
+    "byte_size": 335278
+  }
+]

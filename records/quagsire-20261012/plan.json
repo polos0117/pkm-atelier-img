@@ -1,0 +1,61 @@
+{
+  "name": "누오",
+  "slug": "quagsire",
+  "hair": "teal",
+  "eye": "amber",
+  "cut": "straight",
+  "body": "curvy",
+  "wear": "Soft turquoise enamel armor with rounded broad plate contours, pale blue chest panels and navy dorsal ridge motifs translated into a gently scalloped shoulder collar and short back waist drape. Human face and skin; no animal muzzle or limbs.",
+  "light": "On an empty riverside floodgate platform beneath bright overcast light, the adult woman faces camera in a calm front three-quarter grounded stance, both relaxed open hands away from hips; full head boots and drape included in vertical 1024x1536.",
+  "casual": [
+    [
+      "swimwear",
+      "relieved",
+      "walking",
+      "front_3q",
+      "environmental",
+      "wide24",
+      "At an empty volcanic beach in golden sunrise, walking slowly out of ankle-deep clear water toward the sand with both relaxed empty hands by her sides, complete head and feet visible; broad shore and dark rock columns in background.",
+      "Opaque fully lined turquoise asymmetric one-shoulder swimsuit with a secure diagonal neckline, navy side bands and narrow side waist opening; full chest and pelvis coverage, bare arms legs and shoulder, small amber pendant."
+    ],
+    [
+      "homewear",
+      "sleepy",
+      "sitting_floor",
+      "front",
+      "three_quarter",
+      "telephoto135",
+      "Inside a bright private sunroom during quiet late morning, sitting sideways on a woven floor cushion beside a low record player, one open hand resting on the cushion away from her leg and the other lightly touching the player lid. Head to knees and both complete hands visible, soft window stripes.",
+      "Opaque pale blue satin sleeveless camisole with broad straps and secure neckline, navy loose lounge shorts with a drawstring waistband, bare arms upper chest legs and small midriff, tiny teal earrings."
+    ],
+    [
+      "hobbies_leisure",
+      "proud",
+      "mid_action",
+      "side",
+      "waist_up",
+      "portrait85",
+      "At an empty glass art studio in amber evening light, standing side-on assembling a small stained glass mosaic on a broad table, one hand carefully laying down a turquoise square and the other open on the opposite edge of the tray; face turned to camera, hands fully readable, no tool obscures fingers.",
+      "Opaque navy short-sleeved cropped wrap work shirt with secure open collar and teal high-waisted skirt; bare forearms upper chest and midriff, tiny rounded blue hair clasp."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "왕콘치",
+      "왕자리",
+      "해루미",
+      "우파"
+    ],
+    "scope": "Read three recent plans and all nine submitted casual prompts; compare earlier characters in this batch.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
