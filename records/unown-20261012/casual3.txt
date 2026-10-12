@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Unown (안농) personified, psychic type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: gaze angled down and away, slightly furrowed brow, lips lightly pressed or touched
+Pose: Sit naturally on a chair or bench with supported feet and readable hands.
+Orientation: seated with supported pelvis and a natural torso twist
+Scene: In an empty intimate vinyl listening booth on a snowy noon, seated with a slight torso twist toward camera, listening through plain headphones while one whole hand rests on the edge of a record sleeve and the other rests separately beside a turntable. No lettering on records or equipment, snowy window light and muted warm wood, waist-up and both hands visible.
+Outfit and props: Opaque black sleeveless square-neck cropped knit vest over a charcoal high-waisted pleated midi skirt, ivory short open cardigan draped behind shoulders, tiny white hoop earrings. Bare shoulders arms and narrow midriff, ordinary personal-life clothing, no armor.
+Category: Depict ordinary personal-life moments rather than occupation, costume, or formal editorial shoots. Keep them candid, believable, visually varied, and attractive without becoming too plain.
+Note: EDIT TARGET: first attachment is the finished vinyl listening casual3 image; second is the approved light image for identity. Change only her LEFT hand on the viewer-right side and its immediately connected forearm: place that whole hand naturally resting on the turntable top further inside the frame, with wrist, thumb and four distinct fingers all visible and at least 40 pixels from the right edge. No fingertip may touch the image border. Keep face, hair, body, clothing, other hand, scene, framing, camera and lighting exactly unchanged. 1024x1536.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

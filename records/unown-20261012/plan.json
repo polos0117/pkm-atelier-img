@@ -1,0 +1,83 @@
+{
+  "name": "안농",
+  "style": "glossy_promo",
+  "canonical": "안농_light_glossy_promo_f.webp",
+  "comparison": {
+    "reviewed": [
+      "야도킹 plan and submitted prompts",
+      "에레브 submitted prompts",
+      "니로우 plan and submitted prompts",
+      "무우마 current batch"
+    ],
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "casual": [
+    {
+      "key": "casual1",
+      "ui": {
+        "category": "lingerie",
+        "expression": "confident",
+        "pose": "leaning_furniture",
+        "orientation": "low_angle",
+        "frame": "three_quarter",
+        "lens": "portrait85"
+      },
+      "expression": "level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed",
+      "pose": "Rest a hand or forearm on a table, counter or railing in a relaxed supported pose.",
+      "orientation": "camera below subject looking upward; obey selected framing",
+      "scene": "On the empty marble landing of a modern glass atrium at blue evening, leaning lightly against a balustrade with both relaxed open hands resting separately along it. Camera slightly below eye level from a distance, head to knees, cool city lights and warm architectural uplights, no reflections of people.",
+      "outfit": "Fully opaque structured black satin longline bandeau corset with secure lined chest and ivory high-waisted wrap maxi skirt with a tasteful side slit; a small white ring pendant and a loose sheer cropped shrug around the elbows. Bare shoulders arms midriff and one lower leg, mainstream lingerie-inspired fashion editorial, no armor.",
+      "category": "Use tasteful adult lingerie-inspired evening fashion with full intimate coverage. Describe the garment by its construction — cut, fabric, trim, straps, closures, layers — rather than by mood words. The garments are securely fitted and fully opaque, and the look is suitable for a mainstream evening-fashion editorial. Build the image through framing, silhouette, posture, and lighting rather than exposure.",
+      "framing": "Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.",
+      "lens": "85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression."
+    },
+    {
+      "key": "casual2",
+      "ui": {
+        "category": "travel_exploration",
+        "expression": "curious",
+        "pose": "squatting",
+        "orientation": "front_3q",
+        "frame": "environmental",
+        "lens": "wide24"
+      },
+      "expression": "one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted",
+      "pose": "Squat comfortably to interact at a lower height with balanced feet.",
+      "orientation": "front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together",
+      "scene": "At an empty black basalt coastline in bright windy morning, crouching safely beside a tide pool to photograph its abstract mineral ripples with a small plain camera. Both hands fully visible, one holding the camera from the side and the other relaxed on her bent knee. Complete figure and boots, distant ocean and basalt columns, no animals or other people.",
+      "outfit": "Opaque ivory short-sleeved tied waist travel blouse with secure neckline, black high-waisted hiking shorts, gray sturdy ankle boots and a small ring-shaped zipper pull. Bare forearms midriff and legs, practical contemporary travel clothes, no armor.",
+      "category": "Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.",
+      "framing": "Environmental long shot: show the complete woman and enough surroundings to establish the activity and location.",
+      "lens": "24mm-equivalent wide-angle impression with spacious environmental depth; use enough camera distance to avoid stretching the face or limbs."
+    },
+    {
+      "key": "casual3",
+      "ui": {
+        "category": "daily_life",
+        "expression": "pensive",
+        "pose": "sitting",
+        "orientation": "seated_twist",
+        "frame": "waist_up",
+        "lens": "natural50"
+      },
+      "expression": "gaze angled down and away, slightly furrowed brow, lips lightly pressed or touched",
+      "pose": "Sit naturally on a chair or bench with supported feet and readable hands.",
+      "orientation": "seated with supported pelvis and a natural torso twist",
+      "scene": "In an empty intimate vinyl listening booth on a snowy noon, seated with a slight torso twist toward camera, listening through plain headphones while one whole hand rests on the edge of a record sleeve and the other rests separately beside a turntable. No lettering on records or equipment, snowy window light and muted warm wood, waist-up and both hands visible.",
+      "outfit": "Opaque black sleeveless square-neck cropped knit vest over a charcoal high-waisted pleated midi skirt, ivory short open cardigan draped behind shoulders, tiny white hoop earrings. Bare shoulders arms and narrow midriff, ordinary personal-life clothing, no armor.",
+      "category": "Depict ordinary personal-life moments rather than occupation, costume, or formal editorial shoots. Keep them candid, believable, visually varied, and attractive without becoming too plain.",
+      "framing": "Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.",
+      "lens": "50mm-equivalent natural perspective with balanced proportions and modest depth compression."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "verification": "Actual generator UI options selected and submitted prompts read before each image. Casual3 viewer-right hand corrected before accepting."
+}

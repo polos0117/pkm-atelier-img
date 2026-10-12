@@ -1,0 +1,262 @@
+{
+  "assets": [
+    {
+      "key": "light",
+      "record": "unown-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-1ec658e1-6906-4232-b395-871c0282756b.png",
+      "filename": "안농_light_glossy_promo_f.webp",
+      "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Unown (안농), psychic type.\n\nPALETTE: black.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Misdreavus as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): The single circular eye motif becomes a white annular lens with black center set into the chest plate and small ring earrings; abstract curved black segments become non-letter-shaped armor edging. No written symbols or letters; her face has two normal human eyes..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: 1024x1536. Full figure fills 88% image height, small margins above head and below boots; same subject scale across armor forms. Black graphite and ivory armor, short straight charcoal bob haircut, pale silver-gray human eyes. Empty geometric stone sanctuary in overcast daylight, soft violet accents, both empty gloved hands relaxed with five separate digits. No weapon.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.",
+      "reference": [],
+      "ui_selected": {
+        "source": "0201 · 안농",
+        "style": "glossy_promo",
+        "mode": "action",
+        "form": "light",
+        "base_form": null
+      },
+      "axes": null,
+      "source_sha256": "fc6d8f0877bbef2e2190797ea2ac1793133465a4d679218cd6f7ea893cf751b3",
+      "sha256": "488502dd8239925333efd3fda3d461d39c18db0be15318f0451534813a3bbfd9",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "heavy",
+      "record": "unown-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-2aeb1ec8-83e1-4340-b232-393e9353a6ed.png",
+      "filename": "안농_heavy_glossy_promo_f.webp",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Unown (안농), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nMOTIFS to keep: The single circular eye motif becomes a white annular lens with black center set into the chest plate and small ring earrings; abstract curved black segments become non-letter-shaped armor edging. No written symbols or letters; her face has two normal human eyes..\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: 1024x1536. Maintain light-card subject scale, head and boots fully visible with small margins, approximately 88% image height. Same empty geometric stone sanctuary. Steady braced front-facing stance, both empty hands relaxed away from hips and fully visible. No weapon.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "reference": [
+        "안농_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "source": "0201 · 안농",
+        "style": "glossy_promo",
+        "mode": "action",
+        "form": "heavy",
+        "base_form": null
+      },
+      "axes": null,
+      "source_sha256": "9910f2580d5ca5269c6a5172d062f59e2a05b0489c37ca31948db7ba4a266462",
+      "sha256": "df4358cabda407b9dd1235f5515a3dd6b27dafbb6c2c66c0cda9d62867ae3d96",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "mobility",
+      "record": "unown-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-7fb195aa-b904-41cb-a86a-24bd31a6312b.png",
+      "filename": "안농_mobility_glossy_promo_f.webp",
+      "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Unown (안농), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nMOTIFS to keep: The single circular eye motif becomes a white annular lens with black center set into the chest plate and small ring earrings; abstract curved black segments become non-letter-shaped armor edging. No written symbols or letters; her face has two normal human eyes..\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nNote: 1024x1536. Maintain light-card subject scale, head and boots fully visible with small margins, approximately 88% image height. Same empty geometric stone sanctuary. Balanced light sidestep facing camera, both empty hands relaxed away from hips and fully visible. Compact propulsion, no giant wings or weapons.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+      "reference": [
+        "안농_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "source": "0201 · 안농",
+        "style": "glossy_promo",
+        "mode": "action",
+        "form": "mobility",
+        "base_form": null
+      },
+      "axes": null,
+      "source_sha256": "129512279fc9b632c59fb5e86b950c9ef189ceaa7ecbeb406b2d95170bf26f22",
+      "sha256": "5494c8b8d9b3eb86d56cba2ed3c7b7bc7dd48c87bed7e6a902fb6762a744c18a",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "light_overdrive",
+      "record": "unown-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-e27844a1-5cb7-4e74-8c76-2dfb7eeb43ff.png",
+      "filename": "안농_light_overdrive_glossy_promo_f.webp",
+      "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Unown (안농), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a magenta glow with floating rings of light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "reference": [
+        "안농_light_glossy_promo_f.webp",
+        "안농_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "source": "0201 · 안농",
+        "style": "glossy_promo",
+        "mode": "action",
+        "form": "overdrive",
+        "base_form": "light"
+      },
+      "axes": null,
+      "source_sha256": "9a0fa8c5354aaa5d124363321472af409310736765ebcc99f945b0ee499dd7d7",
+      "sha256": "877d8cefac0f9a32a3bef0ededb315d7e761d2468511e6dd9effe32a87e56724",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "heavy_overdrive",
+      "record": "unown-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-9b00f20d-402c-45be-854a-1ae4c5c5f56f.png",
+      "filename": "안농_heavy_overdrive_glossy_promo_f.webp",
+      "prompt": "INPUT: attach this character's heavy-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Unown (안농), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the stacked outer plates swing away from the inner layer on their hinges, leaving wide air gaps, revealing the inner frame, and a magenta glow with floating rings of light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "reference": [
+        "안농_heavy_glossy_promo_f.webp",
+        "안농_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "source": "0201 · 안농",
+        "style": "glossy_promo",
+        "mode": "action",
+        "form": "overdrive",
+        "base_form": "heavy"
+      },
+      "axes": null,
+      "source_sha256": "42a533536b74d8cbc16a2a08687cf558f07d559a6ebb43ae9391386b83dc584c",
+      "sha256": "7bef8f8d460aea0599e4d3e7045927b359120e414ebcd0bde74006446dc85e27",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "mobility_overdrive",
+      "record": "unown-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-940b9178-651e-4a9b-bc37-177746815bae.png",
+      "filename": "안농_mobility_overdrive_glossy_promo_f.webp",
+      "prompt": "INPUT: attach this character's mobility-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Unown (안농), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the fanned panels spread further and their thruster covers open, revealing the inner frame, and a magenta glow with floating rings of light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+      "reference": [
+        "안농_mobility_glossy_promo_f.webp",
+        "안농_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "source": "0201 · 안농",
+        "style": "glossy_promo",
+        "mode": "action",
+        "form": "overdrive",
+        "base_form": "mobility"
+      },
+      "axes": null,
+      "source_sha256": "4c10d2ece160f25a4bca8ee2503b7327ed0dcf5deec18ed44c4a29a7d0ccb802",
+      "sha256": "aa0c917bfbe7a000948735715278b625690336876384187088bcc766e76a5e72",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "casual1",
+      "record": "unown-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-79009167-4cba-4dce-8582-7e281e4a08ce.png",
+      "filename": "안농_glossy_promo_f_casual1.webp",
+      "prompt": "CHARACTER: the same woman as the attached image — Unown (안농) personified, psychic type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed\nPose: Rest a hand or forearm on a table, counter or railing in a relaxed supported pose.\nOrientation: camera below subject looking upward; obey selected framing\nScene: On the empty marble landing of a modern glass atrium at blue evening, leaning lightly against a balustrade with both relaxed open hands resting separately along it. Camera slightly below eye level from a distance, head to knees, cool city lights and warm architectural uplights, no reflections of people.\nOutfit and props: Fully opaque structured black satin longline bandeau corset with secure lined chest and ivory high-waisted wrap maxi skirt with a tasteful side slit; a small white ring pendant and a loose sheer cropped shrug around the elbows. Bare shoulders arms midriff and one lower leg, mainstream lingerie-inspired fashion editorial, no armor.\nCategory: Use tasteful adult lingerie-inspired evening fashion with full intimate coverage. Describe the garment by its construction — cut, fabric, trim, straps, closures, layers — rather than by mood words. The garments are securely fitted and fully opaque, and the look is suitable for a mainstream evening-fashion editorial. Build the image through framing, silhouette, posture, and lighting rather than exposure.\nNote: 1024x1536. One adult woman in her twenties, same approved light identity. Both whole hands attached naturally to their own forearms, five clearly separated digits each. No text or logos.\nFraming: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "reference": [
+        "안농_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "category": "lingerie",
+        "expression": "confident",
+        "pose": "leaning_furniture",
+        "orientation": "low_angle",
+        "frame": "three_quarter",
+        "lens": "portrait85"
+      },
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "source_sha256": "33f2d80847ec6ed13e2891df08af13b0c65e4c7723e8503d9b37624295bb79a7",
+      "sha256": "033399015f321fc399c3ca5296038538813b3f503677fb013be996cd237ac101",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "casual2",
+      "record": "unown-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-e513d231-b53f-45e7-9ef2-a5cfa95882b2.png",
+      "filename": "안농_glossy_promo_f_casual2.webp",
+      "prompt": "CHARACTER: the same woman as the attached image — Unown (안농) personified, psychic type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted\nPose: Squat comfortably to interact at a lower height with balanced feet.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: At an empty black basalt coastline in bright windy morning, crouching safely beside a tide pool to photograph its abstract mineral ripples with a small plain camera. Both hands fully visible, one holding the camera from the side and the other relaxed on her bent knee. Complete figure and boots, distant ocean and basalt columns, no animals or other people.\nOutfit and props: Opaque ivory short-sleeved tied waist travel blouse with secure neckline, black high-waisted hiking shorts, gray sturdy ankle boots and a small ring-shaped zipper pull. Bare forearms midriff and legs, practical contemporary travel clothes, no armor.\nCategory: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.\nNote: 1024x1536. One adult woman in her twenties, same approved light identity. Both whole hands attached naturally to their own forearms, five clearly separated digits each. No text or logos.\nFraming: Environmental long shot: show the complete woman and enough surroundings to establish the activity and location.\nLens / perspective: 24mm-equivalent wide-angle impression with spacious environmental depth; use enough camera distance to avoid stretching the face or limbs.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "reference": [
+        "안농_light_glossy_promo_f.webp"
+      ],
+      "ui_selected": {
+        "category": "travel_exploration",
+        "expression": "curious",
+        "pose": "squatting",
+        "orientation": "front_3q",
+        "frame": "environmental",
+        "lens": "wide24"
+      },
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "source_sha256": "cdf8fa5173831598f47084e42b4543fce653291a3fd17622139c599e544f48e1",
+      "sha256": "1e4f2c96d3e1ce899128f28e3f4d1615495f416a767a13a5788ef7f35637ac6c",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    },
+    {
+      "key": "casual3",
+      "record": "unown-20261012",
+      "source": "/workspace/scratch/843646e82253/generated_images/exec-966f14e9-b57e-4f1a-8fc8-04b8e1f462eb.png",
+      "filename": "안농_glossy_promo_f_casual3.webp",
+      "prompt": "CHARACTER: the same woman as the attached image — Unown (안농) personified, psychic type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: gaze angled down and away, slightly furrowed brow, lips lightly pressed or touched\nPose: Sit naturally on a chair or bench with supported feet and readable hands.\nOrientation: seated with supported pelvis and a natural torso twist\nScene: In an empty intimate vinyl listening booth on a snowy noon, seated with a slight torso twist toward camera, listening through plain headphones while one whole hand rests on the edge of a record sleeve and the other rests separately beside a turntable. No lettering on records or equipment, snowy window light and muted warm wood, waist-up and both hands visible.\nOutfit and props: Opaque black sleeveless square-neck cropped knit vest over a charcoal high-waisted pleated midi skirt, ivory short open cardigan draped behind shoulders, tiny white hoop earrings. Bare shoulders arms and narrow midriff, ordinary personal-life clothing, no armor.\nCategory: Depict ordinary personal-life moments rather than occupation, costume, or formal editorial shoots. Keep them candid, believable, visually varied, and attractive without becoming too plain.\nNote: EDIT TARGET: first attachment is the finished vinyl listening casual3 image; second is the approved light image for identity. Change only her LEFT hand on the viewer-right side and its immediately connected forearm: place that whole hand naturally resting on the turntable top further inside the frame, with wrist, thumb and four distinct fingers all visible and at least 40 pixels from the right edge. No fingertip may touch the image border. Keep face, hair, body, clothing, other hand, scene, framing, camera and lighting exactly unchanged. 1024x1536.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.",
+      "reference": [
+        "안농_light_glossy_promo_f.webp"
+      ],
+      "edit_target": "/workspace/scratch/843646e82253/generated_images/exec-187fac5b-e487-434e-a948-658aec140fed.png",
+      "correction": "moved viewer-right hand inside frame while keeping scene and identity",
+      "ui_selected": {
+        "category": "daily_life",
+        "expression": "pensive",
+        "pose": "sitting",
+        "orientation": "seated_twist",
+        "frame": "waist_up",
+        "lens": "natural50"
+      },
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "source_sha256": "11f7d0cab3916e98d8e565f83c7e139c413f70605e4a5142602448b8e45ab022",
+      "sha256": "433cae44df23bfe414fe118b28fe117adf8280fd4f07e2dcd2032678969e4b46",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "status": "visually reviewed: identity, hands, framing, no text; pending push",
+      "tool": "built-in imagegen"
+    }
+  ]
+}
