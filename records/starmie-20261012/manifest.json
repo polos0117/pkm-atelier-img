@@ -1,0 +1,164 @@
+[
+  {
+    "card": "아쿠스타",
+    "slot": "light",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-176e0c0f-0120-4a76-8965-d61651cc84c6.png",
+    "filename": "아쿠스타_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "7f012ed1bde0ada28d116d51b3c369a85655c3584a504dd1ef40d7ca7ae0d0eb",
+    "original_sha256": "6be57b31260ebba60d21f4d79fa5276d7467a08ca84d8d5dd924118f04a8b342",
+    "reference_slot": null,
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "아쿠스타",
+    "slot": "heavy",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-8e2b6103-1897-4217-8d4c-cb3d61bccf30.png",
+    "filename": "아쿠스타_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "c71b139b40772a9f4b7fe008dec175d4097e20c47b5faa87648cfb7201de4e46",
+    "original_sha256": "99785b15a5bd16ab706890f833648e9f9f73f4cf59b8b819669883d21a5e8922",
+    "reference_slot": "light",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "아쿠스타",
+    "slot": "mobility",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-cfc7544f-b78f-42e1-8b8b-eff35b4d4fcd.png",
+    "filename": "아쿠스타_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "19826bac0d5be0ccf32e2da8177f2949caf324e4c2605035e7f97d89f40a1fe4",
+    "original_sha256": "bb248eb599b74eade713a3d8c1e9a47d93c2400b8d90a8e16c03786978125931",
+    "reference_slot": "light",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "아쿠스타",
+    "slot": "light_overdrive",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-8299961a-a389-4652-ad21-b03d9555be84.png",
+    "filename": "아쿠스타_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "62fc5219e38e511ed9c0fe6987efecaf8597cee350f57f1e30f2857f9d2d9c11",
+    "original_sha256": "bc4fa32d7a3ecd00d09af23f62b5713be0a28ed95509b871d1c25f3d1485719d",
+    "reference_slot": "light",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "아쿠스타",
+    "slot": "heavy_overdrive",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-a22c1c15-d617-437c-8e54-2ad80d36e13d.png",
+    "filename": "아쿠스타_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "38818d0aca3ca6da082bc9f54940dcc9dfbf5bfa3894ec8436b244e7e793e774",
+    "original_sha256": "6d6ea98722f23e395438fdfbab9f3d80e45e021332b196736b7e7318fdc62e6b",
+    "reference_slot": "heavy",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "아쿠스타",
+    "slot": "mobility_overdrive",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-642c2806-4fa0-498d-9924-1be7c6f99e35.png",
+    "filename": "아쿠스타_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "da98f11d083bf7059d307d88c9c8053a4f3d15fa2395799407bff7ee16e64ec0",
+    "original_sha256": "4989b66c0a6130876ade4f7b3fbbacef4a2b2b3b69700f88cc619995e3ecd209",
+    "reference_slot": "mobility",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "아쿠스타",
+    "slot": "casual1",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-535292e9-55cc-443b-a5c6-05585a00ac9a.png",
+    "filename": "아쿠스타_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "7ed0a4bca8ed5bd1757bef477fa8bf2a506a71eb1db08c2840a2ef6d46e3fd34",
+    "original_sha256": "fb62543f70cf42f6e386dfabecff6b6fdc8574fd084c5de06b2f6d958cdd6c90",
+    "reference_slot": "light",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "아쿠스타",
+    "slot": "casual2",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-50cce07e-0df7-4a70-bb1a-a701895ae9f1.png",
+    "filename": "아쿠스타_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "87c5138ac60075bf3a851c4793457df3656f41fd6013e3398cfb660485d7bb94",
+    "original_sha256": "dec42b5d2a7f4c49cf28cab7217b5638590e356ceec05fca90c4a91a288520f3",
+    "reference_slot": "light",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "아쿠스타",
+    "slot": "casual3",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-ea5c0dd7-f00c-45b2-9a48-307b280b541b.png",
+    "filename": "아쿠스타_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "eb23fe01c8af291c27a1506fc05cd7bb8272011d42997fb9424eec19621cee2a",
+    "original_sha256": "2307aa7821457e72a89a19d9f412b9cc5bd424937a89a90013e6a2e1fa091f2f",
+    "reference_slot": "light",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  }
+]

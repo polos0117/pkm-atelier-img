@@ -1,0 +1,279 @@
+{
+  "method": "Actual Preact generator controls via repository DOM harness",
+  "ui": [
+    {
+      "id": "search",
+      "value": ""
+    },
+    {
+      "id": "group",
+      "value": "",
+      "label": "전체"
+    },
+    {
+      "id": "source",
+      "value": "아쿠스타",
+      "label": "0121 · 아쿠스타"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo",
+      "label": "글로시 프로모 키아트"
+    },
+    {
+      "id": "identity-mode",
+      "value": "reference",
+      "label": "확정한 이미지 이어가기"
+    },
+    {
+      "id": "form",
+      "value": "heavy",
+      "label": "중장"
+    },
+    {
+      "id": "form-override",
+      "value": ""
+    },
+    {
+      "id": "motifs",
+      "value": ""
+    },
+    {
+      "id": "expression",
+      "value": "",
+      "label": "AUTO — 자동"
+    },
+    {
+      "id": "action-category",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-example",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-timing",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-equipment",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-power",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-effects",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-speed",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-environment",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "pose",
+      "value": "braced_stance",
+      "label": "묵직하게 버티기"
+    },
+    {
+      "id": "orientation",
+      "value": "",
+      "label": "AUTO — 자동"
+    },
+    {
+      "id": "frame",
+      "value": "",
+      "label": "자동 — 장면에 맞게"
+    },
+    {
+      "id": "lens",
+      "value": "",
+      "label": "자동 — 장면에 맞게"
+    },
+    {
+      "id": "aspect",
+      "value": "2:3",
+      "label": "2:3"
+    },
+    {
+      "id": "camera",
+      "value": ""
+    },
+    {
+      "id": "scene",
+      "value": "An empty coastal technological plaza, full body with clear head and boot margins, both open hands unobstructed and separated, face toward camera. 1024x1536."
+    },
+    {
+      "id": "outfit",
+      "value": ""
+    },
+    {
+      "id": "custom",
+      "value": "Both entire hands clearly visible, connected to their own forearms, each with one thumb and four distinct natural fingers. No weapon. 1024x1536 portrait canvas."
+    }
+  ],
+  "storage": {
+    "last": "아쿠스타",
+    "cards": {
+      "이상해씨": {
+        "style": "cinematic_semi_real",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {},
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "아쿠스타": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "heavy",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "hair color": "purple",
+          "eye color": "purple",
+          "hairstyle": "straight",
+          "body type": "slender"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "braced_stance",
+            "orient": "",
+            "scene": "An empty coastal technological plaza, full body with clear head and boot margins, both open hands unobstructed and separated, face toward camera. 1024x1536.",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "Both entire hands clearly visible, connected to their own forearms, each with one thumb and four distinct natural fingers. No weapon. 1024x1536 portrait canvas.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  }
+}

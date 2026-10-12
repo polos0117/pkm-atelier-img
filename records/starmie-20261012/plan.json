@@ -1,0 +1,61 @@
+{
+  "name": "아쿠스타",
+  "slug": "starmie",
+  "hair": "purple",
+  "eye": "purple",
+  "cut": "straight",
+  "body": "slender",
+  "wear": "Two overlapping five-pointed purple stars become offset star-shaped shoulder collar plates and pointed split waist drapes; a ruby chest gemstone in a gold circular bezel and a small purple star circlet. Human skin and unobstructed human face, no creature shape or extra limbs.",
+  "light": "In an empty futuristic ocean research plaza at blue twilight, adult woman in poised forward three-quarter stance, purple slim star-edged plates and gold ruby chest gem, both empty hands open away from hips. Entire head and boots inside 1024x1536 with clear margins.",
+  "casual": [
+    [
+      "hobbies_leisure",
+      "focused",
+      "leaning_furniture",
+      "high_angle",
+      "waist_up",
+      "portrait85",
+      "Inside a small stained-glass studio in bright winter afternoon, leaning gently over a light table, arranging two separate purple glass fragments with her relaxed hands. Both hands fully visible beside the fragments, slight overhead camera shows face and glowing geometric glass.",
+      "Opaque plum sleeveless fitted wrap top with secure V neckline and narrow side-waist cutout, charcoal high-waisted trousers. Bare shoulders arms and narrow waist, tiny ruby stud earrings."
+    ],
+    [
+      "swimwear",
+      "relieved",
+      "mid_stride",
+      "front_3q",
+      "full_body",
+      "wide24",
+      "At an empty public black-sand cove at peach dawn, taking a relaxed step out of ankle-deep water, both arms loosely extended away from torso, open hands clearly visible. Whole head and bare feet, rippled water and basalt cliffs.",
+      "Opaque fully lined violet asymmetric one-shoulder one-piece swimsuit with secure bust and pelvic panels, a small gold side buckle and ruby accent. Bare shoulders arms side waist and legs, elegant athletic swimwear."
+    ],
+    [
+      "festivals_contests",
+      "soft_smile",
+      "perched_seat",
+      "side",
+      "three_quarter",
+      "telephoto135",
+      "At an empty outdoor planetarium festival terrace at night, perched on a stone bench, releasing a plain folded paper star from one open palm while the other hand rests separately on the bench. Side-facing torso with face turned toward viewer, head through knees, violet lantern glow.",
+      "Opaque midnight-purple halter evening mini dress with secure neckline and gold waist band, short ivory capelet resting behind shoulders. Bare arms shoulders upper back and legs, tiny ruby pendant."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "왕콘치",
+      "왕자리",
+      "해루미",
+      "별가사리"
+    ],
+    "scope": "Read plan.json and submitted casual prompts of the latest three completed characters on image main. Compare earlier characters of this batch.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

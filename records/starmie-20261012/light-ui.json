@@ -1,0 +1,444 @@
+{
+  "method": "Actual Preact generator controls via repository DOM harness",
+  "ui": [
+    {
+      "id": "search",
+      "value": ""
+    },
+    {
+      "id": "group",
+      "value": "",
+      "label": "전체"
+    },
+    {
+      "id": "source",
+      "value": "아쿠스타",
+      "label": "0121 · 아쿠스타"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo",
+      "label": "글로시 프로모 키아트"
+    },
+    {
+      "id": "identity-mode",
+      "value": "create",
+      "label": "새 인물 만들기"
+    },
+    {
+      "id": "form",
+      "value": "light",
+      "label": "경장"
+    },
+    {
+      "id": "form-override",
+      "value": ""
+    },
+    {
+      "id": "motifs",
+      "value": "Two overlapping five-pointed purple stars become offset star-shaped shoulder collar plates and pointed split waist drapes; a ruby chest gemstone in a gold circular bezel and a small purple star circlet. Human skin and unobstructed human face, no creature shape or extra limbs."
+    },
+    {
+      "id": "head-feature",
+      "value": "",
+      "label": "자동 — 원본 머리 특징에 맞춰"
+    },
+    {
+      "id": "param-apparent-age",
+      "value": "20s",
+      "label": "20s — 20대 성인"
+    },
+    {
+      "id": "param-facial-ethnicity",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-body-type",
+      "value": "slender",
+      "label": "Slender — 가늘고 슬림한 체형"
+    },
+    {
+      "id": "param-height-impression",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-shoulder-build",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-torso---chest-build",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-torso-length",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-waist---hip-silhouette",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-leg-proportion",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-lower-body-build",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-body-measurements--B-W-H-",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-facial-character",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-skin-tone",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-face-shape",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-eye-shape",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-eye-color",
+      "value": "purple",
+      "label": "Purple — 보라색"
+    },
+    {
+      "id": "param-second-eye-color",
+      "value": "",
+      "label": "양쪽 같은 색"
+    },
+    {
+      "id": "param-face-length",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-face-width",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-jaw---chin",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-eye-size",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-eye-tilt",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-nose-character",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-lips",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-hair-color",
+      "value": "purple",
+      "label": "Purple — 보라색"
+    },
+    {
+      "id": "param-hairstyle",
+      "value": "straight",
+      "label": "Straight — 곧은 생머리"
+    },
+    {
+      "id": "param-hair-length",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-bangs",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-hair-accent",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-hair-texture",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-hair-volume",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "param-parting",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "expression",
+      "value": "",
+      "label": "AUTO — 자동"
+    },
+    {
+      "id": "action-category",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-example",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-timing",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-equipment",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-power",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-effects",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-speed",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "action-environment",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "pose",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "orientation",
+      "value": "",
+      "label": "AUTO — 자동"
+    },
+    {
+      "id": "frame",
+      "value": "",
+      "label": "자동 — 장면에 맞게"
+    },
+    {
+      "id": "lens",
+      "value": "",
+      "label": "자동 — 장면에 맞게"
+    },
+    {
+      "id": "aspect",
+      "value": "2:3",
+      "label": "2:3"
+    },
+    {
+      "id": "camera",
+      "value": ""
+    },
+    {
+      "id": "scene",
+      "value": "In an empty futuristic ocean research plaza at blue twilight, adult woman in poised forward three-quarter stance, purple slim star-edged plates and gold ruby chest gem, both empty hands open away from hips. Entire head and boots inside 1024x1536 with clear margins."
+    },
+    {
+      "id": "outfit",
+      "value": ""
+    },
+    {
+      "id": "custom",
+      "value": "Both entire hands clearly visible, connected to their own forearms, each with one thumb and four distinct natural fingers. No weapon. 1024x1536 portrait canvas."
+    }
+  ],
+  "storage": {
+    "last": "아쿠스타",
+    "cards": {
+      "이상해씨": {
+        "style": "cinematic_semi_real",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {},
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "아쿠스타": {
+        "style": "glossy_promo",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "Two overlapping five-pointed purple stars become offset star-shaped shoulder collar plates and pointed split waist drapes; a ruby chest gemstone in a gold circular bezel and a small purple star circlet. Human skin and unobstructed human face, no creature shape or extra limbs.",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "hair color": "purple",
+          "eye color": "purple",
+          "hairstyle": "straight",
+          "body type": "slender"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "In an empty futuristic ocean research plaza at blue twilight, adult woman in poised forward three-quarter stance, purple slim star-edged plates and gold ruby chest gem, both empty hands open away from hips. Entire head and boots inside 1024x1536 with clear margins.",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "Both entire hands clearly visible, connected to their own forearms, each with one thumb and four distinct natural fingers. No weapon. 1024x1536 portrait canvas.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  }
+}

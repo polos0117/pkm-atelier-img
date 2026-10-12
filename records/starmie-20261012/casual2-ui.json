@@ -1,0 +1,263 @@
+{
+  "method": "Actual Preact generator controls via repository DOM harness",
+  "ui": [
+    {
+      "id": "search",
+      "value": ""
+    },
+    {
+      "id": "group",
+      "value": "",
+      "label": "전체"
+    },
+    {
+      "id": "source",
+      "value": "아쿠스타",
+      "label": "0121 · 아쿠스타"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo",
+      "label": "글로시 프로모 키아트"
+    },
+    {
+      "id": "motifs",
+      "value": ""
+    },
+    {
+      "id": "expression",
+      "value": "relieved",
+      "label": "relieved — 안도한"
+    },
+    {
+      "id": "category",
+      "value": "swimwear",
+      "label": "수영복 라이프스타일"
+    },
+    {
+      "id": "example",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "pose",
+      "value": "mid_stride",
+      "label": "걸음 중간"
+    },
+    {
+      "id": "orientation",
+      "value": "front_3q",
+      "label": "front three-quarter — 앞 3/4"
+    },
+    {
+      "id": "frame",
+      "value": "full_body",
+      "label": "전신"
+    },
+    {
+      "id": "lens",
+      "value": "wide24",
+      "label": "광각 · 24mm 느낌"
+    },
+    {
+      "id": "aspect",
+      "value": "2:3",
+      "label": "2:3"
+    },
+    {
+      "id": "camera",
+      "value": ""
+    },
+    {
+      "id": "scene",
+      "value": "At an empty public black-sand cove at peach dawn, taking a relaxed step out of ankle-deep water, both arms loosely extended away from torso, open hands clearly visible. Whole head and bare feet, rippled water and basalt cliffs."
+    },
+    {
+      "id": "outfit",
+      "value": "Opaque fully lined violet asymmetric one-shoulder one-piece swimsuit with secure bust and pelvic panels, a small gold side buckle and ruby accent. Bare shoulders arms side waist and legs, elegant athletic swimwear."
+    },
+    {
+      "id": "custom",
+      "value": "Both hands fully within selected crop and visibly joined to their own forearms, five distinct natural digits per hand. Single adult woman, no text or logos."
+    },
+    {
+      "id": "axis-overall_intensity",
+      "value": "strong",
+      "label": "가장 강함"
+    },
+    {
+      "id": "axis-skin_exposure",
+      "value": "bold",
+      "label": "많이"
+    },
+    {
+      "id": "axis-action_level",
+      "value": "AUTO",
+      "label": "자동"
+    },
+    {
+      "id": "axis-source_influence",
+      "value": "AUTO",
+      "label": "자동"
+    },
+    {
+      "id": "axis-separates_preference",
+      "value": "AUTO",
+      "label": "자동"
+    }
+  ],
+  "storage": {
+    "last": "아쿠스타",
+    "cards": {
+      "이상해씨": {
+        "style": "cinematic_semi_real",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {},
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "아쿠스타": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "hair color": "purple",
+          "eye color": "purple",
+          "hairstyle": "straight",
+          "body type": "slender"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "cross_step",
+            "orient": "",
+            "scene": "An empty coastal technological plaza, full body with clear head and boot margins, both open hands unobstructed and separated, face toward camera. 1024x1536.",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "Both entire hands clearly visible, connected to their own forearms, each with one thumb and four distinct natural fingers. No weapon. 1024x1536 portrait canvas.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "relieved",
+            "pose": "mid_stride",
+            "orient": "front_3q",
+            "scene": "At an empty public black-sand cove at peach dawn, taking a relaxed step out of ankle-deep water, both arms loosely extended away from torso, open hands clearly visible. Whole head and bare feet, rippled water and basalt cliffs.",
+            "outfit": "Opaque fully lined violet asymmetric one-shoulder one-piece swimsuit with secure bust and pelvic panels, a small gold side buckle and ruby accent. Bare shoulders arms side waist and legs, elegant athletic swimwear.",
+            "frame": "full_body",
+            "lens": "wide24",
+            "camera": "",
+            "custom": "Both hands fully within selected crop and visibly joined to their own forearms, five distinct natural digits per hand. Single adult woman, no text or logos.",
+            "aspect": "2:3",
+            "cat": "swimwear",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  }
+}

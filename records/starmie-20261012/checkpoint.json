@@ -1,0 +1,40 @@
+{
+  "character": "아쿠스타",
+  "canonical": {
+    "card": "아쿠스타",
+    "slot": "light",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-176e0c0f-0120-4a76-8965-d61651cc84c6.png",
+    "filename": "아쿠스타_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "7f012ed1bde0ada28d116d51b3c369a85655c3584a504dd1ef40d7ca7ae0d0eb",
+    "original_sha256": "6be57b31260ebba60d21f4d79fa5276d7467a08ca84d8d5dd924118f04a8b342",
+    "reference_slot": null,
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "images_main_commit": null,
+  "code_registration_commit": null,
+  "previous_character": {
+    "name": "별가사리",
+    "image_commit": "86e741c6f1ae018dfc59da987c0e47124d4a1646",
+    "repair_commit": "5710716a3988a4cc4bdcc409dc7dc51d057566d9",
+    "registration_commit": "75d3d73"
+  }
+}

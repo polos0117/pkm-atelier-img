@@ -1,0 +1,263 @@
+{
+  "method": "Actual Preact generator controls via repository DOM harness",
+  "ui": [
+    {
+      "id": "search",
+      "value": ""
+    },
+    {
+      "id": "group",
+      "value": "",
+      "label": "전체"
+    },
+    {
+      "id": "source",
+      "value": "아쿠스타",
+      "label": "0121 · 아쿠스타"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo",
+      "label": "글로시 프로모 키아트"
+    },
+    {
+      "id": "motifs",
+      "value": ""
+    },
+    {
+      "id": "expression",
+      "value": "focused",
+      "label": "focused — 집중"
+    },
+    {
+      "id": "category",
+      "value": "hobbies_leisure",
+      "label": "취미·느긋한 휴식"
+    },
+    {
+      "id": "example",
+      "value": "",
+      "label": "자동 — 이 갈래에 맞는 장면"
+    },
+    {
+      "id": "pose",
+      "value": "leaning_furniture",
+      "label": "가구에 기대기"
+    },
+    {
+      "id": "orientation",
+      "value": "high_angle",
+      "label": "high angle — 위에서 내려다본 각도"
+    },
+    {
+      "id": "frame",
+      "value": "waist_up",
+      "label": "허리 위"
+    },
+    {
+      "id": "lens",
+      "value": "portrait85",
+      "label": "준망원 · 85mm 느낌"
+    },
+    {
+      "id": "aspect",
+      "value": "2:3",
+      "label": "2:3"
+    },
+    {
+      "id": "camera",
+      "value": ""
+    },
+    {
+      "id": "scene",
+      "value": "Inside a small stained-glass studio in bright winter afternoon, leaning gently over a light table, arranging two separate purple glass fragments with her relaxed hands. Both hands fully visible beside the fragments, slight overhead camera shows face and glowing geometric glass."
+    },
+    {
+      "id": "outfit",
+      "value": "Opaque plum sleeveless fitted wrap top with secure V neckline and narrow side-waist cutout, charcoal high-waisted trousers. Bare shoulders arms and narrow waist, tiny ruby stud earrings."
+    },
+    {
+      "id": "custom",
+      "value": "Both hands fully within selected crop and visibly joined to their own forearms, five distinct natural digits per hand. Single adult woman, no text or logos."
+    },
+    {
+      "id": "axis-overall_intensity",
+      "value": "strong",
+      "label": "가장 강함"
+    },
+    {
+      "id": "axis-skin_exposure",
+      "value": "bold",
+      "label": "많이"
+    },
+    {
+      "id": "axis-action_level",
+      "value": "AUTO",
+      "label": "자동"
+    },
+    {
+      "id": "axis-source_influence",
+      "value": "AUTO",
+      "label": "자동"
+    },
+    {
+      "id": "axis-separates_preference",
+      "value": "AUTO",
+      "label": "자동"
+    }
+  ],
+  "storage": {
+    "last": "아쿠스타",
+    "cards": {
+      "이상해씨": {
+        "style": "cinematic_semi_real",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {},
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "아쿠스타": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "hair color": "purple",
+          "eye color": "purple",
+          "hairstyle": "straight",
+          "body type": "slender"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "cross_step",
+            "orient": "",
+            "scene": "An empty coastal technological plaza, full body with clear head and boot margins, both open hands unobstructed and separated, face toward camera. 1024x1536.",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "Both entire hands clearly visible, connected to their own forearms, each with one thumb and four distinct natural fingers. No weapon. 1024x1536 portrait canvas.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "focused",
+            "pose": "leaning_furniture",
+            "orient": "high_angle",
+            "scene": "Inside a small stained-glass studio in bright winter afternoon, leaning gently over a light table, arranging two separate purple glass fragments with her relaxed hands. Both hands fully visible beside the fragments, slight overhead camera shows face and glowing geometric glass.",
+            "outfit": "Opaque plum sleeveless fitted wrap top with secure V neckline and narrow side-waist cutout, charcoal high-waisted trousers. Bare shoulders arms and narrow waist, tiny ruby stud earrings.",
+            "frame": "waist_up",
+            "lens": "portrait85",
+            "camera": "",
+            "custom": "Both hands fully within selected crop and visibly joined to their own forearms, five distinct natural digits per hand. Single adult woman, no text or logos.",
+            "aspect": "2:3",
+            "cat": "hobbies_leisure",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  }
+}
