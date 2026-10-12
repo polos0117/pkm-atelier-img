@@ -1,21 +1,21 @@
 {
   "character": "에브이",
-  "status": "9 generated and visually reviewed, awaiting push",
+  "status": "LIGHT and LIGHT OPENED scale correction validated; ready to push",
   "canonical": {
     "slot": "light",
-    "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-8ce8506f-3ffb-4dcd-8e56-c86dc6102301.png",
+    "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-0d5a7a6c-ee9a-4b88-ae69-2547b203b49d.png",
     "filename": "에브이_light_glossy_promo_f.webp",
     "reference": [],
     "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Espeon (에브이), psychic type.\n\nPALETTE: lilac, red.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Espeon as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): Lilac pearlescent armor with thin violet seams; long triangular ear shapes become sleek paired headband ornaments, a small red forehead jewel sits on a slim diadem, the forked tail becomes a two-stream waist sash. Human face and skin, no creature ears or animal limbs..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On an empty pale marble meditation terrace under rose twilight, the adult woman faces camera in poised front three-quarter stance, both relaxed empty hands separated beside her waist; whole head triangular ornaments and boots with clear margins, vertical 1024x1536.\nNote: One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nhair color: lavender\neye color: purple\nhairstyle: straight — straight strands without waves\nbody type: slender — narrow frame and slim limbs, low soft-tissue volume\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\neye color consistency: both eyes are purple\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.\nCoverage clarification: clearly adult woman age 25. Entire torso, chest, pelvis and legs are covered by solid opaque nontransparent hard-surface armor over a fully closed high-collar undersuit. Ordinary game character armor with no exposed intimate anatomy, no sheer material. Keep the established source palette, ornaments, standing full-body card composition.",
     "correction_prompt": "Edit this adult Espeon light-form game card. Fix framing only: zoom the camera out approximately 8 percent, maintaining vertical 1024x1536. Include the ENTIRE two triangular headband ornaments and all hair, with at least 55 pixels of unobstructed sky above the highest pointed tip; include both boots with clear ground below. Preserve exactly the same adult woman's face, hair, eye color, body proportions, pose, every lilac armor plate, red jewels, two-stream waist sash, full opaque armor coverage, five-digit hands, rendering style and sunset marble scene. Do not redesign or replace any element, do not crop ornaments, no text, no weapons. The background naturally extends into added margins.",
-    "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/에브이_light_glossy_promo_f.webp",
+    "output": "/workspace/scratch/f0d6aa388ce2/deliverables/revisions/espeon-scale-fix-20261012/에브이_light_glossy_promo_f.webp",
     "size": [
       1024,
       1536
     ],
-    "byte_size": 439968,
+    "byte_size": 420952,
     "format": "WEBP",
-    "sha256": "cd6d95745a1d2959b394613cc6a5a47c0d4ec8a62a4ce452da9b8bb842a5ecf7",
+    "sha256": "680ea444951c50ade3ccdf586c63c6cecd1e5e53cc9555b077dee1d0a3f3ef96",
     "ui": {
       "controls": [
         {
@@ -407,24 +407,439 @@
         }
       }
     },
-    "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible"
+    "visual_review": "LIGHT anatomical height now matches HEAVY/MOBILITY. CLOSED and OPENED share framing; full head ornaments, boots and five-digit hands remain visible.",
+    "prior_versions": [
+      {
+        "slot": "light",
+        "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-8ce8506f-3ffb-4dcd-8e56-c86dc6102301.png",
+        "filename": "에브이_light_glossy_promo_f.webp",
+        "reference": [],
+        "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Espeon (에브이), psychic type.\n\nPALETTE: lilac, red.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Espeon as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): Lilac pearlescent armor with thin violet seams; long triangular ear shapes become sleek paired headband ornaments, a small red forehead jewel sits on a slim diadem, the forked tail becomes a two-stream waist sash. Human face and skin, no creature ears or animal limbs..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On an empty pale marble meditation terrace under rose twilight, the adult woman faces camera in poised front three-quarter stance, both relaxed empty hands separated beside her waist; whole head triangular ornaments and boots with clear margins, vertical 1024x1536.\nNote: One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nhair color: lavender\neye color: purple\nhairstyle: straight — straight strands without waves\nbody type: slender — narrow frame and slim limbs, low soft-tissue volume\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\neye color consistency: both eyes are purple\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.\nCoverage clarification: clearly adult woman age 25. Entire torso, chest, pelvis and legs are covered by solid opaque nontransparent hard-surface armor over a fully closed high-collar undersuit. Ordinary game character armor with no exposed intimate anatomy, no sheer material. Keep the established source palette, ornaments, standing full-body card composition.",
+        "correction_prompt": "Edit this adult Espeon light-form game card. Fix framing only: zoom the camera out approximately 8 percent, maintaining vertical 1024x1536. Include the ENTIRE two triangular headband ornaments and all hair, with at least 55 pixels of unobstructed sky above the highest pointed tip; include both boots with clear ground below. Preserve exactly the same adult woman's face, hair, eye color, body proportions, pose, every lilac armor plate, red jewels, two-stream waist sash, full opaque armor coverage, five-digit hands, rendering style and sunset marble scene. Do not redesign or replace any element, do not crop ornaments, no text, no weapons. The background naturally extends into added margins.",
+        "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/에브이_light_glossy_promo_f.webp",
+        "size": [
+          1024,
+          1536
+        ],
+        "byte_size": 439968,
+        "format": "WEBP",
+        "sha256": "cd6d95745a1d2959b394613cc6a5a47c0d4ec8a62a4ce452da9b8bb842a5ecf7",
+        "ui": {
+          "controls": [
+            {
+              "id": "search",
+              "value": ""
+            },
+            {
+              "id": "group",
+              "value": ""
+            },
+            {
+              "id": "source",
+              "value": "에브이"
+            },
+            {
+              "id": "style",
+              "value": "glossy_promo"
+            },
+            {
+              "id": "identity-mode",
+              "value": "create"
+            },
+            {
+              "id": "form",
+              "value": "light"
+            },
+            {
+              "id": "form-override",
+              "value": ""
+            },
+            {
+              "id": "motifs",
+              "value": "Lilac pearlescent armor with thin violet seams; long triangular ear shapes become sleek paired headband ornaments, a small red forehead jewel sits on a slim diadem, the forked tail becomes a two-stream waist sash. Human face and skin, no creature ears or animal limbs."
+            },
+            {
+              "id": "head-feature",
+              "value": ""
+            },
+            {
+              "id": "param-apparent-age",
+              "value": "20s"
+            },
+            {
+              "id": "param-facial-ethnicity",
+              "value": ""
+            },
+            {
+              "id": "param-body-type",
+              "value": "slender"
+            },
+            {
+              "id": "param-height-impression",
+              "value": ""
+            },
+            {
+              "id": "param-shoulder-build",
+              "value": ""
+            },
+            {
+              "id": "param-torso---chest-build",
+              "value": ""
+            },
+            {
+              "id": "param-torso-length",
+              "value": ""
+            },
+            {
+              "id": "param-waist---hip-silhouette",
+              "value": ""
+            },
+            {
+              "id": "param-leg-proportion",
+              "value": ""
+            },
+            {
+              "id": "param-lower-body-build",
+              "value": ""
+            },
+            {
+              "id": "param-body-measurements--B-W-H-",
+              "value": ""
+            },
+            {
+              "id": "param-facial-character",
+              "value": ""
+            },
+            {
+              "id": "param-skin-tone",
+              "value": ""
+            },
+            {
+              "id": "param-face-shape",
+              "value": ""
+            },
+            {
+              "id": "param-eye-shape",
+              "value": ""
+            },
+            {
+              "id": "param-eye-color",
+              "value": "purple"
+            },
+            {
+              "id": "param-second-eye-color",
+              "value": ""
+            },
+            {
+              "id": "param-face-length",
+              "value": ""
+            },
+            {
+              "id": "param-face-width",
+              "value": ""
+            },
+            {
+              "id": "param-jaw---chin",
+              "value": ""
+            },
+            {
+              "id": "param-eye-size",
+              "value": ""
+            },
+            {
+              "id": "param-eye-tilt",
+              "value": ""
+            },
+            {
+              "id": "param-nose-character",
+              "value": ""
+            },
+            {
+              "id": "param-lips",
+              "value": ""
+            },
+            {
+              "id": "param-hair-color",
+              "value": "lavender"
+            },
+            {
+              "id": "param-hairstyle",
+              "value": "straight"
+            },
+            {
+              "id": "param-hair-length",
+              "value": ""
+            },
+            {
+              "id": "param-bangs",
+              "value": ""
+            },
+            {
+              "id": "param-hair-accent",
+              "value": ""
+            },
+            {
+              "id": "param-hair-texture",
+              "value": ""
+            },
+            {
+              "id": "param-hair-volume",
+              "value": ""
+            },
+            {
+              "id": "param-parting",
+              "value": ""
+            },
+            {
+              "id": "expression",
+              "value": ""
+            },
+            {
+              "id": "action-category",
+              "value": ""
+            },
+            {
+              "id": "action-example",
+              "value": ""
+            },
+            {
+              "id": "action-timing",
+              "value": ""
+            },
+            {
+              "id": "action-equipment",
+              "value": ""
+            },
+            {
+              "id": "action-power",
+              "value": ""
+            },
+            {
+              "id": "action-effects",
+              "value": ""
+            },
+            {
+              "id": "action-speed",
+              "value": ""
+            },
+            {
+              "id": "action-environment",
+              "value": ""
+            },
+            {
+              "id": "pose",
+              "value": ""
+            },
+            {
+              "id": "orientation",
+              "value": ""
+            },
+            {
+              "id": "frame",
+              "value": ""
+            },
+            {
+              "id": "lens",
+              "value": ""
+            },
+            {
+              "id": "aspect",
+              "value": "2:3"
+            },
+            {
+              "id": "camera",
+              "value": ""
+            },
+            {
+              "id": "scene",
+              "value": "On an empty pale marble meditation terrace under rose twilight, the adult woman faces camera in poised front three-quarter stance, both relaxed empty hands separated beside her waist; whole head triangular ornaments and boots with clear margins, vertical 1024x1536."
+            },
+            {
+              "id": "outfit",
+              "value": ""
+            },
+            {
+              "id": "custom",
+              "value": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging."
+            }
+          ],
+          "state": {
+            "last": "에브이",
+            "cards": {
+              "이상해씨": {
+                "style": "cinematic_semi_real",
+                "identityMode": "create",
+                "form": "light",
+                "baseForm": "light",
+                "motifs": "",
+                "formOverride": "",
+                "headFeature": "",
+                "params": {},
+                "locks": {},
+                "mode": "action",
+                "scenes": {
+                  "action": {
+                    "expr": "",
+                    "pose": "",
+                    "orient": "",
+                    "scene": "",
+                    "outfit": "",
+                    "frame": "",
+                    "lens": "",
+                    "camera": "",
+                    "custom": "",
+                    "aspect": "2:3",
+                    "cat": "everyday_basic",
+                    "catCustom": "",
+                    "ex": "",
+                    "exCustom": "",
+                    "axes": {},
+                    "action": {
+                      "category": "",
+                      "example": "",
+                      "timing": "",
+                      "equipment": "",
+                      "power": "",
+                      "effects": "",
+                      "speed": "",
+                      "environment": ""
+                    },
+                    "randomLocks": {}
+                  },
+                  "casual": {
+                    "expr": "",
+                    "pose": "",
+                    "orient": "",
+                    "scene": "",
+                    "outfit": "",
+                    "frame": "",
+                    "lens": "",
+                    "camera": "",
+                    "custom": "",
+                    "aspect": "2:3",
+                    "cat": "everyday_basic",
+                    "catCustom": "",
+                    "ex": "",
+                    "exCustom": "",
+                    "axes": {},
+                    "action": {
+                      "category": "",
+                      "example": "",
+                      "timing": "",
+                      "equipment": "",
+                      "power": "",
+                      "effects": "",
+                      "speed": "",
+                      "environment": ""
+                    },
+                    "randomLocks": {}
+                  }
+                }
+              },
+              "에브이": {
+                "style": "glossy_promo",
+                "identityMode": "create",
+                "form": "light",
+                "baseForm": "light",
+                "motifs": "Lilac pearlescent armor with thin violet seams; long triangular ear shapes become sleek paired headband ornaments, a small red forehead jewel sits on a slim diadem, the forked tail becomes a two-stream waist sash. Human face and skin, no creature ears or animal limbs.",
+                "formOverride": "",
+                "headFeature": "",
+                "params": {
+                  "apparent age": "20s",
+                  "hair color": "lavender",
+                  "eye color": "purple",
+                  "hairstyle": "straight",
+                  "body type": "slender"
+                },
+                "locks": {},
+                "mode": "action",
+                "scenes": {
+                  "action": {
+                    "expr": "",
+                    "pose": "",
+                    "orient": "",
+                    "scene": "On an empty pale marble meditation terrace under rose twilight, the adult woman faces camera in poised front three-quarter stance, both relaxed empty hands separated beside her waist; whole head triangular ornaments and boots with clear margins, vertical 1024x1536.",
+                    "outfit": "",
+                    "frame": "",
+                    "lens": "",
+                    "camera": "",
+                    "custom": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.",
+                    "aspect": "2:3",
+                    "cat": "everyday_basic",
+                    "catCustom": "",
+                    "ex": "",
+                    "exCustom": "",
+                    "axes": {},
+                    "action": {
+                      "category": "",
+                      "example": "",
+                      "timing": "",
+                      "equipment": "",
+                      "power": "",
+                      "effects": "",
+                      "speed": "",
+                      "environment": ""
+                    },
+                    "randomLocks": {}
+                  },
+                  "casual": {
+                    "expr": "",
+                    "pose": "",
+                    "orient": "",
+                    "scene": "",
+                    "outfit": "",
+                    "frame": "",
+                    "lens": "",
+                    "camera": "",
+                    "custom": "",
+                    "aspect": "2:3",
+                    "cat": "everyday_basic",
+                    "catCustom": "",
+                    "ex": "",
+                    "exCustom": "",
+                    "axes": {},
+                    "action": {
+                      "category": "",
+                      "example": "",
+                      "timing": "",
+                      "equipment": "",
+                      "power": "",
+                      "effects": "",
+                      "speed": "",
+                      "environment": ""
+                    },
+                    "randomLocks": {}
+                  }
+                }
+              }
+            }
+          }
+        },
+        "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible"
+      }
+    ],
+    "revision": {
+      "reason": "User requested LIGHT scale match with HEAVY/MOBILITY",
+      "prompt": "Use case: precise-object-edit. Image 1 is the ONLY edit target: the Espeon LIGHT-form full-body card. Image 2 HEAVY and image 3 MOBILITY are scale references only, never copy their armor.\nChange ONLY the camera magnification of image 1. Enlarge the entire original picture uniformly by approximately 11 percent about the canvas center (512,768), keeping the final canvas 1024x1536. Match the adult woman's anatomical head size, body height and foot placement to the reference cards: top of actual hair about y=115-130, top of tallest head ornament about y=60-80, bottom of front boot about y=1480-1500. The complete two head ornaments, both entire hands, both boots and existing long fabric waist sash must fit, with natural margins. The woman should occupy the same scale as image 3, LIGHT must no longer look smaller.\nPreserve EXACTLY the original image 1 adult woman, face and expression, lavender hair, eye color, all body proportions, same pose and leg crossing, same LIGHT armor plates and thickness, red jewels and triangular headband ornaments, five fingers on each hand, waist streamers, materials and glossy anime style. No armor redesign, no additional layers or helmet. Maintain the sunset marble terrace and existing lighting while the view zooms in naturally. No text, logo, weapons or additional characters. Uniform camera zoom only; do not enlarge body parts individually.",
+      "before_blob": "eaf22f36eeb0de44c327d2ddffe85a3e349540c8"
+    }
   },
   "images": [
     {
       "slot": "light",
-      "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-8ce8506f-3ffb-4dcd-8e56-c86dc6102301.png",
+      "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-0d5a7a6c-ee9a-4b88-ae69-2547b203b49d.png",
       "filename": "에브이_light_glossy_promo_f.webp",
       "reference": [],
       "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Espeon (에브이), psychic type.\n\nPALETTE: lilac, red.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Espeon as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): Lilac pearlescent armor with thin violet seams; long triangular ear shapes become sleek paired headband ornaments, a small red forehead jewel sits on a slim diadem, the forked tail becomes a two-stream waist sash. Human face and skin, no creature ears or animal limbs..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On an empty pale marble meditation terrace under rose twilight, the adult woman faces camera in poised front three-quarter stance, both relaxed empty hands separated beside her waist; whole head triangular ornaments and boots with clear margins, vertical 1024x1536.\nNote: One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nhair color: lavender\neye color: purple\nhairstyle: straight — straight strands without waves\nbody type: slender — narrow frame and slim limbs, low soft-tissue volume\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\neye color consistency: both eyes are purple\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.\nCoverage clarification: clearly adult woman age 25. Entire torso, chest, pelvis and legs are covered by solid opaque nontransparent hard-surface armor over a fully closed high-collar undersuit. Ordinary game character armor with no exposed intimate anatomy, no sheer material. Keep the established source palette, ornaments, standing full-body card composition.",
       "correction_prompt": "Edit this adult Espeon light-form game card. Fix framing only: zoom the camera out approximately 8 percent, maintaining vertical 1024x1536. Include the ENTIRE two triangular headband ornaments and all hair, with at least 55 pixels of unobstructed sky above the highest pointed tip; include both boots with clear ground below. Preserve exactly the same adult woman's face, hair, eye color, body proportions, pose, every lilac armor plate, red jewels, two-stream waist sash, full opaque armor coverage, five-digit hands, rendering style and sunset marble scene. Do not redesign or replace any element, do not crop ornaments, no text, no weapons. The background naturally extends into added margins.",
-      "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/에브이_light_glossy_promo_f.webp",
+      "output": "/workspace/scratch/f0d6aa388ce2/deliverables/revisions/espeon-scale-fix-20261012/에브이_light_glossy_promo_f.webp",
       "size": [
         1024,
         1536
       ],
-      "byte_size": 439968,
+      "byte_size": 420952,
       "format": "WEBP",
-      "sha256": "cd6d95745a1d2959b394613cc6a5a47c0d4ec8a62a4ce452da9b8bb842a5ecf7",
+      "sha256": "680ea444951c50ade3ccdf586c63c6cecd1e5e53cc9555b077dee1d0a3f3ef96",
       "ui": {
         "controls": [
           {
@@ -816,7 +1231,422 @@
           }
         }
       },
-      "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible"
+      "visual_review": "LIGHT anatomical height now matches HEAVY/MOBILITY. CLOSED and OPENED share framing; full head ornaments, boots and five-digit hands remain visible.",
+      "prior_versions": [
+        {
+          "slot": "light",
+          "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-8ce8506f-3ffb-4dcd-8e56-c86dc6102301.png",
+          "filename": "에브이_light_glossy_promo_f.webp",
+          "reference": [],
+          "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Espeon (에브이), psychic type.\n\nPALETTE: lilac, red.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Espeon as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): Lilac pearlescent armor with thin violet seams; long triangular ear shapes become sleek paired headband ornaments, a small red forehead jewel sits on a slim diadem, the forked tail becomes a two-stream waist sash. Human face and skin, no creature ears or animal limbs..\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nScene: On an empty pale marble meditation terrace under rose twilight, the adult woman faces camera in poised front three-quarter stance, both relaxed empty hands separated beside her waist; whole head triangular ornaments and boots with clear margins, vertical 1024x1536.\nNote: One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nhair color: lavender\neye color: purple\nhairstyle: straight — straight strands without waves\nbody type: slender — narrow frame and slim limbs, low soft-tissue volume\nbody scope: Body type sets the build; body details adjust within it. These describe anatomy beneath armor, not equipment volume.\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\neye color consistency: both eyes are purple\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and skin-tight, never fingerless; plates, water, sparks and effects stay off the fingers.\nCoverage clarification: clearly adult woman age 25. Entire torso, chest, pelvis and legs are covered by solid opaque nontransparent hard-surface armor over a fully closed high-collar undersuit. Ordinary game character armor with no exposed intimate anatomy, no sheer material. Keep the established source palette, ornaments, standing full-body card composition.",
+          "correction_prompt": "Edit this adult Espeon light-form game card. Fix framing only: zoom the camera out approximately 8 percent, maintaining vertical 1024x1536. Include the ENTIRE two triangular headband ornaments and all hair, with at least 55 pixels of unobstructed sky above the highest pointed tip; include both boots with clear ground below. Preserve exactly the same adult woman's face, hair, eye color, body proportions, pose, every lilac armor plate, red jewels, two-stream waist sash, full opaque armor coverage, five-digit hands, rendering style and sunset marble scene. Do not redesign or replace any element, do not crop ornaments, no text, no weapons. The background naturally extends into added margins.",
+          "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/에브이_light_glossy_promo_f.webp",
+          "size": [
+            1024,
+            1536
+          ],
+          "byte_size": 439968,
+          "format": "WEBP",
+          "sha256": "cd6d95745a1d2959b394613cc6a5a47c0d4ec8a62a4ce452da9b8bb842a5ecf7",
+          "ui": {
+            "controls": [
+              {
+                "id": "search",
+                "value": ""
+              },
+              {
+                "id": "group",
+                "value": ""
+              },
+              {
+                "id": "source",
+                "value": "에브이"
+              },
+              {
+                "id": "style",
+                "value": "glossy_promo"
+              },
+              {
+                "id": "identity-mode",
+                "value": "create"
+              },
+              {
+                "id": "form",
+                "value": "light"
+              },
+              {
+                "id": "form-override",
+                "value": ""
+              },
+              {
+                "id": "motifs",
+                "value": "Lilac pearlescent armor with thin violet seams; long triangular ear shapes become sleek paired headband ornaments, a small red forehead jewel sits on a slim diadem, the forked tail becomes a two-stream waist sash. Human face and skin, no creature ears or animal limbs."
+              },
+              {
+                "id": "head-feature",
+                "value": ""
+              },
+              {
+                "id": "param-apparent-age",
+                "value": "20s"
+              },
+              {
+                "id": "param-facial-ethnicity",
+                "value": ""
+              },
+              {
+                "id": "param-body-type",
+                "value": "slender"
+              },
+              {
+                "id": "param-height-impression",
+                "value": ""
+              },
+              {
+                "id": "param-shoulder-build",
+                "value": ""
+              },
+              {
+                "id": "param-torso---chest-build",
+                "value": ""
+              },
+              {
+                "id": "param-torso-length",
+                "value": ""
+              },
+              {
+                "id": "param-waist---hip-silhouette",
+                "value": ""
+              },
+              {
+                "id": "param-leg-proportion",
+                "value": ""
+              },
+              {
+                "id": "param-lower-body-build",
+                "value": ""
+              },
+              {
+                "id": "param-body-measurements--B-W-H-",
+                "value": ""
+              },
+              {
+                "id": "param-facial-character",
+                "value": ""
+              },
+              {
+                "id": "param-skin-tone",
+                "value": ""
+              },
+              {
+                "id": "param-face-shape",
+                "value": ""
+              },
+              {
+                "id": "param-eye-shape",
+                "value": ""
+              },
+              {
+                "id": "param-eye-color",
+                "value": "purple"
+              },
+              {
+                "id": "param-second-eye-color",
+                "value": ""
+              },
+              {
+                "id": "param-face-length",
+                "value": ""
+              },
+              {
+                "id": "param-face-width",
+                "value": ""
+              },
+              {
+                "id": "param-jaw---chin",
+                "value": ""
+              },
+              {
+                "id": "param-eye-size",
+                "value": ""
+              },
+              {
+                "id": "param-eye-tilt",
+                "value": ""
+              },
+              {
+                "id": "param-nose-character",
+                "value": ""
+              },
+              {
+                "id": "param-lips",
+                "value": ""
+              },
+              {
+                "id": "param-hair-color",
+                "value": "lavender"
+              },
+              {
+                "id": "param-hairstyle",
+                "value": "straight"
+              },
+              {
+                "id": "param-hair-length",
+                "value": ""
+              },
+              {
+                "id": "param-bangs",
+                "value": ""
+              },
+              {
+                "id": "param-hair-accent",
+                "value": ""
+              },
+              {
+                "id": "param-hair-texture",
+                "value": ""
+              },
+              {
+                "id": "param-hair-volume",
+                "value": ""
+              },
+              {
+                "id": "param-parting",
+                "value": ""
+              },
+              {
+                "id": "expression",
+                "value": ""
+              },
+              {
+                "id": "action-category",
+                "value": ""
+              },
+              {
+                "id": "action-example",
+                "value": ""
+              },
+              {
+                "id": "action-timing",
+                "value": ""
+              },
+              {
+                "id": "action-equipment",
+                "value": ""
+              },
+              {
+                "id": "action-power",
+                "value": ""
+              },
+              {
+                "id": "action-effects",
+                "value": ""
+              },
+              {
+                "id": "action-speed",
+                "value": ""
+              },
+              {
+                "id": "action-environment",
+                "value": ""
+              },
+              {
+                "id": "pose",
+                "value": ""
+              },
+              {
+                "id": "orientation",
+                "value": ""
+              },
+              {
+                "id": "frame",
+                "value": ""
+              },
+              {
+                "id": "lens",
+                "value": ""
+              },
+              {
+                "id": "aspect",
+                "value": "2:3"
+              },
+              {
+                "id": "camera",
+                "value": ""
+              },
+              {
+                "id": "scene",
+                "value": "On an empty pale marble meditation terrace under rose twilight, the adult woman faces camera in poised front three-quarter stance, both relaxed empty hands separated beside her waist; whole head triangular ornaments and boots with clear margins, vertical 1024x1536."
+              },
+              {
+                "id": "outfit",
+                "value": ""
+              },
+              {
+                "id": "custom",
+                "value": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging."
+              }
+            ],
+            "state": {
+              "last": "에브이",
+              "cards": {
+                "이상해씨": {
+                  "style": "cinematic_semi_real",
+                  "identityMode": "create",
+                  "form": "light",
+                  "baseForm": "light",
+                  "motifs": "",
+                  "formOverride": "",
+                  "headFeature": "",
+                  "params": {},
+                  "locks": {},
+                  "mode": "action",
+                  "scenes": {
+                    "action": {
+                      "expr": "",
+                      "pose": "",
+                      "orient": "",
+                      "scene": "",
+                      "outfit": "",
+                      "frame": "",
+                      "lens": "",
+                      "camera": "",
+                      "custom": "",
+                      "aspect": "2:3",
+                      "cat": "everyday_basic",
+                      "catCustom": "",
+                      "ex": "",
+                      "exCustom": "",
+                      "axes": {},
+                      "action": {
+                        "category": "",
+                        "example": "",
+                        "timing": "",
+                        "equipment": "",
+                        "power": "",
+                        "effects": "",
+                        "speed": "",
+                        "environment": ""
+                      },
+                      "randomLocks": {}
+                    },
+                    "casual": {
+                      "expr": "",
+                      "pose": "",
+                      "orient": "",
+                      "scene": "",
+                      "outfit": "",
+                      "frame": "",
+                      "lens": "",
+                      "camera": "",
+                      "custom": "",
+                      "aspect": "2:3",
+                      "cat": "everyday_basic",
+                      "catCustom": "",
+                      "ex": "",
+                      "exCustom": "",
+                      "axes": {},
+                      "action": {
+                        "category": "",
+                        "example": "",
+                        "timing": "",
+                        "equipment": "",
+                        "power": "",
+                        "effects": "",
+                        "speed": "",
+                        "environment": ""
+                      },
+                      "randomLocks": {}
+                    }
+                  }
+                },
+                "에브이": {
+                  "style": "glossy_promo",
+                  "identityMode": "create",
+                  "form": "light",
+                  "baseForm": "light",
+                  "motifs": "Lilac pearlescent armor with thin violet seams; long triangular ear shapes become sleek paired headband ornaments, a small red forehead jewel sits on a slim diadem, the forked tail becomes a two-stream waist sash. Human face and skin, no creature ears or animal limbs.",
+                  "formOverride": "",
+                  "headFeature": "",
+                  "params": {
+                    "apparent age": "20s",
+                    "hair color": "lavender",
+                    "eye color": "purple",
+                    "hairstyle": "straight",
+                    "body type": "slender"
+                  },
+                  "locks": {},
+                  "mode": "action",
+                  "scenes": {
+                    "action": {
+                      "expr": "",
+                      "pose": "",
+                      "orient": "",
+                      "scene": "On an empty pale marble meditation terrace under rose twilight, the adult woman faces camera in poised front three-quarter stance, both relaxed empty hands separated beside her waist; whole head triangular ornaments and boots with clear margins, vertical 1024x1536.",
+                      "outfit": "",
+                      "frame": "",
+                      "lens": "",
+                      "camera": "",
+                      "custom": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.",
+                      "aspect": "2:3",
+                      "cat": "everyday_basic",
+                      "catCustom": "",
+                      "ex": "",
+                      "exCustom": "",
+                      "axes": {},
+                      "action": {
+                        "category": "",
+                        "example": "",
+                        "timing": "",
+                        "equipment": "",
+                        "power": "",
+                        "effects": "",
+                        "speed": "",
+                        "environment": ""
+                      },
+                      "randomLocks": {}
+                    },
+                    "casual": {
+                      "expr": "",
+                      "pose": "",
+                      "orient": "",
+                      "scene": "",
+                      "outfit": "",
+                      "frame": "",
+                      "lens": "",
+                      "camera": "",
+                      "custom": "",
+                      "aspect": "2:3",
+                      "cat": "everyday_basic",
+                      "catCustom": "",
+                      "ex": "",
+                      "exCustom": "",
+                      "axes": {},
+                      "action": {
+                        "category": "",
+                        "example": "",
+                        "timing": "",
+                        "equipment": "",
+                        "power": "",
+                        "effects": "",
+                        "speed": "",
+                        "environment": ""
+                      },
+                      "randomLocks": {}
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible"
+        }
+      ],
+      "revision": {
+        "reason": "User requested LIGHT scale match with HEAVY/MOBILITY",
+        "prompt": "Use case: precise-object-edit. Image 1 is the ONLY edit target: the Espeon LIGHT-form full-body card. Image 2 HEAVY and image 3 MOBILITY are scale references only, never copy their armor.\nChange ONLY the camera magnification of image 1. Enlarge the entire original picture uniformly by approximately 11 percent about the canvas center (512,768), keeping the final canvas 1024x1536. Match the adult woman's anatomical head size, body height and foot placement to the reference cards: top of actual hair about y=115-130, top of tallest head ornament about y=60-80, bottom of front boot about y=1480-1500. The complete two head ornaments, both entire hands, both boots and existing long fabric waist sash must fit, with natural margins. The woman should occupy the same scale as image 3, LIGHT must no longer look smaller.\nPreserve EXACTLY the original image 1 adult woman, face and expression, lavender hair, eye color, all body proportions, same pose and leg crossing, same LIGHT armor plates and thickness, red jewels and triangular headband ornaments, five fingers on each hand, waist streamers, materials and glossy anime style. No armor redesign, no additional layers or helmet. Maintain the sunset marble terrace and existing lighting while the view zooms in naturally. No text, logo, weapons or additional characters. Uniform camera zoom only; do not enlarge body parts individually.",
+        "before_blob": "eaf22f36eeb0de44c327d2ddffe85a3e349540c8"
+      }
     },
     {
       "slot": "heavy",
@@ -1376,21 +2206,21 @@
     },
     {
       "slot": "light_overdrive",
-      "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-b5dd1fee-ad47-41ab-b6a7-f2e8e50ecb23.png",
+      "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-a1a6746f-13e6-4c7d-9088-5b376908d234.png",
       "filename": "에브이_light_overdrive_glossy_promo_f.webp",
       "reference": [
         "/workspace/scratch/f0d6aa388ce2/generated_images/exec-8ce8506f-3ffb-4dcd-8e56-c86dc6102301.png"
       ],
       "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Espeon (에브이), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a magenta glow with floating rings of light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
       "correction_prompt": null,
-      "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/에브이_light_overdrive_glossy_promo_f.webp",
+      "output": "/workspace/scratch/f0d6aa388ce2/deliverables/revisions/espeon-scale-fix-20261012/에브이_light_overdrive_glossy_promo_f.webp",
       "size": [
         1024,
         1536
       ],
-      "byte_size": 477580,
+      "byte_size": 451972,
       "format": "WEBP",
-      "sha256": "da333d8c81e5636510a2f832f351c82ce3f81c5a7c4fdf9362297585308be510",
+      "sha256": "92cf1619e54781310009e07f6faec194096d07f177aa39f97f358c1cc6fc4eac",
       "ui": {
         "controls": [
           {
@@ -1582,7 +2412,224 @@
           }
         }
       },
-      "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible"
+      "visual_review": "LIGHT anatomical height now matches HEAVY/MOBILITY. CLOSED and OPENED share framing; full head ornaments, boots and five-digit hands remain visible.",
+      "prior_versions": [
+        {
+          "slot": "light_overdrive",
+          "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-b5dd1fee-ad47-41ab-b6a7-f2e8e50ecb23.png",
+          "filename": "에브이_light_overdrive_glossy_promo_f.webp",
+          "reference": [
+            "/workspace/scratch/f0d6aa388ce2/generated_images/exec-8ce8506f-3ffb-4dcd-8e56-c86dc6102301.png"
+          ],
+          "prompt": "INPUT: attach this character's light-form card image (the closed state). If a second image fits, add her approved light-form image for the face.\n\nSOURCE: Espeon (에브이), psychic type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nOUTPUT: the OPENED (overdrive) state of the attached image. Keep its camera, pose, framing, subject scale, face, hair, body and every armor piece exactly. Change only this: the slim plates lift away from their seams on small hinges, revealing the inner frame, and a magenta glow with floating rings of light shows through the gaps, lighting the undersides of the opened plates; her eyes keep their color with only a glint of that light, and her expression tightens with the strain. No new armor, no new helmet, no weapon. The pair must read as the same picture before and after she opens up.\n\nNOTE: One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: keep both hands exactly as in the attached image — one thumb and four fingers each, clearly separated, never merged, doubled or extra; the glow and spray stay off the fingers.",
+          "correction_prompt": null,
+          "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/에브이_light_overdrive_glossy_promo_f.webp",
+          "size": [
+            1024,
+            1536
+          ],
+          "byte_size": 477580,
+          "format": "WEBP",
+          "sha256": "da333d8c81e5636510a2f832f351c82ce3f81c5a7c4fdf9362297585308be510",
+          "ui": {
+            "controls": [
+              {
+                "id": "search",
+                "value": ""
+              },
+              {
+                "id": "group",
+                "value": ""
+              },
+              {
+                "id": "source",
+                "value": "에브이"
+              },
+              {
+                "id": "style",
+                "value": "glossy_promo"
+              },
+              {
+                "id": "form",
+                "value": "overdrive"
+              },
+              {
+                "id": "base-form",
+                "value": "light"
+              },
+              {
+                "id": "form-override",
+                "value": ""
+              },
+              {
+                "id": "motifs",
+                "value": "Lilac pearlescent armor with thin violet seams; long triangular ear shapes become sleek paired headband ornaments, a small red forehead jewel sits on a slim diadem, the forked tail becomes a two-stream waist sash. Human face and skin, no creature ears or animal limbs."
+              },
+              {
+                "id": "custom",
+                "value": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging."
+              }
+            ],
+            "state": {
+              "last": "에브이",
+              "cards": {
+                "이상해씨": {
+                  "style": "cinematic_semi_real",
+                  "identityMode": "create",
+                  "form": "light",
+                  "baseForm": "light",
+                  "motifs": "",
+                  "formOverride": "",
+                  "headFeature": "",
+                  "params": {},
+                  "locks": {},
+                  "mode": "action",
+                  "scenes": {
+                    "action": {
+                      "expr": "",
+                      "pose": "",
+                      "orient": "",
+                      "scene": "",
+                      "outfit": "",
+                      "frame": "",
+                      "lens": "",
+                      "camera": "",
+                      "custom": "",
+                      "aspect": "2:3",
+                      "cat": "everyday_basic",
+                      "catCustom": "",
+                      "ex": "",
+                      "exCustom": "",
+                      "axes": {},
+                      "action": {
+                        "category": "",
+                        "example": "",
+                        "timing": "",
+                        "equipment": "",
+                        "power": "",
+                        "effects": "",
+                        "speed": "",
+                        "environment": ""
+                      },
+                      "randomLocks": {}
+                    },
+                    "casual": {
+                      "expr": "",
+                      "pose": "",
+                      "orient": "",
+                      "scene": "",
+                      "outfit": "",
+                      "frame": "",
+                      "lens": "",
+                      "camera": "",
+                      "custom": "",
+                      "aspect": "2:3",
+                      "cat": "everyday_basic",
+                      "catCustom": "",
+                      "ex": "",
+                      "exCustom": "",
+                      "axes": {},
+                      "action": {
+                        "category": "",
+                        "example": "",
+                        "timing": "",
+                        "equipment": "",
+                        "power": "",
+                        "effects": "",
+                        "speed": "",
+                        "environment": ""
+                      },
+                      "randomLocks": {}
+                    }
+                  }
+                },
+                "에브이": {
+                  "style": "glossy_promo",
+                  "identityMode": "reference",
+                  "form": "overdrive",
+                  "baseForm": "light",
+                  "motifs": "Lilac pearlescent armor with thin violet seams; long triangular ear shapes become sleek paired headband ornaments, a small red forehead jewel sits on a slim diadem, the forked tail becomes a two-stream waist sash. Human face and skin, no creature ears or animal limbs.",
+                  "formOverride": "",
+                  "headFeature": "",
+                  "params": {
+                    "apparent age": "20s",
+                    "hair color": "lavender",
+                    "eye color": "purple",
+                    "hairstyle": "straight",
+                    "body type": "slender"
+                  },
+                  "locks": {},
+                  "mode": "action",
+                  "scenes": {
+                    "action": {
+                      "expr": "",
+                      "pose": "",
+                      "orient": "",
+                      "scene": "On an empty pale marble meditation terrace under rose twilight, the adult woman faces camera in poised front three-quarter stance, both relaxed empty hands separated beside her waist; whole head triangular ornaments and boots with clear margins, vertical 1024x1536.",
+                      "outfit": "",
+                      "frame": "",
+                      "lens": "",
+                      "camera": "",
+                      "custom": "One adult woman only. No weapon, no text or logo. Both hands completely inside frame, clearly attached to forearms, five distinct natural digits each, no merging.",
+                      "aspect": "2:3",
+                      "cat": "everyday_basic",
+                      "catCustom": "",
+                      "ex": "",
+                      "exCustom": "",
+                      "axes": {},
+                      "action": {
+                        "category": "",
+                        "example": "",
+                        "timing": "",
+                        "equipment": "",
+                        "power": "",
+                        "effects": "",
+                        "speed": "",
+                        "environment": ""
+                      },
+                      "randomLocks": {}
+                    },
+                    "casual": {
+                      "expr": "",
+                      "pose": "",
+                      "orient": "",
+                      "scene": "",
+                      "outfit": "",
+                      "frame": "",
+                      "lens": "",
+                      "camera": "",
+                      "custom": "",
+                      "aspect": "2:3",
+                      "cat": "everyday_basic",
+                      "catCustom": "",
+                      "ex": "",
+                      "exCustom": "",
+                      "axes": {},
+                      "action": {
+                        "category": "",
+                        "example": "",
+                        "timing": "",
+                        "equipment": "",
+                        "power": "",
+                        "effects": "",
+                        "speed": "",
+                        "environment": ""
+                      },
+                      "randomLocks": {}
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible"
+        }
+      ],
+      "revision": {
+        "reason": "User requested LIGHT scale match with HEAVY/MOBILITY",
+        "prompt": "Use case: precise-object-edit. Image 1 is the edit target: existing Espeon LIGHT OPENED/overdrive card, currently framed too small. Image 2 is her newly corrected CLOSED LIGHT card and is the exact camera/framing/scale guide.\nChange ONLY the framing and uniform magnification of image 1 so it registers precisely with image 2: same anatomical head size, face location, torso and waist location, hands, leg crossing and boots. Match image 2's entire woman silhouette and camera; tallest head ornament near top y=15-25, actual hair near y=65-85, front boot ending near y=1455-1480 on a 1024x1536 canvas. Keep all ornaments and boots fully inside, same complete hands. Do not revert to the smaller original composition.\nPreserve the exact adult identity, face, lavender hair, eye color, body, pose, original image 1 opened LIGHT armor plate layout, all separated floating pieces, red jewels and pink-violet psychic glow and energy rings, two chiffon waist streamers, glossy anime materials, sunset marble terrace and lighting. The corrected closed/open pair must look like the same camera picture before and after panels open. Do not copy extra heavy or mobility armor; no new weapon, helmet, plates, text or other figures. Each hand retains its original natural five fingers. Uniform zoom and alignment only.",
+        "before_blob": "7902135cbad7931377e201a8045e836dce7ae640"
+      }
     },
     {
       "slot": "heavy_overdrive",
@@ -2799,5 +3846,6 @@
       },
       "visual_review": "single adult identity consistent; full body on forms; open pairs match; casual scenes distinct; hands attached and visible"
     }
-  ]
+  ],
+  "previous_image_commit": "80eac9fe5dd8bd910956d2dd21eafb406abab246"
 }

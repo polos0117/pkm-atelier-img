@@ -1,0 +1,68 @@
+{
+  "reason": "Match LIGHT camera scale to existing HEAVY and MOBILITY; align LIGHT OPENED as a pair",
+  "method": "built-in image generation editing; preserve design and anatomy",
+  "changes": [
+    {
+      "slot": "light",
+      "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-0d5a7a6c-ee9a-4b88-ae69-2547b203b49d.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the ONLY edit target: the Espeon LIGHT-form full-body card. Image 2 HEAVY and image 3 MOBILITY are scale references only, never copy their armor.\nChange ONLY the camera magnification of image 1. Enlarge the entire original picture uniformly by approximately 11 percent about the canvas center (512,768), keeping the final canvas 1024x1536. Match the adult woman's anatomical head size, body height and foot placement to the reference cards: top of actual hair about y=115-130, top of tallest head ornament about y=60-80, bottom of front boot about y=1480-1500. The complete two head ornaments, both entire hands, both boots and existing long fabric waist sash must fit, with natural margins. The woman should occupy the same scale as image 3, LIGHT must no longer look smaller.\nPreserve EXACTLY the original image 1 adult woman, face and expression, lavender hair, eye color, all body proportions, same pose and leg crossing, same LIGHT armor plates and thickness, red jewels and triangular headband ornaments, five fingers on each hand, waist streamers, materials and glossy anime style. No armor redesign, no additional layers or helmet. Maintain the sunset marble terrace and existing lighting while the view zooms in naturally. No text, logo, weapons or additional characters. Uniform camera zoom only; do not enlarge body parts individually.",
+      "prior": {
+        "slot": "light",
+        "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-8ce8506f-3ffb-4dcd-8e56-c86dc6102301.png",
+        "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/에브이_light_glossy_promo_f.webp",
+        "sha256": "cd6d95745a1d2959b394613cc6a5a47c0d4ec8a62a4ce452da9b8bb842a5ecf7",
+        "filename": "에브이_light_glossy_promo_f.webp"
+      },
+      "remote_before": {
+        "path": "img/에브이_light_glossy_promo_f.webp",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "eaf22f36eeb0de44c327d2ddffe85a3e349540c8",
+        "size": 439968,
+        "url": "https://api.github.com/repos/polos0117/pkm-atelier-img/git/blobs/eaf22f36eeb0de44c327d2ddffe85a3e349540c8"
+      },
+      "output": "/workspace/scratch/f0d6aa388ce2/deliverables/revisions/espeon-scale-fix-20261012/에브이_light_glossy_promo_f.webp",
+      "filename": "에브이_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "byte_size": 420952,
+      "sha256": "680ea444951c50ade3ccdf586c63c6cecd1e5e53cc9555b077dee1d0a3f3ef96",
+      "git_sha": "343b2976ee5f9a9476f818277944399e50a0b163",
+      "visual_review": "LIGHT anatomical height now matches HEAVY/MOBILITY. CLOSED and OPENED share framing; full head ornaments, boots and five-digit hands remain visible."
+    },
+    {
+      "slot": "light_overdrive",
+      "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-a1a6746f-13e6-4c7d-9088-5b376908d234.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target: existing Espeon LIGHT OPENED/overdrive card, currently framed too small. Image 2 is her newly corrected CLOSED LIGHT card and is the exact camera/framing/scale guide.\nChange ONLY the framing and uniform magnification of image 1 so it registers precisely with image 2: same anatomical head size, face location, torso and waist location, hands, leg crossing and boots. Match image 2's entire woman silhouette and camera; tallest head ornament near top y=15-25, actual hair near y=65-85, front boot ending near y=1455-1480 on a 1024x1536 canvas. Keep all ornaments and boots fully inside, same complete hands. Do not revert to the smaller original composition.\nPreserve the exact adult identity, face, lavender hair, eye color, body, pose, original image 1 opened LIGHT armor plate layout, all separated floating pieces, red jewels and pink-violet psychic glow and energy rings, two chiffon waist streamers, glossy anime materials, sunset marble terrace and lighting. The corrected closed/open pair must look like the same camera picture before and after panels open. Do not copy extra heavy or mobility armor; no new weapon, helmet, plates, text or other figures. Each hand retains its original natural five fingers. Uniform zoom and alignment only.",
+      "prior": {
+        "slot": "light_overdrive",
+        "source": "/workspace/scratch/f0d6aa388ce2/generated_images/exec-b5dd1fee-ad47-41ab-b6a7-f2e8e50ecb23.png",
+        "output": "/workspace/scratch/f0d6aa388ce2/deliverables/img/에브이_light_overdrive_glossy_promo_f.webp",
+        "sha256": "da333d8c81e5636510a2f832f351c82ce3f81c5a7c4fdf9362297585308be510",
+        "filename": "에브이_light_overdrive_glossy_promo_f.webp"
+      },
+      "remote_before": {
+        "path": "img/에브이_light_overdrive_glossy_promo_f.webp",
+        "mode": "100644",
+        "type": "blob",
+        "sha": "7902135cbad7931377e201a8045e836dce7ae640",
+        "size": 477580,
+        "url": "https://api.github.com/repos/polos0117/pkm-atelier-img/git/blobs/7902135cbad7931377e201a8045e836dce7ae640"
+      },
+      "output": "/workspace/scratch/f0d6aa388ce2/deliverables/revisions/espeon-scale-fix-20261012/에브이_light_overdrive_glossy_promo_f.webp",
+      "filename": "에브이_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "byte_size": 451972,
+      "sha256": "92cf1619e54781310009e07f6faec194096d07f177aa39f97f358c1cc6fc4eac",
+      "git_sha": "333744f0af71ea80edda9952e3e9ab4e7a46a8fa",
+      "visual_review": "LIGHT anatomical height now matches HEAVY/MOBILITY. CLOSED and OPENED share framing; full head ornaments, boots and five-digit hands remain visible."
+    }
+  ]
+}
