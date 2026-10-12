@@ -119,5 +119,6 @@
       "sha256": "adbafc7536a7278e7e58d6799991097cd7fc281eb28582b89a14f39f59b42257",
       "reference": "/workspace/scratch/8caa05af95e7/pkm-atelier-img/img/글라이거_light_glossy_promo_f.webp"
     }
-  ]
+  ],
+  "repair": "casual1 empty WebP detected by workflow and restored from retained generated PNG; all nine WebPs decoded and sizes checked."
 }
