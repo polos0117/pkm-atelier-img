@@ -1,0 +1,34 @@
+{
+  "character": "별가사리",
+  "canonical": {
+    "card": "별가사리",
+    "slot": "light",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-5443269b-645d-49db-adbb-3da2fd84bfe8.png",
+    "filename": "별가사리_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "9189c5702a10147ee5092899b786817062800dde785e9f9f59f32dd7d4653461",
+    "original_sha256": "4cb7a04ef3ce882100d13d710b9541fb011f561945d797f02198f2456857431e",
+    "reference_slot": null,
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "images_main_commit": null,
+  "code_registration_commit": null
+}

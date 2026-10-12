@@ -1,0 +1,60 @@
+{
+  "name": "별가사리",
+  "slug": "staryu",
+  "hair": "brown",
+  "eye": "amber",
+  "cut": "bob",
+  "body": "athletic",
+  "wear": "Five-pointed warm brown star geometry becomes tapered shoulder trim, angular hip plates and a short five-lobed waist drape; a single ruby-red chest gemstone in a gold bezel, small gold star hair clip. Human skin and normal human face, no actual starfish body or extra limbs.",
+  "light": "On an empty sea-cliff tidal-energy platform at golden sunrise, confident balanced forward-facing adult woman, both empty relaxed open hands visible beside hips. Slim warm brown and gold plates, ruby chest gem. Entire head and boots inside 1024x1536 with clear margins.",
+  "casual": [
+    [
+      "adult_roleplay",
+      "confident",
+      "standing_formal",
+      "front",
+      "three_quarter",
+      "portrait85",
+      "Inside an empty art-deco aquarium reception hall at evening opening time, greeting imaginary guests with one relaxed open palm beside her waist, other hand resting on a separate brass podium edge. Warm amber sconces and blue aquarium glass, no fish or people.",
+      "Opaque gold sleeveless fitted event-host vest with deep but secure V neckline, ruby high-waisted tailored shorts and brown heeled ankle boots. Bare shoulders arms upper chest and thighs, tiny ruby star pendant. Adult professional event fashion, no armor."
+    ],
+    [
+      "hobbies_leisure",
+      "curious",
+      "one_knee_up",
+      "front_3q",
+      "full_body",
+      "documentary35",
+      "On a broad coastal mosaic courtyard in clear late morning, seated on a low cushion with one knee raised, arranging a few smooth colored tiles on a shallow tray laid beside her. Hands separate on either side of the tray, all fingers and feet visible; ocean horizon.",
+      "Opaque ivory sleeveless linen cropped blouse, brown high-waisted wide culotte shorts and leather sandals. Bare arms midriff and lower legs, small gold star hair clip."
+    ],
+    [
+      "travel_exploration",
+      "amused",
+      "walking",
+      "side",
+      "waist_up",
+      "natural50",
+      "Walking along an empty seaside antique arcade on a rainy afternoon, face turned toward camera, examining a small polished shell resting openly in one palm while the other open hand gestures beside it. Waist-up with both complete hands and wrists visible, rain reflections and weathered arches.",
+      "Opaque ruby short-sleeved tie-front cropped shirt with secure neckline and brown high-waisted trousers. Bare forearms narrow midriff and upper chest, tiny star earrings."
+    ]
+  ],
+  "comparison": {
+    "reviewed": [
+      "왕콘치",
+      "왕자리",
+      "해루미"
+    ],
+    "scope": "Read plan.json and submitted casual prompts of the latest three completed characters on image main. Compare earlier characters of this batch.",
+    "changed": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

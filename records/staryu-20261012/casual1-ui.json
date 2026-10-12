@@ -1,0 +1,263 @@
+{
+  "method": "Actual Preact generator controls via repository DOM harness",
+  "ui": [
+    {
+      "id": "search",
+      "value": ""
+    },
+    {
+      "id": "group",
+      "value": "",
+      "label": "전체"
+    },
+    {
+      "id": "source",
+      "value": "별가사리",
+      "label": "0120 · 별가사리"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo",
+      "label": "글로시 프로모 키아트"
+    },
+    {
+      "id": "motifs",
+      "value": ""
+    },
+    {
+      "id": "expression",
+      "value": "confident",
+      "label": "confident — 자신감"
+    },
+    {
+      "id": "category",
+      "value": "adult_roleplay",
+      "label": "성인 역할극 / 직업풍 이벤트 패션"
+    },
+    {
+      "id": "example",
+      "value": "",
+      "label": "자동"
+    },
+    {
+      "id": "pose",
+      "value": "standing_formal",
+      "label": "반듯하게 서기"
+    },
+    {
+      "id": "orientation",
+      "value": "front",
+      "label": "front — 정면"
+    },
+    {
+      "id": "frame",
+      "value": "three_quarter",
+      "label": "무릎 위"
+    },
+    {
+      "id": "lens",
+      "value": "portrait85",
+      "label": "준망원 · 85mm 느낌"
+    },
+    {
+      "id": "aspect",
+      "value": "2:3",
+      "label": "2:3"
+    },
+    {
+      "id": "camera",
+      "value": ""
+    },
+    {
+      "id": "scene",
+      "value": "Inside an empty art-deco aquarium reception hall at evening opening time, greeting imaginary guests with one relaxed open palm beside her waist, other hand resting on a separate brass podium edge. Warm amber sconces and blue aquarium glass, no fish or people."
+    },
+    {
+      "id": "outfit",
+      "value": "Opaque gold sleeveless fitted event-host vest with deep but secure V neckline, ruby high-waisted tailored shorts and brown heeled ankle boots. Bare shoulders arms upper chest and thighs, tiny ruby star pendant. Adult professional event fashion, no armor."
+    },
+    {
+      "id": "custom",
+      "value": "Both hands fully within selected crop and visibly joined to their own forearms, five distinct natural digits per hand. Single adult woman, no text or logos."
+    },
+    {
+      "id": "axis-overall_intensity",
+      "value": "strong",
+      "label": "가장 강함"
+    },
+    {
+      "id": "axis-skin_exposure",
+      "value": "bold",
+      "label": "많이"
+    },
+    {
+      "id": "axis-action_level",
+      "value": "AUTO",
+      "label": "자동"
+    },
+    {
+      "id": "axis-source_influence",
+      "value": "AUTO",
+      "label": "자동"
+    },
+    {
+      "id": "axis-separates_preference",
+      "value": "AUTO",
+      "label": "자동"
+    }
+  ],
+  "storage": {
+    "last": "별가사리",
+    "cards": {
+      "이상해씨": {
+        "style": "cinematic_semi_real",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {},
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "별가사리": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "overdrive",
+        "baseForm": "mobility",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "params": {
+          "apparent age": "20s",
+          "hair color": "brown",
+          "eye color": "amber",
+          "hairstyle": "bob",
+          "body type": "athletic"
+        },
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "cross_step",
+            "orient": "",
+            "scene": "An empty coastal technological plaza, full body with clear head and boot margins, both open hands unobstructed and separated, face toward camera. 1024x1536.",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "Both entire hands clearly visible, connected to their own forearms, each with one thumb and four distinct natural fingers. No weapon. 1024x1536 portrait canvas.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "confident",
+            "pose": "standing_formal",
+            "orient": "front",
+            "scene": "Inside an empty art-deco aquarium reception hall at evening opening time, greeting imaginary guests with one relaxed open palm beside her waist, other hand resting on a separate brass podium edge. Warm amber sconces and blue aquarium glass, no fish or people.",
+            "outfit": "Opaque gold sleeveless fitted event-host vest with deep but secure V neckline, ruby high-waisted tailored shorts and brown heeled ankle boots. Bare shoulders arms upper chest and thighs, tiny ruby star pendant. Adult professional event fashion, no armor.",
+            "frame": "three_quarter",
+            "lens": "portrait85",
+            "camera": "",
+            "custom": "Both hands fully within selected crop and visibly joined to their own forearms, five distinct natural digits per hand. Single adult woman, no text or logos.",
+            "aspect": "2:3",
+            "cat": "adult_roleplay",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  }
+}

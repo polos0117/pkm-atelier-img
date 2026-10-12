@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Staryu (별가사리) personified, water type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed
+Pose: Walk at a comfortable pace with a natural step and arm swing.
+Orientation: side body profile, approximately 90 degrees to camera
+Scene: Walking along an empty seaside antique arcade on a rainy afternoon, face turned toward camera, examining a small polished shell resting openly in one palm while the other open hand gestures beside it. Waist-up with both complete hands and wrists visible, rain reflections and weathered arches.
+Outfit and props: Opaque ruby short-sleeved tie-front cropped shirt with secure neckline and brown high-waisted trousers. Bare forearms narrow midriff and upper chest, tiny star earrings.
+Category: Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.
+Note: Both hands fully within selected crop and visibly joined to their own forearms, five distinct natural digits per hand. Single adult woman, no text or logos.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

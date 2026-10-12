@@ -1,0 +1,164 @@
+[
+  {
+    "card": "별가사리",
+    "slot": "light",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-5443269b-645d-49db-adbb-3da2fd84bfe8.png",
+    "filename": "별가사리_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "9189c5702a10147ee5092899b786817062800dde785e9f9f59f32dd7d4653461",
+    "original_sha256": "4cb7a04ef3ce882100d13d710b9541fb011f561945d797f02198f2456857431e",
+    "reference_slot": null,
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "별가사리",
+    "slot": "heavy",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-1322f65a-ca58-4f99-ac37-385360cb8f84.png",
+    "filename": "별가사리_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "5ff4aabfee88a6dcc88aad034c1d8bbe4ed57b9610198e2a1429f27978df9b01",
+    "original_sha256": "675d9e747f01a699b43db5d2d66649af9b65fa640286447ea0e6799851f2c688",
+    "reference_slot": "light",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "별가사리",
+    "slot": "mobility",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-cd36046c-18c3-4bec-875b-d67c3cc7ddee.png",
+    "filename": "별가사리_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "d56452458bb2ccf087c8eae2b384b941acb49c363e02fb1dec0ae4110b358f0c",
+    "original_sha256": "00de3b42d0a5483ecf67bf21ecd5a3cc43fd40512de77cd3748222e828a58474",
+    "reference_slot": "light",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "별가사리",
+    "slot": "light_overdrive",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-0a1530a8-8459-44db-bf00-75f24cb4cd98.png",
+    "filename": "별가사리_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "db3462311de4638e84e27c86b0e5584fcd7a2bc2ba30958ab6de7e354da33d7a",
+    "original_sha256": "b0b4ac988c24254204b694cc8592c67ff2608bf716ebfc08fe050ae68a54b975",
+    "reference_slot": "light",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "별가사리",
+    "slot": "heavy_overdrive",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-777d6dd4-1065-440f-a2fe-6010272ea40f.png",
+    "filename": "별가사리_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "06ff19c5c041d229a2ef0f353febf7a1779c7c63fc3f61e80e9186279e6048e6",
+    "original_sha256": "97f3cda08328c5e04797ee9964e0a32b4b24760e8ac64742af790a827a56840e",
+    "reference_slot": "heavy",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "별가사리",
+    "slot": "mobility_overdrive",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-6efdf1b1-12b1-4267-bb5c-3c1b4b3e860a.png",
+    "filename": "별가사리_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "c0bd48ea31975ba1192ef1eb5802d3a0e3076536b950ea36ad6618d34b15fd69",
+    "original_sha256": "bae0b313234939fbf5f6c331baa79fcc20721ec81d21b4f2bb4621fa0550d49c",
+    "reference_slot": "mobility",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "별가사리",
+    "slot": "casual1",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-c89b3adc-2008-473b-b4c6-70d700642f81.png",
+    "filename": "별가사리_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "662a5e8dceaaa9fab7eccfcb8817b30018f4d96863c1d7632d303678070518f4",
+    "original_sha256": "ca8ec1e2cb87e25b8737c67bb8bafaf7e6049d62106c5a587ddb6c0c9cc5addf",
+    "reference_slot": "light",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "별가사리",
+    "slot": "casual2",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-a3af48a4-e311-4d08-9311-a1d29ff3d510.png",
+    "filename": "별가사리_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "d8f19bf722af6d5b7f567b00400b5d672aaeb4fbb7705c500312d2818cc290a6",
+    "original_sha256": "0fed6d4592897a5409cfebfb92898c7b0acbe9d704591df611a932d8f956cee0",
+    "reference_slot": "light",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  },
+  {
+    "card": "별가사리",
+    "slot": "casual3",
+    "style": "glossy_promo",
+    "basis": "Actual Preact UI selected glossy_promo; exact submitted prompt recorded",
+    "original": "/workspace/scratch/2cea896442bb/generated_images/exec-db3108f0-d725-46d9-af57-466ff125a652.png",
+    "filename": "별가사리_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "f7bec825cf0137a6a73ebe0ecc36f3262d2c7ac28535c579df379a5b0041df73",
+    "original_sha256": "7bb16a91aafdf1f943ece2f27e6bb5728dd94e39d0136914dad00680ba6d09da",
+    "reference_slot": "light",
+    "tool": "built-in image_gen",
+    "review": "Checked full figure/crop, face continuity, correct reference, hands, no text/weapons; accepted"
+  }
+]
