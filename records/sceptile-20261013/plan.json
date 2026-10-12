@@ -1,0 +1,87 @@
+{
+  "name": "나무킹",
+  "no": 254,
+  "style": "glossy_promo",
+  "casual": [
+    {
+      "cat": "everyday_basic",
+      "expr": "curious",
+      "pose": "walking",
+      "orient": "front_3q",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "Outside an empty apartment mail alcove after a morning rain, walking away from an open mailbox while examining a small unmarked cream envelope. One hand holds it at waist height and the other hangs naturally separate; full head and shoes visible, cool wet stone reflections.",
+      "outfit": "Coral sleeveless linen playsuit with a secured square neckline, fitted waist and wide short legs, green flat sandals and a tiny yellow seed pendant. Bare arms and legs; contemporary personal clothing."
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "focused",
+      "pose": "mid_action",
+      "orient": "side",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "At a sunlit textile hobby bench in late afternoon, body side-on with face clearly turned toward camera, weaving a small green strip on a tabletop loom. One hand guides a wooden shuttle and the other rests on a separate frame corner; both hands and forearms wholly in crop.",
+      "outfit": "Ivory off-shoulder short-sleeve blouse with a green fitted waist and coral wide-leg trousers, small gold seed stud earrings. Bare shoulders and forearms; natural cotton and linen clothing."
+    },
+    {
+      "cat": "lingerie",
+      "expr": "soft_smile",
+      "pose": "leaning_furniture",
+      "orient": "front",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "In a private glasshouse reading lounge at violet evening, leaning gently against a low console while turning an unmarked table-lamp dimmer with one hand, the other rests separately on the console. Head through knees and both hands readable, warm lamp glow and violet windows.",
+      "outfit": "Fully lined emerald satin longline bralette with delicate leaf lace trim and secure straps, matching high-waisted tap shorts, a lightweight cream robe draped open from the shoulders, tiny yellow seed earrings. Bare shoulders, midriff and legs; lingerie-inspired fashion."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "recent_compared": [
+    "암나이트",
+    "블루",
+    "폴리곤",
+    "나무지기",
+    "나무돌이"
+  ],
+  "comparison_scope": "Recent three plans and nine submitted casual prompts read; actual canonical faces inspected, then compared with Treecko and Grovyle. New casual scenes changed location, activity, garment silhouette and composition.",
+  "face_reason": "Long leaf-blade and crest outlines translated through species face-design into high cheekbones, a tapered jaw and separated narrow eyes; actual image distinguished from earlier two. Swept hair and amber eyes complement source palette.",
+  "face_sources": [
+    "data/face-design.json",
+    "data/source-appearance.json",
+    "docs/CHARACTER_FACE_DESIGNS.md"
+  ],
+  "ui_verification": "All nine actual UI selections inspected; exact output lengths and FNV matched local production prompts.",
+  "first_light_selections": {
+    "name": "나무킹",
+    "form": "light",
+    "identityMode": "create",
+    "params": [
+      [
+        "apparent age",
+        "20s"
+      ],
+      [
+        "hair color",
+        "green"
+      ],
+      [
+        "hairstyle",
+        "swept back"
+      ],
+      [
+        "hair length",
+        "medium"
+      ],
+      [
+        "eye color",
+        "amber"
+      ]
+    ],
+    "expr": "proud",
+    "motifs": "Leaf-green slim armor with a red throat and central undersuit accent, six small yellow seed-like inlays arranged in two neat shoulder-mantle rows, two sharp elongated leaf-shaped forearm guards, a branching evergreen-like tail interpreted as a segmented cloth belt sash, and two low swept crest ornaments.",
+    "scene": "A tranquil botanical research hangar at golden dawn, tall trees behind glass and amber floor reflections. Centered complete adult woman fills 86 percent of image height, head and feet within restrained margins, face toward camera, hands relaxed and fully visible beside her hips.",
+    "custom": "1024x1536 vertical. No weapons. Human adult woman in her twenties. Both hands have five natural separate fingers and remain entirely visible. The yellow seeds are decorative inlays, the leaf guards are costume plates, and the cloth tail sash is not an extra limb."
+  }
+}

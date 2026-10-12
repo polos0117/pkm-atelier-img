@@ -1,0 +1,17 @@
+{
+  "name": "나무킹",
+  "outputMode": "casual",
+  "cat": "everyday_basic",
+  "expr": "curious",
+  "pose": "walking",
+  "orient": "front_3q",
+  "frame": "full_body",
+  "lens": "documentary35",
+  "scene": "Outside an empty apartment mail alcove after a morning rain, walking away from an open mailbox while examining a small unmarked cream envelope. One hand holds it at waist height and the other hangs naturally separate; full head and shoes visible, cool wet stone reflections.",
+  "outfit": "Coral sleeveless linen playsuit with a secured square neckline, fitted waist and wide short legs, green flat sandals and a tiny yellow seed pendant. Bare arms and legs; contemporary personal clothing.",
+  "custom": "1024x1536 vertical. Preserve the attached adult identity, haircut and proportions. Both complete five-finger hands inside the chosen crop and visibly connected to their own forearms. Remove all armor, tall crest headpieces and tail sashes; species motifs only in the small jewelry described. No weapons.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

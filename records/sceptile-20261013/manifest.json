@@ -1,0 +1,128 @@
+[
+  {
+    "slot": "light",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-b1692fe1-b852-4828-b53a-ecbdb7ab4097.png",
+    "source_sha256": "50ede72a7a71d238688879b49da0e97f9e2cfbd5be0e660243533d19ad52e184",
+    "output": "img/나무킹_light_glossy_promo_f.webp",
+    "sha256": "2b2d479a73bb1e91920651b75a3d41f6d10bbc6b7fdd5789d3444f9728e62529",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 597424,
+    "reference_slot": null,
+    "qa": "visually inspected identity, hands, five-finger anatomy, framing, form silhouette and paired opening"
+  },
+  {
+    "slot": "heavy",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-f1386c40-3bf5-4a5e-b94a-60068e05d0b6.png",
+    "source_sha256": "be28003da216f75104924031605abcf8c0b8b0e730e578365ccc04fd48ccbd83",
+    "output": "img/나무킹_heavy_glossy_promo_f.webp",
+    "sha256": "65d793f1d0341e001507f90ecd8c8eda97bfef1c8a0d8a69b360a185fef932ab",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 588954,
+    "reference_slot": "light",
+    "qa": "visually inspected identity, hands, five-finger anatomy, framing, form silhouette and paired opening"
+  },
+  {
+    "slot": "mobility",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-1fd483ae-fef9-4413-a616-eca826b43e58.png",
+    "source_sha256": "0b5618da5654f7f4ea9c4680e51855837c52e872990035901030e72e21e2cd6c",
+    "output": "img/나무킹_mobility_glossy_promo_f.webp",
+    "sha256": "d29b533540b214a045f40cea13bd9b10a11b91d9d51e85ab2df711df39c42d1a",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 611742,
+    "reference_slot": "light",
+    "qa": "visually inspected identity, hands, five-finger anatomy, framing, form silhouette and paired opening"
+  },
+  {
+    "slot": "light_overdrive",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-c8c8de02-386e-4630-ac7f-d7114038ed0a.png",
+    "source_sha256": "a8c5f626e88aa991419e8339053720ca268f2c939ef6afa127d02b53bcb5f039",
+    "output": "img/나무킹_light_overdrive_glossy_promo_f.webp",
+    "sha256": "08ec7831a9446dfd6d213f19d292185c8428325d2d837819dc4c1cf41be3fb78",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 671490,
+    "reference_slot": "light",
+    "qa": "visually inspected identity, hands, five-finger anatomy, framing, form silhouette and paired opening"
+  },
+  {
+    "slot": "heavy_overdrive",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-48122945-9c84-4fac-b9da-17ca0cace3f6.png",
+    "source_sha256": "f1841885b828645b8fb7aa77230b8b866fc5cb8022b8f25606b6f368514e6a83",
+    "output": "img/나무킹_heavy_overdrive_glossy_promo_f.webp",
+    "sha256": "3c464c70537e4469b51feb9a469595c58b50e72f435cf8305851235427dcf470",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 657450,
+    "reference_slot": "heavy",
+    "qa": "visually inspected identity, hands, five-finger anatomy, framing, form silhouette and paired opening"
+  },
+  {
+    "slot": "mobility_overdrive",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-d516be4e-4c2c-4b80-b0d0-6885311441e4.png",
+    "source_sha256": "fcc5017fdce1be2546bae1350bca3c6d7152a10e35896d3ab55ac3b590315987",
+    "output": "img/나무킹_mobility_overdrive_glossy_promo_f.webp",
+    "sha256": "a2935937d5afc0e8e0e0c6e315a3424e45f8fc050c74424970c7975684ce9570",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 677230,
+    "reference_slot": "mobility",
+    "qa": "visually inspected identity, hands, five-finger anatomy, framing, form silhouette and paired opening"
+  },
+  {
+    "slot": "casual1",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-091f1995-2a8a-4da3-81ef-6466b8f20e64.png",
+    "source_sha256": "ddb7d2e225f6f06f0ea1797a28583267e604e4c2e4e0213bf400ecef4094d161",
+    "output": "img/나무킹_glossy_promo_f_casual1.webp",
+    "sha256": "882a1b9bfc754d425d281686b13922c2835c71776a5799d3bb9d4c6599976af8",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 644938,
+    "reference_slot": "light",
+    "qa": "visually inspected identity, hands, five-finger anatomy, framing, form silhouette and paired opening"
+  },
+  {
+    "slot": "casual2",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-b550d365-597a-4c3f-8560-69cc74314ec5.png",
+    "source_sha256": "3d359a3c359a0f90bf085a23a03ce2ea67101c6a2d8be6a97495bc4b71db40b1",
+    "output": "img/나무킹_glossy_promo_f_casual2.webp",
+    "sha256": "9d5b252d5a8acbdebde84f9541d6fdee4530353a7b7d176ece2ff2ddbb3cec23",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 434342,
+    "reference_slot": "light",
+    "qa": "visually inspected identity, hands, five-finger anatomy, framing, form silhouette and paired opening"
+  },
+  {
+    "slot": "casual3",
+    "source": "/workspace/scratch/f1217155acad/generated_images/exec-46ef37a2-d100-440a-b05c-036c760be004.png",
+    "source_sha256": "80c30ea30ca48fdf88cee74491c57497d73ab590c417d6a2c6197fa32d0e448b",
+    "output": "img/나무킹_glossy_promo_f_casual3.webp",
+    "sha256": "b4763dc196b69815891b42cca496e4270b0333bd7a07991837e4fc498f41d161",
+    "size": [
+      1024,
+      1536
+    ],
+    "bytes": 436424,
+    "reference_slot": "light",
+    "qa": "visually inspected identity, hands, five-finger anatomy, framing, form silhouette and paired opening"
+  }
+]

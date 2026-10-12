@@ -1,0 +1,24 @@
+CHARACTER: the same woman as the attached image — Sceptile (나무킹) personified, grass type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed
+Pose: Capture the selected activity already in progress with a readable natural gesture.
+Orientation: side body profile, approximately 90 degrees to camera
+Scene: At a sunlit textile hobby bench in late afternoon, body side-on with face clearly turned toward camera, weaving a small green strip on a tabletop loom. One hand guides a wooden shuttle and the other rests on a separate frame corner; both hands and forearms wholly in crop.
+Outfit and props: Ivory off-shoulder short-sleeve blouse with a green fitted waist and coral wide-leg trousers, small gold seed stud earrings. Bare shoulders and forearms; natural cotton and linen clothing.
+Category: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.
+Note: 1024x1536 vertical. Preserve the attached adult identity, haircut and proportions. Both complete five-finger hands inside the chosen crop and visibly connected to their own forearms. Remove all armor, tall crest headpieces and tail sashes; species motifs only in the small jewelry described. No weapons.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

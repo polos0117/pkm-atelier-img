@@ -1,0 +1,17 @@
+{
+  "name": "나무킹",
+  "outputMode": "casual",
+  "cat": "hobbies_leisure",
+  "expr": "focused",
+  "pose": "mid_action",
+  "orient": "side",
+  "frame": "waist_up",
+  "lens": "natural50",
+  "scene": "At a sunlit textile hobby bench in late afternoon, body side-on with face clearly turned toward camera, weaving a small green strip on a tabletop loom. One hand guides a wooden shuttle and the other rests on a separate frame corner; both hands and forearms wholly in crop.",
+  "outfit": "Ivory off-shoulder short-sleeve blouse with a green fitted waist and coral wide-leg trousers, small gold seed stud earrings. Bare shoulders and forearms; natural cotton and linen clothing.",
+  "custom": "1024x1536 vertical. Preserve the attached adult identity, haircut and proportions. Both complete five-finger hands inside the chosen crop and visibly connected to their own forearms. Remove all armor, tall crest headpieces and tail sashes; species motifs only in the small jewelry described. No weapons.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

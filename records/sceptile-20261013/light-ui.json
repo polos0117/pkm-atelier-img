@@ -1,0 +1,31 @@
+{
+  "name": "나무킹",
+  "form": "light",
+  "identityMode": "create",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ],
+    [
+      "hair color",
+      "green"
+    ],
+    [
+      "hairstyle",
+      "swept back"
+    ],
+    [
+      "hair length",
+      "medium"
+    ],
+    [
+      "eye color",
+      "amber"
+    ]
+  ],
+  "expr": "proud",
+  "motifs": "Leaf-green slim armor with a red throat and central undersuit accent, six small yellow seed-like inlays arranged in two neat shoulder-mantle rows, two sharp elongated leaf-shaped forearm guards, a branching evergreen-like tail interpreted as a segmented cloth belt sash, and two low swept crest ornaments.",
+  "scene": "A tranquil botanical research hangar at golden dawn, tall trees behind glass and amber floor reflections. Centered complete adult woman fills 86 percent of image height, head and feet within restrained margins, face toward camera, hands relaxed and fully visible beside her hips.",
+  "custom": "1024x1536 vertical. No weapons. Human adult woman in her twenties. Both hands have five natural separate fingers and remain entirely visible. The yellow seeds are decorative inlays, the leaf guards are costume plates, and the cloth tail sash is not an extra limb."
+}
