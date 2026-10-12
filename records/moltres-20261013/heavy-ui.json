@@ -1,0 +1,16 @@
+{
+  "name": "파이어",
+  "mech": "파이어",
+  "sourceName": "Moltres",
+  "series": "fire / flying",
+  "style": "glossy_promo",
+  "identityMode": "reference",
+  "params": [],
+  "outputMode": "action",
+  "form": "heavy",
+  "expr": "proud",
+  "scene": "A volcanic caldera overlook at violet twilight, dark basalt terrace, warm distant lava glow and soft rising ash. One centered complete adult woman occupies 86 percent of image height, face toward camera, full head and boots visible, both arms relaxed away from hips and open hands readable.",
+  "custom": "1024x1536 vertical. No weapons. Keep her subject height consistent with the approved light card, complete head and boots with clear margins. Both hands relaxed open, each with five clearly separated fingers.",
+  "uiVerified": true,
+  "fnv": 758592528
+}

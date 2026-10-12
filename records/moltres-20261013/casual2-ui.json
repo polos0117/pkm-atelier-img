@@ -1,0 +1,25 @@
+{
+  "name": "파이어",
+  "mech": "파이어",
+  "sourceName": "Moltres",
+  "series": "fire / flying",
+  "style": "glossy_promo",
+  "identityMode": "reference",
+  "params": [],
+  "outputMode": "casual",
+  "cat": "traditional",
+  "expr": "laughing_open",
+  "pose": "dance_step",
+  "orient": "turning_midmotion",
+  "frame": "full_body",
+  "lens": "natural50",
+  "scene": "An empty lantern-lit cultural festival courtyard at evening, turning through a small celebratory dance step with face toward camera and both hands open at waist level. Full head, feet and hands inside the frame; soft amber lantern light.",
+  "outfit": "Opaque saffron-and-red heritage-inspired one-shoulder draped midi dress with a fitted bodice and a modest leg slit, low gold sandals and a tiny flame brooch. Bare shoulder, arms and lower legs; flowing cloth with no armor or wing shapes.",
+  "custom": "1024x1536 vertical. Same adult identity, face, long crimson wavy hair and body as the approved light reference. No armor, weapons, large crest or tail sash. Both complete hands clearly connected to forearms with one thumb and four distinct natural fingers each, away from the image edges.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "uiVerified": true,
+  "fnv": 456428955
+}

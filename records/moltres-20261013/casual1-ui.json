@@ -1,0 +1,25 @@
+{
+  "name": "파이어",
+  "mech": "파이어",
+  "sourceName": "Moltres",
+  "series": "fire / flying",
+  "style": "glossy_promo",
+  "identityMode": "reference",
+  "params": [],
+  "outputMode": "casual",
+  "cat": "food_berries",
+  "expr": "amused",
+  "pose": "preparing_food",
+  "orient": "front_3q",
+  "frame": "waist_up",
+  "lens": "documentary35",
+  "scene": "A private sunlit courtyard kitchen at bright noon, finishing a small baked berry tart on a stone counter by gently sprinkling sugar with one hand while the other rests open beside the plate. Both complete hands and forearms visible, warm terracotta oven in the background.",
+  "outfit": "Opaque golden bandeau top and high-waisted cream shorts beneath a red waist apron, tiny flame stud earrings. Bare shoulders, arms and midriff; ordinary practical cooking clothes, no costume ornaments.",
+  "custom": "1024x1536 vertical. Same adult identity, face, long crimson wavy hair and body as the approved light reference. No armor, weapons, large crest or tail sash. Both complete hands clearly connected to forearms with one thumb and four distinct natural fingers each, away from the image edges.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "uiVerified": true,
+  "fnv": 2229488378
+}

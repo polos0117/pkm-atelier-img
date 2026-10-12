@@ -1,0 +1,25 @@
+{
+  "name": "파이어",
+  "mech": "파이어",
+  "sourceName": "Moltres",
+  "series": "fire / flying",
+  "style": "glossy_promo",
+  "identityMode": "reference",
+  "params": [],
+  "outputMode": "casual",
+  "cat": "lingerie",
+  "expr": "pensive",
+  "pose": "sitting",
+  "orient": "front",
+  "frame": "three_quarter",
+  "lens": "portrait85",
+  "scene": "Alone in a private airy bedroom at soft sunrise, sitting comfortably in a wicker chair while smoothing a folded silk scarf on her lap. Both hands separate and complete, head to above knees; warm sunlight and muted ivory linens.",
+  "outfit": "Opaque burgundy square-neck satin camisole and matching high-waisted satin lounge shorts with delicate cream lace trim, tiny gold flame pendant. Elegant adult lingerie-inspired loungewear; bare arms, shoulders and legs, chest and pelvis fully covered.",
+  "custom": "1024x1536 vertical. Same adult identity, face, long crimson wavy hair and body as the approved light reference. No armor, weapons, large crest or tail sash. Both complete hands clearly connected to forearms with one thumb and four distinct natural fingers each, away from the image edges.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "uiVerified": true,
+  "fnv": 1188636351
+}

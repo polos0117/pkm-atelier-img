@@ -1,0 +1,191 @@
+[
+  {
+    "card": "파이어",
+    "slot": "light",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "actual generator UI; submitted prompt preserved verbatim",
+    "original": "/workspace/scratch/5a557544659b/generated_images/exec-eedd4693-656a-423a-9407-3ff4fbb9b766.png",
+    "original_sha256": "3158d0048a4355eaf4c9cdd5edbc2c0f781ceeba63a0464974e86be4a115d8f4",
+    "output": "img/파이어_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "a14925efd3380635408487994e4105d661f7119fc60eec4f0ce6866be7cd156c",
+    "reference": null,
+    "reference_sha256": null,
+    "edit_target": null,
+    "submitted_prompt": "light.txt",
+    "prompt_sha256": "7d38b9e71bc58bbe6de4b30639c6c03bee9123313cfcae80b675af518762dee9"
+  },
+  {
+    "card": "파이어",
+    "slot": "heavy",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "actual generator UI; submitted prompt preserved verbatim",
+    "original": "/workspace/scratch/5a557544659b/generated_images/exec-e3b01177-942c-424a-a89f-7504d49b879e.png",
+    "original_sha256": "d225af5c07bfe620b23d905322cd7fc4f1f4dc0d1a13a2f00749d38e12965cbe",
+    "output": "img/파이어_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "ea62d0779a342b27253ce6a263c55b8918584b5ab312fb33066a3787de3520a5",
+    "reference": "img/파이어_light_glossy_promo_f.webp",
+    "reference_sha256": "a14925efd3380635408487994e4105d661f7119fc60eec4f0ce6866be7cd156c",
+    "edit_target": null,
+    "submitted_prompt": "heavy.txt",
+    "prompt_sha256": "122c3b2e63b781ad45e22c943d08e987d6fa7330ed00d087e217dbcc0dfee6e5"
+  },
+  {
+    "card": "파이어",
+    "slot": "mobility",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "actual generator UI; submitted prompt preserved verbatim",
+    "original": "/workspace/scratch/5a557544659b/generated_images/exec-77b89da8-f3c8-48b5-b795-34dd05a57d47.png",
+    "original_sha256": "311aaf15e88de5b46f2575bde16289578f671ed251ee4ecd7424cc3635bf9ec5",
+    "output": "img/파이어_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "0b4e88a761fbe3765bbe3fbed85f8f4837f5bdf37726a3e55c53094f3de97b0d",
+    "reference": "img/파이어_light_glossy_promo_f.webp",
+    "reference_sha256": "a14925efd3380635408487994e4105d661f7119fc60eec4f0ce6866be7cd156c",
+    "edit_target": null,
+    "submitted_prompt": "mobility.txt",
+    "prompt_sha256": "c4101d5ff6415dee38b52ceede4ccbab84d8c9cb793cc75f8f6d422cc59537a2"
+  },
+  {
+    "card": "파이어",
+    "slot": "light_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "actual generator UI; submitted prompt preserved verbatim",
+    "original": "/workspace/scratch/5a557544659b/generated_images/exec-3b6bcfc7-8392-456e-945a-d90bb4b8e0a4.png",
+    "original_sha256": "bdc0edf287a5ba84b4a03afcdcbe9f53e678b231e23191a23d91554301dc2ade",
+    "output": "img/파이어_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "27de4ea7c662ba6956288974d31d45f2bcdd1aefd394649d03b094246927593a",
+    "reference": "img/파이어_light_glossy_promo_f.webp",
+    "reference_sha256": "a14925efd3380635408487994e4105d661f7119fc60eec4f0ce6866be7cd156c",
+    "edit_target": null,
+    "submitted_prompt": "light_overdrive.txt",
+    "prompt_sha256": "07a109e8a1dbd82d6c3e7f91d46a802ac2d2ebb24ac7f75fc278befeeb9fbf2f"
+  },
+  {
+    "card": "파이어",
+    "slot": "heavy_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "actual generator UI; submitted prompt preserved verbatim",
+    "original": "/workspace/scratch/5a557544659b/generated_images/exec-35eaf5da-5232-4df7-9f48-03e95a2d0828.png",
+    "original_sha256": "a21d3a6c9e93c705b6857b370ae86f8f744eff470420e036698caba740dbec6e",
+    "output": "img/파이어_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "1f6f19510aa05d20d3aa6c56af57f72fa20a8f7866218a9b2bc627a6f24e9927",
+    "reference": "img/파이어_heavy_glossy_promo_f.webp",
+    "reference_sha256": "ea62d0779a342b27253ce6a263c55b8918584b5ab312fb33066a3787de3520a5",
+    "edit_target": null,
+    "submitted_prompt": "heavy_overdrive.txt",
+    "prompt_sha256": "84822c5ca8ed47c84c72e22c3785011b112f0d1e0547eab25e9ea3fe05a64898"
+  },
+  {
+    "card": "파이어",
+    "slot": "mobility_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "actual generator UI; submitted prompt preserved verbatim",
+    "original": "/workspace/scratch/5a557544659b/generated_images/exec-e89dbaff-f8b6-43d8-8e79-391af3fc8346.png",
+    "original_sha256": "5eee2bb643f4938e7bb487c340d3ebcf8d66ee5f01a0bb02e7d29d35be7f6222",
+    "output": "img/파이어_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "18f61791a0cbd2e8fd13f813c337bfc1f386668716a24c55e1efe18b3b34c1fe",
+    "reference": "img/파이어_mobility_glossy_promo_f.webp",
+    "reference_sha256": "0b4e88a761fbe3765bbe3fbed85f8f4837f5bdf37726a3e55c53094f3de97b0d",
+    "edit_target": null,
+    "submitted_prompt": "mobility_overdrive.txt",
+    "prompt_sha256": "1ba32dd45c4e66e897457d2e35439da90d72e06747a3c1aff355b41a82065f37"
+  },
+  {
+    "card": "파이어",
+    "slot": "casual3",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "actual generator UI; submitted prompt preserved verbatim",
+    "original": "/workspace/scratch/5a557544659b/generated_images/exec-f6193420-b54d-49f2-9125-a0322037e7f2.png",
+    "original_sha256": "58857fcfe7df6aa1f7ffbb1aa869d11f3dfffa1ed9297bdf33f58e28f0e92b97",
+    "output": "img/파이어_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "22e6aa88e964ac8f81dfda8fad468dbcafe5d3da278ce71216803b5f53f69dbc",
+    "reference": "img/파이어_light_glossy_promo_f.webp",
+    "reference_sha256": "a14925efd3380635408487994e4105d661f7119fc60eec4f0ce6866be7cd156c",
+    "edit_target": null,
+    "submitted_prompt": "casual3.txt",
+    "prompt_sha256": "753b3b14b5440fc79cf82d2501b6fedadea2cdc59c1cb493eb9cee7116a9901f"
+  },
+  {
+    "card": "파이어",
+    "slot": "casual1",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "actual generator UI; submitted prompt preserved verbatim",
+    "original": "/workspace/scratch/5a557544659b/generated_images/exec-c0ff8422-888f-49e7-be44-650013279fac.png",
+    "original_sha256": "d3493d466f9c2e4690bd45970ea33176cbd7f4ee9d13d3e6cbba084d17724ce3",
+    "output": "img/파이어_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "5c86915ef29f50eaed72eae77b591d3c6f19d91f2c83b214d4e4f25caca03218",
+    "reference": "img/파이어_light_glossy_promo_f.webp",
+    "reference_sha256": "a14925efd3380635408487994e4105d661f7119fc60eec4f0ce6866be7cd156c",
+    "edit_target": "/workspace/scratch/5a557544659b/generated_images/exec-bcb6ebe5-3050-415a-805f-aba094e075d3.png",
+    "submitted_prompt": "casual1-correction.txt",
+    "prompt_sha256": "14d5de8b7e568b0705c0c8f5789fb4bd04f2df3bdeb36d6881d8ef15a2016618"
+  },
+  {
+    "card": "파이어",
+    "slot": "casual2",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "actual generator UI; submitted prompt preserved verbatim",
+    "original": "/workspace/scratch/5a557544659b/generated_images/exec-f4a0ee7a-82ba-488d-be7b-52982c9f4415.png",
+    "original_sha256": "f7c24c42df286be84d91d379eceae5be354b2f1ba27690d521f8fe4828aa7d86",
+    "output": "img/파이어_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "e571fa190ef4b40db429eca33e57bc63f1aa02b99c972866cbd23e76765d1ce6",
+    "reference": "img/파이어_light_glossy_promo_f.webp",
+    "reference_sha256": "a14925efd3380635408487994e4105d661f7119fc60eec4f0ce6866be7cd156c",
+    "edit_target": "/workspace/scratch/5a557544659b/generated_images/exec-dc718750-7cf0-40fd-9b3e-cdd458bc788b.png",
+    "submitted_prompt": "casual2-correction.txt",
+    "prompt_sha256": "ca96920be3fc274701abbb017462ea25d6849eb70eff000efc31cf9c1e608772"
+  }
+]

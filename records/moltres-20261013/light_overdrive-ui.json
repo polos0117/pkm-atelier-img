@@ -1,0 +1,14 @@
+{
+  "name": "파이어",
+  "mech": "파이어",
+  "sourceName": "Moltres",
+  "series": "fire / flying",
+  "style": "glossy_promo",
+  "identityMode": "reference",
+  "params": [],
+  "outputMode": "action",
+  "form": "overdrive",
+  "baseForm": "light",
+  "uiVerified": true,
+  "fnv": 889266448
+}
