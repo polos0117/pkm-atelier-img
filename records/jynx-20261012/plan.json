@@ -1,0 +1,82 @@
+{
+  "card": "루주라",
+  "style": "glossy_promo",
+  "casual": [
+    {
+      "slot": "casual1",
+      "ui": {
+        "category": "lingerie",
+        "expression": "gentle",
+        "pose": "standing_relaxed",
+        "orientation": "front",
+        "frame": "waist_up",
+        "lens": "portrait85"
+      },
+      "EXPRESSION": "softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere",
+      "POSE": "Stand at ease with relaxed shoulders and naturally balanced feet.",
+      "ORIENTATION": "torso and pelvis face the camera; gaze is independent",
+      "SCENE": "In a private snowy mountain hotel suite at soft dawn, standing comfortably at an open cedar wardrobe, loosely spreading a burgundy silk scarf between two separated hands at waist height while deciding how to style it. Frosted window light, folded blankets, no mirror or other figures.",
+      "OUTFIT": "Opaque fully lined mauve satin slip dress with broad secure shoulder straps, lace-trimmed covered neckline and below-knee flowing hem, small ruby earrings. Bare arms shoulders and upper chest, all intimate areas fully covered; no metal headband or armor.",
+      "CATEGORY": "Use tasteful adult lingerie-inspired evening fashion with full intimate coverage. Describe the garment by its construction — cut, fabric, trim, straps, closures, layers — rather than by mood words. The garments are securely fitted and fully opaque, and the look is suitable for a mainstream evening-fashion editorial. Build the image through framing, silhouette, posture, and lighting rather than exposure.",
+      "FRAMING": "Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.",
+      "LENS": "85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression."
+    },
+    {
+      "slot": "casual2",
+      "ui": {
+        "category": "hobbies_leisure",
+        "expression": "focused",
+        "pose": "sitting",
+        "orientation": "side",
+        "frame": "three_quarter",
+        "lens": "natural50"
+      },
+      "EXPRESSION": "slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed",
+      "POSE": "Sit naturally on a chair or bench with supported feet and readable hands.",
+      "ORIENTATION": "side body profile, approximately 90 degrees to camera",
+      "SCENE": "In an empty vintage conservatory music room at warm late afternoon, sitting upright side-on at a grand piano, playing a simple quiet phrase with both hands separated across the keyboard. Face turned slightly toward viewer, knees and both complete wrists visible; snowy trees beyond glass, no sheet music lettering or other figures.",
+      "OUTFIT": "Opaque crimson sleeveless mock-neck knit top, plum high-waisted A-line midi skirt with a single side slit below the thigh and ivory low heels. Bare arms and a little leg, small snow-crystal pendant; ordinary winter indoor clothing without armor.",
+      "CATEGORY": "Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.",
+      "FRAMING": "Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.",
+      "LENS": "50mm-equivalent natural perspective with balanced proportions and modest depth compression."
+    },
+    {
+      "slot": "casual3",
+      "ui": {
+        "category": "travel_exploration",
+        "expression": "proud",
+        "pose": "waving",
+        "orientation": "front_3q",
+        "frame": "full_body",
+        "lens": "documentary35"
+      },
+      "EXPRESSION": "chin lifted, brows level, eyes bright and steady, closed-lip smile with a firm mouth",
+      "POSE": "Raise one hand near shoulder height in a friendly small wave.",
+      "ORIENTATION": "front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together",
+      "SCENE": "On an empty snowy cable-car observation platform at clear winter noon, giving a small relaxed open-hand wave beside her shoulder while the other empty hand rests naturally on a broad wooden railing. Full head and winter boots visible, distant red cable car and mountains, no signs or other people.",
+      "OUTFIT": "Opaque white cropped quilted jacket worn open over a secure fitted plum thermal top, crimson high-waisted wool shorts over semi-opaque plum tights, white insulated ankle boots and a soft burgundy scarf. Bare small midriff gap and upper chest, tiny crystal studs, no armor.",
+      "CATEGORY": "Show travel or peaceful field exploration in the Pokémon world, with useful travel clothing and a specific activity. Let the environment support the woman without overwhelming her or turning the scene into combat.",
+      "FRAMING": "Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.",
+      "LENS": "35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "reviewed": [
+      "에브이",
+      "마임맨",
+      "아쿠스타",
+      "스라크"
+    ],
+    "scope": "Read plans and all latest nine submitted casual prompts, also compare Scyther generated images",
+    "changed": [
+      "location",
+      "activity",
+      "garment silhouette",
+      "composition"
+    ]
+  }
+}
