@@ -1,0 +1,60 @@
+{
+  "name": "아차모",
+  "no": 255,
+  "hair": "orange",
+  "cut": "bob",
+  "body": "slender",
+  "eyes": "brown",
+  "wear": "Short rounded yellow feather-like shoulder cape over orange close-fitting plates, a small orange-yellow crest hair ornament, a soft feather-edged collar, charcoal flexible joints. A compact warm ember core in the breastplate; no literal wings or animal limbs.",
+  "casual": [
+    {
+      "cat": "food_berries",
+      "expr": "amused",
+      "pose": "preparing_food",
+      "orient": "front_3q",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "In a sunny home breakfast nook, arranging freshly baked orange pastries on a broad ceramic plate at a low counter. One hand places a pastry, the other rests open beside the plate. Both hands separated and visible, face toward camera, warm late-morning sunlight.",
+      "outfit": "Opaque orange sleeveless fitted scoop-neck tank and cream high-waisted A-line mini skirt, tiny yellow feather pendant; bare shoulders arms and legs."
+    },
+    {
+      "cat": "lingerie",
+      "expr": "soft_smile",
+      "pose": "sitting",
+      "orient": "front",
+      "frame": "full_body",
+      "lens": "portrait85",
+      "scene": "In a quiet bright apartment dressing lounge at dusk, seated facing camera on a low upholstered stool, feet supported, one open hand resting on each knee. Full head hands and feet visible, folded textiles on a distant shelf and warm lamp light.",
+      "outfit": "Opaque fully lined apricot satin camisole with fitted covered bust and matching high-waisted loose tap shorts, delicate yellow piping and a small feather charm. Adult lingerie-inspired fashion; bare shoulders arms and legs, chest and pelvis completely covered."
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "curious",
+      "pose": "leaning_furniture",
+      "orient": "side",
+      "frame": "waist_up",
+      "lens": "documentary35",
+      "scene": "At an empty observatory visitor terrace on a clear blue evening, leaning side-on against a low railing and looking back toward camera, one hand lightly adjusting a small orange sun-catching glass ornament resting on a shelf, the other resting open on the railing. Both complete hands inside the crop; stars beyond the terrace.",
+      "outfit": "Opaque cream sleeveless mock-neck cropped knit top with orange high-waisted pleated trousers and tiny gold studs; bare shoulders arms and a midriff gap."
+    }
+  ],
+  "comparison": {
+    "reviewed": [
+      "핫삼",
+      "단단지",
+      "헤라크로스"
+    ],
+    "sources": [
+      "records/scizor-20261013/casual1.txt..casual3.txt",
+      "records/shuckle-20261013/casual1.txt..casual3.txt",
+      "records/heracross-20261013/casual1.txt..casual3.txt"
+    ],
+    "changes": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ],
+    "earlier_this_task": []
+  }
+}

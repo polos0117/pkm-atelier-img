@@ -1,0 +1,262 @@
+{
+  "selected": [
+    {
+      "id": "search",
+      "value": ""
+    },
+    {
+      "id": "group",
+      "value": ""
+    },
+    {
+      "id": "source",
+      "value": "아차모"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo"
+    },
+    {
+      "id": "identity-mode",
+      "value": "reference"
+    },
+    {
+      "id": "form",
+      "value": "mobility"
+    },
+    {
+      "id": "form-override",
+      "value": ""
+    },
+    {
+      "id": "motifs",
+      "value": "Short rounded yellow feather-like shoulder cape over orange close-fitting plates, a small orange-yellow crest hair ornament, a soft feather-edged collar, charcoal flexible joints. A compact warm ember core in the breastplate; no literal wings or animal limbs."
+    },
+    {
+      "id": "expression",
+      "value": "calm"
+    },
+    {
+      "id": "action-category",
+      "value": ""
+    },
+    {
+      "id": "action-example",
+      "value": ""
+    },
+    {
+      "id": "action-timing",
+      "value": ""
+    },
+    {
+      "id": "action-equipment",
+      "value": ""
+    },
+    {
+      "id": "action-power",
+      "value": ""
+    },
+    {
+      "id": "action-effects",
+      "value": ""
+    },
+    {
+      "id": "action-speed",
+      "value": ""
+    },
+    {
+      "id": "action-environment",
+      "value": ""
+    },
+    {
+      "id": "pose",
+      "value": ""
+    },
+    {
+      "id": "orientation",
+      "value": "front_3q"
+    },
+    {
+      "id": "frame",
+      "value": "full_body"
+    },
+    {
+      "id": "lens",
+      "value": "natural50"
+    },
+    {
+      "id": "aspect",
+      "value": "2:3"
+    },
+    {
+      "id": "camera",
+      "value": ""
+    },
+    {
+      "id": "scene",
+      "value": "A quiet futuristic hangar bay with subdued cool depth and a simple floor, no signs or other figures."
+    },
+    {
+      "id": "outfit",
+      "value": ""
+    },
+    {
+      "id": "custom",
+      "value": "1024x1536 vertical. Both complete human hands comfortably inside the frame, visibly connected to their own forearms, each with one thumb and four separate natural fingers. No weapons. Armor motifs never replace fingers. For armor cards the full adult woman occupies about 86% of image height, from head to shoes. Preserve the approved light image subject size and calm hangar lighting."
+    }
+  ],
+  "storage": {
+    "last": "아차모",
+    "cards": {
+      "이상해씨": {
+        "style": "glossy_promo",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "faceDesignOn": true,
+        "params": {},
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "아차모": {
+        "style": "glossy_promo",
+        "identityMode": "reference",
+        "form": "mobility",
+        "baseForm": "light",
+        "motifs": "Short rounded yellow feather-like shoulder cape over orange close-fitting plates, a small orange-yellow crest hair ornament, a soft feather-edged collar, charcoal flexible joints. A compact warm ember core in the breastplate; no literal wings or animal limbs.",
+        "formOverride": "",
+        "headFeature": "",
+        "faceDesignOn": true,
+        "params": {
+          "apparent age": "youthful adult",
+          "hair color": "orange",
+          "hairstyle": "bob",
+          "body type": "slender",
+          "eye color": "brown"
+        },
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "calm",
+            "pose": "",
+            "orient": "front_3q",
+            "scene": "A quiet futuristic hangar bay with subdued cool depth and a simple floor, no signs or other figures.",
+            "outfit": "",
+            "frame": "full_body",
+            "lens": "natural50",
+            "camera": "",
+            "custom": "1024x1536 vertical. Both complete human hands comfortably inside the frame, visibly connected to their own forearms, each with one thumb and four separate natural fingers. No weapons. Armor motifs never replace fingers. For armor cards the full adult woman occupies about 86% of image height, from head to shoes. Preserve the approved light image subject size and calm hangar lighting.",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  },
+  "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Torchic (아차모), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nMOTIFS to keep: Short rounded yellow feather-like shoulder cape over orange close-fitting plates, a small orange-yellow crest hair ornament, a soft feather-edged collar, charcoal flexible joints. A compact warm ember core in the breastplate; no literal wings or animal limbs..\n\nFORM — MOBILITY: the thin plates split and fan outward and back from the shoulders, hips and calves into a swept, open silhouette with air between the panels and compact thrusters; joints stay free. Slim sensor fins sweep back from the temples; no helmet, no giant wings.\n\nOUTPUT: the MOBILITY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nExpression: relaxed brow, softly open eyes, lips closed and unstrained, no smile\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nScene: A quiet futuristic hangar bay with subdued cool depth and a simple floor, no signs or other figures.\nNote: 1024x1536 vertical. Both complete human hands comfortably inside the frame, visibly connected to their own forearms, each with one thumb and four separate natural fingers. No weapons. Armor motifs never replace fingers. For armor cards the full adult woman occupies about 86% of image height, from head to shoes. Preserve the approved light image subject size and calm hangar lighting.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers."
+}

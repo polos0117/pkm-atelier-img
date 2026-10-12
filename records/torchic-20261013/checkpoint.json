@@ -1,0 +1,266 @@
+{
+  "name": "아차모",
+  "date": "2026-10-13",
+  "style": "glossy_promo",
+  "tool": "built-in image_gen",
+  "completed": 9,
+  "required": 9,
+  "status": "generated and visually reviewed; publication pending",
+  "approved_light": {
+    "card": "아차모",
+    "slot": "light",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+    "original": "generated_images/exec-c9fb2615-f551-4692-9ef0-961179198895.png",
+    "original_sha256": "31f10d35ffa16c4cc4efd6ce0b556dbcaad679c742442f5f998e5bb5cd6dfbbd",
+    "output": "img/아차모_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "1b1413c4617a3eb8709233ef9eeefe8126a3a10ebde7fe1f3c78d9556875bccc",
+    "reference": null,
+    "reference_sha256": null,
+    "submitted_prompt": "light.txt",
+    "prompt_sha256": "cfa564cfa5125ba42753653d45aeb0d5092ecde780ad2feca94ad259b50c15ba"
+  },
+  "face_design": {
+    "name": "아차모",
+    "en": "Torchic",
+    "line": "아차모",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "softly rounded",
+      "face length": "short",
+      "face width": "wide",
+      "jaw & chin": "soft rounded jaw",
+      "eye shape": "large",
+      "eye size": "medium",
+      "eye tilt": "level outer corners",
+      "eye spacing": "close-set eyes",
+      "eyebrows": "short rounded brows",
+      "nose character": "prominent defined nose",
+      "lips": "small mouth"
+    },
+    "why": "솜털과 짧은 부리를 둥근 볼과 짧은 사람 코로 해석한다.",
+    "cues": [
+      "‘fluffy coat’ → 얼굴형 부드럽고 둥근 얼굴형",
+      "‘fluffy coat’ → 얼굴 길이 짧은 얼굴",
+      "‘fluffy coat’ → 얼굴 폭 넓은 얼굴",
+      "‘fluffy coat’ → 턱선 · 턱끝 부드럽고 둥근 턱",
+      "‘fluffy coat’ → 눈매 큰 눈",
+      "몸 형태 legs → 눈 간격 눈 사이가 가까운"
+    ],
+    "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 눈썹 가늘고 완만한 곡선 → 짧고 둥근, 코 작고 여린 코 → 크고 또렷한 코"
+  },
+  "face_comparisons": [
+    "핫삼",
+    "단단지",
+    "헤라크로스"
+  ],
+  "face_review": "Visually compared contour/jaw, eye width and slope, nose and mouth proportions without relying on hair or ornament colors.",
+  "casual_comparison": {
+    "reviewed": [
+      "핫삼",
+      "단단지",
+      "헤라크로스"
+    ],
+    "sources": [
+      "records/scizor-20261013/casual1.txt..casual3.txt",
+      "records/shuckle-20261013/casual1.txt..casual3.txt",
+      "records/heracross-20261013/casual1.txt..casual3.txt"
+    ],
+    "changes": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ],
+    "earlier_this_task": []
+  },
+  "images": [
+    {
+      "card": "아차모",
+      "slot": "light",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "generated_images/exec-c9fb2615-f551-4692-9ef0-961179198895.png",
+      "original_sha256": "31f10d35ffa16c4cc4efd6ce0b556dbcaad679c742442f5f998e5bb5cd6dfbbd",
+      "output": "img/아차모_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "1b1413c4617a3eb8709233ef9eeefe8126a3a10ebde7fe1f3c78d9556875bccc",
+      "reference": null,
+      "reference_sha256": null,
+      "submitted_prompt": "light.txt",
+      "prompt_sha256": "cfa564cfa5125ba42753653d45aeb0d5092ecde780ad2feca94ad259b50c15ba"
+    },
+    {
+      "card": "아차모",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "generated_images/exec-34572435-d848-4c7d-941b-9f20c7f10043.png",
+      "original_sha256": "e93c905b619d266a69e635d99155aa76124ddb7b168c110b47c56aca1c642194",
+      "output": "img/아차모_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "de7b5c6e65696688173ce51ad782c4320f51078507791c175e11c21e59cdda59",
+      "reference": "img/아차모_light_glossy_promo_f.webp",
+      "reference_sha256": "1b1413c4617a3eb8709233ef9eeefe8126a3a10ebde7fe1f3c78d9556875bccc",
+      "submitted_prompt": "heavy.txt",
+      "prompt_sha256": "8c5844fd44f4d930f3ba723933122ef22ca0cd53eb3113963682ed687fed0dae"
+    },
+    {
+      "card": "아차모",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "generated_images/exec-d3fa3fd7-c250-461e-a370-6398beb2d76a.png",
+      "original_sha256": "1c10bc0618bf585506734dfacda08eafe7244f4e0e467e074ac2ba36e73424b9",
+      "output": "img/아차모_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "bb467e3b893cf1b58735c8aeb0c75e96250843e914f994440cd4aeb09fc2b6ff",
+      "reference": "img/아차모_light_glossy_promo_f.webp",
+      "reference_sha256": "1b1413c4617a3eb8709233ef9eeefe8126a3a10ebde7fe1f3c78d9556875bccc",
+      "submitted_prompt": "mobility.txt",
+      "prompt_sha256": "9d32439e71497179b34e7a37b2f984181a511ca1df5a1c7440f205df4edcb82b"
+    },
+    {
+      "card": "아차모",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "generated_images/exec-076ad7bb-0a52-4f1d-a8e9-7b85abd6b220.png",
+      "original_sha256": "ca8be1b9ccf2c8035afd41679944e2f229605f2805fc1297a78df0722d70a0da",
+      "output": "img/아차모_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "7607d86516a3cdd4ddab678255e5366067211dbf9a291f03f924c81ccfb5be33",
+      "reference": "img/아차모_light_glossy_promo_f.webp",
+      "reference_sha256": "1b1413c4617a3eb8709233ef9eeefe8126a3a10ebde7fe1f3c78d9556875bccc",
+      "submitted_prompt": "light_overdrive.txt",
+      "prompt_sha256": "d9aac84c0c4a6b650dbef78a9f2f0a1ab756ae53fce09f7f227b6dc5a561944e"
+    },
+    {
+      "card": "아차모",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "generated_images/exec-e72b521a-689e-4b32-9256-012c60b242cc.png",
+      "original_sha256": "1c8a060cd642c8f43ed725a94c5bf687d7c094733d448fe09e12663c5a27ffd3",
+      "output": "img/아차모_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b5298036f6786a417412e9a86ffc0f161c38ba44be28c4c0703262151fd3d666",
+      "reference": "img/아차모_heavy_glossy_promo_f.webp",
+      "reference_sha256": "de7b5c6e65696688173ce51ad782c4320f51078507791c175e11c21e59cdda59",
+      "submitted_prompt": "heavy_overdrive.txt",
+      "prompt_sha256": "ecf65880d1a0202ff20a75b56f6da9ed5dc59476528deaedc05a8b74f27d5ab1"
+    },
+    {
+      "card": "아차모",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "generated_images/exec-7c4fcb97-3e6c-4170-a97e-86135604932f.png",
+      "original_sha256": "a9427234ae38cb52731186393b2820ac9751b86af6062935b3e5698c4fd74207",
+      "output": "img/아차모_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "bf92156f82a282e0e301ed2321dbe4fdc178a988c8d94b0de6597f52426c2cd2",
+      "reference": "img/아차모_mobility_glossy_promo_f.webp",
+      "reference_sha256": "bb467e3b893cf1b58735c8aeb0c75e96250843e914f994440cd4aeb09fc2b6ff",
+      "submitted_prompt": "mobility_overdrive.txt",
+      "prompt_sha256": "ac7ce05117ad939367a909db899772310539583414dd0e5d8d1813bb466582f8"
+    },
+    {
+      "card": "아차모",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "generated_images/exec-e3345573-3bf7-453b-8d98-c8fd8cfe2976.png",
+      "original_sha256": "0f462e44b2878b30953ef155e1dddaedee0393b385244c66666bb4fdc3c77c90",
+      "output": "img/아차모_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "8735a9b0fab5057c9c01dc4da90664e40dc19024c028940dd45493acbd9f3ac1",
+      "reference": "img/아차모_light_glossy_promo_f.webp",
+      "reference_sha256": "1b1413c4617a3eb8709233ef9eeefe8126a3a10ebde7fe1f3c78d9556875bccc",
+      "submitted_prompt": "casual1.txt",
+      "prompt_sha256": "320045a16cda420d8a85f6645b874781a58fa01fabb67698ade4af0ac4041a2c"
+    },
+    {
+      "card": "아차모",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "generated_images/exec-6be4b097-f2b5-4d44-a69f-37909d73ccbc.png",
+      "original_sha256": "b79c3f573ac3e2c6211afae3a40b8715ad00e2e9de85a576825596c8678913ec",
+      "output": "img/아차모_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "22ded8603110dcea86012182c06bec4b497e51b6db8d6a825936fd5cb9808bdc",
+      "reference": "img/아차모_light_glossy_promo_f.webp",
+      "reference_sha256": "1b1413c4617a3eb8709233ef9eeefe8126a3a10ebde7fe1f3c78d9556875bccc",
+      "submitted_prompt": "casual2.txt",
+      "prompt_sha256": "e07ea681b8dc75795860f5b545160dcfa579b122da912278466c230e487c3471"
+    },
+    {
+      "card": "아차모",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+      "original": "generated_images/exec-1b72cd06-8542-4bc4-ae20-c7e37701421c.png",
+      "original_sha256": "b6583c64603d790afc29d594c6eb7a0e1f52e497924e0a6b223d0434b02247d9",
+      "output": "img/아차모_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "81201ed441c506a759bf6c047633cb6f1d3cce5773de84188689ae07259509a9",
+      "reference": "img/아차모_light_glossy_promo_f.webp",
+      "reference_sha256": "1b1413c4617a3eb8709233ef9eeefe8126a3a10ebde7fe1f3c78d9556875bccc",
+      "submitted_prompt": "casual3.txt",
+      "prompt_sha256": "633e9bed755b45e7421a3360fc383135b5ffaac615070c96353c7ebf6d84c7e7"
+    }
+  ]
+}
