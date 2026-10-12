@@ -1,0 +1,163 @@
+{
+  "name": "신뇽",
+  "style": "glossy_promo",
+  "gender": "f",
+  "generator": "built-in image_gen",
+  "images": [
+    {
+      "key": "light",
+      "filename": "신뇽_light_glossy_promo_f.webp",
+      "source": "generated_images/exec-eb748ad9-5f7e-4ade-a57a-b79996f99251.png",
+      "final": "/workspace/scratch/f5b37ff9a10f/pkm-atelier-img/img/신뇽_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "98944db0f5d8175fe79117051c4f5bb5e53ab5a3f77bf4bf92f6381c46c733f2",
+      "prompt": "light.txt",
+      "reference": null,
+      "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands.",
+      "repository_path": "img/신뇽_light_glossy_promo_f.webp"
+    },
+    {
+      "key": "heavy",
+      "filename": "신뇽_heavy_glossy_promo_f.webp",
+      "source": "generated_images/exec-cabcc7cc-1f4b-4b37-ac2e-09c3a1e881d0.png",
+      "final": "/workspace/scratch/f5b37ff9a10f/pkm-atelier-img/img/신뇽_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f5f0802314104eaf8f9b8b0c3717b4fb4db828256c764c5871b39f0f76ad8c24",
+      "prompt": "heavy.txt",
+      "reference": "light",
+      "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands.",
+      "repository_path": "img/신뇽_heavy_glossy_promo_f.webp"
+    },
+    {
+      "key": "mobility",
+      "filename": "신뇽_mobility_glossy_promo_f.webp",
+      "source": "generated_images/exec-40b75a1a-9d7a-448c-8def-e911299bcd8b.png",
+      "final": "/workspace/scratch/f5b37ff9a10f/pkm-atelier-img/img/신뇽_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b72978fcf38a29b7d34d4dc0bcf8971e2d2acf71db59392eb31a61da7f4f2ca3",
+      "prompt": "mobility.txt",
+      "reference": "light",
+      "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands.",
+      "repository_path": "img/신뇽_mobility_glossy_promo_f.webp"
+    },
+    {
+      "key": "light_overdrive",
+      "filename": "신뇽_light_overdrive_glossy_promo_f.webp",
+      "source": "generated_images/exec-0438a96c-22b1-4519-a7c4-50d58e8699a6.png",
+      "final": "/workspace/scratch/f5b37ff9a10f/pkm-atelier-img/img/신뇽_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "14f783c52b499f34bcb308784341ce9ed906558a6bebf3d366f025e7bb484a18",
+      "prompt": "light_overdrive.txt",
+      "reference": "light",
+      "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands.",
+      "repository_path": "img/신뇽_light_overdrive_glossy_promo_f.webp"
+    },
+    {
+      "key": "heavy_overdrive",
+      "filename": "신뇽_heavy_overdrive_glossy_promo_f.webp",
+      "source": "generated_images/exec-82b9d694-0aff-4dd6-880c-bb1115c81c6f.png",
+      "final": "/workspace/scratch/f5b37ff9a10f/pkm-atelier-img/img/신뇽_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "ffef829ff7b8a937bd905fdcddb828999a9f559e87ee9b3aebfb46f4e043e8f8",
+      "prompt": "heavy_overdrive.txt",
+      "reference": "heavy",
+      "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands.",
+      "repository_path": "img/신뇽_heavy_overdrive_glossy_promo_f.webp"
+    },
+    {
+      "key": "mobility_overdrive",
+      "filename": "신뇽_mobility_overdrive_glossy_promo_f.webp",
+      "source": "generated_images/exec-bd05045c-cab6-43db-9096-e012475d0459.png",
+      "final": "/workspace/scratch/f5b37ff9a10f/pkm-atelier-img/img/신뇽_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b72120a23737514a9993a71d6cf3fe68380bac86557ebf8ce347c562e0070827",
+      "prompt": "mobility_overdrive.txt",
+      "reference": "mobility",
+      "qa": "Visually reviewed, original PNG re-converted and verified.",
+      "repository_path": "img/신뇽_mobility_overdrive_glossy_promo_f.webp"
+    },
+    {
+      "key": "casual1",
+      "filename": "신뇽_glossy_promo_f_casual1.webp",
+      "source": "generated_images/exec-ead0c522-cfb5-4d44-8e70-009e3cc6eaaf.png",
+      "final": "/workspace/scratch/f5b37ff9a10f/pkm-atelier-img/img/신뇽_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "74cf69d325da79e0e96976a64239b0c7a0855e92178365dc29ccb274c0eee033",
+      "prompt": "casual1.txt",
+      "reference": "light",
+      "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands.",
+      "repository_path": "img/신뇽_glossy_promo_f_casual1.webp"
+    },
+    {
+      "key": "casual2",
+      "filename": "신뇽_glossy_promo_f_casual2.webp",
+      "source": "generated_images/exec-ffc3f1d1-1112-459a-9181-88552f9348b4.png",
+      "final": "/workspace/scratch/f5b37ff9a10f/pkm-atelier-img/img/신뇽_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "d3cae8c2eca9a25ac025771bd8babfbd7397366b8e4c351b599da631a9154f39",
+      "prompt": "casual2.txt",
+      "reference": "light",
+      "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands.",
+      "repository_path": "img/신뇽_glossy_promo_f_casual2.webp"
+    },
+    {
+      "key": "casual3",
+      "filename": "신뇽_glossy_promo_f_casual3.webp",
+      "source": "generated_images/exec-43dad514-6c28-4974-bd23-dcd677721d2f.png",
+      "final": "/workspace/scratch/f5b37ff9a10f/pkm-atelier-img/img/신뇽_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "d3f5eafe7f4bf5077fbcdd1d5b9c9747cf6021adba8aab6d79272215d2e3ac93",
+      "prompt": "casual3.txt",
+      "reference": "light",
+      "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands.",
+      "repository_path": "img/신뇽_glossy_promo_f_casual3.webp"
+    }
+  ],
+  "face_comparison": {
+    "reviewed": [
+      "미뇽",
+      "신뇽",
+      "망나뇽",
+      "파이어",
+      "나무킹",
+      "썬더"
+    ],
+    "result": "Distinct facial outlines, eye contours and mouth proportions within the same glossy rendering style."
+  }
+}

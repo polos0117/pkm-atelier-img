@@ -1,0 +1,95 @@
+{
+  "mech": "신뇽",
+  "sourceName": "Dragonair",
+  "series": "dragon",
+  "sourceAppearance": {
+    "name": "신뇽",
+    "en": "Dragonair",
+    "color": "blue",
+    "shape": "squiggle",
+    "features": [
+      {
+        "part": "horn",
+        "detail": "small, white horn"
+      },
+      {
+        "part": "wing",
+        "detail": "small, stylized wing"
+      },
+      {
+        "part": "scale",
+        "detail": "sky blue scales"
+      },
+      {
+        "part": "underside",
+        "detail": "white underside"
+      },
+      {
+        "part": "snout",
+        "detail": "rounded snout"
+      },
+      {
+        "part": "orb",
+        "detail": "crystal orbs"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Dragonair_%28Pok%C3%A9mon%29",
+    "revision": 4632022,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "a980f36beceeaaf36a8efd589fa3e6073d24d9a60732cdc55a6e7eec60cc546d",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "faceDesign": {
+    "name": "신뇽",
+    "en": "Dragonair",
+    "line": "미뇽",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "elongated",
+      "face length": "long",
+      "face width": "narrow",
+      "jaw & chin": "long chin with defined jaw",
+      "eye shape": "almond",
+      "eye size": "medium",
+      "eye tilt": "downturned outer corners",
+      "eye spacing": "average eye spacing",
+      "eyebrows": "long arched brows",
+      "nose character": "rounded soft tip",
+      "lips": "medium lips"
+    },
+    "why": "길게 흐르는 몸과 구슬의 곡선을 긴 타원 얼굴과 고요한 눈매로 구분한다.",
+    "cues": [
+      "몸 형태 squiggle → 얼굴형 길고 세련된 얼굴형",
+      "몸 형태 squiggle → 얼굴 길이 긴 얼굴",
+      "몸 형태 squiggle → 얼굴 폭 좁은 얼굴",
+      "‘rounded snout’ → 코 코끝이 둥근"
+    ],
+    "adjusted": ""
+  },
+  "faceDesignOn": true,
+  "style": "glossy_promo",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "form": "light",
+  "cat": "swimwear",
+  "expr": "relieved",
+  "pose": "leaning_furniture",
+  "orient": "side",
+  "frame": "waist_up",
+  "lens": "portrait85",
+  "scene": "At a seaside changing-cabin deck after a morning swim, body side-on and face turned toward viewer, lightly leaning against a wooden rail while unfolding a white towel with both hands separated at waist height. Ocean and striped canvas shade behind, both complete hands and forearms visible, no other figures.",
+  "outfit": "Fully lined opaque sky-blue one-piece swimsuit with white side panels, secure halter neckline and small covered-waist cutouts, tiny blue crystal stud earrings. Bare arms shoulders and small side-waist areas, chest and pelvis fully covered; no armor or large head ornaments.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

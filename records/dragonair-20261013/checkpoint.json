@@ -1,0 +1,34 @@
+{
+  "name": "신뇽",
+  "anchor": {
+    "key": "light",
+    "filename": "신뇽_light_glossy_promo_f.webp",
+    "source": "generated_images/exec-eb748ad9-5f7e-4ade-a57a-b79996f99251.png",
+    "final": "/workspace/scratch/f5b37ff9a10f/pkm-atelier-img/img/신뇽_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "98944db0f5d8175fe79117051c4f5bb5e53ab5a3f77bf4bf92f6381c46c733f2",
+    "prompt": "light.txt",
+    "reference": null,
+    "qa": "Visually reviewed: single adult, framing, identity, armor state, anatomy and hands.",
+    "repository_path": "img/신뇽_light_glossy_promo_f.webp"
+  },
+  "completed": [
+    "light",
+    "heavy",
+    "mobility",
+    "light_overdrive",
+    "heavy_overdrive",
+    "mobility_overdrive",
+    "casual1",
+    "casual2",
+    "casual3"
+  ],
+  "image_commit": null,
+  "registration_commit": null,
+  "status": "All nine images visually and byte-verified; publication verification pending",
+  "ui_prompt_comparison": "Actual browser UI output length and FNV matched submitted exact copies."
+}
