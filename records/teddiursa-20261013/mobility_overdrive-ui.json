@@ -1,0 +1,17 @@
+{
+  "mech": "깜지곰",
+  "style": "glossy_promo",
+  "outputMode": "action",
+  "identityMode": "reference",
+  "form": "overdrive",
+  "params": [
+    [
+      "apparent age",
+      "20s"
+    ]
+  ],
+  "scene": "Warm dawn in a forest-edge maintenance hangar with amber sunbeams and timber ribs, a relaxed balanced standing card pose, both hands separate beside hips.",
+  "camera": "1024x1536 vertical. Eye-level, full figure fills 86 percent of image height, both hands and feet completely visible.",
+  "motifs": "",
+  "baseForm": "mobility"
+}

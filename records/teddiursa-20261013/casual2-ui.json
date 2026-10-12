@@ -1,0 +1,21 @@
+{
+  "mech": "깜지곰",
+  "style": "glossy_promo",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "swimwear",
+  "expr": "playful",
+  "pose": "mid_stride",
+  "orient": "turning_midmotion",
+  "frame": "full_body",
+  "lens": "documentary35",
+  "aspect": "2:3",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "At a quiet sandy lakeshore in clear summer midday, taking a playful small step from ankle-deep water onto the sand, torso turning toward the camera. Both empty hands relaxed separately, entire head and feet visible, soft ripples and pine trees beyond.",
+  "outfit": "Opaque cinnamon-orange bikini with secure wide shoulder straps and high-waisted cream-trim bottoms, a lightweight cream wrap tied at one hip, tiny gold crescent necklace. Bare arms midriff and legs; ordinary swimwear with no creature accessories.",
+  "custom": "Same adult woman as approved light reference. Remove bear-ear headband and tail sash; only tiny crescent jewelry. Five fingers per hand, no extra people or armor.",
+  "camera": "1024x1536 vertical, eye-level. All essential hand gestures inside the crop."
+}

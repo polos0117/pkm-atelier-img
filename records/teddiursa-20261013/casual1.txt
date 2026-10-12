@@ -1,0 +1,25 @@
+CHARACTER: the same woman as the attached image — Teddiursa (깜지곰) personified, normal type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed
+Pose: Work at a kitchen counter, stirring a bowl or arranging ingredients with clearly separated hands and utensils.
+Orientation: torso and pelvis face the camera; gaze is independent
+Scene: In a bright cottage breakfast kitchen at golden morning, drizzling honey over berry toast with a small wooden dipper in her right hand while her left rests open on the counter beside a plain plate. Both forearms and complete hands visible, soft sun through gingham curtains.
+Outfit and props: Opaque cream sleeveless cropped blouse with a square neckline, cinnamon high-waisted linen shorts, tiny crescent pendant. Bare shoulders arms and midriff, everyday cooking outfit, no apron or armor.
+Category: Show a specific everyday cooking, berry-growing or picnic activity in the Pokémon world. Use readable hands, utensils and ingredients; favor ordinary personal life over professional workwear.
+Note: Same adult woman as approved light reference. Remove bear-ear headband and tail sash; only tiny crescent jewelry. Five fingers per hand, no extra people or armor.
+Framing: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+Camera: 1024x1536 vertical, eye-level. All essential hand gestures inside the crop.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

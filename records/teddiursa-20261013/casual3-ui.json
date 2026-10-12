@@ -1,0 +1,21 @@
+{
+  "mech": "깜지곰",
+  "style": "glossy_promo",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "traditional",
+  "expr": "gentle",
+  "pose": "sitting",
+  "orient": "seated_twist",
+  "frame": "three_quarter",
+  "lens": "portrait85",
+  "aspect": "2:3",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "In a quiet lantern-lit textile boutique at blue dusk, seated on a low stool and turning gently toward camera, unfolding an unlettered embroidered cloth over her lap with each hand on a separate edge. Both complete hands visible, copper lanterns and patterned fabric shelves.",
+  "outfit": "Modern heritage-inspired cinnamon wrap blouse with short flutter sleeves and a secured low square neckline, cream high-waisted flowing midi skirt with a side slit, small crescent hair pin. Bare forearms shoulders and part of one leg; soft woven fabric, no armor.",
+  "custom": "Same adult woman as approved light reference. Remove bear-ear headband and tail sash; only tiny crescent jewelry. Five fingers per hand, no extra people or armor.",
+  "camera": "1024x1536 vertical, eye-level. All essential hand gestures inside the crop."
+}

@@ -1,0 +1,276 @@
+{
+  "name": "깜지곰",
+  "date": "2026-10-13",
+  "style": "glossy_promo",
+  "completed": 9,
+  "required": 9,
+  "status": "9 images visually reviewed; ready for non-force main publication",
+  "approved_light": {
+    "card": "깜지곰",
+    "slot": "light",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+    "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-59209d19-da9e-4720-90a7-78f47b2bd5a7.png",
+    "original_sha256": "d4cd391a9fd63d35444f722714b549d9cb68a74870da774bf0573b32d1836c29",
+    "output": "img/깜지곰_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "4f461a388cb97e835030da13f721271e398f37ccff971e5b1655b258dac6f931",
+    "reference": null,
+    "reference_sha256": null,
+    "submitted_prompt": "light.txt",
+    "prompt_sha256": "4fe6711cfde347da5f8f2b6121edce661088daae5ee1f7d30935ed0800f7be9a"
+  },
+  "outputs": [
+    {
+      "card": "깜지곰",
+      "slot": "light",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-59209d19-da9e-4720-90a7-78f47b2bd5a7.png",
+      "original_sha256": "d4cd391a9fd63d35444f722714b549d9cb68a74870da774bf0573b32d1836c29",
+      "output": "img/깜지곰_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4f461a388cb97e835030da13f721271e398f37ccff971e5b1655b258dac6f931",
+      "reference": null,
+      "reference_sha256": null,
+      "submitted_prompt": "light.txt",
+      "prompt_sha256": "4fe6711cfde347da5f8f2b6121edce661088daae5ee1f7d30935ed0800f7be9a"
+    },
+    {
+      "card": "깜지곰",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-ebe2de28-c331-4ca2-a75b-fe16658a7ab4.png",
+      "original_sha256": "05ec0c59e17b598616f76850e8566ae9ad63f34807602696f760acc7332b967f",
+      "output": "img/깜지곰_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c470d28feb88c574587f82cc86f86a46ddd3592ad1a4547d6d13851f697d9521",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-59209d19-da9e-4720-90a7-78f47b2bd5a7.png",
+      "reference_sha256": "d4cd391a9fd63d35444f722714b549d9cb68a74870da774bf0573b32d1836c29",
+      "submitted_prompt": "heavy.txt",
+      "prompt_sha256": "2bb4c42cab8105e17959f170613c775655a8c0f2f2470cdbcf8e4bd30b591228"
+    },
+    {
+      "card": "깜지곰",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-f52b6cd1-1654-49e9-ac81-2d2d03f71627.png",
+      "original_sha256": "c313d73e7549b5420da7e6ac5ebc4f7a9c99db0c4ea6381df692101c1a62e395",
+      "output": "img/깜지곰_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "3ce43334b6dd4a70396e2b391abd9a263dff251af9931fb4c6c0d06bdc27f286",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-59209d19-da9e-4720-90a7-78f47b2bd5a7.png",
+      "reference_sha256": "d4cd391a9fd63d35444f722714b549d9cb68a74870da774bf0573b32d1836c29",
+      "submitted_prompt": "mobility.txt",
+      "prompt_sha256": "8d066babbb62ed6a6fdc45eacb499713925eec49810b9c66d8103ce6a68d56ee"
+    },
+    {
+      "card": "깜지곰",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-45d2123e-5cf1-4d60-b20d-d3d13b7e3146.png",
+      "original_sha256": "556885f3196ed75aa5d312043f8087195469dc259e670172136b7bf1a21a2e03",
+      "output": "img/깜지곰_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "6d0123a190d6f19305eca9101b1482575baa070705d8c87aa16a18630235b6e4",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-59209d19-da9e-4720-90a7-78f47b2bd5a7.png",
+      "reference_sha256": "d4cd391a9fd63d35444f722714b549d9cb68a74870da774bf0573b32d1836c29",
+      "submitted_prompt": "light_overdrive.txt",
+      "prompt_sha256": "766361f4ada57a92070c588f89d1a43b7ec2a6d5ca54bd728d31f9c847842129"
+    },
+    {
+      "card": "깜지곰",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-f0bf652e-929b-4125-8e36-b8aa58569a18.png",
+      "original_sha256": "404b98f6e920bd0106f326c00bcac8bda9cc1f123a5f812ea25654066949dff4",
+      "output": "img/깜지곰_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "bee5c4ca358094a286bf71b6f4e3a7852be8aed28b697100183080c7473d8438",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-ebe2de28-c331-4ca2-a75b-fe16658a7ab4.png",
+      "reference_sha256": "05ec0c59e17b598616f76850e8566ae9ad63f34807602696f760acc7332b967f",
+      "submitted_prompt": "heavy_overdrive.txt",
+      "prompt_sha256": "1f6267514b7f25302f8eb3d36559325e1d7fa88baca7193def37c614ae1eb89a"
+    },
+    {
+      "card": "깜지곰",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-3a813db6-de92-490c-8a9a-f32d13cac771.png",
+      "original_sha256": "e82e4cc9ca59174613d28490f1bc0dbd5d24f385ed2ae2d81fcaeb2c1de65ea0",
+      "output": "img/깜지곰_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b544baed643b39d724b1e7b51c6d055de7bbe0b80c7d513cd65d6dda7c94bb7b",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-f52b6cd1-1654-49e9-ac81-2d2d03f71627.png",
+      "reference_sha256": "c313d73e7549b5420da7e6ac5ebc4f7a9c99db0c4ea6381df692101c1a62e395",
+      "submitted_prompt": "mobility_overdrive.txt",
+      "prompt_sha256": "fd532032bba41c22719522c796adb352d9776a80cdfc227d06c6959bbfc94599"
+    },
+    {
+      "card": "깜지곰",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-309ae478-b33b-4472-bca8-e9ea3183a0a5.png",
+      "original_sha256": "e37ed62a1e1bd69a8f16fc7043525fb2ed9cf804a07cd64aad87551f0731a907",
+      "output": "img/깜지곰_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "37cd6086c35e03b284199c345ce6b4e14e4846595aae3316e5cdc701fd2d32ba",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-59209d19-da9e-4720-90a7-78f47b2bd5a7.png",
+      "reference_sha256": "d4cd391a9fd63d35444f722714b549d9cb68a74870da774bf0573b32d1836c29",
+      "submitted_prompt": "casual1.txt",
+      "prompt_sha256": "cc885ec5629788ec389441b78ef22c7971fcb6f5c9fb51b823a32e0ca6b23da9",
+      "correction_prompt": "casual1-correction.txt",
+      "correction_prompt_sha256": "c09fa7ff7e5947c5ee1ec57f95e87a8695cb17b57b0d2e01bf6837ca497229d5",
+      "correction_review": "Targeted correction visually inspected, complete hand inside frame; identity and remaining scene preserved."
+    },
+    {
+      "card": "깜지곰",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-8d112625-feea-4a1a-bfed-3f58bca90869.png",
+      "original_sha256": "8e4b178780d3970f7acd03ee7122d8df001ede96cad10d8d2d4a570271da8e32",
+      "output": "img/깜지곰_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4505e6b3dbd8aafcf37aa6e818dc810a9e1b0413a625c7a80ed4a3899df59141",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-59209d19-da9e-4720-90a7-78f47b2bd5a7.png",
+      "reference_sha256": "d4cd391a9fd63d35444f722714b549d9cb68a74870da774bf0573b32d1836c29",
+      "submitted_prompt": "casual2.txt",
+      "prompt_sha256": "1ee4af09beddf4c9646cc57d7190d0115566f1d849cdbe92d46439ac37b3f83b"
+    },
+    {
+      "card": "깜지곰",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selected and output checked; matching repository engine serialized unchanged; built-in image_gen",
+      "original": "/workspace/scratch/8b867d548a9b/generated_images/exec-88552f76-79fe-4537-9940-78eadc6970a2.png",
+      "original_sha256": "eb97d5eab433806de9b716d2aeb5bfece3e32543450d8b880e43920ba66c635d",
+      "output": "img/깜지곰_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4b30e9d2b000bb07cecbce38d4ebb3f17dc4229f65c374e2e23194f8a4d71ccf",
+      "reference": "/workspace/scratch/8b867d548a9b/generated_images/exec-59209d19-da9e-4720-90a7-78f47b2bd5a7.png",
+      "reference_sha256": "d4cd391a9fd63d35444f722714b549d9cb68a74870da774bf0573b32d1836c29",
+      "submitted_prompt": "casual3.txt",
+      "prompt_sha256": "9be42bee6abc6a640769b350f950c2f608e12d601295bc6dc5a1ee8182cc7918"
+    }
+  ],
+  "compared_recent": [
+    "핫삼",
+    "단단지",
+    "헤라크로스"
+  ],
+  "face_design": {
+    "name": "깜지곰",
+    "en": "Teddiursa",
+    "line": "깜지곰",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "oval",
+      "face length": "short",
+      "face width": "wide",
+      "jaw & chin": "soft rounded jaw",
+      "eye shape": "large",
+      "eye size": "medium",
+      "eye tilt": "level outer corners",
+      "eye spacing": "close-set eyes",
+      "eyebrows": "fine soft arches",
+      "nose character": "rounded soft tip",
+      "lips": "bow-shaped upper lip"
+    },
+    "why": "아기곰의 둥근 귀와 볼을 둥근 얼굴과 작은 곡선 입술로 해석한다. 성인 비율을 유지한다.",
+    "cues": [
+      "몸 형태 upright → 얼굴형 균형 잡힌 타원형"
+    ],
+    "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 얼굴형 부드럽고 둥근 얼굴형 → 균형 잡힌 타원형, 눈 간격 눈 하나 너비 안팎 → 눈 사이가 가까운"
+  },
+  "face_review": "Compared face contour, jaw and chin, eye proportions, brows, nose and mouth; Teddiursa retains short broad soft face, Ursaring broader firm jaw and low brows, Sneasel tapered chin and sharp eyes.",
+  "face_comparisons": [
+    "핫삼",
+    "단단지",
+    "헤라크로스",
+    "포푸니",
+    "링곰"
+  ],
+  "casual_comparison": {
+    "reviewed": [
+      "핫삼",
+      "단단지",
+      "헤라크로스",
+      "포푸니"
+    ],
+    "sources": [
+      "records/scizor-20261013/casual1.txt..casual3.txt",
+      "records/shuckle-20261013/casual1.txt..casual3.txt",
+      "records/heracross-20261013/casual1.txt..casual3.txt",
+      "records/sneasel-20261013/casual-plan.json"
+    ],
+    "changes": [
+      "location",
+      "specific activity",
+      "outfit silhouette",
+      "framing"
+    ],
+    "earlier_this_task": [
+      "포푸니"
+    ]
+  },
+  "visual_review": "All six card states retain full figure and similar scale; opened states keep their base pose and framing. Three casual scenes differ in action, framing and wardrobe.",
+  "tool": "built-in image_gen"
+}

@@ -1,0 +1,21 @@
+{
+  "mech": "깜지곰",
+  "style": "glossy_promo",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "food_berries",
+  "expr": "focused",
+  "pose": "preparing_food",
+  "orient": "front",
+  "frame": "waist_up",
+  "lens": "natural50",
+  "aspect": "2:3",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "In a bright cottage breakfast kitchen at golden morning, drizzling honey over berry toast with a small wooden dipper in her right hand while her left rests open on the counter beside a plain plate. Both forearms and complete hands visible, soft sun through gingham curtains.",
+  "outfit": "Opaque cream sleeveless cropped blouse with a square neckline, cinnamon high-waisted linen shorts, tiny crescent pendant. Bare shoulders arms and midriff, everyday cooking outfit, no apron or armor.",
+  "custom": "Same adult woman as approved light reference. Remove bear-ear headband and tail sash; only tiny crescent jewelry. Five fingers per hand, no extra people or armor.",
+  "camera": "1024x1536 vertical, eye-level. All essential hand gestures inside the crop."
+}

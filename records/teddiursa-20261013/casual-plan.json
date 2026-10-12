@@ -1,0 +1,65 @@
+[
+  {
+    "mech": "깜지곰",
+    "style": "glossy_promo",
+    "outputMode": "casual",
+    "identityMode": "reference",
+    "cat": "food_berries",
+    "expr": "focused",
+    "pose": "preparing_food",
+    "orient": "front",
+    "frame": "waist_up",
+    "lens": "natural50",
+    "aspect": "2:3",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "scene": "In a bright cottage breakfast kitchen at golden morning, drizzling honey over berry toast with a small wooden dipper in her right hand while her left rests open on the counter beside a plain plate. Both forearms and complete hands visible, soft sun through gingham curtains.",
+    "outfit": "Opaque cream sleeveless cropped blouse with a square neckline, cinnamon high-waisted linen shorts, tiny crescent pendant. Bare shoulders arms and midriff, everyday cooking outfit, no apron or armor.",
+    "custom": "Same adult woman as approved light reference. Remove bear-ear headband and tail sash; only tiny crescent jewelry. Five fingers per hand, no extra people or armor.",
+    "camera": "1024x1536 vertical, eye-level. All essential hand gestures inside the crop."
+  },
+  {
+    "mech": "깜지곰",
+    "style": "glossy_promo",
+    "outputMode": "casual",
+    "identityMode": "reference",
+    "cat": "swimwear",
+    "expr": "playful",
+    "pose": "mid_stride",
+    "orient": "turning_midmotion",
+    "frame": "full_body",
+    "lens": "documentary35",
+    "aspect": "2:3",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "scene": "At a quiet sandy lakeshore in clear summer midday, taking a playful small step from ankle-deep water onto the sand, torso turning toward the camera. Both empty hands relaxed separately, entire head and feet visible, soft ripples and pine trees beyond.",
+    "outfit": "Opaque cinnamon-orange bikini with secure wide shoulder straps and high-waisted cream-trim bottoms, a lightweight cream wrap tied at one hip, tiny gold crescent necklace. Bare arms midriff and legs; ordinary swimwear with no creature accessories.",
+    "custom": "Same adult woman as approved light reference. Remove bear-ear headband and tail sash; only tiny crescent jewelry. Five fingers per hand, no extra people or armor.",
+    "camera": "1024x1536 vertical, eye-level. All essential hand gestures inside the crop."
+  },
+  {
+    "mech": "깜지곰",
+    "style": "glossy_promo",
+    "outputMode": "casual",
+    "identityMode": "reference",
+    "cat": "traditional",
+    "expr": "gentle",
+    "pose": "sitting",
+    "orient": "seated_twist",
+    "frame": "three_quarter",
+    "lens": "portrait85",
+    "aspect": "2:3",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "scene": "In a quiet lantern-lit textile boutique at blue dusk, seated on a low stool and turning gently toward camera, unfolding an unlettered embroidered cloth over her lap with each hand on a separate edge. Both complete hands visible, copper lanterns and patterned fabric shelves.",
+    "outfit": "Modern heritage-inspired cinnamon wrap blouse with short flutter sleeves and a secured low square neckline, cream high-waisted flowing midi skirt with a side slit, small crescent hair pin. Bare forearms shoulders and part of one leg; soft woven fabric, no armor.",
+    "custom": "Same adult woman as approved light reference. Remove bear-ear headband and tail sash; only tiny crescent jewelry. Five fingers per hand, no extra people or armor.",
+    "camera": "1024x1536 vertical, eye-level. All essential hand gestures inside the crop."
+  }
+]

@@ -1,0 +1,25 @@
+CHARACTER: the same woman as the attached image — Teddiursa (깜지곰) personified, normal type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: asymmetric grin with teeth just showing, one brow raised, eyes narrowed with amusement
+Pose: Capture a clear mid-stride step with believable weight transfer.
+Orientation: mid-turn body motion with equipment following its body mounts
+Scene: At a quiet sandy lakeshore in clear summer midday, taking a playful small step from ankle-deep water onto the sand, torso turning toward the camera. Both empty hands relaxed separately, entire head and feet visible, soft ripples and pine trees beyond.
+Outfit and props: Opaque cinnamon-orange bikini with secure wide shoulder straps and high-waisted cream-trim bottoms, a lightweight cream wrap tied at one hip, tiny gold crescent necklace. Bare arms midriff and legs; ordinary swimwear with no creature accessories.
+Category: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.
+Note: Same adult woman as approved light reference. Remove bear-ear headband and tail sash; only tiny crescent jewelry. Five fingers per hand, no extra people or armor.
+Framing: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.
+Lens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.
+Camera: 1024x1536 vertical, eye-level. All essential hand gestures inside the crop.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
