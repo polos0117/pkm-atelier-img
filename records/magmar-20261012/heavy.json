@@ -1,0 +1,109 @@
+{
+  "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Magmar (마그마), fire type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nExpression: level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed\nScene: On an empty black basalt causeway near a volcanic crater at amber dawn. A poised front-three-quarter standing stance, both empty hands relaxed and open beside her hips, face toward the camera.\nNote: 1024x1536 vertical. Keep the same camera distance and head-to-boots subject scale as the attached light card, with the entire head ornaments and boots safely inside narrow clear margins. Both empty hands relaxed beside hips, five distinct human digits each, no weapons.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers.",
+  "ui": [
+    {
+      "id": "search",
+      "value": ""
+    },
+    {
+      "id": "group",
+      "value": ""
+    },
+    {
+      "id": "source",
+      "value": "마그마"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo"
+    },
+    {
+      "id": "identity-mode",
+      "value": "reference"
+    },
+    {
+      "id": "form",
+      "value": "heavy"
+    },
+    {
+      "id": "form-override",
+      "value": ""
+    },
+    {
+      "id": "motifs",
+      "value": ""
+    },
+    {
+      "id": "expression",
+      "value": "confident"
+    },
+    {
+      "id": "action-category",
+      "value": ""
+    },
+    {
+      "id": "action-example",
+      "value": ""
+    },
+    {
+      "id": "action-timing",
+      "value": ""
+    },
+    {
+      "id": "action-equipment",
+      "value": ""
+    },
+    {
+      "id": "action-power",
+      "value": ""
+    },
+    {
+      "id": "action-effects",
+      "value": ""
+    },
+    {
+      "id": "action-speed",
+      "value": ""
+    },
+    {
+      "id": "action-environment",
+      "value": ""
+    },
+    {
+      "id": "pose",
+      "value": ""
+    },
+    {
+      "id": "orientation",
+      "value": ""
+    },
+    {
+      "id": "frame",
+      "value": ""
+    },
+    {
+      "id": "lens",
+      "value": ""
+    },
+    {
+      "id": "aspect",
+      "value": "2:3"
+    },
+    {
+      "id": "camera",
+      "value": ""
+    },
+    {
+      "id": "scene",
+      "value": "On an empty black basalt causeway near a volcanic crater at amber dawn. A poised front-three-quarter standing stance, both empty hands relaxed and open beside her hips, face toward the camera."
+    },
+    {
+      "id": "outfit",
+      "value": ""
+    },
+    {
+      "id": "custom",
+      "value": "1024x1536 vertical. Keep the same camera distance and head-to-boots subject scale as the attached light card, with the entire head ornaments and boots safely inside narrow clear margins. Both empty hands relaxed beside hips, five distinct human digits each, no weapons."
+    }
+  ]
+}

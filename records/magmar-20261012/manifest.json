@@ -1,0 +1,168 @@
+{
+  "card": "마그마",
+  "count": 9,
+  "images": [
+    {
+      "slot": "light",
+      "file": "마그마_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "81ba40b2b89aded90431e8d3722d043633a1b9ecc177815cafc3816d11eecd46",
+      "source": "work/magmar/raw/light.png",
+      "reference": null,
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "light.txt",
+      "ui": "light.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "heavy",
+      "file": "마그마_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "c7ffe566fd28af91b3d44ced2339c0b15b1952713ca9f89f0a1d6152a05fa3c5",
+      "source": "work/magmar/raw/heavy.png",
+      "reference": "light",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "heavy.txt",
+      "ui": "heavy.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "mobility",
+      "file": "마그마_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "bd7530b692272e1ca3300e43ab30286f0e334f9714da14f7f20fa76359d6981a",
+      "source": "work/magmar/raw/mobility.png",
+      "reference": "light",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "mobility.txt",
+      "ui": "mobility.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "light_overdrive",
+      "file": "마그마_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "40a162ba2f05f863b2ce4ed3733e05b65113e36890b45bb84770759579516328",
+      "source": "work/magmar/raw/light_overdrive.png",
+      "reference": "light",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "light_overdrive.txt",
+      "ui": "light_overdrive.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "file": "마그마_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "1123b1be0c5e0ec7683d74515121042c505c599dd607c9eb9f1cac83dc34a59c",
+      "source": "work/magmar/raw/heavy_overdrive.png",
+      "reference": "heavy",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "heavy_overdrive.txt",
+      "ui": "heavy_overdrive.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "file": "마그마_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "a4a3e37c6350e22f0422b8c861fec67a3fc3e12668bcb2828878e89e61bc58ff",
+      "source": "work/magmar/raw/mobility_overdrive.png",
+      "reference": "mobility",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "mobility_overdrive.txt",
+      "ui": "mobility_overdrive.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "casual1",
+      "file": "마그마_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "4885ee64e05eec82fc827ca6874f00cb155bd8ea6a22e9e92a237a123cbd4f15",
+      "source": "work/magmar/raw/casual1.png",
+      "reference": "light",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "casual1.txt",
+      "ui": "casual1.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "casual2",
+      "file": "마그마_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "b2b080492c797d78ba24c45d97c05ec3105f7e7b64f4932630a916a0ecc5ad33",
+      "source": "work/magmar/raw/casual2.png",
+      "reference": "light",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "casual2.txt",
+      "ui": "casual2.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    },
+    {
+      "slot": "casual3",
+      "file": "마그마_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WebP",
+      "sha256": "5218a4efadbb842c794eb151bb2d7801b0a6f8d2cf581b6880131963265dbe6d",
+      "source": "work/magmar/raw/casual3.png",
+      "reference": "light",
+      "style": "glossy_promo",
+      "styleEvidence": "Actual UI selection",
+      "generator": "built-in image_gen",
+      "prompt": "casual3.txt",
+      "ui": "casual3.json",
+      "qa": "Single adult; identity, form distinction, framing, hands and no text inspected."
+    }
+  ]
+}

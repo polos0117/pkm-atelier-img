@@ -1,0 +1,57 @@
+{
+  "card": "마그마",
+  "style": "glossy_promo",
+  "casual": [
+    {
+      "slot": "casual1",
+      "cat": "adult_roleplay",
+      "expr": "focused",
+      "pose": "leaning_furniture",
+      "orient": "front_3q",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "In an empty glass-art workshop at late afternoon, leaning lightly against a wide stone workbench while inspecting a cool finished amber glass bowl resting on the bench. Both hands spread naturally on separate edges of the bowl, fully in frame. Kiln glow in the distant background and warm side light, no live flame near skin.",
+      "outfit": "Original artisan event-fashion: opaque cream sleeveless square-neck fitted top, red high-waisted tailored shorts, short ochre waist apron, simple safety glasses resting on her head, small flame stud earrings. Bare shoulders arms and legs, a narrow midriff gap; secure full chest and pelvis coverage, no armor."
+    },
+    {
+      "slot": "casual2",
+      "cat": "active",
+      "expr": "amused",
+      "pose": "dance_step",
+      "orient": "front",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "On an empty rooftop exercise terrace at blue sunrise, taking a small lively dance practice step with relaxed open hands at different heights away from her face. Full head hands and sneakers visible, distant city and soft blue-pink sky, no signage.",
+      "outfit": "Opaque black broad-strap athletic crop top with secure chest coverage, red high-waisted flowing track trousers with gold side stripe, white sneakers and a small flame hairclip. Bare arms shoulders and midriff, sporty contemporary clothes without armor."
+    },
+    {
+      "slot": "casual3",
+      "cat": "food_berries",
+      "expr": "gentle",
+      "pose": "offering_food",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "At her empty street-food trailer on a rainy night, standing side-on with her face turned toward the viewer while presenting a small paper tray of grilled corn on one relaxed palm, the other hand open beside the counter. Head through knees, both hands clear, warm canopy light and wet pavement reflections, no customer or lettering.",
+      "outfit": "Opaque pale-yellow short-sleeve knot-front blouse with covered chest, red high-waisted A-line knee-length skirt and a short black waist apron, tan flat shoes, a tiny flame pendant. Bare forearms lower legs and small midriff; everyday clothes, no armor."
+    }
+  ],
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "comparison": {
+    "reviewed": [
+      "야도킹",
+      "에레브",
+      "니로우"
+    ],
+    "scope": "Read all three plans and casual1 submitted prompt for each; distinct location, activity, silhouette and composition for this batch.",
+    "changed": [
+      "location",
+      "activity",
+      "garment silhouette",
+      "composition"
+    ]
+  }
+}
