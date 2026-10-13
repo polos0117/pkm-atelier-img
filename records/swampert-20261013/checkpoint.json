@@ -8,8 +8,8 @@
     "링곰",
     "깜지곰"
   ],
-  "validation": "Viewed generated outputs: identity, hands, complete frame, form differences and closed/open alignment. Dimensions and WebP decoded locally.",
-  "publication": "Awaiting main fast-forward publication and automatic registration",
+  "validation": "Every generated image visually reviewed for identity, anatomy, hands, frame and same-pose opening; all 27 remote original WebP files downloaded, decoded and SHA-256 matched against manifest. Original size 1024x1536; thumbnails validated separately.",
+  "publication": "Complete: 9 original images, 9 automatic thumbnails and 9 dex entries verified on both main branches",
   "assets": [
     {
       "card": "대짱이",
@@ -271,5 +271,13 @@
       }
     }
   ],
-  "diversity_changes": "Changed place, specific activity, garment silhouette and framing relative to recent three and this family; categories, expressions, poses, orientations and crops are individually chosen in actual UI. Compared generated light faces side by side with hair/ornaments excluded from identity judgment."
+  "diversity_changes": "Changed place, specific activity, garment silhouette and framing relative to recent three and this family; categories, expressions, poses, orientations and crops are individually chosen in actual UI. Compared generated light faces side by side with hair/ornaments excluded from identity judgment.",
+  "original_remote_validation": "27/27 passed, immutable image main cbebe969cc98c70064017925ca0ed182c220070c",
+  "image_commit": "cbebe969cc98c70064017925ca0ed182c220070c",
+  "code_registration_commit": "baf4b36",
+  "recovery": "Approved light image and all final WebP assets are stored under img/ in polos0117/pkm-atelier-img main. Prompts and actual UI values are stored beside this checkpoint. Reuse the approved light file as identity; opened shots use their own closed-form file.",
+  "code_metadata_commit": "10324231150c9a356be7550e027002985ccfeae8",
+  "thumbnail_verified_main": "405a2d4274607a367925db1b720c16b4a0d998bf",
+  "thumbnail_validation": "27/27 remote thumbnails decoded, 341x512 WebP",
+  "checks": "Repository register-images --check and forms checks passed; face-design engine/document checks and patch format checks passed. No prune, deletions or force updates."
 }

@@ -8,8 +8,8 @@
     "링곰",
     "깜지곰"
   ],
-  "validation": "Viewed generated outputs: identity, hands, complete frame, form differences and closed/open alignment. Dimensions and WebP decoded locally.",
-  "publication": "Awaiting main fast-forward publication and automatic registration",
+  "validation": "Every generated image visually reviewed for identity, anatomy, hands, frame and same-pose opening; all 27 remote original WebP files downloaded, decoded and SHA-256 matched against manifest. Original size 1024x1536; thumbnails validated separately.",
+  "publication": "Complete: 9 original images, 9 automatic thumbnails and 9 dex entries verified on both main branches",
   "assets": [
     {
       "card": "늪짱이",
@@ -211,7 +211,9 @@
   },
   "final_face_line": "FACE (her own structure, not the style's default face): oval face, balanced length, medium width; soft rounded jaw; narrow eyes, medium size, level outer corners, average spacing; straight medium brows; broad low bridge nose; wide mouth.",
   "family_compared": [
-    "물짱이"
+    "물짱이",
+    "늪짱이",
+    "대짱이"
   ],
   "casual_plan": [
     {
@@ -269,5 +271,13 @@
       }
     }
   ],
-  "diversity_changes": "Compared with recent three and Mudkip: pottery workbench / stationary bowl / halter linen and short apron / front waist-up; tidal deck / seated rest / one-piece swimsuit / seated full body; repair courtyard / walking with helmet / cycling kit / side knee-up. Each differs in place, activity and garment silhouette from nearby candidates."
+  "diversity_changes": "Compared with recent three and Mudkip: pottery workbench / stationary bowl / halter linen and short apron / front waist-up; tidal deck / seated rest / one-piece swimsuit / seated full body; repair courtyard / walking with helmet / cycling kit / side knee-up. Each differs in place, activity and garment silhouette from nearby candidates.",
+  "original_remote_validation": "27/27 passed, immutable image main cbebe969cc98c70064017925ca0ed182c220070c",
+  "image_commit": "cc468634d645fec16f4491e859ede6e6d7f66e5f",
+  "code_registration_commit": "57476e0",
+  "recovery": "Approved light image and all final WebP assets are stored under img/ in polos0117/pkm-atelier-img main. Prompts and actual UI values are stored beside this checkpoint. Reuse the approved light file as identity; opened shots use their own closed-form file.",
+  "code_metadata_commit": "10324231150c9a356be7550e027002985ccfeae8",
+  "thumbnail_verified_main": "405a2d4274607a367925db1b720c16b4a0d998bf",
+  "thumbnail_validation": "27/27 remote thumbnails decoded, 341x512 WebP",
+  "checks": "Repository register-images --check and forms checks passed; face-design engine/document checks and patch format checks passed. No prune, deletions or force updates."
 }

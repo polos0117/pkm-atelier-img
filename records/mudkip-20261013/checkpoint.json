@@ -8,8 +8,8 @@
     "링곰",
     "깜지곰"
   ],
-  "validation": "Viewed generated outputs: identity, hands, complete frame, form differences and closed/open alignment. Dimensions and WebP decoded locally.",
-  "publication": "Awaiting main fast-forward publication and automatic registration",
+  "validation": "Every generated image visually reviewed for identity, anatomy, hands, frame and same-pose opening; all 27 remote original WebP files downloaded, decoded and SHA-256 matched against manifest. Original size 1024x1536; thumbnails validated separately.",
+  "publication": "Complete: 9 original images, 9 automatic thumbnails and 9 dex entries verified on both main branches",
   "assets": [
     {
       "card": "물짱이",
@@ -182,5 +182,102 @@
       "submitted_prompt": "casual3.txt",
       "prompt_sha256": "3153d0e6893fcfb79ea4ecb6ef9f664af72c028d4590a945235b1b6274f5546f"
     }
-  ]
+  ],
+  "face_design": {
+    "name": "물짱이",
+    "en": "Mudkip",
+    "line": "물짱이",
+    "how": "species",
+    "registered": true,
+    "face": {
+      "face shape": "softly rounded",
+      "face length": "short",
+      "face width": "wide",
+      "jaw & chin": "soft rounded jaw",
+      "eye shape": "large",
+      "eye size": "small",
+      "eye tilt": "level outer corners",
+      "eye spacing": "wide-set eyes",
+      "eyebrows": "fine soft arches",
+      "nose character": "balanced nose",
+      "lips": "wide mouth"
+    },
+    "why": "큰 머리와 작은 검은 눈을 넓고 둥근 얼굴과 작은 사람 눈으로 옮긴다.",
+    "cues": [
+      "‘black, beady eyes’ → 눈 크기 작은 눈",
+      "몸 형태 quadruped → 눈 간격 눈 사이가 넓은"
+    ],
+    "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 코 작고 여린 코 → 보통"
+  },
+  "final_face_line": "FACE (her own structure, not the style's default face): softly rounded face, short length, wide width; soft rounded jaw; open rounded eyes, small size, level outer corners, wide-set; fine soft arches; balanced nose; wide mouth.",
+  "family_compared": [
+    "물짱이",
+    "늪짱이",
+    "대짱이"
+  ],
+  "casual_plan": [
+    {
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "cat": "travel_exploration",
+      "expr": "curious",
+      "pose": "leaning_furniture",
+      "orient": "front_3q",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "Inside a riverside glass observation hut at overcast noon, leaning lightly on a wooden specimen table and observing one clear droplet on a smooth pebble. Her right hand rests openly beside the pebble; left hand separately braces the table. Both complete hands inside the crop.",
+      "outfit": "Opaque turquoise square-neck sleeveless top with a short orange utility vest worn open and high-waisted cream field shorts, tiny blue fin pendant; bare shoulders, arms and small midriff.",
+      "camera": "1024x1536 vertical, eye-level, both hands completely inside the waist-up crop.",
+      "custom": "Same clearly adult woman as the light reference. Remove all armor, fin crest, large gill ornaments and waist tails; species appears only in the tiny pendant.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "cat": "adult_roleplay",
+      "expr": "soft_smile",
+      "pose": "waving",
+      "orient": "front",
+      "frame": "full_body",
+      "lens": "telephoto135",
+      "scene": "At an empty aquarium evening-event entrance, giving a small welcoming wave with the right hand; left hand relaxed open by her thigh. Blue glass tank glow and warm spotlights, clean floor, no guests or readable signs.",
+      "outfit": "Adult aquarium-host event fashion: opaque cobalt halter mini dress with orange piping, open shoulders and back, softly flared skirt, white low-heeled sandals, tiny fin brooch; chest and pelvis fully covered.",
+      "camera": "1024x1536 vertical. Full head-to-toe portrait including both complete hands and sandals, eye-level telephoto.",
+      "custom": "Same clearly adult woman as the light reference. Remove all armor, fin crest, large gill ornaments and waist tails; species appears only in the tiny pendant.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "cat": "hobbies_leisure",
+      "expr": "amused",
+      "pose": "carrying_something",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "documentary35",
+      "scene": "In a small quiet paper-and-stationery shop at late afternoon, selecting two folded sheets of colored paper for making boats; hold them lightly at waist height with separated hands and readable fingers. Warm window light, shelves with blank unlettered paper boxes, no other people.",
+      "outfit": "Opaque white sleeveless boat-neck blouse knotted at the waist, orange high-waisted A-line short skirt, light blue scarf tied to a wrist, simple sandals; bare arms and legs, tiny fin-shaped stud earrings.",
+      "camera": "1024x1536 vertical, knee-up side-view body with face turned toward camera enough to identify her; both complete hands and paper in crop.",
+      "custom": "Same clearly adult woman as the light reference. Remove all armor, fin crest, large gill ornaments and waist tails; species appears only in the tiny pendant.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    }
+  ],
+  "diversity_changes": "Changed place, specific activity, garment silhouette and framing relative to recent three and this family; categories, expressions, poses, orientations and crops are individually chosen in actual UI. Compared generated light faces side by side with hair/ornaments excluded from identity judgment.",
+  "original_remote_validation": "27/27 passed, immutable image main cbebe969cc98c70064017925ca0ed182c220070c",
+  "image_commit": "5dc842cfdf8e28e0e3734592800ce3260247fc35",
+  "code_registration_commit": "4a8c15c",
+  "recovery": "Approved light image and all final WebP assets are stored under img/ in polos0117/pkm-atelier-img main. Prompts and actual UI values are stored beside this checkpoint. Reuse the approved light file as identity; opened shots use their own closed-form file.",
+  "code_metadata_commit": "10324231150c9a356be7550e027002985ccfeae8",
+  "thumbnail_verified_main": "405a2d4274607a367925db1b720c16b4a0d998bf",
+  "thumbnail_validation": "27/27 remote thumbnails decoded, 341x512 WebP",
+  "checks": "Repository register-images --check and forms checks passed; face-design engine/document checks and patch format checks passed. No prune, deletions or force updates."
 }
