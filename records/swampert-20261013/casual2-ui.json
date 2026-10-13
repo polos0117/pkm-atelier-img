@@ -1,0 +1,18 @@
+{
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "travel_exploration",
+  "expr": "determined",
+  "pose": "mid_action",
+  "orient": "front",
+  "frame": "full_body",
+  "lens": "natural50",
+  "scene": "At a quiet coastal weather-observation post in cool cloudy midday, adjusting a simple blank hand dial at waist height with one hand while the other rests separately on the post. Small weather mast, distant lighthouse and wind-bent grass, practical peaceful field activity. No text or numbers on instruments.",
+  "outfit": "Opaque orange sleeveless utility romper with a secured collared neckline, blue belt and tailored mid-thigh shorts in one garment, white walking shoes, a small navy fin pin, bare arms and legs; light cream wind jacket tied around waist.",
+  "camera": "1024x1536 vertical, full head-to-toe frontal portrait including both shoes and complete hands, modest 50mm perspective.",
+  "custom": "Same adult woman as the approved light reference. Remove armor, large fin ornaments, gills and mantle; only tiny triangular jewelry echoes her species.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

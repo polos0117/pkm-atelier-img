@@ -1,0 +1,275 @@
+{
+  "card": "대짱이",
+  "complete": "9/9",
+  "light_reference": "img/대짱이_light_glossy_promo_f.webp",
+  "light_sha256": "c0a66b0fbed4fb5690f0562a7422cff26f222239ebb46defa24bb93d9c074800",
+  "recent_compared": [
+    "영치코",
+    "링곰",
+    "깜지곰"
+  ],
+  "validation": "Viewed generated outputs: identity, hands, complete frame, form differences and closed/open alignment. Dimensions and WebP decoded locally.",
+  "publication": "Awaiting main fast-forward publication and automatic registration",
+  "assets": [
+    {
+      "card": "대짱이",
+      "slot": "light",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+      "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-b891808b-54dd-40d0-bb02-24c658f2d15a.png",
+      "original_sha256": "b39d71385af452be21a474677cda8883e473fdeed6a757fa71293dbd0eaf0a05",
+      "output": "img/대짱이_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c0a66b0fbed4fb5690f0562a7422cff26f222239ebb46defa24bb93d9c074800",
+      "reference": null,
+      "submitted_prompt": "light.txt",
+      "prompt_sha256": "cd24bba99c1ea4c464fdd53fc3c42364608d2d8860edebac0c42cfe4749eff75"
+    },
+    {
+      "card": "대짱이",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+      "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-e6d28d08-c51a-42c7-9501-ddbd293e3008.png",
+      "original_sha256": "f433174f7ea0b63ec0bb5f86e46d5893f231051c84a25eb3c8dad8768a91ff51",
+      "output": "img/대짱이_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "5218dd73f1ed9e2ce1531bcadb65b775d78e789a2f657dfa51f8953f11ec8619",
+      "reference": "img/대짱이_light_glossy_promo_f.webp",
+      "submitted_prompt": "heavy.txt",
+      "prompt_sha256": "04d597add0b945c4a7afe80d807a3ca8cb03842da09ff0be7a19a18c99f96228"
+    },
+    {
+      "card": "대짱이",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+      "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-eed2eb1a-0cb5-45d0-a3dc-f12635c49a73.png",
+      "original_sha256": "fe9b337d1afa7a00cebe380f8cecdbfe0179c098399fc65e0d3b3eaa78fa4dde",
+      "output": "img/대짱이_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "766b946705fddfdd5e073a03b2ca2e848a5514afb89b2cc3c372579d4c326e66",
+      "reference": "img/대짱이_light_glossy_promo_f.webp",
+      "submitted_prompt": "mobility.txt",
+      "prompt_sha256": "0733a478462779ddeeb2356af5ed6907b8f45cb7faaf408374ef6897e20d34ca"
+    },
+    {
+      "card": "대짱이",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+      "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-41701bcd-1241-49f4-b7ab-df706bee7224.png",
+      "original_sha256": "5068048380267e5e28bf90a1bc52f8739c9af07fd252156749b963a8bea8facd",
+      "output": "img/대짱이_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "012dab9a6966f81c9f85a1696c07711d9c7ffb695e77ca25753edbb85e4639e0",
+      "reference": "img/대짱이_light_glossy_promo_f.webp",
+      "submitted_prompt": "light_overdrive.txt",
+      "prompt_sha256": "73b4e7d27fcd6c0da9cd42b2ec9827f3b9efa2ab8609ad90688f3557be5eed70"
+    },
+    {
+      "card": "대짱이",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+      "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-f8a5a049-c13d-46ec-8fe8-730a0a911120.png",
+      "original_sha256": "77744bd536d6c0eafd2a571c1a11a19bc41241ea4cc84333f013d7d2bc4616e3",
+      "output": "img/대짱이_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "78a1faeac1076cc471eecec7edcf8e6b971e3e586fd93acc9a1b525628453bba",
+      "reference": "img/대짱이_heavy_glossy_promo_f.webp",
+      "submitted_prompt": "heavy_overdrive.txt",
+      "prompt_sha256": "1cd3a58ec20df88a508f34545ee42dbd8160e93f097ad4187d2c95c164824d58"
+    },
+    {
+      "card": "대짱이",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+      "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-9f3863a9-c8be-4af9-9bae-02e6795fe151.png",
+      "original_sha256": "5ac1546d98b1d6037fe85b1359de03cb5d959acddba7b7e47b8ad02b3498f97e",
+      "output": "img/대짱이_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "84bcaa28e42095345984d077ff6e9187ca836d095b96339096c325988cf8d72b",
+      "reference": "img/대짱이_mobility_glossy_promo_f.webp",
+      "submitted_prompt": "mobility_overdrive.txt",
+      "prompt_sha256": "14cb7e053b5e09a182e150ba1bd61a6f3194018903a42bbb7fc6f92479ad5c95"
+    },
+    {
+      "card": "대짱이",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+      "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-7428a6b3-f119-41b6-9e35-db60872b8d63.png",
+      "original_sha256": "365dd9169fc702c3e4ff0dd9de7bb164a11f0874d0eb039e5caeed6b45e9d036",
+      "output": "img/대짱이_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e2d95a97e95a0807ac99ae96c57a02076a2ff97adf98eff3ff76708e0e0eb24b",
+      "reference": "img/대짱이_light_glossy_promo_f.webp",
+      "submitted_prompt": "casual1.txt",
+      "prompt_sha256": "248afd07d25e0eabdf4dccb2933f96cb478aae1ba44726304d927590821157f8"
+    },
+    {
+      "card": "대짱이",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+      "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-b5b5802b-5043-411b-87b3-191ce521056f.png",
+      "original_sha256": "b21bd8a034a8eea2498a2399e96ac98ff69438b96c0ccd56c7a628d0a129e9e7",
+      "output": "img/대짱이_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "31cb137d237a511e10d5cbcbd4b93e89025850b819cfdd6398c6e32a67b57111",
+      "reference": "img/대짱이_light_glossy_promo_f.webp",
+      "submitted_prompt": "casual2.txt",
+      "prompt_sha256": "fdcd7cad017b4fec0b3007ec6fbe793636fce8890dc0945273ddecd086905f3c"
+    },
+    {
+      "card": "대짱이",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+      "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-e5c615a6-4eac-473c-87e3-08bc968eb09e.png",
+      "original_sha256": "67b96c8c8aa28d98feb6225afbed2195c7f4153f84677c4d03039afa8ee5fa26",
+      "output": "img/대짱이_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4f474f48220a295631b129ec654b9ac2b33ff4cd09a9d01612335e8a76d19180",
+      "reference": "img/대짱이_light_glossy_promo_f.webp",
+      "submitted_prompt": "casual3.txt",
+      "prompt_sha256": "50cf6c1dccd5631caa6fb0c48b3ec117b9a83b1c33232e9b8ed0e6df6df3bde2"
+    }
+  ],
+  "face_design": {
+    "name": "대짱이",
+    "en": "Swampert",
+    "line": "물짱이",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "oval",
+      "face length": "balanced",
+      "face width": "wide",
+      "jaw & chin": "wide heavy chin",
+      "eye shape": "almond",
+      "eye size": "medium",
+      "eye tilt": "downturned outer corners",
+      "eye spacing": "average eye spacing",
+      "eyebrows": "thick low brows",
+      "nose character": "broad low bridge",
+      "lips": "wide mouth"
+    },
+    "why": "큰 부채꼴 지느러미와 넓은 체적을 넓은 하관과 안정적인 눈매로 옮긴다.",
+    "cues": [
+      "몸 형태 upright → 얼굴형 균형 잡힌 타원형",
+      "땅 타입 → 코 콧대가 낮고 넓은"
+    ],
+    "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 코 코끝이 둥근 → 콧대가 낮고 넓은"
+  },
+  "final_face_line": "FACE (her own structure, not the style's default face): oval face, balanced length, wide width; wide heavy chin; almond eyes, medium size, downturned outer corners, average spacing; thick low brows; broad low bridge nose; wide mouth.",
+  "family_compared": [
+    "물짱이",
+    "늪짱이",
+    "대짱이"
+  ],
+  "casual_plan": [
+    {
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "cat": "lingerie",
+      "expr": "gentle",
+      "pose": "watering",
+      "orient": "front_3q",
+      "frame": "three_quarter",
+      "lens": "documentary35",
+      "scene": "In her private rooftop greenhouse in soft early-morning sunlight, watering a small herb pot with a compact ceramic watering jug in her right hand, left hand resting openly on the shelf beside the pot. Warm glass reflections and leafy plants, no other people. Both hands separate and readable.",
+      "outfit": "Opaque navy satin lingerie-inspired full-cup camisole with secure broad straps, cream lace edging and a short cropped hem, loose high-waisted white linen lounge trousers, tiny orange triangular earrings. Bare shoulders arms and small midriff; fully covered chest and pelvis.",
+      "camera": "1024x1536 vertical, head-to-knees portrait in a front three-quarter turn, both whole hands and jug inside frame.",
+      "custom": "Same adult woman as the approved light reference. Remove armor, large fin ornaments, gills and mantle; only tiny triangular jewelry echoes her species.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "cat": "travel_exploration",
+      "expr": "determined",
+      "pose": "mid_action",
+      "orient": "front",
+      "frame": "full_body",
+      "lens": "natural50",
+      "scene": "At a quiet coastal weather-observation post in cool cloudy midday, adjusting a simple blank hand dial at waist height with one hand while the other rests separately on the post. Small weather mast, distant lighthouse and wind-bent grass, practical peaceful field activity. No text or numbers on instruments.",
+      "outfit": "Opaque orange sleeveless utility romper with a secured collared neckline, blue belt and tailored mid-thigh shorts in one garment, white walking shoes, a small navy fin pin, bare arms and legs; light cream wind jacket tied around waist.",
+      "camera": "1024x1536 vertical, full head-to-toe frontal portrait including both shoes and complete hands, modest 50mm perspective.",
+      "custom": "Same adult woman as the approved light reference. Remove armor, large fin ornaments, gills and mantle; only tiny triangular jewelry echoes her species.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    },
+    {
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "cat": "festivals_contests",
+      "expr": "soft_smile",
+      "pose": "leaning_furniture",
+      "orient": "side",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "In an empty glass concert-hall foyer during a night festival, leaning lightly against a waist-high balcony rail and listening to distant music. One hand holds a slim blank folded program at waist level, the other rests openly and separately on the rail. Amber pendant lights and blue harbor lights beyond glass, no people or writing.",
+      "outfit": "Opaque white one-shoulder draped evening gown with navy waist sash and subtle orange triangular clasp, smooth sculpted folds and long skirt, tiny black fan-shaped stud earrings; bare shoulders and arms, elegant event fashion.",
+      "camera": "1024x1536 vertical, waist-up side body angle with face turned toward camera, both complete hands and the blank program fully inside crop.",
+      "custom": "Same adult woman as the approved light reference. Remove armor, large fin ornaments, gills and mantle; only tiny triangular jewelry echoes her species.",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    }
+  ],
+  "diversity_changes": "Changed place, specific activity, garment silhouette and framing relative to recent three and this family; categories, expressions, poses, orientations and crops are individually chosen in actual UI. Compared generated light faces side by side with hair/ornaments excluded from identity judgment."
+}

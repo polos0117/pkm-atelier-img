@@ -1,0 +1,18 @@
+{
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "festivals_contests",
+  "expr": "soft_smile",
+  "pose": "leaning_furniture",
+  "orient": "side",
+  "frame": "waist_up",
+  "lens": "portrait85",
+  "scene": "In an empty glass concert-hall foyer during a night festival, leaning lightly against a waist-high balcony rail and listening to distant music. One hand holds a slim blank folded program at waist level, the other rests openly and separately on the rail. Amber pendant lights and blue harbor lights beyond glass, no people or writing.",
+  "outfit": "Opaque white one-shoulder draped evening gown with navy waist sash and subtle orange triangular clasp, smooth sculpted folds and long skirt, tiny black fan-shaped stud earrings; bare shoulders and arms, elegant event fashion.",
+  "camera": "1024x1536 vertical, waist-up side body angle with face turned toward camera, both complete hands and the blank program fully inside crop.",
+  "custom": "Same adult woman as the approved light reference. Remove armor, large fin ornaments, gills and mantle; only tiny triangular jewelry echoes her species.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
