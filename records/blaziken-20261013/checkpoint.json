@@ -1,0 +1,282 @@
+{
+  "name": "번치코",
+  "date": "2026-10-13",
+  "style": "glossy_promo",
+  "tool": "built-in image_gen",
+  "completed": 9,
+  "required": 9,
+  "status": "nine images visually reviewed; publication pending",
+  "approved_light": {
+    "card": "번치코",
+    "slot": "light",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Recovered approved light from Library; actual resumed Preact UI for follow-up outputs.",
+    "original": "recovered/pkm-atelier/번치코 라이트 아머 프로모 카드.png",
+    "original_sha256": "69b809f90bdb3061886131c3c7a735a35bf23914458633944a9d8676962e26ed",
+    "output": "img/번치코_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "2c8dfe948347372cf6468190afde1ebd23199e477454ff7e88c9a875a7cc01bb",
+    "reference": null,
+    "reference_sha256": null,
+    "submitted_prompt": null,
+    "prompt_sha256": null,
+    "library_file_id": "libfile_457edbf987dc8191b2d428404a17da5a",
+    "prompt_recovery": "Earlier generation and ornament-correction prompts not recovered; their occurrence is visible in the conversation."
+  },
+  "face_design": {
+    "name": "번치코",
+    "en": "Blaziken",
+    "line": "아차모",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "elongated",
+      "face length": "long",
+      "face width": "narrow",
+      "jaw & chin": "long chin with defined jaw",
+      "eye shape": "narrow",
+      "eye size": "medium",
+      "eye tilt": "level outer corners",
+      "eye spacing": "average eye spacing",
+      "eyebrows": "angled brows",
+      "nose character": "aquiline nose with convex bridge",
+      "lips": "thin lips"
+    },
+    "why": "V형 볏과 격투의 긴 선을 긴 윤곽과 날카로운 눈썹으로 옮긴다.",
+    "cues": [
+      "‘hooked beak’ → 눈썹 바깥에서 꺾이는 사선",
+      "‘hooked beak’ → 코 콧대가 볼록한 매부리코"
+    ],
+    "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 코 보통 → 콧대가 볼록한 매부리코"
+  },
+  "face_comparisons": [
+    "핫삼",
+    "단단지",
+    "헤라크로스",
+    "아차모",
+    "영치코"
+  ],
+  "face_review": "Prior turn compared contour, eyes, brows, nose and lips. Recovered light is visually identical to the approved correction.",
+  "recovery": {
+    "reason": "Automated workspace maintenance removed unpushed scratch assets after an interrupted generation.",
+    "light_library_id": "libfile_457edbf987dc8191b2d428404a17da5a",
+    "light": "recovered/pkm-atelier/번치코 라이트 아머 프로모 카드.png",
+    "unrecovered": [
+      "heavy",
+      "mobility"
+    ],
+    "initial_generation_prompt": "Not recovered; do not treat resumed UI selections as a record of the earlier call."
+  },
+  "casual_comparison": {
+    "reviewed": [
+      "핫삼",
+      "단단지",
+      "헤라크로스"
+    ],
+    "earlier_this_task": [
+      "아차모",
+      "영치코"
+    ],
+    "basis": "Prior turn comparison in conversation, plus recovered same-task generation records; same three casual plans retained.",
+    "changes": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "images": [
+    {
+      "card": "번치코",
+      "slot": "light",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Recovered approved light from Library; actual resumed Preact UI for follow-up outputs.",
+      "original": "recovered/pkm-atelier/번치코 라이트 아머 프로모 카드.png",
+      "original_sha256": "69b809f90bdb3061886131c3c7a735a35bf23914458633944a9d8676962e26ed",
+      "output": "img/번치코_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "2c8dfe948347372cf6468190afde1ebd23199e477454ff7e88c9a875a7cc01bb",
+      "reference": null,
+      "reference_sha256": null,
+      "submitted_prompt": null,
+      "prompt_sha256": null,
+      "library_file_id": "libfile_457edbf987dc8191b2d428404a17da5a",
+      "prompt_recovery": "Earlier generation and ornament-correction prompts not recovered; their occurrence is visible in the conversation."
+    },
+    {
+      "card": "번치코",
+      "slot": "heavy",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Recovered approved light from Library; actual resumed Preact UI for follow-up outputs.",
+      "original": "generated_images/exec-b6afb142-5a07-4d21-a6d7-5fe8c32b0605.png",
+      "original_sha256": "3d4a02831213080fa620ca01c1a0d1e0096d2593f55f49794c0d850a4c7051c7",
+      "output": "img/번치코_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "ef4c073fd2000346b8d12ea9bf1996ae205a206ab14b35fa83efdc1c942a3d2f",
+      "reference": "img/번치코_light_glossy_promo_f.webp",
+      "reference_sha256": "2c8dfe948347372cf6468190afde1ebd23199e477454ff7e88c9a875a7cc01bb",
+      "submitted_prompt": "heavy.txt",
+      "prompt_sha256": "ba7559993261117323ecf5a3aa82f984166cc9f751bca03d977470ccfb850c52"
+    },
+    {
+      "card": "번치코",
+      "slot": "mobility",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Recovered approved light from Library; actual resumed Preact UI for follow-up outputs.",
+      "original": "generated_images/exec-fd006ce9-ac84-40cc-ba83-b1b7168d48af.png",
+      "original_sha256": "74f0706129dfa1981ad8994091dd082df577e2c06b281ac74b13c0cf7bf00e26",
+      "output": "img/번치코_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "5f09b201cbd2694ff3ca17f0e1bcd10e01cac460aa03ba59aee4551109d603e3",
+      "reference": "img/번치코_light_glossy_promo_f.webp",
+      "reference_sha256": "2c8dfe948347372cf6468190afde1ebd23199e477454ff7e88c9a875a7cc01bb",
+      "submitted_prompt": "mobility.txt",
+      "prompt_sha256": "e9779252719087e3769f647dc9184a36f1cb0e27eec3e8d47363df2ff556b914"
+    },
+    {
+      "card": "번치코",
+      "slot": "light_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Recovered approved light from Library; actual resumed Preact UI for follow-up outputs.",
+      "original": "generated_images/exec-7a2d7f49-eebc-4bc4-a355-865c29965751.png",
+      "original_sha256": "374ae38629137ad351abb26b5fffb3101d8da6ffc7226a244278a742b03d7a39",
+      "output": "img/번치코_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "7365a923e148d3ca2d6a661e2a842bd432e031b32b028f5352c518b9d92be43a",
+      "reference": "img/번치코_light_glossy_promo_f.webp",
+      "reference_sha256": "2c8dfe948347372cf6468190afde1ebd23199e477454ff7e88c9a875a7cc01bb",
+      "submitted_prompt": "light_overdrive.txt",
+      "prompt_sha256": "43883a1ac1883b01a9f828e4da52261559461d41516061d21833fb33c6eee0e6"
+    },
+    {
+      "card": "번치코",
+      "slot": "heavy_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Recovered approved light from Library; actual resumed Preact UI for follow-up outputs.",
+      "original": "generated_images/exec-9faef1df-40df-4b78-9c3a-10722532513a.png",
+      "original_sha256": "84c725e99cd92845f2950ae08286e46aa472dd5de20008cf183e40cd8d750389",
+      "output": "img/번치코_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "3515fdb1054567a920d3c463615b47fcf3ba277409cd5591148565c5f42f96a5",
+      "reference": "img/번치코_heavy_glossy_promo_f.webp",
+      "reference_sha256": "ef4c073fd2000346b8d12ea9bf1996ae205a206ab14b35fa83efdc1c942a3d2f",
+      "submitted_prompt": "heavy_overdrive.txt",
+      "prompt_sha256": "375b80a404f3ba021af43444aa017332ab0ec8c79b33891c3fb667724897b0e4"
+    },
+    {
+      "card": "번치코",
+      "slot": "mobility_overdrive",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Recovered approved light from Library; actual resumed Preact UI for follow-up outputs.",
+      "original": "generated_images/exec-f60ea4ba-5df8-445a-93ff-ed1737f8a185.png",
+      "original_sha256": "ea3dcec060f994a4a4ba78ce85dea367374612e42fbf75e33294cd2035eb0f8c",
+      "output": "img/번치코_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "64368d3c93162aa17fa0b1308decc7dad8700066ddbf9ee9fb1bd0d9ea702c1c",
+      "reference": "img/번치코_mobility_glossy_promo_f.webp",
+      "reference_sha256": "5f09b201cbd2694ff3ca17f0e1bcd10e01cac460aa03ba59aee4551109d603e3",
+      "submitted_prompt": "mobility_overdrive.txt",
+      "prompt_sha256": "914725d8157d646118f8b33a06d37784aa31bd8c05a359be959f3b491d993f65"
+    },
+    {
+      "card": "번치코",
+      "slot": "casual1",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Recovered approved light from Library; actual resumed Preact UI for follow-up outputs.",
+      "original": "generated_images/exec-c29ba287-fa07-4073-8196-63e6e43efdc3.png",
+      "original_sha256": "0b2491dadfcbb9d92b6659df509475fc109ef9284c8abf3dce29b50fedc5ce42",
+      "output": "img/번치코_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "20fa3726df2ee5a9879078da03e56ed51bd2a6ecba7c4abce12e6883b738a8ae",
+      "reference": "img/번치코_light_glossy_promo_f.webp",
+      "reference_sha256": "2c8dfe948347372cf6468190afde1ebd23199e477454ff7e88c9a875a7cc01bb",
+      "submitted_prompt": "casual1.txt",
+      "prompt_sha256": "ec8a51193bf943e4a93172012295b46bcd34b0c211b65c815591ed41740ac5a4",
+      "correction_target_original": "generated_images/exec-9672a527-8d4f-4db5-8e60-ca86ec4a3cd1.png",
+      "initial_prompt": "casual1-initial.txt",
+      "review": "Moved farther hand to a separate rail section; both wrists and their own forearms are visible."
+    },
+    {
+      "card": "번치코",
+      "slot": "casual2",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Recovered approved light from Library; actual resumed Preact UI for follow-up outputs.",
+      "original": "generated_images/exec-c9d4513b-f1aa-44b4-873d-f9c5bcd87056.png",
+      "original_sha256": "6790616ef25d29b808eeb2d63432bfd5f61521b1e315c131e5a006e5df12d54f",
+      "output": "img/번치코_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e9607cc93bdb8ae2bcac654cca8473882e4e2244721fca0b1036d8bc0265332a",
+      "reference": "img/번치코_light_glossy_promo_f.webp",
+      "reference_sha256": "2c8dfe948347372cf6468190afde1ebd23199e477454ff7e88c9a875a7cc01bb",
+      "submitted_prompt": "casual2.txt",
+      "prompt_sha256": "498cb0e4f498db881ca58fb03c9cc061725dc4b1ebb2727db8eaf466b777fdc9"
+    },
+    {
+      "card": "번치코",
+      "slot": "casual3",
+      "style": "glossy_promo",
+      "gender": "f",
+      "basis": "Recovered approved light from Library; actual resumed Preact UI for follow-up outputs.",
+      "original": "generated_images/exec-c28dcbcc-28f6-4e86-8d14-3b0ca7db390f.png",
+      "original_sha256": "cf274fec262dbe95acac3a88c0d1bce28ea5c3052204cd3375729c59769a9f12",
+      "output": "img/번치코_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "4dc54f081f03c701340e3c3c2ecee133439980b0fb94bbc576d37c458e95edad",
+      "reference": "img/번치코_light_glossy_promo_f.webp",
+      "reference_sha256": "2c8dfe948347372cf6468190afde1ebd23199e477454ff7e88c9a875a7cc01bb",
+      "submitted_prompt": "casual3.txt",
+      "prompt_sha256": "a0342e59ba241c59c67cf2ee7f1950a82fb8f7fcb3ffbe45e330d37b00785f44"
+    }
+  ],
+  "approved_light_hash_matches_pre_interruption": "2c8dfe948347372cf6468190afde1ebd23199e477454ff7e88c9a875a7cc01bb",
+  "image_review": "Nine separate images; same adult identity. Closed/open pairs keep camera pose and subject scale. Casual scenes differ in environment activity clothing expression pose orientation and framing. Swimwear hand overlap corrected."
+}

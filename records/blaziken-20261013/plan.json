@@ -1,0 +1,65 @@
+{
+  "name": "번치코",
+  "no": 257,
+  "style": "glossy_promo",
+  "recovery": {
+    "reason": "Automated workspace maintenance removed unpushed scratch assets after an interrupted generation.",
+    "light_library_id": "libfile_457edbf987dc8191b2d428404a17da5a",
+    "light": "recovered/pkm-atelier/번치코 라이트 아머 프로모 카드.png",
+    "unrecovered": [
+      "heavy",
+      "mobility"
+    ],
+    "initial_generation_prompt": "Not recovered; do not treat resumed UI selections as a record of the earlier call."
+  },
+  "comparison": {
+    "reviewed": [
+      "핫삼",
+      "단단지",
+      "헤라크로스"
+    ],
+    "earlier_this_task": [
+      "아차모",
+      "영치코"
+    ],
+    "basis": "Prior turn comparison in conversation, plus recovered same-task generation records; same three casual plans retained.",
+    "changes": [
+      "location",
+      "specific activity",
+      "garment silhouette",
+      "composition"
+    ]
+  },
+  "casual": [
+    {
+      "cat": "swimwear",
+      "expr": "confident",
+      "pose": "leaning_furniture",
+      "orient": "side",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "On a quiet resort diving-platform deck at early sunrise, leaning side-on against a low safety rail, face turned to camera, both open hands resting separately on its top. Head through knees, turquoise water and coral sky below, clear hands, no other people.",
+      "outfit": "Fully lined opaque crimson athletic high-neck one-piece swimsuit with cream side panels, secure back and a tiny gray wristband. Bare shoulders arms and legs; covered chest and pelvis."
+    },
+    {
+      "cat": "hobbies_leisure",
+      "expr": "pensive",
+      "pose": "sitting",
+      "orient": "front_3q",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "Inside a quiet music-listening room late at night, seated in front three-quarter orientation, gently setting an unmarked vinyl sleeve on a low table with one hand while the other rests open beside it. Both forearms and complete hands visible, face toward camera, warm red floor-lamp glow, no lettering.",
+      "outfit": "Opaque black sleeveless low square-neck fitted top with secure neckline, ivory high-waisted palazzo trousers and a small red V pendant; bare shoulders arms and midriff gap."
+    },
+    {
+      "cat": "source_editorial",
+      "expr": "determined",
+      "pose": "walking",
+      "orient": "front",
+      "frame": "full_body",
+      "lens": "telephoto135",
+      "scene": "Across an empty modern pedestrian bridge at blue hour after rain, striding toward camera with both arms relaxed apart and empty open hands visible. Full head and shoes, wet pavement reflecting distant amber lights, no text or other figures.",
+      "outfit": "Opaque crimson sleeveless tailored waistcoat with secured deep V neckline, ivory high-waisted asymmetric maxi skirt with one knee-high side slit, charcoal ankle boots and a fine gray bracelet. Bare shoulders arms and one leg, fashion fabrics only."
+    }
+  ]
+}
