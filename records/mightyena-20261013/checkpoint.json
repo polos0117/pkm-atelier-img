@@ -232,9 +232,9 @@
       }
     ]
   },
-  "publication": "pending",
+  "publication": "complete",
   "generation": "Built-in image_gen, actual Preact generator UI controls via repository DOM harness",
-  "status": "9/9 complete and visually reviewed; prepared for non-force main publication",
+  "status": "registered: 9/9 original images and 9/9 automatic thumbnails verified on main",
   "canonical_light": {
     "slot": "light",
     "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-4247442c-5340-458c-8d4a-8c87c4d704dd.png",
@@ -269,5 +269,18 @@
     "casual1 neck-guard-only cleanup rejected by image safety output system (sexual). Materially safer fully opaque high boat-neck satin lounge camisole submitted; adult identity, pose, scene and camera preserved."
   ],
   "recovery": "Canonical light and all 9 final WebP images are included in this character commit; original PNG local paths are provenance, not durability claims.",
-  "publication_method": "Connected GitHub commit and non-force fast-forward main update using expected current head; command-line Git push has no write credential in this environment."
+  "publication_method": "Connected GitHub commit and non-force fast-forward main update using expected current head; command-line Git push has no write credential in this environment.",
+  "image_commit": "d870f347bc1fd1f8ed24016259a86a5d7a70c2d8",
+  "registration_commit": "fdb3cad30b7d7470424ffdae337e92bd7b210106",
+  "verification_image_head": "665f6f2971e23f944aa66bc959d44bc59ec6962f",
+  "verification_code_head": "32ce90c3c2e7669fde08f98f1e2087b65ce71b0f",
+  "registered_count": 9,
+  "thumbnail_count": 9,
+  "remote_image_hashes_verified": true,
+  "persistent_light_reference": {
+    "repository": "polos0117/pkm-atelier-img",
+    "commit": "d870f347bc1fd1f8ed24016259a86a5d7a70c2d8",
+    "path": "img/그라에나_light_glossy_promo_f.webp",
+    "sha256": "7e7691c378da30071a01d8959bfe561211ec7d8c1d7a7cd55ef09037f21f317e"
+  }
 }

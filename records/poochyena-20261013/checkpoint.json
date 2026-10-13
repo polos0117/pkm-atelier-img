@@ -226,9 +226,9 @@
       }
     ]
   },
-  "publication": "pending",
+  "publication": "complete",
   "generation": "Built-in image_gen, actual Preact generator UI controls via repository DOM harness",
-  "status": "9/9 complete and visually reviewed; prepared for non-force main publication",
+  "status": "registered: 9/9 original images and 9/9 automatic thumbnails verified on main",
   "canonical_light": {
     "slot": "light",
     "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-f17da7df-db4c-4096-b7b9-1981abe82915.png",
@@ -257,5 +257,18 @@
   ],
   "face_review": "Balanced oval with upturned sharp eyes and a straight narrow bridge, distinct from recent water/ground faces.",
   "recovery": "Canonical light and all 9 final WebP images are included in this character commit; original PNG local paths are provenance, not durability claims.",
-  "publication_method": "Connected GitHub commit and non-force fast-forward main update using expected current head; command-line Git push has no write credential in this environment."
+  "publication_method": "Connected GitHub commit and non-force fast-forward main update using expected current head; command-line Git push has no write credential in this environment.",
+  "image_commit": "34ef5c12b95b4048f14954a354aeece671035d46",
+  "registration_commit": "e1eed5e72f0d04ebb440aca8a3d8b532e4e967e2",
+  "verification_image_head": "665f6f2971e23f944aa66bc959d44bc59ec6962f",
+  "verification_code_head": "32ce90c3c2e7669fde08f98f1e2087b65ce71b0f",
+  "registered_count": 9,
+  "thumbnail_count": 9,
+  "remote_image_hashes_verified": true,
+  "persistent_light_reference": {
+    "repository": "polos0117/pkm-atelier-img",
+    "commit": "34ef5c12b95b4048f14954a354aeece671035d46",
+    "path": "img/포챠나_light_glossy_promo_f.webp",
+    "sha256": "388fd6ae58c0cf5e8ed8a2d25696c623260ee41980de08e4b29ac2a467cb0e59"
+  }
 }

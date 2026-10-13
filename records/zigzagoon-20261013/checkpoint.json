@@ -229,9 +229,9 @@
       }
     ]
   },
-  "publication": "pending",
+  "publication": "complete",
   "generation": "Built-in image_gen, actual Preact generator UI controls via repository DOM harness",
-  "status": "9/9 complete and visually reviewed; prepared for non-force main publication",
+  "status": "registered: 9/9 original images and 9/9 automatic thumbnails verified on main",
   "canonical_light": {
     "slot": "light",
     "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-da3b02c4-ac41-455f-b2b9-e55b9853cc80.png",
@@ -262,5 +262,18 @@
     "casual3: remove generated stall tag lettering and compass letters."
   ],
   "recovery": "Canonical light and all 9 final WebP images are included in this character commit; original PNG local paths are provenance, not durability claims.",
-  "publication_method": "Connected GitHub commit and non-force fast-forward main update using expected current head; command-line Git push has no write credential in this environment."
+  "publication_method": "Connected GitHub commit and non-force fast-forward main update using expected current head; command-line Git push has no write credential in this environment.",
+  "image_commit": "8105fe78e3a191251df171dfc1297d94617fec93",
+  "registration_commit": "fdb3cad30b7d7470424ffdae337e92bd7b210106",
+  "verification_image_head": "665f6f2971e23f944aa66bc959d44bc59ec6962f",
+  "verification_code_head": "32ce90c3c2e7669fde08f98f1e2087b65ce71b0f",
+  "registered_count": 9,
+  "thumbnail_count": 9,
+  "remote_image_hashes_verified": true,
+  "persistent_light_reference": {
+    "repository": "polos0117/pkm-atelier-img",
+    "commit": "8105fe78e3a191251df171dfc1297d94617fec93",
+    "path": "img/지그제구리_light_glossy_promo_f.webp",
+    "sha256": "c7ef0202fcba752e46d493dc12086c30a87d34674a70efd394d7f00b88f1e599"
+  }
 }
