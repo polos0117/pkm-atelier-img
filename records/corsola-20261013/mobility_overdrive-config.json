@@ -1,0 +1,8 @@
+{
+  "name": "코산호",
+  "mode": "action",
+  "form": "overdrive",
+  "base": "mobility",
+  "dest": "pkm-atelier-img/records/corsola-20261013/mobility_overdrive",
+  "controls": {}
+}

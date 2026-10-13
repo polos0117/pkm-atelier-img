@@ -1,0 +1,18 @@
+{
+  "name": "코산호",
+  "mode": "casual",
+  "dest": "pkm-atelier-img/records/corsola-20261013/casual2",
+  "controls": {
+    "category": "adult_roleplay",
+    "expression": "playful",
+    "pose": "waving",
+    "orientation": "front_3q",
+    "frame": "full_body",
+    "lens": "portrait85",
+    "scene": "At an empty coral-themed summer parade pavilion in warm late-afternoon light, rehearsing a small open-hand greeting, other hand held relaxed and open away from her hip. Pink pennant decorations, no writing or other people.",
+    "outfit": "Opaque coral-pink adult festival-host mini dress with secure sweetheart neckline and broad straps, white short bolero worn open, pale-aqua sandals, small coral bead bracelet. Bare shoulders arms and legs.",
+    "custom": "1024x1536 portrait. Both complete hands clearly connected to their own forearms, one thumb and four separate fingers per hand. Preserve the approved adult identity, no armor in casual scenes, tiny species jewelry only, no text. Remove all large branching coral headpieces and all armor from the reference; keep only tiny coral earrings or the specified small pendant. Ordinary human hair and ears.",
+    "axis-overall_intensity": "strong",
+    "axis-skin_exposure": "bold"
+  }
+}

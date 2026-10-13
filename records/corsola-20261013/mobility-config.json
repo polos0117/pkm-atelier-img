@@ -1,0 +1,10 @@
+{
+  "name": "코산호",
+  "mode": "action",
+  "form": "mobility",
+  "base": null,
+  "dest": "pkm-atelier-img/records/corsola-20261013/mobility",
+  "controls": {
+    "custom": "1024x1536 portrait. Same approved woman and species costume. Head-to-toe full body at the same approximately 86% canvas height as the LIGHT reference. Both empty human hands held apart, all five fingers readable; face toward camera. No foreground occlusion or weapon."
+  }
+}

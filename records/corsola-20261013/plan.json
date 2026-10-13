@@ -1,0 +1,65 @@
+{
+  "card": "코산호",
+  "recent_comparison": [
+    "swampert-20261013: greenhouse watering / weather post / concert foyer",
+    "blaziken-20261013: diving deck / vinyl room / pedestrian bridge",
+    "swinub-20261013: mushroom woodland / attic lounge / greenhouse watering"
+  ],
+  "changed": [
+    "place",
+    "specific activity",
+    "garment silhouette",
+    "composition"
+  ],
+  "additional_this_task": [
+    "piloswine"
+  ],
+  "face_source": "data/face-design.json and docs/CHARACTER_FACE_DESIGNS.md; cross-checked data/source-appearance.json",
+  "casual": [
+    {
+      "category": "food_berries",
+      "expression": "curious",
+      "pose": "preparing_food",
+      "orientation": "front",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "In a bright seaside outdoor kitchen at noon, arranging sliced tropical fruit on a ceramic platter with her right hand while her left rests openly on the counter. Both arms readable, turquoise sea distant.",
+      "outfit": "Opaque white halter-neck cropped linen blouse, coral-pink high-waisted wrap midi skirt with knee-high opening, tiny branched-coral earrings; bare shoulders arms midriff and one leg.",
+      "custom": "1024x1536 portrait. Both complete hands clearly connected to their own forearms, one thumb and four separate fingers per hand. Preserve the approved adult identity, no armor in casual scenes, tiny species jewelry only, no text. Remove all large branching coral headpieces and all armor from the reference; keep only tiny coral earrings or the specified small pendant. Ordinary human hair and ears.",
+      "axis-overall_intensity": "strong",
+      "axis-skin_exposure": "bold"
+    },
+    {
+      "category": "adult_roleplay",
+      "expression": "playful",
+      "pose": "waving",
+      "orientation": "front_3q",
+      "frame": "full_body",
+      "lens": "portrait85",
+      "scene": "At an empty coral-themed summer parade pavilion in warm late-afternoon light, rehearsing a small open-hand greeting, other hand held relaxed and open away from her hip. Pink pennant decorations, no writing or other people.",
+      "outfit": "Opaque coral-pink adult festival-host mini dress with secure sweetheart neckline and broad straps, white short bolero worn open, pale-aqua sandals, small coral bead bracelet. Bare shoulders arms and legs.",
+      "custom": "1024x1536 portrait. Both complete hands clearly connected to their own forearms, one thumb and four separate fingers per hand. Preserve the approved adult identity, no armor in casual scenes, tiny species jewelry only, no text. Remove all large branching coral headpieces and all armor from the reference; keep only tiny coral earrings or the specified small pendant. Ordinary human hair and ears.",
+      "axis-overall_intensity": "strong",
+      "axis-skin_exposure": "bold"
+    },
+    {
+      "category": "hobbies_leisure",
+      "expression": "gentle",
+      "pose": "leaning_furniture",
+      "orientation": "side",
+      "frame": "waist_up",
+      "lens": "documentary35",
+      "scene": "In a quiet ceramic studio at night, leaning side-on against a worktable and checking a small unglazed shell-shaped dish resting on her open palm, other hand resting separately on table. Face turned to camera, warm lamp and dark blue window.",
+      "outfit": "Opaque pale-aqua sleeveless scoop-neck top tucked into white high-waisted linen trousers, thin coral-pink waist belt and tiny white branch pendant; bare arms and shoulders.",
+      "custom": "1024x1536 portrait. Both complete hands clearly connected to their own forearms, one thumb and four separate fingers per hand. Preserve the approved adult identity, no armor in casual scenes, tiny species jewelry only, no text. Remove all large branching coral headpieces and all armor from the reference; keep only tiny coral earrings or the specified small pendant. Ordinary human hair and ears.",
+      "axis-overall_intensity": "strong",
+      "axis-skin_exposure": "bold"
+    }
+  ],
+  "face_comparison": [
+    "메꾸리",
+    "꾸꾸리",
+    "마그카르고",
+    "대짱이"
+  ]
+}

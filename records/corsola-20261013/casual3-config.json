@@ -1,0 +1,18 @@
+{
+  "name": "코산호",
+  "mode": "casual",
+  "dest": "pkm-atelier-img/records/corsola-20261013/casual3",
+  "controls": {
+    "category": "hobbies_leisure",
+    "expression": "gentle",
+    "pose": "leaning_furniture",
+    "orientation": "side",
+    "frame": "waist_up",
+    "lens": "documentary35",
+    "scene": "In a quiet ceramic studio at night, leaning side-on against a worktable and checking a small unglazed shell-shaped dish resting on her open palm, other hand resting separately on table. Face turned to camera, warm lamp and dark blue window.",
+    "outfit": "Opaque pale-aqua sleeveless scoop-neck top tucked into white high-waisted linen trousers, thin coral-pink waist belt and tiny white branch pendant; bare arms and shoulders.",
+    "custom": "1024x1536 portrait. Both complete hands clearly connected to their own forearms, one thumb and four separate fingers per hand. Preserve the approved adult identity, no armor in casual scenes, tiny species jewelry only, no text. Remove all large branching coral headpieces and all armor from the reference; keep only tiny coral earrings or the specified small pendant. Ordinary human hair and ears.",
+    "axis-overall_intensity": "strong",
+    "axis-skin_exposure": "bold"
+  }
+}

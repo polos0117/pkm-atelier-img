@@ -1,0 +1,15 @@
+{
+  "name": "코산호",
+  "mode": "action",
+  "form": "light",
+  "dest": "pkm-atelier-img/records/corsola-20261013/light",
+  "controls": {
+    "param-apparent-age": "20s",
+    "param-hair-color": "pink",
+    "param-hairstyle": "curly",
+    "param-hair-length": "medium",
+    "param-body-type": "slender",
+    "param-eye-color": "teal",
+    "custom": "1024x1536 portrait. Standard pink warm-sea Corsola, coral-pink and white palette with pale-aqua accents. Short branching coral-shaped head jewelry and rounded branching decorative plate edges, always costume, natural human limbs. Both empty human hands fully visible with five clearly separated digits each. Complete head and both feet inside frame, person occupies about 86% of image height. Calm front-facing full-body stance, no text or weapons."
+  }
+}
