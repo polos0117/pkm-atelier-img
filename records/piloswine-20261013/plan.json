@@ -1,0 +1,62 @@
+{
+  "card": "메꾸리",
+  "recent_comparison": [
+    "swampert-20261013: greenhouse watering / weather post / concert foyer",
+    "blaziken-20261013: diving deck / vinyl room / pedestrian bridge",
+    "swinub-20261013: mushroom woodland / attic lounge / greenhouse watering"
+  ],
+  "changed": [
+    "place",
+    "specific activity",
+    "garment silhouette",
+    "composition"
+  ],
+  "additional_this_task": [],
+  "face_source": "data/face-design.json and docs/CHARACTER_FACE_DESIGNS.md; cross-checked data/source-appearance.json",
+  "casual": [
+    {
+      "category": "adult_roleplay",
+      "expression": "focused",
+      "pose": "mid_action",
+      "orientation": "front_3q",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "Inside an empty alpine rescue gear room at bright cold midday, testing the clasp of a plain safety strap on the counter, hands separated and clearly visible. Frosted window and hanging jackets.",
+      "outfit": "Opaque cream sleeveless fitted rescue-event vest with secure zip closure and brown trim, high-waisted brown shorts, tiny ivory tusk earrings; bare arms and a narrow midriff gap.",
+      "custom": "1024x1536 portrait. Both complete hands clearly connected to their own forearms, one thumb and four separate fingers per hand. Preserve the approved adult identity, no armor in casual scenes, tiny species jewelry only, no text.",
+      "axis-overall_intensity": "strong",
+      "axis-skin_exposure": "bold"
+    },
+    {
+      "category": "hobbies_leisure",
+      "expression": "amused",
+      "pose": "kneeling",
+      "orientation": "front",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "In a sunlit snowy cabin courtyard at late afternoon, kneeling on one knee while brushing snow off a wooden birdhouse on a low stool with one open hand; the other rests on her raised knee. Empty courtyard.",
+      "outfit": "Opaque cinnamon cropped cable-knit tank, cream high-waisted wool mini skirt, brown tall boots, small tusk pendant; bare shoulders arms and thighs.",
+      "custom": "1024x1536 portrait. Both complete hands clearly connected to their own forearms, one thumb and four separate fingers per hand. Preserve the approved adult identity, no armor in casual scenes, tiny species jewelry only, no text.",
+      "axis-overall_intensity": "strong",
+      "axis-skin_exposure": "bold"
+    },
+    {
+      "category": "festivals_contests",
+      "expression": "pensive",
+      "pose": "sitting",
+      "orientation": "side",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "In a quiet winter festival workshop at blue hour, sitting sideways on a low bench, tying one simple cream fabric bow for a wreath resting on her lap. Face turned to camera, both complete hands at lap height. Warm amber lamps and cool frosty glass.",
+      "outfit": "Opaque warm-brown square-neck short-sleeve velvet midi dress with cream sash and side slit, cream tights omitted, tiny ivory hair clip; bare forearms neckline and one lower leg.",
+      "custom": "1024x1536 portrait. Both complete hands clearly connected to their own forearms, one thumb and four separate fingers per hand. Preserve the approved adult identity, no armor in casual scenes, tiny species jewelry only, no text.",
+      "axis-overall_intensity": "strong",
+      "axis-skin_exposure": "bold"
+    }
+  ],
+  "face_comparison": [
+    "꾸꾸리",
+    "마그카르고",
+    "대짱이"
+  ]
+}

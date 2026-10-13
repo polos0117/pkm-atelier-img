@@ -1,0 +1,243 @@
+{
+  "controls": [
+    {
+      "id": "search",
+      "value": ""
+    },
+    {
+      "id": "group",
+      "value": ""
+    },
+    {
+      "id": "source",
+      "value": "메꾸리"
+    },
+    {
+      "id": "style",
+      "value": "glossy_promo"
+    },
+    {
+      "id": "motifs",
+      "value": ""
+    },
+    {
+      "id": "expression",
+      "value": "amused"
+    },
+    {
+      "id": "category",
+      "value": "hobbies_leisure"
+    },
+    {
+      "id": "example",
+      "value": ""
+    },
+    {
+      "id": "pose",
+      "value": "kneeling"
+    },
+    {
+      "id": "orientation",
+      "value": "front"
+    },
+    {
+      "id": "frame",
+      "value": "full_body"
+    },
+    {
+      "id": "lens",
+      "value": "documentary35"
+    },
+    {
+      "id": "aspect",
+      "value": "2:3"
+    },
+    {
+      "id": "camera",
+      "value": ""
+    },
+    {
+      "id": "scene",
+      "value": "In a sunlit snowy cabin courtyard at late afternoon, kneeling on one knee while brushing snow off a wooden birdhouse on a low stool with one open hand; the other rests on her raised knee. Empty courtyard."
+    },
+    {
+      "id": "outfit",
+      "value": "Opaque cinnamon cropped cable-knit tank, cream high-waisted wool mini skirt, brown tall boots, small tusk pendant; bare shoulders arms and thighs."
+    },
+    {
+      "id": "custom",
+      "value": "1024x1536 portrait. Both complete hands clearly connected to their own forearms, one thumb and four separate fingers per hand. Preserve the approved adult identity, no armor in casual scenes, tiny species jewelry only, no text."
+    },
+    {
+      "id": "axis-overall_intensity",
+      "value": "strong"
+    },
+    {
+      "id": "axis-skin_exposure",
+      "value": "bold"
+    },
+    {
+      "id": "axis-action_level",
+      "value": "AUTO"
+    },
+    {
+      "id": "axis-source_influence",
+      "value": "AUTO"
+    },
+    {
+      "id": "axis-separates_preference",
+      "value": "AUTO"
+    }
+  ],
+  "storage": {
+    "last": "메꾸리",
+    "cards": {
+      "이상해씨": {
+        "style": "glossy_promo",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "faceDesignOn": true,
+        "params": {},
+        "locks": {},
+        "mode": "action",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      },
+      "메꾸리": {
+        "style": "glossy_promo",
+        "identityMode": "create",
+        "form": "light",
+        "baseForm": "light",
+        "motifs": "",
+        "formOverride": "",
+        "headFeature": "",
+        "faceDesignOn": true,
+        "params": {},
+        "locks": {},
+        "mode": "casual",
+        "scenes": {
+          "action": {
+            "expr": "",
+            "pose": "",
+            "orient": "",
+            "scene": "",
+            "outfit": "",
+            "frame": "",
+            "lens": "",
+            "camera": "",
+            "custom": "",
+            "aspect": "2:3",
+            "cat": "everyday_basic",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {},
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          },
+          "casual": {
+            "expr": "amused",
+            "pose": "kneeling",
+            "orient": "front",
+            "scene": "In a sunlit snowy cabin courtyard at late afternoon, kneeling on one knee while brushing snow off a wooden birdhouse on a low stool with one open hand; the other rests on her raised knee. Empty courtyard.",
+            "outfit": "Opaque cinnamon cropped cable-knit tank, cream high-waisted wool mini skirt, brown tall boots, small tusk pendant; bare shoulders arms and thighs.",
+            "frame": "full_body",
+            "lens": "documentary35",
+            "camera": "",
+            "custom": "1024x1536 portrait. Both complete hands clearly connected to their own forearms, one thumb and four separate fingers per hand. Preserve the approved adult identity, no armor in casual scenes, tiny species jewelry only, no text.",
+            "aspect": "2:3",
+            "cat": "hobbies_leisure",
+            "catCustom": "",
+            "ex": "",
+            "exCustom": "",
+            "axes": {
+              "overall_intensity": "strong",
+              "skin_exposure": "bold"
+            },
+            "action": {
+              "category": "",
+              "example": "",
+              "timing": "",
+              "equipment": "",
+              "power": "",
+              "effects": "",
+              "speed": "",
+              "environment": ""
+            },
+            "randomLocks": {}
+          }
+        }
+      }
+    }
+  },
+  "prompt": "CHARACTER: the same woman as the attached image — Piloswine (메꾸리) personified, ice / ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed\nPose: Kneel in a stable supported position suited to a low task or interaction.\nOrientation: torso and pelvis face the camera; gaze is independent\nScene: In a sunlit snowy cabin courtyard at late afternoon, kneeling on one knee while brushing snow off a wooden birdhouse on a low stool with one open hand; the other rests on her raised knee. Empty courtyard.\nOutfit and props: Opaque cinnamon cropped cable-knit tank, cream high-waisted wool mini skirt, brown tall boots, small tusk pendant; bare shoulders arms and thighs.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: 1024x1536 portrait. Both complete hands clearly connected to their own forearms, one thumb and four separate fingers per hand. Preserve the approved adult identity, no armor in casual scenes, tiny species jewelry only, no text.\nFraming: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+}

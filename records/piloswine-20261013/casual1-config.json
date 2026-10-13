@@ -1,0 +1,18 @@
+{
+  "name": "메꾸리",
+  "mode": "casual",
+  "dest": "pkm-atelier-img/records/piloswine-20261013/casual1",
+  "controls": {
+    "category": "adult_roleplay",
+    "expression": "focused",
+    "pose": "mid_action",
+    "orientation": "front_3q",
+    "frame": "waist_up",
+    "lens": "portrait85",
+    "scene": "Inside an empty alpine rescue gear room at bright cold midday, testing the clasp of a plain safety strap on the counter, hands separated and clearly visible. Frosted window and hanging jackets.",
+    "outfit": "Opaque cream sleeveless fitted rescue-event vest with secure zip closure and brown trim, high-waisted brown shorts, tiny ivory tusk earrings; bare arms and a narrow midriff gap.",
+    "custom": "1024x1536 portrait. Both complete hands clearly connected to their own forearms, one thumb and four separate fingers per hand. Preserve the approved adult identity, no armor in casual scenes, tiny species jewelry only, no text.",
+    "axis-overall_intensity": "strong",
+    "axis-skin_exposure": "bold"
+  }
+}

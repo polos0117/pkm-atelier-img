@@ -1,0 +1,18 @@
+{
+  "name": "메꾸리",
+  "mode": "casual",
+  "dest": "pkm-atelier-img/records/piloswine-20261013/casual3",
+  "controls": {
+    "category": "festivals_contests",
+    "expression": "pensive",
+    "pose": "sitting",
+    "orientation": "side",
+    "frame": "three_quarter",
+    "lens": "natural50",
+    "scene": "In a quiet winter festival workshop at blue hour, sitting sideways on a low bench, tying one simple cream fabric bow for a wreath resting on her lap. Face turned to camera, both complete hands at lap height. Warm amber lamps and cool frosty glass.",
+    "outfit": "Opaque warm-brown square-neck short-sleeve velvet midi dress with cream sash and side slit, cream tights omitted, tiny ivory hair clip; bare forearms neckline and one lower leg.",
+    "custom": "1024x1536 portrait. Both complete hands clearly connected to their own forearms, one thumb and four separate fingers per hand. Preserve the approved adult identity, no armor in casual scenes, tiny species jewelry only, no text.",
+    "axis-overall_intensity": "strong",
+    "axis-skin_exposure": "bold"
+  }
+}

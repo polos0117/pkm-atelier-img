@@ -1,0 +1,15 @@
+{
+  "name": "메꾸리",
+  "mode": "action",
+  "form": "light",
+  "dest": "pkm-atelier-img/records/piloswine-20261013/light",
+  "controls": {
+    "param-apparent-age": "20s",
+    "param-hair-color": "brown",
+    "param-hairstyle": "shaggy",
+    "param-hair-length": "long",
+    "param-body-type": "stocky",
+    "param-eye-color": "amber",
+    "custom": "1024x1536 portrait. An ivory tusk-shaped pair of collar trims, long shaggy brown shearling collar and skirt panels, tan-brown armor over a cream undersuit; forehead fringe parts so both small eyes remain visible. Both empty human hands fully visible with five clearly separated digits each. Complete head and both feet inside frame, person occupies about 86% of image height. Calm front-facing full-body stance, no text or weapons."
+  }
+}

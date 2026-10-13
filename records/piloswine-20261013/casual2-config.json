@@ -1,0 +1,18 @@
+{
+  "name": "메꾸리",
+  "mode": "casual",
+  "dest": "pkm-atelier-img/records/piloswine-20261013/casual2",
+  "controls": {
+    "category": "hobbies_leisure",
+    "expression": "amused",
+    "pose": "kneeling",
+    "orientation": "front",
+    "frame": "full_body",
+    "lens": "documentary35",
+    "scene": "In a sunlit snowy cabin courtyard at late afternoon, kneeling on one knee while brushing snow off a wooden birdhouse on a low stool with one open hand; the other rests on her raised knee. Empty courtyard.",
+    "outfit": "Opaque cinnamon cropped cable-knit tank, cream high-waisted wool mini skirt, brown tall boots, small tusk pendant; bare shoulders arms and thighs.",
+    "custom": "1024x1536 portrait. Both complete hands clearly connected to their own forearms, one thumb and four separate fingers per hand. Preserve the approved adult identity, no armor in casual scenes, tiny species jewelry only, no text.",
+    "axis-overall_intensity": "strong",
+    "axis-skin_exposure": "bold"
+  }
+}
