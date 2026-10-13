@@ -1,0 +1,18 @@
+{
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "swimwear",
+  "expr": "calm",
+  "pose": "one_knee_up",
+  "orient": "front_3q",
+  "frame": "full_body",
+  "lens": "natural50",
+  "scene": "On an empty wooden tide-pool deck at sunset, sitting on a low bench with one knee raised slightly and both feet naturally visible, one open hand on the raised knee and the other on the bench beside her. Rocky cove and calm sea, amber backlight.",
+  "outfit": "Opaque dark-blue one-piece swimsuit with orange side panels and secure high neckline, a light cream short sarong tied at the hip, barefoot, small black fin pendant; bare shoulders arms and legs.",
+  "camera": "1024x1536 vertical, entire seated figure including both complete hands and both bare feet, eye-level three-quarter view.",
+  "custom": "Same adult woman as the approved light reference. Remove armor, fin crest and gill ornaments. Only tiny angular jewelry echoes her species.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "outputMode": "action",
+  "identityMode": "reference",
+  "form": "overdrive",
+  "baseForm": "heavy",
+  "custom": "1024x1536 vertical. Keep exactly the referenced closed-form pose, face, hand positions, camera, scale and background. Open only the existing plate seams."
+}

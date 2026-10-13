@@ -1,0 +1,175 @@
+[
+  {
+    "card": "늪짱이",
+    "slot": "light",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+    "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-a2b7c155-bedd-489a-84e5-bb9d2e6ec4f6.png",
+    "original_sha256": "7eba6b95aa638ff8df0d9720271694e1bfb41bb2942c2632164d9ebd713380bb",
+    "output": "img/늪짱이_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "4cc29b24c843a15840457c3f3af4e53442315d3c60a531e3861a645689d7ee65",
+    "reference": null,
+    "submitted_prompt": "light.txt",
+    "prompt_sha256": "19f6205b77825b17f0a20b6f4071fd1c1451f5a1ece2ee57e71ff38e5677ec37"
+  },
+  {
+    "card": "늪짱이",
+    "slot": "heavy",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+    "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-741e5d42-c7a1-4bf7-8578-e0347c24f94c.png",
+    "original_sha256": "264ed9eb683eb7aafe47b662ebc6cae03160e49aa188fe2f505e2bb11832b223",
+    "output": "img/늪짱이_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "18b171ad872f4f7a413715c350bb3665cdf595cf4495155eaa254c467477c284",
+    "reference": "img/늪짱이_light_glossy_promo_f.webp",
+    "submitted_prompt": "heavy.txt",
+    "prompt_sha256": "59d094357ecf90675cfdd3862837ca8f3e34fbffacdf85e4a585128f4be0c2f3"
+  },
+  {
+    "card": "늪짱이",
+    "slot": "mobility",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+    "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-7271b1c9-a972-436a-9a2a-b7b742f1aec0.png",
+    "original_sha256": "7748439fc633726e1ea057145afc9c395486af98accd506e97cabc3c0907952f",
+    "output": "img/늪짱이_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "48dafca965af8d24b373ea3b18d03e7485021552104ad7481ae211ca4f793291",
+    "reference": "img/늪짱이_light_glossy_promo_f.webp",
+    "submitted_prompt": "mobility.txt",
+    "prompt_sha256": "3c3905ce2bbb124c89e1b2a59498eebe8d789db554b3d2b0c06c9d7d0d1178b7"
+  },
+  {
+    "card": "늪짱이",
+    "slot": "light_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+    "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-60bc1807-0c23-4f89-aabb-5a9bf07f45de.png",
+    "original_sha256": "dfbd60decbedafc637f2474b920bb76b5af6086e596bee0d69b761c8e3f493fa",
+    "output": "img/늪짱이_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "296666c313956834d73b162f33cedf1c8dae91ee9255d6aeb144ea58b459a635",
+    "reference": "img/늪짱이_light_glossy_promo_f.webp",
+    "submitted_prompt": "light_overdrive.txt",
+    "prompt_sha256": "1a3e348eab5ae4e274d1a425250a925f2a536bd6f7224fb1f59b827afc9093aa"
+  },
+  {
+    "card": "늪짱이",
+    "slot": "heavy_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+    "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-3bba61a0-8676-41b8-80fc-232b733069e9.png",
+    "original_sha256": "7968af7b8c9af476e3865a0faddda9b7e05b91d836b3e504010aa39091db4adf",
+    "output": "img/늪짱이_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "273ef77e880087bb5e3719e8abe0aa8ef70c20a6f280479aed3aeebe6469468b",
+    "reference": "img/늪짱이_heavy_glossy_promo_f.webp",
+    "submitted_prompt": "heavy_overdrive.txt",
+    "prompt_sha256": "4433bb3fa0eeedf9dbfa115c759993e9d204eb6812466f8bdebd50501bdf17e5"
+  },
+  {
+    "card": "늪짱이",
+    "slot": "mobility_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+    "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-fb96850d-7699-4839-aced-b72438f5042e.png",
+    "original_sha256": "ecae9d5af544c511da692ef4c81ff1325d61c8ac59a2dec16e4321a95bed4a3b",
+    "output": "img/늪짱이_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "16278c7a5a2fae75b1b4001635f5ccce4a925afa639a109d257710d8ef1c561c",
+    "reference": "img/늪짱이_mobility_glossy_promo_f.webp",
+    "submitted_prompt": "mobility_overdrive.txt",
+    "prompt_sha256": "e63e68c450c9034d8885a5e6b2e52315481883e4f6cd9e71e1cfe6e820deaf39"
+  },
+  {
+    "card": "늪짱이",
+    "slot": "casual1",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+    "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-17a13b18-5766-4f90-8670-af8749473ff0.png",
+    "original_sha256": "90f9773e4773d7751806a2835fec76629a5fc46e7783086111764c0c88bfd994",
+    "output": "img/늪짱이_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "d471badf9580bb38044a011296b5eceeff4117dba0ce228557966ceb9e6f8545",
+    "reference": "img/늪짱이_light_glossy_promo_f.webp",
+    "submitted_prompt": "casual1.txt",
+    "prompt_sha256": "066f7bb9c161733e5132d9579972e9a6a78c930186abae9e43d1ad1c0ad1574f"
+  },
+  {
+    "card": "늪짱이",
+    "slot": "casual2",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+    "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-b35d675c-ca12-4fdf-8ba5-10157793fe8b.png",
+    "original_sha256": "9b7ec918f5dec207a5ceb4129e0ca460f01547b507d06d80da54dc9b4bc5644e",
+    "output": "img/늪짱이_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "53f8d43374ea1647020c1da1fa3e9aea94995c562c8cad52f5bc7c8f12774efd",
+    "reference": "img/늪짱이_light_glossy_promo_f.webp",
+    "submitted_prompt": "casual2.txt",
+    "prompt_sha256": "19f6300b8ff81bcfbd8cdc1403bde272b6dc14b63b3ee7629e59e968a8686730"
+  },
+  {
+    "card": "늪짱이",
+    "slot": "casual3",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+    "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-2877cc7f-d3bc-4b58-8dcf-c1d5d44a2726.png",
+    "original_sha256": "7ea1a48442139eba16c6c7a85fb967fca45bc5c96170930c0ef7e09059381394",
+    "output": "img/늪짱이_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "adb9be86f230f8cfceb1e6f78832cc1b55c497b232b1120792bc2574a1a2db95",
+    "reference": "img/늪짱이_light_glossy_promo_f.webp",
+    "submitted_prompt": "casual3.txt",
+    "prompt_sha256": "7650b5cfc104131d2364f1261bbc1eea92f693b53a6037378cf9fecaf496434e",
+    "correction_prompt": "casual3-correction.txt",
+    "correction_review": "Removed tiny lettering on jersey and helmet only; inspected output; identity pose and hands preserved."
+  }
+]

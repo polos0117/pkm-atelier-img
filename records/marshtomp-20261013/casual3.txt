@@ -1,0 +1,25 @@
+CHARACTER: the same woman as the attached image — Marshtomp (늪짱이) personified, water / ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: level brow, direct unhurried gaze, chin slightly raised, mouth closed and composed
+Pose: Walk at a comfortable pace with a natural step and arm swing.
+Orientation: side body profile, approximately 90 degrees to camera
+Scene: Walking past an empty urban bicycle-repair courtyard at blue hour after a ride, carrying a plain lightweight cycling helmet in her right hand at hip level while left hand hangs separately. Warm workshop windows and parked bicycles in background, no writing or people.
+Outfit and props: Opaque orange sleeveless zip-front cycling jersey with dark-blue side panels and short fitted black cycling shorts, simple trainers, a tiny angular earring; bare arms and legs, functional sports clothing.
+Category: Show real movement with fashion-forward activewear or movement-oriented clothing. Avoid generic gym snapshots. Prioritize dynamic motion, readable silhouette, waist and hip lines, fabric movement, and varied action.
+Note: Same adult woman as the approved light reference. Remove armor, fin crest and gill ornaments. Only tiny angular jewelry echoes her species.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+Lens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.
+Camera: 1024x1536 vertical, knee-up side profile with her face turned toward camera, both complete hands and helmet inside crop.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

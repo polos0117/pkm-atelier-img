@@ -1,0 +1,18 @@
+{
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "active",
+  "expr": "confident",
+  "pose": "walking",
+  "orient": "side",
+  "frame": "three_quarter",
+  "lens": "documentary35",
+  "scene": "Walking past an empty urban bicycle-repair courtyard at blue hour after a ride, carrying a plain lightweight cycling helmet in her right hand at hip level while left hand hangs separately. Warm workshop windows and parked bicycles in background, no writing or people.",
+  "outfit": "Opaque orange sleeveless zip-front cycling jersey with dark-blue side panels and short fitted black cycling shorts, simple trainers, a tiny angular earring; bare arms and legs, functional sports clothing.",
+  "camera": "1024x1536 vertical, knee-up side profile with her face turned toward camera, both complete hands and helmet inside crop.",
+  "custom": "Same adult woman as the approved light reference. Remove armor, fin crest and gill ornaments. Only tiny angular jewelry echoes her species.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
