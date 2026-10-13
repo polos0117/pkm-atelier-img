@@ -1,0 +1,173 @@
+[
+  {
+    "slot": "light",
+    "original": "generated_images/exec-caff5673-6aae-4d4a-ad7c-1348d46d843b.png",
+    "output": "img/마그카르고_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "1cf6f3ceb34596d5e41de2fee585767a219cc70b96f1142f0d95a8edb0869a1a",
+    "original_sha256": "91e171c04446f2388f047262356b9e8c4e6d1114a25b5d0d9c68414c65a4b9f0",
+    "references": [],
+    "ui_settings": "light-ui.json",
+    "submitted_prompt": "light.txt",
+    "submitted_prompt_sha256": "67358d95e343bcf2b54d8c784895c579d1a57f8c19ef10c807126cb065754969",
+    "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+  },
+  {
+    "slot": "mobility",
+    "original": "generated_images/exec-7a39f121-e198-4357-88d0-968244d51ac8.png",
+    "output": "img/마그카르고_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "35d9c58e355ec432042135b85cea0dd8095d8c451d75dcf720fb4290ed2b1ee4",
+    "original_sha256": "f276ff0021bd71f86a70b19dcaf572156aac4adcd136009a7797003f31f7ff51",
+    "references": [
+      "generated_images/exec-caff5673-6aae-4d4a-ad7c-1348d46d843b.png"
+    ],
+    "ui_settings": "mobility-ui.json",
+    "submitted_prompt": "mobility.txt",
+    "submitted_prompt_sha256": "bdffa4fed2cdf2cfbbe203a5921bb540110720c1f56235539aa55acf84da10fc",
+    "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+  },
+  {
+    "slot": "casual1",
+    "original": "generated_images/exec-2356bebb-560c-4e11-a99f-63a13732238c.png",
+    "output": "img/마그카르고_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "e5c8ea5428dec4974d81b20281a839dbcd5d76cb6160463c34f0ccdbb3ed8069",
+    "original_sha256": "ee164d86e638ce7644e8a1fa3a543c4084858c2efbb64ac4226814d519ce4aea",
+    "references": [
+      "generated_images/exec-caff5673-6aae-4d4a-ad7c-1348d46d843b.png"
+    ],
+    "ui_settings": "casual1-ui.json",
+    "submitted_prompt": "casual1.txt",
+    "submitted_prompt_sha256": "797c1df0cc483c44e15879436dca019bac22b5215a025008da68b2d1ea4b0835",
+    "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+  },
+  {
+    "slot": "casual2",
+    "original": "generated_images/exec-a1953c3a-552e-4577-b8a8-d66d1594b520.png",
+    "output": "img/마그카르고_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "d697bb06404dfb041c11116fc58215cf3ff4b0627fa0daeb570d7e940974ef54",
+    "original_sha256": "851c5c23f76a0189979f1d80e16f397acfc76c3dfa75175a30cf554fc2135ad3",
+    "references": [
+      "generated_images/exec-caff5673-6aae-4d4a-ad7c-1348d46d843b.png"
+    ],
+    "ui_settings": "casual2-ui.json",
+    "submitted_prompt": "casual2.txt",
+    "submitted_prompt_sha256": "f593b70c038db938046c26358fbb943b2cdc22e3cd2421a027e5ff0e5b516137",
+    "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+  },
+  {
+    "slot": "casual3",
+    "original": "generated_images/exec-3bfe5327-7c32-42d2-9e18-33ae4cae38c8.png",
+    "output": "img/마그카르고_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "5a0b1bb18802f9ce1f592614cb1eee6d49dc75a4188b2f6d2003e4a99b5f4ebb",
+    "original_sha256": "04e43519605801253f43148d73e329a3ef7e0317b573b9be9fcad1039ed22734",
+    "references": [
+      "generated_images/exec-caff5673-6aae-4d4a-ad7c-1348d46d843b.png"
+    ],
+    "ui_settings": "casual3-ui.json",
+    "submitted_prompt": "casual3.txt",
+    "submitted_prompt_sha256": "4868d8ab3d084313f387f2380b584820362a5cde9951a06f7c260db7ead883ad",
+    "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+  },
+  {
+    "slot": "heavy",
+    "original": "generated_images/exec-07ab58ae-f4e7-417c-aa15-40839e4eeb9c.png",
+    "output": "img/마그카르고_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "bfbbcc73d8e17150d9199bec4f83a72f71b19d8ea24db53b43ec3f7445e952ac",
+    "original_sha256": "0cb393cfb674dadf744784705261ddbb84e5c616d268150ad2d829b04a5cd465",
+    "references": [
+      "generated_images/exec-caff5673-6aae-4d4a-ad7c-1348d46d843b.png"
+    ],
+    "ui_settings": "heavy-ui.json",
+    "submitted_prompt": "heavy.txt",
+    "submitted_prompt_sha256": "f34509031ea92c69278572891ad1811bc36206799571f4af903a92b7d356b0bc",
+    "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+  },
+  {
+    "slot": "light_overdrive",
+    "original": "generated_images/exec-ddc7ff75-9e50-4344-8c92-5746a7ace1ea.png",
+    "output": "img/마그카르고_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "1fa96bdad914976615d25b3c1ee4197905c82d6f4425aa771adfe96b9e625341",
+    "original_sha256": "d3901ee86e0802a20d004ffbe9af7749691e7596b45ab8dcff5faa849a38c589",
+    "references": [
+      "generated_images/exec-caff5673-6aae-4d4a-ad7c-1348d46d843b.png"
+    ],
+    "ui_settings": "light_overdrive-ui.json",
+    "submitted_prompt": "light_overdrive.txt",
+    "submitted_prompt_sha256": "97f4d61377b8c0a631e9451dd64cd3b83c667c76319f914c6ff1007fe88e40fe",
+    "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+  },
+  {
+    "slot": "mobility_overdrive",
+    "original": "generated_images/exec-2ede8642-5422-4ca1-b3b0-52722de09191.png",
+    "output": "img/마그카르고_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "44eeffe7a449b43d8bf46f8841805d3da61c85b91fa81cee7609821ac8b3a516",
+    "original_sha256": "aab7097bd73dc3827b9622afffd4ae4245651cb9631477ae757699eabab5b910",
+    "references": [
+      "generated_images/exec-7a39f121-e198-4357-88d0-968244d51ac8.png",
+      "generated_images/exec-caff5673-6aae-4d4a-ad7c-1348d46d843b.png"
+    ],
+    "ui_settings": "mobility_overdrive-ui.json",
+    "submitted_prompt": "mobility_overdrive.txt",
+    "submitted_prompt_sha256": "a7c1a4da0907e5bf57d5eb7e4ced73de050a98feb3c0a78960dd99b477ea91a8",
+    "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+  },
+  {
+    "slot": "heavy_overdrive",
+    "original": "generated_images/exec-a6cb69e9-12d7-4f0e-9384-e18c756f7f43.png",
+    "output": "img/마그카르고_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "c074d6a1e71a207e3a41e44e965e65643c421090aab2a8fef89d51acafcec3ec",
+    "original_sha256": "ec733765ab7fcc2a1a387c609a313a9e0e77a197730aebe395866ea1febe3aa9",
+    "references": [
+      "generated_images/exec-07ab58ae-f4e7-417c-aa15-40839e4eeb9c.png",
+      "generated_images/exec-caff5673-6aae-4d4a-ad7c-1348d46d843b.png"
+    ],
+    "ui_settings": "heavy_overdrive-ui.json",
+    "submitted_prompt": "heavy_overdrive.txt",
+    "submitted_prompt_sha256": "802e7bdc7dbaa736e27eab23664deb23b840bd5dadbc2ee1797960e9bf122fee",
+    "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+  }
+]

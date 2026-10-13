@@ -1,0 +1,21 @@
+{
+  "mech": "마그카르고",
+  "style": "glossy_promo",
+  "aspect": "2:3",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "source_editorial",
+  "expr": "pensive",
+  "pose": "perched_seat",
+  "orient": "front_3q",
+  "frame": "three_quarter",
+  "lens": "portrait85",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "In a quiet mineral gallery at late afternoon, perched on the edge of a stone bench, inspecting an oval polished pebble resting on one open palm; the other complete hand rests on the bench beside her. Soft side light.",
+  "outfit": "A sculptural charcoal one-shoulder opaque mini dress with copper folded draping around one hip, bare shoulder arms and legs, tiny spiral earrings. Human fashion without a literal shell or armor.",
+  "camera": "1024x1536 portrait. All of both complete hands and their own forearms within the chosen framing.",
+  "custom": "Same adult woman as the approved LIGHT reference. Preserve face structure, hair length and body. No armor or large species costume pieces; retain only the small jewelry motif. Exactly five separate digits per hand."
+}

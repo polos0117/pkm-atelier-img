@@ -1,0 +1,87 @@
+{
+  "method": "Actual Preact editor controls via repository DOM harness",
+  "config": {
+    "mech": "마그카르고",
+    "style": "glossy_promo",
+    "aspect": "2:3",
+    "outputMode": "action",
+    "identityMode": "reference",
+    "form": "heavy",
+    "expr": "determined",
+    "pose": "braced_stance",
+    "camera": "1024x1536 portrait, eye-level 50mm feel. Whole head and feet, character occupies approximately 88 percent of frame height. Two empty hands apart in clear relaxed open poses, five digits on each.",
+    "scene": "Black volcanic plateau with steam rising at amber dawn."
+  },
+  "saved": {
+    "style": "glossy_promo",
+    "identityMode": "reference",
+    "form": "heavy",
+    "baseForm": "light",
+    "motifs": "",
+    "formOverride": "",
+    "headFeature": "",
+    "faceDesignOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "action",
+    "scenes": {
+      "action": {
+        "expr": "determined",
+        "pose": "braced_stance",
+        "orient": "",
+        "scene": "Black volcanic plateau with steam rising at amber dawn.",
+        "outfit": "",
+        "frame": "",
+        "lens": "",
+        "camera": "1024x1536 portrait, eye-level 50mm feel. Whole head and feet, character occupies approximately 88 percent of frame height. Two empty hands apart in clear relaxed open poses, five digits on each.",
+        "custom": "",
+        "aspect": "2:3",
+        "cat": "everyday_basic",
+        "catCustom": "",
+        "ex": "",
+        "exCustom": "",
+        "axes": {},
+        "action": {
+          "category": "",
+          "example": "",
+          "timing": "",
+          "equipment": "",
+          "power": "",
+          "effects": "",
+          "speed": "",
+          "environment": ""
+        },
+        "randomLocks": {}
+      },
+      "casual": {
+        "expr": "",
+        "pose": "",
+        "orient": "",
+        "scene": "",
+        "outfit": "",
+        "frame": "",
+        "lens": "",
+        "camera": "",
+        "custom": "",
+        "aspect": "2:3",
+        "cat": "everyday_basic",
+        "catCustom": "",
+        "ex": "",
+        "exCustom": "",
+        "axes": {},
+        "action": {
+          "category": "",
+          "example": "",
+          "timing": "",
+          "equipment": "",
+          "power": "",
+          "effects": "",
+          "speed": "",
+          "environment": ""
+        },
+        "randomLocks": {}
+      }
+    }
+  },
+  "prompt": "INPUT: the attached image is the approved character; keep her.\n\nSOURCE: Magcargo (마그카르고), fire / rock type.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nFORM — HEAVY: plates over plates: a second, thicker layer of broad plates with thick rims over the chest, abdomen, pelvis, shoulders, forearms, thighs and shins, so the outline is visibly larger. An open-face helmet may cover the crown and temples; eyes, bangs and jaw stay clear. Her body inside keeps its size; no weapon, no cannon.\n\nOUTPUT: the HEAVY form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions, palette and the species features she wears as costume; change only her armor, as FORM says. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). A new card-ready pose is fine; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nExpression: brows pulled down and in, hard forward gaze, jaw clenched, mouth a tight line\nPose: Plant both feet firmly in a grounded bracing stance, using posture rather than a larger body to convey weight.\nScene: Black volcanic plateau with steam rising at amber dawn.\nCamera: 1024x1536 portrait, eye-level 50mm feel. Whole head and feet, character occupies approximately 88 percent of frame height. Two empty hands apart in clear relaxed open poses, five digits on each.\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Her hands keep the same gloves or bare hands as in the attached image; effects stay off the fingers."
+}

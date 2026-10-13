@@ -1,0 +1,21 @@
+{
+  "mech": "마그카르고",
+  "style": "glossy_promo",
+  "aspect": "2:3",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "food_berries",
+  "expr": "soft_smile",
+  "pose": "preparing_food",
+  "orient": "side",
+  "frame": "waist_up",
+  "lens": "documentary35",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "At a covered garden picnic station at dusk, side-on with her face turned toward camera, mixing fresh herb leaves into a glass salad bowl with one wooden spoon while her other complete hand steadies the rim. Warm overhead bulb and cool garden.",
+  "outfit": "Opaque dark-gray tied short-sleeved cropped blouse with a secured V neckline, copper high-waisted culottes, tiny spiral bracelet; bare midriff and forearms.",
+  "camera": "1024x1536 portrait. All of both complete hands and their own forearms within the chosen framing.",
+  "custom": "Same adult woman as the approved LIGHT reference. Preserve face structure, hair length and body. No armor or large species costume pieces; retain only the small jewelry motif. Exactly five separate digits per hand."
+}

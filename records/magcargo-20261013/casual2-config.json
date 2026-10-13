@@ -1,0 +1,21 @@
+{
+  "mech": "마그카르고",
+  "style": "glossy_promo",
+  "aspect": "2:3",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "swimwear",
+  "expr": "amused",
+  "pose": "mid_stride",
+  "orient": "front",
+  "frame": "full_body",
+  "lens": "natural50",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "At a seaside resort rock-pool edge at bright morning, carefully stepping between two flat stones at ankle-deep water, both empty hands held apart for balance. Entire head and bare feet visible, sea spray beyond.",
+  "outfit": "Secure opaque scarlet square-neck swimsuit with broad straps and narrow side-waist cutouts, short charcoal mesh cover skirt and tiny spiral pendant. Mainstream swimwear, bare arms and legs.",
+  "camera": "1024x1536 portrait. All of both complete hands and their own forearms within the chosen framing.",
+  "custom": "Same adult woman as the approved LIGHT reference. Preserve face structure, hair length and body. No armor or large species costume pieces; retain only the small jewelry motif. Exactly five separate digits per hand."
+}

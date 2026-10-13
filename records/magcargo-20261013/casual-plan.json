@@ -1,0 +1,82 @@
+{
+  "plans": [
+    {
+      "mech": "마그카르고",
+      "style": "glossy_promo",
+      "aspect": "2:3",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "cat": "source_editorial",
+      "expr": "pensive",
+      "pose": "perched_seat",
+      "orient": "front_3q",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "scene": "In a quiet mineral gallery at late afternoon, perched on the edge of a stone bench, inspecting an oval polished pebble resting on one open palm; the other complete hand rests on the bench beside her. Soft side light.",
+      "outfit": "A sculptural charcoal one-shoulder opaque mini dress with copper folded draping around one hip, bare shoulder arms and legs, tiny spiral earrings. Human fashion without a literal shell or armor.",
+      "camera": "1024x1536 portrait. All of both complete hands and their own forearms within the chosen framing.",
+      "custom": "Same adult woman as the approved LIGHT reference. Preserve face structure, hair length and body. No armor or large species costume pieces; retain only the small jewelry motif. Exactly five separate digits per hand."
+    },
+    {
+      "mech": "마그카르고",
+      "style": "glossy_promo",
+      "aspect": "2:3",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "cat": "swimwear",
+      "expr": "amused",
+      "pose": "mid_stride",
+      "orient": "front",
+      "frame": "full_body",
+      "lens": "natural50",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "scene": "At a seaside resort rock-pool edge at bright morning, carefully stepping between two flat stones at ankle-deep water, both empty hands held apart for balance. Entire head and bare feet visible, sea spray beyond.",
+      "outfit": "Secure opaque scarlet square-neck swimsuit with broad straps and narrow side-waist cutouts, short charcoal mesh cover skirt and tiny spiral pendant. Mainstream swimwear, bare arms and legs.",
+      "camera": "1024x1536 portrait. All of both complete hands and their own forearms within the chosen framing.",
+      "custom": "Same adult woman as the approved LIGHT reference. Preserve face structure, hair length and body. No armor or large species costume pieces; retain only the small jewelry motif. Exactly five separate digits per hand."
+    },
+    {
+      "mech": "마그카르고",
+      "style": "glossy_promo",
+      "aspect": "2:3",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "cat": "food_berries",
+      "expr": "soft_smile",
+      "pose": "preparing_food",
+      "orient": "side",
+      "frame": "waist_up",
+      "lens": "documentary35",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "scene": "At a covered garden picnic station at dusk, side-on with her face turned toward camera, mixing fresh herb leaves into a glass salad bowl with one wooden spoon while her other complete hand steadies the rim. Warm overhead bulb and cool garden.",
+      "outfit": "Opaque dark-gray tied short-sleeved cropped blouse with a secured V neckline, copper high-waisted culottes, tiny spiral bracelet; bare midriff and forearms.",
+      "camera": "1024x1536 portrait. All of both complete hands and their own forearms within the chosen framing.",
+      "custom": "Same adult woman as the approved LIGHT reference. Preserve face structure, hair length and body. No armor or large species costume pieces; retain only the small jewelry motif. Exactly five separate digits per hand."
+    }
+  ],
+  "compared_records": [
+    "sneasel-20261013",
+    "teddiursa-20261013",
+    "ursaring-20261013"
+  ],
+  "earlier_in_this_task": [
+    "slugma"
+  ],
+  "changes": [
+    "location",
+    "specific activity",
+    "outfit silhouette",
+    "framing"
+  ],
+  "reason": "Distinct activities and silhouettes; no repetition of lantern magician, lake swim, record shop, honey kitchen, cabin blanket or dressing-table scenes."
+}

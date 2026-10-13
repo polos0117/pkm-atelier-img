@@ -1,0 +1,20 @@
+{
+  "mech": "마그카르고",
+  "style": "glossy_promo",
+  "aspect": "2:3",
+  "outputMode": "action",
+  "identityMode": "create",
+  "form": "light",
+  "params": {
+    "apparent age": "20s",
+    "hair color": "auburn",
+    "hairstyle": "short bob",
+    "eye color": "gold"
+  },
+  "expr": "focused",
+  "pose": "combat_ready",
+  "scene": "Black volcanic plateau with steam rising at amber dawn.",
+  "camera": "1024x1536 portrait, eye-level 50mm feel. Whole head and feet, character occupies approximately 88 percent of frame height. Two empty hands apart in clear relaxed open poses, five digits on each.",
+  "custom": "One adult human woman only, no creature companion. Species color and contours interpreted as clothing. Human nose and mouth.",
+  "motifs": "scarlet lava color becomes red armor; dark gray brittle spiral shell becomes a spiral-contoured shoulder mantle with irregular stone-textured ridges and copper heat seams; human face, no snout"
+}
