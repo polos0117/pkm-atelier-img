@@ -1,0 +1,15 @@
+{
+  "name": "총어",
+  "mode": "action",
+  "form": "light",
+  "dest": "pkm-atelier-img/records/remoraid-20261013/light",
+  "controls": {
+    "param-apparent-age": "20s",
+    "param-hair-color": "silver",
+    "param-hairstyle": "bob",
+    "param-hair-length": "medium",
+    "param-body-type": "athletic",
+    "param-eye-color": "blue",
+    "custom": "1024x1536 portrait. Silver-blue palette, two navy stripe motifs on lateral plates, small dorsal-fin-inspired hair pin and compact fin-shaped leg guards; all motifs worn as costume, no handheld or mounted firearms. Both empty human hands fully visible with five clearly separated digits each. Complete head and both feet inside frame, person occupies about 86% of image height. Calm front-facing full-body stance, no text or weapons."
+  }
+}

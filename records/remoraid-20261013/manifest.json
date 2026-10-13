@@ -1,0 +1,146 @@
+[
+  {
+    "card": "총어",
+    "slot": "light",
+    "style": "glossy_promo",
+    "basis": "actual generator UI selections; imagegen",
+    "original": "generated_images/exec-352829a9-ab31-4027-a2c4-d6a6a8312a86.png",
+    "output": "img/총어_light_glossy_promo_f.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "b270bfd55354355fc55d070d6d329d82809dacc743de568bb89df29f66e1adec",
+    "reference": null,
+    "review": "single adult woman; identity and complete hands checked; no text or weapon; frame checked"
+  },
+  {
+    "card": "총어",
+    "slot": "mobility",
+    "style": "glossy_promo",
+    "basis": "actual generator UI selections; imagegen",
+    "original": "generated_images/exec-7a7eb893-04b3-427e-a3cf-185110d80f66.png",
+    "output": "img/총어_mobility_glossy_promo_f.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "2513ea9b9814770b0511aae47a8cb0203e03d15061b6ee6ac4c15fd45b2bb3ae",
+    "reference": "img/총어_light_glossy_promo_f.webp",
+    "review": "single adult woman; identity and complete hands checked; no text or weapon; frame checked"
+  },
+  {
+    "card": "총어",
+    "slot": "heavy",
+    "style": "glossy_promo",
+    "basis": "actual generator UI selections; imagegen",
+    "original": "generated_images/exec-5cad3aac-037f-46e0-9eec-aead78de0a0e.png",
+    "output": "img/총어_heavy_glossy_promo_f.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "1078a0eb755070a5a0d97f448cb8bc3f1441e67a56b96d981408ed872ef609dd",
+    "reference": "img/총어_light_glossy_promo_f.webp",
+    "review": "single adult woman; identity and complete hands checked; no text or weapon; frame checked"
+  },
+  {
+    "card": "총어",
+    "slot": "light_overdrive",
+    "style": "glossy_promo",
+    "basis": "actual generator UI selections; imagegen",
+    "original": "generated_images/exec-7066ce2b-7ce5-41c2-8f5c-dfec0ff4d8cd.png",
+    "output": "img/총어_light_overdrive_glossy_promo_f.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "3a01cb42b7ec1c8504d6d1d37545d07ca21d46d1989afa8e49b1833e7287ea4e",
+    "reference": "img/총어_light_glossy_promo_f.webp",
+    "review": "single adult woman; identity and complete hands checked; no text or weapon; frame checked"
+  },
+  {
+    "card": "총어",
+    "slot": "mobility_overdrive",
+    "style": "glossy_promo",
+    "basis": "actual generator UI selections; imagegen",
+    "original": "generated_images/exec-f458f0b6-ffe8-41fe-8561-41b8ac022c9e.png",
+    "output": "img/총어_mobility_overdrive_glossy_promo_f.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "1c0eb5d078127d5ff6dc0dc187afcf20e0565c9e69963e49f977aabe5648d910",
+    "reference": "img/총어_mobility_glossy_promo_f.webp",
+    "review": "single adult woman; identity and complete hands checked; no text or weapon; frame checked"
+  },
+  {
+    "card": "총어",
+    "slot": "heavy_overdrive",
+    "style": "glossy_promo",
+    "basis": "actual generator UI selections; imagegen",
+    "original": "generated_images/exec-16064d6a-2483-4988-8b69-cc1eea8e507b.png",
+    "output": "img/총어_heavy_overdrive_glossy_promo_f.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "7118379b482967675a20cfa2309e33dcad06eaf8702d5269069620d35aac3bb6",
+    "reference": "img/총어_heavy_glossy_promo_f.webp",
+    "review": "single adult woman; identity and complete hands checked; no text or weapon; frame checked"
+  },
+  {
+    "card": "총어",
+    "slot": "casual1",
+    "style": "glossy_promo",
+    "basis": "actual generator UI selections; imagegen",
+    "original": "generated_images/exec-3f24c5a9-6f16-4481-82ae-30f02abfa8c4.png",
+    "output": "img/총어_glossy_promo_f_casual1.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "cf425f5fb2771569259dad15e63626521723ced78f63492f145ed5fb75fe3205",
+    "reference": "img/총어_light_glossy_promo_f.webp",
+    "review": "single adult woman; identity and complete hands checked; no text or weapon; frame checked"
+  },
+  {
+    "card": "총어",
+    "slot": "casual2",
+    "style": "glossy_promo",
+    "basis": "actual generator UI selections; imagegen",
+    "original": "generated_images/exec-9a55518f-6eb2-48f1-80ac-97f31cfba0f6.png",
+    "output": "img/총어_glossy_promo_f_casual2.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "139db38a78765276586ac030dede2f5cf52e1ddbe1a3df9c0575a3d631ab9f4e",
+    "reference": "img/총어_light_glossy_promo_f.webp",
+    "review": "single adult woman; identity and complete hands checked; no text or weapon; frame checked"
+  },
+  {
+    "card": "총어",
+    "slot": "casual3",
+    "style": "glossy_promo",
+    "basis": "actual generator UI selections; imagegen",
+    "original": "generated_images/exec-5c482d14-2220-4407-8b9b-507c6e03b921.png",
+    "output": "img/총어_glossy_promo_f_casual3.webp",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "82281d0a65ce98deba73b6e8bf1579dcf5f418edd6d94f3b806203e5625ff0ff",
+    "reference": "img/총어_light_glossy_promo_f.webp",
+    "review": "single adult woman; identity and complete hands checked; no text or weapon; frame checked"
+  }
+]

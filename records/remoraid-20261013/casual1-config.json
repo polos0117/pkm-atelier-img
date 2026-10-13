@@ -1,0 +1,18 @@
+{
+  "name": "총어",
+  "mode": "casual",
+  "dest": "pkm-atelier-img/records/remoraid-20261013/casual1",
+  "controls": {
+    "category": "travel_exploration",
+    "expression": "determined",
+    "pose": "checking_map",
+    "orientation": "side",
+    "frame": "waist_up",
+    "lens": "portrait85",
+    "scene": "In an empty ferry-terminal lounge at blue dawn, side body angle with face turned toward camera, opening a small folded blank route chart on a waist-high ledge, hands separated at its two corners. Pale blue harbor windows, no lettering.",
+    "outfit": "Opaque navy sleeveless sailor-collar blouse with secure buttons and silver piping, silver-gray high-waisted shorts, tiny navy double-stripe wristband; bare arms shoulders and small midriff gap.",
+    "custom": "1024x1536 portrait. Both complete hands clearly connected to their own forearms, one thumb and four separate fingers per hand. Preserve the approved adult identity, no armor in casual scenes, tiny species jewelry only, no text. Remove all armor and large fin head ornaments from reference; retain only the specified tiny jewelry or small hair clip.",
+    "axis-overall_intensity": "strong",
+    "axis-skin_exposure": "bold"
+  }
+}

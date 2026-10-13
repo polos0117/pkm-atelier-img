@@ -1,0 +1,18 @@
+{
+  "name": "총어",
+  "mode": "casual",
+  "dest": "pkm-atelier-img/records/remoraid-20261013/casual2",
+  "controls": {
+    "category": "swimwear",
+    "expression": "soft_smile",
+    "pose": "mid_stride",
+    "orientation": "front",
+    "frame": "full_body",
+    "lens": "documentary35",
+    "scene": "At a resort sandy shoreline in golden late afternoon, walking carefully out of ankle-deep surf with both empty open hands held apart for balance. Full head and bare feet, rippled water and beach plants.",
+    "outfit": "Opaque fully lined silver-blue asymmetric one-shoulder swimsuit with secure broad strap, navy double stripe on waist panel, short white open beach wrap tied at one hip, tiny silver fin pendant. Covered chest pelvis, bare arms legs.",
+    "custom": "1024x1536 portrait. Both complete hands clearly connected to their own forearms, one thumb and four separate fingers per hand. Preserve the approved adult identity, no armor in casual scenes, tiny species jewelry only, no text. Remove all armor and large fin head ornaments from reference; retain only the specified tiny jewelry or small hair clip.",
+    "axis-overall_intensity": "strong",
+    "axis-skin_exposure": "bold"
+  }
+}

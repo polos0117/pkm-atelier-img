@@ -1,0 +1,8 @@
+{
+  "name": "총어",
+  "mode": "action",
+  "form": "overdrive",
+  "base": "mobility",
+  "dest": "pkm-atelier-img/records/remoraid-20261013/mobility_overdrive",
+  "controls": {}
+}

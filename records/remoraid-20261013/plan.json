@@ -1,0 +1,67 @@
+{
+  "card": "총어",
+  "recent_comparison": [
+    "swampert-20261013: greenhouse watering / weather post / concert foyer",
+    "blaziken-20261013: diving deck / vinyl room / pedestrian bridge",
+    "swinub-20261013: mushroom woodland / attic lounge / greenhouse watering"
+  ],
+  "changed": [
+    "place",
+    "specific activity",
+    "garment silhouette",
+    "composition"
+  ],
+  "additional_this_task": [
+    "piloswine",
+    "corsola"
+  ],
+  "face_source": "data/face-design.json and docs/CHARACTER_FACE_DESIGNS.md; cross-checked data/source-appearance.json",
+  "casual": [
+    {
+      "category": "travel_exploration",
+      "expression": "determined",
+      "pose": "checking_map",
+      "orientation": "side",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "In an empty ferry-terminal lounge at blue dawn, side body angle with face turned toward camera, opening a small folded blank route chart on a waist-high ledge, hands separated at its two corners. Pale blue harbor windows, no lettering.",
+      "outfit": "Opaque navy sleeveless sailor-collar blouse with secure buttons and silver piping, silver-gray high-waisted shorts, tiny navy double-stripe wristband; bare arms shoulders and small midriff gap.",
+      "custom": "1024x1536 portrait. Both complete hands clearly connected to their own forearms, one thumb and four separate fingers per hand. Preserve the approved adult identity, no armor in casual scenes, tiny species jewelry only, no text. Remove all armor and large fin head ornaments from reference; retain only the specified tiny jewelry or small hair clip.",
+      "axis-overall_intensity": "strong",
+      "axis-skin_exposure": "bold"
+    },
+    {
+      "category": "swimwear",
+      "expression": "soft_smile",
+      "pose": "mid_stride",
+      "orientation": "front",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "scene": "At a resort sandy shoreline in golden late afternoon, walking carefully out of ankle-deep surf with both empty open hands held apart for balance. Full head and bare feet, rippled water and beach plants.",
+      "outfit": "Opaque fully lined silver-blue asymmetric one-shoulder swimsuit with secure broad strap, navy double stripe on waist panel, short white open beach wrap tied at one hip, tiny silver fin pendant. Covered chest pelvis, bare arms legs.",
+      "custom": "1024x1536 portrait. Both complete hands clearly connected to their own forearms, one thumb and four separate fingers per hand. Preserve the approved adult identity, no armor in casual scenes, tiny species jewelry only, no text. Remove all armor and large fin head ornaments from reference; retain only the specified tiny jewelry or small hair clip.",
+      "axis-overall_intensity": "strong",
+      "axis-skin_exposure": "bold"
+    },
+    {
+      "category": "hobbies_leisure",
+      "expression": "surprised",
+      "pose": "perched_seat",
+      "orientation": "front_3q",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "scene": "In an empty model-making atelier at cloudy midday, perched on a tall stool beside a workbench, inspecting a small wooden sailboat hull resting on one open palm while the other hand points near its edge without contact. Both complete hands visible.",
+      "outfit": "Opaque silver-gray short-sleeved cropped utility shirt with secure collar, navy high-waisted wide-leg trousers, plain blue belt and tiny fin hair clip; bare forearms and midriff.",
+      "custom": "1024x1536 portrait. Both complete hands clearly connected to their own forearms, one thumb and four separate fingers per hand. Preserve the approved adult identity, no armor in casual scenes, tiny species jewelry only, no text. Remove all armor and large fin head ornaments from reference; retain only the specified tiny jewelry or small hair clip.",
+      "axis-overall_intensity": "strong",
+      "axis-skin_exposure": "bold"
+    }
+  ],
+  "face_comparison": [
+    "메꾸리",
+    "코산호",
+    "꾸꾸리",
+    "마그카르고",
+    "대짱이"
+  ]
+}
