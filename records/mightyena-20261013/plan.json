@@ -1,0 +1,50 @@
+{
+  "card": "그라에나",
+  "recent_compared": [
+    "물짱이",
+    "늪짱이",
+    "대짱이",
+    "포챠나"
+  ],
+  "comparison_scope": "Read all 9 recent casual submitted prompts from mudkip/marshtomp/swampert records; reviewed this batch preceding plans.",
+  "changes": "Different location, specific activity, clothing silhouette and camera composition; rotate required categories adult_roleplay / lingerie / swimwear.",
+  "face_reason": "Large hyena mane and diamond ears: longer narrow jaw, horizontal sharp eyes, thick brows, balanced nose and wider mouth.",
+  "casual_plan": [
+    {
+      "category": "lingerie",
+      "expression": "calm",
+      "pose": "sitting",
+      "orientation": "front",
+      "frame": "three_quarter",
+      "lens": "portrait85",
+      "scene": "In her private elegant dressing room under warm evening vanity lights, sitting upright on a velvet stool and clasping a small bracelet with hands separate at waist height.",
+      "outfit": "Opaque charcoal satin full-cup camisole with broad secure straps and silver lace trim, matching tailored satin shorts, red silk robe slipped loosely from shoulders, tiny diamond pendant; covered chest and pelvis, bare arms and legs.",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    {
+      "category": "active",
+      "expression": "determined",
+      "pose": "stretching",
+      "orientation": "front_3q",
+      "frame": "full_body",
+      "lens": "natural50",
+      "scene": "On an empty city rooftop exercise terrace at crisp dawn, stretching one arm diagonally outward while the other relaxed arm hangs openly, feet planted, distant rooftops and pink horizon.",
+      "outfit": "Opaque black racerback athletic top and gray high-waisted running shorts with crimson trim, black trainers, tiny diamond ear studs; bare arms, modest midriff and legs.",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    {
+      "category": "festivals_contests",
+      "expression": "confident",
+      "pose": "leaning_furniture",
+      "orientation": "side",
+      "frame": "waist_up",
+      "lens": "telephoto135",
+      "scene": "At an empty outdoor jazz pavilion during blue hour, leaning one forearm on a smooth bar-height rail and holding one small blank ticket in the other hand. Side body profile, face gently rotated within a natural neck angle. Purple stage lights far behind.",
+      "outfit": "Opaque steel-gray asymmetric halter evening dress with a long draped skirt and black waist panel, narrow red bracelet, tiny diamond brooch; bare shoulders and arms.",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    }
+  ]
+}

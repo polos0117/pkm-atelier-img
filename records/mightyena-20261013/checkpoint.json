@@ -1,0 +1,273 @@
+{
+  "card": "그라에나",
+  "completed": 9,
+  "outputs": [
+    {
+      "slot": "light",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-4247442c-5340-458c-8d4a-8c87c4d704dd.png",
+      "output": "img/그라에나_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "7e7691c378da30071a01d8959bfe561211ec7d8c1d7a7cd55ef09037f21f317e",
+      "original_sha256": "607a11f243b4490fdc785b802560460f1ffd5f33bbbf96598cf47b02e94be8ff",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-21325d01-ea10-4bf0-93c8-7ff84ea84b2b.png"
+      ],
+      "ui_settings": "light-ui.json",
+      "submitted_prompt": "light.txt",
+      "prompt_sha256": "97c60d622b2995469381dcfe56a7be3130b3344d51ae93e5d2523989548c58cf",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable.",
+      "correction_prompt": "light-correction.txt",
+      "correction_prompt_sha256": "c5d8b6c3c5e8d7776c8d44179a08cb0caa695e1c5df3f8be6c12a0758d2f8513"
+    },
+    {
+      "slot": "heavy",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-3a64e608-2463-4b24-b1fa-63dd4c798746.png",
+      "output": "img/그라에나_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "27e9a65fe43b8baab28112192b2f3a56f89ee368faddcc40ccafff370ed922cb",
+      "original_sha256": "6efa05a7da85e29f272ee8bfbc40f4c284ec5a645088905a15c4accf2fe25c73",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-4247442c-5340-458c-8d4a-8c87c4d704dd.png"
+      ],
+      "ui_settings": "heavy-ui.json",
+      "submitted_prompt": "heavy.txt",
+      "prompt_sha256": "eff51e7766383a4ad261dcc90ad21aab34c30878e6c99bbdcaeafedff3de753a",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+    },
+    {
+      "slot": "mobility",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-9c3bfcec-afdd-4ea8-a46b-b8afb93e1bbd.png",
+      "output": "img/그라에나_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "80cda970683ef7aa2185de32bf1cdba02bde5f0e642d7be614f48b5f5f1f69ec",
+      "original_sha256": "b1b7a472478cd5b062732d75b8d1cf2b11aa0dab1c4952572b878dc56b024f40",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-4247442c-5340-458c-8d4a-8c87c4d704dd.png"
+      ],
+      "ui_settings": "mobility-ui.json",
+      "submitted_prompt": "mobility.txt",
+      "prompt_sha256": "b894d96212de9ca280c8967fa51731a680ba3fca5571969468ee6f5a9bbfe481",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+    },
+    {
+      "slot": "casual2",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-2da1831f-df00-465b-a3fc-e852e2ee25c1.png",
+      "output": "img/그라에나_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "7562bc1d50494f2e5810f66b3c4a3636247811082aecb85363a19ceff02e1881",
+      "original_sha256": "546ea5852bf7d086d53111f14fe6e8cb84810d9e866f52ca96488126eb9aa452",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-4247442c-5340-458c-8d4a-8c87c4d704dd.png"
+      ],
+      "ui_settings": "casual2-ui.json",
+      "submitted_prompt": "casual2.txt",
+      "prompt_sha256": "f64faa15ee7cd649dec783d6cd08309fd04439ea18ea3b7115215750a7820b93",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+    },
+    {
+      "slot": "light_overdrive",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-75a03884-718e-4e4c-abac-b951f755df60.png",
+      "output": "img/그라에나_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "177f050c60284355e0567b5a87e66e7cab43ac966a31094a753b2d0e2c01f8c9",
+      "original_sha256": "983e36167b48d18bbc9d81c78a5f04a5f2ab96d639b3140cece5af946882b3c0",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-4247442c-5340-458c-8d4a-8c87c4d704dd.png"
+      ],
+      "ui_settings": "light_overdrive-ui.json",
+      "submitted_prompt": "light_overdrive.txt",
+      "prompt_sha256": "d17642848cc8bcafaade79c10f80f430d8c4b30f170f37f5a31ea488d44a62d1",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-a23fa0df-f534-4c3a-b834-f89db29b5b0d.png",
+      "output": "img/그라에나_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b55048419da092dda981b587a63c31bde32d7bbf6d52e0ec42e46ac9d115d66b",
+      "original_sha256": "6fe7d117b86a16d091e816668a4700328e1933c63673289585f56ca9c6096daa",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-3a64e608-2463-4b24-b1fa-63dd4c798746.png",
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-4247442c-5340-458c-8d4a-8c87c4d704dd.png"
+      ],
+      "ui_settings": "heavy_overdrive-ui.json",
+      "submitted_prompt": "heavy_overdrive.txt",
+      "prompt_sha256": "9b31b9fefe51e7edc8505991c063e3245c128a25338cae18a4a4ffe08f2002b6",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-86359364-4e51-4e4e-9a4b-1a7e89558069.png",
+      "output": "img/그라에나_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "7d311af3a8e07ac908581608d8fd48b4da836b8c409702a3b1f1da1a478748f8",
+      "original_sha256": "3ee35d38eae8acf354d6d05186bf111717359b6bf4cc01eff3867572160d0bd9",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-9c3bfcec-afdd-4ea8-a46b-b8afb93e1bbd.png",
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-4247442c-5340-458c-8d4a-8c87c4d704dd.png"
+      ],
+      "ui_settings": "mobility_overdrive-ui.json",
+      "submitted_prompt": "mobility_overdrive.txt",
+      "prompt_sha256": "44dae867ead94d754b6a91b362004fdf2c8d912467ad16fb397ff3c853a29d29",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+    },
+    {
+      "slot": "casual3",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-31eba980-1f41-4819-921d-2371f0720365.png",
+      "output": "img/그라에나_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "617daf1a3e56541283a1023a29a2feddc8424e1ee4aab53cd163f8f6d1f46d50",
+      "original_sha256": "45698ecd62f94d986d2d89911b80388eff9aba00f5b228175e8518ffac6dcaab",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-e03cf015-92ea-4bdc-bdf0-37d601f584c7.png"
+      ],
+      "ui_settings": "casual3-ui.json",
+      "submitted_prompt": "casual3.txt",
+      "prompt_sha256": "416d8ded071999746ab69639b7dc9ce2a4cdda672e2c26ddcc116731d320563c",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable.",
+      "correction_prompt": "casual3-correction.txt",
+      "correction_prompt_sha256": "6eaca3619577150b26a365b6aeb5e6fbd1f97b6005a0ba56c1bc3bab89ad644e"
+    },
+    {
+      "slot": "casual1",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-df39bed2-306d-440d-9e6f-3751713e287e.png",
+      "output": "img/그라에나_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e332efe0b2bff585cd6916d98c336229c167f0ef5cd5b75447687b23935ba52d",
+      "original_sha256": "6d40fde2b4fc26371ef9b3c16186acead4f264e6189db0b25ccb5a46215a2132",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-85ef24c9-6ba3-414f-bc63-5ff2f1ecd4ed.png"
+      ],
+      "ui_settings": "casual1-ui.json",
+      "submitted_prompt": "casual1.txt",
+      "prompt_sha256": "21852bf158f0ea1ac766bfcf27b6da1c9e2fc60b28ef0040e6541c19402ecfd3",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable.",
+      "correction_prompt": "casual1-correction.txt",
+      "correction_prompt_sha256": "ba6135dab3dee1c02300dfc7ed1730860e193a83a38e0f1c00a8f1d2f913a73d"
+    }
+  ],
+  "plan": {
+    "card": "그라에나",
+    "recent_compared": [
+      "물짱이",
+      "늪짱이",
+      "대짱이",
+      "포챠나"
+    ],
+    "comparison_scope": "Read all 9 recent casual submitted prompts from mudkip/marshtomp/swampert records; reviewed this batch preceding plans.",
+    "changes": "Different location, specific activity, clothing silhouette and camera composition; rotate required categories adult_roleplay / lingerie / swimwear.",
+    "face_reason": "Large hyena mane and diamond ears: longer narrow jaw, horizontal sharp eyes, thick brows, balanced nose and wider mouth.",
+    "casual_plan": [
+      {
+        "category": "lingerie",
+        "expression": "calm",
+        "pose": "sitting",
+        "orientation": "front",
+        "frame": "three_quarter",
+        "lens": "portrait85",
+        "scene": "In her private elegant dressing room under warm evening vanity lights, sitting upright on a velvet stool and clasping a small bracelet with hands separate at waist height.",
+        "outfit": "Opaque charcoal satin full-cup camisole with broad secure straps and silver lace trim, matching tailored satin shorts, red silk robe slipped loosely from shoulders, tiny diamond pendant; covered chest and pelvis, bare arms and legs.",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      {
+        "category": "active",
+        "expression": "determined",
+        "pose": "stretching",
+        "orientation": "front_3q",
+        "frame": "full_body",
+        "lens": "natural50",
+        "scene": "On an empty city rooftop exercise terrace at crisp dawn, stretching one arm diagonally outward while the other relaxed arm hangs openly, feet planted, distant rooftops and pink horizon.",
+        "outfit": "Opaque black racerback athletic top and gray high-waisted running shorts with crimson trim, black trainers, tiny diamond ear studs; bare arms, modest midriff and legs.",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      {
+        "category": "festivals_contests",
+        "expression": "confident",
+        "pose": "leaning_furniture",
+        "orientation": "side",
+        "frame": "waist_up",
+        "lens": "telephoto135",
+        "scene": "At an empty outdoor jazz pavilion during blue hour, leaning one forearm on a smooth bar-height rail and holding one small blank ticket in the other hand. Side body profile, face gently rotated within a natural neck angle. Purple stage lights far behind.",
+        "outfit": "Opaque steel-gray asymmetric halter evening dress with a long draped skirt and black waist panel, narrow red bracelet, tiny diamond brooch; bare shoulders and arms.",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    ]
+  },
+  "publication": "pending",
+  "generation": "Built-in image_gen, actual Preact generator UI controls via repository DOM harness",
+  "status": "9/9 complete and visually reviewed; prepared for non-force main publication",
+  "canonical_light": {
+    "slot": "light",
+    "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-4247442c-5340-458c-8d4a-8c87c4d704dd.png",
+    "output": "img/그라에나_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "7e7691c378da30071a01d8959bfe561211ec7d8c1d7a7cd55ef09037f21f317e",
+    "original_sha256": "607a11f243b4490fdc785b802560460f1ffd5f33bbbf96598cf47b02e94be8ff",
+    "references": [
+      "/workspace/scratch/abb1bd8247c5/generated_images/exec-21325d01-ea10-4bf0-93c8-7ff84ea84b2b.png"
+    ],
+    "ui_settings": "light-ui.json",
+    "submitted_prompt": "light.txt",
+    "prompt_sha256": "97c60d622b2995469381dcfe56a7be3130b3344d51ae93e5d2523989548c58cf",
+    "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable.",
+    "correction_prompt": "light-correction.txt",
+    "correction_prompt_sha256": "c5d8b6c3c5e8d7776c8d44179a08cb0caa695e1c5df3f8be6c12a0758d2f8513"
+  },
+  "face_compared": [
+    "물짱이",
+    "늪짱이",
+    "대짱이",
+    "포챠나"
+  ],
+  "face_review": "Long narrow face, stronger low eyebrows, broad mouth, distinct from the shorter Poochyena oval.",
+  "review_notes": [
+    "light: camera moved back to include complete ear-shaped costume ornaments and boots; canonical framing used for subsequent forms.",
+    "casual1 and casual3: remove retained mechanical neck collar so off-duty outfits contain no armor.",
+    "casual1 neck-guard-only cleanup rejected by image safety output system (sexual). Materially safer fully opaque high boat-neck satin lounge camisole submitted; adult identity, pose, scene and camera preserved."
+  ],
+  "recovery": "Canonical light and all 9 final WebP images are included in this character commit; original PNG local paths are provenance, not durability claims.",
+  "publication_method": "Connected GitHub commit and non-force fast-forward main update using expected current head; command-line Git push has no write credential in this environment."
+}

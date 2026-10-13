@@ -1,0 +1,25 @@
+CHARACTER: the same woman as the attached image — Mightyena (그라에나) personified, dark type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: brows pulled down and in, hard forward gaze, jaw clenched, mouth a tight line
+Pose: Stretch the arms and upper back gently in a comfortable everyday motion.
+Orientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together
+Scene: On an empty city rooftop exercise terrace at crisp dawn, stretching one arm diagonally outward while the other relaxed arm hangs openly, feet planted, distant rooftops and pink horizon.
+Outfit and props: Opaque black racerback athletic top and gray high-waisted running shorts with crimson trim, black trainers, tiny diamond ear studs; bare arms, modest midriff and legs.
+Category: Show real movement with fashion-forward activewear or movement-oriented clothing. Avoid generic gym snapshots. Prioritize dynamic motion, readable silhouette, waist and hip lines, fabric movement, and varied action.
+Note: Same clearly adult woman as the light reference. Remove all armor, large species ornaments and waist tails. Only small jewelry or clothing motifs echo the species. Natural human skin.
+Framing: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.
+Lens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.
+Camera: 1024x1536 vertical. Both whole hands and scene props inside chosen framing, natural neck alignment.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.
