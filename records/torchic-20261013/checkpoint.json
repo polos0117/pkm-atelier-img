@@ -5,7 +5,7 @@
   "tool": "built-in image_gen",
   "completed": 9,
   "required": 9,
-  "status": "generated and visually reviewed; publication pending",
+  "status": "registered: nine images and nine thumbnails verified on both main branches",
   "approved_light": {
     "card": "아차모",
     "slot": "light",
@@ -262,5 +262,21 @@
       "submitted_prompt": "casual3.txt",
       "prompt_sha256": "633e9bed755b45e7421a3360fc383135b5ffaac615070c96353c7ebf6d84c7e7"
     }
-  ]
+  ],
+  "image_commit": "b6df45d5366db0f3a4fc389e9b778043c1c25822",
+  "registration_commit": "675a7a58a839b4f8863c0f41ff8d24bece44f662",
+  "verification_image_head": "55796f6b1b1264b9f0b7021057cf4a440a099651",
+  "registered_count": 9,
+  "thumbnail_count": 9,
+  "remote_image_hashes_verified": true,
+  "persistent_light_reference": {
+    "repository": "polos0117/pkm-atelier-img",
+    "commit": "b6df45d5366db0f3a4fc389e9b778043c1c25822",
+    "path": "img/아차모_light_glossy_promo_f.webp",
+    "sha256": "1b1413c4617a3eb8709233ef9eeefe8126a3a10ebde7fe1f3c78d9556875bccc"
+  },
+  "publication_method": "GitHub-connected commit and non-force fast-forward main update with expected current head. No force push or existing work deletion.",
+  "final_code_commit": "7ad2d06bf14ec75dc1c328de4e1573bea93e9fce",
+  "verified_image_count": 9,
+  "verified_thumbnail_count": 9
 }

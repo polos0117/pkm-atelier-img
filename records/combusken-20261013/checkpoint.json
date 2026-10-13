@@ -5,7 +5,7 @@
   "tool": "built-in image_gen",
   "completed": 9,
   "required": 9,
-  "status": "generated and visually reviewed; publication pending",
+  "status": "registered: nine images and nine thumbnails verified on both main branches",
   "approved_light": {
     "card": "영치코",
     "slot": "light",
@@ -262,5 +262,21 @@
       "submitted_prompt": "casual3.txt",
       "prompt_sha256": "5b7a497c446e7c326ba7fb3ba3365d685454000adee6f7237325fdbfdac5657c"
     }
-  ]
+  ],
+  "image_commit": "c04c92d45279e73da0630350c4e483201123ac3e",
+  "registration_commit": "8cbd535609a2eec882727443f7d8b40a83c52220",
+  "verification_image_head": "55796f6b1b1264b9f0b7021057cf4a440a099651",
+  "registered_count": 9,
+  "thumbnail_count": 9,
+  "remote_image_hashes_verified": true,
+  "persistent_light_reference": {
+    "repository": "polos0117/pkm-atelier-img",
+    "commit": "c04c92d45279e73da0630350c4e483201123ac3e",
+    "path": "img/영치코_light_glossy_promo_f.webp",
+    "sha256": "315c56323e02446ca6cd9f4fb4c896f81222160a99025d77945786561435367f"
+  },
+  "publication_method": "GitHub-connected commit and non-force fast-forward main update with expected current head. No force push or existing work deletion.",
+  "final_code_commit": "7ad2d06bf14ec75dc1c328de4e1573bea93e9fce",
+  "verified_image_count": 9,
+  "verified_thumbnail_count": 9
 }

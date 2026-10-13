@@ -5,7 +5,7 @@
   "tool": "built-in image_gen",
   "completed": 9,
   "required": 9,
-  "status": "nine images visually reviewed; publication pending",
+  "status": "registered: nine images and nine thumbnails verified on both main branches",
   "approved_light": {
     "card": "번치코",
     "slot": "light",
@@ -278,5 +278,21 @@
     }
   ],
   "approved_light_hash_matches_pre_interruption": "2c8dfe948347372cf6468190afde1ebd23199e477454ff7e88c9a875a7cc01bb",
-  "image_review": "Nine separate images; same adult identity. Closed/open pairs keep camera pose and subject scale. Casual scenes differ in environment activity clothing expression pose orientation and framing. Swimwear hand overlap corrected."
+  "image_review": "Nine separate images; same adult identity. Closed/open pairs keep camera pose and subject scale. Casual scenes differ in environment activity clothing expression pose orientation and framing. Swimwear hand overlap corrected.",
+  "image_commit": "17d8849ef3dfecd340c584814a18263973ba3370",
+  "registration_commit": "ed145ab36b47fb353dcc6891b61d92f5381742b3",
+  "verification_image_head": "55796f6b1b1264b9f0b7021057cf4a440a099651",
+  "registered_count": 9,
+  "thumbnail_count": 9,
+  "remote_image_hashes_verified": true,
+  "persistent_light_reference": {
+    "repository": "polos0117/pkm-atelier-img",
+    "commit": "17d8849ef3dfecd340c584814a18263973ba3370",
+    "path": "img/번치코_light_glossy_promo_f.webp",
+    "sha256": "2c8dfe948347372cf6468190afde1ebd23199e477454ff7e88c9a875a7cc01bb"
+  },
+  "publication_method": "GitHub-connected commit and non-force fast-forward main update with expected current head. No force push or existing work deletion.",
+  "final_code_commit": "7ad2d06bf14ec75dc1c328de4e1573bea93e9fce",
+  "verified_image_count": 9,
+  "verified_thumbnail_count": 9
 }
