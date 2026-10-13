@@ -1,0 +1,20 @@
+{
+  "mech": "마그마그",
+  "style": "glossy_promo",
+  "aspect": "2:3",
+  "outputMode": "action",
+  "identityMode": "create",
+  "form": "light",
+  "params": {
+    "apparent age": "20s",
+    "hair color": "copper",
+    "hairstyle": "long wavy",
+    "eye color": "amber"
+  },
+  "expr": "focused",
+  "pose": "combat_ready",
+  "scene": "Basalt geothermal terrace with warm glowing fissures at twilight.",
+  "camera": "1024x1536 portrait, eye-level 50mm feel. Whole head and feet, character occupies approximately 88 percent of frame height. Two empty hands apart in clear relaxed open poses, five digits on each.",
+  "custom": "One adult human woman only, no creature companion. Species color and contours interpreted as clothing. Human nose and mouth.",
+  "motifs": "molten red and copper flowing contours become smooth armor plates with amber heat seams and two small flame-shaped hair ornaments; not a literal slug body"
+}

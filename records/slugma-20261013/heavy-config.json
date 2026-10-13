@@ -1,0 +1,12 @@
+{
+  "mech": "마그마그",
+  "style": "glossy_promo",
+  "aspect": "2:3",
+  "outputMode": "action",
+  "identityMode": "reference",
+  "form": "heavy",
+  "expr": "determined",
+  "pose": "braced_stance",
+  "camera": "1024x1536 portrait, eye-level 50mm feel. Whole head and feet, character occupies approximately 88 percent of frame height. Two empty hands apart in clear relaxed open poses, five digits on each.",
+  "scene": "Basalt geothermal terrace with warm glowing fissures at twilight."
+}

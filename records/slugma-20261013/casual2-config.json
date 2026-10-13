@@ -1,0 +1,21 @@
+{
+  "mech": "마그마그",
+  "style": "glossy_promo",
+  "aspect": "2:3",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "hobbies_leisure",
+  "expr": "focused",
+  "pose": "mid_action",
+  "orient": "front",
+  "frame": "waist_up",
+  "lens": "portrait85",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "In a ceramics studio at rainy noon, smoothing the rim of a small terracotta bowl on a stationary table, both hands separately visible above the table; diffuse window light and shelves of unmarked pottery.",
+  "outfit": "Opaque rust-red sleeveless ribbed scoop-neck top and high-waisted cream linen shorts; bare arms and midriff, a small amber pendant.",
+  "camera": "1024x1536 portrait. All of both complete hands and their own forearms within the chosen framing.",
+  "custom": "Same adult woman as the approved LIGHT reference. Preserve face structure, hair length and body. No armor or large species costume pieces; retain only the small jewelry motif. Exactly five separate digits per hand."
+}

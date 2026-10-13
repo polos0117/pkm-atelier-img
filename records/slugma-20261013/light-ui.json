@@ -1,0 +1,100 @@
+{
+  "method": "Actual Preact editor controls via repository DOM harness",
+  "config": {
+    "mech": "마그마그",
+    "style": "glossy_promo",
+    "aspect": "2:3",
+    "outputMode": "action",
+    "identityMode": "create",
+    "form": "light",
+    "params": {
+      "apparent age": "20s",
+      "hair color": "copper",
+      "hairstyle": "long wavy",
+      "eye color": "amber"
+    },
+    "expr": "focused",
+    "pose": "combat_ready",
+    "scene": "Basalt geothermal terrace with warm glowing fissures at twilight.",
+    "camera": "1024x1536 portrait, eye-level 50mm feel. Whole head and feet, character occupies approximately 88 percent of frame height. Two empty hands apart in clear relaxed open poses, five digits on each.",
+    "custom": "One adult human woman only, no creature companion. Species color and contours interpreted as clothing. Human nose and mouth.",
+    "motifs": "molten red and copper flowing contours become smooth armor plates with amber heat seams and two small flame-shaped hair ornaments; not a literal slug body"
+  },
+  "saved": {
+    "style": "glossy_promo",
+    "identityMode": "create",
+    "form": "light",
+    "baseForm": "light",
+    "motifs": "molten red and copper flowing contours become smooth armor plates with amber heat seams and two small flame-shaped hair ornaments; not a literal slug body",
+    "formOverride": "",
+    "headFeature": "",
+    "faceDesignOn": true,
+    "params": {
+      "apparent age": "20s",
+      "hair color": "copper",
+      "hairstyle": "long wavy",
+      "eye color": "amber"
+    },
+    "locks": {},
+    "mode": "action",
+    "scenes": {
+      "action": {
+        "expr": "focused",
+        "pose": "combat_ready",
+        "orient": "",
+        "scene": "Basalt geothermal terrace with warm glowing fissures at twilight.",
+        "outfit": "",
+        "frame": "",
+        "lens": "",
+        "camera": "1024x1536 portrait, eye-level 50mm feel. Whole head and feet, character occupies approximately 88 percent of frame height. Two empty hands apart in clear relaxed open poses, five digits on each.",
+        "custom": "One adult human woman only, no creature companion. Species color and contours interpreted as clothing. Human nose and mouth.",
+        "aspect": "2:3",
+        "cat": "everyday_basic",
+        "catCustom": "",
+        "ex": "",
+        "exCustom": "",
+        "axes": {},
+        "action": {
+          "category": "",
+          "example": "",
+          "timing": "",
+          "equipment": "",
+          "power": "",
+          "effects": "",
+          "speed": "",
+          "environment": ""
+        },
+        "randomLocks": {}
+      },
+      "casual": {
+        "expr": "",
+        "pose": "",
+        "orient": "",
+        "scene": "",
+        "outfit": "",
+        "frame": "",
+        "lens": "",
+        "camera": "",
+        "custom": "",
+        "aspect": "2:3",
+        "cat": "everyday_basic",
+        "catCustom": "",
+        "ex": "",
+        "exCustom": "",
+        "axes": {},
+        "action": {
+          "category": "",
+          "example": "",
+          "timing": "",
+          "equipment": "",
+          "power": "",
+          "effects": "",
+          "speed": "",
+          "environment": ""
+        },
+        "randomLocks": {}
+      }
+    }
+  },
+  "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images. For the image tool, omit referenced_image_paths and num_last_images_to_include.\n\nSOURCE: Slugma (마그마그), fire type.\n\nPALETTE: red.\n\nSTYLE: Premium glossy anime-mecha promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized hard-surface detail. Match the face and armor at the same polished rendering intensity.\n\nSUBJECT: A female mecha personification character with Slugma as her motif — the creature reimagined as an armored adult woman, not a mascot costume or a creature suit: her plates, undersuit, hair and ornaments carry its palette, markings and shapes. She wears its features as costume; nothing is carried, mounted or put on display. Her skin is human skin.\n\nWEAR (user choice): molten red and copper flowing contours become smooth armor plates with amber heat seams and two small flame-shaped hair ornaments; not a literal slug body.\n\nFACE (her own structure, not the style's default face): oval face, long length, medium width; soft rounded jaw; open rounded eyes, small size, level outer corners, average spacing; fine soft arches; rounded soft tip nose; full lips.\n\nFORM — LIGHT: one close-fitting armor layer: slim plates at the shoulders, forearms, hips and shins over a fitted undersuit, joints free, a slim readable outline. No helmet; at most a slim headband or temple sensor.\n\nOUTPUT: one dynamic action image that is also this form's card art. Vertical 2:3 frame, full body with head and feet inside the frame and clear margins, no foreground occlusion, face toward the camera (front or three-quarter, never a back view). Default stance is a standing, card-ready pose; motion, effects and setting may be dramatic while her design stays readable.\n\nChosen settings below override the default stance and camera; her identity and form stay fixed.\nExpression: slightly drawn brow, narrowed steady eyes fixed on one point, mouth firmly closed\nPose: Use a balanced combat-ready stance with one foot forward and hands prepared for the chosen action.\nScene: Basalt geothermal terrace with warm glowing fissures at twilight.\nNote: One adult human woman only, no creature companion. Species color and contours interpreted as clothing. Human nose and mouth.\nCamera: 1024x1536 portrait, eye-level 50mm feel. Whole head and feet, character occupies approximately 88 percent of frame height. Two empty hands apart in clear relaxed open poses, five digits on each.\n\nIDENTITY (chosen details override the automatic look)\napparent age: 20s — adult woman in her twenties\nhair color: copper\nhairstyle: long wavy\neye color: amber\nhair scope: Keep the cut and its fixed length; other hair settings adjust within it. Hair choices do not set ethnicity.\neye color consistency: both eyes are amber\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra. Gloves are full-finger and close-fitting, never fingerless; plates, water, sparks and effects stay off the fingers."
+}

@@ -1,0 +1,80 @@
+{
+  "plans": [
+    {
+      "mech": "마그마그",
+      "style": "glossy_promo",
+      "aspect": "2:3",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "cat": "adult_roleplay",
+      "expr": "confident",
+      "pose": "dance_step",
+      "orient": "turning_midmotion",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "scene": "An empty summer carnival rehearsal terrace at twilight. Practicing one small dance step with both empty hands open at waist level, face toward camera; amber string lights and no other people.",
+      "outfit": "Original adult fire-dancer event fashion: opaque scarlet halter top, copper high-waisted asymmetric mini skirt with flame-shaped fabric trim, ankle-wrap sandals. Bare shoulders, midriff and legs, tiny amber earrings. No fire props.",
+      "camera": "1024x1536 portrait. All of both complete hands and their own forearms within the chosen framing.",
+      "custom": "Same adult woman as the approved LIGHT reference. Preserve face structure, hair length and body. No armor or large species costume pieces; retain only the small jewelry motif. Exactly five separate digits per hand."
+    },
+    {
+      "mech": "마그마그",
+      "style": "glossy_promo",
+      "aspect": "2:3",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "cat": "hobbies_leisure",
+      "expr": "focused",
+      "pose": "mid_action",
+      "orient": "front",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "scene": "In a ceramics studio at rainy noon, smoothing the rim of a small terracotta bowl on a stationary table, both hands separately visible above the table; diffuse window light and shelves of unmarked pottery.",
+      "outfit": "Opaque rust-red sleeveless ribbed scoop-neck top and high-waisted cream linen shorts; bare arms and midriff, a small amber pendant.",
+      "camera": "1024x1536 portrait. All of both complete hands and their own forearms within the chosen framing.",
+      "custom": "Same adult woman as the approved LIGHT reference. Preserve face structure, hair length and body. No armor or large species costume pieces; retain only the small jewelry motif. Exactly five separate digits per hand."
+    },
+    {
+      "mech": "마그마그",
+      "style": "glossy_promo",
+      "aspect": "2:3",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "cat": "travel_exploration",
+      "expr": "curious",
+      "pose": "walking",
+      "orient": "front_3q",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "scene": "Walking through a dark volcanic-lava-tube visitor walkway at dawn, looking toward camera while holding an unlit small flashlight downward in one hand, the other empty hand loose beside her hip. Cool stone and a distant gold opening.",
+      "outfit": "Opaque orange cropped short-sleeved utility shirt, black high-waisted hiking shorts, sturdy boots, a tiny amber bead bracelet; bare midriff and legs.",
+      "camera": "1024x1536 portrait. All of both complete hands and their own forearms within the chosen framing.",
+      "custom": "Same adult woman as the approved LIGHT reference. Preserve face structure, hair length and body. No armor or large species costume pieces; retain only the small jewelry motif. Exactly five separate digits per hand."
+    }
+  ],
+  "compared_records": [
+    "sneasel-20261013",
+    "teddiursa-20261013",
+    "ursaring-20261013"
+  ],
+  "earlier_in_this_task": [],
+  "changes": [
+    "location",
+    "specific activity",
+    "outfit silhouette",
+    "framing"
+  ],
+  "reason": "Distinct activities and silhouettes; no repetition of lantern magician, lake swim, record shop, honey kitchen, cabin blanket or dressing-table scenes."
+}

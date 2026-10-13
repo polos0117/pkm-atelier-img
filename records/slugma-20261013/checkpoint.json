@@ -1,0 +1,258 @@
+{
+  "name": "마그마그",
+  "no": 218,
+  "status": "9/9 visually reviewed; all final WebP files included in this character commit",
+  "completed": 9,
+  "tool": "built-in image_gen",
+  "face_design": {
+    "name": "마그마그",
+    "en": "Slugma",
+    "line": "마그마그",
+    "how": "species",
+    "registered": false,
+    "face": {
+      "face shape": "oval",
+      "face length": "long",
+      "face width": "medium",
+      "jaw & chin": "soft rounded jaw",
+      "eye shape": "large",
+      "eye size": "small",
+      "eye tilt": "level outer corners",
+      "eye spacing": "average eye spacing",
+      "eyebrows": "fine soft arches",
+      "nose character": "rounded soft tip",
+      "lips": "full lips"
+    },
+    "why": "흐르는 용암과 큰 둥근 눈을 완만한 타원 얼굴과 큰 사람 눈으로 해석한다.",
+    "cues": [
+      "몸 형태 squiggle → 얼굴 길이 긴 얼굴",
+      "‘small pupils’ → 눈 크기 작은 눈"
+    ],
+    "adjusted": "다른 종과 넷 이상 겹쳐 원작 단서의 다음 후보로 옮김 — 얼굴 길이 보통 → 긴 얼굴, 눈 크기 큰 눈 → 작은 눈"
+  },
+  "face_source": {
+    "name": "마그마그",
+    "en": "Slugma",
+    "color": "red",
+    "shape": "squiggle",
+    "features": [
+      {
+        "part": "body",
+        "detail": "red body"
+      },
+      {
+        "part": "eye",
+        "detail": "large, round, yellow eyes"
+      },
+      {
+        "part": "pupil",
+        "detail": "small pupils"
+      }
+    ],
+    "source": "https://bulbapedia.bulbagarden.net/wiki/Slugma_%28Pok%C3%A9mon%29",
+    "revision": 4611368,
+    "retrieved": "2026-09-20",
+    "sourceTextHash": "13fd0ebc8c572f18c67d476a765759c0f6e8d6bc66f355d506238668d9ea2998",
+    "method": "text-descriptor-extraction-v1",
+    "formScope": "base/species overview",
+    "status": "extracted"
+  },
+  "outputs": [
+    {
+      "slot": "light",
+      "original": "generated_images/exec-c11cdfb0-d425-4f49-92ce-7a9d3e796a79.png",
+      "output": "img/마그마그_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f5a6e8e32eed64bcefa6fb8458f0086c0f5d4f930ecbc531ed1717a94a24fb5c",
+      "original_sha256": "655cf9c0cc283ca81025e99e7a63844dcfea8382375bcfcf1465d7bdc9a2c631",
+      "references": [],
+      "ui_settings": "light-ui.json",
+      "submitted_prompt": "light.txt",
+      "submitted_prompt_sha256": "c97b9162b9467d149f8394d6af4fa8c7f3e2dbed3e9cb7e24a963282f485c1ff",
+      "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+    },
+    {
+      "slot": "heavy",
+      "original": "generated_images/exec-3ebb65ab-ab8b-4bb1-94ce-f1191c3899cf.png",
+      "output": "img/마그마그_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "7505fa6e22ba1a5034289f38a99cc7e9d38eac6385aa11a719f104ee7db9de22",
+      "original_sha256": "d10ceec7ada8def82827ac7ecf12aa13a1edb064ca2048018216f07b7ed9203c",
+      "references": [
+        "generated_images/exec-c11cdfb0-d425-4f49-92ce-7a9d3e796a79.png"
+      ],
+      "ui_settings": "heavy-ui.json",
+      "submitted_prompt": "heavy.txt",
+      "submitted_prompt_sha256": "1b6d09ceaa4a2ce72e0c6aa92b823b20afeaa8872e01cdf97106d3a91bd818d7",
+      "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+    },
+    {
+      "slot": "casual1",
+      "original": "generated_images/exec-3aeacad0-af5d-4b94-8fa6-64d32e8cbc4e.png",
+      "output": "img/마그마그_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "95a193ab7223a4286e53d03e754382391840b938b9f320f568cfb75781d71583",
+      "original_sha256": "5155c0dbe4a8d59db9a7380104755c0e3df454d63c856845f850ff2b51cbd5b4",
+      "references": [
+        "generated_images/exec-c11cdfb0-d425-4f49-92ce-7a9d3e796a79.png"
+      ],
+      "ui_settings": "casual1-ui.json",
+      "submitted_prompt": "casual1.txt",
+      "submitted_prompt_sha256": "d0beb66cd387a85de068ecb9622163b5d1054ab0e96e1d831334f6544324e4a4",
+      "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+    },
+    {
+      "slot": "mobility",
+      "original": "generated_images/exec-87f54647-c8b3-4944-bbae-9619e4889bb8.png",
+      "output": "img/마그마그_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "64660548f0f5f74e3ecfcfb56e2d094204096d9be915adda9e567c987b2ee261",
+      "original_sha256": "a4592821fde57c7c456522608ec99820fbb1f4451478ea217aef31e14c62fc17",
+      "references": [
+        "generated_images/exec-c11cdfb0-d425-4f49-92ce-7a9d3e796a79.png"
+      ],
+      "ui_settings": "mobility-ui.json",
+      "submitted_prompt": "mobility.txt",
+      "submitted_prompt_sha256": "0b2da337810300d3047ad70abedc29b24f562d32b98bbcbd9b7bdc918da17c90",
+      "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+    },
+    {
+      "slot": "casual3",
+      "original": "generated_images/exec-af17f0da-f184-4411-a456-70b9639b753c.png",
+      "output": "img/마그마그_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "0a3e2536f06b5b9c8ad198ea0f580d2e9f64fae649fc460641377e60af6bb1ef",
+      "original_sha256": "f3dbcbd24e219f9def88b9462f263026771386236e1fb78c304d81356474fce8",
+      "references": [
+        "generated_images/exec-c11cdfb0-d425-4f49-92ce-7a9d3e796a79.png"
+      ],
+      "ui_settings": "casual3-ui.json",
+      "submitted_prompt": "casual3.txt",
+      "submitted_prompt_sha256": "c1579dbd7ccd73e7aebb5115995d34751a91aa75114459cc87eb344a80511946",
+      "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+    },
+    {
+      "slot": "light_overdrive",
+      "original": "generated_images/exec-4e76739e-3308-4061-9b60-ecf0de7ef05d.png",
+      "output": "img/마그마그_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "e5e2f4c373f7dacbd00f09419b42b530e59125e74838b3d150dc0117c5058856",
+      "original_sha256": "3426756c05c8ab9684bb26d59fd1f2153b5fed5ef62523c84ed6f0e676c09449",
+      "references": [
+        "generated_images/exec-c11cdfb0-d425-4f49-92ce-7a9d3e796a79.png"
+      ],
+      "ui_settings": "light_overdrive-ui.json",
+      "submitted_prompt": "light_overdrive.txt",
+      "submitted_prompt_sha256": "466b95bd61061e99f06a1be4649638592bfb130531b274a8755b194b0d051a65",
+      "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+    },
+    {
+      "slot": "casual2",
+      "original": "generated_images/exec-a5153b25-0b6f-462c-ad79-3f911a955a6d.png",
+      "output": "img/마그마그_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "3d421a6e5de221e740595e3070ef524a37975f1409a69da931fd4a5971ed28db",
+      "original_sha256": "5ead7a11fbfd31b1fa63aceb6b16b9306f6da08e95052b353c6db3a2c1ecf152",
+      "references": [
+        "generated_images/exec-c11cdfb0-d425-4f49-92ce-7a9d3e796a79.png"
+      ],
+      "ui_settings": "casual2-ui.json",
+      "submitted_prompt": "casual2.txt",
+      "submitted_prompt_sha256": "cae6e2b7862e9b1ecf0b6e1454818ddd8043f032ffc151f33119693434287283",
+      "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "original": "generated_images/exec-35071020-bf14-42cf-9199-ab5741e58d79.png",
+      "output": "img/마그마그_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "cc736607db88b66830660c08bf57f6782c62466950e40a5fbdc1de16eaf66a64",
+      "original_sha256": "e5d3ca3a5c8dc499a970693be3ede33570b2684309cb0125f46276cd08789d43",
+      "references": [
+        "generated_images/exec-3ebb65ab-ab8b-4bb1-94ce-f1191c3899cf.png",
+        "generated_images/exec-c11cdfb0-d425-4f49-92ce-7a9d3e796a79.png"
+      ],
+      "ui_settings": "heavy_overdrive-ui.json",
+      "submitted_prompt": "heavy_overdrive.txt",
+      "submitted_prompt_sha256": "607581792d87bf9d6cbec2997318365601473dc23ff4be46e558288a908a0d79",
+      "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "original": "generated_images/exec-2343553b-a74d-4be8-a2ca-ab5fe2a8a0bb.png",
+      "output": "img/마그마그_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "a570cbaad201e518ed1c69982df21673c899ca6828b042cf9ef634dc36397cfc",
+      "original_sha256": "1c0ba749da26a5b9024fe17810d368fd6589e53543ca3a52003ade9e941a1c12",
+      "references": [
+        "generated_images/exec-87f54647-c8b3-4944-bbae-9619e4889bb8.png",
+        "generated_images/exec-c11cdfb0-d425-4f49-92ce-7a9d3e796a79.png"
+      ],
+      "ui_settings": "mobility_overdrive-ui.json",
+      "submitted_prompt": "mobility_overdrive.txt",
+      "submitted_prompt_sha256": "1a9dd2f480ce1003307c67f0b9da0c85291aaa4922b0abb1fca3a3b96f90b8a4",
+      "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+    }
+  ],
+  "canonical_light": {
+    "slot": "light",
+    "original": "generated_images/exec-c11cdfb0-d425-4f49-92ce-7a9d3e796a79.png",
+    "output": "img/마그마그_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "f5a6e8e32eed64bcefa6fb8458f0086c0f5d4f930ecbc531ed1717a94a24fb5c",
+    "original_sha256": "655cf9c0cc283ca81025e99e7a63844dcfea8382375bcfcf1465d7bdc9a2c631",
+    "references": [],
+    "ui_settings": "light-ui.json",
+    "submitted_prompt": "light.txt",
+    "submitted_prompt_sha256": "c97b9162b9467d149f8394d6af4fa8c7f3e2dbed3e9cb7e24a963282f485c1ff",
+    "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+  },
+  "face_comparisons": [
+    "포푸니",
+    "깜지곰",
+    "링곰"
+  ],
+  "face_review": "Actual portraits compared: Slugma long oval contour and fuller lips; Magcargo broad short round cheeks and wide mouth; Swinub broad soft contour and narrow sleepy eyes. Identity kept from canonical light.",
+  "canonical_location": "img/마그마그_light_glossy_promo_f.webp",
+  "recovery": "Restore from image repository main; each final WebP is a loss-minimized conversion of its original with hashes recorded. Local original path is not a durability claim."
+}

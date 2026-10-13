@@ -1,0 +1,21 @@
+{
+  "mech": "마그마그",
+  "style": "glossy_promo",
+  "aspect": "2:3",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "adult_roleplay",
+  "expr": "confident",
+  "pose": "dance_step",
+  "orient": "turning_midmotion",
+  "frame": "full_body",
+  "lens": "documentary35",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "An empty summer carnival rehearsal terrace at twilight. Practicing one small dance step with both empty hands open at waist level, face toward camera; amber string lights and no other people.",
+  "outfit": "Original adult fire-dancer event fashion: opaque scarlet halter top, copper high-waisted asymmetric mini skirt with flame-shaped fabric trim, ankle-wrap sandals. Bare shoulders, midriff and legs, tiny amber earrings. No fire props.",
+  "camera": "1024x1536 portrait. All of both complete hands and their own forearms within the chosen framing.",
+  "custom": "Same adult woman as the approved LIGHT reference. Preserve face structure, hair length and body. No armor or large species costume pieces; retain only the small jewelry motif. Exactly five separate digits per hand."
+}
