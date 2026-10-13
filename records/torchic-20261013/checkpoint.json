@@ -5,7 +5,7 @@
   "tool": "built-in image_gen",
   "completed": 9,
   "required": 9,
-  "status": "nine slots retained; casual3 replacement reviewed; publication pending",
+  "status": "registered: nine slots retained; casual3 replacement original and thumbnail verified on main",
   "approved_light": {
     "card": "아차모",
     "slot": "light",
@@ -328,7 +328,14 @@
         "review": "Fresh replacement generated from LIGHT anchor. Chest, shoulders, neck and head face nearly the same direction; natural neck curve, no look back over shoulder. Two separate naturally connected hands.",
         "replaces_sha256": "81201ed441c506a759bf6c047633cb6f1d3cce5773de84188689ae07259509a9"
       },
-      "reference": "img/아차모_light_glossy_promo_f.webp"
+      "reference": "img/아차모_light_glossy_promo_f.webp",
+      "image_commit": "acc4ce63dd28667e331ea9b524f1403a73a854b7",
+      "code_commit": "7aa046eb7f5861ef64991b27c0f59e84f116f64a",
+      "thumbnail_commit": "27c325670c499fc3bc7c966f43708e9d59a15aec",
+      "original_hash_verified": true,
+      "thumbnail_hash_verified": true,
+      "workflow_run": 38347146783,
+      "workflow_conclusion": "success"
     }
   ]
 }
