@@ -2,6 +2,11 @@
 
 `pkm-atelier` 의 그림 저장소다. 코드는 [pkm-atelier](https://github.com/polos0117/pkm-atelier) 에 있다.
 
+> **닫힌 저장소다 (2026-10-13).** Pages 사이트 1 GB 를 넘어서 **새 그림은
+> [pkm-atelier-img-2](https://github.com/polos0117/pkm-atelier-img-2) 에 올린다.** 여기에는 이미 있는
+> 이름의 교체만 덮어쓴다 — 새 이름이 올라오면 `그림 등록` 이 전부 멈춘다. 여기 그림은 지우지도
+> 옮기지도 않는다(주소가 그대로 산다). 자세한 것은 pkm-atelier 의 IMAGE_RULES.md 4절.
+
 ## 왜 나눠 두나
 
 앞선 저장소(`atelier`)는 그림을 코드와 같이 두었다가 `.git` 이 323 MB 가 되었다.
