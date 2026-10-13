@@ -1,0 +1,83 @@
+{
+  "plans": [
+    {
+      "mech": "꾸꾸리",
+      "style": "glossy_promo",
+      "aspect": "2:3",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "cat": "travel_exploration",
+      "expr": "surprised",
+      "pose": "squatting",
+      "orient": "front_3q",
+      "frame": "full_body",
+      "lens": "documentary35",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "scene": "In a mossy autumn woodland at soft overcast morning, squatting beside a patch of mushrooms, one empty hand indicating a mushroom without touching it and the other resting open on her own knee. Whole head hands and boots in frame.",
+      "outfit": "Opaque cream sleeveless cropped knit top, brown high-waisted hiking shorts, calf socks and lace-up boots; open short olive vest, tiny striped bead bracelet. Bare arms midriff and thighs.",
+      "camera": "1024x1536 portrait. All of both complete hands and their own forearms within the chosen framing.",
+      "custom": "Same adult woman as the approved LIGHT reference. Preserve face structure, hair length and body. No armor or large species costume pieces; retain only the small jewelry motif. Exactly five separate digits per hand."
+    },
+    {
+      "mech": "꾸꾸리",
+      "style": "glossy_promo",
+      "aspect": "2:3",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "cat": "lingerie",
+      "expr": "sleepy",
+      "pose": "stretching",
+      "orient": "front",
+      "frame": "three_quarter",
+      "lens": "natural50",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "scene": "In her sunlit attic bedroom at late morning, standing and doing a gentle shoulder stretch with both complete hands raised beside the head, elbows separated; pale linen curtains and an unoccupied bed.",
+      "outfit": "Opaque cocoa satin camisole with cream lace edging and slim secure straps, matching high-waisted satin shorts, a loose cream robe hanging below elbows. Bare shoulders arms midriff and legs, tasteful adult morning lounge fashion.",
+      "camera": "1024x1536 portrait. All of both complete hands and their own forearms within the chosen framing.",
+      "custom": "Same adult woman as the approved LIGHT reference. Preserve face structure, hair length and body. No armor or large species costume pieces; retain only the small jewelry motif. Exactly five separate digits per hand."
+    },
+    {
+      "mech": "꾸꾸리",
+      "style": "glossy_promo",
+      "aspect": "2:3",
+      "outputMode": "casual",
+      "identityMode": "reference",
+      "cat": "hobbies_leisure",
+      "expr": "gentle",
+      "pose": "watering",
+      "orient": "side",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "axes": {
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      "scene": "At a quiet glass greenhouse during a snowy blue-hour evening, side-on with her face toward camera, watering a small rosemary pot using a compact plain watering can; her other open hand touches the pot edge. Both entire hands clearly inside crop.",
+      "outfit": "Opaque chocolate sleeveless cropped mock-neck sweater with thin tan vertical knit stripes, high-waisted olive wide-leg trousers, tiny brown bead necklace; bare shoulders arms and midriff.",
+      "camera": "1024x1536 portrait. All of both complete hands and their own forearms within the chosen framing.",
+      "custom": "Same adult woman as the approved LIGHT reference. Preserve face structure, hair length and body. No armor or large species costume pieces; retain only the small jewelry motif. Exactly five separate digits per hand."
+    }
+  ],
+  "compared_records": [
+    "sneasel-20261013",
+    "teddiursa-20261013",
+    "ursaring-20261013"
+  ],
+  "earlier_in_this_task": [
+    "slugma",
+    "magcargo"
+  ],
+  "changes": [
+    "location",
+    "specific activity",
+    "outfit silhouette",
+    "framing"
+  ],
+  "reason": "Distinct activities and silhouettes; no repetition of lantern magician, lake swim, record shop, honey kitchen, cabin blanket or dressing-table scenes."
+}

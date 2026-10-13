@@ -1,0 +1,21 @@
+{
+  "mech": "꾸꾸리",
+  "style": "glossy_promo",
+  "aspect": "2:3",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "travel_exploration",
+  "expr": "surprised",
+  "pose": "squatting",
+  "orient": "front_3q",
+  "frame": "full_body",
+  "lens": "documentary35",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "In a mossy autumn woodland at soft overcast morning, squatting beside a patch of mushrooms, one empty hand indicating a mushroom without touching it and the other resting open on her own knee. Whole head hands and boots in frame.",
+  "outfit": "Opaque cream sleeveless cropped knit top, brown high-waisted hiking shorts, calf socks and lace-up boots; open short olive vest, tiny striped bead bracelet. Bare arms midriff and thighs.",
+  "camera": "1024x1536 portrait. All of both complete hands and their own forearms within the chosen framing.",
+  "custom": "Same adult woman as the approved LIGHT reference. Preserve face structure, hair length and body. No armor or large species costume pieces; retain only the small jewelry motif. Exactly five separate digits per hand."
+}

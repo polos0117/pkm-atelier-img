@@ -1,0 +1,21 @@
+{
+  "mech": "꾸꾸리",
+  "style": "glossy_promo",
+  "aspect": "2:3",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "lingerie",
+  "expr": "sleepy",
+  "pose": "stretching",
+  "orient": "front",
+  "frame": "three_quarter",
+  "lens": "natural50",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "In her sunlit attic bedroom at late morning, standing and doing a gentle shoulder stretch with both complete hands raised beside the head, elbows separated; pale linen curtains and an unoccupied bed.",
+  "outfit": "Opaque cocoa satin camisole with cream lace edging and slim secure straps, matching high-waisted satin shorts, a loose cream robe hanging below elbows. Bare shoulders arms midriff and legs, tasteful adult morning lounge fashion.",
+  "camera": "1024x1536 portrait. All of both complete hands and their own forearms within the chosen framing.",
+  "custom": "Same adult woman as the approved LIGHT reference. Preserve face structure, hair length and body. No armor or large species costume pieces; retain only the small jewelry motif. Exactly five separate digits per hand."
+}

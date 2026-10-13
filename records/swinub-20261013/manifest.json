@@ -1,0 +1,173 @@
+[
+  {
+    "slot": "light",
+    "original": "generated_images/exec-4ba9c83a-0e65-4e07-b9a8-0971755d5e11.png",
+    "output": "img/꾸꾸리_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "15ed07740de8a298f29764af78a8dc49260f2c1dc4378d8cc38a9838498071d9",
+    "original_sha256": "575f145b6ff8ec0785b567e26cc311035d0d64554d3086b45743a70f04893391",
+    "references": [],
+    "ui_settings": "light-ui.json",
+    "submitted_prompt": "light.txt",
+    "submitted_prompt_sha256": "ac5065efe038479adf52e35880c079f2c52579f5b4be67ac5058bfceafed9083",
+    "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+  },
+  {
+    "slot": "mobility",
+    "original": "generated_images/exec-603a6b85-95c0-44cb-913b-ab1b6c0169c3.png",
+    "output": "img/꾸꾸리_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "65ff0a6543ec8560f50a94bd22f59c6f6d051804ecdaab446c3466b12996100a",
+    "original_sha256": "25d00bcdf84960fa43c42dc609963b3c043c84ad23b7d37d9064f97b47efd7f5",
+    "references": [
+      "generated_images/exec-4ba9c83a-0e65-4e07-b9a8-0971755d5e11.png"
+    ],
+    "ui_settings": "mobility-ui.json",
+    "submitted_prompt": "mobility.txt",
+    "submitted_prompt_sha256": "70ca5558171395f916a3b2168d9f3306086b8e29ecd810fe9e009e2c822b637d",
+    "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+  },
+  {
+    "slot": "heavy",
+    "original": "generated_images/exec-c0de7484-669f-4b58-87cb-f2e798aa2103.png",
+    "output": "img/꾸꾸리_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "d882c72236ab650c58ecf84cc67014c0df049767f449d7daaf36d1ce6fb57727",
+    "original_sha256": "ec6c71c6f18f7556d441f762958c7aaea89c12e097513048e8a588b3006e8e51",
+    "references": [
+      "generated_images/exec-4ba9c83a-0e65-4e07-b9a8-0971755d5e11.png"
+    ],
+    "ui_settings": "heavy-ui.json",
+    "submitted_prompt": "heavy.txt",
+    "submitted_prompt_sha256": "7ca74d5b27fc0c3a9db2f79468c692a54001bc992ccfaf7c670105b7a37735aa",
+    "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+  },
+  {
+    "slot": "light_overdrive",
+    "original": "generated_images/exec-a99228b6-41b2-4cc2-ac7b-a8c11167b4e9.png",
+    "output": "img/꾸꾸리_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "c296107380874432cc1f2bb62c9396ecf63a137af11fac4b1c7f121b4138769f",
+    "original_sha256": "9520ce13137df303ce063caed3bcf2984f2a88643f6c0277c78ec73924230cbe",
+    "references": [
+      "generated_images/exec-4ba9c83a-0e65-4e07-b9a8-0971755d5e11.png"
+    ],
+    "ui_settings": "light_overdrive-ui.json",
+    "submitted_prompt": "light_overdrive.txt",
+    "submitted_prompt_sha256": "3aae2a289016dbbb626e188b6c3c8f8fc4fd3de7c59ba50663a86dd57d46d669",
+    "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+  },
+  {
+    "slot": "casual1",
+    "original": "generated_images/exec-12124402-613e-47ea-bff4-e684bfc4ba87.png",
+    "output": "img/꾸꾸리_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "2959a86ca505dd0746c27156fd03b49b693a505bc92c1b74bf5d6e7783c6d10a",
+    "original_sha256": "2f33dcce0f16af5fc99d620716c503a9b7eb4cf22c7e3bfe71cb5b30fea3ff7d",
+    "references": [
+      "generated_images/exec-4ba9c83a-0e65-4e07-b9a8-0971755d5e11.png"
+    ],
+    "ui_settings": "casual1-ui.json",
+    "submitted_prompt": "casual1.txt",
+    "submitted_prompt_sha256": "197ccab78917cdbe07d45ad4f77ca5c7fbd1e5e4f091b719b608386f92a28580",
+    "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+  },
+  {
+    "slot": "casual2",
+    "original": "generated_images/exec-cdf00e10-e075-45f1-beca-4ac63519216d.png",
+    "output": "img/꾸꾸리_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "a649534c4054f09c204fe69ad11998282e673995c5881c65d937ee5c335c5683",
+    "original_sha256": "da2b4aebe433e5118e77361a0c1b45398a508a7cd6dcd93b867297252a32e9db",
+    "references": [
+      "generated_images/exec-4ba9c83a-0e65-4e07-b9a8-0971755d5e11.png"
+    ],
+    "ui_settings": "casual2-ui.json",
+    "submitted_prompt": "casual2.txt",
+    "submitted_prompt_sha256": "e358a6739ba797b244d27ce611720b4d7d8d88f1da35c2bbecf5c6cdf5b26734",
+    "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+  },
+  {
+    "slot": "casual3",
+    "original": "generated_images/exec-4ebb62c2-b46f-47ec-bb96-1b488a109259.png",
+    "output": "img/꾸꾸리_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "31643e8292c833426420a6411c8a772312603fe01359083a7e366a0784d4eeb8",
+    "original_sha256": "e516a8065cdbd3813509580598378d0fb0692fed9f2c33e565336935da84c58f",
+    "references": [
+      "generated_images/exec-4ba9c83a-0e65-4e07-b9a8-0971755d5e11.png"
+    ],
+    "ui_settings": "casual3-ui.json",
+    "submitted_prompt": "casual3.txt",
+    "submitted_prompt_sha256": "03778d65adcd166942777f1689cc3fbd29d0fd7713207cbeaa15a14f11c68ab4",
+    "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+  },
+  {
+    "slot": "heavy_overdrive",
+    "original": "generated_images/exec-22ad9593-1ba5-4e35-9fc9-337c7467534f.png",
+    "output": "img/꾸꾸리_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "f2e3c1eab1d867c2e782d27e8343978abbd725d7a21a6de8d4571d2a9cdc102f",
+    "original_sha256": "8cdcb529025c8320b8eba6a606a718e508d204f4f19812542828dc00e6e13873",
+    "references": [
+      "generated_images/exec-c0de7484-669f-4b58-87cb-f2e798aa2103.png",
+      "generated_images/exec-4ba9c83a-0e65-4e07-b9a8-0971755d5e11.png"
+    ],
+    "ui_settings": "heavy_overdrive-ui.json",
+    "submitted_prompt": "heavy_overdrive.txt",
+    "submitted_prompt_sha256": "e51d8e20c61e19483422a7b5d3b3d160177cc9a055f3aa3a3d9f1e65835aec40",
+    "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+  },
+  {
+    "slot": "mobility_overdrive",
+    "original": "generated_images/exec-188c02f1-8d7b-4088-9ea5-43d7bb1c375f.png",
+    "output": "img/꾸꾸리_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "7861c3f10068ba35f2eaf4cb95458a829f02751ad0d023cd8e18528d148a48e6",
+    "original_sha256": "e38d3920d15be76439c96c2d2138749de936ae777686881f5782a23ff42f1910",
+    "references": [
+      "generated_images/exec-603a6b85-95c0-44cb-913b-ab1b6c0169c3.png",
+      "generated_images/exec-4ba9c83a-0e65-4e07-b9a8-0971755d5e11.png"
+    ],
+    "ui_settings": "mobility_overdrive-ui.json",
+    "submitted_prompt": "mobility_overdrive.txt",
+    "submitted_prompt_sha256": "55ac34cc9990f33ceee437bded7da53722a1ec6898c4e24a1746e50d1f206297",
+    "visual_review": "Inspected full output for identity, framing and complete hands; opened image compared to its base."
+  }
+]

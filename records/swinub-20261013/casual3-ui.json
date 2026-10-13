@@ -1,0 +1,99 @@
+{
+  "method": "Actual Preact editor controls via repository DOM harness",
+  "config": {
+    "mech": "꾸꾸리",
+    "style": "glossy_promo",
+    "aspect": "2:3",
+    "outputMode": "casual",
+    "identityMode": "reference",
+    "cat": "hobbies_leisure",
+    "expr": "gentle",
+    "pose": "watering",
+    "orient": "side",
+    "frame": "waist_up",
+    "lens": "portrait85",
+    "axes": {
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    "scene": "At a quiet glass greenhouse during a snowy blue-hour evening, side-on with her face toward camera, watering a small rosemary pot using a compact plain watering can; her other open hand touches the pot edge. Both entire hands clearly inside crop.",
+    "outfit": "Opaque chocolate sleeveless cropped mock-neck sweater with thin tan vertical knit stripes, high-waisted olive wide-leg trousers, tiny brown bead necklace; bare shoulders arms and midriff.",
+    "camera": "1024x1536 portrait. All of both complete hands and their own forearms within the chosen framing.",
+    "custom": "Same adult woman as the approved LIGHT reference. Preserve face structure, hair length and body. No armor or large species costume pieces; retain only the small jewelry motif. Exactly five separate digits per hand."
+  },
+  "saved": {
+    "style": "glossy_promo",
+    "identityMode": "create",
+    "form": "light",
+    "baseForm": "light",
+    "motifs": "",
+    "formOverride": "",
+    "headFeature": "",
+    "faceDesignOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "casual",
+    "scenes": {
+      "action": {
+        "expr": "",
+        "pose": "",
+        "orient": "",
+        "scene": "",
+        "outfit": "",
+        "frame": "",
+        "lens": "",
+        "camera": "",
+        "custom": "",
+        "aspect": "2:3",
+        "cat": "everyday_basic",
+        "catCustom": "",
+        "ex": "",
+        "exCustom": "",
+        "axes": {},
+        "action": {
+          "category": "",
+          "example": "",
+          "timing": "",
+          "equipment": "",
+          "power": "",
+          "effects": "",
+          "speed": "",
+          "environment": ""
+        },
+        "randomLocks": {}
+      },
+      "casual": {
+        "expr": "gentle",
+        "pose": "watering",
+        "orient": "side",
+        "scene": "At a quiet glass greenhouse during a snowy blue-hour evening, side-on with her face toward camera, watering a small rosemary pot using a compact plain watering can; her other open hand touches the pot edge. Both entire hands clearly inside crop.",
+        "outfit": "Opaque chocolate sleeveless cropped mock-neck sweater with thin tan vertical knit stripes, high-waisted olive wide-leg trousers, tiny brown bead necklace; bare shoulders arms and midriff.",
+        "frame": "waist_up",
+        "lens": "portrait85",
+        "camera": "1024x1536 portrait. All of both complete hands and their own forearms within the chosen framing.",
+        "custom": "Same adult woman as the approved LIGHT reference. Preserve face structure, hair length and body. No armor or large species costume pieces; retain only the small jewelry motif. Exactly five separate digits per hand.",
+        "aspect": "2:3",
+        "cat": "hobbies_leisure",
+        "catCustom": "",
+        "ex": "",
+        "exCustom": "",
+        "axes": {
+          "overall_intensity": "strong",
+          "skin_exposure": "bold"
+        },
+        "action": {
+          "category": "",
+          "example": "",
+          "timing": "",
+          "equipment": "",
+          "power": "",
+          "effects": "",
+          "speed": "",
+          "environment": ""
+        },
+        "randomLocks": {}
+      }
+    }
+  },
+  "prompt": "CHARACTER: the same woman as the attached image — Swinub (꾸꾸리) personified, ice / ground type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nSTYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.\n\nSCENE (chosen):\nExpression: softly lowered brows, warm relaxed eyes, faint closed-lip smile, no tension anywhere\nPose: Tilt a small watering can toward plants with a clear grip and believable balance.\nOrientation: side body profile, approximately 90 degrees to camera\nScene: At a quiet glass greenhouse during a snowy blue-hour evening, side-on with her face toward camera, watering a small rosemary pot using a compact plain watering can; her other open hand touches the pot edge. Both entire hands clearly inside crop.\nOutfit and props: Opaque chocolate sleeveless cropped mock-neck sweater with thin tan vertical knit stripes, high-waisted olive wide-leg trousers, tiny brown bead necklace; bare shoulders arms and midriff.\nCategory: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.\nNote: Same adult woman as the approved LIGHT reference. Preserve face structure, hair length and body. No armor or large species costume pieces; retain only the small jewelry motif. Exactly five separate digits per hand.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nCamera: 1024x1536 portrait. All of both complete hands and their own forearms within the chosen framing.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\n\nONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.\n\nANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.\n\nHANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra."
+}

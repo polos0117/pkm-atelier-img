@@ -1,0 +1,21 @@
+{
+  "mech": "꾸꾸리",
+  "style": "glossy_promo",
+  "aspect": "2:3",
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "hobbies_leisure",
+  "expr": "gentle",
+  "pose": "watering",
+  "orient": "side",
+  "frame": "waist_up",
+  "lens": "portrait85",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  },
+  "scene": "At a quiet glass greenhouse during a snowy blue-hour evening, side-on with her face toward camera, watering a small rosemary pot using a compact plain watering can; her other open hand touches the pot edge. Both entire hands clearly inside crop.",
+  "outfit": "Opaque chocolate sleeveless cropped mock-neck sweater with thin tan vertical knit stripes, high-waisted olive wide-leg trousers, tiny brown bead necklace; bare shoulders arms and midriff.",
+  "camera": "1024x1536 portrait. All of both complete hands and their own forearms within the chosen framing.",
+  "custom": "Same adult woman as the approved LIGHT reference. Preserve face structure, hair length and body. No armor or large species costume pieces; retain only the small jewelry motif. Exactly five separate digits per hand."
+}
