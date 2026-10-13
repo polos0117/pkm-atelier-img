@@ -31,10 +31,10 @@
       "cat": "hobbies_leisure",
       "expr": "curious",
       "pose": "leaning_furniture",
-      "orient": "side",
+      "orient": "low_angle",
       "frame": "waist_up",
       "lens": "documentary35",
-      "scene": "At an empty observatory visitor terrace on a clear blue evening, leaning side-on against a low railing and looking back toward camera, one hand lightly adjusting a small orange sun-catching glass ornament resting on a shelf, the other resting open on the railing. Both complete hands inside the crop; stars beyond the terrace.",
+      "scene": "Inside an empty observatory visitor gallery beside an open terrace window on a clear blue evening. She stands comfortably behind a waist-high wooden ledge, torso only 15 degrees from front-facing, both shoulders and collarbones visible. Her head stays aligned with her chest with at most a gentle 10-degree turn, eyes looking toward camera, never looking back over a shoulder. One complete hand rests open on the front edge of the ledge, the other carefully places a small plain orange glass sun-catching ornament on a simple stand farther along the ledge; hands separated and visible. Distant stars, telescope silhouette and warm amber gallery lamps, no other people.",
       "outfit": "Opaque cream sleeveless mock-neck cropped knit top with orange high-waisted pleated trousers and tiny gold studs; bare shoulders arms and a midriff gap."
     }
   ],
@@ -56,5 +56,6 @@
       "composition"
     ],
     "earlier_this_task": []
-  }
+  },
+  "replacement_note": "casual3 rebuilt from approved light with natural head-to-torso alignment after user feedback."
 }

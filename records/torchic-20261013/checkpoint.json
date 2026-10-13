@@ -5,7 +5,7 @@
   "tool": "built-in image_gen",
   "completed": 9,
   "required": 9,
-  "status": "registered: nine images and nine thumbnails verified on both main branches",
+  "status": "nine slots retained; casual3 replacement reviewed; publication pending",
   "approved_light": {
     "card": "아차모",
     "slot": "light",
@@ -248,19 +248,21 @@
       "style": "glossy_promo",
       "gender": "f",
       "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
-      "original": "generated_images/exec-1b72cd06-8542-4bc4-ae20-c7e37701421c.png",
-      "original_sha256": "b6583c64603d790afc29d594c6eb7a0e1f52e497924e0a6b223d0434b02247d9",
+      "original": "generated_images/exec-12b5aa59-2cd4-4c1e-9bda-ea87cc00734e.png",
+      "original_sha256": "3a295ff2ba29cbcc8401c6fa8c834259d8778282e6e3f05fe39b6846e483beba",
       "output": "img/아차모_glossy_promo_f_casual3.webp",
       "size": [
         1024,
         1536
       ],
       "format": "WEBP",
-      "sha256": "81201ed441c506a759bf6c047633cb6f1d3cce5773de84188689ae07259509a9",
+      "sha256": "ce4116cd823e375bf40e3ad95aa2e669e72dadff683ff060a4f105a71b7ac33f",
       "reference": "img/아차모_light_glossy_promo_f.webp",
       "reference_sha256": "1b1413c4617a3eb8709233ef9eeefe8126a3a10ebde7fe1f3c78d9556875bccc",
       "submitted_prompt": "casual3.txt",
-      "prompt_sha256": "633e9bed755b45e7421a3360fc383135b5ffaac615070c96353c7ebf6d84c7e7"
+      "prompt_sha256": "861f625266c5b413fdd26324e14a7cdc1b2fbcd91a76098e0503ba7a19204afd",
+      "review": "Fresh replacement generated from LIGHT anchor. Chest, shoulders, neck and head face nearly the same direction; natural neck curve, no look back over shoulder. Two separate naturally connected hands.",
+      "replaces_sha256": "81201ed441c506a759bf6c047633cb6f1d3cce5773de84188689ae07259509a9"
     }
   ],
   "image_commit": "b6df45d5366db0f3a4fc389e9b778043c1c25822",
@@ -278,5 +280,55 @@
   "publication_method": "GitHub-connected commit and non-force fast-forward main update with expected current head. No force push or existing work deletion.",
   "final_code_commit": "7ad2d06bf14ec75dc1c328de4e1573bea93e9fce",
   "verified_image_count": 9,
-  "verified_thumbnail_count": 9
+  "verified_thumbnail_count": 9,
+  "replacements": [
+    {
+      "slot": "casual3",
+      "date": "2026-10-13",
+      "reason": "User reported excessive neck rotation and requested a different image.",
+      "previous": {
+        "card": "아차모",
+        "slot": "casual3",
+        "style": "glossy_promo",
+        "gender": "f",
+        "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+        "original": "generated_images/exec-1b72cd06-8542-4bc4-ae20-c7e37701421c.png",
+        "original_sha256": "b6583c64603d790afc29d594c6eb7a0e1f52e497924e0a6b223d0434b02247d9",
+        "output": "img/아차모_glossy_promo_f_casual3.webp",
+        "size": [
+          1024,
+          1536
+        ],
+        "format": "WEBP",
+        "sha256": "81201ed441c506a759bf6c047633cb6f1d3cce5773de84188689ae07259509a9",
+        "reference": "img/아차모_light_glossy_promo_f.webp",
+        "reference_sha256": "1b1413c4617a3eb8709233ef9eeefe8126a3a10ebde7fe1f3c78d9556875bccc",
+        "submitted_prompt": "casual3.txt",
+        "prompt_sha256": "633e9bed755b45e7421a3360fc383135b5ffaac615070c96353c7ebf6d84c7e7"
+      },
+      "replacement": {
+        "card": "아차모",
+        "slot": "casual3",
+        "style": "glossy_promo",
+        "gender": "f",
+        "basis": "Actual Preact generator UI selections, output saved verbatim; built-in image_gen",
+        "original": "generated_images/exec-12b5aa59-2cd4-4c1e-9bda-ea87cc00734e.png",
+        "original_sha256": "3a295ff2ba29cbcc8401c6fa8c834259d8778282e6e3f05fe39b6846e483beba",
+        "output": "img/아차모_glossy_promo_f_casual3.webp",
+        "size": [
+          1024,
+          1536
+        ],
+        "format": "WEBP",
+        "sha256": "ce4116cd823e375bf40e3ad95aa2e669e72dadff683ff060a4f105a71b7ac33f",
+        "reference": "img/아차모_light_glossy_promo_f.webp",
+        "reference_sha256": "1b1413c4617a3eb8709233ef9eeefe8126a3a10ebde7fe1f3c78d9556875bccc",
+        "submitted_prompt": "casual3.txt",
+        "prompt_sha256": "861f625266c5b413fdd26324e14a7cdc1b2fbcd91a76098e0503ba7a19204afd",
+        "review": "Fresh replacement generated from LIGHT anchor. Chest, shoulders, neck and head face nearly the same direction; natural neck curve, no look back over shoulder. Two separate naturally connected hands.",
+        "replaces_sha256": "81201ed441c506a759bf6c047633cb6f1d3cce5773de84188689ae07259509a9"
+      },
+      "reference": "img/아차모_light_glossy_promo_f.webp"
+    }
+  ]
 }
