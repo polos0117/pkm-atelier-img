@@ -1,0 +1,261 @@
+{
+  "card": "포챠나",
+  "completed": 9,
+  "outputs": [
+    {
+      "slot": "light",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-f17da7df-db4c-4096-b7b9-1981abe82915.png",
+      "output": "img/포챠나_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "388fd6ae58c0cf5e8ed8a2d25696c623260ee41980de08e4b29ac2a467cb0e59",
+      "original_sha256": "3f35f360598a695201b9b8ab5f8b6f864565a88b45c4f335f60f90cf505aa11f",
+      "references": [],
+      "ui_settings": "light-ui.json",
+      "submitted_prompt": "light.txt",
+      "prompt_sha256": "411573578f6e329ecbeeb1cb55b0b837c148de1217fc9e7f51fc42767cb3937c",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+    },
+    {
+      "slot": "heavy",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-fca87140-ff55-430b-a025-1d884ed5c9ec.png",
+      "output": "img/포챠나_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "0e7a76490f2682da18d4e1f7db33f259232ba569d5d01a60dd20e3317d99cd58",
+      "original_sha256": "002290407831ee380681cf601a1996418db30c79548e67ff1baa69c7e6e3fd32",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/pkm-atelier-img/img/포챠나_light_glossy_promo_f.webp"
+      ],
+      "ui_settings": "heavy-ui.json",
+      "submitted_prompt": "heavy.txt",
+      "prompt_sha256": "da565b3d454f55d529ee695533779eaef406697a1ed72db39836d5021b22283f",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+    },
+    {
+      "slot": "mobility",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-0f4bb92f-9d34-499a-8a7b-025da0b30bd2.png",
+      "output": "img/포챠나_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "6fb158c978616b7cc9866e1b80fc8cc4602e326dfaa0eb13304ec885fb1ee9ce",
+      "original_sha256": "6738c085ab849a300a7b3105511126c1e9941bf749bc17c701c1529cf197ce04",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/pkm-atelier-img/img/포챠나_light_glossy_promo_f.webp"
+      ],
+      "ui_settings": "mobility-ui.json",
+      "submitted_prompt": "mobility.txt",
+      "prompt_sha256": "dfc83746704b83fefed85a398f6031deda774a56df37ef61988c7e44c2319e64",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+    },
+    {
+      "slot": "light_overdrive",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-1c48f4cc-45e5-4b79-9aed-8a4e2c581326.png",
+      "output": "img/포챠나_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "83a9add98eb6a84b3b2e8d4bfc5933f6f97dfd73b52af3b457d2aacad0656f49",
+      "original_sha256": "2d68466c44440260e70f0c44c0a5cfe4c64d9cd08803020f52331f822fbbf2b4",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/pkm-atelier-img/img/포챠나_light_glossy_promo_f.webp"
+      ],
+      "ui_settings": "light_overdrive-ui.json",
+      "submitted_prompt": "light_overdrive.txt",
+      "prompt_sha256": "e87176acc8384bd6914bccaab1822615248e32a941df0bab8b7d97db58d21245",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-7f93e403-f722-4a2a-9743-76ed551b42e8.png",
+      "output": "img/포챠나_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "1eed923d173c20172eeb812ae3982d513e3951a49f26cb91b08552e9c0f86c7c",
+      "original_sha256": "5d6b9eb590de476e2a26797cdc76bf871d62594a8b096525a3963dc559938ff5",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/pkm-atelier-img/img/포챠나_heavy_glossy_promo_f.webp"
+      ],
+      "ui_settings": "heavy_overdrive-ui.json",
+      "submitted_prompt": "heavy_overdrive.txt",
+      "prompt_sha256": "372fc821afefacf9d86aec8d5143b27a05b7168d67eddaf3c8d0ba466c8f3d88",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-f9d5a52d-fabe-4250-b81e-ba9bcfbd8f94.png",
+      "output": "img/포챠나_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "0f268dfa817280d2038fb44fce79c20b3a978d5a0b913ba30141ddf3012a40dd",
+      "original_sha256": "6a2981336716e1aeb332e0ad64352010060448f88817b511f9c64c95ae6992cd",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/pkm-atelier-img/img/포챠나_mobility_glossy_promo_f.webp"
+      ],
+      "ui_settings": "mobility_overdrive-ui.json",
+      "submitted_prompt": "mobility_overdrive.txt",
+      "prompt_sha256": "cec448777569b0848813597ed53370c708f9e48cbe997f7265d232e56c769a79",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+    },
+    {
+      "slot": "casual1",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-a11adb66-dec1-4e19-96f6-543ee5058bef.png",
+      "output": "img/포챠나_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "29881cadfe3e1d2093e87df0c2be398627e3be9c0b77b584a000470dbddff7e8",
+      "original_sha256": "c46d28d6e713f5ec5b37546768ffaa8e08010564654d5bb845fd1dabf1231b74",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/pkm-atelier-img/img/포챠나_light_glossy_promo_f.webp"
+      ],
+      "ui_settings": "casual1-ui.json",
+      "submitted_prompt": "casual1.txt",
+      "prompt_sha256": "334060f6346bb4ff136066b581e88c4a9aa3c1fd92fa3548c9b85ac44e04e9c1",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+    },
+    {
+      "slot": "casual2",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-df9989a7-674f-465d-9aa6-38159828a4ed.png",
+      "output": "img/포챠나_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "2753666e95e9ec8f4cb6dda201f411296701e5420285b7e53eaec49b952322ba",
+      "original_sha256": "e74a379bfd0dbb1764cda1e7a07ef5c727122796f52c5e657badf989f89097ea",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-2e7c456e-5e50-412b-848b-3c81166efb71.png",
+        "/workspace/scratch/abb1bd8247c5/pkm-atelier-img/img/포챠나_light_glossy_promo_f.webp"
+      ],
+      "ui_settings": "casual2-ui.json",
+      "submitted_prompt": "casual2.txt",
+      "prompt_sha256": "582005c55fabddcd5819b1497379ffd0ebd6e0164f173a3bf7dede6c011eda0e",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable.",
+      "correction_prompt": "casual2-correction.txt",
+      "correction_prompt_sha256": "63b6f043787a0060392bf1b76b72fe5b67122ea8be1b4068f5abe328dce67755"
+    },
+    {
+      "slot": "casual3",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-e7d35e3d-2aa9-4dba-a54d-807ac548d514.png",
+      "output": "img/포챠나_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "f5fbfa4abe4be217d978464f2799674c01283b599353385d4646fdafa3e066a8",
+      "original_sha256": "b4638845e928a567947aa946856caf55db55749ffe6c766230450c8195bb2002",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-479bfe3b-e5e4-432e-a2b5-e1bf39d29db1.png"
+      ],
+      "ui_settings": "casual3-ui.json",
+      "submitted_prompt": "casual3.txt",
+      "prompt_sha256": "a85b4a4d0f0b9f145e65a33266ea2df5cabd4f90d4eef0d0fed0146e146a541e",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable.",
+      "correction_prompt": "casual3-correction.txt",
+      "correction_prompt_sha256": "089f1dbd95ac934bdb4db514bc18f310f7e8ade951d277f269133ee6b1b3ce64"
+    }
+  ],
+  "plan": {
+    "card": "포챠나",
+    "recent_compared": [
+      "물짱이",
+      "늪짱이",
+      "대짱이"
+    ],
+    "comparison_scope": "Read all 9 recent casual submitted prompts from mudkip/marshtomp/swampert records; reviewed this batch preceding plans.",
+    "changes": "Different location, specific activity, clothing silhouette and camera composition; rotate required categories adult_roleplay / lingerie / swimwear.",
+    "face_reason": "Small hyena pointed teeth and dark facial contrast: balanced oval soft jaw, sharply upturned eyes, angled brows, slender bridge and straight lips.",
+    "casual_plan": [
+      {
+        "category": "adult_roleplay",
+        "expression": "mischievous",
+        "pose": "dance_step",
+        "orientation": "front_3q",
+        "frame": "full_body",
+        "lens": "natural50",
+        "scene": "At an empty retro roller-rink themed event at night, doing one small balanced dance step on ordinary shoes, both hands open and separated. Pink floor reflections and soft amber disco lamps.",
+        "outfit": "Opaque charcoal sleeveless zip-front event romper with short legs, red piping and silver waist belt, black ankle sneakers; bare arms and legs, tiny fang-shaped earrings.",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      {
+        "category": "hobbies_leisure",
+        "expression": "focused",
+        "pose": "preparing_food",
+        "orientation": "front",
+        "frame": "waist_up",
+        "lens": "portrait85",
+        "scene": "In a private home kitchen at bright breakfast time, placing sliced strawberries on a plate using fingertips, with the other open hand resting separately beside the plate, no knife.",
+        "outfit": "Opaque gray fitted sleeveless scoop-neck top and red high-waisted shorts, narrow black apron tied only at waist, tiny fang pendant; bare shoulders and small midriff.",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      {
+        "category": "travel_exploration",
+        "expression": "curious",
+        "pose": "squatting",
+        "orientation": "side",
+        "frame": "three_quarter",
+        "lens": "documentary35",
+        "scene": "In a dry woodland clearing at soft cloudy afternoon, squatting to inspect a shiny smooth stone on a low fallen trunk, hands resting separately on knees. Side-facing body, face turns only slightly toward camera without twisting neck.",
+        "outfit": "Black sleeveless high-neck hiking top, short silver-gray utility shorts, red socks and walking shoes, tiny fang charm at belt; bare arms and legs.",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    ]
+  },
+  "publication": "pending",
+  "generation": "Built-in image_gen, actual Preact generator UI controls via repository DOM harness",
+  "status": "9/9 complete and visually reviewed; prepared for non-force main publication",
+  "canonical_light": {
+    "slot": "light",
+    "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-f17da7df-db4c-4096-b7b9-1981abe82915.png",
+    "output": "img/포챠나_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "388fd6ae58c0cf5e8ed8a2d25696c623260ee41980de08e4b29ac2a467cb0e59",
+    "original_sha256": "3f35f360598a695201b9b8ab5f8b6f864565a88b45c4f335f60f90cf505aa11f",
+    "references": [],
+    "ui_settings": "light-ui.json",
+    "submitted_prompt": "light.txt",
+    "prompt_sha256": "411573578f6e329ecbeeb1cb55b0b837c148de1217fc9e7f51fc42767cb3937c",
+    "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+  },
+  "review_notes": [
+    "casual2: left resting hand too close to border, targeted correction requested.",
+    "casual3: remove small generated shoe lettering, all other content preserved."
+  ],
+  "face_compared": [
+    "물짱이",
+    "늪짱이",
+    "대짱이"
+  ],
+  "face_review": "Balanced oval with upturned sharp eyes and a straight narrow bridge, distinct from recent water/ground faces.",
+  "recovery": "Canonical light and all 9 final WebP images are included in this character commit; original PNG local paths are provenance, not durability claims.",
+  "publication_method": "Connected GitHub commit and non-force fast-forward main update using expected current head; command-line Git push has no write credential in this environment."
+}

@@ -1,0 +1,49 @@
+{
+  "card": "포챠나",
+  "recent_compared": [
+    "물짱이",
+    "늪짱이",
+    "대짱이"
+  ],
+  "comparison_scope": "Read all 9 recent casual submitted prompts from mudkip/marshtomp/swampert records; reviewed this batch preceding plans.",
+  "changes": "Different location, specific activity, clothing silhouette and camera composition; rotate required categories adult_roleplay / lingerie / swimwear.",
+  "face_reason": "Small hyena pointed teeth and dark facial contrast: balanced oval soft jaw, sharply upturned eyes, angled brows, slender bridge and straight lips.",
+  "casual_plan": [
+    {
+      "category": "adult_roleplay",
+      "expression": "mischievous",
+      "pose": "dance_step",
+      "orientation": "front_3q",
+      "frame": "full_body",
+      "lens": "natural50",
+      "scene": "At an empty retro roller-rink themed event at night, doing one small balanced dance step on ordinary shoes, both hands open and separated. Pink floor reflections and soft amber disco lamps.",
+      "outfit": "Opaque charcoal sleeveless zip-front event romper with short legs, red piping and silver waist belt, black ankle sneakers; bare arms and legs, tiny fang-shaped earrings.",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    {
+      "category": "hobbies_leisure",
+      "expression": "focused",
+      "pose": "preparing_food",
+      "orientation": "front",
+      "frame": "waist_up",
+      "lens": "portrait85",
+      "scene": "In a private home kitchen at bright breakfast time, placing sliced strawberries on a plate using fingertips, with the other open hand resting separately beside the plate, no knife.",
+      "outfit": "Opaque gray fitted sleeveless scoop-neck top and red high-waisted shorts, narrow black apron tied only at waist, tiny fang pendant; bare shoulders and small midriff.",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    {
+      "category": "travel_exploration",
+      "expression": "curious",
+      "pose": "squatting",
+      "orientation": "side",
+      "frame": "three_quarter",
+      "lens": "documentary35",
+      "scene": "In a dry woodland clearing at soft cloudy afternoon, squatting to inspect a shiny smooth stone on a low fallen trunk, hands resting separately on knees. Side-facing body, face turns only slightly toward camera without twisting neck.",
+      "outfit": "Black sleeveless high-neck hiking top, short silver-gray utility shorts, red socks and walking shoes, tiny fang charm at belt; bare arms and legs.",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    }
+  ]
+}
