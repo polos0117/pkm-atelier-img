@@ -1,0 +1,51 @@
+{
+  "card": "지그제구리",
+  "recent_compared": [
+    "물짱이",
+    "늪짱이",
+    "대짱이",
+    "포챠나",
+    "그라에나"
+  ],
+  "comparison_scope": "Read all 9 recent casual submitted prompts from mudkip/marshtomp/swampert records; reviewed this batch preceding plans.",
+  "changes": "Different location, specific activity, clothing silhouette and camera composition; rotate required categories adult_roleplay / lingerie / swimwear.",
+  "face_reason": "Raccoon rounded small body and compact dark eye mask: balanced oval with soft jaw; close-set narrow eyes framed by thick low brows; balanced human nose and medium lips. Preserve the proposed structure while using zigzag fur in clothing.",
+  "casual_plan": [
+    {
+      "category": "travel_exploration",
+      "expression": "curious",
+      "pose": "checking_map",
+      "orientation": "front_3q",
+      "frame": "three_quarter",
+      "lens": "documentary35",
+      "scene": "In an autumn woodland trail rest shelter at cloudy noon, unfolding a blank illustrated trail map with both hands separated at the lower corners; fallen golden leaves and wooden benches, no lettering.",
+      "outfit": "Opaque cream short-sleeve cropped safari blouse with brown trim and tan high-waisted utility shorts, tiny zigzag belt charm; bare forearms legs and a small midriff.",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    {
+      "category": "swimwear",
+      "expression": "amused",
+      "pose": "standing_relaxed",
+      "orientation": "front",
+      "frame": "full_body",
+      "lens": "portrait85",
+      "scene": "At an empty sandy lakeshore in amber late-afternoon sunlight, standing with both hands separated holding opposite ends of a light folded beach towel at waist height, lake reeds and distant hills.",
+      "outfit": "Opaque brown secure halter bikini with cream zigzag edging and high-waisted full-coverage bottoms, cream open beach shirt draped over upper arms, barefoot, tiny zigzag pendant; fully covered chest and pelvis.",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    },
+    {
+      "category": "hobbies_leisure",
+      "expression": "soft_smile",
+      "pose": "mid_action",
+      "orientation": "side",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "scene": "In a small vintage flea-market stall before opening on a sunny morning, carefully examining a single polished brass compass on a wooden display counter, one hand holds it lightly and the other rests open beside it. Side body turn with natural slight face turn. No lettering.",
+      "outfit": "Opaque warm-brown sleeveless square-neck knitted top and cream flared midi skirt, small zigzag earrings, bare shoulders and arms, narrow waist gap.",
+      "overall_intensity": "strong",
+      "skin_exposure": "bold"
+    }
+  ]
+}

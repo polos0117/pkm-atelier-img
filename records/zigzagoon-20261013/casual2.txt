@@ -1,0 +1,25 @@
+CHARACTER: the same woman as the attached image — Zigzagoon (지그제구리) personified, normal type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed
+Pose: Stand at ease with relaxed shoulders and naturally balanced feet.
+Orientation: torso and pelvis face the camera; gaze is independent
+Scene: At an empty sandy lakeshore in amber late-afternoon sunlight, standing with both hands separated holding opposite ends of a light folded beach towel at waist height, lake reeds and distant hills.
+Outfit and props: Opaque brown secure halter bikini with cream zigzag edging and high-waisted full-coverage bottoms, cream open beach shirt draped over upper arms, barefoot, tiny zigzag pendant; fully covered chest and pelvis.
+Category: This single scene is swimwear-focused. Use modern swimwear that is fully lined and stays secure during movement, described by its construction — neckline, straps, panels, leg line, fabric. Prioritize a memorable swimwear scene with real action and water context over static posing. Keep the setting a public or resort one: poolside, shoreline, deck, or open water.
+Note: Same clearly adult woman as the light reference. Remove all armor, large species ornaments and waist tails. Only small jewelry or clothing motifs echo the species. Natural human skin.
+Framing: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.
+Lens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.
+Camera: 1024x1536 vertical. Both whole hands and scene props inside chosen framing, natural neck alignment.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

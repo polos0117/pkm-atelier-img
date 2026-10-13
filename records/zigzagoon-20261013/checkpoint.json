@@ -1,0 +1,266 @@
+{
+  "card": "지그제구리",
+  "completed": 9,
+  "outputs": [
+    {
+      "slot": "light",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-da3b02c4-ac41-455f-b2b9-e55b9853cc80.png",
+      "output": "img/지그제구리_light_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "c7ef0202fcba752e46d493dc12086c30a87d34674a70efd394d7f00b88f1e599",
+      "original_sha256": "83241d4475d177d2656790ecca62a97eb1911cbeefbdbc73d8730b94c0a8542b",
+      "references": [],
+      "ui_settings": "light-ui.json",
+      "submitted_prompt": "light.txt",
+      "prompt_sha256": "1b2ad253ab250a38a0ecd966db9d4056a00d0ebbd7e89182c26bd52eec6ce77a",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+    },
+    {
+      "slot": "heavy",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-6de610b1-707f-47b7-b08a-c5cee043d544.png",
+      "output": "img/지그제구리_heavy_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "b7454078ece85bb17ae8077b160872a5c93a885e2f6a00ae7d8422a0b1125f60",
+      "original_sha256": "9b6412e059a2ceeaa2d4083f77185cf6ae8a08e489d66545a23ed4892028b09f",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-da3b02c4-ac41-455f-b2b9-e55b9853cc80.png"
+      ],
+      "ui_settings": "heavy-ui.json",
+      "submitted_prompt": "heavy.txt",
+      "prompt_sha256": "04c4920950f4406322edb77fc30e5c52938e4e64c571fa53d8b5f0886ae0fe90",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+    },
+    {
+      "slot": "mobility",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-59855b6c-35b1-4b23-b96b-bdfe70d3aeaa.png",
+      "output": "img/지그제구리_mobility_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "20ca53b4f35a262bc4c059b9cd168e0dd295a2bda97180d47198ba92392ee711",
+      "original_sha256": "9829672c4cb7d9556522ddb744bdd1dede2a8979b9a6ea8ab9587ff36800049c",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-da3b02c4-ac41-455f-b2b9-e55b9853cc80.png"
+      ],
+      "ui_settings": "mobility-ui.json",
+      "submitted_prompt": "mobility.txt",
+      "prompt_sha256": "395845508d60da99fefb8681ada760bd5ab0286a5c42904fd4e770e18b803999",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+    },
+    {
+      "slot": "light_overdrive",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-5fa10027-70b4-44c2-9b22-a958ead1de0c.png",
+      "output": "img/지그제구리_light_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "db78eed695c11a444e2d2662c144cceaec18488d3d3e044b066d8f51d38eddbb",
+      "original_sha256": "e74ae282509d5c6ca2c0a9c34137b186faafc03bcdf505d4e9ab21f0e125704b",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-da3b02c4-ac41-455f-b2b9-e55b9853cc80.png"
+      ],
+      "ui_settings": "light_overdrive-ui.json",
+      "submitted_prompt": "light_overdrive.txt",
+      "prompt_sha256": "68eebbcbcd48a41455ca738fbb0f8a7aa447f0791bf21f966b5d172d4f08e683",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+    },
+    {
+      "slot": "heavy_overdrive",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-8aa3caae-7db3-4780-9714-6c3ae9f7cf51.png",
+      "output": "img/지그제구리_heavy_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "0ac9c4e6909e8561aa2439fbf1e85c7ad73259986ae6e78c4525665e5ce4045b",
+      "original_sha256": "a85d4d13b31ceef9412ac4e3dc0bd258c731a603deb3452c26680b02dde30772",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-6de610b1-707f-47b7-b08a-c5cee043d544.png",
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-da3b02c4-ac41-455f-b2b9-e55b9853cc80.png"
+      ],
+      "ui_settings": "heavy_overdrive-ui.json",
+      "submitted_prompt": "heavy_overdrive.txt",
+      "prompt_sha256": "362dbbb94d2b8501c838831a8d807a7258b1e84bbfd5a082ed2722ec5b46f6f1",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+    },
+    {
+      "slot": "mobility_overdrive",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-f1023cca-8f75-40b4-b604-95eb87f295d6.png",
+      "output": "img/지그제구리_mobility_overdrive_glossy_promo_f.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "fa7830c172a803b1d32e4d34e68696cdc808dc0c69ea35592b378456cf5b58ff",
+      "original_sha256": "a3d0d73f882f6f46c08edc422096bfc6bf8dfe2ad65516669719a8ff5df6597d",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-59855b6c-35b1-4b23-b96b-bdfe70d3aeaa.png",
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-da3b02c4-ac41-455f-b2b9-e55b9853cc80.png"
+      ],
+      "ui_settings": "mobility_overdrive-ui.json",
+      "submitted_prompt": "mobility_overdrive.txt",
+      "prompt_sha256": "3e6168e3d3fc1d955a058fe576c097dc1b313c4b28a629005c25c03a39dafd0e",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+    },
+    {
+      "slot": "casual2",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-b17e601c-a75c-4611-bc54-e74767882b3f.png",
+      "output": "img/지그제구리_glossy_promo_f_casual2.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "a0bfb4e4315d2f42b92923298c1b39af649d23c1e5e39cb9389167b6fac30ce6",
+      "original_sha256": "bc3836bd05ffd32c0f5aa763670b0b0c20a45af9cfec3d66f0aee26efada7ba2",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-da3b02c4-ac41-455f-b2b9-e55b9853cc80.png"
+      ],
+      "ui_settings": "casual2-ui.json",
+      "submitted_prompt": "casual2.txt",
+      "prompt_sha256": "5f7635bfb6727f67a10106935e8032b7fb17e2289ca8308a90cd43799562d861",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+    },
+    {
+      "slot": "casual1",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-7b28393c-5e22-40ac-b8ee-9817c69ac895.png",
+      "output": "img/지그제구리_glossy_promo_f_casual1.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "45a6c5ccfb34278031963ced6cc7ec47a0bb2e99090fe8256b3e529b1b70741d",
+      "original_sha256": "5e852f1f1ddcbce32372676f69a4ca319e52b1b8ecdaca42496e98fa55e7ab12",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-47aa791f-0135-4b1b-a338-13769c8a2016.png"
+      ],
+      "ui_settings": "casual1-ui.json",
+      "submitted_prompt": "casual1.txt",
+      "prompt_sha256": "582f0738a39e0cf8476d511e865bc6c9799b636e294fb0871ed1c8229cedca22",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable.",
+      "correction_prompt": "casual1-correction.txt",
+      "correction_prompt_sha256": "597fb5a820391c95c6eb835cdf69a0510fea9c02d795830bc77e0d18051f51c7"
+    },
+    {
+      "slot": "casual3",
+      "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-8f956b98-561b-4f11-90df-48eba4ec84f7.png",
+      "output": "img/지그제구리_glossy_promo_f_casual3.webp",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "WEBP",
+      "sha256": "0cdbe70e44ea8396436fb69b9577d3a9599eb8f9fe70496d3e5a1678265844a1",
+      "original_sha256": "ab70aa5d2332426bba0edf16e1b4f4105eaa69ab7f4d787710d176430a80d92a",
+      "references": [
+        "/workspace/scratch/abb1bd8247c5/generated_images/exec-3ede9ba3-dfe0-4542-beff-deb3c8c68511.png"
+      ],
+      "ui_settings": "casual3-ui.json",
+      "submitted_prompt": "casual3.txt",
+      "prompt_sha256": "c5063ca518605b34d7c26dfe28fa69b2a03915e8ed20b38133fcc4e5fd86f36b",
+      "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable.",
+      "correction_prompt": "casual3-correction.txt",
+      "correction_prompt_sha256": "7bf6a6bb076a89409a0d0225e73fafa4f613d5b9ef695243ac04a52d9bccc73b"
+    }
+  ],
+  "plan": {
+    "card": "지그제구리",
+    "recent_compared": [
+      "물짱이",
+      "늪짱이",
+      "대짱이",
+      "포챠나",
+      "그라에나"
+    ],
+    "comparison_scope": "Read all 9 recent casual submitted prompts from mudkip/marshtomp/swampert records; reviewed this batch preceding plans.",
+    "changes": "Different location, specific activity, clothing silhouette and camera composition; rotate required categories adult_roleplay / lingerie / swimwear.",
+    "face_reason": "Raccoon rounded small body and compact dark eye mask: balanced oval with soft jaw; close-set narrow eyes framed by thick low brows; balanced human nose and medium lips. Preserve the proposed structure while using zigzag fur in clothing.",
+    "casual_plan": [
+      {
+        "category": "travel_exploration",
+        "expression": "curious",
+        "pose": "checking_map",
+        "orientation": "front_3q",
+        "frame": "three_quarter",
+        "lens": "documentary35",
+        "scene": "In an autumn woodland trail rest shelter at cloudy noon, unfolding a blank illustrated trail map with both hands separated at the lower corners; fallen golden leaves and wooden benches, no lettering.",
+        "outfit": "Opaque cream short-sleeve cropped safari blouse with brown trim and tan high-waisted utility shorts, tiny zigzag belt charm; bare forearms legs and a small midriff.",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      {
+        "category": "swimwear",
+        "expression": "amused",
+        "pose": "standing_relaxed",
+        "orientation": "front",
+        "frame": "full_body",
+        "lens": "portrait85",
+        "scene": "At an empty sandy lakeshore in amber late-afternoon sunlight, standing with both hands separated holding opposite ends of a light folded beach towel at waist height, lake reeds and distant hills.",
+        "outfit": "Opaque brown secure halter bikini with cream zigzag edging and high-waisted full-coverage bottoms, cream open beach shirt draped over upper arms, barefoot, tiny zigzag pendant; fully covered chest and pelvis.",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      },
+      {
+        "category": "hobbies_leisure",
+        "expression": "soft_smile",
+        "pose": "mid_action",
+        "orientation": "side",
+        "frame": "waist_up",
+        "lens": "natural50",
+        "scene": "In a small vintage flea-market stall before opening on a sunny morning, carefully examining a single polished brass compass on a wooden display counter, one hand holds it lightly and the other rests open beside it. Side body turn with natural slight face turn. No lettering.",
+        "outfit": "Opaque warm-brown sleeveless square-neck knitted top and cream flared midi skirt, small zigzag earrings, bare shoulders and arms, narrow waist gap.",
+        "overall_intensity": "strong",
+        "skin_exposure": "bold"
+      }
+    ]
+  },
+  "publication": "pending",
+  "generation": "Built-in image_gen, actual Preact generator UI controls via repository DOM harness",
+  "status": "9/9 complete and visually reviewed; prepared for non-force main publication",
+  "canonical_light": {
+    "slot": "light",
+    "original": "/workspace/scratch/abb1bd8247c5/generated_images/exec-da3b02c4-ac41-455f-b2b9-e55b9853cc80.png",
+    "output": "img/지그제구리_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "c7ef0202fcba752e46d493dc12086c30a87d34674a70efd394d7f00b88f1e599",
+    "original_sha256": "83241d4475d177d2656790ecca62a97eb1911cbeefbdbc73d8730b94c0a8542b",
+    "references": [],
+    "ui_settings": "light-ui.json",
+    "submitted_prompt": "light.txt",
+    "prompt_sha256": "1b2ad253ab250a38a0ecd966db9d4056a00d0ebbd7e89182c26bd52eec6ce77a",
+    "visual_review": "Full image reviewed: adult identity, face, hand anatomy, framing, armor variation, and same-pose opening where applicable."
+  },
+  "face_compared": [
+    "물짱이",
+    "늪짱이",
+    "대짱이",
+    "포챠나",
+    "그라에나"
+  ],
+  "face_review": "Soft oval, narrower close-set horizontal eyes and lower fuller eyebrows; compared to Poochyena and Mightyena without hair being the only difference.",
+  "review_notes": [
+    "casual1: remove any tiny letter-like map labels while preserving illustrated paths, terrain and hands.",
+    "casual3: remove generated stall tag lettering and compass letters."
+  ],
+  "recovery": "Canonical light and all 9 final WebP images are included in this character commit; original PNG local paths are provenance, not durability claims.",
+  "publication_method": "Connected GitHub commit and non-force fast-forward main update using expected current head; command-line Git push has no write credential in this environment."
+}
