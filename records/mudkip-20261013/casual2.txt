@@ -1,0 +1,25 @@
+CHARACTER: the same woman as the attached image — Mudkip (물짱이) personified, water type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: faint upward pull at the mouth corners, lips together, warmth reaching the lower eyelids
+Pose: Raise one hand near shoulder height in a friendly small wave.
+Orientation: torso and pelvis face the camera; gaze is independent
+Scene: At an empty aquarium evening-event entrance, giving a small welcoming wave with the right hand; left hand relaxed open by her thigh. Blue glass tank glow and warm spotlights, clean floor, no guests or readable signs.
+Outfit and props: Adult aquarium-host event fashion: opaque cobalt halter mini dress with orange piping, open shoulders and back, softly flared skirt, white low-heeled sandals, tiny fin brooch; chest and pelvis fully covered.
+Category: Create playful adult event fashion inspired by occupation or roleplay motifs. It must read as a costume made for a stage presentation or themed event, not as an authentic workplace uniform. Use original colours and decorative details — no real institutional insignia, no weapons, no tactical gear. Describe the costume by its tailoring, trim, and props, and show a believable styling or preparation action.
+Note: Same clearly adult woman as the light reference. Remove all armor, fin crest, large gill ornaments and waist tails; species appears only in the tiny pendant.
+Framing: Full-body framing: keep the complete head, hands and feet inside the frame with restrained margins.
+Lens / perspective: 135mm-equivalent telephoto perspective from farther away, with compressed background depth and unchanged anatomy.
+Camera: 1024x1536 vertical. Full head-to-toe portrait including both complete hands and sandals, eye-level telephoto.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

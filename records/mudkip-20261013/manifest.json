@@ -1,0 +1,173 @@
+[
+  {
+    "card": "물짱이",
+    "slot": "light",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+    "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-c9d3e0dc-9348-44e5-a3cb-4c61fa17f4ad.png",
+    "original_sha256": "ab76b3b4d4f77b60a388a1684d144bd5799f5a466e76aaface0968c00461e89b",
+    "output": "img/물짱이_light_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "6d9ddd704400fc290691f2086819d7982cc38eadbca4738a77a71705e2187c55",
+    "reference": null,
+    "submitted_prompt": "light.txt",
+    "prompt_sha256": "1592b8e8b02354d3826a6ad6a62dafc29ab8e99d40a1bc9f4dbd419807283eab"
+  },
+  {
+    "card": "물짱이",
+    "slot": "heavy",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+    "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-1c50ea39-39d3-4ae6-8dd9-d551fbf9056a.png",
+    "original_sha256": "acd101d38cabfa14d8ec070a0e9bda26e90cb4c5eca0ef30c501e4ca10701828",
+    "output": "img/물짱이_heavy_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "c6e1dac149c09391f6427dbe312ac8ee529b8a2d547647bd48954071f5d62c9c",
+    "reference": "img/물짱이_light_glossy_promo_f.webp",
+    "submitted_prompt": "heavy.txt",
+    "prompt_sha256": "a0ba539c3fbbce63b443efaca8133b6fb2e0568f0cd7d8ad37b726ca6be4a3f5"
+  },
+  {
+    "card": "물짱이",
+    "slot": "mobility",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+    "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-e6676c20-dd66-461b-bcad-8b2c3f48f193.png",
+    "original_sha256": "b333e8d179331893f65b997e2130a1ea31d14eacd527c0f86d16261cb5e92e09",
+    "output": "img/물짱이_mobility_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "a4b4f94339e8a746e616a261ec9ecd983a685bcae4da57f70a3b80e8ec85e1da",
+    "reference": "img/물짱이_light_glossy_promo_f.webp",
+    "submitted_prompt": "mobility.txt",
+    "prompt_sha256": "41bf2daa023d1ef44fc2b83447de7ef52e33580dc86a4e2244ededd3d5b9d655"
+  },
+  {
+    "card": "물짱이",
+    "slot": "light_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+    "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-930cab6f-84d7-4800-9d86-737b1cf519fe.png",
+    "original_sha256": "ef21cb9ef44438238541514f28d562eff362cddd75d9fa62137f210ff063d12e",
+    "output": "img/물짱이_light_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "9dffc3fb2b737828cfbf9bc9ccbe99078b31eabff45548971423525a054a7477",
+    "reference": "img/물짱이_light_glossy_promo_f.webp",
+    "submitted_prompt": "light_overdrive.txt",
+    "prompt_sha256": "add7e2981edb35172b612bede4ea78ed48132c8cea3f59caa8ccea98f0545db3"
+  },
+  {
+    "card": "물짱이",
+    "slot": "heavy_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+    "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-ba8bde59-120a-41b4-967f-35a24a35c3ca.png",
+    "original_sha256": "4f8d856eddb321449f84e45ee98e7e0a2329baeffba770df4c6eb9f06808030e",
+    "output": "img/물짱이_heavy_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "6532fbd3a01a6b3d11f94a2b8f744c9b171bebec910a12f63cd3c9f3433547ec",
+    "reference": "img/물짱이_heavy_glossy_promo_f.webp",
+    "submitted_prompt": "heavy_overdrive.txt",
+    "prompt_sha256": "4715a6d64744ac0cb77bd3a5371474b931cd62514382de9dfb47c411e0b27a35"
+  },
+  {
+    "card": "물짱이",
+    "slot": "mobility_overdrive",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+    "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-236901d9-42ba-4294-b1da-9320e2d31978.png",
+    "original_sha256": "4e859bccc418dd3d6b9f63780e2435942c7da94c43836feaa85a363ea4a9762b",
+    "output": "img/물짱이_mobility_overdrive_glossy_promo_f.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "42cdccd591e53583b10c9407fb762812e999f84e11e019ddedbce6a79e52d769",
+    "reference": "img/물짱이_mobility_glossy_promo_f.webp",
+    "submitted_prompt": "mobility_overdrive.txt",
+    "prompt_sha256": "2fb20124ae338b904e2cf07d83de7b45de1c612d3fb32c7bf9fd2c41251e9006"
+  },
+  {
+    "card": "물짱이",
+    "slot": "casual1",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+    "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-99058c77-b6ff-488a-b595-c53d5002c8d8.png",
+    "original_sha256": "c2cc9571746eafb7071b4d122273872dc023b4d62ab95a89e0f6a7fb81dc8b29",
+    "output": "img/물짱이_glossy_promo_f_casual1.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "1ab82f6769749f284ae91f02479b2df1fd8a737743caaf7895abb30045bc6d21",
+    "reference": "img/물짱이_light_glossy_promo_f.webp",
+    "submitted_prompt": "casual1.txt",
+    "prompt_sha256": "a61771e7cf6c63b08586c2c276939cee1b119f82a6a64c40596ec218332a8f4d"
+  },
+  {
+    "card": "물짱이",
+    "slot": "casual2",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+    "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-e0c2fb59-c0ad-475e-8f86-335f28eebde7.png",
+    "original_sha256": "a0251fbcf32e6de16096be49d692ccf9d78aec4ffdb69b2c82f3fb158336d55f",
+    "output": "img/물짱이_glossy_promo_f_casual2.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "47b7ab1f3c47c6f78585a248e98c66431734f830509843f69e95f58ec5d1c235",
+    "reference": "img/물짱이_light_glossy_promo_f.webp",
+    "submitted_prompt": "casual2.txt",
+    "prompt_sha256": "8fb42bb7842942b5d510d13dc4532a5f4355c655db110794b17641494f8c9916"
+  },
+  {
+    "card": "물짱이",
+    "slot": "casual3",
+    "style": "glossy_promo",
+    "gender": "f",
+    "basis": "Actual generator UI selections and verbatim output checked; repository engine serializes identical prompt; built-in image_gen",
+    "original": "/workspace/scratch/c31ac2bef88a/generated_images/exec-f64146b5-323d-4f03-97de-dbf1b68a10da.png",
+    "original_sha256": "e2c9ff21f126892fa6822e5a141873baaa73e62f4491261d81f4dfe0ad42458d",
+    "output": "img/물짱이_glossy_promo_f_casual3.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "WEBP",
+    "sha256": "54e381b32d22bee9e9bb0c0f51118674acebd9e49ca7f4445f3919e0d1401c5b",
+    "reference": "img/물짱이_light_glossy_promo_f.webp",
+    "submitted_prompt": "casual3.txt",
+    "prompt_sha256": "3153d0e6893fcfb79ea4ecb6ef9f664af72c028d4590a945235b1b6274f5546f"
+  }
+]

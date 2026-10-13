@@ -1,0 +1,25 @@
+CHARACTER: the same woman as the attached image — Mudkip (물짱이) personified, water type. Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.
+
+STYLE: Premium glossy anime promotional key art with clean linework, vivid controlled color, dimensional 2.5D shading and dense but organized clothing and accessory detail. Render the face and outfit at the same polished intensity.
+
+OUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her species shows only as a small accessory, a motif on the clothing or a color echo — never armor, never a creature costume. Scene, outfit, pose and camera follow the settings below.
+
+SCENE (chosen):
+Expression: crinkled lower eyelids, closed-lip smile pushing the cheeks up, brows relaxed
+Pose: Carry the scene's bag, basket or box with believable hand contact and weight.
+Orientation: side body profile, approximately 90 degrees to camera
+Scene: In a small quiet paper-and-stationery shop at late afternoon, selecting two folded sheets of colored paper for making boats; hold them lightly at waist height with separated hands and readable fingers. Warm window light, shelves with blank unlettered paper boxes, no other people.
+Outfit and props: Opaque white sleeveless boat-neck blouse knotted at the waist, orange high-waisted A-line short skirt, light blue scarf tied to a wrist, simple sandals; bare arms and legs, tiny fin-shaped stud earrings.
+Category: Show a personal hobby or restful leisure moment with a specific action and relevant objects. Pokémon motifs may appear naturally in the activity, without requiring armor, a uniform or a companion.
+Note: Same clearly adult woman as the light reference. Remove all armor, fin crest, large gill ornaments and waist tails; species appears only in the tiny pendant.
+Framing: Three-quarter portrait framing from the head to just above the knees, with the scene's hand action readable.
+Lens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.
+Camera: 1024x1536 vertical, knee-up side-view body with face turned toward camera enough to identify her; both complete hands and paper in crop.
+overall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy
+skin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis
+
+ONE FIGURE ONLY. No second character, no creature beside her, no text, no lettering, no logo, no watermark, no speech bubble, no frame border.
+
+ANATOMY: natural adult proportions. No body-part enlargement, no extra limbs; her worn features are costume, never extra limbs.
+
+HANDS: each hand has one thumb and four fingers of natural length, clearly separated, never merged, doubled or extra.

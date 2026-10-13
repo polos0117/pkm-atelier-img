@@ -1,0 +1,18 @@
+{
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "adult_roleplay",
+  "expr": "soft_smile",
+  "pose": "waving",
+  "orient": "front",
+  "frame": "full_body",
+  "lens": "telephoto135",
+  "scene": "At an empty aquarium evening-event entrance, giving a small welcoming wave with the right hand; left hand relaxed open by her thigh. Blue glass tank glow and warm spotlights, clean floor, no guests or readable signs.",
+  "outfit": "Adult aquarium-host event fashion: opaque cobalt halter mini dress with orange piping, open shoulders and back, softly flared skirt, white low-heeled sandals, tiny fin brooch; chest and pelvis fully covered.",
+  "camera": "1024x1536 vertical. Full head-to-toe portrait including both complete hands and sandals, eye-level telephoto.",
+  "custom": "Same clearly adult woman as the light reference. Remove all armor, fin crest, large gill ornaments and waist tails; species appears only in the tiny pendant.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}

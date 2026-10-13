@@ -1,0 +1,18 @@
+{
+  "outputMode": "casual",
+  "identityMode": "reference",
+  "cat": "hobbies_leisure",
+  "expr": "amused",
+  "pose": "carrying_something",
+  "orient": "side",
+  "frame": "three_quarter",
+  "lens": "documentary35",
+  "scene": "In a small quiet paper-and-stationery shop at late afternoon, selecting two folded sheets of colored paper for making boats; hold them lightly at waist height with separated hands and readable fingers. Warm window light, shelves with blank unlettered paper boxes, no other people.",
+  "outfit": "Opaque white sleeveless boat-neck blouse knotted at the waist, orange high-waisted A-line short skirt, light blue scarf tied to a wrist, simple sandals; bare arms and legs, tiny fin-shaped stud earrings.",
+  "camera": "1024x1536 vertical, knee-up side-view body with face turned toward camera enough to identify her; both complete hands and paper in crop.",
+  "custom": "Same clearly adult woman as the light reference. Remove all armor, fin crest, large gill ornaments and waist tails; species appears only in the tiny pendant.",
+  "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold"
+  }
+}
