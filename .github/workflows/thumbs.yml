@@ -43,6 +43,9 @@ jobs:
         run: pip install --quiet Pillow
 
       - name: 썸네일
+        id: thumbs
+        # 열리지 않는 그림이 있으면 도구는 나머지를 다 만들고 2 로 끝난다 — 되커밋까지 가고, 맨 끝 단계가 실행을 빨갛게 남긴다
+        continue-on-error: true
         # img/ 를 읽고 img/thumb/ 에 쓴다. 이미 있고 원본보다 새 것이면 건너뛴다
         run: python3 code/tools/make-thumbs.py
 
@@ -82,3 +85,10 @@ jobs:
             https://api.github.com/repos/polos0117/pkm-atelier/dispatches \
             -d '{"event_type":"images-updated"}'
           echo "깨웠다 — pkm-atelier 의 그림 등록 이 곧 돈다"
+
+      # 썸네일 단계에서 열리지 않는 그림이 있었으면 여기서 실패로 남긴다(2026-10-27 — 0바이트 하나에 그 뒤 실행이 다 멈췄었다)
+      - name: 열리지 않는 그림
+        if: ${{ steps.thumbs.outcome == 'failure' }}
+        run: |
+          echo "::error::썸네일 단계에서 열리지 않는 그림이 있었다 — 그 단계의 ::error:: 에 적힌 그림을 다시 올린다(나머지 썸네일은 되커밋했다)"
+          exit 1
